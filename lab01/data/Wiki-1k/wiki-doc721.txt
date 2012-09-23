@@ -1,0 +1,431 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Earth leakage circuit breaker
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   "ELCB" redirects here. For the company formerly known as ELCB, see
+   [8]East Lancashire Coachbuilders.
+
+   An Earth Leakage Circuit Breaker (ELCB) is a safety device used in
+   electrical installations with high [9]earth impedance to prevent shock.
+
+Contents
+
+     * [10]1 Purpose
+     * [11]2 History
+          + [12]2.1 Types
+          + [13]2.2 Connection
+          + [14]2.3 Operation
+     * [15]3 Advantages
+     * [16]4 Disadvantages
+          + [17]4.1 Earth bypassing
+          + [18]4.2 Nuisance trips
+          + [19]4.3 Failure to respond
+     * [20]5 See also
+
+[[21]edit] Purpose
+
+   Many electrical installations have a relatively high [22]earth
+   impedance. This may be due to the use of a local earth rod ([23]TT
+   systems), or to dry local ground conditions.
+
+   These installations are [24]dangerous and a safety [25]risk if a live
+   to earth fault [26]current flows. Because earth impedance is high,
+    1. not enough current exists to trip a [27]fuse or [28]circuit
+       breaker, so the condition persists uncleared indefinitely
+    2. the high impedance earth cannot keep the voltage of all exposed
+       metal to a safe voltage, all such metalwork may rise to close to
+       live conductor voltage.
+
+   These dangers can be drastically reduced by the use of an ELCB or
+   [29]Residual-current device (RCD).
+
+   The ELCB makes such installations much safer by cutting the power if
+   these dangerous conditions occur. This approach to electrical safety is
+   called [30]EEBAD. In Britain EEBAD domestic installations became
+   standard in the 1950s.
+
+   In non-technical terms if a person touches something, typically a metal
+   part on faulty electrical equipment, which is at a significant voltage
+   relative to the earth, electrical current will flow through him/her to
+   the earth. The current that flows is too small to trip an electrical
+   fuse which could disconnect the electricity supply, but can be enough
+   to kill. An ELCB detects even a small current to earth (Earth Leakage)
+   and disconnects the equipment (Circuit Breaker).
+
+[[31]edit] History
+
+   ELCBs were mainly used on [32]TT earthing systems. Nowadays, ELCBs have
+   been mostly replaced by [33]Residual-current devices (RCDs). However
+   many ELCBs are still in use.
+
+   Early ELCBs responded to [34]sinewave fault currents, but not to
+   [35]rectified fault current. Over time, filtering against nuisance
+   trips has also improved. Early ELCBs thus offer a little less safety
+   and higher risk of nuisance trip. The ability to distinguish between a
+   fault condition and non-risk conditions is called discrimination.
+
+   ELCB manufacturers include: Legrand, [36]ABB, [37]Siemens AG, [38]Areva
+   T&D, TELEMECANIQUE, Orion Italia, Crabtree, MEM.
+
+[[39]edit] Types
+
+   There are two types of ELCB:
+     * [40]voltage operated and,
+     * [41]current operated.
+
+   Voltage-operated ELCBs were introduced in the early 20th century, and
+   provided a major advance in safety for mains electrical supplies with
+   inadequate [42]earth impedance. v-ELCBs have been in widespread use
+   since then, and many are still in operation.
+
+   Current-operated ELCBs are generally known today as [43]RCDs (residual
+   current device). These also protect against [44]earth leakage, though
+   the details and method of operation are different.
+
+   When the term ELCB is used it usually means a voltage-operated device.
+   Similar devices that are current operated are called
+   [45]Residual-current devices.
+
+[[46]edit] Connection
+
+   The [47]earth circuit is modified when an ELCB is used; the connection
+   to the [48]earth rod is passed through the ELCB by connecting to its
+   two earth terminals. One terminal goes to the installation earth CPC
+   (circuit protective conductor, aka earth wire), and the other to the
+   [49]earth rod (or sometimes other type of earth connection). Thus the
+   earth circuit passes through the ELCB's sense coil.
+
+[[50]edit] Operation
+
+   An ELCB is a specialised type of latching [51]relay that has a
+   building's incoming mains power connected through its [52]switching
+   contacts so that the ELCB disconnects the power in an earth leakage
+   (unsafe) condition.
+
+   The ELCB detects [53]fault currents from live (hot) to the earth
+   (ground) [54]wire within the installation it protects. If sufficient
+   [55]voltage appears across the ELCB's sense coil, it will switch off
+   the [56]power, and remain off until manually reset. An ELCB however,
+   does not sense [57]fault currents from live to any other earthed
+   [58]body.
+
+[[59]edit] Advantages
+
+   ELCBs have one advantage over RCDs: they are less sensitive to fault
+   conditions, therefore they have less nuisance trips. (This does not
+   mean they always do, as practical performance depends on installation
+   details and the discrimination enhancing filtering in the ELCB.)
+   Therefore by electrically separating cable armour from cable CPC, an
+   ELCB can be arranged to protect against cable damage only, and not trip
+   on faults in downline installations.
+
+[[60]edit] Disadvantages
+
+   ELCBs have some disadvantages:
+     * They do not detect faults that don't pass [61]current through the
+       CPC to the [62]earth rod.
+     * They do not allow a single [63]building system to be easily split
+       into multiple sections with independent fault protection, because
+       [64]earthing systems are usually bonded to [65]pipework.
+     * They may be tripped by external voltages from something connected
+       to the earthing system such as metal [66]pipes, a [67]TN-S earth or
+       a TN-C-S combined neutral and earth.
+     * As with RCDs, electrically leaky appliances such as some [68]water
+       heaters, [69]washing machines and [70]cookers may cause the ELCB to
+       trip.
+     * ELCBs introduce additional [71]resistance and an additional point
+       of [72]failure into the [73]earthing system.
+
+[[74]edit] Earth bypassing
+
+   It is not unusual for ELCB protected installation to have a second
+   unintentional connection to earth somewhere, one that does not pass
+   through the ELCB sense coil. This can occur via metal [75]pipework in
+   contact with the ground, [76]metal structural framework, outdoor
+   [77]appliances in contact with [78]soil, and so on.
+
+   When this occurs, fault current may pass to [79]earth without being
+   sensed by the ELCB. Despite this, perhaps counterintuitively, the
+   operation of the ELCB is not compromised. The purpose of the ELCB is to
+   prevent earthed [80]metalwork rising to a dangerous [81]voltage during
+   [82]fault conditions, and the ELCB continues to do this just the same,
+   the ELCB will still cut the power at the same CPC voltage level. (The
+   difference is that higher fault current is then needed to reach this
+   voltage.)
+
+[[83]edit] Nuisance trips
+
+   While voltage and current on the earth line is usually fault current
+   from a live wire, this is not always the case, thus there are
+   situations in which an ELCB can nuisance trip.
+
+   When an installation has two connections to earth, a nearby high
+   current [84]lightning strike will cause a voltage gradient in the soil,
+   presenting the ELCB sense coil with enough voltage to cause it to trip.
+
+   If the installation's [85]earth rod is placed close to the earth rod of
+   a neighbouring building, a high earth leakage current in the other
+   building can raise the local ground potential and cause a voltage
+   difference across the two earths, again tripping the ELCB. Close
+   [86]earth rods are unsuitable for ELCB use for this reason, but in real
+   life such installations are sometimes encountered.
+
+   Both RCDs and ELCBs are prone to [87]nuisance trips from normal
+   harmless [88]earth leakage to some degree. On one hand ELCBs are on
+   average older, and hence tend to have less well developed filtering
+   against nuisance trips, and on the other hand ELCBs are inherently
+   immune to some of the causes of false trips RCDs suffer, and are
+   generally less sensitive than RCDs. In practice RCD nuisance trips are
+   much more common.
+
+   Another cause of nuisance tripping is due to accumulated or burden
+   currents caused by items with lowered insulation resistance. This may
+   occur due to older equipment, or equipment with heating elements, or
+   even wiring in buildings in the tropics where prolonged damp and rain
+   conditions can cause the insulation resistance to lower due to moisture
+   tracking. If there is a 30 mA protective device in use and there is a
+   10mA burden from various sources then the unit will trip at 20 mA. The
+   individual items may each be electrically safe but a large number of
+   small burden currents accumulates and reduces the tripping level. This
+   was more a problem in past installations where multiple circuits were
+   protected by a single ELCB.
+
+   Heating elements of the tubular form are filled with a very fine powder
+   that can absorb moisture if the element has not be used for some time.
+   In the tropics, this may occur, for example if a clothes drier has not
+   been used for a year or a large water boiler used for coffee etc has
+   been in storage. In such cases, if the unit is allowed to power up
+   without RCD protection then it will normally dry out and successfully
+   pass inspection. This type of problem can be seen even with brand new
+   equipment.
+
+[[89]edit] Failure to respond
+
+   Some ELCBs do not respond to rectified fault current. This issue is the
+   same in principle with ELCBs and RCDs, but ELCBs are on average much
+   older and specs have improved considerably over the years, so an old
+   ELCB is more likely to have some uncommon fault current waveform that
+   it will not respond to.
+
+   With any mechanical device, failures occur, and ELCBs should ideally be
+   tested periodically to ensure they still work.
+
+   If either of the earth wires become disconnected from the ELCB, it will
+   no longer trip and the installation will often no longer be properly
+   earthed.
+
+[[90]edit] See also
+
+     * [91]Residual current device
+     * [92]Earthing system
+
+   Retrieved from
+   "[93]http://en.wikipedia.org/wiki/Earth_leakage_circuit_breaker"
+   [94]Categories: [95]Electricity distribution | [96]Power components |
+   [97]Safety switches
+
+Views
+
+     * [98]Article
+     * [99]Discussion
+     * [100]Edit this page
+     * [101]History
+
+Personal tools
+
+     * [102]Log in / create account
+
+Navigation
+
+     * [103]Main page
+     * [104]Contents
+     * [105]Featured content
+     * [106]Current events
+     * [107]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [108]About Wikipedia
+     * [109]Community portal
+     * [110]Recent changes
+     * [111]Contact Wikipedia
+     * [112]Donate to Wikipedia
+     * [113]Help
+
+Toolbox
+
+     * [114]What links here
+     * [115]Related changes
+     * [116]Upload file
+     * [117]Special pages
+     * [118]Printable version
+     * [119]Permanent link
+     * [120]Cite this page
+
+Languages
+
+     *
+     * [121]Ting Vit
+
+   [122]Powered by MediaWiki
+   [123]Wikimedia Foundation
+     * This page was last modified on 11 February 2009, at 17:53.
+     * All text is available under the terms of the [124]GNU Free
+       Documentation License. (See [125]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [126]Wikimedia
+       Foundation, Inc., a U.S. registered [127]501(c)(3)
+       [128]tax-deductible [129]nonprofit [130]charity.
+     * [131]Privacy policy
+     * [132]About Wikipedia
+     * [133]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Earth_leakage_circuit_breaker&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#searchInput
+   8. file://localhost/wiki/East_Lancashire_Coachbuilders
+   9. file://localhost/wiki/Earthing_system
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Purpose
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#History
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Types
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Connection
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Operation
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Advantages
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Disadvantages
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Earth_bypassing
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Nuisance_trips
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#Failure_to_respond
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc721.tmp.html#See_also
+  21. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=1
+  22. file://localhost/wiki/Earthing_system
+  23. file://localhost/wiki/Earthing_system
+  24. file://localhost/wiki/Danger
+  25. file://localhost/wiki/Risk
+  26. file://localhost/wiki/Electric_current
+  27. file://localhost/wiki/Fuse_(electrical)
+  28. file://localhost/wiki/Circuit_breaker
+  29. file://localhost/wiki/Residual-current_device
+  30. file://localhost/wiki/Earthing_system
+  31. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=2
+  32. file://localhost/wiki/Earthing_system
+  33. file://localhost/wiki/Residual-current_device
+  34. file://localhost/wiki/Sinewave
+  35. file://localhost/wiki/Rectifier
+  36. file://localhost/wiki/Asea_Brown_Boveri
+  37. file://localhost/wiki/Siemens_AG
+  38. file://localhost/wiki/Areva
+  39. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=3
+  40. file://localhost/wiki/Voltage
+  41. file://localhost/wiki/Current
+  42. file://localhost/wiki/Earthing_system
+  43. file://localhost/wiki/Residual-current_device
+  44. file://localhost/wiki/Earthing_system
+  45. file://localhost/wiki/Residual-current_device
+  46. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=4
+  47. file://localhost/wiki/Earthing_system
+  48. file://localhost/wiki/Earthing
+  49. file://localhost/wiki/Earthing_system
+  50. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=5
+  51. file://localhost/wiki/Relay
+  52. file://localhost/wiki/Relay
+  53. file://localhost/wiki/Fault_current
+  54. file://localhost/wiki/Cable
+  55. file://localhost/wiki/Voltage
+  56. file://localhost/wiki/Electric_power
+  57. file://localhost/wiki/Fault
+  58. file://localhost/wiki/Body
+  59. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=6
+  60. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=7
+  61. file://localhost/wiki/Current
+  62. file://localhost/wiki/Earthing_system
+  63. file://localhost/wiki/Building
+  64. file://localhost/wiki/Earthing_system
+  65. file://localhost/wiki/Pipe
+  66. file://localhost/wiki/Pipe
+  67. file://localhost/wiki/TN-S
+  68. file://localhost/wiki/Water_heater
+  69. file://localhost/wiki/Washing_machine
+  70. file://localhost/wiki/Cooker
+  71. file://localhost/wiki/Resistor
+  72. file://localhost/wiki/Failure
+  73. file://localhost/wiki/Earthing_system
+  74. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=8
+  75. file://localhost/wiki/Pipe
+  76. file://localhost/wiki/Metal
+  77. file://localhost/wiki/Appliance
+  78. file://localhost/wiki/Soil
+  79. file://localhost/wiki/Earthing_system
+  80. file://localhost/wiki/Metalwork
+  81. file://localhost/wiki/Voltage
+  82. file://localhost/wiki/Fault
+  83. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=9
+  84. file://localhost/wiki/Lightning
+  85. file://localhost/wiki/Earthing_system
+  86. file://localhost/wiki/Earthing_system
+  87. file://localhost/wiki/Nuisance
+  88. file://localhost/wiki/Earthing_system
+  89. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=10
+  90. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit&section=11
+  91. file://localhost/wiki/Residual_current_device
+  92. file://localhost/wiki/Earthing_system
+  93. http://en.wikipedia.org/wiki/Earth_leakage_circuit_breaker
+  94. file://localhost/wiki/Special:Categories
+  95. file://localhost/wiki/Category:Electricity_distribution
+  96. file://localhost/wiki/Category:Power_components
+  97. file://localhost/wiki/Category:Safety_switches
+  98. file://localhost/wiki/Earth_leakage_circuit_breaker
+  99. file://localhost/wiki/Talk:Earth_leakage_circuit_breaker
+ 100. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=edit
+ 101. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&action=history
+ 102. file://localhost/w/index.php?title=Special:UserLogin&returnto=Earth_leakage_circuit_breaker
+ 103. file://localhost/wiki/Main_Page
+ 104. file://localhost/wiki/Portal:Contents
+ 105. file://localhost/wiki/Portal:Featured_content
+ 106. file://localhost/wiki/Portal:Current_events
+ 107. file://localhost/wiki/Special:Random
+ 108. file://localhost/wiki/Wikipedia:About
+ 109. file://localhost/wiki/Wikipedia:Community_portal
+ 110. file://localhost/wiki/Special:RecentChanges
+ 111. file://localhost/wiki/Wikipedia:Contact_us
+ 112. http://wikimediafoundation.org/wiki/Donate
+ 113. file://localhost/wiki/Help:Contents
+ 114. file://localhost/wiki/Special:WhatLinksHere/Earth_leakage_circuit_breaker
+ 115. file://localhost/wiki/Special:RecentChangesLinked/Earth_leakage_circuit_breaker
+ 116. file://localhost/wiki/Wikipedia:Upload
+ 117. file://localhost/wiki/Special:SpecialPages
+ 118. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&printable=yes
+ 119. file://localhost/w/index.php?title=Earth_leakage_circuit_breaker&oldid=270040148
+ 120. file://localhost/w/index.php?title=Special:Cite&page=Earth_leakage_circuit_breaker&id=270040148
+ 121. http://vi.wikipedia.org/wiki/C%E1%BA%A7u_dao_ch%E1%BB%91ng_r%C3%B2_%C4%91i%E1%BB%87n_%C4%91%E1%BA%A5t
+ 122. http://www.mediawiki.org/
+ 123. http://wikimediafoundation.org/
+ 124. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 125. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 126. http://www.wikimediafoundation.org/
+ 127. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 128. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 129. http://en.wikipedia.org/wiki/Non-profit_organization
+ 130. http://en.wikipedia.org/wiki/Charitable_organization
+ 131. http://wikimediafoundation.org/wiki/Privacy_policy
+ 132. file://localhost/wiki/Wikipedia:About
+ 133. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 134. file://localhost/wiki/File:ELCB_Panasonic_30A_type_2P2E.jpg
+ 135. file://localhost/wiki/File:ELCB_Panasonic_30A_type_2P2E.jpg
+ 136. file://localhost/wiki/Main_Page
+ 137. http://ja.wikipedia.org/wiki/%E9%85%8D%E7%B7%9A%E7%94%A8%E9%81%AE%E6%96%AD%E5%99%A8#.E6.BC.8F.E9.9B.BB.E9.81.AE.E6.96.AD.E5.99.A8

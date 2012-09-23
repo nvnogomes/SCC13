@@ -1,0 +1,1490 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dragon Quest
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dragon Quest (manga))
+   Jump to: [7]navigation, [8]search
+   For the video game, see [9]Dragon Warrior. For other uses, see
+   [10]Dragon Quest (disambiguation).
+   Dragon Quest
+   [11]Genre(s) [12]Console role-playing game
+   [13]Developer(s) [14]Armor Project, [15]Chunsoft, [16]Heartbeat,
+   [17]Level-5, [18]ArtePiazza (remakes)
+   [19]Publisher(s) [20]Square Enix (formerly [21]Enix)
+   [22]Creator(s) [23]Yji Horii, [24]Akira Toriyama, [25]Koichi Sugiyama
+   Website [26]http://www.square-enix.co.jp/dragonquest/
+
+   Dragon Quest ( ,Doragon Kuesuto^[27]?), published as Dragon Warrior in
+   North America until the 2005 release of [28]Dragon Quest VIII: Journey
+   of the Cursed King, is a series of [29]role-playing games created by
+   [30]Yji Horii and published by [31]Square Enix (formerly [32]Enix).
+   Installments of the series have appeared on [33]MSX computers,
+   [34]Famicom/NES, [35]Super Famicom/Super NES, [36]Game Boy Color,
+   [37]Game Boy Advance, [38]Nintendo DS, [39]PlayStation, [40]PlayStation
+   2 and [41]Wii [42]video game consoles, as well as on several models of
+   [43]mobile phone. As of February 2009, the Dragon Quest series has sold
+   nearly 45 million units worldwide.^[44][1]^[45][2] It is Square Enix's
+   second most successful franchise and is one of the most popular video
+   game franchises in Japan.^[46][3]^[47][4]
+
+   Dragon Quest's North American name was changed due to a trademark
+   conflict with the [48]role-playing game [49]DragonQuest, which was
+   published by veteran wargame publisher [50]SPI in the 1980s until the
+   company's [51]bankruptcy in 1982 and purchase by [52]TSR, which then
+   published it as an alternate line to [53]Dungeons & Dragons until
+   1987.^[54][5] In 2003, Square Enix registered the Dragon Quest
+   [55]trademark in the US, making the Dragon Warrior name obsolete.
+
+Contents
+
+     * [56]1 Development
+          + [57]1.1 History
+          + [58]1.2 Creation and design
+     * [59]2 Games
+          + [60]2.1 Main series
+          + [61]2.2 Spin-offs
+     * [62]3 Common elements
+          + [63]3.1 Gameplay
+          + [64]3.2 Monsters
+          + [65]3.3 Loto/Erdrick
+          + [66]3.4 Zenithia
+     * [67]4 Music
+     * [68]5 Manga and anime
+     * [69]6 Reception
+     * [70]7 Notes
+     * [71]8 External links
+
+[[72]edit] Development
+
+[[73]edit] History
+
+   In 1982, Enix sponsored a national video game programming contest,
+   which brought much of the Dragon Quest team together, including Yji
+   Horii.^[74][6] The prize of the competition was a trip to the United
+   States, and a visit to AppleFest '83 in San Francisco, where Horii
+   discovered Wizardry.^[75][7] Koichi Nakamura and Yukinobu Chida, two
+   other winners of the contest, along with Horii, released [76]The
+   Portopia Serial Murder Case for the Famicom for Enix. Sugiyama, already
+   famous for jingles and pop songs, impressed with the group's work, sent
+   a postcard to Enix, commenting on the software.^[77][8] In response,
+   Enix asked him to write music for some of its games. The group then
+   decided to make a [78]console role-playing game, using a combination of
+   Wizardry and Ultima. [79]Dragon Ball creator Akira Toriyama, who knew
+   Horii through the manga magazine [80]Shonen Jump, was commissioned to
+   illustrate the characters and monsters to separate the game from other
+   RPGs of the time and the Dragon Quest "team" was born.^[81][9]^[82][10]
+
+   Dragon Quest was created by [83]Yji Horii, who has been the scenario
+   director since. The series monster and character designs, as well as
+   box art, are done by famed [84]Dragon Ball [85]manga artist, [86]Akira
+   Toriyama.^[87][11] All of the [88]music for the Dragon Quest series has
+   been composed by [89]Koichi Sugiyama.^[90][6] Dragon Quest games have
+   been developed by [91]Chunsoft, [92]Heartbeat, [93]Artepiazza, and
+   starting with Dragon Quest VIII, [94]Level-5.^[95][12] Horii's own
+   company, [96]Armor Project, is in charge of the Dragon Quest games,
+   which were published by Enix and now Square Enix. While Toriyama is the
+   series' character designer, the primary designs are first conceived by
+   Horii, before being handed to Toriyama to re-draw under Horii's
+   supervision.^[97][13] When Horii first created Dragon Quest, most
+   people doubted that a fantasy series with swords and dungeons instead
+   of science fiction would become popular in Japan; but the series has
+   become a phenomenon there.^[98][14]
+
+   Dragon Quest is not nearly as successful outside Japan, having been
+   eclipsed by [99]Final Fantasy and other RPG series. Because of
+   [100]Enix America Corporation's closure in the mid 1990's, [101]Dragon
+   Quest V and [102]Dragon Quest VI were never officially released in
+   North America. In Europe, none of the games have seen release prior to
+   the spin-off [103]Dragon Warrior Monsters then [104]Dragon Quest VIII:
+   Journey of the Cursed King. With the merger of Square with Enix in
+   2003, the number of places that Dragon Quest games are released has
+   greatly increased.^[105][14] In May 2008, Square Enix announced
+   localizations of the Nintendo DS remakes of Dragon Quest IV, V, and VI,
+   known collectively as the Zenithia trilogy, for North America and the
+   PAL region.^[106][15]^[107][16] With this announcement, all the main
+   games in the Dragon Quest series will now have seen release outside
+   Japan at least once.
+
+   The ninth installment is due to be released in Japan for Nintendo DS in
+   July 2009. North American and European and other PAL region releases
+   are suspected to follow. The tenth installment of the main series is
+   currently in development for the Wii.
+
+[[108]edit] Creation and design
+
+     At the time I first made Dragon Quest, role-playing games on the
+     computer were still very much in the realm of hardcore fans and not
+     very accessible to other players. So I decided to create a system
+     that was easy to understand and emotionally involving, and then
+     placed my story within that framework.
+
+     [109]Yji Horii^[110][9]
+
+   [111]Yji Horii originally used the full-screen map of Ultima and the
+   battle and stats oriented Wizardry screen to create the gameplay of
+   Dragon Quest.^[112][7] The first six Dragon Quest games' stories are
+   divided into two [113]trilogies. The first three games of the series
+   tell the story of the legendary hero known as [114]Roto (also known as
+   Erdrick or Loto in the American NES and GBC versions, respectively).
+   Dragon Quest IV-VI are based around a castle in the sky called
+   [115]Zenithia, and are referred to as the Tenku in Japan, meaning
+   [116]Heaven. The main series from [117]Dragon Quest VII on are
+   independent of each other and stand alone.^[118][17]
+
+   The typical Dragon Quest plot involves a certain villain to be defeated
+   at the end of the game, usually one who threatens the world in some
+   way. However, the plotline often consists of smaller stories involving
+   different NPC's the player meets as the adventure goes on.^[119][18]
+   The games themselves feature a number of religious overtones--saving
+   the game (in later games) and reviving characters who have died is
+   performed by clergy in churches. [120]Bishops are often seen wandering
+   around the overworld of [121]Dragon Warrior Monsters and have the
+   ability to heal. The final enemy in some of the Dragon Quest games is
+   known as the Demon Lord. For instance, in [122]Dragon Warrior VII, the
+   Demon Lord, known as Orgodemir in that particular game, is the final
+   [123]boss, and there is also a [124]sidequest to battle God
+   himself.^[125][10] The first four Dragon Warrior titles suffered from
+   substantial [126]censorship in their North American localizations,
+   largely in keeping with [127]Nintendo of America's content guidelines
+   at the time, which placed severe restrictions on religious iconography
+   and mature content. When these games were remade for the [128]Game Boy
+   Color, many of these censorships were taken out.^[129][19] Since Dragon
+   Warrior VII, the games have been kept similar to their original
+   versions when going through localization.^[130][20]
+
+[[131]edit] Games
+
+[[132]edit] Main series
+
+   Title
+   (followed by original title) Platforms of release
+   In Japan In North America In the PAL region
+   [133]Dragon Warrior
+   Dragon Quest [134]Famicom (1986), [135]MSX (1986), [136]Super Famicom
+   (1993), [137]Game Boy Color (1999), [138]Satellaview (1998),
+   [139]Mobile phone (2004) NES (1989), Game Boy Color (2000) none
+   [140]Dragon Warrior II
+   Dragon Quest II: Akuryo no Kamigami Famicom (1987), MSX (1987), Super
+   Famicom (1993), Game Boy Color (1999), Mobile phone (2008) NES (1990),
+   Game Boy Color (2000) none
+   [141]Dragon Warrior III
+   Dragon Quest III: Soshite Densetsu e Famicom (1988), Super Famicom
+   (1996), Game Boy Color (2000) NES (1991), Game Boy Color (2001) none
+   [142]Dragon Quest IV: Chapters of the Chosen
+   Dragon Quest IV: Michibikareshi Monotachi Famicom (1990),
+   [143]PlayStation (2001), [144]Nintendo DS (2007) NES (1992, as Dragon
+   Warrior IV), Nintendo DS (2008) Nintendo DS (2008)
+   [145]Dragon Quest V: Hand of the Heavenly Bride
+   Dragon Quest V: Tenk no Hanayome Super Famicom (1992), [146]PlayStation
+   2 (2004), Nintendo DS (2008) Nintendo DS (2009) Nintendo DS (2009)
+   [147]Dragon Quest VI: Realms of Reverie
+   Dragon Quest VI: Maboroshi no Daichi Super Famicom (1995), Nintendo DS
+   (TBA) Nintendo DS (TBA) Nintendo DS (TBA)
+   [148]Dragon Warrior VII
+   Dragon Quest VII: Eden no Senshi-tachi PlayStation (2000) PlayStation
+   (2001) none
+   [149]Dragon Quest VIII: Journey of the Cursed King
+   Dragon Quest VIII: Sora to Umi to Daichi to Norowareshi Himegimi
+   PlayStation 2 (2004) PlayStation 2 (2005) PlayStation 2 (2006)
+   [150]Dragon Quest IX: Hoshizora no Mamoribito Nintendo DS (2009)
+   Nintendo DS (2009)  ?
+   [151]Dragon Quest X [152]Wii (TBA) ^[153][21]  ?  ?
+
+[[154]edit] Spin-offs
+
+   The franchise also includes several spin-off series, including
+   [155]Dragon Quest Monsters and [156]Slime MoriMori Dragon Quest, as
+   well as arcade games like the Japanese game [157]Dragon Quest: Monster
+   Battle Road.^[158][22] Several games in both the [159]Mystery Dungeon
+   and [160]Itadaki Street series have characters from the Dragon Quest
+   games.
+   The Torneko games use a roguelike battle system.
+
+   In 1993, [161]Chunsoft created a [162]Super Famicom game for Torneko,
+   romanized Torneco ( ^[163]?)^[164][23] in Japan and originally known as
+   simply Taloon to American gamers, a [165]fictional character first
+   appearing in [166]Dragon Warrior IV.^[167][24] The game, titled
+   [168]Torneco no Daibken: Fushigi no Dungeon which loosely translates to
+   Torneco's Great Adventure: Mysterious Dungeon, was a [169]roguelike
+   which continued Torneko's story from [170]Dragon Quest IV, where he
+   wished to make his store grow even further by venturing into mysterious
+   dungeons and getting more items for stock. It was very successful, both
+   on namesake and quality. A direct sequel to Torneco no Daibouken came
+   out in Japan and the United States in 2000 called [171]Torneko: The
+   Last Hope (Torneco no Daibouken 2 in Japan). This game was very similar
+   to the first, but it is considered much easier by comparison.^[172][25]
+   It was received well enough in Japan to warrant a third direct sequel,
+   on the [173]PlayStation 2, titled Torneco no Daibouken: Fushigi no
+   Dungeon 3. Both the second and third Torneko games have been ported to
+   the [174]Game Boy Advance. Following the success of Torneko, many other
+   [175]Fushigi no Dungeon games were published by various companies (most
+   of which developed by Chunsoft), among the best known are [176]Chocobo
+   no Fushigina Dungeon and Nightmare of Druaga: Mysterious Dungeon.
+
+   Two spin-offs are played by physically swinging a controller using it
+   as a sword to slash enemies among other things. [177]Kenshin Dragon
+   Quest is a stand alone game which comes with the a toy sword as the
+   controller, and a toy shield containing the game's hardware.^[178][26]
+   [179]Dragon Quest Swords is an exclusive [180]Wii title which uses the
+   motion sensing abilities of the [181]Wii Remote similarly. Finally, a
+   card-based [182]arcade game, known as [183]Dragon Quest: Monster Battle
+   Road and developed by [184]Level-5, was released exclusively in
+   Japan.^[185][27]
+   Title
+   (followed by original title) Platforms of release
+   In Japan In North America In the PAL region
+   [186]Dragon Warrior Monsters
+   Dragon Quest Monsters [187]Game Boy Color (1998), [188]PlayStation
+   (2002), [189]Mobile phone (2002) Game Boy Color (1999) Game Boy Color
+   (1999)
+   [190]Dragon Warrior Monsters 2: Cobi's Journey
+   Dragon Quest Monsters 2: Ruka's Journey Game Boy Color (2001),
+   PlayStation (2002) Game Boy Color (2001) none
+   [191]Dragon Warrior Monsters 2: Tara's Adventure
+   Dragon Quest Monsters 2: Iru's Adventure Game Boy Color (2001),
+   PlayStation (2002) Game Boy Color (2001) none
+   [192]Dragon Quest Monsters: Caravan Heart [193]Game Boy Advance (2003)
+   none none
+   [194]Dragon Quest Monsters: Joker [195]Nintendo DS (2006) Nintendo DS
+   (2007) Nintendo DS (2008)
+   [196]Torneko no Daibken: Fushigi no Dungeon [197]Super Famicom (1993)
+   none none
+   [198]Torneko: The Last Hope
+   Torneko no Daibken 2: Fushigi no Dungeon PlayStation (1999), Game Boy
+   Advance (2001) PlayStation (2000) none
+   [199]Torneko no Daibken 3: Fushigi no Dungeon [200]PlayStation 2
+   (2002), Game Boy Advance (2004) none none
+   [201]Shnen Yangus to Fushigi no Dungeon PlayStation 2 (2006) none none
+   [202]Slime MoriMori Dragon Quest: Shgeki no Shippo Dan Game Boy Advance
+   (2003) none none
+   [203]Dragon Quest Heroes: Rocket Slime
+   Slime MoriMori Dragon Quest 2: Daisensha to Shippo Dan Nintendo DS
+   (2005) Nintendo DS (2006) Nintendo DS (2007)
+   [204]Kenshin Dragon Quest: Yomigaerishi Densetsu no Ken [205]Television
+   Game (2003) none none
+   [206]Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
+   Dragon Quest Swords: Kamen no Jo to Kagami no T [207]Wii (2007) Wii
+   (2008) Wii (2008)
+   [208]Dragon Quest & Final Fantasy in Itadaki Street Special PlayStation
+   2 (2004) none none
+   [209]Dragon Quest & Final Fantasy in Itadaki Street Portable
+   [210]PlayStation Portable (2006) none none
+   [211]Itadaki Street DS Nintendo DS (2007) none none
+   [212]Dragon Quest: Monster Battle Road [213]Arcade Game (2007) none
+   none
+   [214]Dragon Quest: Monster Battle Road II Arcade Game (2009) none none
+
+[[215]edit] Common elements
+
+[[216]edit] Gameplay
+
+   Typical battle from [217]Dragon Warrior III
+
+   The game player's party walks into a town and buys weapons, armor, and
+   items in order to defeat monsters easily. When the player's party is
+   out of the town, the party is vulnerable to random monster attacks.
+   When players encounter monsters, they have several options from which
+   to choose through menus. The player can attack and defeat the enemy
+   with weapons, magic, or items. The player can also attempt to run away
+   from the fight. However, this option is not available during a
+   [218]boss battle. After a player wins a battle by defeating all the
+   monsters, the player's party members gain [219]experience points (EXP)
+   in order to gain new levels. When a certain character gains a new
+   level, the stats of the character are upgraded.^[220][28]
+
+   To save one's progress, the player must visit a Church (also known as a
+   House of Healing in early North American versions) and talk to a priest
+   or nun. In early versions of Dragon Quest, the player must visit a king
+   in order to save his or her progress^[221][28] (this does not include
+   the first two Dragon Quest titles for the Famicom, which use a password
+   system).^[222][29] If the player's party dies in battle, the group will
+   lose half of their gold and the leader of the party warps back to the
+   nearest church. The leader then needs to pay a priest to revive his/her
+   party members. More recent games in the series have banks in many towns
+   that allow the player to store gold, which prevents it from being lost
+   when the party dies.
+
+   [223]Dragon Warrior III, [224]Dragon Quest VI, and [225]Dragon Warrior
+   VII feature several classes to choose for the party members.^[226][10]
+   Each of these installments possesses its own particular set of classes,
+   typical classes include the [227]Cleric / Priest / Pilgrim,
+   [228]Fighter, Hero, Jester / Goof-Off, Thief, [229]Warrior / Soldier
+   and [230]Wizard / Mage^[231][30]^[232][31]. Dragon Quest VI includes
+   two monster classes^[233][32], and Dragon Warrior VII includes
+   dozens^[234][33].
+
+[[235]edit] Monsters
+
+   Rocket, a common [236]slime monster starring in [237]Dragon Quest
+   Heroes.
+
+   The series features several recurring monsters, such as Slimes,
+   Drackies, Shadows, Mummies, Trick Bags, and
+   Dragons.^[238][34]^[239][35]^[240][36] Many of the monsters have been
+   designed by Akira Toriyama. Many of the Dragon Quest monsters have been
+   featured in the [241]Dragon Quest Monsters series of games, which
+   allows the player to catch monsters and use them in battle. This idea
+   is also used in Dragon Quest V, although humans fight in battle as
+   well.
+
+   The official [242]mascot of the Dragon Quest series is the [243]Slime.
+   A Slime is a small blob with a face, shaped like water droplet. It has
+   appeared in every Dragon Quest game and it is usually one of the first
+   monsters the player encounters.^[244][37] The Slime's popularity has
+   netted it two [245]spin-offs: [246]Slime MoriMori Dragon Quest and
+   [247]Dragon Quest Heroes: Rocket Slime. They also make a significant
+   showing in the Japanese manga and two-episode anime [248]Dragon Half.
+
+[[249]edit] Loto/Erdrick
+
+   Erdrick, also known as Roto in Japan or Loto in the North American
+   localization of the Game Boy Color remakes of the first three games, is
+   a legendary hero from the Dragon Quest series. The first three Dragon
+   Quest games make up the "Erdrick [250]trilogy," which are all connected
+   to the legend of Erdrick. He is known in the game as the hero who freed
+   Alefgard from darkness.^[251][38] The name Erdrick was first mentioned
+   in the English [252]localization, [253]Dragon Warrior in which the
+   player is referred to as Erdrick's descendent.^[254][39] Erdricks
+   [255]legend was completed with the 1991 release of [256]Dragon Warrior
+   III.
+
+   In [257]Dragon Warrior, Erdrick was the ancestor of the Hero. The Hero
+   follows in the footsteps of Erdrick to ultimately reach the
+   Dragonlord's Castle and confront the [258]Dragonlord. In [259]Dragon
+   Warrior II, the heroes are descendants of Erdrick, and also of the Hero
+   from Dragon Warrior.^[260][40]^[261][41] They explore the expanded
+   world of Torland, including Alefgard as seen in the first game. At the
+   end of Dragon Warrior III, the King of Alefgard bestows upon the Hero
+   the Order of Erdrick, the countrys highest honor reserved only for true
+   heroes. While this implies Erdrick is merely a title, it isn't possible
+   to name the Hero Erdrick at the beginning of Dragon Warrior III. In
+   [262]Dragon Warrior III, the origins of the hero Erdrick are revealed;
+   therefore, the [263]chronological order of the first three games is
+   Dragon Warrior III, Dragon Warrior I, and then Dragon Warrior
+   II.^[264][42] This chronology is further evidenced in the naming of the
+   hero's weapon, armor and shield. After the events of Dragon Warrior
+   III, the hero's armaments are renamed as the Erdrick (or Loto) Sword
+   and Armor in Dragon Warrior I and Dragon Warrior II.
+
+   The Hero, originally known as Erdrick to many English-speaking players,
+   is also known by two other names. In the original [265]Japanese
+   language games (Dragon Quest), Erdrick is known exclusively by the name
+   Roto, which is also used by some [266]import [267]gamers. Another
+   [268]romanization of the name is Loto, which was used in place of
+   Erdrick when [269]Enix America, Inc. re-released Dragon Warrior I,
+   Dragon Warrior II, and Dragon Warrior III on the [270]Game Boy Color.
+   This was most likely used because the Japanese character () is not
+   strictly an R or an L sound, but lies somewhere in between. Therefore
+   it is properly [271]transliterated either way.
+
+   In the original [272]Final Fantasy, Square parodies Dragon Warrior by
+   displaying a grave for Erdrick in the town of Elfland.^[273][43] In
+   retaliation, Enix hid a Cid grave in Dragon Quest III. A parody of
+   Erdrick's sword is wielded by [274]Gilgamesh in [275]Final Fantasy XII:
+   it is referred to as the "Wyrmhero Blade" (In the Japanese version, it
+   is called "Tolo Sword").
+
+[[276]edit] Zenithia
+
+   Zenithia, also called Zenith Castle or simply Zenith, is the name of a
+   fictional sky castle from the series. The first appearance is in
+   [277]Dragon Warrior IV, and the castle is one of several elements from
+   [278]Dragon Quest IV, [279]V, and [280]VI which suggest the three games
+   are linked as a [281]trilogy; this group is often called the Tenk
+   (Japanese for Heaven), or the Tenk no Shiro (Castle in the Sky)
+   trilogy.^[282][44]^[283][45] Yji Horii explained that the trilogy was
+   never intended: "Each Dragon Quest title represents a fresh start and a
+   new story, so I don't see too much of a connection between the games in
+   the series. I guess it could be said that the imagination of players
+   has brought the titles together in a certain fashion."^[284][46]
+
+   In Dragon Warrior IV, Zenithia can be accessed by climbing the Tower
+   near Gottside (Azimuth in the DQ4DS release), which goes as far up to
+   the sky. It is directly above the entrance to the world of darkness. In
+   Dragon Quest V, Zenithia has fallen into a lake south of Elheaven. This
+   happened when the Golden Orb, half of a set of magical orbs that
+   supported the castle in the sky, fell from its place. Once recovered
+   and returned to Master Dragon, Zenithia will rise again. This time, the
+   castle can move freely around the sky. In Dragon Quest VI, Zenith
+   Castle is sealed away by Demon Lord Durran, and a giant hole is left
+   behind in its place in the Dream World. After the Dream World returns
+   to its natural state, Zenith Castle is the only part of it that can
+   still be seen floating above the real world. A castle in the
+   [285]Dragon Warrior III remakes for [286]Super Famicom/[287]Game Boy
+   Color is also called Zenith, though the layout differs from the castle
+   from the Tenku series.^[288][47]
+
+   Square Enix has released the Celestial Sword (the Zenithian Sword) and
+   Sword of Ramias as part of their Dragon Quest Legend Items series -
+   miniature collectible toy replicas of artifacts from the Dragon Quest
+   universe.
+
+[[289]edit] Music
+
+   Cover of Symphonic Suite Dragon Quest Complete CD-Box
+
+   Several albums of Dragon Quest music has been released since the
+   original game was made, the first coming out in 1986, based on
+   [290]Dragon Quest's music.^[291][48] Each of the Dragon Quest
+   soundtracks have been composed and arranged by [292]Koichi Sugiyama,
+   who has also composed the music for the games. Since then, an album
+   with the game's title and "Symphonic Suite" has been released for each
+   game in the main series. Aside from the main series of soundtracks,
+   other compilations of Dragon Quest music have been made, such as Dragon
+   Quest Game Music Super Collection Vol. 1.^[293][49] Many of the
+   soundtracks songs are performed by the [294]London Philharmonic, such
+   as Symphonic Suite Dragon Quest Complete CD-Box.^[295][50] With a few
+   of the soundtracks, a second disc with the original game music is
+   included, like with the original Dragon Quest VI soundtrack.^[296][51]
+
+   In 2003, SME Visual Works released Symphonic Suite Dragon Quest
+   Complete CD-Box, a box set featuring music from the first seven Dragon
+   Quest games.^[297][50] Each of the seven discs is broken up by where
+   the music is played in the games. Disc one, for example, has the
+   opening overture song from each of the Dragon Quest games, whereas disc
+   six features all the battle songs.
+
+   Dragon Quest is such a [298]cultural phenomenon in Japan that there are
+   live-action [299]ballets (being the first video game to inspire a
+   ballet),^[300][52]^[301][53] [302]musical concerts, and [303]audio CDs
+   based on the Dragon Quest universe.^[304][8] It was the first video
+   game series to have its music performed live by an orchestra.^[305][54]
+   Since 1987, music from Dragon Quest has been performed annually in
+   Japan in concert halls.^[306][55]
+
+[[307]edit] Manga and anime
+
+     * [308]Dragon Quest: Abel Yuusha loosely based on Dragon Quest III,
+       43 episodes (known as Dragon Warrior in the United States with 13
+       [309]dubbed episodes)
+     * [310]Dragon Quest: Dai no Daibken Original story, 37 volumes, 46
+       episodes, 3 movies
+     * [311]Dragon Quest: Emblem of Roto takes place 100 years after
+       Dragon Quest III, 21 volumes, movie
+     * [312]Dragon Quest: Princess Alena based on Dragon Quest IV
+     * [313]Dragon Quest: The Heaven Saga based on Dragon Quest V
+     * [314]Dragon Quest: Maboroshi no Daichi based on Dragon Quest VI
+     * [315]Dragon Quest: Warriors of Eden based on Dragon Quest VII
+     * [316]Dragon Quest Monsters + based on Dragon Quest Monsters, 5
+       volumes by [317]Mine Yoshizaki^[318][56]
+     * There are two manga series' based on the [319]Slime for
+       children^[320][56]
+     * In 1989, a manga was published by Enix called Dragon Quest Monster
+       Story.^[321][56] This book featured short stories about various
+       Dragon Quest monsters and came with a poster that featured the
+       "families" of monsters.
+
+   Additionally, Dragon Quest e no Michi ("The Road to Dragon Quest") is a
+   manga book based on the creators of Dragon Quest published by
+   Enix.^[322][7] The one volume manga was produced by Ishimori
+   Productions, a company famous for creating manga based on famous people
+   and businesses. Released in 1990, the manga stars Yujii Hori,
+   [323]Koichi Nakamura (main programmer), Koichi Sugiyama, Akira
+   Toriyama, and Yukinobu Chida (producer) and involves the creation of
+   the series.^[324][7]
+
+[[325]edit] Reception
+
+   Dragon Quest is one of the most popular video game series in
+   Japan.^[326][3]^[327][4]^[328][57] All of the games in the main series
+   as well as many spin-off games have sold over a million copies, some
+   even selling over four million, and sell very quickly.^[329][58] For
+   instance, the remake of Dragon Quest V sold 1.3 million copies in Japan
+   in its first two days, which is a very high number for a
+   remake.^[330][59] In 2006, Japanese gaming magazine [331]Famitsu
+   readers voted on the hundred best video games of all time. Dragon Quest
+   III came in third, Dragon Quest VIII came in fourth, Dragon Quest VII
+   came in ninth, Dragon Quest V came in eleventh, Dragon Quest IV came in
+   fourteenth, Dragon Quest II came in seventeenth, Dragon Quest came in
+   thirtieth, and Dragon Quest VI came in thirty-fourth.^[332][60]
+
+   The original Dragon Quest game is often claimed to be the birth of the
+   [333]console role-playing game, despite the fact that it borrows
+   heavily from the [334]The Black Onyx, [335]Ultima, and [336]Wizardry
+   series and many others consider Final Fantasy "more
+   important."^[337][5] Dragon Warrior was listed on [338]GameSpot's list
+   of the 15 most influential games of all time, calling it the "most
+   influential role-playing game of all time" and stated that nearly all
+   RPGs today have roots in its gameplay.^[339][61] The Dragon Quest
+   series was recognized by [340]Guinness World Records with six world
+   records in the Guinness World Records: Gamer's Edition 2008. These
+   records include, "Best Selling Role Playing Game on the Super Famicon",
+   "Fastest Selling Game in Japan", and "First Video Game Series to
+   Inspire a Ballet".^[341][62]
+
+   Although the series is a phenomenon in Japan, the games never garnered
+   as much attention in North America.^[342][5] Although the first four
+   games to come to America generally received good reviews, it was not
+   until Dragon Warrior VII was released did Dragon Quest become
+   critically acclaimed there.^[343][5] One of the main aspects of the
+   series that critics point out, either positively or negatively, is that
+   the series "never strays from its classic roots".^[344][57] Unlike
+   other modern, complex RPGs, Dragon Quest retains the simple gameplay
+   from the first game, which many critics find refreshing and
+   nostalgic.^[345][57]^[346][63]^[347][64] Other critics feel differently
+   about the series, however, and claim that the story, characters, and
+   gameplay have become boring and redundant over the
+   years.^[348][65]^[349][66]
+
+[[350]edit] Notes
+
+    1. [351]^ [352]Square Enix (2007-12-19). [353]Press release: Relive
+       the birth of a phenomenon with Final Fantasy & Final Fantasy II.
+       [354]Press release.
+       [355]http://www.gamesindustry.biz/content_page.php?aid=31672.
+       Retrieved on 2008-02-27.
+    2. [356]^ Nintendo Power volume 238. Future US, Inc.. 2009. pp. 59,
+       84.
+    3. ^ [357]^a [358]^b Anoop Gantayat (2007). [359]"Dragon Quest IX set
+       for DS". [360]http://ds.ign.com/articles/750/750590p1.html.
+       Retrieved on September 10.
+    4. ^ [361]^a [362]^b Jon Lindermann (2007). [363]"Dragon Quest IX
+       preview".
+       [364]http://www.nintendoworldreport.com/previewArt.cfm?artid=13469.
+       Retrieved on September 10.
+    5. ^ [365]^a [366]^b [367]^c [368]^d [369]"The GameSpy Hall of Fame:
+       Dragon Warrior". Gamespy.
+       [370]http://www.gamespy.com/articles/492/492001p1.html. Retrieved
+       on May 29 2005.
+    6. ^ [371]^a [372]^b [373]"The Designers Of Dragon Quest". IGN.
+       [374]http://ps2.ign.com/articles/379/379052p1.html. Retrieved on
+       May 29 2005.
+    7. ^ [375]^a [376]^b [377]^c [378]^d [379]"The Road to Dragon Quest".
+       2001. [380]http://www.atarihq.com/tsr/books/fc/dqm.html. Retrieved
+       on September 16.
+    8. ^ [381]^a [382]^b Ed Lewis (2004). [383]"The Dragon Quest
+       Symphony". IGN. [384]http://ps2.ign.com/articles/475/475818p1.html.
+       Retrieved on May 29 2005.
+    9. ^ [385]^a [386]^b Nintendo Power volume 221. Future US, Inc. 2007.
+       pp. 7880.
+   10. ^ [387]^a [388]^b [389]^c Philip Bloom (2006). [390]"The History of
+       Dragon Quest".
+       [391]http://www.rpgland.com/specialfeatures/dqhistory/historyofdrag
+       onquest.html. Retrieved on September 23.
+   11. [392]^ [393]"Interview with Yuji Horina on DQ 0". 2005.
+       [394]http://www.1up.com/do/previewPage?cId=3140772. Retrieved on
+       September 24.
+   12. [395]^ Bryan Boulette (2006). [396]"Square Enix: Dinosaur or
+       Leader". [397]http://www.rpgamer.com/editor/2006/q3/080706aca.html.
+       Retrieved on September 24.
+   13. [398]^ Nich Maragos (2005-05-19). [399]"Previews: Dragon Quest
+       VIII". [400]1UP.com.
+       [401]http://www.1up.com/do/previewPage?cId=3140772. Retrieved on
+       April 21.
+   14. ^ [402]^a [403]^b [404]"Interview with Yuji Horii at
+       EuroGamer.com". 2007.
+       [405]http://www.eurogamer.net/article.php?article_id=62489.
+       Retrieved on September 12.
+   15. [406]^ [407]Dragon Quest | Square Enix
+   16. [408]^ [409]"Dragon Quest - Zenithia Trilogy Announced For Nintendo
+       DS". 2008.
+       [410]http://ds-x2.com/news/Dragon%2BQuest%2B-%2C11310,11310.
+       Retrieved on May 21.
+   17. [411]^ Matt Weiss (2002). [412]"Dragon Warrior 7 review".
+       [413]http://www.gamecritics.com/review/dragonwarr7/main.php.
+       Retrieved on September 23.
+   18. [414]^ Kurt Kalata (2007). [415]"Dragon Warrior/ Dragon Quest".
+       [416]http://hg101.classicgaming.gamespy.com/dragonquest/dragonquest
+       .htm. Retrieved on January 29.
+   19. [417]^ Shahed Ahmed (2000). [418]"Enix Comments on DQ VII".
+       [419]http://www.gamespot.com/ps/rpg/dragonwarrior7/news_2643279.htm
+       l. Retrieved on September 12.
+   20. [420]^ [421]"E3 2001 Interview". 2001.
+       [422]http://www.rpgfan.com/features/e32k1-enix/index.html.
+       Retrieved on September 23.
+   21. [423]^ [424]Dragon Quest X Confirmed For Wii
+   22. [425]^ [426]"Dragon Quest castle erected". 2007.
+       [427]http://www.japannewsreview.com/entertainment/games/20070715pag
+       e_id=711. Retrieved on September 9.
+   23. [428]^ Chunsoft, [429]Characters
+   24. [430]^ Matthew Williamson (2005). [431]"Fushigi no Dungeon 2".
+       [432]http://www.gamesetwatch.com/2006/05/column_parallax_memories_f
+       ushi.php. Retrieved on September 16 2007.
+   25. [433]^ Jeff Gertsmann (2000). [434]"GameSpot review".
+       [435]http://www.gamespot.com/ps/rpg/tornekothelasthope/review.html.
+       Retrieved on September 16.
+   26. [436]^ Anthony Willsey (2006). [437]"IGN: Dragon Quest Swords
+       preview". [438]http://wii.ign.com/articles/709/709625p1.html.
+       Retrieved on September 16.
+   27. [439]^ Patrick Klepek (2006). [440]"IGN: Dragon Quest IX Announced
+       for Nintendo DS?!".
+       [441]http://www.1up.com/do/newsStory?cId=3155838. Retrieved on
+       September 16.
+   28. ^ [442]^a [443]^b Editors of Nintendo Power: Nintendo Power July -
+       August, 1989; issue 7 (in English). Nintendo of America, Tokuma
+       Shoten Publishing, 39-50.
+   29. [444]^ [445]"Dragon Quest history". 2001.
+       [446]http://www.woodus.com/den/general/history.php. Retrieved on
+       September 12.
+   30. [447]^ [448]Dragon Warrior 3
+   31. [449]^ [450]Dragon Warrior 7
+   32. [451]^ [452]Heartbeat (company). [453]Dragon Quest VI: Realms of
+       Reverie. ([454]Enix). [455]Super Famicon. (in Japanese). (December
+       9, 1995)
+   33. [456]^ [457]"Dragon Warrior VII: Character Classes". IGN.com. IGN.
+       2001-10-04. [458]http://psx.ign.com/articles/098/098821p1.html.
+       Retrieved on 2008-07-19.
+   34. [459]^ [460]"Dragon Quest II monsters". 2006.
+       [461]http://www.rpgclassics.com/shrines/nes/dw2/enemies.shtml.
+       Retrieved on September 16.
+   35. [462]^ [463]"Dragon Quest III monsters". 2006.
+       [464]http://www.rpgclassics.com/shrines/nes/dw3/enemies.shtml.
+       Retrieved on September 16.
+   36. [465]^ [466]"Dragon Quest IV monsters". 2006.
+       [467]http://www.rpgclassics.com/shrines/nes/dw4/enemies.shtml.
+       Retrieved on September 16.
+   37. [468]^ Cary Woodham (2006). [469]"Rocket Slime review at Gamerdad".
+       [470]http://www.gamerdad.com/detail.cfm?itemID=3412. Retrieved on
+       September 9.
+   38. [471]^ (1989) Nintendo, Enix Corporation Dragon Warrior Instruction
+       Manual (in English).
+   39. [472]^ Editors of Nintendo Power: Nintendo Power July - August,
+       1989; issue 7 (in English). Nintendo of America, Tokuma Shoten
+       Publishing, 40.
+   40. [473]^ Enix Corporation Unveiled Secrets of Dragon Warrior II (in
+       English) Enix America Corporation.
+   41. [474]^ Editors of Nintendo Power: Nintendo Power September/October,
+       1990; issue 16 (in English). Nintendo of America, Tokuma Shoten
+       Publishing, 67.
+   42. [475]^ Brad Shoemaker (2001). [476]"Dragon Warrior III preview".
+       [477]http://www.gamespot.com/gbc/rpg/dragonwarrior3/review.html.
+       Retrieved on September 16.
+   43. [478]^ [479]"Final Fantasy screenshot". 1999.
+       [480]http://www.vbfx.com/mirrors/www.planetnintendo.com/ff1/scrshot
+       s/snap062.gif. Retrieved on September 16.
+   44. [481]^ Jonathan Creswell (2007). [482]"Dragon Quest IV, V, VI".
+       [483]http://www.britishgaming.co.uk/?p=2306. Retrieved on September
+       17.
+   45. [484]^ [485]"Dragon Quest IV, V, VI confirmed". 2007.
+       [486]http://www.siliconera.com/2007/07/30/dragon-quest-iv-v-vi-rema
+       kes-confirmed/. Retrieved on September 17.
+   46. [487]^ Editors of Nintendo Power: Nintendo Power July, 2008; issue
+       7 (in English). Future US Inc, 50-57. Retrieved June 1, 2008
+   47. [488]^ Prima Games, ed (2001). Dragon Warrior III Official Strategy
+       Guide. Prima Publishing. pp. 8789. [489]ISBN 0-7615-3638-8.
+   48. [490]^ Patrick Gann (2003). [491]"Dragon Quest Suite".
+       [492]http://www.rpgfan.com/soundtracks/dq1-ss/index.html. Retrieved
+       on September 15.
+   49. [493]^ Damien Thomas (2006). [494]"Dragon Quest Game Music Super
+       Collection Vol. 1".
+       [495]http://www.rpgfan.com/soundtracks/dqmusic1/index.html.
+       Retrieved on September 15.
+   50. ^ [496]^a [497]^b Damien Thomas (2006). [498]"Symphonic Suite
+       Dragon Quest Complete CD-Box".
+       [499]http://www.rpgfan.com/soundtracks/dq-ssbox/index.html.
+       Retrieved on September 15.
+   51. [500]^ Patrick Gann (2006). [501]"Dragon Quest VI ~The Dream World~
+       Symphonic Suite".
+       [502]http://www.rpgfan.com/soundtracks/dq6-ss/index.html. Retrieved
+       on September 15.
+   52. [503]^ Jason MacIsaac. [504]"Guinness Book of World Records Gamer's
+       Edition 2008". [505]The Electric Playground. Greedy Productions
+       Ltd. [506]http://www.elecplay.com/feature.php?article=11802.
+       Retrieved on 2008-05-04.
+   53. [507]^ Guinness World Records Gamer's Edition 2008. [508]Guinness
+       World Records. Guinness. 2008-03-11. [509]ISBN 978-1-904994-21-3.
+   54. [510]^ Matthew Belinkie (1999). [511]"Video Game Music".
+       [512]http://www.vgmusic.com/vgpaper.shtml. Retrieved on September
+       10.
+   55. [513]^ Sam Kennedy (2005). [514]"Dragon Quest vs. America".
+       [515]http://www.1up.com/do/feature?cId=3146024. Retrieved on
+       September 10.
+   56. ^ [516]^a [517]^b [518]^c [519]"Dragon Quest Manga". 2003.
+       [520]http://www.slimeshrine.net/manga/Novels.html. Retrieved on
+       September 18.
+   57. ^ [521]^a [522]^b [523]^c [524]"GameSpy: Dragon Quest 8 Review".
+       2005.
+       [525]http://ps2.gamespy.com/playstation-2/dragon-warrior-viii/66933
+       0p1.html. Retrieved on September 19.
+   58. [526]^ [527]"Japanese Platinum Game Chart". 2004.
+       [528]http://www.the-magicbox.com/topten2.htm. Retrieved on
+       September 18.
+   59. [529]^ Suppai Hitmitsu (2004). [530]"Dragon Quest V goes platinum".
+       [531]http://ps2.ign.com/articles/502/502102p1.html. Retrieved on
+       September 18.
+   60. [532]^ Collin Campbell (2006). [533]"Japan Votes on All Time Top
+       100".
+       [534]http://www.next-gen.biz/index.php?option=com_content&task=view
+       &id=2401&Itemid=2. Retrieved on September 19.
+   61. [535]^ [536]"GameSpot's 15 most influential". 2000.
+       [537]http://www.gamespot.com/gamespot/features/video/15influential/
+       p11_01.html. Retrieved on September 18.
+   62. [538]^ [539]"WEIRD AND WONDERFUL RECORDS". 2008.
+       [540]http://gamers.guinnessworldrecords.com/records/weird_and_wonde
+       rful.aspx. Retrieved on September 17.
+   63. [541]^ [542]"TotalPlaystation: DQ 8 Review". 2005.
+       [543]http://totalplaystation.com/ps2/Dragon-Quest-VIII-Journey-of-t
+       he-Cursed-King/reviews/481. Retrieved on September 19.
+   64. [544]^ Chris Kohler (2007). [545]"Hands-on with Dragon Quest IV".
+       [546]http://blog.wired.com/games/2007/09/hands-on-dragon.html#more.
+       Retrieved on September 23.
+   65. [547]^ [548]"Dragon Quest 8 Review". 2005.
+       [549]http://www.netjak.com/review.php/1045. Retrieved on September
+       21.
+   66. [550]^ Sophie Chesire (2005). [551]"Dragon Quest VIII review".
+       [552]http://www.thunderboltgames.com/reviews/viewreview.php?rid=931
+       . Retrieved on September 21.
+
+[[553]edit] External links
+
+     * [554]Official European Dragon Quest portal
+     * [555]Official Dragon Quest website (Japanese)
+     * [556]Dragon Warrior Series at the [557]Open Directory Project
+
+   [558]v  [559]d  [560]e
+   Dragon Quest and Dragon Warrior series
+   Main series
+   [561]I [562]II [563]III [564]IV: Chapters of the Chosen [565]V: Hand of
+   the Heavenly Bride [566]VI: Realms of Reverie [567]VII [568]VIII:
+   Journey of the Cursed King [569]IX [570]X
+   [571]Monsters
+   [572]1 [573]2 [574]1+2 [575]Caravan Heart [576]Joker
+   Slime titles
+   [577]Shgeki No Shippo Dan [578]Rocket Slime
+   [579]Mystery Dungeon
+   [580]Torneko no Daibken [581]The Last Hope [582]Torneko 3 [583]Shnen
+   Yangus
+   Creators
+   [584]Yji Horii [585]Akira Toriyama [586]Koichi Sugiyama
+   Other
+   [587]I & II [588]Kenshin [589]Swords [590]Monster Battle Road
+   [591]Itadaki Street
+   Retrieved from
+   "[592]http://en.wikipedia.org/wiki/Dragon_Quest#Manga_and_anime"
+   [593]Categories: [594]Dragon Quest | [595]Fantasy anime and manga
+   Hidden category: [596]Articles containing Japanese language text
+
+Views
+
+     * [597]Article
+     * [598]Discussion
+     * [599]Edit this page
+     * [600]History
+
+Personal tools
+
+     * [601]Log in / create account
+
+Navigation
+
+     * [602]Main page
+     * [603]Contents
+     * [604]Featured content
+     * [605]Current events
+     * [606]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [607]About Wikipedia
+     * [608]Community portal
+     * [609]Recent changes
+     * [610]Contact Wikipedia
+     * [611]Donate to Wikipedia
+     * [612]Help
+
+Toolbox
+
+     * [613]What links here
+     * [614]Related changes
+     * [615]Upload file
+     * [616]Special pages
+     * [617]Printable version
+     * [618]Permanent link
+     * [619]Cite this page
+
+Languages
+
+     * [620]Deutsch
+     * [621]Espaol
+     * [622]Franais
+     * [623]Galego
+     * [624]Nederlands
+     *
+     * [625]Norsk (bokml)
+     * [626]Polski
+     * [627]Portugus
+     *
+     * [628]Suomi
+     * [629]Svenska
+     *
+     *
+
+   [630]Powered by MediaWiki
+   [631]Wikimedia Foundation
+     * This page was last modified on 25 February 2009, at 18:17.
+     * All text is available under the terms of the [632]GNU Free
+       Documentation License. (See [633]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [634]Wikimedia
+       Foundation, Inc., a U.S. registered [635]501(c)(3)
+       [636]tax-deductible [637]nonprofit [638]charity.
+     * [639]Privacy policy
+     * [640]About Wikipedia
+     * [641]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dragon_Quest&action=edit#Manga_and_anime
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dragon_Quest_(manga)&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#searchInput
+   9. file://localhost/wiki/Dragon_Warrior
+  10. file://localhost/wiki/Dragon_Quest_(disambiguation)
+  11. file://localhost/wiki/Video_game_genres
+  12. file://localhost/wiki/Console_role-playing_game
+  13. file://localhost/wiki/Video_game_developer
+  14. file://localhost/wiki/Armor_Project
+  15. file://localhost/wiki/Chunsoft
+  16. file://localhost/wiki/Heartbeat_(company)
+  17. file://localhost/wiki/Level-5
+  18. file://localhost/wiki/ArtePiazza
+  19. file://localhost/wiki/Video_game_publisher
+  20. file://localhost/wiki/Square_Enix
+  21. file://localhost/wiki/Enix
+  22. file://localhost/wiki/Author
+  23. file://localhost/wiki/Y%C5%ABji_Horii
+  24. file://localhost/wiki/Akira_Toriyama
+  25. file://localhost/wiki/Koichi_Sugiyama
+  26. http://www.square-enix.co.jp/dragonquest/
+  27. file://localhost/wiki/Help:Japanese
+  28. file://localhost/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King
+  29. file://localhost/wiki/Console_role-playing_game
+  30. file://localhost/wiki/Y%C5%ABji_Horii
+  31. file://localhost/wiki/Square_Enix
+  32. file://localhost/wiki/Enix
+  33. file://localhost/wiki/MSX
+  34. file://localhost/wiki/Nintendo_Entertainment_System
+  35. file://localhost/wiki/Super_Nintendo_Entertainment_System
+  36. file://localhost/wiki/Game_Boy_Color
+  37. file://localhost/wiki/Game_Boy_Advance
+  38. file://localhost/wiki/Nintendo_DS
+  39. file://localhost/wiki/PlayStation
+  40. file://localhost/wiki/PlayStation_2
+  41. file://localhost/wiki/Wii
+  42. file://localhost/wiki/Video_game_console
+  43. file://localhost/wiki/Mobile_phone
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-0
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-1
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-anoop-2
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-lindermann-3
+  48. file://localhost/wiki/Role-playing_game
+  49. file://localhost/wiki/DragonQuest
+  50. file://localhost/wiki/Simulations_Publications
+  51. file://localhost/wiki/Bankruptcy
+  52. file://localhost/wiki/TSR,_Inc.
+  53. file://localhost/wiki/Dungeons_%26_Dragons
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-spy-4
+  55. file://localhost/wiki/Trademark
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Development
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#History
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Creation_and_design
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Games
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Main_series
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Spin-offs
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Common_elements
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Gameplay
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Monsters
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Loto.2FErdrick
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Zenithia
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Music
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Manga_and_anime
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Reception
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#Notes
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#External_links
+  72. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=1
+  73. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=2
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-design-5
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-road-6
+  76. file://localhost/wiki/The_Portopia_Serial_Murder_Case
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-symph-7
+  78. file://localhost/wiki/Console_role-playing_game
+  79. file://localhost/wiki/Dragon_Ball
+  80. file://localhost/wiki/Shonen_Jump
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-npinterview-8
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-historyof-9
+  83. file://localhost/wiki/Y%C5%ABji_Horii
+  84. file://localhost/wiki/Dragon_Ball
+  85. file://localhost/wiki/Manga
+  86. file://localhost/wiki/Akira_Toriyama
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-10
+  88. file://localhost/wiki/Video_game_music
+  89. file://localhost/wiki/Koichi_Sugiyama
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-design-5
+  91. file://localhost/wiki/Chunsoft
+  92. file://localhost/wiki/Heart_Beat_(company)
+  93. file://localhost/wiki/Artepiazza
+  94. file://localhost/wiki/Level-5
+  95. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-11
+  96. file://localhost/wiki/Armor_Project
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-12
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-euro-13
+  99. file://localhost/wiki/Final_Fantasy
+ 100. file://localhost/wiki/Enix
+ 101. file://localhost/wiki/Dragon_Quest_V
+ 102. file://localhost/wiki/Dragon_Quest_VI
+ 103. file://localhost/wiki/Dragon_Warrior_Monsters
+ 104. file://localhost/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-euro-13
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-14
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-15
+ 108. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=3
+ 109. file://localhost/wiki/Y%C5%ABji_Horii
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-npinterview-8
+ 111. file://localhost/wiki/Y%C5%ABji_Horii
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-road-6
+ 113. file://localhost/wiki/Trilogy
+ 114. file://localhost/wiki/Erdrick
+ 115. file://localhost/wiki/Zenithia
+ 116. file://localhost/wiki/Heaven
+ 117. file://localhost/wiki/Dragon_Warrior_VII
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-16
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-hgone-17
+ 120. file://localhost/wiki/Bishop
+ 121. file://localhost/wiki/Dragon_Quest_Monsters
+ 122. file://localhost/wiki/Dragon_Warrior_VII
+ 123. file://localhost/wiki/Boss_(video_game)
+ 124. file://localhost/wiki/Sidequest
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-historyof-9
+ 126. file://localhost/wiki/Censorship
+ 127. file://localhost/wiki/Nintendo
+ 128. file://localhost/wiki/Game_Boy_Color
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-18
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-19
+ 131. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=4
+ 132. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=5
+ 133. file://localhost/wiki/Dragon_Warrior
+ 134. file://localhost/wiki/Nintendo_Entertainment_System
+ 135. file://localhost/wiki/MSX
+ 136. file://localhost/wiki/Super_Nintendo_Entertainment_System
+ 137. file://localhost/wiki/Game_Boy_Color
+ 138. file://localhost/wiki/Satellaview
+ 139. file://localhost/wiki/Mobile_game
+ 140. file://localhost/wiki/Dragon_Warrior_II
+ 141. file://localhost/wiki/Dragon_Warrior_III
+ 142. file://localhost/wiki/Dragon_Quest_IV:_Chapters_of_the_Chosen
+ 143. file://localhost/wiki/PlayStation
+ 144. file://localhost/wiki/Nintendo_DS
+ 145. file://localhost/wiki/Dragon_Quest_V:_Hand_of_the_Heavenly_Bride
+ 146. file://localhost/wiki/PlayStation_2
+ 147. file://localhost/wiki/Dragon_Quest_VI:_Realms_of_Reverie
+ 148. file://localhost/wiki/Dragon_Warrior_VII
+ 149. file://localhost/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King
+ 150. file://localhost/wiki/Dragon_Quest_IX:_Hoshizora_no_Mamoribito
+ 151. file://localhost/wiki/Dragon_Quest_X
+ 152. file://localhost/wiki/Wii
+ 153. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-20
+ 154. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=6
+ 155. file://localhost/wiki/Dragon_Quest_Monsters
+ 156. file://localhost/wiki/Slime_MoriMori_Dragon_Quest
+ 157. file://localhost/wiki/Dragon_Quest:_Monster_Battle_Road
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-21
+ 159. file://localhost/wiki/Mystery_Dungeon
+ 160. file://localhost/wiki/Itadaki_Street
+ 161. file://localhost/wiki/Chunsoft
+ 162. file://localhost/wiki/Super_Famicom
+ 163. file://localhost/wiki/Help:Japanese
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-22
+ 165. file://localhost/wiki/Fictional_character
+ 166. file://localhost/wiki/Dragon_Warrior_IV
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-23
+ 168. file://localhost/wiki/Torneco_no_Daib%C5%8Dken:_Fushigi_no_Dungeon
+ 169. file://localhost/wiki/Roguelike
+ 170. file://localhost/wiki/Dragon_Quest_IV
+ 171. file://localhost/wiki/Torneko:_The_Last_Hope
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-24
+ 173. file://localhost/wiki/PlayStation_2
+ 174. file://localhost/wiki/Game_Boy_Advance
+ 175. file://localhost/wiki/Mysterious_Dungeon
+ 176. file://localhost/wiki/Chocobo_(series)#Chocobo_no_Fushigina_Dungeon
+ 177. file://localhost/wiki/Kenshin_Dragon_Quest:_Yomigaerishi_Densetsu_no_Ken
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-25
+ 179. file://localhost/wiki/Dragon_Quest_Swords
+ 180. file://localhost/wiki/Wii
+ 181. file://localhost/wiki/Wii_Remote
+ 182. file://localhost/wiki/Arcade_game
+ 183. file://localhost/wiki/Dragon_Quest:_Monster_Battle_Road
+ 184. file://localhost/wiki/Level-5
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-26
+ 186. file://localhost/wiki/Dragon_Warrior_Monsters
+ 187. file://localhost/wiki/Game_Boy_Color
+ 188. file://localhost/wiki/PlayStation
+ 189. file://localhost/wiki/Mobile_game
+ 190. file://localhost/wiki/Dragon_Warrior_Monsters_2
+ 191. file://localhost/wiki/Dragon_Warrior_Monsters_2
+ 192. file://localhost/wiki/Dragon_Quest_Monsters:_Caravan_Heart
+ 193. file://localhost/wiki/Game_Boy_Advance
+ 194. file://localhost/wiki/Dragon_Quest_Monsters:_Joker
+ 195. file://localhost/wiki/Nintendo_DS
+ 196. file://localhost/wiki/Torneko_no_Daib%C5%8Dken:_Fushigi_no_Dungeon
+ 197. file://localhost/wiki/Super_Famicom
+ 198. file://localhost/wiki/Torneko:_The_Last_Hope
+ 199. file://localhost/wiki/Dragon_Quest_Characters:_Torneko_no_Daib%C5%8Dken_3
+ 200. file://localhost/wiki/PlayStation_2
+ 201. file://localhost/wiki/Dragon_Quest:_Sh%C5%8Dnen_Yangus_to_Fushigi_no_Dungeon
+ 202. file://localhost/wiki/Slime_MoriMori_Dragon_Quest:_Sh%C5%8Dgeki_no_Shippo_Dan
+ 203. file://localhost/wiki/Dragon_Quest_Heroes:_Rocket_Slime
+ 204. file://localhost/wiki/Kenshin_Dragon_Quest:_Yomigaerishi_Densetsu_no_Ken
+ 205. file://localhost/wiki/Handheld_TV_game
+ 206. file://localhost/wiki/Dragon_Quest_Swords:_The_Masked_Queen_and_the_Tower_of_Mirrors
+ 207. file://localhost/wiki/Wii
+ 208. file://localhost/wiki/Itadaki_Street#Itadaki_Street_Special
+ 209. file://localhost/wiki/Itadaki_Street#Itadaki_Street_Portable
+ 210. file://localhost/wiki/PlayStation_Portable
+ 211. file://localhost/wiki/Itadaki_Street#Itadaki_Street_DS
+ 212. file://localhost/wiki/Dragon_Quest:_Monster_Battle_Road
+ 213. file://localhost/wiki/Arcade_Game
+ 214. file://localhost/wiki/Dragon_Quest:_Monster_Battle_Road
+ 215. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=7
+ 216. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=8
+ 217. file://localhost/wiki/Dragon_Warrior_III
+ 218. file://localhost/wiki/Boss_(video_game)
+ 219. file://localhost/wiki/Experience_point
+ 220. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-np7-27
+ 221. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-np7-27
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-28
+ 223. file://localhost/wiki/Dragon_Warrior_III
+ 224. file://localhost/wiki/Dragon_Quest_VI
+ 225. file://localhost/wiki/Dragon_Warrior_VII
+ 226. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-historyof-9
+ 227. file://localhost/wiki/Cleric_(character_class)
+ 228. file://localhost/wiki/Monk_(character_class)
+ 229. file://localhost/wiki/Warrior_(character_class)
+ 230. file://localhost/wiki/Wizard_(character_class)
+ 231. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-29
+ 232. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-30
+ 233. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-31
+ 234. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-32
+ 235. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=9
+ 236. file://localhost/wiki/Slime_(Dragon_Quest)
+ 237. file://localhost/wiki/Dragon_Quest_Heroes
+ 238. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-33
+ 239. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-34
+ 240. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-35
+ 241. file://localhost/wiki/Dragon_Quest_Monsters
+ 242. file://localhost/wiki/Mascot
+ 243. file://localhost/wiki/Slime_(Dragon_Quest)
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-36
+ 245. file://localhost/wiki/Spin-off
+ 246. file://localhost/wiki/Slime_MoriMori_Dragon_Quest:_Sh%C5%8Dgeki_no_Shippo_Dan
+ 247. file://localhost/wiki/Dragon_Quest_Heroes:_Rocket_Slime
+ 248. file://localhost/wiki/Dragon_Half
+ 249. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=10
+ 250. file://localhost/wiki/Trilogy
+ 251. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-dw_manual-37
+ 252. file://localhost/wiki/Localization
+ 253. file://localhost/wiki/Dragon_Warrior
+ 254. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-np7_40-38
+ 255. file://localhost/wiki/Legend
+ 256. file://localhost/wiki/Dragon_Warrior_III
+ 257. file://localhost/wiki/Dragon_Warrior
+ 258. file://localhost/wiki/Dragonlord_(Dragon_Quest)
+ 259. file://localhost/wiki/Dragon_Warrior_II
+ 260. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-dw2_manual-39
+ 261. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-np16_67-40
+ 262. file://localhost/wiki/Dragon_Warrior_III
+ 263. file://localhost/wiki/Chronology
+ 264. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-41
+ 265. file://localhost/wiki/Japanese_language
+ 266. file://localhost/wiki/Import_(international_trade)
+ 267. file://localhost/wiki/Gamer
+ 268. file://localhost/wiki/Romanization
+ 269. file://localhost/wiki/Enix
+ 270. file://localhost/wiki/Game_Boy_Color
+ 271. file://localhost/wiki/Transliterate
+ 272. file://localhost/wiki/Final_Fantasy_(video_game)
+ 273. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-42
+ 274. file://localhost/wiki/Recurring_character_names_of_Final_Fantasy#Gilgamesh
+ 275. file://localhost/wiki/Final_Fantasy_XII
+ 276. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=11
+ 277. file://localhost/wiki/Dragon_Warrior_IV
+ 278. file://localhost/wiki/Dragon_Warrior_IV
+ 279. file://localhost/wiki/Dragon_Quest_V
+ 280. file://localhost/wiki/Dragon_Quest_VI
+ 281. file://localhost/wiki/Trilogy
+ 282. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-43
+ 283. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-44
+ 284. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-julynp-45
+ 285. file://localhost/wiki/Dragon_Warrior_III
+ 286. file://localhost/wiki/Super_Nintendo_Entertainment_System
+ 287. file://localhost/wiki/Game_Boy_Color
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-46
+ 289. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=12
+ 290. file://localhost/wiki/Dragon_Warrior
+ 291. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-47
+ 292. file://localhost/wiki/Koichi_Sugiyama
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-48
+ 294. file://localhost/wiki/London_Philharmonic
+ 295. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-autogenerated1-49
+ 296. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-50
+ 297. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-autogenerated1-49
+ 298. file://localhost/wiki/Cultural
+ 299. file://localhost/wiki/Ballet
+ 300. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-51
+ 301. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-52
+ 302. file://localhost/wiki/Performance
+ 303. file://localhost/wiki/Red_Book_(audio_CD_standard)
+ 304. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-symph-7
+ 305. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-53
+ 306. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-54
+ 307. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=13
+ 308. file://localhost/wiki/Dragon_Quest_(1989_TV_series)
+ 309. file://localhost/wiki/Dubbing_(filmmaking)
+ 310. file://localhost/wiki/Dragon_Quest:_Dai_no_Daib%C5%8Dken
+ 311. file://localhost/wiki/Dragon_Quest:_Emblem_of_Roto
+ 312. file://localhost/wiki/Dragon_Quest_IV:_Chapters_of_the_Chosen#Manga
+ 313. file://localhost/wiki/Dragon_Quest_V:_Hand_of_the_Heavenly_Bride#Manga
+ 314. file://localhost/wiki/Dragon_Quest_VI:_Realms_of_Reverie#Manga
+ 315. file://localhost/wiki/Dragon_Warrior_VII#Warriors_of_Eden_manga_series
+ 316. file://localhost/w/index.php?title=Dragon_Quest_Monsters_%2B&action=edit&redlink=1
+ 317. file://localhost/wiki/Mine_Yoshizaki
+ 318. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-besu-55
+ 319. file://localhost/wiki/Slime_(Dragon_Quest)
+ 320. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-besu-55
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-besu-55
+ 322. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-road-6
+ 323. file://localhost/wiki/Koichi_Nakamura
+ 324. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-road-6
+ 325. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=14
+ 326. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-anoop-2
+ 327. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-lindermann-3
+ 328. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-gsyp2-56
+ 329. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-57
+ 330. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-58
+ 331. file://localhost/wiki/Famitsu
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-59
+ 333. file://localhost/wiki/Console_role-playing_game
+ 334. file://localhost/wiki/The_Black_Onyx
+ 335. file://localhost/wiki/Ultima_(series)
+ 336. file://localhost/wiki/Wizardry
+ 337. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-spy-4
+ 338. file://localhost/wiki/GameSpot
+ 339. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-60
+ 340. file://localhost/wiki/Guinness_World_Records
+ 341. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-61
+ 342. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-spy-4
+ 343. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-spy-4
+ 344. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-gsyp2-56
+ 345. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-gsyp2-56
+ 346. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-62
+ 347. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-63
+ 348. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-64
+ 349. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_note-65
+ 350. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=15
+ 351. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-0
+ 352. file://localhost/wiki/Square_Enix
+ 353. http://www.gamesindustry.biz/content_page.php?aid=31672
+ 354. file://localhost/wiki/News_release
+ 355. http://www.gamesindustry.biz/content_page.php?aid=31672
+ 356. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-1
+ 357. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-anoop_2-0
+ 358. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-anoop_2-1
+ 359. http://ds.ign.com/articles/750/750590p1.html
+ 360. http://ds.ign.com/articles/750/750590p1.html
+ 361. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-lindermann_3-0
+ 362. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-lindermann_3-1
+ 363. http://www.nintendoworldreport.com/previewArt.cfm?artid=13469
+ 364. http://www.nintendoworldreport.com/previewArt.cfm?artid=13469
+ 365. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-spy_4-0
+ 366. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-spy_4-1
+ 367. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-spy_4-2
+ 368. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-spy_4-3
+ 369. http://www.gamespy.com/articles/492/492001p1.html
+ 370. http://www.gamespy.com/articles/492/492001p1.html
+ 371. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-design_5-0
+ 372. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-design_5-1
+ 373. http://ps2.ign.com/articles/379/379052p1.html
+ 374. http://ps2.ign.com/articles/379/379052p1.html
+ 375. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-road_6-0
+ 376. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-road_6-1
+ 377. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-road_6-2
+ 378. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-road_6-3
+ 379. http://www.atarihq.com/tsr/books/fc/dqm.html
+ 380. http://www.atarihq.com/tsr/books/fc/dqm.html
+ 381. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-symph_7-0
+ 382. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-symph_7-1
+ 383. http://ps2.ign.com/articles/475/475818p1.html
+ 384. http://ps2.ign.com/articles/475/475818p1.html
+ 385. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-npinterview_8-0
+ 386. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-npinterview_8-1
+ 387. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-historyof_9-0
+ 388. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-historyof_9-1
+ 389. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-historyof_9-2
+ 390. http://www.rpgland.com/specialfeatures/dqhistory/historyofdragonquest.html
+ 391. http://www.rpgland.com/specialfeatures/dqhistory/historyofdragonquest.html
+ 392. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-10
+ 393. http://www.1up.com/do/previewPage?cId=3140772
+ 394. http://www.1up.com/do/previewPage?cId=3140772
+ 395. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-11
+ 396. http://www.rpgamer.com/editor/2006/q3/080706aca.html
+ 397. http://www.rpgamer.com/editor/2006/q3/080706aca.html
+ 398. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-12
+ 399. http://www.1up.com/do/previewPage?cId=3140772
+ 400. file://localhost/wiki/1UP.com
+ 401. http://www.1up.com/do/previewPage?cId=3140772
+ 402. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-euro_13-0
+ 403. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-euro_13-1
+ 404. http://www.eurogamer.net/article.php?article_id=62489
+ 405. http://www.eurogamer.net/article.php?article_id=62489
+ 406. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-14
+ 407. http://na.square-enix.com/zenithia
+ 408. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-15
+ 409. http://ds-x2.com/news/Dragon%2BQuest%2B-%2C11310,11310
+ 410. http://ds-x2.com/news/Dragon%2BQuest%2B-%2C11310,11310
+ 411. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-16
+ 412. http://www.gamecritics.com/review/dragonwarr7/main.php
+ 413. http://www.gamecritics.com/review/dragonwarr7/main.php
+ 414. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-hgone_17-0
+ 415. http://hg101.classicgaming.gamespy.com/dragonquest/dragonquest.htm
+ 416. http://hg101.classicgaming.gamespy.com/dragonquest/dragonquest.htm
+ 417. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-18
+ 418. http://www.gamespot.com/ps/rpg/dragonwarrior7/news_2643279.html
+ 419. http://www.gamespot.com/ps/rpg/dragonwarrior7/news_2643279.html
+ 420. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-19
+ 421. http://www.rpgfan.com/features/e32k1-enix/index.html
+ 422. http://www.rpgfan.com/features/e32k1-enix/index.html
+ 423. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-20
+ 424. http://blog.wired.com/games/2008/12/dragon-quest-x.html
+ 425. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-21
+ 426. http://www.japannewsreview.com/entertainment/games/20070715page_id=711
+ 427. http://www.japannewsreview.com/entertainment/games/20070715page_id=711
+ 428. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-22
+ 429. http://www.chunsoft.co.jp/games/torneco2gba/images/chara01.jpg
+ 430. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-23
+ 431. http://www.gamesetwatch.com/2006/05/column_parallax_memories_fushi.php
+ 432. http://www.gamesetwatch.com/2006/05/column_parallax_memories_fushi.php
+ 433. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-24
+ 434. http://www.gamespot.com/ps/rpg/tornekothelasthope/review.html
+ 435. http://www.gamespot.com/ps/rpg/tornekothelasthope/review.html
+ 436. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-25
+ 437. http://wii.ign.com/articles/709/709625p1.html
+ 438. http://wii.ign.com/articles/709/709625p1.html
+ 439. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-26
+ 440. http://www.1up.com/do/newsStory?cId=3155838
+ 441. http://www.1up.com/do/newsStory?cId=3155838
+ 442. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-np7_27-0
+ 443. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-np7_27-1
+ 444. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-28
+ 445. http://www.woodus.com/den/general/history.php
+ 446. http://www.woodus.com/den/general/history.php
+ 447. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-29
+ 448. http://na.square-enix.com/games/dragon-warrior3/
+ 449. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-30
+ 450. http://na.square-enix.com/games/dragon-warrior7/
+ 451. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-31
+ 452. file://localhost/wiki/Heartbeat_(company)
+ 453. file://localhost/wiki/Dragon_Quest_VI:_Realms_of_Reverie
+ 454. file://localhost/wiki/Enix
+ 455. file://localhost/wiki/Super_Famicon
+ 456. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-32
+ 457. http://psx.ign.com/articles/098/098821p1.html
+ 458. http://psx.ign.com/articles/098/098821p1.html
+ 459. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-33
+ 460. http://www.rpgclassics.com/shrines/nes/dw2/enemies.shtml
+ 461. http://www.rpgclassics.com/shrines/nes/dw2/enemies.shtml
+ 462. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-34
+ 463. http://www.rpgclassics.com/shrines/nes/dw3/enemies.shtml
+ 464. http://www.rpgclassics.com/shrines/nes/dw3/enemies.shtml
+ 465. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-35
+ 466. http://www.rpgclassics.com/shrines/nes/dw4/enemies.shtml
+ 467. http://www.rpgclassics.com/shrines/nes/dw4/enemies.shtml
+ 468. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-36
+ 469. http://www.gamerdad.com/detail.cfm?itemID=3412
+ 470. http://www.gamerdad.com/detail.cfm?itemID=3412
+ 471. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-dw_manual_37-0
+ 472. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-np7_40_38-0
+ 473. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-dw2_manual_39-0
+ 474. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-np16_67_40-0
+ 475. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-41
+ 476. http://www.gamespot.com/gbc/rpg/dragonwarrior3/review.html
+ 477. http://www.gamespot.com/gbc/rpg/dragonwarrior3/review.html
+ 478. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-42
+ 479. http://www.vbfx.com/mirrors/www.planetnintendo.com/ff1/scrshots/snap062.gif
+ 480. http://www.vbfx.com/mirrors/www.planetnintendo.com/ff1/scrshots/snap062.gif
+ 481. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-43
+ 482. http://www.britishgaming.co.uk/?p=2306
+ 483. http://www.britishgaming.co.uk/?p=2306
+ 484. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-44
+ 485. http://www.siliconera.com/2007/07/30/dragon-quest-iv-v-vi-remakes-confirmed/
+ 486. http://www.siliconera.com/2007/07/30/dragon-quest-iv-v-vi-remakes-confirmed/
+ 487. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-julynp_45-0
+ 488. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-46
+ 489. file://localhost/wiki/Special:BookSources/0761536388
+ 490. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-47
+ 491. http://www.rpgfan.com/soundtracks/dq1-ss/index.html
+ 492. http://www.rpgfan.com/soundtracks/dq1-ss/index.html
+ 493. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-48
+ 494. http://www.rpgfan.com/soundtracks/dqmusic1/index.html
+ 495. http://www.rpgfan.com/soundtracks/dqmusic1/index.html
+ 496. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-autogenerated1_49-0
+ 497. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-autogenerated1_49-1
+ 498. http://www.rpgfan.com/soundtracks/dq-ssbox/index.html
+ 499. http://www.rpgfan.com/soundtracks/dq-ssbox/index.html
+ 500. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-50
+ 501. http://www.rpgfan.com/soundtracks/dq6-ss/index.html
+ 502. http://www.rpgfan.com/soundtracks/dq6-ss/index.html
+ 503. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-51
+ 504. http://www.elecplay.com/feature.php?article=11802
+ 505. file://localhost/wiki/The_Electric_Playground
+ 506. http://www.elecplay.com/feature.php?article=11802
+ 507. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-52
+ 508. file://localhost/wiki/Guinness_World_Records
+ 509. file://localhost/wiki/Special:BookSources/9781904994213
+ 510. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-53
+ 511. http://www.vgmusic.com/vgpaper.shtml
+ 512. http://www.vgmusic.com/vgpaper.shtml
+ 513. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-54
+ 514. http://www.1up.com/do/feature?cId=3146024
+ 515. http://www.1up.com/do/feature?cId=3146024
+ 516. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-besu_55-0
+ 517. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-besu_55-1
+ 518. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-besu_55-2
+ 519. http://www.slimeshrine.net/manga/Novels.html
+ 520. http://www.slimeshrine.net/manga/Novels.html
+ 521. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-gsyp2_56-0
+ 522. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-gsyp2_56-1
+ 523. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-gsyp2_56-2
+ 524. http://ps2.gamespy.com/playstation-2/dragon-warrior-viii/669330p1.html
+ 525. http://ps2.gamespy.com/playstation-2/dragon-warrior-viii/669330p1.html
+ 526. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-57
+ 527. http://www.the-magicbox.com/topten2.htm
+ 528. http://www.the-magicbox.com/topten2.htm
+ 529. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-58
+ 530. http://ps2.ign.com/articles/502/502102p1.html
+ 531. http://ps2.ign.com/articles/502/502102p1.html
+ 532. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-59
+ 533. http://www.next-gen.biz/index.php?option=com_content&task=view&id=2401&Itemid=2
+ 534. http://www.next-gen.biz/index.php?option=com_content&task=view&id=2401&Itemid=2
+ 535. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-60
+ 536. http://www.gamespot.com/gamespot/features/video/15influential/p11_01.html
+ 537. http://www.gamespot.com/gamespot/features/video/15influential/p11_01.html
+ 538. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-61
+ 539. http://gamers.guinnessworldrecords.com/records/weird_and_wonderful.aspx
+ 540. http://gamers.guinnessworldrecords.com/records/weird_and_wonderful.aspx
+ 541. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-62
+ 542. http://totalplaystation.com/ps2/Dragon-Quest-VIII-Journey-of-the-Cursed-King/reviews/481
+ 543. http://totalplaystation.com/ps2/Dragon-Quest-VIII-Journey-of-the-Cursed-King/reviews/481
+ 544. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-63
+ 545. http://blog.wired.com/games/2007/09/hands-on-dragon.html#more
+ 546. http://blog.wired.com/games/2007/09/hands-on-dragon.html#more
+ 547. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-64
+ 548. http://www.netjak.com/review.php/1045
+ 549. http://www.netjak.com/review.php/1045
+ 550. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc374.tmp.html#cite_ref-65
+ 551. http://www.thunderboltgames.com/reviews/viewreview.php?rid=931
+ 552. http://www.thunderboltgames.com/reviews/viewreview.php?rid=931
+ 553. file://localhost/w/index.php?title=Dragon_Quest&action=edit&section=16
+ 554. http://www.dragonquest-game.co.uk/portals/dragon-quest/
+ 555. http://www.square-enix.co.jp/dragonquest/
+ 556. http://www.dmoz.org/Games/Video_Games/Roleplaying/D/Dragon_Warrior_Series/
+ 557. file://localhost/wiki/Open_Directory_Project
+ 558. file://localhost/wiki/Template:Dragon_Quest_series
+ 559. file://localhost/wiki/Template_talk:Dragon_Quest_series
+ 560. http://en.wikipedia.org/w/index.php?title=Template:Dragon_Quest_series&action=edit
+ 561. file://localhost/wiki/Dragon_Warrior
+ 562. file://localhost/wiki/Dragon_Warrior_II
+ 563. file://localhost/wiki/Dragon_Warrior_III
+ 564. file://localhost/wiki/Dragon_Quest_IV:_Chapters_of_the_Chosen
+ 565. file://localhost/wiki/Dragon_Quest_V:_Hand_of_the_Heavenly_Bride
+ 566. file://localhost/wiki/Dragon_Quest_VI:_Realms_of_Reverie
+ 567. file://localhost/wiki/Dragon_Warrior_VII
+ 568. file://localhost/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King
+ 569. file://localhost/wiki/Dragon_Quest_IX_Hoshizora_no_Mamoribito
+ 570. file://localhost/wiki/Dragon_Quest_X
+ 571. file://localhost/wiki/Dragon_Quest_Monsters
+ 572. file://localhost/wiki/Dragon_Warrior_Monsters
+ 573. file://localhost/wiki/Dragon_Warrior_Monsters_2
+ 574. file://localhost/wiki/Dragon_Quest_Monsters_1%2B2
+ 575. file://localhost/wiki/Dragon_Quest_Monsters:_Caravan_Heart
+ 576. file://localhost/wiki/Dragon_Quest_Monsters:_Joker
+ 577. file://localhost/wiki/Slime_MoriMori_Dragon_Quest:_Sh%C5%8Dgeki_no_Shippo_Dan
+ 578. file://localhost/wiki/Dragon_Quest_Heroes:_Rocket_Slime
+ 579. file://localhost/wiki/Mystery_Dungeon
+ 580. file://localhost/wiki/Torneko_no_Daib%C5%8Dken:_Fushigi_no_Dungeon
+ 581. file://localhost/wiki/Torneko:_The_Last_Hope
+ 582. file://localhost/wiki/Dragon_Quest_Characters:_Torneko_no_Daib%C5%8Dken_3
+ 583. file://localhost/wiki/Dragon_Quest:_Sh%C5%8Dnen_Yangus_to_Fushigi_no_Dungeon
+ 584. file://localhost/wiki/Y%C5%ABji_Horii
+ 585. file://localhost/wiki/Akira_Toriyama
+ 586. file://localhost/wiki/Koichi_Sugiyama
+ 587. file://localhost/wiki/Dragon_Warrior_I_%26_II
+ 588. file://localhost/wiki/Kenshin_Dragon_Quest:_Yomigaerishi_Densetsu_no_Ken
+ 589. file://localhost/wiki/Dragon_Quest_Swords:_The_Masked_Queen_and_the_Tower_of_Mirrors
+ 590. file://localhost/wiki/Dragon_Quest:_Monster_Battle_Road
+ 591. file://localhost/wiki/Itadaki_Street
+ 592. http://en.wikipedia.org/wiki/Dragon_Quest#Manga_and_anime
+ 593. file://localhost/wiki/Special:Categories
+ 594. file://localhost/wiki/Category:Dragon_Quest
+ 595. file://localhost/wiki/Category:Fantasy_anime_and_manga
+ 596. file://localhost/wiki/Category:Articles_containing_Japanese_language_text
+ 597. file://localhost/wiki/Dragon_Quest
+ 598. file://localhost/wiki/Talk:Dragon_Quest
+ 599. file://localhost/w/index.php?title=Dragon_Quest&action=edit
+ 600. file://localhost/w/index.php?title=Dragon_Quest&action=history
+ 601. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dragon_Quest
+ 602. file://localhost/wiki/Main_Page
+ 603. file://localhost/wiki/Portal:Contents
+ 604. file://localhost/wiki/Portal:Featured_content
+ 605. file://localhost/wiki/Portal:Current_events
+ 606. file://localhost/wiki/Special:Random
+ 607. file://localhost/wiki/Wikipedia:About
+ 608. file://localhost/wiki/Wikipedia:Community_portal
+ 609. file://localhost/wiki/Special:RecentChanges
+ 610. file://localhost/wiki/Wikipedia:Contact_us
+ 611. http://wikimediafoundation.org/wiki/Donate
+ 612. file://localhost/wiki/Help:Contents
+ 613. file://localhost/wiki/Special:WhatLinksHere/Dragon_Quest
+ 614. file://localhost/wiki/Special:RecentChangesLinked/Dragon_Quest
+ 615. file://localhost/wiki/Wikipedia:Upload
+ 616. file://localhost/wiki/Special:SpecialPages
+ 617. file://localhost/w/index.php?title=Dragon_Quest&printable=yes
+ 618. file://localhost/w/index.php?title=Dragon_Quest&oldid=273236063
+ 619. file://localhost/w/index.php?title=Special:Cite&page=Dragon_Quest&id=273236063
+ 620. http://de.wikipedia.org/wiki/Dragon_Quest
+ 621. http://es.wikipedia.org/wiki/Dragon_Quest
+ 622. http://fr.wikipedia.org/wiki/Dragon_Quest
+ 623. http://gl.wikipedia.org/wiki/Dragon_Quest
+ 624. http://nl.wikipedia.org/wiki/Dragon_Quest
+ 625. http://no.wikipedia.org/wiki/Dragon_Quest
+ 626. http://pl.wikipedia.org/wiki/Dragon_Quest
+ 627. http://pt.wikipedia.org/wiki/Dragon_Quest
+ 628. http://fi.wikipedia.org/wiki/Dragon_Quest_(pelisarja)
+ 629. http://sv.wikipedia.org/wiki/Dragon_Quest
+ 630. http://www.mediawiki.org/
+ 631. http://wikimediafoundation.org/
+ 632. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 633. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 634. http://www.wikimediafoundation.org/
+ 635. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 636. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 637. http://en.wikipedia.org/wiki/Non-profit_organization
+ 638. http://en.wikipedia.org/wiki/Charitable_organization
+ 639. http://wikimediafoundation.org/wiki/Privacy_policy
+ 640. file://localhost/wiki/Wikipedia:About
+ 641. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 642. file://localhost/wiki/File:Dragon_quest_logo.jpg
+ 643. file://localhost/wiki/File:Torneko_battle_screen_1.png
+ 644. file://localhost/wiki/File:Torneko_battle_screen_1.png
+ 645. file://localhost/wiki/File:Dragon_warrior_3_battle_screen.gif
+ 646. file://localhost/wiki/File:Dragon_warrior_3_battle_screen.gif
+ 647. file://localhost/wiki/File:Rockett.jpg
+ 648. file://localhost/wiki/File:Rockett.jpg
+ 649. file://localhost/wiki/File:Dragon_quest_complete_cd_box_cover.jpg
+ 650. file://localhost/wiki/File:Dragon_quest_complete_cd_box_cover.jpg
+ 651. file://localhost/wiki/Main_Page
+ 652. http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA
+ 653. http://ru.wikipedia.org/wiki/Dragon_Quest
+ 654. http://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A7%E0%B8%AA%E0%B8%95%E0%B9%8C
+ 655. http://zh.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D

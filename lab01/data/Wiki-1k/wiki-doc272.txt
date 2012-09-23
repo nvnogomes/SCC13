@@ -1,0 +1,310 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Double harmonic scale
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   In [8]music, the double harmonic major scale^[9][1] is a [10]scale
+   whose [11]gaps may evoke "exotic" music to Western listeners. This is
+   also known as the Gypsy, Arabic and ^[12][1]^[13][2] the Byzantine
+   scale.
+
+   The sequence of [14]steps comprising the double harmonic scale is:
+     * [15]half [16]minor third half [17]whole half [18]minor third half.
+
+   Or, in relation to the [19]tonic note:
+     * flat 2nd, major 3rd, perfect 4th and 5th, minor 6th, 7th.
+
+   However, this scale is commonly represented with the first and last
+   half step each being represented as a [20]quarter tone. The non-quarter
+   tone form is identical to the Indian [21]Thaat named Bhairav.
+
+   [22]C Arabic scale: C-Db-E-F-G-Ab-B
+
+   The double harmonic scale is arrived at by either:
+     * raising the seventh of the [23]Phrygian dominant scale
+     * raising the seventh and third of the [24]Phrygian mode
+     * lowering the sixth and second of a [25]major scale
+     * combining the lower half of phrygian dominant with the upper half
+       of harmonic minor^[26][1]
+
+   It is referred to as the "double harmonic" scale because it contains
+   two augmented seconds/minor thirds, while the harmonic scale contains
+   only that between the sixth and seventh degrees:
+
+   [27]Double harmonic scale on C: augmented second between degrees 2-3
+   and 6-7
+
+   The double harmonic scale is uncommonly used in [28]Western music, as
+   it does not closely follow any of the basic [29]musical modes, nor is
+   it easily derived from them. It also does not easily fit into common
+   Western [30]chord progressions such as the [31]authentic cadence.
+   However, the Arabic scale (in the key of E) was used in [32]Nikolas
+   Roubanis's "[33]Misirlou" and the Arabic scale is sometimes used in
+   [34]heavy metal [35]guitar solos^[[36]citation needed]. It is popular
+   in India^[37][2].
+
+Contents
+
+     * [38]1 Modes
+     * [39]2 Relationship to Phrygian major (Jewish scale)
+     * [40]3 Sources
+     * [41]4 See also
+
+[[42]edit] Modes
+
+   Like most hepatonic (seven pitches in the octave) scales, the double
+   harmonic scale has a mode for each of its individual scale degrees. The
+   most commonly known of these modes is the 4th mode, the [43]Hungarian
+   gypsy scale, most similar to the [44]harmonic minor scale with a raised
+   4th degree.
+
+   The second mode is somewhat of a hybrid between the [45]blues scale
+   (contains a #4) and [46]bebop scale (both b7 and 7) but there is no 6.
+
+[[47]edit] Relationship to Phrygian major (Jewish scale)
+
+   The nearest other existing scale to the double harmonic scale is the
+   [48]Phrygian dominant scale. The double harmonic scale may be made from
+   a Phrygian dominant scale by sharpening its 7th degree.
+
+[[49]edit] Sources
+
+    1. ^ [50]^a [51]^b [52]^c Stetina, Troy (1999). The Ultimate Scale
+       Book, p.59. [53]ISBN 0793597889.
+    2. ^ [54]^a [55]^b Christiansen, Mike (2003). Mel Bay Complete Guitar
+       Scale Dictionary, p.43. [56]ISBN 0786669942.
+
+[[57]edit] See also
+
+     * [58]Gypsy scale
+     * [59]Arabic scale
+     * [60]Arabic music
+     * [61]Byzantine music
+     * [62]Musical mode
+     * [63]Tritone substitution
+
+   [64]Musical scales by                                         [65]edit
+   # of tones | [66]pentatonic | [67]hexatonic | [68]heptatonic |
+   [69]octatonic | [70]chromatic
+   Types | [71]Altered | [72]Bebop | [73]Diatonic scale | [74]Enharmonic |
+   [75]Jazz scale | [76]Minor scale
+   Name | [77]Acoustic | [78]Blues | [79]Bohlen-Pierce | [80]Diatonic |
+   [81]Double harmonic | [82]Half diminished | [83]Harmonic major |
+   [84]Lydian dominant | [85]Major | [86]Major locrian | [87]Pelog |
+   [88]Phrygian dominant scale | [89]Slendro
+            "Ethnic" name | [90]Arabic | [91]Gypsy | [92]Jewish
+   See also | [93]Modes of the diatonic scale | [94]Modes of the melodic
+   minor scale
+   Retrieved from "[95]http://en.wikipedia.org/wiki/Double_harmonic_scale"
+   [96]Categories: [97]Modes | [98]Musical scales
+   Hidden categories: [99]All articles with unsourced statements |
+   [100]Articles with unsourced statements since March 2008
+
+Views
+
+     * [101]Article
+     * [102]Discussion
+     * [103]Edit this page
+     * [104]History
+
+Personal tools
+
+     * [105]Log in / create account
+
+Navigation
+
+     * [106]Main page
+     * [107]Contents
+     * [108]Featured content
+     * [109]Current events
+     * [110]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [111]About Wikipedia
+     * [112]Community portal
+     * [113]Recent changes
+     * [114]Contact Wikipedia
+     * [115]Donate to Wikipedia
+     * [116]Help
+
+Toolbox
+
+     * [117]What links here
+     * [118]Related changes
+     * [119]Upload file
+     * [120]Special pages
+     * [121]Printable version
+     * [122]Permanent link
+     * [123]Cite this page
+
+Languages
+
+     * [124]Deutsch
+     * [125]Italiano
+     * [126]Nederlands
+
+   [127]Powered by MediaWiki
+   [128]Wikimedia Foundation
+     * This page was last modified on 4 February 2009, at 00:44.
+     * All text is available under the terms of the [129]GNU Free
+       Documentation License. (See [130]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [131]Wikimedia
+       Foundation, Inc., a U.S. registered [132]501(c)(3)
+       [133]tax-deductible [134]nonprofit [135]charity.
+     * [136]Privacy policy
+     * [137]About Wikipedia
+     * [138]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Double_harmonic_scale&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#searchInput
+   8. file://localhost/wiki/Music
+   9. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_note-Stetina-0
+  10. file://localhost/wiki/Scale_(music)
+  11. file://localhost/wiki/Steps_and_skips
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_note-Stetina-0
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_note-Christiansen-1
+  14. file://localhost/wiki/Step
+  15. file://localhost/wiki/Minor_second
+  16. file://localhost/wiki/Minor_third
+  17. file://localhost/wiki/Major_second
+  18. file://localhost/wiki/Minor_third
+  19. file://localhost/wiki/Tonic_(music)
+  20. file://localhost/wiki/Quarter_tone
+  21. file://localhost/wiki/Thaat
+  22. file://localhost/wiki/File:Double_harmonic_scale.png
+  23. file://localhost/wiki/Phrygian_dominant_scale
+  24. file://localhost/wiki/Phrygian_mode
+  25. file://localhost/wiki/Major_scale
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_note-Stetina-0
+  27. file://localhost/wiki/File:Double_harmonic_scale_marked.png
+  28. file://localhost/wiki/Western_music
+  29. file://localhost/wiki/Musical_modes
+  30. file://localhost/wiki/Chord_progressions
+  31. file://localhost/wiki/Authentic_cadence
+  32. file://localhost/w/index.php?title=Nikolas_Roubanis&action=edit&redlink=1
+  33. file://localhost/wiki/Misirlou
+  34. file://localhost/wiki/Heavy_metal_music
+  35. file://localhost/wiki/Guitar_solo
+  36. file://localhost/wiki/Wikipedia:Citation_needed
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_note-Christiansen-1
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#Modes
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#Relationship_to_Phrygian_major_.28Jewish_scale.29
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#Sources
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#See_also
+  42. file://localhost/w/index.php?title=Double_harmonic_scale&action=edit&section=1
+  43. file://localhost/wiki/Hungarian_gypsy_scale
+  44. file://localhost/wiki/Harmonic_minor_scale
+  45. file://localhost/wiki/Blues_scale
+  46. file://localhost/wiki/Bebop_scale
+  47. file://localhost/w/index.php?title=Double_harmonic_scale&action=edit&section=2
+  48. file://localhost/wiki/Phrygian_dominant_scale
+  49. file://localhost/w/index.php?title=Double_harmonic_scale&action=edit&section=3
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_ref-Stetina_0-0
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_ref-Stetina_0-1
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_ref-Stetina_0-2
+  53. file://localhost/wiki/Special:BookSources/0793597889
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_ref-Christiansen_1-0
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc272.tmp.html#cite_ref-Christiansen_1-1
+  56. file://localhost/wiki/Special:BookSources/0786669942
+  57. file://localhost/w/index.php?title=Double_harmonic_scale&action=edit&section=4
+  58. file://localhost/wiki/Gypsy_scale
+  59. file://localhost/wiki/Arabic_scale
+  60. file://localhost/wiki/Arabic_music
+  61. file://localhost/wiki/Byzantine_music
+  62. file://localhost/wiki/Musical_mode
+  63. file://localhost/wiki/Tritone_substitution
+  64. file://localhost/wiki/Musical_scale
+  65. http://en.wikipedia.org/w/index.php?title=Template:Scales&action=edit
+  66. file://localhost/wiki/Pentatonic_scale
+  67. file://localhost/wiki/Hexatonic_scale
+  68. file://localhost/wiki/Heptatonic_scale
+  69. file://localhost/wiki/Octatonic_scale
+  70. file://localhost/wiki/Chromatic_scale
+  71. file://localhost/wiki/Altered_scale
+  72. file://localhost/wiki/Bebop_scale
+  73. file://localhost/wiki/Diatonic_scale
+  74. file://localhost/wiki/Enharmonic_scale
+  75. file://localhost/wiki/Jazz_scale
+  76. file://localhost/wiki/Minor_scale
+  77. file://localhost/wiki/Acoustic_scale
+  78. file://localhost/wiki/Blues_scale
+  79. file://localhost/wiki/Bohlen-Pierce_scale
+  80. file://localhost/wiki/Diatonic_scale
+  81. file://localhost/wiki/Arabic_scale
+  82. file://localhost/wiki/Half_diminished_scale
+  83. file://localhost/wiki/Harmonic_major_scale
+  84. file://localhost/wiki/Lydian_dominant_scale
+  85. file://localhost/wiki/Major_scale
+  86. file://localhost/wiki/Major_locrian_scale
+  87. file://localhost/wiki/Pelog
+  88. file://localhost/wiki/Phrygian_dominant_scale
+  89. file://localhost/wiki/Slendro
+  90. file://localhost/wiki/Arabic_scale
+  91. file://localhost/wiki/Gypsy_scale
+  92. file://localhost/wiki/Phrygian_dominant_scale
+  93. file://localhost/wiki/Template:Diatonic_scale
+  94. file://localhost/wiki/Template:Melodic_minor_scale
+  95. http://en.wikipedia.org/wiki/Double_harmonic_scale
+  96. file://localhost/wiki/Special:Categories
+  97. file://localhost/wiki/Category:Modes
+  98. file://localhost/wiki/Category:Musical_scales
+  99. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 100. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_March_2008
+ 101. file://localhost/wiki/Double_harmonic_scale
+ 102. file://localhost/wiki/Talk:Double_harmonic_scale
+ 103. file://localhost/w/index.php?title=Double_harmonic_scale&action=edit
+ 104. file://localhost/w/index.php?title=Double_harmonic_scale&action=history
+ 105. file://localhost/w/index.php?title=Special:UserLogin&returnto=Double_harmonic_scale
+ 106. file://localhost/wiki/Main_Page
+ 107. file://localhost/wiki/Portal:Contents
+ 108. file://localhost/wiki/Portal:Featured_content
+ 109. file://localhost/wiki/Portal:Current_events
+ 110. file://localhost/wiki/Special:Random
+ 111. file://localhost/wiki/Wikipedia:About
+ 112. file://localhost/wiki/Wikipedia:Community_portal
+ 113. file://localhost/wiki/Special:RecentChanges
+ 114. file://localhost/wiki/Wikipedia:Contact_us
+ 115. http://wikimediafoundation.org/wiki/Donate
+ 116. file://localhost/wiki/Help:Contents
+ 117. file://localhost/wiki/Special:WhatLinksHere/Double_harmonic_scale
+ 118. file://localhost/wiki/Special:RecentChangesLinked/Double_harmonic_scale
+ 119. file://localhost/wiki/Wikipedia:Upload
+ 120. file://localhost/wiki/Special:SpecialPages
+ 121. file://localhost/w/index.php?title=Double_harmonic_scale&printable=yes
+ 122. file://localhost/w/index.php?title=Double_harmonic_scale&oldid=268372776
+ 123. file://localhost/w/index.php?title=Special:Cite&page=Double_harmonic_scale&id=268372776
+ 124. http://de.wikipedia.org/wiki/Zigeuner-Dur
+ 125. http://it.wikipedia.org/wiki/Scala_araba
+ 126. http://nl.wikipedia.org/wiki/Zigeunertoonladder
+ 127. http://www.mediawiki.org/
+ 128. http://wikimediafoundation.org/
+ 129. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 130. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 131. http://www.wikimediafoundation.org/
+ 132. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 133. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 134. http://en.wikipedia.org/wiki/Non-profit_organization
+ 135. http://en.wikipedia.org/wiki/Charitable_organization
+ 136. http://wikimediafoundation.org/wiki/Privacy_policy
+ 137. file://localhost/wiki/Wikipedia:About
+ 138. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 139. file://localhost/wiki/Main_Page

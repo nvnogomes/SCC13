@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+
+  
+    <title>Informação sobre o cluster</title>
+  </head><body>
+<h1> Informação sobre o cluster para ensino </h1>
+
+<p>
+Para poder aceder remotamente aos vários computadores de um cluster (ou grupo de computadores) &eacute; preciso um <em>username</em> e uma
+<em>password</em>  o que nem sempre se revela prático, em particular se estiver a usar um cluster com centenas de nós.
+Para uma utiliza&ccedil;&atilde;o mais c&oacute;moda conv&eacute;m que entre os seus v&aacute;rios
+n&oacute;s se possa fazer "login" usado o <em>ssh</em>
+sem ser necess&aacute;rio
+introduzir a "password". Para tal sugere-se o uso de chaves assimétricas (publica e privada). Para conseguir isso, execute o seguinte
+comando que permite gerar um par de chaves RSA a usar nos logins em vez das
+passwords:
+</p>
+<pre>    ssh-keygen -t rsa</pre>
+
+<p>N&atilde;o d&ecirc; qualquer password. Depois s&oacute; tem de
+copiar a sua chave p&uacute;blica, em .ssh/id_rsa.pub, para
+.ssh/authorized_keys (tal funciona porque a sua área é montada em todos os nós, logo, todos partilham o ficheiro .ssh/authorized_keys).</p>
+
+
+Os computadores do laboratório está instalada a versão de MPI OpenMPI que pode usar para testar o seu programa. No entanto, no cluster
+a usar para os testes e comparações está instalado o LAM/MPI. Assim alguns aspectos de configuração e inicialização do ambiente são um pouco diferentes.
+
+<p>
+Por exemplo, para facilitar a execução de um programa em vários computadores (nós) é conveniente escrever um ficheiro de configuração, contendo os nós a usar. No caso do OpenMPI, para computadores com 2 cpus (ou cores) será algo como:</p>
+<pre>
+host1 slots=2
+host2 slots=2
+host3 slots=2
+host4 slots=2
+</pre>
+
+<p>
+Para lançar a aplicação usa-se o comando <em>mpirun</em>. Este comando tem
+formatos apresentados a seguir: <em>mpirun -np num_processos -hostfile myhosts programa</em>
+</p>
+<p> No exemplo seguinte, lançam-se 10 cópias
+do programa <em>exemplo</em> deixando ao cuidado do sistema de suporte à execução
+a escolha dos nós em que os 10 processos são lançados, de entre os indicados no ficheiro 'myhosts':</p>
+<pre>
+  mpirun -np 10 -hostfile myhosts exemplo
+</pre>
+
+Note-se que neste caso, não estamos a indicar onde estão os executáveis ...
+Outra forma será indicar uma configuração para a aplicação. Veja os manuais.
+
+A seguir vemos como será para o Lam/MPI
+
+
+<h2> LAM/MPI</h2>
+
+<p> 
+No cluster de ensino está disponível uma implementação de MPI desenvolvida na Universidade de
+Ohio chamada <em>LAM/MPI</em>. Informação sobre esta pode ser obtida
+em <a href="http://www.lam-mpi.org">LAM/MPI Parallel Computing</a>.
+
+<p>
+Antes de se poder correr um programa MPI é preciso fazer o <em>arranque</em>
+da máquina virtual em que a aplicação é executada. Para isso é necessário
+escrever um ficheiro de configuração que vamos chamar <em>my-hosts</em>:</p>
+<pre>
+bldin01 cpu=2
+bldin02 cpu=2
+bldin03 cpu=2
+bldin04 cpu=2
+bldin05 cpu=2
+bldin06 cpu=2
+</pre>
+
+<p>
+Para arrancar a máquina virtual é preciso fazer:
+</p>
+<pre>
+lamboot my-hosts
+</pre>
+
+<p>
+No final da sessão, devemos desligar a máquina virtual:</p>
+<pre>
+lamhalt
+</pre>
+
+<p>
+Para lançar a aplicação usa-se o comando <em>mpirun</em> após o lamboot.
+Este comando tem o formato apresentado a seguir:
+<em>mpirun -np num_processos programa</em>
+</p>
+
+<p>
+Mais detalhes sobre estes comandos e outros podem ser obtidos em:
+</p>
+<ul>
+<li> <a href="http://www.lam-mpi.org/tutorials/one-step/lam.php">One-Step Tutorial: Getting started with LAM</a>
+<li> <a href="http://www.lam-mpi.org/tutorials/lam/">MPI Tutorials: Getting started with LAM/MPI</a>
+</ul>
+
+
+
+<p>
+Um exemplo de um programa que usa o MPI é o seguinte:
+</p>
+<pre>
+#include &lt;mpi.h&gt;
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+
+main( int argc, char **argv){
+      int myrank;
+      int len;
+
+      char name [MPI_MAX_PROCESSOR_NAME];
+
+      MPI_Init(&argc, &argv);
+      MPI_Comm_rank( MPI_COMM_WORLD, &myrank);
+      MPI_Get_processor_name( name, &len ); 
+
+      printf("%s: hello from %d\n", name, myrank);
+
+      MPI_Finalize();
+} </pre>
+
+Para compilar um programa e permitir a execução em todos os nós, as
+acções recomendadas estão resumidas no <em>Makefile</em> seguinte:
+<pre>
+CC = mpicc
+CFLAGS = -g -Wall
+TARGET = exemplo
+INSTALLDIR = ~/bin
+
+all: $(TARGET) install
+
+$(TARGET): $(TARGET).c
+	$(CC) $(CFLAGS) -o $(TARGET) $&lt;
+
+install:
+	cp $(TARGET) $(INSTALLDIR)
+
+clean:
+	rm -f *.o $(TARGET) $(INSTALLDIR)/$(TARGET)
+
+</pre>
+
+A compilação deve ser feita no nó de entrada <em>bldin01</em>.
+
+Note que no objectivo <em>install</em> o executável é copiado para a
+directoria <em>~/bin</em> ficando acessível de qualquer directoria, admitindo que esta directoria faz parte do seu PATH, para que o programa possa ser facilmente executado. Se não for assim, pode acrescentar essa directoria ao seu PATH colocando em ~/.bashrc:
+<pre>
+PATH=$PATH:~/bin
+</pre>
+
+
+
+<h2>Aplicações MPI em Condor</h2>
+
+<p>O universo "parallel" permite a afectação de recursos (CPU) e o lançamento da aplicação
+ de forma diferente da antes experimentada, permitindo cumprir os requisitos do MPI. Toda a
+ aplicação MPI é vista pelo Condor como um único job. Este só pode ser executado pela afectação, 
+em simultâneo, do número de CPU requeridos no ficheiro de descrição do job. Isto significa, como
+ esperado, que mesmo que existam CPU disponíveis uma aplicação MPI não pode ir executando nesses
+ parte dos processos e deixar outros processos para quando outros CPU ficarem disponíveis. 
+Quando o número de CPU requeridos fica disponível, é então lançada a aplicação pela execução de um
+ script especial, responsável pelo lançamento do MPI, seguido da execução do mpirun.</p>
+
+<p>Um exemplo da descrição de um trabalho MPI para o Condor é o seguinte:</p>
+
+<pre>
+# neste exemplo executa uma aplicacao MPI em 5 CPUs
+Executable = /home/condor/libexec/lamscript
+machine_count = 5
+arguments = myapp
+Output = myapp.out.$(node)
+Error = myapp.error.$(node)
+Log = myapp.log
+Queue 1
+</pre>
+
+<p> Note que o número de nós a usar pelo MPI é indicado por "machine_count" e o programa
+ é dado como argumento (arguments) ao script lamscript (indicado em Executable). É este script que instancia todo o ambiente do MPI
+ e depois efectua o lançamento da aplicação com o mpirun.
+</p>
+
+<p>Com base no exemplo anterior execute a versão MPI  por sí desenvolvida 
+sob controlo do Condor, permitindo a fácil partilha/exclusão do cluster com os seus colegas de aula.</p>
+
+
+
+</body>
+</html>

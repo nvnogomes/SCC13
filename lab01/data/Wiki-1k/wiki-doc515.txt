@@ -1,0 +1,285 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dunham classification
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   The Dunham classification system for [8]carbonate [9]sedimentary rocks
+   was devised by [10]Kingsley Charles Dunham in 1964, and refined by
+   [11]Embry and [12]Klovan in 1971 to include [13]sediments that were
+   organically bound during [14]deposition.
+
+   The classification is a way of describing the composition of
+   [15]calcareous [16]rocks. For descriptions detailing the textural
+   components of sediments and sedimentary rocks, the [17]Folk
+   classification is generally preferred - both are equally valid methods
+   of classification with different emphases.
+
+Contents
+
+     * [18]1 Mudstone
+     * [19]2 Wackestone
+     * [20]3 Floatstone
+     * [21]4 Packstone
+     * [22]5 Rudstone
+     * [23]6 Grainstone
+     * [24]7 Boundstone
+     * [25]8 Bafflestone
+     * [26]9 Bindstone
+     * [27]10 Framestone
+     * [28]11 Crystalline carbonate
+     * [29]12 References
+     * [30]13 External links
+
+[[31]edit] [32]Mudstone
+
+   Contains less than 10% grains (usually assessed by [33]area in cut or
+   [34]thin section), supported by a [35]lime [36]mud.
+
+[[37]edit] [38]Wackestone
+
+   Consists of more than 10% grains, supported by a lime mud.
+
+[[39]edit] [40]Floatstone
+
+   Consists of more than 10% large grains (>2 mm), supported by a lime
+   mud.
+
+[[41]edit] [42]Packstone
+
+   Contains lime mud, but is grain supported.
+
+[[43]edit] [44]Rudstone
+
+   Coarse [45]limestones supported by grains larger than 2 mm.
+
+[[46]edit] [47]Grainstone
+
+   Lacks mud, and is grain supported.
+
+[[48]edit] [49]Boundstone
+
+   Describes sediment where the original components have been bound
+   together after deposition.
+
+[[50]edit] [51]Bafflestone
+
+   [52]Organisms acted as [53]baffles during deposition, reducing the
+   local depositional [54]energy. Will contain traces of baffling organism
+   and smaller grains that would be expected from the [55]palocurrent
+   strength.
+
+[[56]edit] [57]Bindstone
+
+   Organisms (such as [58]algae) encrust the elements during deposition
+   and bind them together.
+
+[[59]edit] [60]Framestone
+
+   A [61]solid calcareous or [62]siliceous [63]framework is maintained by
+   an organism such as a [64]coral or [65]sponge.
+
+[[66]edit] [67]Crystalline carbonate
+
+   Does not have recognisable depositional structures.
+
+[[68]edit] References
+
+     * Dunham, R. J., 1962, Classification of carbonate rocks according to
+       depositional texture, in Ham, W. E. ed., Classification of
+       carbonate rocks: [69]American Association of Petroleum Geologists
+       Memoir 1, p. 108-121.
+
+[[70]edit] External links
+
+     * [71]Description of Carbonate Rocks
+
+    This [72]geology article is a [73]stub. You can help Wikipedia by
+   [74]expanding it.
+   Retrieved from "[75]http://en.wikipedia.org/wiki/Dunham_classification"
+   [76]Categories: [77]Sedimentary rocks | [78]Petrology | [79]Geology
+   stubs
+
+Views
+
+     * [80]Article
+     * [81]Discussion
+     * [82]Edit this page
+     * [83]History
+
+Personal tools
+
+     * [84]Log in / create account
+
+Navigation
+
+     * [85]Main page
+     * [86]Contents
+     * [87]Featured content
+     * [88]Current events
+     * [89]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [90]About Wikipedia
+     * [91]Community portal
+     * [92]Recent changes
+     * [93]Contact Wikipedia
+     * [94]Donate to Wikipedia
+     * [95]Help
+
+Toolbox
+
+     * [96]What links here
+     * [97]Related changes
+     * [98]Upload file
+     * [99]Special pages
+     * [100]Printable version
+     * [101]Permanent link
+     * [102]Cite this page
+
+Languages
+
+     * [103]Nederlands
+
+   [104]Powered by MediaWiki
+   [105]Wikimedia Foundation
+     * This page was last modified on 30 December 2008, at 00:00.
+     * All text is available under the terms of the [106]GNU Free
+       Documentation License. (See [107]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [108]Wikimedia
+       Foundation, Inc., a U.S. registered [109]501(c)(3)
+       [110]tax-deductible [111]nonprofit [112]charity.
+     * [113]Privacy policy
+     * [114]About Wikipedia
+     * [115]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dunham_classification&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#searchInput
+   8. file://localhost/wiki/Carbonate_minerals
+   9. file://localhost/wiki/Sedimentary_rocks
+  10. file://localhost/wiki/Kingsley_Charles_Dunham
+  11. file://localhost/wiki/Embry
+  12. file://localhost/w/index.php?title=Klovan&action=edit&redlink=1
+  13. file://localhost/wiki/Sediment
+  14. file://localhost/wiki/Deposition_(geology)
+  15. file://localhost/wiki/Calcareous
+  16. file://localhost/wiki/Rocks
+  17. file://localhost/wiki/Folk_classification
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Mudstone
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Wackestone
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Floatstone
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Packstone
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Rudstone
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Grainstone
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Boundstone
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Bafflestone
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Bindstone
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Framestone
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#Crystalline_carbonate
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#References
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc515.tmp.html#External_links
+  31. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=1
+  32. file://localhost/wiki/Mudstone
+  33. file://localhost/wiki/Area
+  34. file://localhost/wiki/Thin_section
+  35. file://localhost/wiki/Lime_(mineral)
+  36. file://localhost/wiki/Mud
+  37. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=2
+  38. file://localhost/wiki/Wackestone
+  39. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=3
+  40. file://localhost/w/index.php?title=Floatstone&action=edit&redlink=1
+  41. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=4
+  42. file://localhost/wiki/Packstone
+  43. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=5
+  44. file://localhost/w/index.php?title=Rudstone&action=edit&redlink=1
+  45. file://localhost/wiki/Limestone
+  46. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=6
+  47. file://localhost/wiki/Grainstone
+  48. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=7
+  49. file://localhost/wiki/Boundstone
+  50. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=8
+  51. file://localhost/w/index.php?title=Bafflestone&action=edit&redlink=1
+  52. file://localhost/wiki/Organism
+  53. file://localhost/wiki/Baffle
+  54. file://localhost/wiki/Energy
+  55. file://localhost/w/index.php?title=Pal%C3%A6ocurrent&action=edit&redlink=1
+  56. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=9
+  57. file://localhost/w/index.php?title=Bindstone&action=edit&redlink=1
+  58. file://localhost/wiki/Algae
+  59. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=10
+  60. file://localhost/w/index.php?title=Framestone&action=edit&redlink=1
+  61. file://localhost/wiki/Solid
+  62. file://localhost/wiki/Siliceous
+  63. file://localhost/wiki/Framework
+  64. file://localhost/wiki/Coral
+  65. file://localhost/wiki/Sponge
+  66. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=11
+  67. file://localhost/wiki/Crystalline
+  68. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=12
+  69. file://localhost/wiki/American_Association_of_Petroleum_Geologists
+  70. file://localhost/w/index.php?title=Dunham_classification&action=edit&section=13
+  71. http://people.uncw.edu/dockal/gly312/carbonate/carbonate.htm
+  72. file://localhost/wiki/Geology
+  73. file://localhost/wiki/Wikipedia:Stub
+  74. http://en.wikipedia.org/w/index.php?stub&title=Dunham_classification&action=edit
+  75. http://en.wikipedia.org/wiki/Dunham_classification
+  76. file://localhost/wiki/Special:Categories
+  77. file://localhost/wiki/Category:Sedimentary_rocks
+  78. file://localhost/wiki/Category:Petrology
+  79. file://localhost/wiki/Category:Geology_stubs
+  80. file://localhost/wiki/Dunham_classification
+  81. file://localhost/wiki/Talk:Dunham_classification
+  82. file://localhost/w/index.php?title=Dunham_classification&action=edit
+  83. file://localhost/w/index.php?title=Dunham_classification&action=history
+  84. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dunham_classification
+  85. file://localhost/wiki/Main_Page
+  86. file://localhost/wiki/Portal:Contents
+  87. file://localhost/wiki/Portal:Featured_content
+  88. file://localhost/wiki/Portal:Current_events
+  89. file://localhost/wiki/Special:Random
+  90. file://localhost/wiki/Wikipedia:About
+  91. file://localhost/wiki/Wikipedia:Community_portal
+  92. file://localhost/wiki/Special:RecentChanges
+  93. file://localhost/wiki/Wikipedia:Contact_us
+  94. http://wikimediafoundation.org/wiki/Donate
+  95. file://localhost/wiki/Help:Contents
+  96. file://localhost/wiki/Special:WhatLinksHere/Dunham_classification
+  97. file://localhost/wiki/Special:RecentChangesLinked/Dunham_classification
+  98. file://localhost/wiki/Wikipedia:Upload
+  99. file://localhost/wiki/Special:SpecialPages
+ 100. file://localhost/w/index.php?title=Dunham_classification&printable=yes
+ 101. file://localhost/w/index.php?title=Dunham_classification&oldid=260774659
+ 102. file://localhost/w/index.php?title=Special:Cite&page=Dunham_classification&id=260774659
+ 103. http://nl.wikipedia.org/wiki/Dunham_classificatie
+ 104. http://www.mediawiki.org/
+ 105. http://wikimediafoundation.org/
+ 106. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 107. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 108. http://www.wikimediafoundation.org/
+ 109. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 110. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 111. http://en.wikipedia.org/wiki/Non-profit_organization
+ 112. http://en.wikipedia.org/wiki/Charitable_organization
+ 113. http://wikimediafoundation.org/wiki/Privacy_policy
+ 114. file://localhost/wiki/Wikipedia:About
+ 115. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 116. file://localhost/wiki/File:WikiProject_Geology.svg
+ 117. file://localhost/wiki/Main_Page

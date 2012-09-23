@@ -1,0 +1,190 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EFi-X
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EFi-X R&D Team)
+   Jump to: [7]navigation, [8]search
+
+   CAPTION: EFi-X
+
+   Design firm  [9]EFi-X R&D team
+   Manufacturer [10]EFi-X R&D team
+       Cost     $199.99
+       Type     BPU (Boot Processing Unit), [11]dongle
+    Connection  [12]internal 10-1 pins USB
+
+   EFi-X is a BPU (Boot Processing Unit) internal [13]USB [14]dongle. The
+   unit allows users to install [15]Apple OS X on EFI-X approved,
+   non-Apple-manufactured [16]PC hardware. There has been some suggestion
+   that this equates an EFiX-equipped machine to a
+   [17]Hackintosh.^[18][1]. This is refuted by the manufacturers, Arts
+   Studios Entertainment Media. ^[19][2]
+
+[[20]edit] References
+
+    1. [21]^ "[22]Review: EFiX Dongle Perfectly Transforms PC to Mac".
+       [23]Gizmodo. September 16, 2008.
+       [24]http://gizmodo.com/5049756/review-efix-dongle-perfectly-transfo
+       rms-pc-to-mac. Retrieved on 2008-09-28.
+    2. [25]^ [26]TestFreaks. January 21, 2009.
+       [27]http://www.testfreaks.com/blog/interview/interview-with-davide-
+       rutigliano-ceo-of-art-studios-entertainment-maker-of-efi-x.
+
+[[28]edit] External links
+
+     * [29]Official website
+     * [30]EFI-X Hardware Compatibility List
+     * [31]tom's hardware - We Interview EFiX Creators: OS X on PC
+     * [32]Muzzle.nl - Interview with Davide Rutigliano (CEO of Art
+       Studios Entertainment Media)
+     * [33]Muzzle.nl - Interview with Davide Rutigliano - New milestone
+       update!
+
+    This [34]computer hardware-related article is a [35]stub. You can
+   [36]help Wikipedia by [37]expanding it.
+   Retrieved from "[38]http://en.wikipedia.org/wiki/EFi-X"
+   [39]Categories: [40]Computer hardware stubs | [41]Digital rights
+   management | [42]OSX86
+
+Views
+
+     * [43]Article
+     * [44]Discussion
+     * [45]Edit this page
+     * [46]History
+
+Personal tools
+
+     * [47]Log in / create account
+
+Navigation
+
+     * [48]Main page
+     * [49]Contents
+     * [50]Featured content
+     * [51]Current events
+     * [52]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [53]About Wikipedia
+     * [54]Community portal
+     * [55]Recent changes
+     * [56]Contact Wikipedia
+     * [57]Donate to Wikipedia
+     * [58]Help
+
+Toolbox
+
+     * [59]What links here
+     * [60]Related changes
+     * [61]Upload file
+     * [62]Special pages
+     * [63]Printable version
+     * [64]Permanent link
+     * [65]Cite this page
+
+   [66]Powered by MediaWiki
+   [67]Wikimedia Foundation
+     * This page was last modified on 18 February 2009, at 02:02.
+     * All text is available under the terms of the [68]GNU Free
+       Documentation License. (See [69]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [70]Wikimedia
+       Foundation, Inc., a U.S. registered [71]501(c)(3)
+       [72]tax-deductible [73]nonprofit [74]charity.
+     * [75]Privacy policy
+     * [76]About Wikipedia
+     * [77]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EFi-X&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EFi-X_R%26D_Team&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#searchInput
+   9. file://localhost/wiki/EFi-X_R%26D
+  10. file://localhost/wiki/EFi-X_R%26D
+  11. file://localhost/wiki/Dongle
+  12. file://localhost/wiki/USB
+  13. file://localhost/wiki/USB
+  14. file://localhost/wiki/Dongle
+  15. file://localhost/wiki/Mac_OS_X
+  16. file://localhost/wiki/IBM_PC
+  17. file://localhost/wiki/OSx86
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#cite_note-0
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#cite_note-1
+  20. file://localhost/w/index.php?title=EFi-X&action=edit&section=1
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#cite_ref-0
+  22. http://gizmodo.com/5049756/review-efix-dongle-perfectly-transforms-pc-to-mac
+  23. file://localhost/wiki/Gizmodo
+  24. http://gizmodo.com/5049756/review-efix-dongle-perfectly-transforms-pc-to-mac
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc635.tmp.html#cite_ref-1
+  26. file://localhost/w/index.php?title=TestFreaks&action=edit&redlink=1
+  27. http://www.testfreaks.com/blog/interview/interview-with-davide-rutigliano-ceo-of-art-studios-entertainment-maker-of-efi-x
+  28. file://localhost/w/index.php?title=EFi-X&action=edit&section=2
+  29. http://efi-x.com/
+  30. http://www.efixusa.net/hardware_comp.php
+  31. http://www.tomshardware.com/reviews/efi-x-efix-leopard-usb,2021.html
+  32. http://www.muzzle.nl/english-chat/39-interview-davide-rutigliano-ceo-art-studios-entertainment-media.html
+  33. http://www.muzzle.nl/english-chat/733-interview-davide-rutigliano-new-milestone-update.html
+  34. file://localhost/wiki/Computer_hardware
+  35. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  36. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  37. http://en.wikipedia.org/w/index.php?stub&title=EFi-X&action=edit
+  38. http://en.wikipedia.org/wiki/EFi-X
+  39. file://localhost/wiki/Special:Categories
+  40. file://localhost/wiki/Category:Computer_hardware_stubs
+  41. file://localhost/wiki/Category:Digital_rights_management
+  42. file://localhost/w/index.php?title=Category:OSX86&action=edit&redlink=1
+  43. file://localhost/wiki/EFi-X
+  44. file://localhost/wiki/Talk:EFi-X
+  45. file://localhost/w/index.php?title=EFi-X&action=edit
+  46. file://localhost/w/index.php?title=EFi-X&action=history
+  47. file://localhost/w/index.php?title=Special:UserLogin&returnto=EFi-X
+  48. file://localhost/wiki/Main_Page
+  49. file://localhost/wiki/Portal:Contents
+  50. file://localhost/wiki/Portal:Featured_content
+  51. file://localhost/wiki/Portal:Current_events
+  52. file://localhost/wiki/Special:Random
+  53. file://localhost/wiki/Wikipedia:About
+  54. file://localhost/wiki/Wikipedia:Community_portal
+  55. file://localhost/wiki/Special:RecentChanges
+  56. file://localhost/wiki/Wikipedia:Contact_us
+  57. http://wikimediafoundation.org/wiki/Donate
+  58. file://localhost/wiki/Help:Contents
+  59. file://localhost/wiki/Special:WhatLinksHere/EFi-X
+  60. file://localhost/wiki/Special:RecentChangesLinked/EFi-X
+  61. file://localhost/wiki/Wikipedia:Upload
+  62. file://localhost/wiki/Special:SpecialPages
+  63. file://localhost/w/index.php?title=EFi-X&printable=yes
+  64. file://localhost/w/index.php?title=EFi-X&oldid=271482007
+  65. file://localhost/w/index.php?title=Special:Cite&page=EFi-X&id=271482007
+  66. http://www.mediawiki.org/
+  67. http://wikimediafoundation.org/
+  68. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  69. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  70. http://www.wikimediafoundation.org/
+  71. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  72. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  73. http://en.wikipedia.org/wiki/Non-profit_organization
+  74. http://en.wikipedia.org/wiki/Charitable_organization
+  75. http://wikimediafoundation.org/wiki/Privacy_policy
+  76. file://localhost/wiki/Wikipedia:About
+  77. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  78. file://localhost/wiki/File:EFi-X_USB_Developers_Unit.png
+  79. file://localhost/wiki/File:Nuvola_apps_kcmprocessor.png
+  80. file://localhost/wiki/Main_Page

@@ -1,0 +1,212 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Department of Defense Information Assurance Certification and Accreditation
+Process
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]DoD Information Assurance Certification and
+   Accreditation Process)
+   Jump to: [7]navigation, [8]search
+   The [9]neutrality of this article is [10]disputed.
+   Please see the discussion on the [11]talk page. (March 2008)
+   Please do not remove this message until the [12]dispute is resolved.
+
+   The DoD Information Assurance Certification and Accreditation Process
+   (DIACAP) is the [13]United States [14]Department of Defense (DoD)
+   process to ensure that [15]risk management is applied on
+   [16]information systems (IS). DIACAP defines a DoD-wide formal and
+   standard set of activities, general tasks and a management structure
+   process for the certification and accreditation (C&A) of a DoD IS that
+   will maintain the [17]information assurance (IA) posture throughout the
+   [18]system's life cycle.
+
+   An interim version of the DIACAP was signed July 6, 2006 and superseded
+   [19]DITSCAP. The final version is titled Department of Defense
+   Instruction 8510.01 and was signed on November 28, 2007. It supersedes
+   the Interim DIACAP Guidance.
+
+[[20]edit] History
+
+   The philosophical and managerial motivations behind DIACAP and its
+   logical forerunner, [21]DITSCAP, derive from accreditation work
+   performed for a spectrum of customers by Barry Stauffer of CORBETT
+   Technologies, long since purchased by BAE Systems. The technical
+   requirements of the process ultimately derive from a comprehensive
+   [22]requirements traceability matrix (RTM) prepared for CORBETT in
+   response to a gamut of needs for Office of Justice Programs, Drug
+   Enforcement Administrations, and United States Marshals service by
+   Bruce Wilner of Network Security Laboratories.
+
+   The major change in DIACAP from DITSCAP is the embracing of the idea of
+   information assurance controls (defined in DoDD 8500.1 and DoDI 8500.2)
+   as the primary set of security requirements for all automated
+   information systems (AISs). The IA Controls are determined based on the
+   system's mission assurance category (MAC) and confidentiality level
+   (CL).
+
+[[23]edit] Process
+
+     * SIP
+     * DIP
+          + Validation
+     * Certification Determination
+     * DIACAP Scorecard
+     * POA&M
+     * Approval to Operate Decision
+
+[[24]edit] References
+
+     * [25]DIACAP Knowledge Service (requires DoD [26]PKI certificate)
+     * [27]DIACAP Guidance at the DoD Information Assurance Support
+       Environment
+     * [28]Department Of Defense Instruction 8510.01: DoD Information
+       Assurance Certification and Accreditation Process
+
+    This [29]United States-related article is a [30]stub. You can [31]help
+   Wikipedia by [32]expanding it.
+   Retrieved from
+   "[33]http://en.wikipedia.org/wiki/Department_of_Defense_Information_Ass
+   urance_Certification_and_Accreditation_Process"
+   [34]Categories: [35]United States Department of Defense | [36]Computer
+   security procedures | [37]United States stubs
+   Hidden categories: [38]NPOV disputes from March 2008 | [39]All NPOV
+   disputes
+
+Views
+
+     * [40]Article
+     * [41]Discussion
+     * [42]Edit this page
+     * [43]History
+
+Personal tools
+
+     * [44]Log in / create account
+
+Navigation
+
+     * [45]Main page
+     * [46]Contents
+     * [47]Featured content
+     * [48]Current events
+     * [49]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [50]About Wikipedia
+     * [51]Community portal
+     * [52]Recent changes
+     * [53]Contact Wikipedia
+     * [54]Donate to Wikipedia
+     * [55]Help
+
+Toolbox
+
+     * [56]What links here
+     * [57]Related changes
+     * [58]Upload file
+     * [59]Special pages
+     * [60]Printable version
+     * [61]Permanent link
+     * [62]Cite this page
+
+   [63]Powered by MediaWiki
+   [64]Wikimedia Foundation
+     * This page was last modified on 6 August 2008, at 18:29.
+     * All text is available under the terms of the [65]GNU Free
+       Documentation License. (See [66]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [67]Wikimedia
+       Foundation, Inc., a U.S. registered [68]501(c)(3)
+       [69]tax-deductible [70]nonprofit [71]charity.
+     * [72]Privacy policy
+     * [73]About Wikipedia
+     * [74]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=DoD_Information_Assurance_Certification_and_Accreditation_Process&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc72.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc72.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Neutral_point_of_view
+  10. file://localhost/wiki/Wikipedia:NPOV_dispute
+  11. file://localhost/wiki/Talk:Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  12. file://localhost/wiki/Wikipedia:NPOVD#What_is_an_NPOV_dispute.3F
+  13. file://localhost/wiki/United_States
+  14. file://localhost/wiki/United_States_Department_of_Defense
+  15. file://localhost/wiki/Risk_management
+  16. file://localhost/wiki/Information_systems
+  17. file://localhost/wiki/Information_assurance
+  18. file://localhost/wiki/Systems_Development_Life_Cycle
+  19. file://localhost/wiki/DITSCAP
+  20. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit&section=1
+  21. file://localhost/wiki/DITSCAP
+  22. file://localhost/w/index.php?title=Requirements_traceability_matrix&action=edit&redlink=1
+  23. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit&section=2
+  24. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit&section=3
+  25. https://diacap.iaportal.navy.mil/
+  26. file://localhost/wiki/PKI
+  27. http://iase.disa.mil/ditscap/
+  28. http://www.dtic.mil/whs/directives/corres/pdf/851001p.pdf
+  29. file://localhost/wiki/United_States
+  30. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  31. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  32. http://en.wikipedia.org/w/index.php?stub&title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit
+  33. http://en.wikipedia.org/wiki/Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  34. file://localhost/wiki/Special:Categories
+  35. file://localhost/wiki/Category:United_States_Department_of_Defense
+  36. file://localhost/wiki/Category:Computer_security_procedures
+  37. file://localhost/wiki/Category:United_States_stubs
+  38. file://localhost/wiki/Category:NPOV_disputes_from_March_2008
+  39. file://localhost/wiki/Category:All_NPOV_disputes
+  40. file://localhost/wiki/Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  41. file://localhost/wiki/Talk:Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  42. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=edit
+  43. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&action=history
+  44. file://localhost/w/index.php?title=Special:UserLogin&returnto=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  45. file://localhost/wiki/Main_Page
+  46. file://localhost/wiki/Portal:Contents
+  47. file://localhost/wiki/Portal:Featured_content
+  48. file://localhost/wiki/Portal:Current_events
+  49. file://localhost/wiki/Special:Random
+  50. file://localhost/wiki/Wikipedia:About
+  51. file://localhost/wiki/Wikipedia:Community_portal
+  52. file://localhost/wiki/Special:RecentChanges
+  53. file://localhost/wiki/Wikipedia:Contact_us
+  54. http://wikimediafoundation.org/wiki/Donate
+  55. file://localhost/wiki/Help:Contents
+  56. file://localhost/wiki/Special:WhatLinksHere/Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  57. file://localhost/wiki/Special:RecentChangesLinked/Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process
+  58. file://localhost/wiki/Wikipedia:Upload
+  59. file://localhost/wiki/Special:SpecialPages
+  60. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&printable=yes
+  61. file://localhost/w/index.php?title=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&oldid=230243789
+  62. file://localhost/w/index.php?title=Special:Cite&page=Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process&id=230243789
+  63. http://www.mediawiki.org/
+  64. http://wikimediafoundation.org/
+  65. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  66. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  67. http://www.wikimediafoundation.org/
+  68. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  69. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  70. http://en.wikipedia.org/wiki/Non-profit_organization
+  71. http://en.wikipedia.org/wiki/Charitable_organization
+  72. http://wikimediafoundation.org/wiki/Privacy_policy
+  73. file://localhost/wiki/Wikipedia:About
+  74. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  75. file://localhost/wiki/File:Unbalanced_scales.svg
+  76. file://localhost/wiki/File:Flag_of_the_United_States.svg
+  77. file://localhost/wiki/Main_Page

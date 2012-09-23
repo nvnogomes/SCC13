@@ -1,0 +1,1536 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Wikimedia Foundation
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Economyof wikimedia foundation)
+   Jump to: [7]navigation, [8]search
+   This article is about the non-profit organization. For the similar
+   terms related to Wikipedia, see [9]Wikipedia (terminology).
+   "Wikimedia", which redirects here, should not be confused with
+   [10]MediaWiki
+
+   CAPTION: Wikimedia Foundation, Inc.
+
+   Logo of the Wikimedia Foundation
+   Type [11]501(c)(3) [12]charitable organization
+   Founded [13]St. Petersburg, Florida, US
+   [14]June 20, [15]2003 (2003-06-20) (5 years ago)
+   Headquarters [16]San Francisco, [17]California
+    [18]United States
+   Staff [19]Michael Snow, Chair of the Board
+   [20]Jimmy Wales, Chairman Emeritus^[21][1]
+   [22]Sue Gardner, Executive Director
+   Area served Worldwide
+   Focus Free, [23]open content, [24]wiki-based internet projects
+   Method [25]Wikipedia, [26]Wiktionary, [27]Wikiquote, [28]Wikibooks
+   (including [29]Wikijunior), [30]Wikisource, [31]Wikimedia Commons,
+   [32]Wikispecies, [33]Wikinews, [34]Wikiversity, Wikimedia Incubator and
+   [35]MetaWiki
+   Revenue $2,734,909 (2007)^[36][2]
+   Employees 23 (as of November 2008)^[37][3]
+   Website [38]wikimediafoundation.org
+
+   The Wikimedia Foundation, Inc. is a [39]non-profit [40]charitable
+   organization headquartered in [41]San Francisco, [42]California, United
+   States, and organized under the laws of the state of [43]Florida, where
+   it was initially based. It operates several online collaborative
+   [44]wiki projects including [45]Wikipedia, [46]Wiktionary,
+   [47]Wikiquote, [48]Wikibooks (including [49]Wikijunior),
+   [50]Wikisource, [51]Wikimedia Commons, [52]Wikispecies, [53]Wikinews,
+   [54]Wikiversity, Wikimedia Incubator and [55]Meta-Wiki. Its flagship
+   project, the [56]English-language Wikipedia, ranks among the top ten
+   most-visited websites worldwide.^[57][4]
+
+   The creation of the foundation was officially announced on the 20th of
+   June, 2003 by [58]Wikipedia co-founder [59]Jimmy Wales,^[60][5] who had
+   been operating Wikipedia under the aegis of his company
+   [61]Bomis.^[62][6]
+
+Contents
+
+     * [63]1 Goals
+     * [64]2 Operations
+     * [65]3 History and growth
+          + [66]3.1 Board of Trustees
+          + [67]3.2 Volunteer committees and positions
+          + [68]3.3 Employees
+     * [69]4 Current Board of Trustees
+     * [70]5 Advisory Board
+     * [71]6 Wikimedia projects
+     * [72]7 Finances
+     * [73]8 Local chapters
+     * [74]9 Wikimania
+     * [75]10 References
+     * [76]11 External links
+
+[[77]edit] Goals
+
+   The Wikimedia Foundation falls under section [78]501(c)(3) of the US
+   [79]Internal Revenue Code as a [80]public charity. Its [81]National
+   Taxonomy of Exempt Entities (NTEE) code is B60 ([82]Adult,
+   [83]Continuing Education).^[84][7]^[85][8] The foundation's by-laws
+   declare a statement of purpose of collecting and developing educational
+   content and to disseminate it effectively and globally.^[86][9]
+
+   The Wikimedia [87]Foundation's stated goal is to develop and maintain
+   [88]open content, [89]wiki-based projects and to provide the full
+   contents of those projects to the public [90]free of charge.^[91][10]
+
+   In addition to the multilingual general [92]encyclopedia [93]Wikipedia,
+   the foundation manages a multi-language [94]dictionary and
+   [95]thesaurus named [96]Wiktionary, an encyclopedia of [97]quotations
+   named [98]Wikiquote, a repository of source texts in any language named
+   [99]Wikisource, and a collection of [100]e-book texts for students
+   (such as [101]textbooks and annotated [102]public domain books) named
+   [103]Wikibooks. [104]Wikijunior is a subproject of Wikibooks that
+   specializes in books for children.
+
+[[105]edit] Operations
+
+   The continued technical and economic growth of each of the Wikimedia
+   projects is dependent mostly on donations but the Wikimedia Foundation
+   also increases its revenue by alternative means of funding such as
+   [106]grants, sponsorship, services (datafeed) and brand merchandising.
+   In March 2008 the foundation announced its largest donation to date: a
+   three-year, $3 million grant from the [107]Alfred P. Sloan
+   Foundation.^[108][11]
+
+[[109]edit] History and growth
+
+   The name "Wikimedia" was [110]coined by [111]Sheldon Rampton in a post
+   to the English Wikipedia's mailing list in March 2003.^[112][12] The
+   name has been criticized^[[113]citation needed] for its similarity to
+   "[114]Wikipedia" and the software it runs on, "[115]MediaWiki"; this
+   sometimes leads to confusion among people new to the project.
+
+   With the foundation's announcement, Wales also transferred ownership of
+   all Wikipedia, Wiktionary and [116]Nupedia [117]domain names to
+   Wikimedia along with the copyrights for all materials related to these
+   projects that were created by [118]Bomis employees or Wales himself.
+   The computer equipment used to run all the Wikimedia projects was also
+   donated by Wales to the foundation, which also acquired the [119]domain
+   names "wikimedia.org" and "wikimediafoundation.org".
+
+   In April 2005, the US [120]Internal Revenue Service approved (by
+   letter) the foundation as an educational foundation in the category
+   "[121]Adult, [122]Continuing Education", meaning all contributions to
+   the Wikimedia Foundation are [123]tax deductible for U.S. federal
+   income tax purposes.
+
+   On December 11, 2006, the Wikimedia Foundation board noted that the
+   corporation could not become the membership organization initially
+   planned but never implemented due to an inability to meet the
+   registration requirements of Florida Statute. Accordingly, the bylaws
+   were amended to remove all reference to membership rights and
+   activities. The decision to change the bylaws was passed by the board
+   unanimously.
+
+   On September 25, 2007, the Wikimedia Foundation board gave notice that
+   the operations would be moving to the [124]San Francisco Bay Area.
+   Major considerations cited for choosing San Francisco were proximity to
+   like-minded organizations and potential partners as well as cheaper and
+   more convenient international travel than is available from St.
+   Petersburg.^[125][13]^[126][14]^[127][15]
+
+[[128]edit] Board of Trustees
+
+   This section may contain an [129]inappropriate mixture of prose and
+   timeline. Please help [130]convert this timeline into [131]prose or, if
+   necessary, a [132]list. (September 2008)
+
+   In January 2004, [133]Jimmy Wales appointed his business partners
+   [134]Tim Shell and Michael Davis to the board of the Wikimedia
+   Foundation. In June 2004, an election was held for two user
+   representative board members. Following one month of campaigning and
+   two weeks of online voting, [135]Angela Beesley and [136]Florence
+   Nibart-Devouard were elected to join the board. In late 2004, Wales and
+   Beesley launched a startup company, [137]Wikia, affiliated with neither
+   Wikimedia nor Bomis.^[[138]citation needed] In July 2005, Beesley and
+   Nibart-Devouard were re-elected to the board.
+
+   On July 1, 2006, Beesley resigned from the board effective upon
+   election of her successor, expressing concern about "certain events and
+   tendencies that have arisen within the organization since the start of
+   this year," but stating her intent to continue to participate in the
+   Wikimedia projects, and in the formation of an Australian chapter. A
+   special election was held in September to finish Beesley's term, ending
+   with the mid-2007 election. The election was won by [139]Erik Mller.
+
+   In October 2006, Nibart-Devouard replaced Wales as chair of the
+   Foundation. On December 8, 2006, the board expanded to seven people
+   with the appointments of Kat Walsh and Oscar van Dillen. Effective
+   December 15, 2006, [140]Jan-Bart de Vreede was appointed to replace
+   Shell.
+
+   In the June 2007 election, Mller and Walsh were reelected; van Dillen,
+   who ran for re-election, was narrowly edged by Frieda Brioschi.
+
+   Davis left the board in November 2007. Nibart-Devouard's elected term
+   expires in June 2008. The appointed terms for Wales and de Vreede
+   expire in December 2008. Brioschi's and Walsh's elected terms expire in
+   June 2009.
+
+   In December 2007, Mller resigned from the Board of Trustees, and was
+   hired as the foundation's deputy director by the executive director.
+
+   In February 2008, Florence Devouard announced the addition of two new
+   board members: Michael Snow, an American lawyer and chair of the
+   Communication Committee; and Domas Mituzas, a Lithuanian computer
+   software engineer, MySQL employee, and longtime member of the core tech
+   team.^[141][16]
+
+   In April 2008, the board announced a restructuring of its membership,
+   increasing the number of board positions to 10 overall, as follows:
+     * Three community-elected seats
+     * Two seats to be selected by the chapters
+     * One board-appointed 'community founder' seat, to be occupied by
+       Jimmy Wales
+     * Four board-appointed 'specific expertise' seats^[142][17]
+
+   In the June 2008 board election, Ting Chen was elected for a one-year
+   term, then Frieda Brioschi resigned to be alected at the board of
+   [143]Wikimedia Italia.
+
+[[144]edit] Volunteer committees and positions
+
+   In 2004, the foundation appointed Tim Starling as developer liaison to
+   help improve the [145]MediaWiki software, Daniel Mayer as [146]chief
+   financial officer ([147]finance, [148]budgeting and coordination of
+   fund drives), and [149]Erik Mller as content partnership coordinator.
+
+   In May 2005, the foundation announced the appointment of seven people
+   to official positions:^[150][18]
+     * Brion Vibber as chief technical officer (Vibber was also an
+       employee of the Foundation, with other duties)
+     * Domas Mituzas as hardware officer
+     * Jens Frank as developer liaison
+     * Mller as chief research officer
+     * Danny Wool as grants coordinator
+     * Elisabeth Bauer as press officer
+     * Jean-Baptiste Soufron as lead legal coordinator
+
+   Mller resigned in August 2005, due to differences with the board, and
+   was replaced by James Forrester. In February 2007, Forrester resigned,
+   and the board appointed Gregory Maxwell to the position, renamed "chief
+   research coordinator".^[151][19]
+
+   In January 2006, the foundation created several committees, including
+   the Communication Committee, in an attempt to further organize
+   activities essentially handled by volunteers at that time.^[152][20]
+   Starling resigned that month to spend more time on his PhD program.
+
+[[153]edit] Employees
+
+   Organization chart as of January 2008^[154][21]
+
+   The functions of the Wikimedia Foundation were, for the first few
+   years, executed almost entirely by volunteers. In 2005, the foundation
+   had only two employees, Danny Wool, a coordinator, and Brion Vibber, a
+   software manager. Though the number of employees has grown, the
+   foundation's staff is still very small, and the bulk of foundation work
+   continues to be done by volunteers.
+
+   The current staff are listed on the Foundation website, [155]here.
+
+   As of October 4, 2006, the Wikimedia Foundation had five paid
+   employees:^[156][22] two programmers, an administrative assistant, a
+   coordinator handling fundraising and grants, and an interim
+   [157]executive director,^[158][23] Brad Patrick, previously the
+   foundation's [159]general counsel. Patrick ceased his activity as
+   interim director in January 2007, and then resigned from his position
+   as legal counsel, effective April 1, 2007. He was replaced by [160]Mike
+   Godwin as general counsel and legal coordinator in July 2007.^[161][24]
+   Three further technical contractors were also appointed in December
+   2006: part-time hardware manager Kyle Anderson in Tampa, full-time
+   MediaWiki software developer Tim Starling, and part-time networking
+   coordinator Mark Bergsma.
+
+   In January 2007, Carolyn Doran was named [162]chief operating officer
+   and Sandy Ordonez came on board as [163]head of
+   communications.^[164][25] Doran had begun working as a part-time
+   bookkeeper in 2006 after being sent by a [165]temporary agency. Doran
+   later left the foundation in July 2007, and [166]Sue Gardner was hired
+   as consultant and special advisor (later CEO). Some months after
+   Doran's departure, it was identified^[167][26] that she was a convicted
+   [168]felon, with a [169]DUI arrest during her tenure at the foundation
+   and a substantial criminal history, including shooting her boyfriend
+   and complicity in credit card forgery.^[170][27] Her departure from the
+   organization was cited as one of the reasons the foundation took about
+   seven months to release its fiscal 2007 financial audit.^[171][28]
+
+   Danny Wool, officially the grant coordinator but also largely involved
+   in fundraising and business development, resigned in March 2007. In
+   February 2007, the foundation added a new position, chapters
+   coordinator, and hired Delphine Mnard ^[172][29], who had been
+   occupying the position as a volunteer since August 2005. Cary Bass was
+   hired in March 2007 in the position of [173]volunteer coordinator. In
+   May 2007, Vishal Patel was hired to assist in business
+   development.^[174][30] Oleta McHenry was brought in as accountant in
+   May, 2007, through a temporary placement agency and made the official
+   fulltime accountant in August, 2007. In [175]January 2008, the
+   foundation appointed three new staff: Veronique Kessler as the new
+   chief financial and operating officer, [176]Kul Wadhwa to replace
+   Vishal Patel as head of business development, and [177]Jay Walsh as
+   [178]head of communications.
+
+   In June 2008, the foundation announced two staff additions in
+   fundraising: Rebecca Handler as major gifts officer and Rand Montoya as
+   head of community giving.^[179][31] Soon afterward, Sara Crouse was
+   hired as head of partnerships and foundation relations.^[180][32] In
+   fall 2008, the foundation hired three software developers: Tomasz Finc,
+   Ariel Glenn, and Trevor Parscal.^[181][33]
+
+[[182]edit] Current Board of Trustees
+
+   These are the current members of the Board:^[183][34]
+     * [184]Michael Snow, chair
+     * [185]Jimmy Wales, chairman emeritus
+     * Jan-Bart de Vreede, vice-chair
+     * Domas Mituzas, executive secretary
+     * Stuart West, treasurer
+     * Kat Walsh
+     * Ting Chen
+
+[[186]edit] Advisory Board
+
+   The [187]Advisory Board is an international network of experts who have
+   agreed to give the foundation meaningful help on a regular basis in
+   many different areas, including law, organizational development,
+   technology, policy, and outreach.^[188][35] The current members are:
+     * [189]Angela Beesley
+     * [190]Ward Cunningham
+     * [191]Heather Ford
+     * [192]Debbie Garside
+     * [193]Melissa Hagemann
+     * [194]Danny Hillis
+     * [195]Mitch Kapor
+
+     * [196]Joris Komen
+     * [197]Teemu Leinonen
+     * [198]Rebecca MacKinnon
+     * [199]Wayne Mackintosh
+     * [200]Benjamin Mako Hill
+     * [201]Erin McKean
+     * [202]Roger McNamee
+     * [203]Trevor Neilson
+
+     * [204]Florence Nibart-Devouard
+     * [205]Achal Prabhala
+     * [206]Jay Rosen
+     * [207]Clay Shirky
+     * [208]Peter Suber
+     * [209]Raoul Weiler
+     * [210]Ethan Zuckerman
+
+[[211]edit] Wikimedia projects
+
+   The Wikimedia projects logo family
+
+   The launch dates shown below are when official domains were established
+   for the projects and/or beta versions were launched; preliminary test
+   versions at other domains are not considered.
+   Name URL Launching date Description
+   [212]Wikipedia [213]www.wikipedia.org 2001-01-15 Encyclopedia
+   containing more than 10 million articles in 264 languages.
+   [214]Meta-Wiki [215]meta.wikimedia.org 2001-11-09 Wiki devoted to the
+   coordination of the Wikimedia projects.
+   [216]Wiktionary [217]www.wiktionary.org 2002-12-12 Dictionary
+   cataloging meanings, synonyms, etymologies and translations.
+   [218]Wikibooks [219]www.wikibooks.org 2003-07-10 Collection of free
+   educational textbooks and learning materials.
+   [220]Wikiquote [221]www.wikiquote.org 2003-07-10 Collection of
+   quotations structured in numerous ways.
+   [222]Wikisource [223]www.wikisource.org 2003-11-24 Project to provide
+   and translate free source documents, such as public domain texts.
+   [224]Wikimedia Commons [225]commons.wikimedia.org 2004-09-07
+   [226]Repository of images, sounds, videos and general [227]media,
+   containing over 3,300,000 files.
+   Wikimedia Incubator [228]incubator.wikimedia.org 2006-06-02 Used to
+   test possible new languages for existing projects.
+   [229]Wikispecies [230]species.wikimedia.org 2004-09-13 Directory of
+   [231]species data on [232]animalia, [233]plantae, [234]fungi,
+   [235]bacteria, [236]archaea, [237]protista and all other forms of life.
+   [238]Wikinews [239]www.wikinews.org 2004-12-03 [240]News source
+   containing original reporting by citizen journalists from many
+   countries.
+   [241]Wikiversity [242]www.wikiversity.org 2006-08-15 Educational and
+   research materials and activities.
+
+[[243]edit] Finances
+
+          Main article: [244]Finance report
+
+   The Wikimedia Foundation relies on public contributions and grants to
+   fund its mission of providing free knowledge to every person in the
+   world.^[245][36] It is exempt from federal income
+   tax^[246][36]^[247][37] and from state income tax.^[248][36]^[249][38]
+   It is not a private foundation, and contributions to it qualify as
+   tax-deductible charitable contributions.^[250][36]
+
+   At the beginning of 2006, the foundation's [251]net assets were
+   $270,000. During the year, the organization received support and
+   revenue totaling $1,510,000, with concurrent expenses of $790,000.
+   [252]Net assets increased by $720,000 to a total of over one million
+   dollars.^[253][36] In 2007, the foundation continued to expand, ending
+   the year with net assets of $1,700,000.^[254][39] Both income and
+   expenses nearly doubled in 2007.^[255][39]
+
+[[256]edit] Local chapters
+
+   Wikimedia projects have an international scope. To continue this
+   success on an organizational level, Wikimedia is building an
+   international network of associated organizations.
+
+   [257]Local chapters are self-dependent organizations that share the
+   goals of the Wikimedia Foundation and support them within a specified
+   geographical region. They support the foundation, the Wikimedia
+   community and Wikimedia projects in different ways  by collecting
+   donations, organizing local events and projects and spreading the word
+   of Wikimedia, free content and Wiki culture. They also provide the
+   community and potential partners with a point of contact capable of
+   fulfilling specific local needs.
+
+   Local chapters are self-dependent associations with no legal control of
+   nor responsibility for the websites of the Wikimedia Foundation and
+   vice versa.
+   World map showing countries that have local chapters in blue.
+   Country Title URL Since
+    [258]Argentina [259]Wikimedia Argentina [260]www.wikimedia.org.ar
+   02007-09-01 September 1, 2007
+    [261]Australia [262]Wikimedia Australia [263]www.wikimedia.org.au
+   02008-03-01 March 1, 2008
+    [264]Austria [265]Wikimedia sterreich [266]www.wikimedia.at
+   02008-02-26 February 26, 2008
+    [267]Brazil [268]Wikimedia Brasil [269]meta.wikimedia.org 02008-10-07
+   October 7, 2008
+    [270]Czech Republic [271]Wikimedia esk republika
+   [272]meta.wikimedia.org 02008-03-06 March 6, 2008
+    [273]France [274]Wikimdia France [275]www.wikimedia.fr 02004-10-23
+   October 23, 2004
+    [276]Germany [277]Wikimedia Deutschland [278]www.wikimedia.de
+   02004-06-13 June 13, 2004
+    [279]Hong Kong [280]meta.wikimedia.org 02008-03-01 March 1, 2008
+    [281]Hungary [282]Wikimdia Magyarorszg [283]wiki.media.hu 02008-09-27
+   September 27, 2008
+    [284]Indonesia [285]Wikimedia Indonesia [286]wikimedia.web.id
+   02008-10-07 October 7, 2008
+    [287]Israel [288]Wikimedia Israel [289]il.wikimedia.org 02007-06-26
+   June 26, 2007
+    [290]Italy [291]Wikimedia Italia [292]www.wikimedia.it 02005-06-17
+   June 17, 2005
+    [293]Netherlands [294]Wikimedia Nederland [295]nl.wikimedia.org
+   02006-03-27 March 27, 2006
+    [296]Norway [297]Wikimedia Norge 02007-06-23 June 23, 2007
+    [298]Poland [299]Wikimedia Polska [300]pl.wikimedia.org 02005-11-18
+   November 18, 2005
+    [301]Russia [302]wikimedia.ru (not yet working) 02008-05-24 May 24,
+   2008
+    [303]Serbia [304]Wikimedia [305]rs.wikimedia.org 02005-12-03 December
+   3, 2005
+    [306]Sweden [307]Wikimedia Sverige [308]se.wikimedia.org 02007-12-11
+   December 11, 2007
+    [309]Switzerland [310]Wikimedia CH [311]www.wikimedia.ch 02006-05-14
+   May 14, 2006
+    [312]Republic of China [313]www.wikimedia.tw 02007-07-04 July 4, 2007
+    [314]United Kingdom [315]Wikimedia UK [316]www.wikimedia.org.uk
+   02006-02-14 February 14, 2006
+
+[[317]edit] Wikimania
+
+          Main articles: [318]Wikimania and [319]Wikimania page at
+          Meta-Wiki
+
+   Wikimedia organizes each year Wikimania, a conference for users of the
+   Wikimedia Foundation projects. It was first organized in [320]Frankfurt
+   (Germany), 2005.
+
+[[321]edit] References
+
+    1. [322]^ [323]Cbrown1023. [324]"Board of Trustees". Wikimedia
+       Foundation. Archived from [325]the original on 2008-01-15.
+       [326]http://wikimediafoundation.org/w/index.php?title=Board_of_Trus
+       tees&oldid=24547. Retrieved on 2008-01-19.
+    2. [327]^ [328]Cbrown1023. [329]"Finance report". Wikimedia
+       Foundation. Archived from [330]the original on 2008-02-08.
+       [331]http://wikimediafoundation.org/w/index.php?title=Finance_repor
+       t&oldid=25373. Retrieved on 2008-02-08.
+    3. [332]^ [333]"Wikipedia Foundation's "Staff" page". Wikimedia
+       Foundation. [334]http://wikimediafoundation.org/wiki/Current_staff.
+       Retrieved on 2008-11-29.
+    4. [335]^ [336]"Top 500". [337]Alexa.
+       [338]http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=non
+       e. Retrieved on 2007-12-04.
+    5. [339]^ Bergstein, Brian (2007-03-25). "[340]Sanger says he
+       co-started Wikipedia". [341]ABC News ([342]Associated Press).
+       [343]http://abcnews.go.com/Technology/wireStory?id=2980046.
+       Retrieved on 2007-07-31. "The nascent Web encyclopedia Citizendium
+       springs from Larry Sanger, a philosophy Ph.D. who counts himself as
+       a co-founder of Wikipedia, the site he now hopes to usurp. The
+       claim doesn't seem particularly controversial  Sanger has long been
+       cited as a co-founder. Yet the other founder, Jimmy Wales, isn't
+       happy about it."
+    6. [344]^ [345]Wales, Jimmy (2003-06-20). [346]"Wikipedia English
+       mailing list message".
+       [347]http://lists.wikimedia.org/pipermail/wikipedia-l/2003-June/010
+       743.html.
+    7. [348]^ [349]"NTEE Classification System".
+       [350]http://www.guidestar.org/npo/ntee.jsp. Retrieved on
+       2008-01-28.
+    8. [351]^ [352]"NCCS definition for Adult Education".
+       [353]http://nccs2.urban.org/ntee-cc/b.htm#b60. Retrieved on
+       2008-01-28.
+    9. [354]^ [355]Jd. [356]"Wikimedia Foundation bylaws". Wikimedia
+       Foundation. Archived from [357]the original on 2007-04-20.
+       [358]http://wikimediafoundation.org/w/index.php?title=Wikimedia_Fou
+       ndation_bylaws&oldid=20641#ARTICLE_II_-_STATEMENT_OF_PURPOSE.
+       Retrieved on 2008-01-28.
+   10. [359]^ [360]Devouard, Florence. [361]"Mission statement". Wikimedia
+       Foundation. Archived from [362]the original on 2007-09-01.
+       [363]http://wikimediafoundation.org/w/index.php?title=Mission_state
+       ment&oldid=21859. Retrieved on 2008-01-28.
+   11. [364]^ [365]"Sloan Foundation to Give Wikipedia $3M".
+       [366]Associated Press.
+       [367]http://ap.google.com/article/ALeqM5i8x-wlh7nMm12x_kVQ6MZxrYWK9
+       QD8VKMV1G0.
+   12. [368]^ [369]Rampton, Sheldon (2003-03-16). [370]"Wikipedia English
+       mailing list message".
+       [371]http://mail.wikipedia.org/pipermail/wikien-l/2003-March/001887
+       .html.
+   13. [372]^ Carlos Moncada (2007-09-25). [373]"Wikimedia Foundation
+       Moving To Another Bay Area". [374]The Tampa Tribune.
+       [375]http://www2.tbo.com/content/2007/sep/25/wikimedia-foundation-m
+       oving-another-bay-area/?news-breaking.
+   14. [376]^ Richard Mullins (2007-09-26). [377]"Online Encyclopedia To
+       Leave St. Petersburg For San Francisco". [378]The Tampa Tribune.
+       [379]http://www.tbo.com/news/money/MGBNF5F517F.html.
+   15. [380]^ Kim, Ryan (2007-10-10). [381]"Wikipedia team plans move to
+       San Francisco". [382]San Francisco Chronicle.
+       [383]http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/10/BU
+       69SNMQ2.DTL&tsp=1.
+   16. [384]^ [385]Devouard, Florence (2008-02-13). [386]"[Foundation-l]
+       [Announcement] Welcome to our two new board members".
+       [387]http://lists.wikimedia.org/pipermail/foundation-l/2008-Februar
+       y/038528.html. Retrieved on 2008-02-13.
+   17. [388]^ [389]Walsh, Jay. [390]"Board of Trustees Restructure
+       Announcement". Wikimedia Foundation. Archived from [391]the
+       original on 2008-04-27.
+       [392]http://wikimediafoundation.org/w/index.php?title=Board_of_Trus
+       tees/Restructure_Announcement&oldid=26599. Retrieved on
+       2008-04-26.
+   18. [393]^ Snow, Michael (2005-05-30). "[394]Wikimedia names seven to
+       official positions". The Wikipedia Signpost.
+       [395]http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2005
+       -05-30/Foundation_official_positions. Retrieved on 2008-03-10.
+   19. [396]^ [397]Mller, Erik. [398]"Resolution:Chief Research
+       Coordinator". Wikimedia Foundation. Archived from [399]the original
+       on 2007-03-01.
+       [400]http://wikimediafoundation.org/w/index.php?title=Resolution:Ch
+       ief_Research_Coordinator&oldid=19693. Retrieved on 2007-03-01.
+   20. [401]^ [402]Devouard, Florence. [403]"Resolutions". Wikimedia
+       Foundation. Archived from [404]the original on 2008-01-21.
+       [405]http://wikimediafoundation.org/w/index.php?title=Resolutions&o
+       ldid=24632. Retrieved on 2008-02-04.
+   21. [406]^ [407]January 2008 Wikimedia Organization employee
+       descriptions
+   22. [408]^ [409]Jimmy Wales. [410]Charlie Rose (46:22) (internet video)
+       [TV-Series]. Google Video: Charlie Rose. Retrieved on 2006-12-08.
+   23. [411]^ [412]Korg. [413]"Wikimedia Foundation Announces Interim
+       Executive Director". Wikimedia Foundation. Archived from [414]the
+       original on 2006-06-12.
+       [415]http://wikimediafoundation.org/w/index.php?title=Press_release
+       s/Wikimedia_Foundation_Announces_Interim_Executive_Director&oldid=1
+       3996. Retrieved on 2006-06-12.
+   24. [416]^ [417]Mailing list post by the Chair of the Wikimedia
+       Foundation's Board of Trustees announcing the appointment.
+   25. [418]^ [419]Danny. [420]"Current staff". Wikimedia Foundation.
+       Archived from [421]the original on 2007-02-01.
+       [422]http://wikimediafoundation.org/w/index.php?title=Current_staff
+       &oldid=19370. Retrieved on 2007-02-01.
+   26. [423]^ Metz, Cade (2007-12-13). [424]"Wikipedia COO was convicted
+       felon".
+       [425]http://www.theregister.co.uk/2007/12/13/wikimedia_coo_convicte
+       d_felon/. Retrieved on 2007-12-27.
+   27. [426]^ Bergstein, Brian (2007-12-21). [427]"Felon Became COO of
+       Wikipedia Foundation".
+       [428]http://ap.google.com/article/ALeqM5hcWLu3fg-aDeJNfWTY6hlbz93oC
+       wD8TM0HVG0. Retrieved on 2007-12-27.
+   28. [429]^ Ral315 (2007-11-19). "[430]Signpost interview: Florence
+       Devouard". The Wikipedia Signpost.
+       [431]http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007
+       -11-19/Anthere_interview. Retrieved on 2008-02-19.
+   29. [432]^ [433]"Resolution:Chapters coordinator".
+       [434]http://wikimediafoundation.org/wiki/Resolution:Chapters_coordi
+       nator_-_Delphine_M%C3%A9nard.
+   30. [435]^ [436]Bass, Cary. [437]"Current staff". Wikimedia Foundation.
+       Archived from [438]the original on 2007-05-18.
+       [439]http://wikimediafoundation.org/w/index.php?title=Current_staff
+       &oldid=21206. Retrieved on 2007-05-18.
+   31. [440]^ [441]Kessler, Veronique (2008-06-26). [442]"Wikimedia
+       Foundation announces new staff appointments". Wikimedia Blog.
+       Wikimedia Foundation.
+       [443]http://blog.wikimedia.org/2008/06/26/wikimedia-foundation-anno
+       unces-new-staff-appointments/. Retrieved on 2008-06-28.
+   32. [444]^ [445]Kessler, Veronique (2008-07-12). [446]"Welcome Sara
+       Crouse to the WMF staff". Wikimedia Blog. Wikimedia Foundation.
+       [447]http://blog.wikimedia.org/2008/07/12/welcome-sara-crouse-to-th
+       e-wmf-staff/. Retrieved on 2008-07-17.
+   33. [448]^ [449]"Staff". Wikimedia Foundation.
+       [450]http://wikimediafoundation.org/wiki/Staff. Retrieved on
+       2008-11-29.
+   34. [451]^ [452]Walsh, Jay. [453]"Board of Trustees". Wikimedia
+       Foundation.
+       [454]http://wikimediafoundation.org/wiki/Board_of_Trustees.
+       Retrieved on 2008-04-27.
+   35. [455]^ Garsided. [456]"Advisory Board". Wikimedia Foundation.
+       Archived from [457]the original on 2008-02-01.
+       [458]http://wikimediafoundation.org/w/index.php?title=Advisory_Boar
+       d&oldid=25007. Retrieved on 2008-02-12.
+   36. ^ [459]^a [460]^b [461]^c [462]^d [463]^e [464]"Wikimedia
+       Foundation, Inc. - Financial Statements  June 30, 2006, 2005, and
+       2004" ([465]PDF). Wikimedia Foundation. 2006-12-06.
+       [466]http://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedi
+       a_2006_fs.pdf. Retrieved on 2006-12-06.
+   37. [467]^ See also Section 501(c)(3) of the Internal Revenue Code of
+       the Florida Statutes
+   38. [468]^ See also Chapter 220.13 of the Florida Statutes
+   39. ^ [469]^a [470]^b [471]Finance report 2007
+
+[[472]edit] External links
+
+       Find more about Wikimedia Foundation on Wikipedia's [473]sister
+                                  projects:
+
+   [474]Definitions from Wiktionary
+
+   [475]Textbooks from Wikibooks
+   [476]Quotations from Wikiquote
+   [477]Source texts from Wikisource
+   [478]Images and media from Commons
+   [479]News stories from Wikinews
+   [480]Learning resources from Wikiversity
+     * [481]Wikimedia Foundation website
+     * [482]Wikimedia Foundation annual report
+     * [483]Wikimedia Foundation blog
+     * [484]Wikimedia Foundation bylaws[485]PDF (259 [486]KiB)
+     * [487]Wikimedia on freenode
+     * [488]Financial statements 2004-2005-2006[489]PDF (90.2 [490]KiB)
+     * [491]Public Record for Wikimedia Foundation Inc. from Florida
+       Department of State web site
+     * [492]Sheldon Rampton's WikiEN-l post
+
+   [493]v  [494]d  [495]e
+   Projects of the Wikimedia Foundation
+   [496]Wikibooks  [497]Wikimedia Commons  [498]Wikinews  [499]Wikipedia
+   [500]Wikiquote  [501]Wikisource  [502]Wikispecies  [503]Wikiversity
+   [504]Wiktionary  [505]Meta-Wiki
+   [506]v  [507]d  [508]e
+   [509]Wikipedia
+   Main articles
+   [510]History  Wikimedia Foundation  [511]Wikimania  [512]MediaWiki
+   [513]Reliability  [514]Criticism  [515]Deletionism and inclusionism
+   [516]Academic studies about Wikipedia  [517]In culture
+   [518]WikiScanner
+   People
+   [519]Jimmy Wales  [520]Larry Sanger  [521]Florence Devouard
+   [522]Angela Beesley Starling  [523]Sue Gardner  [524]Erik Mller
+   [525]Michael Snow
+   Events
+   [526]Blocking of Wikipedia in mainland China  [527]Congressional
+   staffer edits to Wikipedia  [528]Essjay controversy  [529]Seigenthaler
+   incident  [530]Chris Benoit double murder and suicide  [531]Henryk
+   Batuta hoax  [532]Internet Watch Foundation and Wikipedia   [533]Truth
+   in Numbers: The Wikipedia Story
+   Related projects and forks
+   [534]Bomis  [535]Nupedia  [536]Citizendium  [537]Enciclopedia Libre
+   Universal en Espaol  [538]Deletionpedia  [539]Interpedia
+   [540]MyWikiBiz  [541]Veropedia  [542]Wikia  [543]Wikipedia Review
+   [544]Wikitruth  [545]Wikiweise  [546]WikiZnanie  [547]WikiPilipinas
+   Retrieved from
+   "[548]http://en.wikipedia.org/wiki/Wikimedia_Foundation#Economy"
+   [549]Categories: [550]Organizations established in 2003 |
+   [551]Educational foundations | [552]Foundations based in the United
+   States | [553]Internet companies of the United States | [554]Non-profit
+   organizations based in the United States | [555]Nonprofit technology |
+   [556]Non-profit organizations based in Florida | [557]St. Petersburg,
+   Florida | [558]Organizations based in San Francisco, California |
+   [559]Wiki communities | [560]Wikimedia Foundation
+   Hidden categories: [561]All articles with unsourced statements |
+   [562]Articles with unsourced statements since August 2008 |
+   [563]Wikipedia proseline cleanup | [564]Articles with unsourced
+   statements since March 2008
+
+Views
+
+     * [565]Article
+     * [566]Discussion
+     * [567]Edit this page
+     * [568]History
+
+Personal tools
+
+     * [569]Log in / create account
+
+Navigation
+
+     * [570]Main page
+     * [571]Contents
+     * [572]Featured content
+     * [573]Current events
+     * [574]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [575]About Wikipedia
+     * [576]Community portal
+     * [577]Recent changes
+     * [578]Contact Wikipedia
+     * [579]Donate to Wikipedia
+     * [580]Help
+
+Toolbox
+
+     * [581]What links here
+     * [582]Related changes
+     * [583]Upload file
+     * [584]Special pages
+     * [585]Printable version
+     * [586]Permanent link
+     * [587]Cite this page
+
+Languages
+
+     * [588]Afrikaans
+     * [589]Alemannisch
+     *
+     * [590]Aragons
+     * [591]Asturianu
+     * [592]Azrbaycan
+     *
+     * [593]Bn-lm-g
+     * [594]Basa Banyumasan
+     * [595]()
+     *
+     * [596]Catal
+     * [597]Cebuano
+     * [598]esky
+     * [599]Chamoru
+     * [600]Dansk
+     * [601]Deutsch
+     *
+     * [602]Espaol
+     * [603]Esperanto
+     * [604]Euskara
+     *
+     * [605]Froyskt
+     * [606]Franais
+     * [607]Gidhlig
+     * [608]Galego
+     *
+     *
+     *
+     * [609]Hrvatski
+     * [610]Igbo
+     * [611]Bahasa Indonesia
+     * [612]Interlingua
+     * [613]Italiano
+     *
+     * [614]Basa Jawa
+     *
+     * [615]Kaszbsczi
+     * [616]Kurd /
+     * [617]Latina
+     * [618]Latvieu
+     * [619]Ltzebuergesch
+     * [620]Lietuvi
+     * [621]Limburgs
+     * [622]Magyar
+     *
+     *
+     * [623]Malti
+     * [624]Bahasa Melayu
+     * [625]Nederlands
+     * [626]Nedersaksisch
+     *
+     * [627]Norsk (bokml)
+     * [628]Norsk (nynorsk)
+     * [629]Occitan
+     * [630]Polski
+     * [631]Portugus
+     * [632]Romn
+     * [633]Runa Simi
+     *
+     * [634]Scots
+     * [635]Shqip
+     * [636]Sicilianu
+     *
+     * [637]Simple English
+     * [638]Slovenina
+     * [639]Slovenina
+     * [640]Soomaaliga
+     * [641]/ Srpski
+     * [642]Srpskohrvatski /
+     * [643]Suomi
+     * [644]Svenska
+     * [645]Tagalog
+     *
+     * [646]Tatara/
+     *
+     * [647]Ting Vit
+     * [648]Trke
+     *
+     * [649]Vneto
+     *
+     * [650]Yorb
+     *
+     * [651]emaitka
+     *
+
+   [652]Powered by MediaWiki
+   [653]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 16:25.
+     * All text is available under the terms of the [654]GNU Free
+       Documentation License. (See [655]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [656]Wikimedia
+       Foundation, Inc., a U.S. registered [657]501(c)(3)
+       [658]tax-deductible [659]nonprofit [660]charity.
+     * [661]Privacy policy
+     * [662]About Wikipedia
+     * [663]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Wikimedia_Foundation&action=edit#Economy
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Economyof_wikimedia_foundation&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia_(terminology)
+  10. file://localhost/wiki/MediaWiki
+  11. file://localhost/wiki/501(c)#501.28c.29.283.29
+  12. file://localhost/wiki/Charitable_organization
+  13. file://localhost/wiki/St._Petersburg,_Florida
+  14. file://localhost/wiki/June_20
+  15. file://localhost/wiki/2003
+  16. file://localhost/wiki/San_Francisco,_California
+  17. file://localhost/wiki/California
+  18. file://localhost/wiki/United_States
+  19. file://localhost/wiki/Michael_Snow_(Wikimedia_Foundation)
+  20. file://localhost/wiki/Jimmy_Wales
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-bot-0
+  22. file://localhost/wiki/Sue_Gardner
+  23. file://localhost/wiki/Open_content
+  24. file://localhost/wiki/Wiki
+  25. file://localhost/wiki/Wikipedia
+  26. file://localhost/wiki/Wiktionary
+  27. file://localhost/wiki/Wikiquote
+  28. file://localhost/wiki/Wikibooks
+  29. file://localhost/wiki/Wikijunior
+  30. file://localhost/wiki/Wikisource
+  31. file://localhost/wiki/Wikimedia_Commons
+  32. file://localhost/wiki/Wikispecies
+  33. file://localhost/wiki/Wikinews
+  34. file://localhost/wiki/Wikiversity
+  35. file://localhost/wiki/Wikipedia:Meta
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-current-revenue-1
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-2
+  38. http://wikimediafoundation.org/wiki/Home
+  39. file://localhost/wiki/Non-profit
+  40. file://localhost/wiki/Foundation_(nonprofit_organization)
+  41. file://localhost/wiki/San_Francisco,_California
+  42. file://localhost/wiki/California
+  43. file://localhost/wiki/Florida
+  44. file://localhost/wiki/Wiki
+  45. file://localhost/wiki/Wikipedia
+  46. file://localhost/wiki/Wiktionary
+  47. file://localhost/wiki/Wikiquote
+  48. file://localhost/wiki/Wikibooks
+  49. file://localhost/wiki/Wikijunior
+  50. file://localhost/wiki/Wikisource
+  51. file://localhost/wiki/Wikimedia_Commons
+  52. file://localhost/wiki/Wikispecies
+  53. file://localhost/wiki/Wikinews
+  54. file://localhost/wiki/Wikiversity
+  55. http://meta.wikimedia.org/wiki/Main_Page
+  56. file://localhost/wiki/English_Wikipedia
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-AlexaTop500-3
+  58. file://localhost/wiki/Wikipedia
+  59. file://localhost/wiki/Jimmy_Wales
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-co-founder-4
+  61. file://localhost/wiki/Bomis
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-5
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Goals
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Operations
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#History_and_growth
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Board_of_Trustees
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Volunteer_committees_and_positions
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Employees
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Current_Board_of_Trustees
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Advisory_Board
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Wikimedia_projects
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Finances
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Local_chapters
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#Wikimania
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#References
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#External_links
+  77. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=1
+  78. file://localhost/wiki/501(c)(3)
+  79. file://localhost/wiki/Internal_Revenue_Code
+  80. file://localhost/wiki/Public_charity
+  81. file://localhost/wiki/National_Taxonomy_of_Exempt_Entities
+  82. file://localhost/wiki/Adult_education
+  83. file://localhost/wiki/Continuing_Education
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-6
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-7
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-8
+  87. file://localhost/wiki/Foundation_(charity)
+  88. file://localhost/wiki/Open_content
+  89. file://localhost/wiki/Wiki
+  90. file://localhost/wiki/Gratis
+  91. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-wikimedia-mission-9
+  92. file://localhost/wiki/Encyclopedia
+  93. file://localhost/wiki/Wikipedia
+  94. file://localhost/wiki/Dictionary
+  95. file://localhost/wiki/Thesaurus
+  96. file://localhost/wiki/Wiktionary
+  97. file://localhost/wiki/Quotation
+  98. file://localhost/wiki/Wikiquote
+  99. file://localhost/wiki/Wikisource
+ 100. file://localhost/wiki/E-book
+ 101. file://localhost/wiki/Textbook
+ 102. file://localhost/wiki/Public_domain
+ 103. file://localhost/wiki/Wikibooks
+ 104. file://localhost/wiki/Wikijunior
+ 105. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=2
+ 106. file://localhost/wiki/Federal_grant
+ 107. file://localhost/wiki/Alfred_P._Sloan_Foundation
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-3mill-10
+ 109. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=3
+ 110. file://localhost/wiki/Neologism
+ 111. file://localhost/wiki/Sheldon_Rampton
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-11
+ 113. file://localhost/wiki/Wikipedia:Citation_needed
+ 114. file://localhost/wiki/Wikipedia
+ 115. file://localhost/wiki/MediaWiki
+ 116. file://localhost/wiki/Nupedia
+ 117. file://localhost/wiki/Domain_name
+ 118. file://localhost/wiki/Bomis
+ 119. file://localhost/wiki/Domain_name
+ 120. file://localhost/wiki/Internal_Revenue_Service
+ 121. file://localhost/wiki/Adult_education
+ 122. file://localhost/wiki/Continuing_education
+ 123. file://localhost/wiki/Tax_deduction
+ 124. file://localhost/wiki/San_Francisco_Bay_Area
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-MoncadaWikimoveTribune-12
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-MullinsWikimoveTribune-13
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-KimWikimoveSFChronicle-14
+ 128. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=4
+ 129. file://localhost/wiki/Wikipedia:Proseline
+ 130. http://en.wikipedia.org/w/index.php?title=Wikimedia_Foundation&action=edit
+ 131. file://localhost/wiki/Prose
+ 132. file://localhost/wiki/Help:Editing#lists
+ 133. file://localhost/wiki/Jimmy_Wales
+ 134. file://localhost/wiki/Tim_Shell
+ 135. file://localhost/wiki/Angela_Beesley
+ 136. file://localhost/wiki/Florence_Devouard
+ 137. file://localhost/wiki/Wikia
+ 138. file://localhost/wiki/Wikipedia:Citation_needed
+ 139. file://localhost/wiki/Erik_M%C3%B6ller
+ 140. file://localhost/w/index.php?title=Jan-Bart_de_Vreede&action=edit&redlink=1
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-15
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-April2008-16
+ 143. file://localhost/wiki/Wikimedia_Italia
+ 144. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=5
+ 145. file://localhost/wiki/MediaWiki
+ 146. file://localhost/wiki/Chief_financial_officer
+ 147. file://localhost/wiki/Management_accounting
+ 148. file://localhost/wiki/Budgeting
+ 149. file://localhost/wiki/Erik_M%C3%B6ller
+ 150. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-17
+ 151. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-18
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-19
+ 153. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=6
+ 154. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-20
+ 155. http://wikimediafoundation.org/wiki/Staff
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-21
+ 157. file://localhost/wiki/Chief_executive_officer
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-22
+ 159. file://localhost/wiki/General_counsel
+ 160. file://localhost/wiki/Mike_Godwin
+ 161. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-23
+ 162. file://localhost/wiki/Chief_operating_officer
+ 163. http://wikimediafoundation.org/wiki/Head_of_Communications
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-24
+ 165. file://localhost/wiki/Temporary_work
+ 166. file://localhost/wiki/Sue_Gardner
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-25
+ 168. file://localhost/wiki/Felon
+ 169. file://localhost/wiki/DUI
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-26
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-27
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-28
+ 173. http://wikimediafoundation.org/wiki/Volunteer_Coordinator
+ 174. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-29
+ 175. http://wikimediafoundation.org/wiki/Press_releases/Jan2008_Staff_Release
+ 176. http://wikimediafoundation.org/wiki/User:Kwadhwa
+ 177. http://wikimediafoundation.org/wiki/User:JayWalsh
+ 178. http://wikimediafoundation.org/wiki/Head_of_Communications
+ 179. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-30
+ 180. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-31
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-32
+ 182. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=7
+ 183. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-33
+ 184. file://localhost/wiki/Michael_Snow_(attorney)
+ 185. file://localhost/wiki/Jimmy_Wales
+ 186. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=8
+ 187. http://wikimediafoundation.org/wiki/Advisory_Board
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-34
+ 189. file://localhost/wiki/Angela_Beesley
+ 190. file://localhost/wiki/Ward_Cunningham
+ 191. file://localhost/wiki/Heather_Ford
+ 192. http://wikimediafoundation.org/wiki/Advisory_Board#Debbie_Garside
+ 193. http://wikimediafoundation.org/wiki/Advisory_Board#Melissa_Hagemann
+ 194. file://localhost/wiki/Danny_Hillis
+ 195. file://localhost/wiki/Mitch_Kapor
+ 196. http://wikimediafoundation.org/wiki/Advisory_Board#Joris_Komen
+ 197. http://wikimediafoundation.org/wiki/Advisory_Board#Teemu_Leinonen
+ 198. file://localhost/wiki/Rebecca_MacKinnon
+ 199. http://wikimediafoundation.org/wiki/Advisory_Board#Wayne_Mackintosh
+ 200. file://localhost/wiki/Benjamin_Mako_Hill
+ 201. file://localhost/wiki/Erin_McKean
+ 202. file://localhost/wiki/Roger_McNamee
+ 203. http://wikimediafoundation.org/wiki/Advisory_Board#Trevor_Neilson
+ 204. http://wikimediafoundation.org/wiki/Advisory_Board#Florence_Nibart-Devouard
+ 205. http://wikimediafoundation.org/wiki/Advisory_Board#Achal_Prabhala
+ 206. file://localhost/wiki/Jay_Rosen
+ 207. file://localhost/wiki/Clay_Shirky
+ 208. file://localhost/wiki/Peter_Suber
+ 209. file://localhost/wiki/Raoul_Weiler
+ 210. file://localhost/wiki/Ethan_Zuckerman
+ 211. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=9
+ 212. file://localhost/wiki/Wikipedia
+ 213. http://www.wikipedia.org/
+ 214. file://localhost/wiki/Wikipedia:Meta
+ 215. http://meta.wikimedia.org/
+ 216. file://localhost/wiki/Wiktionary
+ 217. http://www.wiktionary.org/
+ 218. file://localhost/wiki/Wikibooks
+ 219. http://www.wikibooks.org/
+ 220. file://localhost/wiki/Wikiquote
+ 221. http://www.wikiquote.org/
+ 222. file://localhost/wiki/Wikisource
+ 223. http://wikisource.org/wiki/Main_Page
+ 224. file://localhost/wiki/Wikimedia_Commons
+ 225. http://commons.wikimedia.org/wiki/Main_Page
+ 226. file://localhost/wiki/Repository
+ 227. http://en.wiktionary.org/wiki/media
+ 228. http://incubator.wikimedia.org/wiki/Main_Page
+ 229. file://localhost/wiki/Wikispecies
+ 230. http://species.wikimedia.org/wiki/Main_Page
+ 231. file://localhost/wiki/Species
+ 232. file://localhost/wiki/Animalia
+ 233. file://localhost/wiki/Plantae
+ 234. file://localhost/wiki/Fungi
+ 235. file://localhost/wiki/Bacteria
+ 236. file://localhost/wiki/Archaea
+ 237. file://localhost/wiki/Protista
+ 238. file://localhost/wiki/Wikinews
+ 239. http://www.wikinews.org/
+ 240. file://localhost/wiki/News
+ 241. file://localhost/wiki/Wikiversity
+ 242. http://www.wikiversity.org/
+ 243. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=10
+ 244. http://wikimediafoundation.org/wiki/Finance_report
+ 245. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-financialstatements-35
+ 246. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-financialstatements-35
+ 247. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-36
+ 248. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-financialstatements-35
+ 249. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-37
+ 250. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-financialstatements-35
+ 251. file://localhost/wiki/Net_asset
+ 252. file://localhost/wiki/Net_asset
+ 253. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-financialstatements-35
+ 254. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-report07-38
+ 255. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_note-report07-38
+ 256. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=11
+ 257. http://meta.wikimedia.org/wiki/Wikimedia_chapters
+ 258. file://localhost/wiki/Argentina
+ 259. http://meta.wikimedia.org/wiki/Wikimedia_Argentina
+ 260. http://www.wikimedia.org.ar/
+ 261. file://localhost/wiki/Australia
+ 262. http://meta.wikimedia.org/wiki/Wikimedia_Australia
+ 263. http://www.wikimedia.org.au/
+ 264. file://localhost/wiki/Austria
+ 265. http://meta.wikimedia.org/wiki/Wikimedia_%C3%96sterreich
+ 266. http://www.wikimedia.at/
+ 267. file://localhost/wiki/Brazil
+ 268. http://meta.wikimedia.org/wiki/Wikimedia_Brasil
+ 269. http://meta.wikimedia.org/wiki/Wikimedia_Brasil
+ 270. file://localhost/wiki/Czech_Republic
+ 271. http://meta.wikimedia.org/wiki/Wikimedia_Czech_Republic
+ 272. http://meta.wikimedia.org/wiki/Wikimedia_Czech_Republic
+ 273. file://localhost/wiki/France
+ 274. http://meta.wikimedia.org/wiki/Wikim%C3%A9dia_France
+ 275. http://www.wikimedia.fr/
+ 276. file://localhost/wiki/Germany
+ 277. http://meta.wikimedia.org/wiki/Wikimedia_Deutschland
+ 278. http://www.wikimedia.de/
+ 279. file://localhost/wiki/Hong_Kong
+ 280. http://meta.wikimedia.org/wiki/Wikimedia_Hong_Kong
+ 281. file://localhost/wiki/Hungary
+ 282. http://meta.wikimedia.org/wiki/Wikim%C3%A9dia_Magyarorsz%C3%A1g
+ 283. http://wiki.media.hu/
+ 284. file://localhost/wiki/Indonesia
+ 285. http://meta.wikimedia.org/wiki/Wikimedia_Indonesia
+ 286. http://wikimedia.web.id/
+ 287. file://localhost/wiki/Israel
+ 288. http://meta.wikimedia.org/wiki/Wikimedia_Israel
+ 289. http://il.wikimedia.org/
+ 290. file://localhost/wiki/Italy
+ 291. http://meta.wikimedia.org/wiki/Wikimedia_Italia
+ 292. http://www.wikimedia.it/
+ 293. file://localhost/wiki/Netherlands
+ 294. http://meta.wikimedia.org/wiki/Wikimedia_Nederland
+ 295. http://nl.wikimedia.org/
+ 296. file://localhost/wiki/Norway
+ 297. http://meta.wikimedia.org/wiki/Wikimedia_Norge
+ 298. file://localhost/wiki/Poland
+ 299. http://meta.wikimedia.org/wiki/Wikimedia_Polska
+ 300. http://pl.wikimedia.org/
+ 301. file://localhost/wiki/Russia
+ 302. http://wikimedia.ru/
+ 303. file://localhost/wiki/Serbia
+ 304. http://meta.wikimedia.org/wiki/Wikimedia_Serbia
+ 305. http://rs.wikimedia.org/
+ 306. file://localhost/wiki/Sweden
+ 307. http://meta.wikimedia.org/wiki/Wikimedia_Sverige
+ 308. http://se.wikimedia.org/wiki/Huvudsida
+ 309. file://localhost/wiki/Switzerland
+ 310. http://meta.wikimedia.org/wiki/Wikimedia_CH
+ 311. http://www.wikimedia.ch/
+ 312. file://localhost/wiki/Republic_of_China
+ 313. http://www.wikimedia.tw/
+ 314. file://localhost/wiki/United_Kingdom
+ 315. http://meta.wikimedia.org/wiki/Wikimedia_UK
+ 316. http://www.wikimedia.org.uk/
+ 317. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=12
+ 318. file://localhost/wiki/Wikimania
+ 319. http://meta.wikimedia.org/wiki/Wikimania
+ 320. file://localhost/wiki/Frankfurt
+ 321. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=13
+ 322. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-bot_0-0
+ 323. http://wikimediafoundation.org/wiki/User:Cbrown1023
+ 324. http://wikimediafoundation.org/w/index.php?title=Board_of_Trustees&oldid=24547
+ 325. http://wikimediafoundation.org/wiki/Board_of_Trustees
+ 326. http://wikimediafoundation.org/w/index.php?title=Board_of_Trustees&oldid=24547
+ 327. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-current-revenue_1-0
+ 328. http://wikimediafoundation.org/wiki/User:Cbrown1023
+ 329. http://wikimediafoundation.org/w/index.php?title=Finance_report&oldid=25373
+ 330. http://wikimediafoundation.org/wiki/Finance_report
+ 331. http://wikimediafoundation.org/w/index.php?title=Finance_report&oldid=25373
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-2
+ 333. http://wikimediafoundation.org/wiki/Current_staff
+ 334. http://wikimediafoundation.org/wiki/Current_staff
+ 335. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-AlexaTop500_3-0
+ 336. http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none
+ 337. file://localhost/wiki/Alexa_Internet
+ 338. http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none
+ 339. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-co-founder_4-0
+ 340. http://abcnews.go.com/Technology/wireStory?id=2980046
+ 341. file://localhost/wiki/ABC_News
+ 342. file://localhost/wiki/Associated_Press
+ 343. http://abcnews.go.com/Technology/wireStory?id=2980046
+ 344. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-5
+ 345. file://localhost/wiki/Jimmy_Wales
+ 346. http://lists.wikimedia.org/pipermail/wikipedia-l/2003-June/010743.html
+ 347. http://lists.wikimedia.org/pipermail/wikipedia-l/2003-June/010743.html
+ 348. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-6
+ 349. http://www.guidestar.org/npo/ntee.jsp
+ 350. http://www.guidestar.org/npo/ntee.jsp
+ 351. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-7
+ 352. http://nccs2.urban.org/ntee-cc/b.htm#b60
+ 353. http://nccs2.urban.org/ntee-cc/b.htm#b60
+ 354. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-8
+ 355. http://wikimediafoundation.org/wiki/User:Jd
+ 356. http://wikimediafoundation.org/w/index.php?title=Wikimedia_Foundation_bylaws&oldid=20641#ARTICLE_II_-_STATEMENT_OF_PURPOSE
+ 357. http://wikimediafoundation.org/wiki/Wikimedia_Foundation_bylaws#ARTICLE_II_-_STATEMENT_OF_PURPOSE
+ 358. http://wikimediafoundation.org/w/index.php?title=Wikimedia_Foundation_bylaws&oldid=20641#ARTICLE_II_-_STATEMENT_OF_PURPOSE
+ 359. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-wikimedia-mission_9-0
+ 360. file://localhost/wiki/Florence_Devouard
+ 361. http://wikimediafoundation.org/w/index.php?title=Mission_statement&oldid=21859
+ 362. http://wikimediafoundation.org/wiki/Mission_statement
+ 363. http://wikimediafoundation.org/w/index.php?title=Mission_statement&oldid=21859
+ 364. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-3mill_10-0
+ 365. http://ap.google.com/article/ALeqM5i8x-wlh7nMm12x_kVQ6MZxrYWK9QD8VKMV1G0
+ 366. file://localhost/wiki/Associated_Press
+ 367. http://ap.google.com/article/ALeqM5i8x-wlh7nMm12x_kVQ6MZxrYWK9QD8VKMV1G0
+ 368. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-11
+ 369. file://localhost/wiki/Sheldon_Rampton
+ 370. http://mail.wikipedia.org/pipermail/wikien-l/2003-March/001887.html
+ 371. http://mail.wikipedia.org/pipermail/wikien-l/2003-March/001887.html
+ 372. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-MoncadaWikimoveTribune_12-0
+ 373. http://www2.tbo.com/content/2007/sep/25/wikimedia-foundation-moving-another-bay-area/?news-breaking
+ 374. file://localhost/wiki/The_Tampa_Tribune
+ 375. http://www2.tbo.com/content/2007/sep/25/wikimedia-foundation-moving-another-bay-area/?news-breaking
+ 376. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-MullinsWikimoveTribune_13-0
+ 377. http://www.tbo.com/news/money/MGBNF5F517F.html
+ 378. file://localhost/wiki/The_Tampa_Tribune
+ 379. http://www.tbo.com/news/money/MGBNF5F517F.html
+ 380. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-KimWikimoveSFChronicle_14-0
+ 381. http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/10/BU69SNMQ2.DTL&tsp=1
+ 382. file://localhost/wiki/San_Francisco_Chronicle
+ 383. http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/10/10/BU69SNMQ2.DTL&tsp=1
+ 384. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-15
+ 385. file://localhost/wiki/Florence_Devouard
+ 386. http://lists.wikimedia.org/pipermail/foundation-l/2008-February/038528.html
+ 387. http://lists.wikimedia.org/pipermail/foundation-l/2008-February/038528.html
+ 388. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-April2008_16-0
+ 389. http://wikimediafoundation.org/wiki/User:JayWalsh
+ 390. http://wikimediafoundation.org/w/index.php?title=Board_of_Trustees/Restructure_Announcement&oldid=26599
+ 391. http://wikimediafoundation.org/wiki/Board_of_Trustees/Restructure_Announcement
+ 392. http://wikimediafoundation.org/w/index.php?title=Board_of_Trustees/Restructure_Announcement&oldid=26599
+ 393. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-17
+ 394. http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2005-05-30/Foundation_official_positions
+ 395. http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2005-05-30/Foundation_official_positions
+ 396. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-18
+ 397. http://wikimediafoundation.org/wiki/User:Eloquence
+ 398. http://wikimediafoundation.org/w/index.php?title=Resolution:Chief_Research_Coordinator&oldid=19693
+ 399. http://wikimediafoundation.org/wiki/Resolution:Chief_Research_Coordinator
+ 400. http://wikimediafoundation.org/w/index.php?title=Resolution:Chief_Research_Coordinator&oldid=19693
+ 401. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-19
+ 402. file://localhost/wiki/Florence_Devouard
+ 403. http://wikimediafoundation.org/w/index.php?title=Resolutions&oldid=24632
+ 404. http://wikimediafoundation.org/wiki/Resolutions
+ 405. http://wikimediafoundation.org/w/index.php?title=Resolutions&oldid=24632
+ 406. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-20
+ 407. http://lists.wikimedia.org/pipermail/foundation-l/2008-January/037383.html
+ 408. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-21
+ 409. file://localhost/wiki/Jimmy_Wales
+ 410. http://video.google.com/videoplay?docid=5184822358876183858
+ 411. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-22
+ 412. http://wikimediafoundation.org/wiki/User:Korg
+ 413. http://wikimediafoundation.org/w/index.php?title=Press_releases/Wikimedia_Foundation_Announces_Interim_Executive_Director&oldid=13996
+ 414. http://wikimediafoundation.org/wiki/Press_releases/Wikimedia_Foundation_Announces_Interim_Executive_Director
+ 415. http://wikimediafoundation.org/w/index.php?title=Press_releases/Wikimedia_Foundation_Announces_Interim_Executive_Director&oldid=13996
+ 416. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-23
+ 417. http://lists.wikimedia.org/pipermail/foundation-l/2007-July/031128.html
+ 418. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-24
+ 419. http://wikimediafoundation.org/wiki/User:Danny
+ 420. http://wikimediafoundation.org/w/index.php?title=Current_staff&oldid=19370
+ 421. http://wikimediafoundation.org/wiki/Current_staff
+ 422. http://wikimediafoundation.org/w/index.php?title=Current_staff&oldid=19370
+ 423. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-25
+ 424. http://www.theregister.co.uk/2007/12/13/wikimedia_coo_convicted_felon/
+ 425. http://www.theregister.co.uk/2007/12/13/wikimedia_coo_convicted_felon/
+ 426. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-26
+ 427. http://ap.google.com/article/ALeqM5hcWLu3fg-aDeJNfWTY6hlbz93oCwD8TM0HVG0
+ 428. http://ap.google.com/article/ALeqM5hcWLu3fg-aDeJNfWTY6hlbz93oCwD8TM0HVG0
+ 429. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-27
+ 430. http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007-11-19/Anthere_interview
+ 431. http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007-11-19/Anthere_interview
+ 432. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-28
+ 433. http://wikimediafoundation.org/wiki/Resolution:Chapters_coordinator_-_Delphine_M%C3%A9nard
+ 434. http://wikimediafoundation.org/wiki/Resolution:Chapters_coordinator_-_Delphine_M%C3%A9nard
+ 435. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-29
+ 436. http://wikimediafoundation.org/wiki/User:Cary_Bass
+ 437. http://wikimediafoundation.org/w/index.php?title=Current_staff&oldid=21206
+ 438. http://wikimediafoundation.org/wiki/Current_staff
+ 439. http://wikimediafoundation.org/w/index.php?title=Current_staff&oldid=21206
+ 440. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-30
+ 441. http://wikimediafoundation.org/wiki/User:VeroniqueKessler
+ 442. http://blog.wikimedia.org/2008/06/26/wikimedia-foundation-announces-new-staff-appointments/
+ 443. http://blog.wikimedia.org/2008/06/26/wikimedia-foundation-announces-new-staff-appointments/
+ 444. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-31
+ 445. http://wikimediafoundation.org/wiki/User:VeroniqueKessler
+ 446. http://blog.wikimedia.org/2008/07/12/welcome-sara-crouse-to-the-wmf-staff/
+ 447. http://blog.wikimedia.org/2008/07/12/welcome-sara-crouse-to-the-wmf-staff/
+ 448. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-32
+ 449. http://wikimediafoundation.org/wiki/Staff
+ 450. http://wikimediafoundation.org/wiki/Staff
+ 451. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-33
+ 452. http://wikimediafoundation.org/wiki/User:JayWalsh
+ 453. http://wikimediafoundation.org/wiki/Board_of_Trustees
+ 454. http://wikimediafoundation.org/wiki/Board_of_Trustees
+ 455. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-34
+ 456. http://wikimediafoundation.org/w/index.php?title=Advisory_Board&oldid=25007
+ 457. http://wikimediafoundation.org/wiki/Advisory_Board
+ 458. http://wikimediafoundation.org/w/index.php?title=Advisory_Board&oldid=25007
+ 459. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-financialstatements_35-0
+ 460. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-financialstatements_35-1
+ 461. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-financialstatements_35-2
+ 462. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-financialstatements_35-3
+ 463. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-financialstatements_35-4
+ 464. http://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedia_2006_fs.pdf
+ 465. file://localhost/wiki/Portable_Document_Format
+ 466. http://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedia_2006_fs.pdf
+ 467. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-36
+ 468. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-37
+ 469. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-report07_38-0
+ 470. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc817.tmp.html#cite_ref-report07_38-1
+ 471. http://wikimediafoundation.org/wiki/Image:Wikimedia_2007_fs.pdf
+ 472. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit&section=14
+ 473. file://localhost/wiki/Wikipedia:Wikimedia_sister_projects
+ 474. http://en.wiktionary.org/wiki/Special:Search/Wikimedia_Foundation
+ 475. http://en.wikibooks.org/wiki/Special:Search/Wikimedia_Foundation
+ 476. http://en.wikiquote.org/wiki/Special:Search/Wikimedia_Foundation
+ 477. http://en.wikisource.org/wiki/Special:Search/Wikimedia_Foundation
+ 478. http://commons.wikimedia.org/wiki/Special:Search/Wikimedia_Foundation
+ 479. http://en.wikinews.org/wiki/Special:Search/Wikimedia_Foundation
+ 480. http://en.wikiversity.org/wiki/Special:Search/Wikimedia_Foundation
+ 481. http://wikimediafoundation.org/wiki/Home
+ 482. http://wikimediafoundation.org/wiki/Annual_Report
+ 483. http://blog.wikimedia.org/
+ 484. http://www.wikimediafoundation.org/bylaws.pdf
+ 485. file://localhost/wiki/Portable_Document_Format
+ 486. file://localhost/wiki/Kibibyte
+ 487. irc://irc.freenode.net/wikimedia
+ 488. http://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedia_2006_fs.pdf
+ 489. file://localhost/wiki/Portable_Document_Format
+ 490. file://localhost/wiki/Kibibyte
+ 491. http://www.sunbiz.org/scripts/cordet.exe?action=DETFIL&inq_doc_number=N03000005323&inq_came_from=NAMFWD&cor_web_names_seq_number=0000&names_name_ind=N&names_cor_number=&names_name_seq=&names_name_ind=&names_comp_name=WIKIMEDIAFOUNDATION&names_filing_type=
+ 492. http://mail.wikipedia.org/pipermail/wikien-l/2003-March/001887.html
+ 493. file://localhost/wiki/Template:Wikimedia_Foundation
+ 494. file://localhost/wiki/Template_talk:Wikimedia_Foundation
+ 495. http://en.wikipedia.org/w/index.php?title=Template:Wikimedia_Foundation&action=edit
+ 496. file://localhost/wiki/Wikibooks
+ 497. file://localhost/wiki/Wikimedia_Commons
+ 498. file://localhost/wiki/Wikinews
+ 499. file://localhost/wiki/Wikipedia
+ 500. file://localhost/wiki/Wikiquote
+ 501. file://localhost/wiki/Wikisource
+ 502. file://localhost/wiki/Wikispecies
+ 503. file://localhost/wiki/Wikiversity
+ 504. file://localhost/wiki/Wiktionary
+ 505. file://localhost/wiki/Wikipedia:Meta
+ 506. file://localhost/wiki/Template:Wikipedia
+ 507. file://localhost/wiki/Template_talk:Wikipedia
+ 508. http://en.wikipedia.org/w/index.php?title=Template:Wikipedia&action=edit
+ 509. file://localhost/wiki/Wikipedia
+ 510. file://localhost/wiki/History_of_Wikipedia
+ 511. file://localhost/wiki/Wikimania
+ 512. file://localhost/wiki/MediaWiki
+ 513. file://localhost/wiki/Reliability_of_Wikipedia
+ 514. file://localhost/wiki/Criticism_of_Wikipedia
+ 515. file://localhost/wiki/Deletionism_and_inclusionism_in_Wikipedia
+ 516. file://localhost/wiki/Academic_studies_about_Wikipedia
+ 517. file://localhost/wiki/Wikipedia_in_culture
+ 518. file://localhost/wiki/WikiScanner
+ 519. file://localhost/wiki/Jimmy_Wales
+ 520. file://localhost/wiki/Larry_Sanger
+ 521. file://localhost/wiki/Florence_Devouard
+ 522. file://localhost/wiki/Angela_Beesley_Starling
+ 523. file://localhost/wiki/Sue_Gardner
+ 524. file://localhost/wiki/Erik_M%C3%B6ller
+ 525. file://localhost/wiki/Michael_Snow_(attorney)
+ 526. file://localhost/wiki/Blocking_of_Wikipedia_in_mainland_China
+ 527. file://localhost/wiki/USA_Congressional_staff_edits_to_Wikipedia
+ 528. file://localhost/wiki/Essjay_controversy
+ 529. file://localhost/wiki/Seigenthaler_incident
+ 530. file://localhost/wiki/Chris_Benoit_double_murder_and_suicide#Wikipedia_controversy
+ 531. file://localhost/wiki/Henryk_Batuta_hoax
+ 532. file://localhost/wiki/Internet_Watch_Foundation_and_Wikipedia
+ 533. file://localhost/wiki/Truth_in_Numbers
+ 534. file://localhost/wiki/Bomis
+ 535. file://localhost/wiki/Nupedia
+ 536. file://localhost/wiki/Citizendium
+ 537. file://localhost/wiki/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol
+ 538. file://localhost/wiki/Deletionpedia
+ 539. file://localhost/wiki/Interpedia
+ 540. file://localhost/wiki/MyWikiBiz
+ 541. file://localhost/wiki/Veropedia
+ 542. file://localhost/wiki/Wikia
+ 543. file://localhost/wiki/Wikipedia_Review
+ 544. file://localhost/wiki/Wikitruth
+ 545. file://localhost/wiki/Wikiweise
+ 546. file://localhost/wiki/WikiZnanie
+ 547. file://localhost/wiki/WikiPilipinas
+ 548. http://en.wikipedia.org/wiki/Wikimedia_Foundation#Economy
+ 549. file://localhost/wiki/Special:Categories
+ 550. file://localhost/wiki/Category:Organizations_established_in_2003
+ 551. file://localhost/wiki/Category:Educational_foundations
+ 552. file://localhost/wiki/Category:Foundations_based_in_the_United_States
+ 553. file://localhost/wiki/Category:Internet_companies_of_the_United_States
+ 554. file://localhost/wiki/Category:Non-profit_organizations_based_in_the_United_States
+ 555. file://localhost/wiki/Category:Nonprofit_technology
+ 556. file://localhost/wiki/Category:Non-profit_organizations_based_in_Florida
+ 557. file://localhost/wiki/Category:St._Petersburg,_Florida
+ 558. file://localhost/wiki/Category:Organizations_based_in_San_Francisco,_California
+ 559. file://localhost/wiki/Category:Wiki_communities
+ 560. file://localhost/wiki/Category:Wikimedia_Foundation
+ 561. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 562. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_August_2008
+ 563. file://localhost/wiki/Category:Wikipedia_proseline_cleanup
+ 564. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_March_2008
+ 565. file://localhost/wiki/Wikimedia_Foundation
+ 566. file://localhost/wiki/Talk:Wikimedia_Foundation
+ 567. file://localhost/w/index.php?title=Wikimedia_Foundation&action=edit
+ 568. file://localhost/w/index.php?title=Wikimedia_Foundation&action=history
+ 569. file://localhost/w/index.php?title=Special:UserLogin&returnto=Wikimedia_Foundation
+ 570. file://localhost/wiki/Main_Page
+ 571. file://localhost/wiki/Portal:Contents
+ 572. file://localhost/wiki/Portal:Featured_content
+ 573. file://localhost/wiki/Portal:Current_events
+ 574. file://localhost/wiki/Special:Random
+ 575. file://localhost/wiki/Wikipedia:About
+ 576. file://localhost/wiki/Wikipedia:Community_portal
+ 577. file://localhost/wiki/Special:RecentChanges
+ 578. file://localhost/wiki/Wikipedia:Contact_us
+ 579. http://wikimediafoundation.org/wiki/Donate
+ 580. file://localhost/wiki/Help:Contents
+ 581. file://localhost/wiki/Special:WhatLinksHere/Wikimedia_Foundation
+ 582. file://localhost/wiki/Special:RecentChangesLinked/Wikimedia_Foundation
+ 583. file://localhost/wiki/Wikipedia:Upload
+ 584. file://localhost/wiki/Special:SpecialPages
+ 585. file://localhost/w/index.php?title=Wikimedia_Foundation&printable=yes
+ 586. file://localhost/w/index.php?title=Wikimedia_Foundation&oldid=273444008
+ 587. file://localhost/w/index.php?title=Special:Cite&page=Wikimedia_Foundation&id=273444008
+ 588. http://af.wikipedia.org/wiki/Wikimedia_Stigting
+ 589. http://als.wikipedia.org/wiki/Wikimedia
+ 590. http://an.wikipedia.org/wiki/Fundazi%C3%B3n_Wikimedia
+ 591. http://ast.wikipedia.org/wiki/Fundaci%C3%B3n_Wikimedia
+ 592. http://az.wikipedia.org/wiki/Vikimediya
+ 593. http://zh-min-nan.wikipedia.org/wiki/Wikimedia
+ 594. http://map-bms.wikipedia.org/wiki/Wikimedia_Foundation
+ 595. http://be-x-old.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%B4%D0%B0%D1%86%D1%8B%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BC%D1%8D%D0%B4%D1%8B%D1%8F
+ 596. http://ca.wikipedia.org/wiki/Fundaci%C3%B3_Wikimedia
+ 597. http://ceb.wikipedia.org/wiki/Wikimedia_Foundation
+ 598. http://cs.wikipedia.org/wiki/Wikimedia_Foundation
+ 599. http://ch.wikipedia.org/wiki/Wikimedia_Foundation
+ 600. http://da.wikipedia.org/wiki/Wikimedia
+ 601. http://de.wikipedia.org/wiki/Wikimedia
+ 602. http://es.wikipedia.org/wiki/Fundaci%C3%B3n_Wikimedia
+ 603. http://eo.wikipedia.org/wiki/Fonda%C4%B5o_Vikimedio
+ 604. http://eu.wikipedia.org/wiki/Wikimedia_Fundazioa
+ 605. http://fo.wikipedia.org/wiki/Wikimedia
+ 606. http://fr.wikipedia.org/wiki/Wikimedia_Foundation
+ 607. http://gd.wikipedia.org/wiki/Wikimedia
+ 608. http://gl.wikipedia.org/wiki/Fundaci%C3%B3n_Wikimedia
+ 609. http://hr.wikipedia.org/wiki/Wikimedija
+ 610. http://ig.wikipedia.org/wiki/Wikimedia_Foundation
+ 611. http://id.wikipedia.org/wiki/Wikimedia_Foundation
+ 612. http://ia.wikipedia.org/wiki/Wikimedia
+ 613. http://it.wikipedia.org/wiki/Wikimedia_Foundation
+ 614. http://jv.wikipedia.org/wiki/Wikimedia_Foundation
+ 615. http://csb.wikipedia.org/wiki/Wikimedia
+ 616. http://ku.wikipedia.org/wiki/Weqfa_Wikimedia
+ 617. http://la.wikipedia.org/wiki/Vicimedia
+ 618. http://lv.wikipedia.org/wiki/Wikimedia_Foundation
+ 619. http://lb.wikipedia.org/wiki/Wikimedia
+ 620. http://lt.wikipedia.org/wiki/Vikimedijos_fondas
+ 621. http://li.wikipedia.org/wiki/Wikimedia_Foundation
+ 622. http://hu.wikipedia.org/wiki/Wikim%C3%A9dia_Alap%C3%ADtv%C3%A1ny
+ 623. http://mt.wikipedia.org/wiki/Fondazzjoni_Wikimedia
+ 624. http://ms.wikipedia.org/wiki/Wikimedia_Foundation
+ 625. http://nl.wikipedia.org/wiki/Wikimedia_Foundation
+ 626. http://nds-nl.wikipedia.org/wiki/Wikimedia_Foundation
+ 627. http://no.wikipedia.org/wiki/Wikimedia
+ 628. http://nn.wikipedia.org/wiki/Wikimedia
+ 629. http://oc.wikipedia.org/wiki/Wikimedia_Foundation
+ 630. http://pl.wikipedia.org/wiki/Wikimedia_Foundation
+ 631. http://pt.wikipedia.org/wiki/Wikimedia_Foundation
+ 632. http://ro.wikipedia.org/wiki/Wikimedia
+ 633. http://qu.wikipedia.org/wiki/Wikimedia
+ 634. http://sco.wikipedia.org/wiki/Wikimedia
+ 635. http://sq.wikipedia.org/wiki/Wikimedia
+ 636. http://scn.wikipedia.org/wiki/Wikimedia_Foundation
+ 637. http://simple.wikipedia.org/wiki/Wikimedia_Foundation
+ 638. http://sk.wikipedia.org/wiki/Wikimedia_Foundation
+ 639. http://sl.wikipedia.org/wiki/Fundacija_Wikimedia
+ 640. http://so.wikipedia.org/wiki/Wikimedia
+ 641. http://sr.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D1%83%D0%B6%D0%B1%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B0
+ 642. http://sh.wikipedia.org/wiki/Wikimedia
+ 643. http://fi.wikipedia.org/wiki/Wikimedia
+ 644. http://sv.wikipedia.org/wiki/Wikimedia_Foundation
+ 645. http://tl.wikipedia.org/wiki/Wikimedia_Foundation
+ 646. http://tt.wikipedia.org/wiki/Wikimedia
+ 647. http://vi.wikipedia.org/wiki/Wikimedia
+ 648. http://tr.wikipedia.org/wiki/Wikimedia
+ 649. http://vec.wikipedia.org/wiki/Wikimedia_Foundation
+ 650. http://yo.wikipedia.org/wiki/Wikimedia
+ 651. http://bat-smg.wikipedia.org/wiki/Vikimed%C4%97j%C4%97
+ 652. http://www.mediawiki.org/
+ 653. http://wikimediafoundation.org/
+ 654. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 655. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 656. http://www.wikimediafoundation.org/
+ 657. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 658. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 659. http://en.wikipedia.org/wiki/Non-profit_organization
+ 660. http://en.wikipedia.org/wiki/Charitable_organization
+ 661. http://wikimediafoundation.org/wiki/Privacy_policy
+ 662. file://localhost/wiki/Wikipedia:About
+ 663. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 664. file://localhost/wiki/File:Wikimedia_Foundation_RGB_logo_with_text.svg
+ 665. file://localhost/wiki/File:Flag_of_the_United_States.svg
+ 666. file://localhost/wiki/File:Ambox_style.png
+ 667. file://localhost/wiki/File:Wikimedia_Foundation_organization_chart.svg
+ 668. file://localhost/wiki/File:Wikimedia_Foundation_organization_chart.svg
+ 669. file://localhost/wiki/File:Wikimedia_logo_family.svg
+ 670. file://localhost/wiki/File:Wikimedia_logo_family.svg
+ 671. file://localhost/wiki/File:Wikimedia_chapters_existing.svg
+ 672. file://localhost/wiki/File:Wikimedia_chapters_existing.svg
+ 673. file://localhost/wiki/File:Flag_of_Argentina.svg
+ 674. file://localhost/wiki/File:Flag_of_Australia.svg
+ 675. file://localhost/wiki/File:Flag_of_Austria.svg
+ 676. file://localhost/wiki/File:Flag_of_Brazil.svg
+ 677. file://localhost/wiki/File:Flag_of_the_Czech_Republic.svg
+ 678. file://localhost/wiki/File:Flag_of_France.svg
+ 679. file://localhost/wiki/File:Flag_of_Germany.svg
+ 680. file://localhost/wiki/File:Flag_of_Hong_Kong.svg
+ 681. http://meta.wikimedia.org/wiki/Wikimedia_Hong_Kong
+ 682. file://localhost/wiki/File:Flag_of_Hungary.svg
+ 683. file://localhost/wiki/File:Flag_of_Indonesia.svg
+ 684. file://localhost/wiki/File:Flag_of_Israel.svg
+ 685. file://localhost/wiki/File:Flag_of_Italy.svg
+ 686. file://localhost/wiki/File:Flag_of_the_Netherlands.svg
+ 687. file://localhost/wiki/File:Flag_of_Norway.svg
+ 688. file://localhost/wiki/File:Flag_of_Poland.svg
+ 689. file://localhost/wiki/File:Flag_of_Russia.svg
+ 690. http://meta.wikimedia.org/wiki/Wikimedia_Russia
+ 691. file://localhost/wiki/File:Flag_of_Serbia.svg
+ 692. file://localhost/wiki/File:Flag_of_Sweden.svg
+ 693. file://localhost/wiki/File:Flag_of_Switzerland.svg
+ 694. file://localhost/wiki/File:Flag_of_the_Republic_of_China.svg
+ 695. http://meta.wikimedia.org/wiki/Wikimedia_Taiwan
+ 696. file://localhost/wiki/File:Flag_of_the_United_Kingdom.svg
+ 697. http://en.wiktionary.org/wiki/Special:Search/Wikimedia_Foundation
+ 698. http://en.wikibooks.org/wiki/Special:Search/Wikimedia_Foundation
+ 699. http://en.wikiquote.org/wiki/Special:Search/Wikimedia_Foundation
+ 700. http://en.wikisource.org/wiki/Special:Search/Wikimedia_Foundation
+ 701. http://commons.wikimedia.org/wiki/Special:Search/Wikimedia_Foundation
+ 702. http://en.wikinews.org/wiki/Special:Search/Wikimedia_Foundation
+ 703. http://en.wikiversity.org/wiki/Special:Search/Wikimedia_Foundation
+ 704. file://localhost/wiki/Main_Page
+ 705. http://ar.wikipedia.org/wiki/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9_%D9%88%D9%8A%D9%83%D9%8A%D9%85%D9%8A%D8%AF%D9%8A%D8%A7
+ 706. http://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8
+ 707. http://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F
+ 708. http://el.wikipedia.org/wiki/Wikimedia
+ 709. http://fa.wikipedia.org/wiki/%D8%A8%D9%86%DB%8C%D8%A7%D8%AF_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%85%D8%AF%DB%8C%D8%A7
+ 710. http://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AE%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE_%E0%AA%AB%E0%AA%BE%E0%AA%89%E0%AA%A8%E0%AB%8D%E0%AA%A1%E0%AB%87%E0%AA%B6%E0%AA%A8
+ 711. http://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%AF%B8%EB%94%94%EC%96%B4_%EC%9E%AC%EB%8B%A8
+ 712. http://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE
+ 713. http://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%9F_%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%93%D7%99%D7%94
+ 714. http://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%9D%E1%83%9C%E1%83%93%E1%83%98_%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9B%E1%83%94%E1%83%93%E1%83%98%E1%83%90
+ 715. http://mk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%98%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B0
+ 716. http://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AE%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF_%E0%B4%AB%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%87%E0%B4%B7%E0%B4%A8%E0%B5%8D%E2%80%8D
+ 717. http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E8%B2%A1%E5%9B%A3
+ 718. http://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0
+ 719. http://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B8%E0%B7%8F%E0%B6%B0%E0%B7%8A%E2%80%8D%E0%B6%BA_%E0%B6%B4%E0%B6%AF%E0%B6%B1%E0%B6%B8
+ 720. http://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%AE%E0%AF%8D
+ 721. http://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2
+ 722. http://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B5%D0%B4%D1%96%D0%B0
+ 723. http://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%A2%D7%93%D7%99%D7%A2_%D7%A4%D7%95%D7%A0%D7%93%D7%90%D7%A6%D7%99%D7%A2
+ 724. http://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83
+ 725. http://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A

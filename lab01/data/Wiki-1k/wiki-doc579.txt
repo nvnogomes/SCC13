@@ -1,0 +1,384 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dynamical simulation
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   This article needs additional [8]citations for [9]verification. Please
+   help [10]improve this article by adding [11]reliable references.
+   Unsourced material may be [12]challenged and removed. (June 2008)
+
+   Dynamical simulation, in [13]computational physics, is the
+   [14]simulation of systems of objects that are free to move, usually in
+   three dimensions according to [15]Newton's laws of dynamics, or
+   approximations thereto. Dynamical simulation is used in [16]computer
+   animation to assist animators to produce realistic motion, in
+   [17]industrial design (for example to simulate crashes as an early step
+   in [18]crash testing), and in [19]video games. Body movement is
+   calculated using [20]time integration methods.
+
+Contents
+
+     * [21]1 Physics Engines
+     * [22]2 Particle Model
+     * [23]3 Inertial Model
+     * [24]4 Euler Model
+     * [25]5 Symmetric/Torque Model
+     * [26]6 See also
+
+[[27]edit] Physics Engines
+
+          Main article: [28]Physics engines
+
+   In [29]Computer graphics, a program called a [30]Physics engine is used
+   to model the behaviors of objects in space. These engines allow
+   simulation of the way bodies of many types are affected by a variety of
+   physical stimuli. They are also used to create Dynamical simulations
+   without having to know anything about physics. Physics engines are used
+   throughout the video game and movie industry, but not all physics
+   engines are alike; They are generally broken into [31]real-time and the
+   high precision but these are not the only options. Most real-time
+   physics engines are inaccurate and yield only the barest approximation
+   of the real world, whereas most high-precision engines are far too slow
+   for use in everyday applications. To understand how these Physics
+   engines are built, a basic understanding of physics is required.
+   Physics engines are based on the actual behaviors of the world as
+   described by [32]Classical mechanics. Engines do not typically account
+   for Modern Mechanics (see [33]Theory of relativity and [34]Quantum
+   mechanics) because most visualization deals with large bodies moving
+   relatively slowly, but the most complicated engines perform
+   calculations for Modern Mechanics as well as Classical. The models used
+   in Dynamical simulations determine how accurate these simulations are.
+
+[[35]edit] Particle Model
+
+          Main article: [36]Newton's laws
+
+   The first model which may be used in [37]Physics engines governs the
+   motion of infinitesimal objects with finite mass called particles. This
+   equation, called Newtons Second law (see [38]Newton's laws) or the
+   definition of force, is the fundamental behavior governing all motion:
+
+          \vec{F} = m \vec{a}
+
+   This equation will allow us to fully model the behavior of particles,
+   but this is not sufficient for most simulations because it does not
+   account for asymmetric bodies or for spin. For particles, these things
+   are irrelevant because particles are symmetric. This non-spinning model
+   is the simplest model that can be used in a physics engine and was used
+   extensively in early video games.
+
+[[39]edit] Inertial Model
+
+          Main articles: [40]Rigid body dynamics and [41]Moment of inertia
+
+   Bodies in the real world deform as forces are applied to them so we
+   call them soft, but these are very complicated to model and only the
+   most sophisticated [42]Physics engines deal with them. We will apply
+   this particle model to bodies that do not deform. This motion,
+   [43]Rigid body dynamics, deals with objects that cannot change shape,
+   size, or mass but can change orientation and position.
+
+   As long as bodies are rigid, we can assume that their motion is
+   described the same way as a particle; however, we now have to account
+   for rotation. When we deal with complex shapes, we cannot assume that
+   forces (excepting [44]Gravitation) are applied evenly or on a vector
+   through the center of mass. These assumptions simplify our engine but
+   do not look realistic. Therefore, to account for rotational energy and
+   momentum, we must describe both the manner in which force is applied to
+   the object and its shape. We describe these complex interactions with
+   an equation somewhat similar to the definition of force above:
+
+          \frac{\mathrm{d}(\mathbf{I}\boldsymbol{\omega})}{\mathrm{d}t} =
+          \sum_{j=1}^N \tau_{O,j}
+
+   where I is the [45]Moment of inertia tensor and \vec{\omega} is the
+   angular velocity vector:
+
+          \mathbf{I} = \begin{pmatrix} \int y^2+z^2\, \mathrm{d}m & -\int
+          xy\, \mathrm{d}m & -\int xz\, \mathrm{d}m\\ -\int xy\,
+          \mathrm{d}m & \int x^2+z^2\, \mathrm{d}m & -\int yz\,
+          \mathrm{d}m \\ -\int xz\, \mathrm{d}m & -\int yz\, \mathrm{d}m &
+          \int x^2+y^2\, \mathrm{d}m \end{pmatrix} \quad \hbox{and} \quad
+          \boldsymbol{\omega} = \begin{pmatrix} \omega_x \\ \omega_y \\
+          \omega_z \end{pmatrix}.
+
+   The [46]Moment of inertia tensor describes the location of each
+   particle of mass in a given object in relation to the object's center
+   of mass. This allows us to determine how an object will spin dependent
+   on the forces applied to it. This spin is quantified by the angular
+   velocity \vec{\omega} . This allows us the translate any torque into a
+   specific frame of reference we call the Principal Axes. These axes can
+   be chosen arbitrarily but must remain constant in terms of the body
+   itself. This allows us to calculate \vec{\omega} but it is much more
+   complex than the particle model. This model is the most complex model
+   typically used for Dynamical simulation.
+
+   This model is the most applicable for most scientific simulations and
+   other applications in which real time simulation doesnt matter, because
+   at this level of complexity we account for all of Newtons laws. As long
+   as we stay below relativistic speeds (see [47]Relativistic dynamics),
+   this model will accurately simulate all relevant behavior. As simple as
+   this is, however, it still requires the [48]Physics engine to solve
+   three very complex partial differential equations at every instant we
+   want to render. This is even more difficult when simulating
+   [49]Non-linear forces or a [50]Force field (physics).
+
+[[51]edit] Euler Model
+
+          Main article: [52]Euler's equations
+
+   The inertial model is much more complex than we typically need but it
+   is the most simple to use. In this model, we do not need to change our
+   forces or constrain our system. However, if we make a few intelligent
+   changes to our system, simulation will become much easier, and our
+   calculation time will decrease. The first constraint will be to put
+   each torque in terms of the principal axes. This makes each torque much
+   more difficult to program, but it simplifies our equations
+   significantly. When we apply this constraint, we diagonalize the moment
+   of inertia tensor, which simplifies our three equations into a special
+   set of equations called [53]Euler's equations. These equations describe
+   all rotational momentum in terms of the principal axes:
+
+          \begin{matrix} I_1\dot{\omega}_{1}+(I_3-I_2)\omega_2\omega_3 &=&
+          N_{1}\\ I_2\dot{\omega}_{2}+(I_1-I_3)\omega_3\omega_1 &=&
+          N_{2}\\ I_3\dot{\omega}_{3}+(I_2-I_1)\omega_1\omega_2 &=& N_{3}
+          \end{matrix}
+
+     * The N terms are applied torques about the principal axes
+     * The I terms are the principal moments of inertia
+     * The terms are angular velocities about the principal axes
+
+   The drawback to this model is that all the computation is on the front
+   end, so it is still slower than we would like. The real usefulness is
+   not apparent because it still relies on a system of non-linear
+   differential equations. To alleviate this problem, we have to find a
+   method that can remove the second term from the equation. This will
+   allow us to integrate much more easily. The easiest way to do this is
+   to assume a certain amount of symmetry.
+
+[[54]edit] Symmetric/Torque Model
+
+   The two types of symmetric objects that will simplify [55]Euler's
+   equations are symmetric tops and symmetric spheres. The first assumes
+   one degree of symmetry, this makes two of the I terms equal. These
+   objects, like cylinders and tops, can be expressed with one very simple
+   equation and two slightly simpler equations. This does not do us much
+   good, because with one more symmetry we can get a large jump in speed
+   with almost no change in appearance. The symmetric sphere makes all of
+   the I terms equal (the [56]Moment of inertia scalar), which makes all
+   of these equations simple:
+
+          \begin{matrix} I\dot{\omega}_{1} &=& N_{1}\\ I\dot{\omega}_{2}
+          &=& N_{2}\\ I\dot{\omega}_{3} &=& N_{3} \end{matrix}
+
+     * The N terms are applied torques about the principal axes
+     * The terms are angular velocities about the principal axes
+     * The I term is the scalar [57]Moment of inertia:
+
+          I \ \stackrel{\mathrm{def}}{=}\ \int_V l^2(m)\,dm = \iiint_V
+          l^2(v)\,\rho(v)\,dv = \iiint_V
+          l^2(x,y,z)\,\rho(x,y,z)\,dx\,dy\,dz \!
+          where
+
+     *
+          + V is the volume region of the object,
+          + r is the distance from the axis of rotation,
+          + m is mass,
+          + v is volume,
+          + is the pointwise [58]density function of the object,
+          + x, y, z are the Cartesian coordinates.
+
+   These equations allow us to simulate the behavior of an object that can
+   spin in a way very close to the method simulate motion without spin.
+   This is a simple model but it is accurate enough to produce realistic
+   output in real-time Dynamical simulations. It also allows a [59]Physics
+   engine to focus on the changing forces and torques rather than varying
+   inertia.
+
+[[60]edit] See also
+
+     * [61]Bounding volume
+     * [62]Collision detection
+     * [63]Euler's equations (rigid body dynamics)
+     * [64]Moment of inertia
+     * [65]Physics Abstraction Layer
+     * [66]Physics engine
+     * [67]Rigid body dynamics
+
+   Retrieved from "[68]http://en.wikipedia.org/wiki/Dynamical_simulation"
+   [69]Categories: [70]Computational physics | [71]Computer physics
+   engines
+   Hidden category: [72]Articles needing additional references from June
+   2008
+
+Views
+
+     * [73]Article
+     * [74]Discussion
+     * [75]Edit this page
+     * [76]History
+
+Personal tools
+
+     * [77]Log in / create account
+
+Navigation
+
+     * [78]Main page
+     * [79]Contents
+     * [80]Featured content
+     * [81]Current events
+     * [82]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [83]About Wikipedia
+     * [84]Community portal
+     * [85]Recent changes
+     * [86]Contact Wikipedia
+     * [87]Donate to Wikipedia
+     * [88]Help
+
+Toolbox
+
+     * [89]What links here
+     * [90]Related changes
+     * [91]Upload file
+     * [92]Special pages
+     * [93]Printable version
+     * [94]Permanent link
+     * [95]Cite this page
+
+   [96]Powered by MediaWiki
+   [97]Wikimedia Foundation
+     * This page was last modified on 25 January 2009, at 14:52.
+     * All text is available under the terms of the [98]GNU Free
+       Documentation License. (See [99]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [100]Wikimedia
+       Foundation, Inc., a U.S. registered [101]501(c)(3)
+       [102]tax-deductible [103]nonprofit [104]charity.
+     * [105]Privacy policy
+     * [106]About Wikipedia
+     * [107]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dynamical_simulation&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:Citing_sources
+   9. file://localhost/wiki/Wikipedia:Verifiability
+  10. http://en.wikipedia.org/w/index.php?title=Dynamical_simulation&action=edit
+  11. file://localhost/wiki/Wikipedia:Reliable_sources
+  12. file://localhost/wiki/Template:Fact
+  13. file://localhost/wiki/Computational_physics
+  14. file://localhost/wiki/Simulation
+  15. file://localhost/wiki/Newton%27s_laws
+  16. file://localhost/wiki/Computer_animation
+  17. file://localhost/wiki/Industrial_design
+  18. file://localhost/wiki/Crash_test
+  19. file://localhost/wiki/Video_game
+  20. file://localhost/wiki/Time_integration_methods
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#Physics_Engines
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#Particle_Model
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#Inertial_Model
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#Euler_Model
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#Symmetric.2FTorque_Model
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc579.tmp.html#See_also
+  27. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=1
+  28. file://localhost/wiki/Physics_engines
+  29. file://localhost/wiki/Computer_graphics
+  30. file://localhost/wiki/Physics_engine
+  31. file://localhost/wiki/Real-time
+  32. file://localhost/wiki/Classical_mechanics
+  33. file://localhost/wiki/Theory_of_relativity
+  34. file://localhost/wiki/Quantum_mechanics
+  35. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=2
+  36. file://localhost/wiki/Newton%27s_laws
+  37. file://localhost/wiki/Physics_engines
+  38. file://localhost/wiki/Newton%27s_laws
+  39. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=3
+  40. file://localhost/wiki/Rigid_body_dynamics
+  41. file://localhost/wiki/Moment_of_inertia
+  42. file://localhost/wiki/Physics_engines
+  43. file://localhost/wiki/Rigid_body_dynamics
+  44. file://localhost/wiki/Gravitation
+  45. file://localhost/wiki/Moment_of_inertia_tensor
+  46. file://localhost/wiki/Moment_of_inertia_tensor
+  47. file://localhost/wiki/Relativistic_dynamics
+  48. file://localhost/wiki/Physics_engine
+  49. file://localhost/wiki/Non-linear
+  50. file://localhost/wiki/Force_field_(physics)
+  51. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=4
+  52. file://localhost/wiki/Euler%27s_equations
+  53. file://localhost/wiki/Euler%27s_equations
+  54. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=5
+  55. file://localhost/wiki/Euler%27s_equations
+  56. file://localhost/wiki/Moment_of_inertia
+  57. file://localhost/wiki/Moment_of_inertia
+  58. file://localhost/wiki/Density
+  59. file://localhost/wiki/Physics_engine
+  60. file://localhost/w/index.php?title=Dynamical_simulation&action=edit&section=6
+  61. file://localhost/wiki/Bounding_volume
+  62. file://localhost/wiki/Collision_detection
+  63. file://localhost/wiki/Euler%27s_equations_(rigid_body_dynamics)
+  64. file://localhost/wiki/Moment_of_inertia
+  65. file://localhost/wiki/PAL_(software)
+  66. file://localhost/wiki/Physics_engine
+  67. file://localhost/wiki/Rigid_body_dynamics
+  68. http://en.wikipedia.org/wiki/Dynamical_simulation
+  69. file://localhost/wiki/Special:Categories
+  70. file://localhost/wiki/Category:Computational_physics
+  71. file://localhost/wiki/Category:Computer_physics_engines
+  72. file://localhost/wiki/Category:Articles_needing_additional_references_from_June_2008
+  73. file://localhost/wiki/Dynamical_simulation
+  74. file://localhost/wiki/Talk:Dynamical_simulation
+  75. file://localhost/w/index.php?title=Dynamical_simulation&action=edit
+  76. file://localhost/w/index.php?title=Dynamical_simulation&action=history
+  77. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dynamical_simulation
+  78. file://localhost/wiki/Main_Page
+  79. file://localhost/wiki/Portal:Contents
+  80. file://localhost/wiki/Portal:Featured_content
+  81. file://localhost/wiki/Portal:Current_events
+  82. file://localhost/wiki/Special:Random
+  83. file://localhost/wiki/Wikipedia:About
+  84. file://localhost/wiki/Wikipedia:Community_portal
+  85. file://localhost/wiki/Special:RecentChanges
+  86. file://localhost/wiki/Wikipedia:Contact_us
+  87. http://wikimediafoundation.org/wiki/Donate
+  88. file://localhost/wiki/Help:Contents
+  89. file://localhost/wiki/Special:WhatLinksHere/Dynamical_simulation
+  90. file://localhost/wiki/Special:RecentChangesLinked/Dynamical_simulation
+  91. file://localhost/wiki/Wikipedia:Upload
+  92. file://localhost/wiki/Special:SpecialPages
+  93. file://localhost/w/index.php?title=Dynamical_simulation&printable=yes
+  94. file://localhost/w/index.php?title=Dynamical_simulation&oldid=266320236
+  95. file://localhost/w/index.php?title=Special:Cite&page=Dynamical_simulation&id=266320236
+  96. http://www.mediawiki.org/
+  97. http://wikimediafoundation.org/
+  98. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  99. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 100. http://www.wikimediafoundation.org/
+ 101. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 102. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 103. http://en.wikipedia.org/wiki/Non-profit_organization
+ 104. http://en.wikipedia.org/wiki/Charitable_organization
+ 105. http://wikimediafoundation.org/wiki/Privacy_policy
+ 106. file://localhost/wiki/Wikipedia:About
+ 107. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 108. file://localhost/wiki/File:Question_book-new.svg
+ 109. file://localhost/wiki/Main_Page

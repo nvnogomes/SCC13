@@ -1,0 +1,273 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+JordanChevalley decomposition
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dunford decomposition)
+   Jump to: [7]navigation, [8]search
+
+   In mathematics, the JordanChevalley decomposition, named after
+   [9]Camille Jordan and [10]Claude Chevalley, also known as Dunford
+   decomposition, named after [11]Nelson Dunford, expresses a [12]linear
+   operator as the sum of its commuting [13]semisimple part and its
+   [14]nilpotent parts. The multiplicative decomposition expresses an
+   invertible operator as the product of its commuting semisimple and
+   unipotent parts. The decomposition is important in the study of
+   [15]algebraic groups. The decomposition is related to the [16]Jordan
+   normal form.
+
+Contents
+
+     * [17]1 Linear operators
+     * [18]2 Matrices
+     * [19]3 Banach spaces
+     * [20]4 References
+     * [21]5 Notes
+
+[[22]edit] Linear operators
+
+   Consider linear operators on a finite-dimensional [23]vector space. An
+   operator is semisimple if the roots of its [24]minimal polynomial are
+   all distinct (if the underlying field is [25]algebraically closed, this
+   is the same as the requirement that the operator be
+   [26]diagonalizable). An operator x is nilpotent if some power x^m of it
+   is the zero operator. An operator x is unipotent if x1 is nilpotent.
+
+   Now, let x be any operator. The JordanChevalley decomposition expresses
+   x as a sum:
+
+          x = x[ss] + x[n],
+
+   where x[ss] is semisimple, x[n] is nilpotent, and x[ss] and x[n] are
+   polynomials in x (in particular they commute). This decomposition is
+   unique, in that if x = s + n with s semisimple, n nilpotent, and sn =
+   ns, then s = x[ss] and n = x[n], ([27]Humphreys 1972, Prop. 4.2, p.
+   17).
+
+   If x is an invertible operator, then the JordanChevalley decomposition
+   expresses x as a product:
+
+          x = x[ss] x[u],
+
+   where x[ss] is semisimple, x[u] is unipotent, and x[ss] and x[u] are
+   polynomials in x (in particular they commute). This decomposition is
+   unique, in that if x = s u with s semisimple, u unipotent, and su = us,
+   then s = x[ss] and u = x[u].
+
+   For endomorphisms of a finite dimensional vector space over an
+   algebraically closed field, there is a simple description in terms of
+   the [28]Jordan normal form. If x is in the Jordan normal form, then
+   x[ss] is the matrix containing just the diagonal terms of x, x[n] is
+   the matrix containing just the off-diagonal terms, and x[u] is the
+   matrix with the diagonal entries replaced by 1s.
+
+[[29]edit] Matrices
+
+   The JordanChevalley decomposition is an abstract form of the [30]Jordan
+   normal form of a matrix. The Jordan normal form J of a [31]complex
+   matrix A satisfies A = MJM^1 for some invertible matrix M and J = D +
+   N, where D is a [32]diagonal matrix and N is a matrix with the only
+   nonzero terms in the first codiagonal, thus N is nilpotent. Then A =
+   MDM^1 + MNM^1 is the additive JordanChevalley decomposition of A into a
+   semisimple matrix and nilpotent matrix. Similarly, if A is invertible,
+   then D is invertible and A = MDM^1M(I + D^1N)M^1 is the multiplicative
+   JordanChevalley decomposition of A into a semisimple matrix and a
+   unipotent matrix.
+
+[[33]edit] Banach spaces
+
+   Please help [34]improve this section by expanding it. Further
+   information might be found on the [35]talk page. (January 2009)
+
+   For operators on [36]Banach spaces, there is a decomposition known as
+   the Dunford decomposition which generalizes the JordanChevalley
+   decomposition, ([37]Dunford 1946).
+
+[[38]edit] References
+
+     * Dunford, Nelson (1946), "Direct decompositions of Banach spaces",
+       Bolet n de la Sociedad Matemtica Mexicana 3: 112,
+       [39]MR[40]0021240
+     * Humphreys, James E. (1972), Introduction to Lie Algebras and
+       Representation Theory, Springer, [41]ISBN 978-0-387-90053-7 , p
+       559.
+     * [42]Lang, Serge (2002), Algebra, [43]Graduate Texts in Mathematics,
+       211 (Revised third ed.), New York: [44]Springer-Verlag,
+       [45]MR[46]1878556, [47]ISBN 978-0-387-95385-4
+
+[[48]edit] Notes
+
+   This [49]algebra-related article is a [50]stub. You can [51]help
+   Wikipedia by expanding it.
+   Retrieved from
+   "[52]http://en.wikipedia.org/wiki/Jordan%E2%80%93Chevalley_decompositio
+   n"
+   [53]Categories: [54]Algebra stubs | [55]Linear algebra | [56]Algebraic
+   groups
+   Hidden categories: [57]Articles to be expanded since January 2009 |
+   [58]All articles to be expanded
+
+Views
+
+     * [59]Article
+     * [60]Discussion
+     * [61]Edit this page
+     * [62]History
+
+Personal tools
+
+     * [63]Log in / create account
+
+Navigation
+
+     * [64]Main page
+     * [65]Contents
+     * [66]Featured content
+     * [67]Current events
+     * [68]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [69]About Wikipedia
+     * [70]Community portal
+     * [71]Recent changes
+     * [72]Contact Wikipedia
+     * [73]Donate to Wikipedia
+     * [74]Help
+
+Toolbox
+
+     * [75]What links here
+     * [76]Related changes
+     * [77]Upload file
+     * [78]Special pages
+     * [79]Printable version
+     * [80]Permanent link
+     * [81]Cite this page
+
+Languages
+
+     * [82]Deutsch
+     * [83]Franais
+
+   [84]Powered by MediaWiki
+   [85]Wikimedia Foundation
+     * This page was last modified on 31 January 2009, at 16:47.
+     * All text is available under the terms of the [86]GNU Free
+       Documentation License. (See [87]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [88]Wikimedia
+       Foundation, Inc., a U.S. registered [89]501(c)(3)
+       [90]tax-deductible [91]nonprofit [92]charity.
+     * [93]Privacy policy
+     * [94]About Wikipedia
+     * [95]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dunford_decomposition&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#searchInput
+   9. file://localhost/wiki/Camille_Jordan
+  10. file://localhost/wiki/Claude_Chevalley
+  11. file://localhost/wiki/Nelson_Dunford
+  12. file://localhost/wiki/Linear_operator
+  13. file://localhost/wiki/Semi-simple_operator
+  14. file://localhost/wiki/Nilpotent
+  15. file://localhost/wiki/Algebraic_group
+  16. file://localhost/wiki/Jordan_normal_form
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#Linear_operators
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#Matrices
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#Banach_spaces
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#References
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#Notes
+  22. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit&section=1
+  23. file://localhost/wiki/Vector_space
+  24. file://localhost/wiki/Minimal_polynomial
+  25. file://localhost/wiki/Algebraically_closed
+  26. file://localhost/wiki/Diagonalizable_matrix
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#CITEREFHumphreys1972
+  28. file://localhost/wiki/Jordan_normal_form
+  29. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit&section=2
+  30. file://localhost/wiki/Jordan_normal_form
+  31. file://localhost/wiki/Complex_number
+  32. file://localhost/wiki/Diagonal_matrix
+  33. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit&section=3
+  34. http://en.wikipedia.org/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit
+  35. file://localhost/wiki/Talk:Jordan%E2%80%93Chevalley_decomposition
+  36. file://localhost/wiki/Banach_spaces
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc513.tmp.html#CITEREFDunford1946
+  38. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit&section=4
+  39. file://localhost/wiki/Mathematical_Reviews
+  40. http://www.ams.org/mathscinet-getitem?mr=0021240
+  41. file://localhost/wiki/Special:BookSources/9780387900537
+  42. file://localhost/wiki/Serge_Lang
+  43. file://localhost/wiki/Graduate_Texts_in_Mathematics
+  44. file://localhost/wiki/Springer-Verlag
+  45. file://localhost/wiki/Mathematical_Reviews
+  46. http://www.ams.org/mathscinet-getitem?mr=1878556
+  47. file://localhost/wiki/Special:BookSources/9780387953854
+  48. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit&section=5
+  49. file://localhost/wiki/Algebra
+  50. file://localhost/wiki/Wikipedia:Stub
+  51. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  52. http://en.wikipedia.org/wiki/Jordan%E2%80%93Chevalley_decomposition
+  53. file://localhost/wiki/Special:Categories
+  54. file://localhost/wiki/Category:Algebra_stubs
+  55. file://localhost/wiki/Category:Linear_algebra
+  56. file://localhost/wiki/Category:Algebraic_groups
+  57. file://localhost/wiki/Category:Articles_to_be_expanded_since_January_2009
+  58. file://localhost/wiki/Category:All_articles_to_be_expanded
+  59. file://localhost/wiki/Jordan%E2%80%93Chevalley_decomposition
+  60. file://localhost/wiki/Talk:Jordan%E2%80%93Chevalley_decomposition
+  61. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=edit
+  62. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&action=history
+  63. file://localhost/w/index.php?title=Special:UserLogin&returnto=Jordan%E2%80%93Chevalley_decomposition
+  64. file://localhost/wiki/Main_Page
+  65. file://localhost/wiki/Portal:Contents
+  66. file://localhost/wiki/Portal:Featured_content
+  67. file://localhost/wiki/Portal:Current_events
+  68. file://localhost/wiki/Special:Random
+  69. file://localhost/wiki/Wikipedia:About
+  70. file://localhost/wiki/Wikipedia:Community_portal
+  71. file://localhost/wiki/Special:RecentChanges
+  72. file://localhost/wiki/Wikipedia:Contact_us
+  73. http://wikimediafoundation.org/wiki/Donate
+  74. file://localhost/wiki/Help:Contents
+  75. file://localhost/wiki/Special:WhatLinksHere/Jordan%E2%80%93Chevalley_decomposition
+  76. file://localhost/wiki/Special:RecentChangesLinked/Jordan%E2%80%93Chevalley_decomposition
+  77. file://localhost/wiki/Wikipedia:Upload
+  78. file://localhost/wiki/Special:SpecialPages
+  79. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&printable=yes
+  80. file://localhost/w/index.php?title=Jordan%E2%80%93Chevalley_decomposition&oldid=267648181
+  81. file://localhost/w/index.php?title=Special:Cite&page=Jordan%E2%80%93Chevalley_decomposition&id=267648181
+  82. http://de.wikipedia.org/wiki/Jordan-Chevalley-Zerlegung
+  83. http://fr.wikipedia.org/wiki/D%C3%A9composition_de_Dunford
+  84. http://www.mediawiki.org/
+  85. http://wikimediafoundation.org/
+  86. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  87. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  88. http://www.wikimediafoundation.org/
+  89. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  90. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  91. http://en.wikipedia.org/wiki/Non-profit_organization
+  92. http://en.wikipedia.org/wiki/Charitable_organization
+  93. http://wikimediafoundation.org/wiki/Privacy_policy
+  94. file://localhost/wiki/Wikipedia:About
+  95. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  96. file://localhost/wiki/File:Wiki_letter_w.svg
+  97. file://localhost/wiki/File:Rubik%27s_cube_v3.svg
+  98. file://localhost/wiki/Main_Page

@@ -1,0 +1,193 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dobson ozone spectrophotometer
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dobsonmeter)
+   Jump to: [7]navigation, [8]search
+
+   The Dobson spectrophotometer, also known as Dobsonmeter, is the
+   earliest instrument used to measure atmospheric [9]ozone. It was
+   developed in 1924 by [10]Gordon Dobson.
+
+   Dobson spectrophotometers can be used to measure both total column
+   ozone and profiles of ozone in the [11]atmosphere.
+
+   Total ozone measurements are made by measuring the relative intensities
+   of selected pairs of [12]ultraviolet (UV) wavelengths. One wavelength
+   (305 nm) is strongly absorbed by ozone and the other (325 nm) is not
+   ^[13][1]. The sources of [14]light used may vary. Beside the direct
+   [15]sun light, the light from the clear sky, [16]moon or [17]stars may
+   be used.
+
+   The vertical distribution of ozone is derived using the Umkehr method.
+   This method relies on the intensities of reflected, rather than direct,
+   [18]UV light. Ozone distribution is derived from the change in the
+   ratio of two UV frequencies with time as the sun sets. An Umkehr
+   measurement takes about three hours, and provides data up to an
+   altitude of 48 km, with the most accurate information for altitudes
+   above 30 km.
+
+   The Dobson method has its drawbacks. It is strongly affected by
+   [19]aerosols and [20]pollutants in the atmosphere, because they also
+   absorb some of the light at the same wavelength. Measurements are made
+   over a small area. Today this method is often used to calibrate data
+   obtained by other methods, including satellites.
+
+   Some modernized versions of Dobson spectrophotometer exist and continue
+   to provide data, e.g. the [21]Brewer Spectrophotometer.
+
+   About 120 Dobsonmeters have been made, mostly by R&J Beck of London.
+   Today about 50 remain in use. The most famous ones are probably Nos. 37
+   and 51 with which [22]Joe Farman of the [23]British Antarctic Survey
+   discovered the [24]Ozone Hole in 1984. The oldest instrument still in
+   use is No.8 located at the roof of the [25]Norwegian Polar Institute at
+   [26]Ny lesund, [27]Svalbard.
+
+[[28]edit] References
+
+    1. [29]^ [30]http://ozone.gi.alaska.edu/dobson.htm
+
+     * New Scientist, 20. Sept 2008
+
+   Retrieved from
+   "[31]http://en.wikipedia.org/wiki/Dobson_ozone_spectrophotometer"
+   [32]Category: [33]Spectroscopy
+
+Views
+
+     * [34]Article
+     * [35]Discussion
+     * [36]Edit this page
+     * [37]History
+
+Personal tools
+
+     * [38]Log in / create account
+
+Navigation
+
+     * [39]Main page
+     * [40]Contents
+     * [41]Featured content
+     * [42]Current events
+     * [43]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [44]About Wikipedia
+     * [45]Community portal
+     * [46]Recent changes
+     * [47]Contact Wikipedia
+     * [48]Donate to Wikipedia
+     * [49]Help
+
+Toolbox
+
+     * [50]What links here
+     * [51]Related changes
+     * [52]Upload file
+     * [53]Special pages
+     * [54]Printable version
+     * [55]Permanent link
+     * [56]Cite this page
+
+Languages
+
+     * [57]Deutsch
+     * [58]Suomi
+
+   [59]Powered by MediaWiki
+   [60]Wikimedia Foundation
+     * This page was last modified on 14 October 2008, at 21:06.
+     * All text is available under the terms of the [61]GNU Free
+       Documentation License. (See [62]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [63]Wikimedia
+       Foundation, Inc., a U.S. registered [64]501(c)(3)
+       [65]tax-deductible [66]nonprofit [67]charity.
+     * [68]Privacy policy
+     * [69]About Wikipedia
+     * [70]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dobson_ozone_spectrophotometer&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dobsonmeter&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc83.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc83.tmp.html#searchInput
+   9. file://localhost/wiki/Ozone
+  10. file://localhost/wiki/Gordon_Dobson
+  11. file://localhost/wiki/Atmosphere
+  12. file://localhost/wiki/Ultraviolet
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc83.tmp.html#cite_note-0
+  14. file://localhost/wiki/Light
+  15. file://localhost/wiki/Sun
+  16. file://localhost/wiki/Moon
+  17. file://localhost/wiki/Star
+  18. file://localhost/wiki/UV_light
+  19. file://localhost/wiki/Particulate
+  20. file://localhost/wiki/Pollutants
+  21. file://localhost/w/index.php?title=Brewer_Spectrophotometer&action=edit&redlink=1
+  22. file://localhost/wiki/Joe_Farman
+  23. file://localhost/wiki/British_Antarctic_Survey
+  24. file://localhost/wiki/Ozone_Hole
+  25. file://localhost/wiki/Norwegian_Polar_Institute
+  26. file://localhost/wiki/Ny_%C3%85lesund
+  27. file://localhost/wiki/Svalbard
+  28. file://localhost/w/index.php?title=Dobson_ozone_spectrophotometer&action=edit&section=1
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc83.tmp.html#cite_ref-0
+  30. http://ozone.gi.alaska.edu/dobson.htm
+  31. http://en.wikipedia.org/wiki/Dobson_ozone_spectrophotometer
+  32. file://localhost/wiki/Special:Categories
+  33. file://localhost/wiki/Category:Spectroscopy
+  34. file://localhost/wiki/Dobson_ozone_spectrophotometer
+  35. file://localhost/wiki/Talk:Dobson_ozone_spectrophotometer
+  36. file://localhost/w/index.php?title=Dobson_ozone_spectrophotometer&action=edit
+  37. file://localhost/w/index.php?title=Dobson_ozone_spectrophotometer&action=history
+  38. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dobson_ozone_spectrophotometer
+  39. file://localhost/wiki/Main_Page
+  40. file://localhost/wiki/Portal:Contents
+  41. file://localhost/wiki/Portal:Featured_content
+  42. file://localhost/wiki/Portal:Current_events
+  43. file://localhost/wiki/Special:Random
+  44. file://localhost/wiki/Wikipedia:About
+  45. file://localhost/wiki/Wikipedia:Community_portal
+  46. file://localhost/wiki/Special:RecentChanges
+  47. file://localhost/wiki/Wikipedia:Contact_us
+  48. http://wikimediafoundation.org/wiki/Donate
+  49. file://localhost/wiki/Help:Contents
+  50. file://localhost/wiki/Special:WhatLinksHere/Dobson_ozone_spectrophotometer
+  51. file://localhost/wiki/Special:RecentChangesLinked/Dobson_ozone_spectrophotometer
+  52. file://localhost/wiki/Wikipedia:Upload
+  53. file://localhost/wiki/Special:SpecialPages
+  54. file://localhost/w/index.php?title=Dobson_ozone_spectrophotometer&printable=yes
+  55. file://localhost/w/index.php?title=Dobson_ozone_spectrophotometer&oldid=245302163
+  56. file://localhost/w/index.php?title=Special:Cite&page=Dobson_ozone_spectrophotometer&id=245302163
+  57. http://de.wikipedia.org/wiki/Dobson-Spektrophotometer
+  58. http://fi.wikipedia.org/wiki/Dobsonin_spektrofotometri
+  59. http://www.mediawiki.org/
+  60. http://wikimediafoundation.org/
+  61. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  62. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  63. http://www.wikimediafoundation.org/
+  64. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  65. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  66. http://en.wikipedia.org/wiki/Non-profit_organization
+  67. http://en.wikipedia.org/wiki/Charitable_organization
+  68. http://wikimediafoundation.org/wiki/Privacy_policy
+  69. file://localhost/wiki/Wikipedia:About
+  70. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  71. file://localhost/wiki/Main_Page

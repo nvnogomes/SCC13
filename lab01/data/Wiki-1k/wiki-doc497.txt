@@ -1,0 +1,655 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dump truck
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   The examples and perspective in this article may not represent a
+   [8]worldwide view of the subject. Please [9]improve this article or
+   discuss the issue on the [10]talk page.
+
+   A dump truck or production truck is a [11]truck used for transporting
+   loose material (such as [12]sand, [13]gravel, or [14]dirt) for
+   [15]construction. A typical dump truck is equipped with a
+   [16]hydraulically operated open-box bed hinged at the rear, the front
+   of which can be lifted up to allow the contents to be deposited on the
+   ground behind the truck at the site of delivery. In the UK the term
+   applies to off-road construction plant only, and the road vehicle is
+   known as a tipper or tipper lorry.
+   A small dump truck
+
+Contents
+
+     * [17]1 Types of dump trucks
+          + [18]1.1 Standard dump truck
+          + [19]1.2 Articulated dump truck
+          + [20]1.3 Transfer dump truck
+          + [21]1.4 Truck and pup
+          + [22]1.5 Superdump truck
+          + [23]1.6 Semi trailer end dump truck
+          + [24]1.7 Semi trailer bottom dump truck
+          + [25]1.8 Double and triple trailer bottom dump truck
+          + [26]1.9 Side dump truck
+          + [27]1.10 Off-road dump truck
+          + [28]1.11 Winter service vehicles
+     * [29]2 Dangers
+     * [30]3 Education
+     * [31]4 See also
+          + [32]4.1 Manufacturers
+          + [33]4.2 Vehicle types
+          + [34]4.3 Other
+     * [35]5 References
+     * [36]6 External links
+
+[[37]edit] Types of dump trucks
+
+   An [38]Ashok Leyland Comet dump truck, this is a good example of a very
+   basic 2x4 dump truck used for payloads of 10 tonnes or less.
+
+   The dump truck was first conceived in [39]Saint John, New Brunswick
+   when Robert T. Mawhinney attached to a dump box to a flat bed truck in
+   1920. The lifting device was a winch attached to a cable that fed over
+   sheave ([40]pulley) mounted on a mast behind the cab. The cable was
+   connected to the lower front end of the wooden dump box which was
+   attached by a pivot at the back of the truck frame. The operator turned
+   a crank to raise and lower the box.^[41][1]^[42][2] Today, virtually
+   all dump trucks operate by [43]hydraulics and they come in a variety of
+   configurations each designed to accomplish a specific task in the
+   construction material supply chain.
+
+[[44]edit] Standard dump truck
+
+   Another kind of 8x4 dump truck: three rear (two powered) axles
+
+   A standard dump truck is a [45]full truck [46]chassis with a dump body
+   mounted to the [47]frame. The dump body is raised by a [48]hydraulic
+   ram mounted forward of the front [49]bulkhead, between the [50]truck
+   cab ([51]traction unit) and the dump body ([52]semi-trailer). The
+   [53]tailgate can be configured to swing on hinges or it can be
+   configured in the "High Lift Tailgate" format wherein [54]pneumatic
+   rams lift the gate open and up above the dump body.
+
+   A standard dump truck has one front [55]axle, and one or more rear
+   axles which typically have dual wheels on each side. Common
+   configurations for a standard dump truck include the six wheeler which
+   has one rear axle, the ten wheeler with two rear axles, and the
+   tri-axle with three rear axles. These are mainly found in inner cities
+   and in the deep south of the US. The largest of the standard dump
+   trucks is commonly called a "centipede" and has seven axles. The rear
+   two axles are powered and the front axle is the steering axle. The
+   intermediate axles are present to support the weigh over the length of
+   the chassis and sometimes to provide additional braking power.
+
+   The short [56]wheelbase of a standard dump truck makes it more
+   maneuverable than the higher capacity [57]semi-trailer dump trucks.
+
+[[58]edit] Articulated dump truck
+
+   Articulated dump truck or dumper
+
+   An articulated dump truck has a hinge between the cab and the dump box,
+   but is distinct from semi trailer trucks in that the cab is a permanent
+   fixture, not a separable vehicle. Steering is accomplished via
+   hydraulic rams that pivot the entire cab, rather than [59]rack and
+   pinion [60]steering on the front axle. This vehicle is highly adaptable
+   to rough terrain. In line with its use in rough terrain longer
+   distances and overly flat surfaces tend to cause driveline troubles,
+   and failures. Articulated trucks are often referred to as the modern
+   [61]scraper, in the sense that they carry a much higher [62]maintenance
+   burden than most trucks. See the first mass produced articulated dump
+   truck (articulated hauler):^[63][3]
+
+[[64]edit] Transfer dump truck
+
+   Example of a transfer truck and trailer
+
+   A [65]transfer dump (colloquially referred to as a "Slam-Bang!" because
+   of the noise made when transferring) is a standard dump truck which
+   pulls a separate trailer which can also be loaded with [66]aggregate
+   ([67]gravel, [68]sand, [69]asphalt, klinker, snow, wood chips, triple
+   mix, etc.)
+
+   The second aggregate container, ([70]B box) on the trailer, is powered
+   by either an electric, pneumatic motor or hydraulic line,. It rolls on
+   small wheels, riding on rails from the trailer's frame, into the empty
+   main dump (A) box. This maximizes payload capacity without sacrificing
+   the maneuverability of the standard dump truck. Transfer dumps are
+   typically seen in the western United States because of the peculiar
+   weight restrictions on western highways.
+
+   Another configuration seen is called a Triple Transfer Train, which
+   consists of a B and C box. These are common on Nevada and Utah Highways
+   but not in California. Depending on the axle arrangement, a Triple
+   Transfer can haul up to 129,000 with a special permit in certain US
+   states. The Triple Transfer usually costs a contactor about $105 an
+   hour while a A/B config usually runs about $85 per hour (2007 stats).
+
+   Transfer dump trucks typically haul between 26 and 27 tons of aggregate
+   per load, each truck is capable of 3-5 loads per day, generally
+   speaking.
+
+[[71]edit] Truck and pup
+
+   A truck and pup is very similar to a transfer dump. It consists of a
+   standard dump truck pulling a dump trailer. The pup trailer, unlike the
+   transfer, has its own hydraulic ram and is capable of self-unloading.
+
+[[72]edit] Superdump truck
+
+   Example of a Superdump body and trailing axle
+
+   A Superdump is a straight dump truck equipped with a trailing axle, a
+   liftable, load-bearing axle rated as high as 13,000 pounds. Trailing 11
+   to 13 feet behind the rear tandem, the trailing axle stretches the
+   outer "bridge" measurementthe distance between the first and last
+   axlesto the maximum overall length allowed. This increases the gross
+   weight allowed under the federal bridge formula, which sets standards
+   for truck size and weight. Depending on the vehicle length and axle
+   configuration, Superdumps can be rated as high as 80,000 pounds GVW and
+   carry 26 tons of payload or more. When the truck is empty or ready to
+   offload, the trailing axle toggles up off the road surface on two
+   hydraulic arms to clear the rear of the vehicle. Truck owners call
+   their trailing axle-equipped trucks Superdumps because they far exceed
+   the [73]payload, productivity, and return on investment of a
+   conventional dump truck. The Superdump and trailing axle concept was
+   developed by [74]Strong Industries of [75]Houston, [76]Texas.
+
+[[77]edit] Semi trailer end dump truck
+
+   End dump trailer.
+
+   A semi end dump is a tractor-trailer combination wherein the trailer
+   itself contains the hydraulic [78]hoist. A typical semi end dump has a
+   3-axle tractor pulling a 2-axle [79]semi-trailer. The key advantage of
+   a semi end dump is rapid unloading. A key disadvantage is that they are
+   very unstable when raised in the dumping position limiting their use in
+   many applications where the dumping location is uneven or off level.
+
+[[80]edit] Semi trailer bottom dump truck
+
+   Bottom dump trailer.
+
+   A semi bottom dump (or "belly dump") is a 3-axle tractor pulling a
+   2-axle trailer with a [81]clam shell type [82]dump gate in the belly of
+   the trailer. The key advantage of a semi bottom dump is its ability to
+   lay material in a [83]wind row (a linear heap). In addition, a semi
+   bottom dump is maneuverable in reverse, unlike the double and triple
+   trailer configurations described below. These trailers may be found
+   either of the windrow type shown in the photo, or may be of the 'cross
+   spread' type with the gates opening front to rear instead of left and
+   right. The cross spread gates will actually spread gravel fairly evenly
+   the width of the trailer. by comparison, the windrow gates leave a pile
+   in the middle. The cross spreads jam and do not work well with larger
+   materials. Likewise they are not suitable for use where spreading is
+   not desired such as when hot asphalt paving material is being dumped in
+   front of a paving machine.
+
+[[84]edit] Double and triple trailer bottom dump truck
+
+   Double and triple bottom dumps consist of a 2-axle tractor pulling one
+   single-axle semi-trailer and an additional full trailer (or two full
+   trailers in the case of triples). These dump trucks allow the driver to
+   lay material in windrows without leaving the cab or stopping the truck.
+   The main disadvantage is the difficulty in backing double and triple
+   units.
+
+   The specific type of dump truck used in any specific country is likely
+   to be closely keyed to the weight and axle limitations of that
+   jurisdiction. Rock, dirt and other types of materials commonly hauled
+   in trucks of this type are quite heavy, and almost any style of truck
+   can be easily overloaded. Because of this, this type of truck is
+   frequently configured to take advantage of local weight limitations to
+   maximize the cargo. For example, within the [85]United States, the
+   maximum weight limit of 40 tons throughout the country, except for
+   specific bridges with lower limits. Individual states, in some
+   instances, are allowed to authorize trucks up to 52.5 tons. Most states
+   that do so require that the trucks be very long, to spread the weight
+   over more distance. It is in this context that double and triple
+   bottoms are found within the US.
+
+[[86]edit] Side dump truck
+
+   Side Dump Industries Train Set.
+
+   A side dump truck consists of a 3-axle tractor pulling a 2-axle
+   semi-trailer. It has hydraulic rams which tilt the dump body onto its
+   side, spilling the material to either the left or right side of the
+   trailer. The key advantages of the side dump are that it allows rapid
+   unloading and can carry more weight in western United States. In
+   addition, it is almost immune to upset (tipping over) while dumping
+   unlike the semi end dumps which are very prone to tipping over. It is,
+   however, highly likely that a side dump trailer will tip over if
+   dumping is stopped prematurely. Also, when dumping lose materials or
+   cobble sized stone, the side dump can become stuck if the pile becomes
+   wide enough to cover too much of the trailer's wheels. Trailers that
+   dump at the appropriate angle (50 for example) avoid the problem of the
+   dumped load fouling the path of the trailer wheels by dumping their
+   loads further to the side of the truck, in some cases leaving
+   sufficient clearance to walk between the dumped load and the trailer.
+
+[[87]edit] Off-road dump truck
+
+   [88]Liebherr T 282B mining truck.
+   Hitachi mining truck.
+
+   Off-road dump trucks more closely resemble heavy construction equipment
+   or [89]engineering vehicles than they do highway dump trucks. They are
+   used strictly off-road for mining and heavy dirt hauling jobs.
+
+   The term Dump Truck is not generally used by the mining industry, or by
+   the manufacturers that build these machines. The more appropriate US
+   term for this strictly off road vehicle is, Haul truck and the
+   equivalent European term is 'Dumper'. The classification bottom and
+   side for example, describes how the loaded material is discharged once
+   loaded. In the case of the [90]Haul truck illustrated, a [91]Liebherr
+   [92]T 282B the load is discharged to the rear, designating this
+   particular vehicle as an end dump.
+
+   Bottom dump normally describes a trailer that discharges its load by
+   opening two [93]clam shell [94]doors under the load space, in some
+   examples several trailers ([95]road train) are pulled by one truck
+   mainly these are on road machines. The only remaining example of what
+   is described as a unitized bottom dump coal hauler is manufactured by
+   Kress Corporation. This large capacity truck is used for the
+   transportation of coal from a loading device ([96]shovel) directly to a
+   power station or bulk storage area.
+
+   The current largest off road haul trucks are the Liebherr T282B and the
+   [97]Caterpillar 797B, which both have payloads of 400 short tons. Even
+   though these trucks are similar in capacity the Caterpillar is referred
+   to as a mechanical truck since it uses a big diesel engine(s, sometimes
+   two) and big transmissions to power the rear wheels. The Liebherr is
+   referred to as a [98]Diesel-Electric Truck since it uses a diesel
+   engine linked to an alternator that generates electricity which is
+   converted to AC used to power two giant electric motors found on the
+   rear wheel assemblies, similar to a locomotive (it is a series
+   [99]plug-in hybrid). Besides Liebherr and Caterpillar, Hitachi, Terex,
+   Komatsu and others also fabricate such off road haul trucks in
+   different capacities.
+
+[[100]edit] Winter service vehicles
+
+   Many [101]winter service vehicle units are based on dump trucks, to
+   allow the placement of [102]ballast to weigh the truck down or to hold
+   [103]sodium or [104]calcium chloride [105]salts for spreading on snow
+   and ice covered surfaces.
+
+[[106]edit] Dangers
+
+   Dump trucks are normally built for some amount of off-road or
+   construction site driving; as the driver is protected by the
+   [107]chassis and height of the driver's seat, [108]bumpers are either
+   placed high or omitted for added ground clearance. The disadvantage is
+   that in a collision with a standard car, the entire motor section or
+   luggage compartment goes under the truck. Thus, passengers in the car
+   could be more severely injured than would be common in a collision with
+   another car. Several countries have made rules that new trucks should
+   have bumpers approximately 40 cm (20 in) above ground in order to
+   protect other drivers better. There are also rules about how long the
+   load or construction of the truck can go beyond the rear bumper to
+   prevent cars that rear-end the truck from going under it.^[109][4]
+
+   Another safety consideration is the leveling of the truck before
+   unloading. If the truck is not parked on a relatively horizontal
+   ground, the sudden change of weight and balance due to lifting of the
+   skip and dumping of the material can cause the truck to slide, or even
+   - in some light dump trucks - to turn over.
+
+[[110]edit] Education
+
+   The [111]National Association of Heavy Equipment Training Schools
+   (NAHETS), established 2002, uses dumptruck training and schools
+   curriculum as a method to test and train users in the ability of dump
+   truck use.
+
+[[112]edit] See also
+
+[[113]edit] Manufacturers
+
+     * [114]BelAZ
+     * [115]Caterpillar Inc.
+     * [116]Euclid Trucks
+     * [117]GHH Fahrzeuge
+     * [118]Liebherr
+     * [119]Hitachi Construction Machinery
+     * [120]Hitachi Construction Machinery (Europe)
+     * [121]Terex Corporation
+     * [122]Komatsu
+     * [123]List of dump truck manufacturers
+     * [124]International
+     * [125]Peterbilt
+     * [126]ST Kinetics
+     * [127]Volvo
+     * [128]Volvo Construction Equipment
+
+[[129]edit] Vehicle types
+
+     * [130]Dumper
+     * [131]Semi-trailer and [132]semi-trailer truck
+     * [133]Tractor unit
+     * [134]Train
+     * [135]Waste collection vehicle
+
+[[136]edit] Other
+
+     * [137]Mining simulator
+
+[[138]edit] References
+
+    1. [139]^ Mario Theriault, Great Maritme Inventions 1833-1950, Goose
+       Lane Editions, 2001, p. 71
+    2. [140]^ [141]Sketch of the first dump truck
+    3. [142]^
+       [143]http://www.volvo.com/constructionequipment/global/en-gb/AboutU
+       s/history/products/articulated+haulers/introduction.htm
+    4. [144]^
+       [145]http://www.wipo.int/pctdb/en/wo.jsp?IA=SE2003001950&DISPLAY=DE
+       SC Vehicles underrun protection arrangements Retrieved 2008-12-26
+
+[[146]edit] External links
+
+     * [147]VRML Simulation of an Excavator, Tower Crane, and Dumptruck
+       from the [148]National Institute of Standards and Technology
+     * [149]A YouTube video of a dump truck raising and lowering it load
+       tray
+
+   Retrieved from "[150]http://en.wikipedia.org/wiki/Dump_truck"
+   [151]Categories: [152]Dump trucks | [153]Trucks | [154]Engineering
+   vehicles | [155]Canadian inventions
+   Hidden category: [156]Articles with limited geographic scope
+
+Views
+
+     * [157]Article
+     * [158]Discussion
+     * [159]Edit this page
+     * [160]History
+
+Personal tools
+
+     * [161]Log in / create account
+
+Navigation
+
+     * [162]Main page
+     * [163]Contents
+     * [164]Featured content
+     * [165]Current events
+     * [166]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [167]About Wikipedia
+     * [168]Community portal
+     * [169]Recent changes
+     * [170]Contact Wikipedia
+     * [171]Donate to Wikipedia
+     * [172]Help
+
+Toolbox
+
+     * [173]What links here
+     * [174]Related changes
+     * [175]Upload file
+     * [176]Special pages
+     * [177]Printable version
+     * [178]Permanent link
+     * [179]Cite this page
+
+Languages
+
+     * [180]Deutsch
+     * [181]Espaol
+     *
+     * [182]Magyar
+     * [183]Nederlands
+     *
+     *
+     *
+
+   [184]Powered by MediaWiki
+   [185]Wikimedia Foundation
+     * This page was last modified on 2 February 2009, at 14:44.
+     * All text is available under the terms of the [186]GNU Free
+       Documentation License. (See [187]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [188]Wikimedia
+       Foundation, Inc., a U.S. registered [189]501(c)(3)
+       [190]tax-deductible [191]nonprofit [192]charity.
+     * [193]Privacy policy
+     * [194]About Wikipedia
+     * [195]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dump_truck&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:WikiProject_Countering_systemic_bias
+   9. http://en.wikipedia.org/w/index.php?title=Dump_truck&action=edit
+  10. file://localhost/wiki/Talk:Dump_truck
+  11. file://localhost/wiki/Truck
+  12. file://localhost/wiki/Sand
+  13. file://localhost/wiki/Gravel
+  14. file://localhost/wiki/Soil
+  15. file://localhost/wiki/Construction
+  16. file://localhost/wiki/Hydraulic_machinery
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Types_of_dump_trucks
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Standard_dump_truck
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Articulated_dump_truck
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Transfer_dump_truck
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Truck_and_pup
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Superdump_truck
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Semi_trailer_end_dump_truck
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Semi_trailer_bottom_dump_truck
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Double_and_triple_trailer_bottom_dump_truck
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Side_dump_truck
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Off-road_dump_truck
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Winter_service_vehicles
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Dangers
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Education
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#See_also
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Manufacturers
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Vehicle_types
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#Other
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#References
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#External_links
+  37. file://localhost/w/index.php?title=Dump_truck&action=edit&section=1
+  38. file://localhost/wiki/Ashok_Leyland
+  39. file://localhost/wiki/Saint_John,_New_Brunswick
+  40. file://localhost/wiki/Pulley
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_note-0
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_note-1
+  43. file://localhost/wiki/Hydraulics
+  44. file://localhost/w/index.php?title=Dump_truck&action=edit&section=2
+  45. file://localhost/w/index.php?title=Full_truck&action=edit&redlink=1
+  46. file://localhost/wiki/Chassis
+  47. file://localhost/wiki/Chassis
+  48. file://localhost/wiki/Hydraulic_ram
+  49. file://localhost/wiki/Bulkhead_(partition)
+  50. file://localhost/wiki/Truck
+  51. file://localhost/wiki/Traction_unit
+  52. file://localhost/wiki/Semi-trailer
+  53. file://localhost/wiki/Tailgate
+  54. file://localhost/wiki/Pneumatic
+  55. file://localhost/wiki/Axle
+  56. file://localhost/wiki/Wheelbase
+  57. file://localhost/wiki/Semi-trailer_truck
+  58. file://localhost/w/index.php?title=Dump_truck&action=edit&section=3
+  59. file://localhost/wiki/Rack_and_pinion
+  60. file://localhost/wiki/Steering
+  61. file://localhost/wiki/Scraper
+  62. file://localhost/w/index.php?title=Maintenance_burden&action=edit&redlink=1
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_note-2
+  64. file://localhost/w/index.php?title=Dump_truck&action=edit&section=4
+  65. file://localhost/w/index.php?title=Transfer_dump&action=edit&redlink=1
+  66. file://localhost/wiki/Construction_aggregate
+  67. file://localhost/wiki/Gravel
+  68. file://localhost/wiki/Sand
+  69. file://localhost/wiki/Asphalt
+  70. file://localhost/w/index.php?title=B_box&action=edit&redlink=1
+  71. file://localhost/w/index.php?title=Dump_truck&action=edit&section=5
+  72. file://localhost/w/index.php?title=Dump_truck&action=edit&section=6
+  73. file://localhost/wiki/Cargo
+  74. file://localhost/w/index.php?title=Strong_Industries&action=edit&redlink=1
+  75. file://localhost/wiki/Houston
+  76. file://localhost/wiki/Texas
+  77. file://localhost/w/index.php?title=Dump_truck&action=edit&section=7
+  78. file://localhost/wiki/Hoist_(device)
+  79. file://localhost/wiki/Semi-trailer
+  80. file://localhost/w/index.php?title=Dump_truck&action=edit&section=8
+  81. file://localhost/wiki/Clam_shell
+  82. file://localhost/w/index.php?title=Dump_gate&action=edit&redlink=1
+  83. file://localhost/wiki/Wind_row
+  84. file://localhost/w/index.php?title=Dump_truck&action=edit&section=9
+  85. file://localhost/wiki/United_States
+  86. file://localhost/w/index.php?title=Dump_truck&action=edit&section=10
+  87. file://localhost/w/index.php?title=Dump_truck&action=edit&section=11
+  88. file://localhost/wiki/Liebherr_T_282B
+  89. file://localhost/wiki/Engineering_vehicle
+  90. file://localhost/w/index.php?title=Haul&action=edit&redlink=1
+  91. file://localhost/wiki/Liebherr
+  92. file://localhost/wiki/Liebherr_T_282B
+  93. file://localhost/wiki/Clam_shell
+  94. file://localhost/wiki/Door
+  95. file://localhost/wiki/Road_train
+  96. file://localhost/wiki/Shovel
+  97. file://localhost/wiki/Caterpillar_797B
+  98. file://localhost/wiki/Diesel-electric
+  99. file://localhost/wiki/Plug-in_hybrid
+ 100. file://localhost/w/index.php?title=Dump_truck&action=edit&section=12
+ 101. file://localhost/wiki/Winter_service_vehicle
+ 102. file://localhost/wiki/Sailing_ballast
+ 103. file://localhost/wiki/Sodium_chloride
+ 104. file://localhost/wiki/Calcium_chloride
+ 105. file://localhost/wiki/Salt
+ 106. file://localhost/w/index.php?title=Dump_truck&action=edit&section=13
+ 107. file://localhost/wiki/Chassis
+ 108. file://localhost/wiki/Bumper_(automobile)
+ 109. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_note-3
+ 110. file://localhost/w/index.php?title=Dump_truck&action=edit&section=14
+ 111. file://localhost/wiki/National_Association_of_Heavy_Equipment_Training_Schools
+ 112. file://localhost/w/index.php?title=Dump_truck&action=edit&section=15
+ 113. file://localhost/w/index.php?title=Dump_truck&action=edit&section=16
+ 114. file://localhost/wiki/BelAZ
+ 115. file://localhost/wiki/Caterpillar_Inc.
+ 116. file://localhost/wiki/Euclid_Trucks
+ 117. file://localhost/w/index.php?title=GHH_Fahrzeuge&action=edit&redlink=1
+ 118. file://localhost/wiki/The_Liebherr_Group
+ 119. file://localhost/w/index.php?title=Hitachi_Construction_Machinery&action=edit&redlink=1
+ 120. file://localhost/wiki/Hitachi_Construction_Machinery_(Europe)
+ 121. file://localhost/wiki/Terex_Corporation
+ 122. file://localhost/wiki/Komatsu_Limited
+ 123. file://localhost/wiki/List_of_dump_truck_manufacturers
+ 124. file://localhost/wiki/Navistar_International_Corporation
+ 125. file://localhost/wiki/Peterbilt
+ 126. file://localhost/wiki/ST_Kinetics#Construction_Vehicles
+ 127. file://localhost/wiki/Volvo
+ 128. file://localhost/wiki/Volvo_Construction_Equipment
+ 129. file://localhost/w/index.php?title=Dump_truck&action=edit&section=17
+ 130. file://localhost/wiki/Dumper
+ 131. file://localhost/wiki/Semi-trailer
+ 132. file://localhost/wiki/Semi-trailer_truck
+ 133. file://localhost/wiki/Tractor_unit
+ 134. file://localhost/wiki/Train
+ 135. file://localhost/wiki/Waste_collection_vehicle
+ 136. file://localhost/w/index.php?title=Dump_truck&action=edit&section=18
+ 137. file://localhost/wiki/Mining_simulator
+ 138. file://localhost/w/index.php?title=Dump_truck&action=edit&section=19
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_ref-0
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_ref-1
+ 141. http://www.new-brunswick.net/Saint_John/sjfirst.html
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_ref-2
+ 143. http://www.volvo.com/constructionequipment/global/en-gb/AboutUs/history/products/articulated+haulers/introduction.htm
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc497.tmp.html#cite_ref-3
+ 145. http://www.wipo.int/pctdb/en/wo.jsp?IA=SE2003001950&DISPLAY=DESC
+ 146. file://localhost/w/index.php?title=Dump_truck&action=edit&section=20
+ 147. http://cic.nist.gov/vrml/equip.html
+ 148. file://localhost/wiki/National_Institute_of_Standards_and_Technology
+ 149. http://www.youtube.com/watch?v=dvA3VAG8eEs
+ 150. http://en.wikipedia.org/wiki/Dump_truck
+ 151. file://localhost/wiki/Special:Categories
+ 152. file://localhost/wiki/Category:Dump_trucks
+ 153. file://localhost/wiki/Category:Trucks
+ 154. file://localhost/wiki/Category:Engineering_vehicles
+ 155. file://localhost/wiki/Category:Canadian_inventions
+ 156. file://localhost/wiki/Category:Articles_with_limited_geographic_scope
+ 157. file://localhost/wiki/Dump_truck
+ 158. file://localhost/wiki/Talk:Dump_truck
+ 159. file://localhost/w/index.php?title=Dump_truck&action=edit
+ 160. file://localhost/w/index.php?title=Dump_truck&action=history
+ 161. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dump_truck
+ 162. file://localhost/wiki/Main_Page
+ 163. file://localhost/wiki/Portal:Contents
+ 164. file://localhost/wiki/Portal:Featured_content
+ 165. file://localhost/wiki/Portal:Current_events
+ 166. file://localhost/wiki/Special:Random
+ 167. file://localhost/wiki/Wikipedia:About
+ 168. file://localhost/wiki/Wikipedia:Community_portal
+ 169. file://localhost/wiki/Special:RecentChanges
+ 170. file://localhost/wiki/Wikipedia:Contact_us
+ 171. http://wikimediafoundation.org/wiki/Donate
+ 172. file://localhost/wiki/Help:Contents
+ 173. file://localhost/wiki/Special:WhatLinksHere/Dump_truck
+ 174. file://localhost/wiki/Special:RecentChangesLinked/Dump_truck
+ 175. file://localhost/wiki/Wikipedia:Upload
+ 176. file://localhost/wiki/Special:SpecialPages
+ 177. file://localhost/w/index.php?title=Dump_truck&printable=yes
+ 178. file://localhost/w/index.php?title=Dump_truck&oldid=268038878
+ 179. file://localhost/w/index.php?title=Special:Cite&page=Dump_truck&id=268038878
+ 180. http://de.wikipedia.org/wiki/Muldenkipper
+ 181. http://es.wikipedia.org/wiki/cami%C3%B3n_ba%C3%B1era
+ 182. http://hu.wikipedia.org/wiki/D%C3%B6mper
+ 183. http://nl.wikipedia.org/wiki/Kipwagen
+ 184. http://www.mediawiki.org/
+ 185. http://wikimediafoundation.org/
+ 186. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 187. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 188. http://www.wikimediafoundation.org/
+ 189. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 190. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 191. http://en.wikipedia.org/wiki/Non-profit_organization
+ 192. http://en.wikipedia.org/wiki/Charitable_organization
+ 193. http://wikimediafoundation.org/wiki/Privacy_policy
+ 194. file://localhost/wiki/Wikipedia:About
+ 195. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 196. file://localhost/wiki/File:Ambox_globe_content.svg
+ 197. file://localhost/wiki/File:Truck_with_motion_blur.jpg
+ 198. file://localhost/wiki/File:Truck_with_motion_blur.jpg
+ 199. file://localhost/wiki/File:Ashok_Leyland_Tipper_Truck_726.jpg
+ 200. file://localhost/wiki/File:Ashok_Leyland_Tipper_Truck_726.jpg
+ 201. file://localhost/wiki/File:Triaxle_dump_truck_2005-10-06.km.jpg
+ 202. file://localhost/wiki/File:Triaxle_dump_truck_2005-10-06.km.jpg
+ 203. file://localhost/wiki/File:Dumper_Truck.JPG
+ 204. file://localhost/wiki/File:Dumper_Truck.JPG
+ 205. file://localhost/wiki/File:WCtruck.jpeg
+ 206. file://localhost/wiki/File:WCtruck.jpeg
+ 207. file://localhost/wiki/File:Strong_Superdump_image.jpg
+ 208. file://localhost/wiki/File:Strong_Superdump_image.jpg
+ 209. file://localhost/wiki/File:End_dump_2005-11-28.km.jpg
+ 210. file://localhost/wiki/File:End_dump_2005-11-28.km.jpg
+ 211. file://localhost/wiki/File:Belly_dump_2005-12-15.km.jpg
+ 212. file://localhost/wiki/File:Belly_dump_2005-12-15.km.jpg
+ 213. file://localhost/wiki/File:Smudge2.jpg
+ 214. file://localhost/wiki/File:Smudge2.jpg
+ 215. file://localhost/wiki/File:Liebherr_t282_1.jpg
+ 216. file://localhost/wiki/File:Liebherr_t282_1.jpg
+ 217. file://localhost/wiki/File:Euclid_Hitachi.jpg
+ 218. file://localhost/wiki/File:Euclid_Hitachi.jpg
+ 219. file://localhost/wiki/Main_Page
+ 220. http://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86_%D8%AA%D8%AE%D9%84%DB%8C%D9%87
+ 221. http://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%97%E3%82%AB%E3%83%BC
+ 222. http://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D0%B2%D0%B0%D0%BB
+ 223. http://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D0%BA%D0%B8%D0%B4

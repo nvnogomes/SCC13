@@ -1,0 +1,841 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+eXpanded MultiPlayer
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   [8]Cleanup
+   This article may contain material in violation of Wikipedia's
+   [9]guidelines for video game subjects, such as lists of minutiae or a
+   detailed description of how to play a game. Please help by removing or
+   rewriting content in an encyclopedic style. (May 2008)
+
+   eXpanded MultiPlayer (XMP) is a [10]multiplayer expansion to [11]Unreal
+   II developed by [12]Legend Entertainment. XMP contains just one game
+   mode that is similar to [13]Capture the flag but requires more
+   sophisticated tactics.
+   The scenery of the map 'Islands'
+
+Contents
+
+     * [14]1 Development
+     * [15]2 Master server
+     * [16]3 Gameplay
+          + [17]3.1 Hacking
+          + [18]3.2 Energy
+          + [19]3.3 Deploy Points
+          + [20]3.4 Scoring
+          + [21]3.5 Winning
+          + [22]3.6 Communication
+     * [23]4 Classes
+          + [24]4.1 Ranger
+               o [25]4.1.1 Weapons
+               o [26]4.1.2 Skills
+          + [27]4.2 Tech
+               o [28]4.2.1 Weapons
+               o [29]4.2.2 Skills
+          + [30]4.3 Gunner
+               o [31]4.3.1 Weapons
+               o [32]4.3.2 Skills
+     * [33]5 Vehicles
+          + [34]5.1 Viewing Angles
+          + [35]5.2 Raptor
+               o [36]5.2.1 Gutblowing
+               o [37]5.2.2 Honking
+          + [38]5.3 Harbinger
+               o [39]5.3.1 Honking
+          + [40]5.4 Juggernaut
+     * [41]6 Weapons
+          + [42]6.1 Deployables
+     * [43]7 External links
+
+[[44]edit] Development
+
+   This article is written like [45]an advertisement. Please help
+   [46]rewrite this article from a [47]neutral point of view. For blatant
+   advertising that would require a fundamental rewrite to become
+   encyclopedic, use {{[48]db-spam}} to mark for [49]speedy deletion.
+   (December 2007)
+
+   [50]Unreal II: eXpanded MultiPlayer was developed by [51]Legend
+   Entertainment for [52]Atari to deliver on the original promise to
+   extend the original [53]single player game Unreal II with a
+   [54]multiplayer functionality. The first playable version was released
+   and made available for download on [55]December 9, [56]2003. Almost
+   nearing completion, the development of the game was suddenly halted by
+   the unexpected close-down of [57]Legend Entertainment on [58]January
+   16, [59]2004.
+
+   Although the single player edition of Unreal II was disappointing to
+   fans of the original Unreal,^[[60]citation needed] the online
+   multiplayer add-on (XMP) is considered a sophisticated and addictive
+   multiplayer game.^[[61]citation needed] Realistic graphics and visually
+   stunning maps^[[62]citation needed] complement class-based game play in
+   a cooperative environment - a departure from the frag-fest environment
+   of the various Unreal multiplayer brethren. Players who gain experience
+   and hone skills, such as wall jumping (Ranger class), concussion
+   jumping (Gunner class) and other maneuvers, are rewarded through game
+   points. While the XMP community has suffered serious setbacks with the
+   loss of master server support and the closing of Legend
+   Entertertainment, a small community of players still meet on a daily
+   basis^[[63]citation needed] for lively sessions on a variety of maps.
+
+[[64]edit] Master server
+
+   As XMP is a pure online game living from game servers hosted over the
+   world. It is quite dependent on a server which the user's XMP copy
+   queries for online game servers. As this master server crashed often
+   and the manufacturing company stopped support for the game, it was not
+   easy to find online games for XMP newbies.
+
+   An XMP fan later implemented his own master server, so that users can
+   find online servers easily again.
+
+   For more information, visit
+     * [65]http://forums.beyondunreal.com/showthread.php?p=1987529#post198
+       7529
+
+[[66]edit] Gameplay
+
+   XMP is a team-based game, where the players are split into two teams,
+   red and blue. Both teams have a base with an Artifact Node. Each
+   Artifact Node initially contains two Artifacts. (XMP players often
+   refer to these as "Artis".) The main objective is to steal the enemy's
+   Artifacts and then register them at your own Artifact Node, both
+   accomplished by running through the appropriate Artifact Node.
+
+   The game relies on some basic concepts, which make XMP unique:
+     * Three classes: The player can play as a Ranger, a Tech or a Gunner,
+       each with its own pros and cons,
+     * Energy: Every action costs energy; each team has to ensure a
+       sufficient energy level at all times,
+     * Vehicles: Three different vehicle types enhance gameplay,
+     * Teamplay: The team with better collaboration is more likely to win
+       the game.
+
+[[67]edit] Hacking
+
+   Some of the items in the game can be hacked to be owned by the hacking
+   team. The two most important things to be hacked are Energy Generators
+   and Deploy Points, but you can also hack panels of some doors and
+   lifts. To hack an item, stand close to it, press and hold the key you
+   have bound to "Use". A progress bar will appear. When it is full, the
+   item belongs to your team and you will hear the announcer say something
+   like "Your team has gained <your item here>". While you are hacking,
+   you are an easy target for the enemy, so it is a good idea to wait for
+   the opportune moment to hack a given item, or otherwise call a teammate
+   to provide some cover.
+
+   A special way of "hacking" is treating teammates. The player can always
+   approach and "use" them. Depending on the actual player class the
+   teammate can either be healed (Ranger), repaired (Tech) or resupplied
+   (Gunner).
+
+   The speed of hacking items depends on the player class and the actual
+   personal energy reserve. Techs hack fastest, Gunners and Rangers take
+   longer to hack. All three classes treat (heal, repair, or supply)
+   teammates at the same speed. However, if the player's personal energy
+   supply is depleted (e.g. due to excessive use of the jump pack) hacking
+   and treating will take significantly longer.
+
+[[68]edit] Energy
+
+   What makes XMP different from typical CTF is Energy. Energy is required
+   for almost everything in the game: weapons, vehicles and even the
+   player's advanced movements. Autonomous mechanical defenses (so-called
+   "Deployables") consume the most energy. Without Energy you cannot
+   register the enemy's Artifacts as your own, drop turrets and so on.
+   Each map has a number of Generators which can be hacked by each team to
+   provide energy. Each Generator contributes to your team's energy level
+   at a specific rate. To register Artifacts, your team must have at least
+   a level of 800 Energy. For every 50 Energy from 800 down to 500 the
+   team gains/loses a function which is announced like this: Red/blue team
+   "item" are online/offline.
+
+   There are two separate supplies of Energy a player is concerned with:
+   their team's Energy supply (the tall blue bar to the extreme lower
+   right of the HUD) and their personal Energy reserve (the short yellow
+   bar to the immediate left of the team energy bar). The personal Energy
+   reserve is depleted when performing any of the 'advanced' functions of
+   the game; ie. hacking an object, deploying a turret or a mine, healing
+   a teammate or activating jump jets. Some things, however, draw directly
+   from the team's energy reserve, such as deployed turrets, or driving or
+   firing from a vehicle. The player's personal reserve is refilled from
+   the team's Energy bank; therefore, if every team member 'spends' their
+   energy frivolously, the team will soon find itself without defenses,
+   vehicles, or even a place to register stolen artifacts. For this
+   reason, a player should handle their energy responsibly, at least until
+   their team has enough Generators under its control to support multiple
+   energy-intensive activities.
+
+[[69]edit] Deploy Points
+
+   A Deploy Point is a place where you can [70]spawn after being killed.
+   You do not need to redeploy every time after being killed, as any other
+   player can revive you. However, when you are revived you start with one
+   health point (although you can still be healed back to full health by a
+   Ranger).
+
+   Most Deploy Points can be hacked like Generators, except for the ones
+   closest to either team's base. It is good to have as many Deploy Points
+   as possible, since that will both increase your potential starting
+   points, as well as limit those of your enemy. Every Deploy Point has a
+   deploy time which means that you will have to wait for the countdown of
+   the current time cycle to be able to deploy.
+
+   Pressing the 'Jump' key repeatedly while waiting to respawn allows a
+   player to cycle through all of his team's available Deploy Points, in
+   order to spawn at a key location or to get back into the action
+   quicker. Viewing each Deploy Point will also display a list of
+   teammates: white names are live teammates that spawned from the Point
+   in question, while grayed-out names are teammates that have been killed
+   and are waiting at this Deploy Point. An icon next to each teammate's
+   name also displays their class: a medic's cross for a Ranger, a wrench
+   for a Tech and a bullet for a Gunner.
+
+[[71]edit] Scoring
+
+   Each successful action increases the player's personal score while all
+   negative actions decrease it. Individual scores of the team members are
+   neither added up nor are they of any importance to win the game.
+   however, they are a good hint to the personal performance of the team
+   members and also the overall success of the complete team.
+
+   The individual scores can always be displayed by all players with the
+   <F1> key. The "most valuable players" by score can always be retrieved
+   with the <F2> key and will also be listed in the loading screen of the
+   next map after the current game ends.
+
+[[72]edit] Winning
+
+   There are two ways for your team to win the game:
+     * Steal and register all four Artifacts at your Artifact Node,
+     * Hack and keep all Generators until the enemy runs out of Energy.
+
+   If neither of the two options is achieved when the game time runs out,
+   no team wins according to the original game rules. In some leagues
+   however, a custom rule is enforced so possessing more Artifacts than
+   the enemy will also win the game.
+
+[[73]edit] Communication
+
+   There are several possibilities how you can talk to other players in a
+   match. Most important (because available to all players) is the
+   in-game-chat. Standard key for typing chat messages to be seen by all
+   players is 'T'. If you want to type messages only to be read by your
+   teammates, the standard key is 'Y'. Key bindings for that can be
+   changed either in Options menu of the game or manually in the
+   MyUser.ini file. If team messages are sent, the player's current
+   location on the map is displayed after the player's name and before the
+   actual message.
+
+   XMP also supports voice messages which can be bound to any key. There
+   are 39 possible voice messages which are spoken during a match by your
+   avatar. Each player class has its own voice, so a gunner sounds
+   different from a ranger or a tech. It's possible to let all players
+   hear (and read) a message or only the players of your team.
+   Additionally to the speaking, your avatar also sends out a chat
+   message. The voice messages can also be invoked from console with
+   either the command 'speech <number>' '(for sending it to all players)
+   or 'teamspeech <number>' (for sending only to your team). Those
+   commands are the same that can be put in the MyUser.ini file. The
+   following commands are implemented (starting with the number):
+     * 0. "Acknowledged."
+     * 1. "All clear."
+     * 2. "Get in the vehicle."
+     * 3. "I've got an artifact!"
+     * 4. "I need backup!"
+     * 5. "We need defense!"
+     * 6. "We need more deploy points!"
+     * 7. "We need energy!"
+     * 8. "I need a medic!"
+     * 9. "I need repairs!"
+     * 10. "I need supplies!"
+     * 11. "No problem."
+     * 12. "Sorry."
+     * 13. "Thanks."
+     * 14. "Incoming!"
+     * 15. "Wait up!"
+     * 16. "Affirmative!"
+     * 17. "Negative."
+     * 18. "Nice shot!"
+     * 19. "On my way."
+     * 20. "Same team!"
+     * 21. "At the base."
+     * 22. "At the generator."
+     * 23. "I'm on defense."
+     * 24. "I'm on offense."
+     * 25. "Cover me."
+     * 26. "Follow me."
+     * 27. "I need a ride."
+     * 28. "I need health."
+     * 29. "Someone revive me!"
+     * 30. "<--- I'm hacking this."
+     * 31. "<--- We now own this."
+     * 32. "Get rid of those deployables!"
+     * 33. "Hack their DeployPoints!"
+     * 34. "We need more automated defenses!"
+     * 35. "Enemy in our base!"
+     * 36. "I've dropped an artifact!"
+     * 37. "<--- I've heavily mined this area!"
+     * 38. "<--- There's a live Juggernaut here."
+
+   Any message, speech or plain chat, directed specifically at the team,
+   is also accompanied by a location label in parentheses behind the
+   player's username. This is useful in conjunction with speech messages
+   such as 30, 31, 37 and 38 to let the team know where something is
+   happening, as it saves the time normally spent asking 'Where are you?'
+   or something to that effect.
+
+   XMP does not come with a built-in support for communication through a
+   headset ([74]Voice over IP). But it is of course possible to use
+   external programs like [75]TeamSpeak, [76]Roger Wilco or [77]Ventrilo
+   to establish that during a game.
+
+   Communication during a match can be vital for the outgoing of a game.
+   Your team mates can react on certain messages immediately. E.g., if an
+   artifact has been stolen and you see the artifact carrier, a very
+   important thing is to tell your teammates about that, either through
+   team chat or a headset.
+
+[[78]edit] Classes
+
+   In XMP, players can choose to spawn as one of three [79]character
+   classes. The classes have several different attributes, such as speed,
+   armor and weapons. All three character classes have the same amount of
+   health (100).
+
+   All classes have a stamina bar and the ability to sprint; sprinting
+   roughly doubles the player's base speed (determined by their class) and
+   depletes their stamina bar at a constant rate. In vehicles this is
+   represented instead by a turbo bar, activated by the driver with the
+   same key. Sprinting, predictably, also allows for longer jumps, and is
+   necessary (in combination with jump jets and mantling) to reach certain
+   areas of the map. The player's speed is represented by a tall blue bar
+   to the lower left of the HUD and an abstract value next to it; stamina
+   is represented by the short yellow bar to the immediate right of the
+   speed indicator.
+
+   All classes also have the ability to "mercy kill" (or, as it is often
+   called in-game, "KO-wn") enemies which have been killed and are waiting
+   for revival by a teammate. Those enemy players can be recognized by a
+   skull symbol hovering over their twitching body. To KO-wn an enemy,
+   approach him until you can see the progress bar, then press the "Use"
+   key. KO-wning disallows the enemy player to be revived by friendly
+   Medics or watch his surroundings, and forces him to redeploy at one of
+   his team's current Deploy Points.
+
+   The third and final ability available to all three classes is the use
+   of 'jump jets'. These are, very simply, small jet boosters each player
+   carries on their back that assist in defying gravity by providing a
+   short but powerful burst of upwards momentum. Jump jets are activated
+   by pressing the 'Jump' key a second time before touching the ground.
+   Combined with a player's other inherent abilities such as jumping and
+   dodging, in addition to a good sense of timing, jump jets can:
+     * When triggered at the apex of a straight jump, increase the jump's
+       height; the absolute gain in height varies per class. Obviously the
+       Gunner, being the heaviest class, cannot jump as high as the
+       Ranger.
+     * When triggered at the end of a long jump, increase the jump's
+       length; the same class-based weight modifiers are effective with
+       regard to the actual distance gained.
+     * When triggered simultaneously with a dodge (a double-tap of the
+       'Left' or 'Right' key, resulting in a short, quick dash in that
+       direction) allows a faster, longer, jet-powered dodge move that can
+       also be triggered in midair.
+     * When triggered soon before hitting the ground after a fall or a
+       jump from an extreme height, prevent loss of health from falling
+       damage. What actually happens is the maximum upwards momentum
+       provided by the jets is subtracted from the downwards momentum
+       gained by the falling player; in the case of a light fall this is
+       often enough to stop the player in midair and set them falling
+       again, obviously causing less (or no) damage upon impact (a skilled
+       player can time this to occur just before impact for an extremely
+       light landing). In the case of a severe fall, however, such as from
+       the upper level of the map XMP-Alcazar, the jump jets often merely
+       slow the player slightly, as the accumulated momentum from falling
+       far exceeds that provided by the jets.
+
+   Jump jets may only be activated once per jump; once the player touches
+   the ground they immediately recharge.
+
+[[80]edit] Ranger
+
+   The Ranger is XMP's lightest class and therefore the fastest; however
+   he has the lowest amount of Shield (100).
+
+[[81]edit] Weapons
+
+   The Ranger has the following weapons:
+     * Sniper Rifle with zoom function,
+     * Pistol,
+     * Grenade Launcher (fragmentation or smoke grenades).
+     * Shock Lance (best used to destroy deployables e.g. turrets).
+
+   This player class doesn't carry any mechanical Deployables.
+
+[[82]edit] Skills
+
+   The Ranger can heal teammates by approaching and "using" them. If there
+   is sufficient Energy he can also throw Health Packs which can be picked
+   up by any player (including the enemy team!).
+
+[[83]edit] Tech
+
+   The Tech is a middle-weight class with medium amounts of Shield (300)
+   and speed.
+
+[[84]edit] Weapons
+
+   The Tech has the following weapons:
+     * Assault Rifle,
+     * Shotgun,
+     * Grenade Launcher ([85]EMP or toxic gas grenades).
+
+   Depending on his team's actual energy level he can also deploy Auto
+   Turrets, Rocket Turrets, and Force Walls (electric fences). Those
+   Deployables consume a lot of the team's Energy, so it has to be ensured
+   there is always enough of it by hacking and holding Generators.
+
+[[86]edit] Skills
+
+   Techs can repair the shield of his teammates by approaching and "using"
+   them. If there is sufficient Energy he can also throw Shield Packs
+   which can be picked up by any player (also those of the enemy team).
+
+[[87]edit] Gunner
+
+   The Gunner (Also called "Gunny") is a slow player if you count out
+   concussionjumping and lasertripminejumping, but with the highest amount
+   of shield (500).
+
+[[88]edit] Weapons
+
+   The Gunner has the following weapons:
+     * [89]Rocket Launcher,
+     * Flamethrower,
+     * Grenade Launcher (incendiary or concussion grenades).
+
+   Depending on his team's actual energy level he can also deploy
+   [90]Laser [91]Trip Mines and Land Mines. Those Deployables consume a
+   lot of the team's Energy, so it has to be ensured there is always
+   enough of it by hacking and holding Generators.
+
+[[92]edit] Skills
+
+   Gunners can repair the supply teammates by approaching and "using"
+   them. If there is sufficient Energy he can also throw Supply Packs
+   which can be picked up by any player (also those of the enemy team).
+
+   Due to a bug in the game a teammate revived by a Gunner starts with
+   full ammo, instead of the amount he died with.
+
+[[93]edit] Vehicles
+
+   XMP has three vehicles: Raptor, Harbinger and Juggernaut. Like the
+   player classes, each vehicle type has specific advantages and
+   disadvantages over the other ones, like speed, armor and weaponry.
+   Vehicles do not need to be hacked to be available to one of the two
+   teams and cannot be repaired. However, driving a vehicle or firing a
+   vehicle weapon uses energy from the team's reserve. After they are
+   destroyed they will respawn at their original spawn points. For all
+   vehicles, whether in the driver's seat or manning a vehicle weapon,
+   alt-fire will send teamspeech message 2 ("Get in the vehicle.") to the
+   team.
+
+   A useful side note is that vehicles are also affected by falling
+   damage; landing with the wheels down usually dampens this effect
+   slightly (as opposed to landing on the front end or upside-down, as has
+   been known to occur, particularly from very steep falls or from
+   travelling off an edge at high speed), however, vehicles are much more
+   sensitive to damage than players, and due to their tendency to explode
+   when disabled in any way, a fall that would remove half a player's
+   health is likely to destroy their vehicle completely and take them with
+   it, also often making them inaccessible for reviving due to the
+   burnt-out wreck of the vehicle on top of their corpse. Exploding
+   vehicles have a very limited splash damage radius, however, with most
+   of the damage being directed at the occupants, and combined with the
+   fact that a player's momentum is set to 0 upon exiting from a vehicle,
+   a skilled player can survive an otherwise fatal fall by piloting a
+   vehicle off the edge in question, exiting a good distance above the
+   ground, continuing to fall unaided and softening his final landing with
+   his jump jets. The resultant avoidance of death, revival and/or
+   redeploying in this case more than makes up for the loss of mobility
+   incurred by the inevitably destroyed vehicle.
+
+   All vehicles also have their own stamina reserve, separate from the
+   player's, called a turbo boost. When the turbo gauge (that replaces an
+   occupying player's stamina bar) is full, a speed boost can be triggered
+   by pressing the "Sprint"-key (usually <Alt>). The boost has the same
+   effect as sprinting; it roughly doubles the vehicle's speed of movement
+   until the boost is depleted. It tends to last for much less time than a
+   sprint, but also recharges much faster.
+
+[[94]edit] Viewing Angles
+
+   While sitting on the driver's seat the perspective can be switched
+   between 1st and 3rd person with the <F11> key. In 3rd person view the
+   Vehicle is shown from the perspective of a camera hovering somewhat
+   over and behind the vehicle. Using the mouse the camera direction can
+   be tilt in a 180 degree angle.
+
+[[95]edit] Raptor
+
+   [96]File:Raptor-boosting.jpg
+   Raptor in Action
+
+   The Raptor ("Rap") is a small and speedy [97]buggy with room for 2
+   players (Driver, and a mannable turret on top). The downside is that it
+   has the weakest armor of all three vehicles. The Raptor's center of
+   gravity is towards the rear, allowing for some tight turns. When
+   utilizing the turbo boost, Raptor drivers are rewarded with bright
+   flames spewing from the exaggerated exhaust pipes to either side of the
+   vehicle's chassis.
+
+   Example: To do a sharp turn to the left or the right, the <Down> and
+   <Left> or <Right> keys can be pressed simultanuously.
+
+   Depending on the consistency of the ground hard turns into one
+   direction can make the Raptor [98]oversteer, resulting in a few pretty
+   [99]doughnuts.
+
+[[100]edit] Gutblowing
+
+   The Raptor has two meat grinders attached to the front. Hitting enemies
+   with them results in a "[101]gutblow", instantly killing the player and
+   making him incapable of being revived.
+
+   Note that teammates can't be gutblown. However, hitting them with the
+   Raptor can also [102]teamkill them.
+
+   Because of the uneven terrain of certain maps it may be possible to
+   avoid a gutblow by crouching.
+
+[[103]edit] Honking
+
+   To warn teammates and enemy players the Raptor has a built-in horn,
+   which can be triggered by the driver with the "Fire"-control (Default
+   is left mouse-button). Pressing the control immediately after speed
+   boosting with full turbo boost results in a "Special Honk": the first
+   12 notes of "[104]Dixie", similar to the [105]General Lee from [106]The
+   Dukes of Hazzard. Also during the "Special Honk", a faint "Yee-haw" can
+   be heard from the vehicle, assumed to be from the driving player
+   (Although, the voice is the same regardless of the class of the
+   player).
+
+[[107]edit] Harbinger
+
+   The Harbinger ("Harby") has medium armor and speed and fits three
+   people: one driver, one who operates the rocket launcher on top, and
+   one who operates the rear-mounted EMP cannon (the Ball Turret, named so
+   because of its shape). Its high center of gravity means it has a
+   tendency to topple over at high speeds.
+
+[[108]edit] Honking
+
+   The Harby has a powerful, deep horn to warn all pedestrians. It can be
+   triggered with the "fire"-control.
+
+[[109]edit] Juggernaut
+
+   The Juggernaut is XMP's [110]tank and the most heavily armoured
+   vehicle, but also the slowest. The Juggernaut has spots for two people:
+   one driver and one gunner who operates the very powerful top-mounted
+   cannon. The driver has also access to a flamethrower which can be used
+   to kill opponents at close range.
+
+[[111]edit] Weapons
+
+[[112]edit] Deployables
+
+   Deployables can be deployed by a Tech or a Gunner. The Tech can place
+   Auto Turrets, Rocket Turrets and Force Walls. The Gunner can place
+   Laser Trip Mines or Land Mines. Land mines explode when someone steps
+   on, or close to them. They can also be detonated by most weapons. Laser
+   trip mines explode when someone breaks the laser beam.
+
+   While Deployables can greatly assist in defence, overreliance on them
+   often leads to defeat. Turrets, for example, don't react fast enough to
+   harm an experienced Ranger. All Deployables drain a lot of energy, so
+   each team has to balance the amount of Deployables and energy gained by
+   the Generators held by them.
+
+[[113]edit] External links
+
+     * [114]The Unreal II XMP Community
+     * [115]Unreal II XMP on Jolt's Network
+     * [116]XMP BeyondUnreal Forums
+     * [117]Unreal II XMP - Community Bonus Pack
+     * [118]Unreal II: eXpanded MultiPlayer at [119]MobyGames
+
+   [120]v  [121]d  [122]e
+   [123]Unreal franchise
+   Main series
+   [124]Unreal  [125]Unreal II: The Awakening
+   Unreal Tournament
+   [126]Unreal Tournament  [127]Unreal Tournament 2003  [128]Unreal
+   Tournament 2004  [129]Unreal Tournament 3
+   Unreal Championship
+   [130]Unreal Championship  [131]Unreal Championship 2: The Liandri
+   Conflict
+   Misc
+   [132]Unreal Engine  [133]UnrealScript  [134]UnrealEd
+   Retrieved from "[135]http://en.wikipedia.org/wiki/EXpanded_MultiPlayer"
+   [136]Category: [137]Unreal
+   Hidden categories: [138]Cleanup from May 2008 | [139]All pages needing
+   cleanup | [140]Video games game guide cleanup | [141]Wikipedia articles
+   needing style editing from December 2007 | [142]All articles needing
+   style editing | [143]All articles with unsourced statements |
+   [144]Articles with unsourced statements since June 2007
+
+Views
+
+     * [145]Article
+     * [146]Discussion
+     * [147]Edit this page
+     * [148]History
+
+Personal tools
+
+     * [149]Log in / create account
+
+Navigation
+
+     * [150]Main page
+     * [151]Contents
+     * [152]Featured content
+     * [153]Current events
+     * [154]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [155]About Wikipedia
+     * [156]Community portal
+     * [157]Recent changes
+     * [158]Contact Wikipedia
+     * [159]Donate to Wikipedia
+     * [160]Help
+
+Toolbox
+
+     * [161]What links here
+     * [162]Related changes
+     * [163]Upload file
+     * [164]Special pages
+     * [165]Printable version
+     * [166]Permanent link
+     * [167]Cite this page
+
+Languages
+
+     * [168]Franais
+     * [169]Nederlands
+
+   [170]Powered by MediaWiki
+   [171]Wikimedia Foundation
+     * This page was last modified on 18 December 2008, at 07:53.
+     * All text is available under the terms of the [172]GNU Free
+       Documentation License. (See [173]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [174]Wikimedia
+       Foundation, Inc., a U.S. registered [175]501(c)(3)
+       [176]tax-deductible [177]nonprofit [178]charity.
+     * [179]Privacy policy
+     * [180]About Wikipedia
+     * [181]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EXpanded_MultiPlayer&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#searchInput
+   8. file://localhost/wiki/File:Video_Game_Cleanup.svg
+   9. file://localhost/wiki/Wikipedia:WikiProject_Video_games/Article_guidelines
+  10. file://localhost/wiki/Multiplayer
+  11. file://localhost/wiki/Unreal_II:_The_Awakening
+  12. file://localhost/wiki/Legend_Entertainment
+  13. file://localhost/wiki/Capture_the_flag
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Development
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Master_server
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Gameplay
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Hacking
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Energy
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Deploy_Points
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Scoring
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Winning
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Communication
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Classes
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Ranger
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Weapons
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Skills
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Tech
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Weapons_2
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Skills_2
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Gunner
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Weapons_3
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Skills_3
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Vehicles
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Viewing_Angles
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Raptor
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Gutblowing
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Honking
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Harbinger
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Honking_2
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Juggernaut
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Weapons_4
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#Deployables
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc679.tmp.html#External_links
+  44. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=1
+  45. file://localhost/wiki/Wikipedia:NOT#SOAPBOX
+  46. http://en.wikipedia.org/w/index.php?title=EXpanded_MultiPlayer&action=edit
+  47. file://localhost/wiki/Wikipedia:Neutral_point_of_view
+  48. file://localhost/wiki/Template:Db-spam
+  49. file://localhost/wiki/Wikipedia:CSD#G11
+  50. file://localhost/wiki/Unreal_II:_The_Awakening
+  51. file://localhost/wiki/Legend_Entertainment
+  52. file://localhost/wiki/Atari
+  53. file://localhost/wiki/Single_player
+  54. file://localhost/wiki/Multiplayer
+  55. file://localhost/wiki/December_9
+  56. file://localhost/wiki/2003
+  57. file://localhost/wiki/Legend_Entertainment
+  58. file://localhost/wiki/January_16
+  59. file://localhost/wiki/2004
+  60. file://localhost/wiki/Wikipedia:Citation_needed
+  61. file://localhost/wiki/Wikipedia:Citation_needed
+  62. file://localhost/wiki/Wikipedia:Citation_needed
+  63. file://localhost/wiki/Wikipedia:Citation_needed
+  64. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=2
+  65. http://forums.beyondunreal.com/showthread.php?p=1987529#post1987529
+  66. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=3
+  67. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=4
+  68. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=5
+  69. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=6
+  70. file://localhost/wiki/Spawning_(computer_gaming)
+  71. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=7
+  72. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=8
+  73. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=9
+  74. file://localhost/wiki/Voice_over_IP
+  75. file://localhost/wiki/TeamSpeak
+  76. file://localhost/wiki/Roger_Wilco
+  77. file://localhost/wiki/Ventrilo
+  78. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=10
+  79. file://localhost/wiki/Character_class
+  80. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=11
+  81. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=12
+  82. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=13
+  83. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=14
+  84. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=15
+  85. file://localhost/wiki/Electromagnetic_pulse
+  86. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=16
+  87. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=17
+  88. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=18
+  89. file://localhost/wiki/Shoulder-launched_missile_weapon
+  90. file://localhost/wiki/Laser
+  91. file://localhost/wiki/Tripwire
+  92. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=19
+  93. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=20
+  94. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=21
+  95. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=22
+  96. file://localhost/w/index.php?title=Special:Upload&wpDestFile=Raptor-boosting.jpg
+  97. file://localhost/wiki/Dune_buggy
+  98. file://localhost/wiki/Oversteer
+  99. file://localhost/wiki/Doughnut_(driving)
+ 100. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=23
+ 101. file://localhost/wiki/Gibs
+ 102. file://localhost/w/index.php?title=Teamkill&action=edit&redlink=1
+ 103. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=24
+ 104. file://localhost/wiki/Dixie_(song)
+ 105. file://localhost/wiki/General_Lee_(car)
+ 106. file://localhost/wiki/The_Dukes_of_Hazzard
+ 107. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=25
+ 108. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=26
+ 109. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=27
+ 110. file://localhost/wiki/Tank
+ 111. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=28
+ 112. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=29
+ 113. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit&section=30
+ 114. http://www.xmpcommunity.com/
+ 115. http://www.u2xmp.jolt.co.uk/
+ 116. http://forums.beyondunreal.com/forumdisplay.php?f=16
+ 117. http://xmp.beyondunreal.com/
+ 118. http://www.mobygames.com/game/unreal-ii-expanded-multiplayer
+ 119. file://localhost/wiki/MobyGames
+ 120. file://localhost/wiki/Template:Unreal_series
+ 121. file://localhost/wiki/Template_talk:Unreal_series
+ 122. http://en.wikipedia.org/w/index.php?title=Template:Unreal_series&action=edit
+ 123. file://localhost/wiki/Unreal_(series)
+ 124. file://localhost/wiki/Unreal
+ 125. file://localhost/wiki/Unreal_II:_The_Awakening
+ 126. file://localhost/wiki/Unreal_Tournament
+ 127. file://localhost/wiki/Unreal_Tournament_2003
+ 128. file://localhost/wiki/Unreal_Tournament_2004
+ 129. file://localhost/wiki/Unreal_Tournament_3
+ 130. file://localhost/wiki/Unreal_Championship
+ 131. file://localhost/wiki/Unreal_Championship_2:_The_Liandri_Conflict
+ 132. file://localhost/wiki/Unreal_Engine
+ 133. file://localhost/wiki/UnrealScript
+ 134. file://localhost/wiki/UnrealEd
+ 135. http://en.wikipedia.org/wiki/EXpanded_MultiPlayer
+ 136. file://localhost/wiki/Special:Categories
+ 137. file://localhost/wiki/Category:Unreal
+ 138. file://localhost/wiki/Category:Cleanup_from_May_2008
+ 139. file://localhost/wiki/Category:All_pages_needing_cleanup
+ 140. file://localhost/wiki/Category:Video_games_game_guide_cleanup
+ 141. file://localhost/wiki/Category:Wikipedia_articles_needing_style_editing_from_December_2007
+ 142. file://localhost/wiki/Category:All_articles_needing_style_editing
+ 143. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 144. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_June_2007
+ 145. file://localhost/wiki/EXpanded_MultiPlayer
+ 146. file://localhost/wiki/Talk:EXpanded_MultiPlayer
+ 147. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=edit
+ 148. file://localhost/w/index.php?title=EXpanded_MultiPlayer&action=history
+ 149. file://localhost/w/index.php?title=Special:UserLogin&returnto=EXpanded_MultiPlayer
+ 150. file://localhost/wiki/Main_Page
+ 151. file://localhost/wiki/Portal:Contents
+ 152. file://localhost/wiki/Portal:Featured_content
+ 153. file://localhost/wiki/Portal:Current_events
+ 154. file://localhost/wiki/Special:Random
+ 155. file://localhost/wiki/Wikipedia:About
+ 156. file://localhost/wiki/Wikipedia:Community_portal
+ 157. file://localhost/wiki/Special:RecentChanges
+ 158. file://localhost/wiki/Wikipedia:Contact_us
+ 159. http://wikimediafoundation.org/wiki/Donate
+ 160. file://localhost/wiki/Help:Contents
+ 161. file://localhost/wiki/Special:WhatLinksHere/EXpanded_MultiPlayer
+ 162. file://localhost/wiki/Special:RecentChangesLinked/EXpanded_MultiPlayer
+ 163. file://localhost/wiki/Wikipedia:Upload
+ 164. file://localhost/wiki/Special:SpecialPages
+ 165. file://localhost/w/index.php?title=EXpanded_MultiPlayer&printable=yes
+ 166. file://localhost/w/index.php?title=EXpanded_MultiPlayer&oldid=258746235
+ 167. file://localhost/w/index.php?title=Special:Cite&page=EXpanded_MultiPlayer&id=258746235
+ 168. http://fr.wikipedia.org/wiki/EXpanded_MultiPlayer
+ 169. http://nl.wikipedia.org/wiki/EXpanded_MultiPlayer
+ 170. http://www.mediawiki.org/
+ 171. http://wikimediafoundation.org/
+ 172. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 173. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 174. http://www.wikimediafoundation.org/
+ 175. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 176. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 177. http://en.wikipedia.org/wiki/Non-profit_organization
+ 178. http://en.wikipedia.org/wiki/Charitable_organization
+ 179. http://wikimediafoundation.org/wiki/Privacy_policy
+ 180. file://localhost/wiki/Wikipedia:About
+ 181. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 182. file://localhost/wiki/File:Islands_in_EXpanded_MultiPlayer.jpg
+ 183. file://localhost/wiki/File:Islands_in_EXpanded_MultiPlayer.jpg
+ 184. file://localhost/wiki/File:Ambox_content.png
+ 185. file://localhost/wiki/Main_Page

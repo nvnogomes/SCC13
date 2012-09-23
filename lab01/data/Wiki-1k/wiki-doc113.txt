@@ -1,0 +1,445 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Petz
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dogz 5)
+   Jump to: [7]navigation, [8]search
+   Some of the many breeds.
+   This article may require [9]cleanup to meet Wikipedia's [10]quality
+   standards. Please [11]improve this article if you can. (July 2008)
+   This article is in need of attention from an expert on the subject.
+   Please help recruit one or [12]improve this article yourself. See the
+   [13]talk page for details. Please consider using {{[14]Expert-subject}}
+   to associate this request with a [15]WikiProject. (July 2008)
+
+   Petz ([16]Dogz and [17]Catz) is a series of games dating back to 1995,
+   in which the player can adopt, raise, care for and breed their own
+   [18]virtual pets. Petz were the world's first [19]virtual pets, first
+   released before [20]Tamagotchi. They were among the first 3D
+   characters, rendered in a non-photorealistic cartoon style. Petz has
+   sold over 3 million copies worldwide, and appeals to both children and
+   adults.
+
+   The player starts at the Adoption Center, where they may choose a dog
+   or cat to adopt of a breed and gender of their choosing. Once they have
+   found a pet they like the user can adopt and name the new puppy or
+   kitten. After around three days (real time) the petz become adults.
+   Adult petz can then breed and have kittens or puppies of their own in
+   Petz 3, Petz 4, and Petz 5 (this was not available in the first two
+   lines). Cross-breeding can create different types of petz, called
+   'Mixed Breeds'.
+
+   There are a number of toyz, food/water bowls and treats available. Petz
+   can learn tricks with positive rewards such as tickling and treats, or
+   trained not to do something using the punishment (water) spray bottle.
+   Petz must be looked after properly; abused or neglected petz may run
+   away.
+
+   Players may share their petz with others who have the game. Each
+   version allows the importing of petz from all earlier versions. There
+   is also a camera feature, permitting snapshots of petz to be taken and
+   saved as .bmp files.
+
+   One can choose to adopt dogz, catz or both depending on the version
+   installed, and play with a small selection of other animals including
+   pigz and bunniez. Later versions of the games included a Petz Web Fun
+   Pack, Petz Publisher and a Petz Player web browser plug-in, allowing
+   players to publish their petz online in playable webpages.
+
+   Users soon learned how to reverse-engineer the system, and began
+   producing additional breedz, toys, playscenes, clothes, and developer
+   tools for the games, as permitted by [21]PF Magic, [22]Mindscape, and
+   [23]Ubisoft Entertainment.
+
+Contents
+
+     * [24]1 Creature Design
+     * [25]2 Breedz
+          + [26]2.1 Hexies
+     * [27]3 Breeding and Petz Genetics
+          + [28]3.1 Petz Life Cycle
+     * [29]4 2006 Petz
+     * [30]5 External links
+          + [31]5.1 Academic papers
+
+[[32]edit] Creature Design
+
+   Body: (Ball style design) The petz are modelled as a set of balls
+   joined by lines with variable parameters. The concept for this was
+   developed in an early [33]PF Magic title, the fighting game [34]Ballz
+   for Sega Genesis.This model was scrapped in the 2006 games "Dogz" and
+   "Catz" for the PC for a more "realistic" look.
+
+   Colours: There are 10 default colours that occur naturally in the game.
+   These are white, black, 2 shades of grey (known as blue and silver),
+   cream, brown, red/ruddy/sorrel/russet, orange, tan and dusty. In
+   addition to these coat colours is the pink found on some Poodle
+   variations. Eye colours are not limited to these 10, although shades of
+   brown, green and blue are most common, particularly in low generation
+   petz.
+
+   Textures: Textures cover the balls, imitating fur.
+
+   Paintballz: Some Breedz have splotches of colour on their bodies called
+   Paintballz. The spots on the Alley Cat and Dalmatian are examples of
+   this.
+
+[[35]edit] Breedz
+
+   Each Petz breed has its own body shape, personality and colour
+   variations.
+
+   Petz 2 began with 5 Breedz per game, and new ones were introduced
+   through downloads the PF Magic website. In addition to what became 10
+   Breedz, avid Petz fans began using a hex editor to modify the 10 Breedz
+   to form new ones. This hexing continued through Petz 3 as well.
+
+   Petz 3 and 4 contain 10 Breedz per game, referred to as the Original PF
+   Magic Breedz. For Catz these are the [36]Alley Cat, [37]Black & White
+   Shorthair (B&W), [38]Calico, [39]Chinchilla Persian, [40]Maine Coon,
+   [41]Orange Shorthair (Oshie), [42]Persian, [43]Russian Blue,
+   [44]Siamese (Meezer) and [45]Tabby. For Dogz these are [46]Bulldog,
+   [47]Chihuahua, [48]Dachshund, [49]Dalmatian, [50]Great Dane,
+   [51]Labrador Retriever, [52]Mutt, [53]Poodle, [54]Scottish Terrier
+   (Scottie) and [55]Sheepdog.
+
+   Petz 5 saw the addition of 5 new Breedz per game, referred to as the
+   UbiSoft Breedz. For Catz these are the [56]Desert Lynx, [57]Egyptian
+   Mau, [58]Honey Bear, [59]Japanese Bobtail and [60]Scottish Fold. For
+   Dogz these are the [61]German Shepherd, [62]Golden Retriever, [63]Jack
+   Russell Terrier, [64]Papillon and [65]Pug.
+
+[[66]edit] Hexies
+
+   Hexed breedz and petz -- called "hexies" -- are petz that have been
+   modified to appear or act a certain way -- colour, size, behaviour,
+   sound, shape, fuzziness, texture, paintballz and much more can be
+   changed in this way. This can be particularly useful when creating new
+   breedz and unique petz. The term comes from "hexadecimal code", which
+   is the coding that is modified to create a hexie.
+
+[[67]edit] Breeding and Petz Genetics
+
+   Petz in the game can become attracted to one another and breed to
+   produce offspring, much like in real life. This feature was introduced
+   in [68]Petz 3 and has also appeared in [69]Petz 4 and Petz 5. In Petz 3
+   and Petz 4, a petz couple could only produce one kitten/puppy per
+   breeding, but in [70]Petz 5 a mother can bear up to 4 offspring and
+   have litters.
+
+   The user can encourage petz to fall in love by squirting them with love
+   potions and perfumes and giving them food with [71]aphrodisiac-like
+   qualities, as well as using other means. When petz have mated, a heart
+   will appear on the screen informing the user of the female's pregnancy
+   (which generally lasts 3 - 5 days).
+
+   Petz' genes carry through to their offspring but can mutate (very
+   easily in Petz 5, less so in previous versions), resulting in different
+   fur and eye colours to that of the parents. Crossing small and big petz
+   can also result in odd-looking offspring, and it is possible to
+   selectively breed overly large or small Petz. If you breed two first
+   generation Petz of the same breed their offspring will sometimes look
+   identical, but then when they become kittens or puppies they will be
+   slightly different looking.
+
+   There are 10 coat colours a pet's body colour can be. These are the
+   default colours listed in the Creature Design section. The eye colours
+   are not restricted to these colours.
+
+   When two different breeds of Petz are bred together, the offspring will
+   have the base personality of one parent (or ancestor). The base
+   personality can be determined by the pet's voice, their personality and
+   behaviour (eg. if the pet trembles when it walks, it has an Orange
+   Shorthair personality) and how they pose if they are a cat (different
+   breeds pose with different expressions, and some pose more readily than
+   others).
+   Mixed breedz often clearly show traits of their base breeds, but also
+   have mutations (eg. the ruddy fur and black eyes/eyelids in this case).
+
+   Dogz and Catz cannot breed together as they rely on different base
+   files that determine their movement and behaviour.
+
+   Players have reported that in very rare cases, it is possible for two
+   females to breed due to an unintentional coding glitch.
+
+[[72]edit] Petz Life Cycle
+
+   The difference between a high-gen calico (left) and one from the
+   adoption center (right) can be easily seen, despite being the same
+   breed
+
+   When petz have babies, the player is asked to name the offspring.
+   During the first few days of a pet's life, it is blind, small and
+   cannot walk as it would be in real life. They cry when they are touched
+   or picked up (which can irritate the mother). The mother feeds her
+   infant and the user can do so with the milk bottle.
+
+   In Petz 5, the mother is confined to "The Nursery" at all times and the
+   father is unable to visit his mate or offspring.
+
+   The [73]newborn will later become an [74]infant, or toddler. Its eyes
+   have opened and it is able to walk around, jump onto ledges and has
+   stopped suckling. They can eat from food bowls and drink from the milk
+   bottle, but cannot swallow treatz.
+
+   Eventually, the offspring will separate from their mothers as they grow
+   to kittenz and puppiez.
+
+   As a result, many generations and colors may occur in the game, even in
+   purebreds. The differences can be enormous. A maximum of 8 generations
+   can be recorded in the pet's file and family tree, although Petz can
+   obviously be bred to much higher generations.
+
+[[75]edit] 2006 Petz
+
+   The 2006 and onwards Petz games bear little resemblance to the original
+   Petz games, and can (and should) be considered different series
+   entirely. Instead of mathematically generated ball-and-line modelled
+   Catz and Dogz that could grow, breed and interact with each other (as
+   opposed to a separate game for each species), the 2006 Petz feature 3D
+   graphics that can be retextured, but not remodelled by players due to
+   the expensive software used to create them (the resulting model files
+   being saved in a format incompatible with other 3D programs).
+
+   Six other games were released along with Catz and Dogz. These were
+   Bunnyz, Horsez, Tigerz, Dolphinz, Monkeyz and Hamsterz. The new Petz
+   games were produced for a range of consoles, including Playstation 2,
+   Nintendo Wii, Nintendo DS, Gameboy Advance and PC. On the DS and GBA,
+   the player can care for up to three catz or dogz, which are unable to
+   breed, whilst on the Wii and PS2, the player controls a cat/dog on an
+   adventure quest to save the planet from Ivlet, an evil wolf. In this
+   version the player may customize his/her cat or dog to their style,
+   respectively. In the PC version, the player cares for a single pet.
+
+[[76]edit] External links
+
+     * [77]Ubisoft's Official Petz Website
+     * [78]PetzA Petz add-on
+     * [79]The Petz Archive
+
+[[80]edit] Academic papers
+
+     * [81]Socially Intelligent Virtual Petz
+     * [82]Creating Emotional Relationships with Virtual Characters
+     * [83]Virtual Babyz: Believable Agents with Narrative Intelligence
+
+   Retrieved from "[84]http://en.wikipedia.org/wiki/Petz"
+   [85]Categories: [86]Mac OS games | [87]N-Gage service games | [88]PF
+   Magic games | [89]Ubisoft Entertainment games | [90]Virtual pets |
+   [91]Windows games
+   Hidden categories: [92]Cleanup from July 2008 | [93]All pages needing
+   cleanup | [94]Articles needing expert attention since July 2008 |
+   [95]Uncategorized articles needing expert attention
+
+Views
+
+     * [96]Article
+     * [97]Discussion
+     * [98]Edit this page
+     * [99]History
+
+Personal tools
+
+     * [100]Log in / create account
+
+Navigation
+
+     * [101]Main page
+     * [102]Contents
+     * [103]Featured content
+     * [104]Current events
+     * [105]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [106]About Wikipedia
+     * [107]Community portal
+     * [108]Recent changes
+     * [109]Contact Wikipedia
+     * [110]Donate to Wikipedia
+     * [111]Help
+
+Toolbox
+
+     * [112]What links here
+     * [113]Related changes
+     * [114]Upload file
+     * [115]Special pages
+     * [116]Printable version
+     * [117]Permanent link
+     * [118]Cite this page
+
+Languages
+
+     * [119]Espaol
+     * [120]Italiano
+     * [121]Portugus
+     *
+
+   [122]Powered by MediaWiki
+   [123]Wikimedia Foundation
+     * This page was last modified on 22 February 2009, at 19:06.
+     * All text is available under the terms of the [124]GNU Free
+       Documentation License. (See [125]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [126]Wikimedia
+       Foundation, Inc., a U.S. registered [127]501(c)(3)
+       [128]tax-deductible [129]nonprofit [130]charity.
+     * [131]Privacy policy
+     * [132]About Wikipedia
+     * [133]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Petz&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dogz_5&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Cleanup
+  10. file://localhost/wiki/Wikipedia:Manual_of_Style
+  11. http://en.wikipedia.org/w/index.php?title=Petz&action=edit
+  12. http://en.wikipedia.org/w/index.php?title=Petz&action=edit
+  13. file://localhost/wiki/Talk:Petz
+  14. file://localhost/wiki/Template:Expert-subject
+  15. file://localhost/wiki/Wikipedia:WikiProject
+  16. file://localhost/wiki/Dogz
+  17. file://localhost/wiki/Catz
+  18. file://localhost/wiki/Virtual_pet
+  19. file://localhost/wiki/Virtual_pet
+  20. file://localhost/wiki/Tamagotchi
+  21. file://localhost/wiki/PF_Magic
+  22. file://localhost/wiki/Mindscape
+  23. file://localhost/wiki/Ubisoft_Entertainment
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Creature_Design
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Breedz
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Hexies
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Breeding_and_Petz_Genetics
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Petz_Life_Cycle
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#2006_Petz
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#External_links
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc113.tmp.html#Academic_papers
+  32. file://localhost/w/index.php?title=Petz&action=edit&section=1
+  33. file://localhost/wiki/PF_Magic
+  34. file://localhost/wiki/Ballz
+  35. file://localhost/w/index.php?title=Petz&action=edit&section=2
+  36. file://localhost/wiki/Alley_Cat
+  37. file://localhost/w/index.php?title=Black_%26_White_Shorthair&action=edit&redlink=1
+  38. file://localhost/wiki/Calico
+  39. file://localhost/w/index.php?title=Chinchilla_Persian&action=edit&redlink=1
+  40. file://localhost/wiki/Maine_Coon
+  41. file://localhost/w/index.php?title=Orange_Shorthair&action=edit&redlink=1
+  42. file://localhost/wiki/Persian_(cat)
+  43. file://localhost/wiki/Russian_Blue
+  44. file://localhost/wiki/Siamese
+  45. file://localhost/wiki/Tabby
+  46. file://localhost/wiki/Bulldog
+  47. file://localhost/wiki/Chihuahua_(dog)
+  48. file://localhost/wiki/Dachshund
+  49. file://localhost/wiki/Dalmatian
+  50. file://localhost/wiki/Great_Dane
+  51. file://localhost/wiki/Labrador_Retriever
+  52. file://localhost/wiki/Mixed-breed_dog
+  53. file://localhost/wiki/Poodle
+  54. file://localhost/wiki/Scottish_Terrier
+  55. file://localhost/wiki/Sheepdog
+  56. file://localhost/w/index.php?title=Desert_Lynx&action=edit&redlink=1
+  57. file://localhost/wiki/Egyptian_Mau
+  58. file://localhost/wiki/Honey_Bear
+  59. file://localhost/wiki/Japanese_Bobtail
+  60. file://localhost/wiki/Scottish_Fold
+  61. file://localhost/wiki/German_Shepherd
+  62. file://localhost/wiki/Golden_Retriever
+  63. file://localhost/wiki/Jack_Russell_Terrier
+  64. file://localhost/wiki/Papillon
+  65. file://localhost/wiki/Pug
+  66. file://localhost/w/index.php?title=Petz&action=edit&section=3
+  67. file://localhost/w/index.php?title=Petz&action=edit&section=4
+  68. file://localhost/w/index.php?title=Petz_3&action=edit&redlink=1
+  69. file://localhost/w/index.php?title=Petz_4&action=edit&redlink=1
+  70. file://localhost/wiki/Petz_5
+  71. file://localhost/wiki/Aphrodisiac
+  72. file://localhost/w/index.php?title=Petz&action=edit&section=5
+  73. file://localhost/wiki/Newborn
+  74. file://localhost/wiki/Infant
+  75. file://localhost/w/index.php?title=Petz&action=edit&section=6
+  76. file://localhost/w/index.php?title=Petz&action=edit&section=7
+  77. http://www.petz.com/
+  78. http://www.sherlocksoftware.org/page.php?id=6
+  79. http://www.petz.ws/archive/
+  80. file://localhost/w/index.php?title=Petz&action=edit&section=8
+  81. http://web.media.mit.edu/~benres/verbiage/Socially%20Intelligent%20Virtual%20Petz.htm
+  82. http://www.interactivestory.net/papers/stern_emotionartifacts1999.html
+  83. http://www.interactivestory.net/papers/PetzAndBabyz.html
+  84. http://en.wikipedia.org/wiki/Petz
+  85. file://localhost/wiki/Special:Categories
+  86. file://localhost/wiki/Category:Mac_OS_games
+  87. file://localhost/wiki/Category:N-Gage_service_games
+  88. file://localhost/wiki/Category:PF_Magic_games
+  89. file://localhost/wiki/Category:Ubisoft_Entertainment_games
+  90. file://localhost/wiki/Category:Virtual_pets
+  91. file://localhost/wiki/Category:Windows_games
+  92. file://localhost/wiki/Category:Cleanup_from_July_2008
+  93. file://localhost/wiki/Category:All_pages_needing_cleanup
+  94. file://localhost/wiki/Category:Articles_needing_expert_attention_since_July_2008
+  95. file://localhost/wiki/Category:Uncategorized_articles_needing_expert_attention
+  96. file://localhost/wiki/Petz
+  97. file://localhost/wiki/Talk:Petz
+  98. file://localhost/w/index.php?title=Petz&action=edit
+  99. file://localhost/w/index.php?title=Petz&action=history
+ 100. file://localhost/w/index.php?title=Special:UserLogin&returnto=Petz
+ 101. file://localhost/wiki/Main_Page
+ 102. file://localhost/wiki/Portal:Contents
+ 103. file://localhost/wiki/Portal:Featured_content
+ 104. file://localhost/wiki/Portal:Current_events
+ 105. file://localhost/wiki/Special:Random
+ 106. file://localhost/wiki/Wikipedia:About
+ 107. file://localhost/wiki/Wikipedia:Community_portal
+ 108. file://localhost/wiki/Special:RecentChanges
+ 109. file://localhost/wiki/Wikipedia:Contact_us
+ 110. http://wikimediafoundation.org/wiki/Donate
+ 111. file://localhost/wiki/Help:Contents
+ 112. file://localhost/wiki/Special:WhatLinksHere/Petz
+ 113. file://localhost/wiki/Special:RecentChangesLinked/Petz
+ 114. file://localhost/wiki/Wikipedia:Upload
+ 115. file://localhost/wiki/Special:SpecialPages
+ 116. file://localhost/w/index.php?title=Petz&printable=yes
+ 117. file://localhost/w/index.php?title=Petz&oldid=272549382
+ 118. file://localhost/w/index.php?title=Special:Cite&page=Petz&id=272549382
+ 119. http://es.wikipedia.org/wiki/Petz
+ 120. http://it.wikipedia.org/wiki/Petz
+ 121. http://pt.wikipedia.org/wiki/Petz
+ 122. http://www.mediawiki.org/
+ 123. http://wikimediafoundation.org/
+ 124. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 125. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 126. http://www.wikimediafoundation.org/
+ 127. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 128. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 129. http://en.wikipedia.org/wiki/Non-profit_organization
+ 130. http://en.wikipedia.org/wiki/Charitable_organization
+ 131. http://wikimediafoundation.org/wiki/Privacy_policy
+ 132. file://localhost/wiki/Wikipedia:About
+ 133. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 134. file://localhost/wiki/File:Petz.jpg
+ 135. file://localhost/wiki/File:Petz.jpg
+ 136. file://localhost/wiki/File:Ambox_style.png
+ 137. file://localhost/wiki/File:Ambox_content.png
+ 138. file://localhost/wiki/File:Mixed_Breed.PNG
+ 139. file://localhost/wiki/File:Mixed_Breed.PNG
+ 140. file://localhost/wiki/File:Breed_Differences.png
+ 141. file://localhost/wiki/File:Breed_Differences.png
+ 142. file://localhost/wiki/Main_Page
+ 143. http://ru.wikipedia.org/wiki/Petz

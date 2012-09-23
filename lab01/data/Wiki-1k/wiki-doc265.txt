@@ -1,0 +1,773 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Electric double-layer capacitor
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double-layer capacitor)
+   Jump to: [7]navigation, [8]search
+   MC and BC series supercapacitors (up to 3000 [9]farad capacitance)
+   produced by [10]Maxwell Technologies
+
+   Electric double-layer capacitors, also known as supercapacitors,
+   [11]electrochemical double layer capacitors (EDLCs) or ultracapacitors
+   are electrochemical [12]capacitors that have an unusually high
+   [13]energy density when compared to common capacitors, typically on the
+   order of thousands of times greater than a high-capacity
+   [14]electrolytic capacitor. For instance, a typical [15]D-cell sized
+   electrolytic capacitor will have a capacitance in the range of tens of
+   millifarads. The same size electric double-layer capacitor would have a
+   capacitance of several [16]farads, an improvement of about two or three
+   [17]orders of magnitude in capacitance, but usually at a lower working
+   voltage. Larger, commercial electric double-layer capacitors have
+   capacities as high as 5,000 farads.^[18][1] The highest energy density
+   in production is 30 Wh/kg.^[19][2]
+
+   Supercapacitors aim to fill the gap between capacitors and batteries
+   ^[20][3].
+
+   Electric double-layer capacitors have a variety of commercial
+   applications, notably in "energy smoothing" and momentary-load devices.
+   Some of the earliest uses were motor startup capacitors for large
+   engines in [21]tanks and [22]submarines, and as the cost has fallen
+   they have started to appear on diesel trucks and railroad
+   locomotives.^[23][4] More recently they have become a topic of some
+   interest in the [24]green energy world, where their ability to soak up
+   energy quickly makes them particularly suitable for [25]regenerative
+   braking applications, whereas batteries have difficulty in this
+   application due to slow charging rates. New technology in development
+   at [26]LEES could potentially make EDLCs with high enough energy
+   density to be an attractive replacement for batteries in
+   [27]all-electric cars and [28]plug-in hybrids, as EDLCs are quick
+   charging and exhibit temperature stability^[[29]citation needed]. They
+   can also be used in [30]PCMCIA+ cards, [31]flash light devices in
+   digital cameras, [32]portable media players and automated meter reading
+   ^[33][5].
+
+   Another type of high-energy-density capacitor, not an EDLC, has been
+   proposed by the company [34]EEStor.
+
+Contents
+
+     * [35]1 Concept
+     * [36]2 History
+     * [37]3 Technology advantages
+     * [38]4 Transportation applications
+     * [39]5 Technology
+     * [40]6 See also
+     * [41]7 References
+     * [42]8 External links
+
+[[43]edit] Concept
+
+   Comparison of construction diagrams of three capacitors. Left: "normal"
+   [44]capacitor, middle: [45]electrolytic, right: electric double-layer
+   capacitor
+
+   In a conventional capacitor, energy is stored by the removal of charge
+   carriers, typically [46]electrons, from one metal plate and depositing
+   them on another. This charge separation creates a potential between the
+   two plates, which can be harnessed in an external circuit. The total
+   energy stored in this fashion is proportional to both the number of
+   charges stored and the potential between the plates. The former is
+   essentially a function of size and the material properties of the
+   plates, while the latter is limited by the [47]dielectric breakdown
+   between the plates. Different materials sandwiched between the plates
+   to separate them result in different voltages to be stored. Optimizing
+   the material leads to higher energy densities for any given size of
+   capacitor.
+
+   In contrast with traditional capacitors, electric double-layer
+   capacitors do not have a conventional dielectric. Rather than two
+   separate plates separated by an intervening substance, these capacitors
+   use "plates" that are in fact two layers of the same substrate, and
+   their electrical properties, the so-called "electrical double layer",
+   result in the effective separation of charge despite the vanishingly
+   thin (on the order of nanometers) physical separation of the layers.
+   The lack of need for a bulky layer of dielectric permits the packing of
+   "plates" with much larger surface area into a given size, resulting in
+   their extraordinarily high capacitances in practical sized packages.
+
+   In an electrical double layer, each layer by itself is quite
+   conductive, but the physics at the interface where the layers are
+   effectively in contact means that no significant current can flow
+   between the layers. However, the double layer can withstand only a low
+   voltage, which means that electric double-layer capacitors rated for
+   higher voltages must be made of matched series-connected individual
+   electric double-layer capacitors, much like series-connected cells in
+   higher-voltage batteries.
+
+   In general, electric double-layer capacitors improve storage density
+   through the use of a nanoporous material, typically [48]activated
+   charcoal, in place of the conventional insulating barrier. Activated
+   charcoal is a powder made up of extremely small and very "rough"
+   particles, which in bulk form a low-density volume of particles with
+   holes between them that resembles a [49]sponge. The overall surface
+   area of even a thin layer of such a material is many times greater than
+   a traditional material like aluminum, allowing many more charge
+   carriers (ions or radicals from the electrolyte) to be stored in any
+   given volume. The downside is that the charcoal is taking the place of
+   the improved insulators used in conventional devices, so in general
+   electric double-layer capacitors use low potentials on the order of 2
+   to 3 V.
+
+   Activated charcoal is not the "perfect" material for this application.
+   The charge carriers are actually (in effect) quite large - especially
+   when surrounded by solvent molecules - and are often larger than the
+   holes left in the charcoal, which are too small to accept them,
+   limiting the storage. Recent research in electric double-layer
+   capacitors has generally focused on improved materials that offer even
+   higher usable surface areas. Experimental devices developed at MIT
+   replace the charcoal with [50]carbon nanotubes, which have similar
+   charge storage capability as charcoal (which is almost pure carbon) but
+   are mechanically arranged in a much more regular pattern that exposes a
+   much greater suitable surface area.^[51][6] Other teams are
+   experimenting with custom materials made of activated [52]polypyrrole,
+   and even nanotube-impregnated papers.
+   [53]Ragone chart showing [54]energy density vs. [55]power density for
+   various energy-storage devices
+
+   In terms of energy density, existing commercial electric double-layer
+   capacitors range around 0.5 to 30 Wh/kg, with the standardized cells
+   available from [56]Maxwell Technologies rated at 6 Wh/kg and ACT in
+   production of 30 Wh/kg. ^[57][7]^[58][8] Experimental electric
+   double-layer capacitors from the MIT LEES project have demonstrated
+   densities of 30 Wh/kg and appear to be scalable to 60 Wh/kg in the
+   short term,^[59][9] while [60]EEStor claims their examples will offer
+   capacities about 400 Wh/kg. For comparison, a conventional
+   [61]lead-acid battery is typically 30 to 40 Wh/kg and modern
+   [62]lithium-ion batteries are about 160 Wh/kg. In automobile
+   applications gasoline has a [63]net calorific value (NCV) of around
+   12,000 Wh/kg, which operates at 20% tank-to-wheel efficiency giving an
+   effective energy density of 2,400 Wh/kg.
+
+   Additionally, electric double-layer capacitors offer much higher
+   [64]power density than batteries. Power density combines the energy
+   density with the speed that the energy can be drawn out of the device.
+   Batteries, which are based on the movement of charge carriers in a
+   liquid electrolyte, have relatively slow charge and discharge times.
+   Capacitors, on the other hand, can be charged or discharged at a rate
+   that is typically limited by current heating of the electrodes. So
+   while existing electric double-layer capacitors have energy densities
+   that are perhaps 1/10th that of a conventional battery, their power
+   density is generally ten to one-hundred times as great (see diagram,
+   right).
+
+[[65]edit] History
+
+   The electric double-layer capacitor effect was first noticed in 1957 by
+   [66]General Electric engineers experimenting with devices using porous
+   carbon electrode.^[67][10] It was believed that the energy was stored
+   in the carbon pores and it exhibited "exceptionally high
+   [68]capacitance", although the mechanism was unknown at that time.
+
+   General Electric did not immediately follow up on this work, and the
+   modern version of the devices were eventually developed by researchers
+   at [69]Standard Oil of Ohio in 1966, after they accidentally
+   re-discovered the effect while working on experimental [70]fuel cell
+   designs.^[71][11] Their cell design used two layers of [72]activated
+   charcoal separated by a thin porous insulator, and this basic
+   mechanical design remains the basis of most electric double-layer
+   capacitors to this day.
+
+   Standard Oil also failed to commercialize their invention, licensing
+   the technology to [73]NEC, who finally marketed the results as
+   supercapacitors in 1978, to provide backup power for maintaining
+   computer memory.^[74][11] The market expanded slowly for a time, but
+   starting around the mid-1990s various advances in [75]materials science
+   and simple development of the existing systems led to rapidly improving
+   performance and an equally rapid reduction in cost.
+
+   In 2005, the ultracapacitor market was between US $272 million and $400
+   million, depending on the source. It is rapidly growing, especially in
+   the [76]automotive sector.^[77][11]
+
+   Recently ^[78][12], all solid state micrometer-scale electric
+   double-layer capacitors based on [79]advanced superionic conductors had
+   been recognized as critical electron component of future sub-voltage
+   and [80]deep-sub-voltage nanoelectronics and related technologies (22
+   nm technological node of CMOS and beyond).
+
+[[81]edit] Technology advantages
+
+   Due to the capacitor's high number of charge-discharge cycles (millions
+   or more compared to 2001000 for most commercially available
+   rechargeable batteries) there are no disposable parts during the whole
+   operating life of the device, which makes the device environmentally
+   friendly. Batteries wear out on the order of a few years, and their
+   highly reactive chemical electrolytes present a serious disposal and
+   safety hazard. This can be improved by only charging under favorable
+   conditions, at an ideal rate, and, for some chemistries, as
+   infrequently as possible. Electric double-layer capacitors can help in
+   this regard, acting as a charge conditioner, storing energy from other
+   sources for load balancing purposes and then using any excess energy to
+   charge the batteries only at opportune times.
+
+   Other advantages of electric double-layer capacitors compared with
+   rechargeable batteries are extremely low internal resistance or
+   [82]ESR, high efficiency (up to 97-98%), high output power, extremely
+   low heating levels, and improved safety. According to ITS (Institute of
+   Transportation Studies, Davis, CA) test results, the [83]specific power
+   of electric double-layer capacitors can exceed 6 [84]kW/[85]kg at 95%
+   efficiency ^[86][13]
+
+   The idea of replacing batteries with capacitors in conjunction with
+   novel alternative energy sources became a conceptual umbrella of the
+   Green Electricity (GEL) Initiative [87][2], [88][3], introduced by Dr.
+   Alexander Bell. One particular successful implementation of the GEL
+   Initiative concept was a muscle-driven autonomous solution which
+   employs a multi-farad electric double-layer capacitor (hecto- and
+   kilofarad range capacitors are now available) as an intermediate energy
+   storage to power a variety of portable electrical and electronic
+   devices such as MP3 players, AM/FM radios, flashlights, cell phones,
+   and emergency kits.^[89][14] As the energy density of electric
+   double-layer capacitors is bridging the gap with batteries, it is hoped
+   that in the near future the automotive industry will start to deploy
+   ultracapacitors as a replacement for chemical batteries.
+
+[[90]edit] Transportation applications
+
+   China is experimenting with a new form of [91]electric bus (capabus)
+   that runs without powerlines using power stored in large onboard
+   electric double-layer capacitors, which are quickly recharged whenever
+   the electric bus stops at any bus stop (under so-called electric
+   umbrellas), and fully charged in the [92]terminus. A few prototypes
+   were being tested in Shanghai in early 2005. In 2006, two commercial
+   bus routes began to use electric double-layer capacitor buses; one of
+   them is route 11 in [93]Shanghai. ^[94][15]
+
+   In 2001 and 2002, VAG, the public transport operator in [95]Nuremberg,
+   Germany tested a hybrid bus which uses a [96]diesel-electric drive
+   system with electric double-layer capacitors.^[97][16]
+
+   Since 2003 Mannheim Stadtbahn in Mannheim, Germany has operated an LRV
+   (light-rail vehicle) which uses electric double-layer capacitors to
+   store braking energy.^[98][17]^[99][18]
+
+   Other companies from the public transport manufacturing sector are
+   developing electric double-layer capacitor technology: The
+   Transportation Systems division of [100]Siemens AG is developing a
+   mobile energy storage based on double-layer capacitors called Sibac
+   Energy Storage ^[101][19] and also Sitras SES, a stationary version
+   integrated into the trackside power supply ^[102][20]. The company
+   Cegelec is also developing a electric double-layer capacitor-based
+   energy storage system^[[103]citation needed].
+
+   Proton Power Systems has created the world's first triple hybrid
+   Forklift Truck, which uses [104]fuel cells and [105]battery as primary
+   energy storage and electric double-layer capacitors to supplement this
+   energy storage solution.^[106][21]
+
+[[107]edit] Technology
+
+   [108]Carbon nanotubes and certain [109]conductive polymers, or carbon
+   [110]aerogels, are practical for supercapacitors:
+     * Carbon nanotubes have excellent nanoporosity properties, allowing
+       tiny spaces for the polymer to sit in the tube and act as a
+       dielectric. MIT's Laboratory of Electromagnetic and Electronic
+       Systems (LEES) is researching using carbon
+       [111]nanotubes^[112][22].
+
+     * Some polymers (eg. [113]polyacenes) have a [114]redox
+       (reduction-oxidation) storage mechanism along with a high surface
+       area.
+
+     * Supercapacitors are also being made of carbon [115]aerogel. This is
+       a unique material providing extremely high surface area of about
+       400-1000 m/g. The electrodes of aerogel supercapacitors are usually
+       made of non-[116]woven paper made from [117]carbon fibers and
+       [118]coated with organic aerogel, which then undergoes
+       [119]pyrolysis. The paper is a [120]composite material where the
+       carbon fibers provide structural integrity and the aerogel provides
+       the required large surface. Small aerogel supercapacitors are being
+       used as backup electricity storage in microelectronics, but
+       applications for [121]electric vehicles are expected. The voltage
+       of an aerogel capacitor is limited to a few volts. Higher voltages
+       will lead to ionization of the carbon, which will damage the
+       capacitor. Carbon aerogel capacitors have achieved 325 J/g (90
+       Wh/Kg) energy density and 20 W/g power density.^[122][23]
+
+     * The company [123]Reticle claims to be able to make supercapacitors
+       from [124]activated carbon in solid form. This substance they call
+       consolidated amorphous carbon (CAC). It can have a surface area
+       exceeding 2800 m^2/g and according to [125]US patent 6787235 may be
+       cheaper to produce than aerogel carbon.
+
+     * Systematic pore size control showed by Y-Carbon^[126][24] can be
+       used to increase the energy density by more than 100% than what is
+       commercially available^[[127]citation needed].
+
+     * The company [128]Tartu Technologies developed supercapacitors from
+       mineral based carbon. These nonactivated carbon are synthesised
+       from the metal- or metalloid carbides, e.g. SiC, TiC, Al4C3, etc.
+       as claimed in [129]US patent 6602742 and [130]WO patent 2005118471
+       . The synthesised nanostructured porous carbon, often called
+       Carbide Derived Carbon (CDC), have surface area about 400 m/g to
+       2000 m/g with specific capacitance up to 100 F/mL (in organic
+       electrolyte). They claim a supercapacitor with a volume of 135 mL
+       and 200 g weight having 1.6 kF capacitance. The energy density is
+       more than 47 kJ/L at 2.85 V and power density of over 20
+       W/g.^[131][25]
+
+   In August 2007, a research team at [132]RPI developed a paper
+   [133]battery with aligned carbon nanotubes, designed to function as
+   both a lithium-ion battery and a supercapacitor (called bacitor), using
+   an [134]ionic liquid, essentially a liquid [135]salt, as the
+   [136]electrolyte. The sheets can be rolled, twisted, folded, or cut
+   into numerous shapes with no loss of integrity or efficiency, or
+   stacked, like printer paper (or a [137]Voltaic pile), to boost total
+   output. Further, they can be made in a variety of sizes, from
+   [138]postage stamp to [139]broadsheet. Their light weight and low cost
+   make them attractive for portable electronics, [140]aircraft,
+   [141]automobiles, and toys (such as [142]model aircraft), while their
+   ability to use electrolytes in blood make them potentially useful for
+   medical devices such as [143]pacemakers. In addition, they are
+   [144]biodegradable.^[145][26]
+
+[[146]edit] See also
+
+     * [147]Electric vehicle battery
+     * [148]Capacitor
+     * [149]Capacitor (component)
+     * [150]Nanoflower
+     * [151]Rechargeable electricity storage system
+     * [152]Flywheel energy storage
+     * [153]List of emerging technologies
+     * [154]Self Powered Equipment
+
+[[155]edit] References
+
+    1. [156]^ [157]5000F, Nesscap Products
+    2. [158]^ [159]http://www.act.jp/eng/index.htm
+    3. [160]^
+       [161]http://fplreflib.findlay.co.uk/articles/6610/if-the-cap-fits.p
+       df
+    4. [162]^ [163]Supercapacitors, US DoE overview
+    5. [164]^
+       [165]http://fplreflib.findlay.co.uk/articles/6610/if-the-cap-fits.p
+       df
+    6. [166]^ [167]Researchers fired up over new battery, Deborah Halber,
+       MIT News Office, February 8, 2006
+    7. [168]^ [169]http://www.act.jp/eng/index.htm
+    8. [170]^
+       [171]http://www.dailymotion.com/video/x65xr6_ultracapacitor-google-
+       nbspvideo_tech
+    9. [172]^ Carbon Nanotube Enhanced Ultracapacitors, MIT LEES
+       ultracapacitor project
+   10. [173]^ [174]US patent 2800616, "Low voltage electrolytic
+       capacitor", granted 1957-07-23
+   11. ^ [175]^a [176]^b [177]^c [178]The Charge of the Ultra -
+       Capacitors. IEEE Spectrum, November 2007
+   12. [179]^ [180]0,5
+   13. [181]^ [182]Prototype Test Results highly appreciated by
+       Ultracapacitor Experts. APowerCap press release, 2006.
+   14. [183]^ [184]Muscle power drives battery-free electronics (Alexander
+       Bell, EDN, 11/21/2005)
+   15. [185]^ [186][1] (in Chinese, archived page)
+   16. [187]^ [188]VAG Verkehrs-AG Nrnberg
+   17. [189]^ [190]UltraCaps win out in energy storage. Richard Hope,
+       [191]Railway Gazette International July 2006
+   18. [192]^ M. Steiner. [193]MITRAC Energy Saver. Bombardier
+       presentation (2006).
+   19. [194]^ Siemens AG [195]Sibac ES Sibac ES Product Page (as of
+       November 2007)
+   20. [196]^ Siemens AG [197]Sitras SES Sitras SES Product Page (as of
+       November 2007)
+   21. [198]^ [199]Proton Power Systems Unveils the Worlds First
+       Triple-hybrid Forklift Truck. Fuel Cell Works press release (2007).
+   22. [200]^ [201]MIT LEES on Batteries. MIT press release, 2006.
+   23. [202]^ Lerner EJ, [203]"Less is more with aerogels: A laboratory
+       curiosity develops practical uses". The Industrial Physicist (2004)
+   24. [204]^ [205]Y-Carbon
+   25. [206]^ [207]Latest developments in carbide derived carbon (2006)
+   26. [208]^ [209]Beyond batteries: storing power in a sheet of paper.
+       Rensselaer Polytechnic Institute press release (13 August 2007)
+
+[[210]edit] External links
+
+     * [211]Super Capacitor Seminar
+     * [212]Article on ultracapacitors at electronicdesign.com
+     * [213]Article on ultracapacitors at batteryuniversity.com
+     * [214]A new version of an old idea is threatening the battery
+       industry ([215]The Economist).
+     * [216]Ultracapacitors & Supercapacitors Forum
+     * [217]Special Issue of Interface magazine on electrochemical
+       capacitors
+     * [218]Nanoflowers Improve Ultracapacitors: A novel design could
+       boost energy storage ([219]Technology Review) and [220]Can
+       nanoscopic meadows drive electric cars forward? ([221]New
+       Scientist)
+     * [222]If the cap fits... How supercapacitors can help to solve power
+       problems in portable products.
+
+   Retrieved from
+   "[223]http://en.wikipedia.org/wiki/Electric_double-layer_capacitor"
+   [224]Categories: [225]Supercapacitors | [226]Energy conversion
+   Hidden categories: [227]All articles with unsourced statements |
+   [228]Articles with unsourced statements since September 2008 |
+   [229]Articles with unsourced statements since March 2007
+
+Views
+
+     * [230]Article
+     * [231]Discussion
+     * [232]Edit this page
+     * [233]History
+
+Personal tools
+
+     * [234]Log in / create account
+
+Navigation
+
+     * [235]Main page
+     * [236]Contents
+     * [237]Featured content
+     * [238]Current events
+     * [239]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [240]About Wikipedia
+     * [241]Community portal
+     * [242]Recent changes
+     * [243]Contact Wikipedia
+     * [244]Donate to Wikipedia
+     * [245]Help
+
+Toolbox
+
+     * [246]What links here
+     * [247]Related changes
+     * [248]Upload file
+     * [249]Special pages
+     * [250]Printable version
+     * [251]Permanent link
+     * [252]Cite this page
+
+Languages
+
+     *
+     * [253]Catal
+     * [254]Dansk
+     * [255]Deutsch
+     * [256]Eesti
+     * [257]Espaol
+     * [258]Esperanto
+     * [259]Franais
+     * [260]Italiano
+     * [261]Magyar
+     *
+     * [262]Polski
+     * [263]Portugus
+     *
+     * [264]Suomi
+
+   [265]Powered by MediaWiki
+   [266]Wikimedia Foundation
+     * This page was last modified on 30 January 2009, at 17:59.
+     * All text is available under the terms of the [267]GNU Free
+       Documentation License. (See [268]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [269]Wikimedia
+       Foundation, Inc., a U.S. registered [270]501(c)(3)
+       [271]tax-deductible [272]nonprofit [273]charity.
+     * [274]Privacy policy
+     * [275]About Wikipedia
+     * [276]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Electric_double-layer_capacitor&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double-layer_capacitor&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#searchInput
+   9. file://localhost/wiki/Farad
+  10. file://localhost/wiki/Maxwell_Technologies
+  11. file://localhost/wiki/Electrical_double_layer
+  12. file://localhost/wiki/Capacitor
+  13. file://localhost/wiki/Energy_density
+  14. file://localhost/wiki/Electrolytic_capacitor
+  15. file://localhost/wiki/D_battery
+  16. file://localhost/wiki/Farad
+  17. file://localhost/wiki/Orders_of_magnitude
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-0
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-1
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-2
+  21. file://localhost/wiki/Tank
+  22. file://localhost/wiki/Submarine
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-3
+  24. file://localhost/wiki/Green_energy
+  25. file://localhost/wiki/Regenerative_braking
+  26. file://localhost/wiki/LEES
+  27. file://localhost/wiki/Battery_electric_vehicle
+  28. file://localhost/wiki/Plug-in_hybrid
+  29. file://localhost/wiki/Wikipedia:Citation_needed
+  30. file://localhost/w/index.php?title=PCMCIA%2B&action=edit&redlink=1
+  31. file://localhost/wiki/Flash
+  32. file://localhost/wiki/Portable_media_player
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-4
+  34. file://localhost/wiki/EEStor
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#Concept
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#History
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#Technology_advantages
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#Transportation_applications
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#Technology
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#See_also
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#References
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#External_links
+  43. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=1
+  44. file://localhost/wiki/Capacitor
+  45. file://localhost/wiki/Electrolytic_capacitor
+  46. file://localhost/wiki/Electron
+  47. file://localhost/wiki/Dielectric
+  48. file://localhost/wiki/Activated_charcoal
+  49. file://localhost/wiki/Sponge
+  50. file://localhost/wiki/Carbon_nanotubes
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-mit-5
+  52. file://localhost/wiki/Polypyrrole
+  53. file://localhost/wiki/Ragone_chart
+  54. file://localhost/wiki/Energy_density
+  55. file://localhost/wiki/Power_density
+  56. file://localhost/wiki/Maxwell_Technologies
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-6
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-7
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-8
+  60. file://localhost/wiki/EEStor
+  61. file://localhost/wiki/Lead-acid_battery
+  62. file://localhost/wiki/Lithium-ion_battery
+  63. file://localhost/wiki/Lower_heating_value
+  64. file://localhost/wiki/Power_density
+  65. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=2
+  66. file://localhost/wiki/General_Electric
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-9
+  68. file://localhost/wiki/Capacitance
+  69. file://localhost/wiki/Standard_Oil_of_Ohio
+  70. file://localhost/wiki/Fuel_cell
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-ieee-10
+  72. file://localhost/wiki/Activated_charcoal
+  73. file://localhost/wiki/NEC
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-ieee-10
+  75. file://localhost/wiki/Materials_science
+  76. file://localhost/wiki/Automotive
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-ieee-10
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-11
+  79. file://localhost/wiki/Advanced_superionic_conductors
+  80. file://localhost/wiki/Deep-sub-voltage_nanoelectronics
+  81. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=3
+  82. file://localhost/wiki/Equivalent_series_resistance
+  83. file://localhost/wiki/Specific_power
+  84. file://localhost/wiki/KW
+  85. file://localhost/wiki/Kg
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-12
+  87. http://www.alexanderbell.us/Initiative/GEL.htm
+  88. http://www.alexanderbell.us/Project/GreenElectricity.htm
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-13
+  90. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=4
+  91. file://localhost/wiki/Electric_bus
+  92. file://localhost/wiki/Bus_terminus
+  93. file://localhost/wiki/Shanghai
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-14
+  95. file://localhost/wiki/Nuremberg
+  96. file://localhost/wiki/Diesel-electric
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-15
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-16
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-17
+ 100. file://localhost/wiki/Siemens_AG
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-18
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-19
+ 103. file://localhost/wiki/Wikipedia:Citation_needed
+ 104. file://localhost/wiki/Fuel_cell
+ 105. file://localhost/wiki/Battery_(electricity)
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-20
+ 107. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=5
+ 108. file://localhost/wiki/Carbon_nanotube
+ 109. file://localhost/wiki/Conductive_polymer
+ 110. file://localhost/wiki/Aerogel
+ 111. file://localhost/wiki/Nanotubes
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-MIT-21
+ 113. file://localhost/wiki/Polyacene
+ 114. file://localhost/wiki/Redox
+ 115. file://localhost/wiki/Aerogel
+ 116. file://localhost/wiki/Woven
+ 117. file://localhost/wiki/Carbon_fiber
+ 118. http://en.wiktionary.org/wiki/coated
+ 119. file://localhost/wiki/Pyrolysis
+ 120. file://localhost/wiki/Composite_material
+ 121. file://localhost/wiki/Electric_vehicle
+ 122. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-AIP-22
+ 123. http://reticlecarbon.com/
+ 124. file://localhost/wiki/Activated_carbon
+ 125. http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US6787235
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-23
+ 127. file://localhost/wiki/Wikipedia:Citation_needed
+ 128. http://www.skeletonnanolab.com/
+ 129. http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US6602742
+ 130. http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=WO2005118471
+ 131. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-24
+ 132. file://localhost/wiki/Rensselaer_Polytechnic_Institute
+ 133. file://localhost/wiki/Battery_(electricity)
+ 134. file://localhost/wiki/Ionic_liquid
+ 135. file://localhost/wiki/Salt
+ 136. file://localhost/wiki/Electrolyte
+ 137. file://localhost/wiki/Voltaic_pile
+ 138. file://localhost/wiki/Postage_stamp
+ 139. file://localhost/wiki/Broadsheet
+ 140. file://localhost/wiki/Aircraft
+ 141. file://localhost/wiki/Automobile
+ 142. file://localhost/wiki/Model_aircraft
+ 143. file://localhost/wiki/Pacemakers
+ 144. file://localhost/wiki/Biodegradable
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_note-25
+ 146. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=6
+ 147. file://localhost/wiki/Electric_vehicle_battery
+ 148. file://localhost/wiki/Capacitor
+ 149. file://localhost/wiki/Capacitor_(component)
+ 150. file://localhost/wiki/Nanoflower
+ 151. file://localhost/wiki/Rechargeable_electricity_storage_system
+ 152. file://localhost/wiki/Flywheel_energy_storage
+ 153. file://localhost/wiki/List_of_emerging_technologies
+ 154. file://localhost/wiki/Self_Powered_Equipment
+ 155. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=7
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-0
+ 157. http://www.nesscap.com/products_lineup.htm
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-1
+ 159. http://www.act.jp/eng/index.htm
+ 160. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-2
+ 161. http://fplreflib.findlay.co.uk/articles/6610/if-the-cap-fits.pdf
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-3
+ 163. http://www.eere.energy.gov/de/supercapacitors.html
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-4
+ 165. http://fplreflib.findlay.co.uk/articles/6610/if-the-cap-fits.pdf
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-mit_5-0
+ 167. http://web.mit.edu/newsoffice/2006/batteries-0208.html
+ 168. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-6
+ 169. http://www.act.jp/eng/index.htm
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-7
+ 171. http://www.dailymotion.com/video/x65xr6_ultracapacitor-google-nbspvideo_tech
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-8
+ 173. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-9
+ 174. http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US2800616
+ 175. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-ieee_10-0
+ 176. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-ieee_10-1
+ 177. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-ieee_10-2
+ 178. http://www.spectrum.ieee.org/nov07/5636/2
+ 179. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-11
+ 180. http://www.nanometer.ru/2007/10/17/nanoionnie_superkondensatori_4879.html
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-12
+ 182. http://www.apowercap.com/?pg=14&news_id=13&lang=eng&arh=0
+ 183. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-13
+ 184. http://www.edn.com/index.asp?layout=article&articleid=CA6283833
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-14
+ 186. http://web.archive.org/web/20070105022719/http://www.52bus.com/article/special/200608/special_6.html
+ 187. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-15
+ 188. http://en.vag.de/barrierefrei.php?pid=102
+ 189. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-16
+ 190. http://www.railwaygazette.com/news_view/article/2006/07/4432/ultracaps_win_out_in_energy_storage-1.html
+ 191. file://localhost/wiki/Railway_Gazette_International
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-17
+ 193. http://www.allianz-pro-schiene.de/cms/upload/media/themen/umweltbericht/workshops/20060919/07-Vortrag_Kehl-060919.pdf
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-18
+ 195. http://www.transportation.siemens.com/ts/en/pub/products/green_mobility/our_solutions/on_a_roll/sibac.htm
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-19
+ 197. http://www.transportation.siemens.com/ts/en/pub/products/green_mobility/our_solutions/for_the_net/sitras.htm
+ 198. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-20
+ 199. http://www.fuelcellsworks.com/Supppage7867.html
+ 200. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-MIT_21-0
+ 201. http://lees.mit.edu/lees/battery_001.htm
+ 202. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-AIP_22-0
+ 203. http://www.aip.org/tip/INPHFA/vol-10/iss-5/p26.html
+ 204. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-23
+ 205. http://www.Y-Carbon.US/
+ 206. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-24
+ 207. http://www.skeletonnanolab.com/16th_EDLC_presentation_2006.pdf
+ 208. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc265.tmp.html#cite_ref-25
+ 209. http://news.rpi.edu/update.do?artcenterkey=2280
+ 210. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit&section=8
+ 211. http://www.supercapseminar.com/
+ 212. http://electronicdesign.com/Articles/Index.cfm?AD=1&AD=1&ArticleID=17465
+ 213. http://www.batteryuniversity.com/partone-8.htm
+ 214. http://www.economist.com/science/displaystory.cfm?story_id=10601407
+ 215. file://localhost/wiki/The_Economist
+ 216. http://www.ultracapacitors.org/forum/56.html
+ 217. http://www.electrochem.org/dl/interface/spr/spr08/if_spr08.htm
+ 218. http://www.technologyreview.com/Energy/21375/?a=f
+ 219. file://localhost/wiki/Technology_Review
+ 220. http://technology.newscientist.com/article/dn14753
+ 221. file://localhost/wiki/New_Scientist
+ 222. http://fplreflib.findlay.co.uk/articles/6610/if-the-cap-fits.pdf
+ 223. http://en.wikipedia.org/wiki/Electric_double-layer_capacitor
+ 224. file://localhost/wiki/Special:Categories
+ 225. file://localhost/wiki/Category:Supercapacitors
+ 226. file://localhost/wiki/Category:Energy_conversion
+ 227. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 228. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_September_2008
+ 229. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_March_2007
+ 230. file://localhost/wiki/Electric_double-layer_capacitor
+ 231. file://localhost/wiki/Talk:Electric_double-layer_capacitor
+ 232. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=edit
+ 233. file://localhost/w/index.php?title=Electric_double-layer_capacitor&action=history
+ 234. file://localhost/w/index.php?title=Special:UserLogin&returnto=Electric_double-layer_capacitor
+ 235. file://localhost/wiki/Main_Page
+ 236. file://localhost/wiki/Portal:Contents
+ 237. file://localhost/wiki/Portal:Featured_content
+ 238. file://localhost/wiki/Portal:Current_events
+ 239. file://localhost/wiki/Special:Random
+ 240. file://localhost/wiki/Wikipedia:About
+ 241. file://localhost/wiki/Wikipedia:Community_portal
+ 242. file://localhost/wiki/Special:RecentChanges
+ 243. file://localhost/wiki/Wikipedia:Contact_us
+ 244. http://wikimediafoundation.org/wiki/Donate
+ 245. file://localhost/wiki/Help:Contents
+ 246. file://localhost/wiki/Special:WhatLinksHere/Electric_double-layer_capacitor
+ 247. file://localhost/wiki/Special:RecentChangesLinked/Electric_double-layer_capacitor
+ 248. file://localhost/wiki/Wikipedia:Upload
+ 249. file://localhost/wiki/Special:SpecialPages
+ 250. file://localhost/w/index.php?title=Electric_double-layer_capacitor&printable=yes
+ 251. file://localhost/w/index.php?title=Electric_double-layer_capacitor&oldid=267442269
+ 252. file://localhost/w/index.php?title=Special:Cite&page=Electric_double-layer_capacitor&id=267442269
+ 253. http://ca.wikipedia.org/wiki/Supercondensador
+ 254. http://da.wikipedia.org/wiki/Superkondensator
+ 255. http://de.wikipedia.org/wiki/Doppelschicht-Kondensator
+ 256. http://et.wikipedia.org/wiki/Superkondensaator
+ 257. http://es.wikipedia.org/wiki/Condensador_de_alta_capacidad
+ 258. http://eo.wikipedia.org/wiki/Superkondensatoro
+ 259. http://fr.wikipedia.org/wiki/Supercondensateur
+ 260. http://it.wikipedia.org/wiki/Supercondensatore
+ 261. http://hu.wikipedia.org/wiki/Ultrakapacit%C3%A1s
+ 262. http://pl.wikipedia.org/wiki/Superkondensator
+ 263. http://pt.wikipedia.org/wiki/Supercapacitores
+ 264. http://fi.wikipedia.org/wiki/Superkondensaattori
+ 265. http://www.mediawiki.org/
+ 266. http://wikimediafoundation.org/
+ 267. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 268. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 269. http://www.wikimediafoundation.org/
+ 270. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 271. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 272. http://en.wikipedia.org/wiki/Non-profit_organization
+ 273. http://en.wikipedia.org/wiki/Charitable_organization
+ 274. http://wikimediafoundation.org/wiki/Privacy_policy
+ 275. file://localhost/wiki/Wikipedia:About
+ 276. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 277. file://localhost/wiki/File:Maxwell_MC_and_BC_ultracapacitor_cells_and_modules.jpg
+ 278. file://localhost/wiki/File:Maxwell_MC_and_BC_ultracapacitor_cells_and_modules.jpg
+ 279. file://localhost/wiki/File:Supercapacitor_diagram.svg
+ 280. file://localhost/wiki/File:Supercapacitor_diagram.svg
+ 281. file://localhost/wiki/File:Supercapacitors_chart.svg
+ 282. file://localhost/wiki/File:Supercapacitors_chart.svg
+ 283. file://localhost/wiki/Main_Page
+ 284. http://bg.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D0%B7%D0%B0%D1%82%D0%BE%D1%80
+ 285. http://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%BA%8C%E9%87%8D%E5%B1%A4%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5
+ 286. http://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D1%80

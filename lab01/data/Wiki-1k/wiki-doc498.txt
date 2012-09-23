@@ -1,0 +1,133 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dumpfile
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   A dumpfile is an [8]output file used to save detailed step-by-step
+   results of a [9]simulation run for analysis, re-simulation, or design
+   verification.
+
+   Dump files can be accessed through the task manager on a Microsoft
+   Windows OS (Operating System)
+   [10]Comp Sci logo  This [11]computer science-related article is a
+   [12]stub. You can [13]help Wikipedia by [14]expanding it.
+   Retrieved from "[15]http://en.wikipedia.org/wiki/Dumpfile"
+   [16]Categories: [17]Computer science stubs | [18]Input/Output
+
+Views
+
+     * [19]Article
+     * [20]Discussion
+     * [21]Edit this page
+     * [22]History
+
+Personal tools
+
+     * [23]Log in / create account
+
+Navigation
+
+     * [24]Main page
+     * [25]Contents
+     * [26]Featured content
+     * [27]Current events
+     * [28]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [29]About Wikipedia
+     * [30]Community portal
+     * [31]Recent changes
+     * [32]Contact Wikipedia
+     * [33]Donate to Wikipedia
+     * [34]Help
+
+Toolbox
+
+     * [35]What links here
+     * [36]Related changes
+     * [37]Upload file
+     * [38]Special pages
+     * [39]Printable version
+     * [40]Permanent link
+     * [41]Cite this page
+
+   [42]Powered by MediaWiki
+   [43]Wikimedia Foundation
+     * This page was last modified on 14 January 2009, at 19:10.
+     * All text is available under the terms of the [44]GNU Free
+       Documentation License. (See [45]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [46]Wikimedia
+       Foundation, Inc., a U.S. registered [47]501(c)(3)
+       [48]tax-deductible [49]nonprofit [50]charity.
+     * [51]Privacy policy
+     * [52]About Wikipedia
+     * [53]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dumpfile&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc498.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc498.tmp.html#searchInput
+   8. file://localhost/wiki/Output
+   9. file://localhost/wiki/Computer_simulation
+  10. file://localhost/wiki/File:LampFlowchart.svg
+  11. file://localhost/wiki/Computer_science
+  12. file://localhost/wiki/Wikipedia:Stub
+  13. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  14. http://en.wikipedia.org/w/index.php?stub&title=Dumpfile&action=edit
+  15. http://en.wikipedia.org/wiki/Dumpfile
+  16. file://localhost/wiki/Special:Categories
+  17. file://localhost/wiki/Category:Computer_science_stubs
+  18. file://localhost/wiki/Category:Input/Output
+  19. file://localhost/wiki/Dumpfile
+  20. file://localhost/wiki/Talk:Dumpfile
+  21. file://localhost/w/index.php?title=Dumpfile&action=edit
+  22. file://localhost/w/index.php?title=Dumpfile&action=history
+  23. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dumpfile
+  24. file://localhost/wiki/Main_Page
+  25. file://localhost/wiki/Portal:Contents
+  26. file://localhost/wiki/Portal:Featured_content
+  27. file://localhost/wiki/Portal:Current_events
+  28. file://localhost/wiki/Special:Random
+  29. file://localhost/wiki/Wikipedia:About
+  30. file://localhost/wiki/Wikipedia:Community_portal
+  31. file://localhost/wiki/Special:RecentChanges
+  32. file://localhost/wiki/Wikipedia:Contact_us
+  33. http://wikimediafoundation.org/wiki/Donate
+  34. file://localhost/wiki/Help:Contents
+  35. file://localhost/wiki/Special:WhatLinksHere/Dumpfile
+  36. file://localhost/wiki/Special:RecentChangesLinked/Dumpfile
+  37. file://localhost/wiki/Wikipedia:Upload
+  38. file://localhost/wiki/Special:SpecialPages
+  39. file://localhost/w/index.php?title=Dumpfile&printable=yes
+  40. file://localhost/w/index.php?title=Dumpfile&oldid=264091944
+  41. file://localhost/w/index.php?title=Special:Cite&page=Dumpfile&id=264091944
+  42. http://www.mediawiki.org/
+  43. http://wikimediafoundation.org/
+  44. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  45. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  46. http://www.wikimediafoundation.org/
+  47. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  48. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  49. http://en.wikipedia.org/wiki/Non-profit_organization
+  50. http://en.wikipedia.org/wiki/Charitable_organization
+  51. http://wikimediafoundation.org/wiki/Privacy_policy
+  52. file://localhost/wiki/Wikipedia:About
+  53. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  54. file://localhost/wiki/Main_Page

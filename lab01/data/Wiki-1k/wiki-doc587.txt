@@ -1,0 +1,647 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dyscalculia
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   This article is in need of attention from an expert on the subject.
+   [8]WikiProject Psychology or the [9]Psychology Portal may be able to
+   help recruit one. (August 2008)
+   This article needs additional [10]citations for [11]verification.
+   Please help [12]improve this article by adding [13]reliable references.
+   Unsourced material may be [14]challenged and removed. (December 2008)
+   Part of a series on
+           [15]Dyslexia
+
+   and related disorders
+   [16]Education  [17]Neuropsychology
+        RELATED CONDITIONS
+
+   [18]Acquired dyslexia   [19]Alexia
+   [20]Auditory Processing Disorder
+   Dyscalculia  [21]Dysgraphia
+   [22]Dyslexia  [23]Dyspraxia
+             THEORIES
+
+   [24]Double deficit  [25]Magnocellular
+   [26]Perceptual noise exclusion
+   [27]Phonological deficit
+          RELATED TOPICS
+
+   [28]IDEA  [29]Literacy
+   [30]Reading acquisition  [31]Spelling
+   [32]Recording for the Blind & Dyslexic
+              LISTS
+
+   Assessments  Fields
+   [33]People  Publications
+   Topics
+   [34]Fiction  [35]Treatments
+   [36]view  [37]talk  [38]edit
+   Dyscalculia
+   Classification and external resources
+   [39]ICD-[40]10 [41]F[42]81.2, [43]R[44]48.8
+   [45]ICD-[46]9  [47]315.1, [48]784.69
+
+   Dyscalculia or math disability is a [49]specific learning disability
+   involving innate difficulty in learning or comprehending
+   [50]mathematics.
+
+Contents
+
+     * [51]1 Overview
+     * [52]2 Potential symptoms
+     * [53]3 Potential causes
+     * [54]4 Treatment
+     * [55]5 See also
+     * [56]6 References
+     * [57]7 Bibliography
+     * [58]8 External links
+
+[[59]edit] Overview
+
+   Dyscalculia was originally identified in case studies of patients who
+   suffered specific arithmetic disabilities as a result of damage to
+   specific regions of the brain. Recent research suggests that
+   dyscalculia can also occur developmentally, as a genetically-linked
+   learning disability which affects a person's ability to understand,
+   remember, or manipulate [60]numbers or number facts (e.g., the
+   multiplication tables). The term is often used to refer specifically to
+   the inability to perform arithmetic operations, but it is also defined
+   by some educational professionals and [61]cognitive psychologists as a
+   more fundamental inability to conceptualize numbers as abstract
+   concepts of comparative quantities (a deficit in "number
+   sense").^[62][1] Those who argue for this more constrained definition
+   of dyscalculia sometimes prefer to use the technical term Arithmetic
+   Difficulties (AD) to refer to calculation and number memory deficits.
+
+   Dyscalculia is a lesser known disability, similar and potentially
+   related to [63]dyslexia and [64]developmental dyspraxia. Dyscalculia
+   occurs in people across the whole [65]IQ range, and sufferers often,
+   but not always, also have difficulties with time, measurement, and
+   spatial reasoning.^[[66]citation needed] Current estimates suggest it
+   may affect about 5% of the population. Although some researchers
+   believe that dyscalculia necessarily implies mathematical reasoning
+   difficulties as well as difficulties with arithmetic operations, there
+   is evidence (especially from brain damaged patients) that arithmetic
+   (e.g. calculation and number fact memory) and mathematical (abstract
+   reasoning with numbers) abilities can be dissociated. That is (some
+   researchers argue), an individual might suffer arithmetic difficulties
+   (or dyscalculia), with no impairment of, or even giftedness in,
+   abstract mathematical reasoning abilities.
+
+   The word dyscalculia comes from [67]Greek and [68]Latin which means:
+   "counting badly". The prefix "dys" comes from Greek and means "badly".
+   "Calculia" comes from the Latin "calculare". which means "to count".
+   That word "calculare" again comes from "[69]calculus", which means
+   "pebble" or one of the counters on an [70]abacus.
+
+   Dyscalculia can be detected at a young age and measures can be taken to
+   ease the problems faced by younger students. The main problem is
+   understanding the way mathematics is taught to children. In the way
+   that dyslexia can be dealt with by using a slightly different approach
+   to teaching, so can dyscalculia. However, dyscalculia is the lesser
+   known of these learning disorders and so is often not recognized.
+
+   Another common manifestation of the condition emerges when the
+   individual is faced with equation type of problems which contain both
+   integers and letters (3A + 4C). It can be difficult for the person to
+   differentiate between the integers and the letters. Confusion such as
+   reading a '5' for an 'S' or not being able to distinguish between a
+   zero '0' for the letter 'O' can keep algebra from being mastered. This
+   particular form of dyscalculia is often not diagnosed until middle or
+   high school is entered.
+
+[[71]edit] Potential symptoms
+
+   This article is in need of attention from an expert on the subject.
+   [72]WikiProject Psychology or the [73]Psychology Portal may be able to
+   help recruit one. (August 2008)
+   This section does not [74]cite any [75]references or sources.
+   Please help [76]improve this section by adding citations to
+   [77]reliable sources. [78]Unverifiable material may be challenged and
+   removed. (December 2008)
+   Part of a series on
+            [79]Dyslexia
+
+   and related disorders
+   [80]Education  [81]Neuropsychology
+         RELATED CONDITIONS
+
+   [82]Acquired dyslexia   [83]Alexia
+   [84]Auditory Processing Disorder
+   Dyscalculia  [85]Dysgraphia
+   [86]Dyslexia  [87]Dyspraxia
+              THEORIES
+
+   [88]Double deficit  [89]Magnocellular
+   [90]Perceptual noise exclusion
+   [91]Phonological deficit
+           RELATED TOPICS
+
+   [92]IDEA  [93]Literacy
+   [94]Reading acquisition  [95]Spelling
+   [96]Recording for the Blind & Dyslexic
+                LISTS
+
+   Assessments  Fields
+   [97]People  Publications
+   Topics
+   [98]Fiction  [99]Treatments
+   [100]view  [101]talk  [102]edit
+   Dyscalculia
+   Classification and external resources
+   [103]ICD-[104]10 [105]F[106]81.2, [107]R[108]48.8
+   [109]ICD-[110]9  [111]315.1, [112]784.69
+     * Frequent difficulties with arithmetic, confusing the signs: [113]+,
+       , and .
+
+     * Difficulty with everyday tasks like checking change and reading
+       analog clocks.
+     * Inability to comprehend financial planning or [114]budgeting,
+       sometimes even at a basic level; for example, estimating the cost
+       of the items in a shopping basket or balancing a checkbook.
+     * Difficulty with multiplication-tables, mental arithmetic, etc.
+     * May do fairly well in subjects such as science and geometry, which
+       require logic rather than formulae, until a higher level requiring
+       calculations is obtained.
+     * Difficulty with conceptualizing time and judging the passing of
+       time.
+     * Particularly problems with differentiating between left and right.
+     * Difficulty navigating or mentally "turning" the map to face the
+       current direction rather than the common North=Top usage.
+     * Having particular difficulty mentally estimating the measurement of
+       an object or distance (e.g., whether something is 10 or 20 feet (3
+       or 6 meters) away).
+     * Often unable to grasp and remember mathematical concepts, rules,
+       [115]formulae, and sequences.
+     * An inability to read a sequence of numbers, or transposing them
+       when repeated, such as turning 56 into 65.
+     * Difficulty keeping score during games.
+     * Difficulty with games such as poker with more flexible rules for
+       scoring.
+     * Difficulty in activities requiring [116]sequential processing, from
+       the physical (such as dance steps) to the abstract (reading,
+       writing and signaling things in the right order). May have trouble
+       even with a calculator due to difficulties in the process of
+       feeding in variables.
+     * The condition may lead in extreme cases to a [117]phobia or durable
+       [118]anxiety of mathematics and mathematic-numeric
+       devices/coherences.
+     * Low [119]latent inhibition, i.e., over-sensitivity to noise, smell,
+       light and the inability to tune out, filtering unwanted information
+       or impressions. Might have a well-developed sense of imagination
+       due to this (possibly as cognitive compensation to
+       mathematical-numeric deficits).
+
+[[120]edit] Potential causes
+
+   Scientists have yet to understand the causes of dyscalculia. They have
+   been investigating in several domains.
+     * Neurological: Dyscalculia has been associated with lesions to the
+       [121]supramarginal and [122]angular gyri at the junction between
+       the [123]temporal and [124]parietal lobes of the [125]cerebral
+       cortex.^[126][2]^[127][3]
+     * Deficits in [128]working memory: Adams and Hitch^[129][4] argue
+       that working memory is a major factor in mental addition. From this
+       base, Geary^[130][5] conducted a study that suggested there was a
+       working memory deficit for those who suffered from dyscalculia.
+       However, working memory problems are confounded with general
+       learning difficulties, thus Geary's findings may not be specific to
+       dyscalculia but rather may reflect a greater learning deficit.
+
+   Other causes may be:
+     * Short term memory being disturbed or reduced, making it difficult
+       to remember calculations.
+     * [131]Congenital or [132]hereditary disorders. Studies show
+       indications of this, but the evidence is not yet
+       concrete.^[[133]citation needed]
+
+[[134]edit] Treatment
+
+   Dyscalculia has no cure per se, but various treatment options have been
+   explored. Counselling can help, but not necessarily to a large degree.
+   No therapy has been properly verified and proved to be effective. Some
+   anecdotal evidence suggests, however, that a certain amount of
+   mathematical proficiency can be acquired by alternative systems of
+   mathematical calculation such as [135]Eastern mathematics. Anecdotal
+   evidence also suggests, in fact, that dyscalculic individuals might
+   themselves pursue such systems out of need or interest.
+
+[[136]edit] See also
+
+     * [137]Acalculia
+     * [138]Gerstmann syndrome: dyscalculia is one of a constellation of
+       symptoms acquired after damage to the [139]angular gyrus.
+     * The [140]DSM-IV diagnosis mathematics disorder can be applied to
+       people whose mathematical abilities are well below the expected
+       level for their age.
+     * [141]Dyslexia
+     * [142]Dysgraphia
+     * [143]Numerical cognition
+
+[[144]edit] References
+
+    1. [145]^ Dehaene, S. 1997 The Number Sense: How the Mind Creates
+       Mathematics New York, Oxford University Press.
+    2. [146]^ Levy LM, Reis IL, Grafman J. Metabolic abnormalities
+       detected by 1H-MRS in dyscalculia and dysgraphia. Neurology.
+       1999;53(3):63941. [147]PMID 10449137
+    3. [148]^ Mayer E, Martory MD, Pegna AJ, Landis T, Delavelle J, Annoni
+       JM. Free Full Text A pure case of Gerstmann syndrome with a
+       subangular lesion. Brain. 1999;122(6):110720. [149]PMID 10356063
+    4. [150]^ Adams JW, Hitch GJ. Working memory and children's mental
+       addition. J Exp Child Psychol. 1997;67(1),2138. [151]PMID 9344485
+    5. [152]^ Geary DC. Mathematical disabilities: cognition,
+       neuropsychological and genetic components. Psychol Bull.
+       1993;114(2) 34562. [153]PMID 8416036
+
+[[154]edit] Bibliography
+
+     * Abeel, Samantha, 2003. My Thirteenth Winter. Orchard Books.
+       [155]ISBN 0-439-33904-9
+     * Attwood, Tony, 2002. Dyscalculia in Schools: What It Is and What
+       You Can Do. First and Best in Education Ltd. [156]ISBN
+       1-86083-614-3
+     * Butterworth, Brian, 2004. Dyscalculia Guidance: Helping Pupils With
+       Specific Learning Difficulties in Maths. David Fulton Publications.
+       [157]ISBN 0-7087-1152-9
+     * Chinn, Steve, 2004. The Trouble with Maths: A Practical Guide to
+       Helping Learners with Numeracy Difficulties. RoutledgeFalmer.
+       [158]ISBN 0-415-32498-X
+     * Henderson, Anne, Came, Fil, and Brough, Mel, 2003, [159]Working
+       with Dyscalculia. Learning Works International Ltd. [160]ISBN
+       0-9531055-2-0
+     * Kosc, Ladislav, 1974, "Developmental dyscalculia," Journal of
+       Learning Disabilities 7" 159-62. First systematic study.
+     * Sharma, Mahesh. [161]Dyscalculia.
+     * --------, 1989. Dyslexia, Dyscalculia and other Mathematics
+       Problems. The Math Notebook, CT/LM.
+     * --------, "[162]Berkshire mathematics."
+     * -------- and Loveless, Eugene, 1988. Dyscalculia. Focus on Learning
+       Problems in Mathematics, CT/LM.
+
+[[163]edit] External links
+
+     * [164]Study on neural basis of dyscalculia at the University of
+       Barcelona
+     * [165]Numeracy Intervention project at the University of Oxford
+     * [166]CLSO-Math Concepts-Language-Symbols-Operation. An innovative
+       math teaching methodology developed by a Harvard graduate, based on
+       recent learning theories and decades of practical experience.
+     * [167]Information on learning disabilities for ages ranging from
+       early childhood through adulthood.
+     * [168]'The Mathematician Who Can't Add Up' by [169]Emma J King
+       Freeview Snapshot video by the Vega Science Trust.
+     * [170]Nature Article
+     * [171]Guardian Article
+     * [172]Mathematics and Dyslexia
+     * [173]LD Online
+     * [174]DyscalculiaForum.com - International support forum
+     * [175]Dyscalculia or acalculia
+     * [176]Dyscalculia.org Symptoms of dyscalculia
+     * [177][1]
+
+   Retrieved from "[178]http://en.wikipedia.org/wiki/Dyscalculia"
+   [179]Categories: [180]Communication disorders | [181]Learning
+   disabilities | [182]Mathematics education | [183]Neurological disorders
+   | [184]Special education | [185]Mathematics education reform
+   Hidden categories: [186]Psychology articles needing expert attention |
+   [187]Articles needing expert attention since August 2008 |
+   [188]Articles needing additional references from December 2008 |
+   [189]All articles with unsourced statements | [190]Articles with
+   unsourced statements since December 2008 | [191]Articles with unsourced
+   statements since March 2007
+
+Views
+
+     * [192]Article
+     * [193]Discussion
+     * [194]Edit this page
+     * [195]History
+
+Personal tools
+
+     * [196]Log in / create account
+
+Navigation
+
+     * [197]Main page
+     * [198]Contents
+     * [199]Featured content
+     * [200]Current events
+     * [201]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [202]About Wikipedia
+     * [203]Community portal
+     * [204]Recent changes
+     * [205]Contact Wikipedia
+     * [206]Donate to Wikipedia
+     * [207]Help
+
+Toolbox
+
+     * [208]What links here
+     * [209]Related changes
+     * [210]Upload file
+     * [211]Special pages
+     * [212]Printable version
+     * [213]Permanent link
+     * [214]Cite this page
+
+Languages
+
+     * [215]esky
+     * [216]Deutsch
+     * [217]Espaol
+     * [218]Esperanto
+     * [219]Euskara
+     * [220]Franais
+     * [221]Italiano
+     *
+     *
+     * [222]Magyar
+     * [223]Nederlands
+     * [224]Norsk (bokml)
+     * [225]Polski
+     * [226]Portugus
+     * [227]Suomi
+     * [228]Svenska
+
+   [229]Powered by MediaWiki
+   [230]Wikimedia Foundation
+     * This page was last modified on 12 February 2009, at 23:02.
+     * All text is available under the terms of the [231]GNU Free
+       Documentation License. (See [232]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [233]Wikimedia
+       Foundation, Inc., a U.S. registered [234]501(c)(3)
+       [235]tax-deductible [236]nonprofit [237]charity.
+     * [238]Privacy policy
+     * [239]About Wikipedia
+     * [240]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dyscalculia&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:WikiProject_Psychology
+   9. file://localhost/wiki/Portal:Psychology
+  10. file://localhost/wiki/Wikipedia:Citing_sources
+  11. file://localhost/wiki/Wikipedia:Verifiability
+  12. http://en.wikipedia.org/w/index.php?title=Dyscalculia&action=edit
+  13. file://localhost/wiki/Wikipedia:Reliable_sources
+  14. file://localhost/wiki/Template:Fact
+  15. file://localhost/wiki/Dyslexia
+  16. file://localhost/wiki/Portal:Education
+  17. file://localhost/wiki/Clinical_neuropsychology
+  18. file://localhost/wiki/Acquired_dyslexia
+  19. file://localhost/wiki/Alexia_(disorder)
+  20. file://localhost/wiki/Auditory_Processing_Disorder
+  21. file://localhost/wiki/Dysgraphia
+  22. file://localhost/wiki/Dyslexia
+  23. file://localhost/wiki/Developmental_dyspraxia
+  24. file://localhost/wiki/Double_deficit_(education)
+  25. file://localhost/wiki/Magnocellular_part
+  26. file://localhost/wiki/Perceptual_noise_exclusion_hypothesis
+  27. file://localhost/wiki/Phonological_deficit
+  28. file://localhost/wiki/Individuals_with_Disabilities_Education_Act
+  29. file://localhost/wiki/Literacy
+  30. file://localhost/wiki/Reading_skills_acquisition
+  31. file://localhost/wiki/Spelling
+  32. file://localhost/wiki/Recording_for_the_Blind_%26_Dyslexic
+  33. file://localhost/wiki/List_of_people_diagnosed_with_dyslexia
+  34. file://localhost/wiki/Dyslexia_in_fiction
+  35. file://localhost/wiki/List_of_treatments_for_dyslexia
+  36. file://localhost/wiki/Template:Dyslexia
+  37. file://localhost/wiki/Template_talk:Dyslexia
+  38. http://en.wikipedia.org/w/index.php?title=Template:Dyslexia&action=edit
+  39. file://localhost/wiki/ICD
+  40. file://localhost/wiki/List_of_ICD-10_codes
+  41. file://localhost/wiki/ICD-10_Chapter_F
+  42. http://www.who.int/classifications/apps/icd/icd10online/?gf80.htm+f812
+  43. file://localhost/wiki/ICD-10_Chapter_R
+  44. http://www.who.int/classifications/apps/icd/icd10online/?gr47.htm+r488
+  45. file://localhost/wiki/ICD
+  46. file://localhost/wiki/List_of_ICD-9_codes
+  47. http://www.icd9data.com/getICD9Code.ashx?icd9=315.1
+  48. http://www.icd9data.com/getICD9Code.ashx?icd9=784.69
+  49. file://localhost/wiki/Specific_learning_disability
+  50. file://localhost/wiki/Mathematics
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#Overview
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#Potential_symptoms
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#Potential_causes
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#Treatment
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#See_also
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#References
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#Bibliography
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#External_links
+  59. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=1
+  60. file://localhost/wiki/Number
+  61. file://localhost/wiki/Cognitive_psychology
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_note-0
+  63. file://localhost/wiki/Dyslexia
+  64. file://localhost/wiki/Developmental_dyspraxia
+  65. file://localhost/wiki/IQ
+  66. file://localhost/wiki/Wikipedia:Citation_needed
+  67. file://localhost/wiki/Greek_language
+  68. file://localhost/wiki/Latin
+  69. file://localhost/wiki/Calculus
+  70. file://localhost/wiki/Abacus
+  71. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=2
+  72. file://localhost/wiki/Wikipedia:WikiProject_Psychology
+  73. file://localhost/wiki/Portal:Psychology
+  74. file://localhost/wiki/Wikipedia:Citing_sources
+  75. file://localhost/wiki/Wikipedia:Verifiability
+  76. http://en.wikipedia.org/w/index.php?title=Dyscalculia&action=edit
+  77. file://localhost/wiki/Wikipedia:Reliable_sources
+  78. file://localhost/wiki/Wikipedia:Verifiability
+  79. file://localhost/wiki/Dyslexia
+  80. file://localhost/wiki/Portal:Education
+  81. file://localhost/wiki/Clinical_neuropsychology
+  82. file://localhost/wiki/Acquired_dyslexia
+  83. file://localhost/wiki/Alexia_(disorder)
+  84. file://localhost/wiki/Auditory_Processing_Disorder
+  85. file://localhost/wiki/Dysgraphia
+  86. file://localhost/wiki/Dyslexia
+  87. file://localhost/wiki/Developmental_dyspraxia
+  88. file://localhost/wiki/Double_deficit_(education)
+  89. file://localhost/wiki/Magnocellular_part
+  90. file://localhost/wiki/Perceptual_noise_exclusion_hypothesis
+  91. file://localhost/wiki/Phonological_deficit
+  92. file://localhost/wiki/Individuals_with_Disabilities_Education_Act
+  93. file://localhost/wiki/Literacy
+  94. file://localhost/wiki/Reading_skills_acquisition
+  95. file://localhost/wiki/Spelling
+  96. file://localhost/wiki/Recording_for_the_Blind_%26_Dyslexic
+  97. file://localhost/wiki/List_of_people_diagnosed_with_dyslexia
+  98. file://localhost/wiki/Dyslexia_in_fiction
+  99. file://localhost/wiki/List_of_treatments_for_dyslexia
+ 100. file://localhost/wiki/Template:Dyslexia
+ 101. file://localhost/wiki/Template_talk:Dyslexia
+ 102. http://en.wikipedia.org/w/index.php?title=Template:Dyslexia&action=edit
+ 103. file://localhost/wiki/ICD
+ 104. file://localhost/wiki/List_of_ICD-10_codes
+ 105. file://localhost/wiki/ICD-10_Chapter_F
+ 106. http://www.who.int/classifications/apps/icd/icd10online/?gf80.htm+f812
+ 107. file://localhost/wiki/ICD-10_Chapter_R
+ 108. http://www.who.int/classifications/apps/icd/icd10online/?gr47.htm+r488
+ 109. file://localhost/wiki/ICD
+ 110. file://localhost/wiki/List_of_ICD-9_codes
+ 111. http://www.icd9data.com/getICD9Code.ashx?icd9=315.1
+ 112. http://www.icd9data.com/getICD9Code.ashx?icd9=784.69
+ 113. file://localhost/wiki/Plus_and_minus_signs
+ 114. file://localhost/wiki/Budget
+ 115. file://localhost/wiki/Formulae
+ 116. file://localhost/w/index.php?title=Sequential_processing&action=edit&redlink=1
+ 117. file://localhost/wiki/Phobia
+ 118. file://localhost/wiki/Anxiety
+ 119. file://localhost/wiki/Latent_inhibition
+ 120. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=3
+ 121. file://localhost/wiki/Brodmann_area_40
+ 122. file://localhost/wiki/Angular_gyrus
+ 123. file://localhost/wiki/Temporal_lobe
+ 124. file://localhost/wiki/Parietal_lobe
+ 125. file://localhost/wiki/Cerebral_cortex
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_note-1
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_note-2
+ 128. file://localhost/wiki/Working_memory
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_note-3
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_note-4
+ 131. file://localhost/wiki/Congenital
+ 132. file://localhost/wiki/Hereditary_disorder
+ 133. file://localhost/wiki/Wikipedia:Citation_needed
+ 134. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=4
+ 135. file://localhost/w/index.php?title=Eastern_mathematics&action=edit&redlink=1
+ 136. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=5
+ 137. file://localhost/wiki/Acalculia
+ 138. file://localhost/wiki/Gerstmann_syndrome
+ 139. file://localhost/wiki/Angular_gyrus
+ 140. file://localhost/wiki/DSM-IV
+ 141. file://localhost/wiki/Dyslexia
+ 142. file://localhost/wiki/Dysgraphia
+ 143. file://localhost/wiki/Numerical_cognition
+ 144. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=6
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_ref-0
+ 146. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_ref-1
+ 147. http://www.ncbi.nlm.nih.gov/pubmed/10449137
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_ref-2
+ 149. http://www.ncbi.nlm.nih.gov/pubmed/10356063
+ 150. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_ref-3
+ 151. http://www.ncbi.nlm.nih.gov/pubmed/9344485
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc587.tmp.html#cite_ref-4
+ 153. http://www.ncbi.nlm.nih.gov/pubmed/8416036
+ 154. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=7
+ 155. file://localhost/wiki/Special:BookSources/0439339049
+ 156. file://localhost/wiki/Special:BookSources/1860836143
+ 157. file://localhost/wiki/Special:BookSources/0708711529
+ 158. file://localhost/wiki/Special:BookSources/041532498X
+ 159. http://www.learning-works.org.uk/html_sept2003/section_5.asp
+ 160. file://localhost/wiki/Special:BookSources/0953105520
+ 161. http://www.bbc.co.uk/skillswise/tutors/expertcolumn/dyscalculia/
+ 162. http://www.berkshiremathematics.com/
+ 163. file://localhost/w/index.php?title=Dyscalculia&action=edit&section=8
+ 164. http://www.discalculia.es/
+ 165. http://www.numeracyintervention.net/
+ 166. http://www.clso-math.com/
+ 167. http://www.learningdisabilities.about.com/
+ 168. http://www.vega.org.uk/video/programme/89
+ 169. file://localhost/w/index.php?title=Emma_J_King&action=edit&redlink=1
+ 170. http://www.nature.com/nsu/031110/031110-13.html
+ 171. http://www.guardian.co.uk/uk_news/story/0,3604,1039501,00.html
+ 172. http://www.ldonline.org/ld_indepth/math_skills/ida_math_fall98.html
+ 173. http://www.ldonline.org/ld_indepth/math_skills/problem_solving_profiles.html
+ 174. http://www.dyscalculiaforum.com/
+ 175. http://www.as.wvu.edu/~scidis/dyscalcula.html
+ 176. http://www.dyscalculia.org/calc.html
+ 177. http://www.inpp.org.uk.html/
+ 178. http://en.wikipedia.org/wiki/Dyscalculia
+ 179. file://localhost/wiki/Special:Categories
+ 180. file://localhost/wiki/Category:Communication_disorders
+ 181. file://localhost/wiki/Category:Learning_disabilities
+ 182. file://localhost/wiki/Category:Mathematics_education
+ 183. file://localhost/wiki/Category:Neurological_disorders
+ 184. file://localhost/wiki/Category:Special_education
+ 185. file://localhost/wiki/Category:Mathematics_education_reform
+ 186. file://localhost/wiki/Category:Psychology_articles_needing_expert_attention
+ 187. file://localhost/wiki/Category:Articles_needing_expert_attention_since_August_2008
+ 188. file://localhost/wiki/Category:Articles_needing_additional_references_from_December_2008
+ 189. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 190. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_December_2008
+ 191. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_March_2007
+ 192. file://localhost/wiki/Dyscalculia
+ 193. file://localhost/wiki/Talk:Dyscalculia
+ 194. file://localhost/w/index.php?title=Dyscalculia&action=edit
+ 195. file://localhost/w/index.php?title=Dyscalculia&action=history
+ 196. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dyscalculia
+ 197. file://localhost/wiki/Main_Page
+ 198. file://localhost/wiki/Portal:Contents
+ 199. file://localhost/wiki/Portal:Featured_content
+ 200. file://localhost/wiki/Portal:Current_events
+ 201. file://localhost/wiki/Special:Random
+ 202. file://localhost/wiki/Wikipedia:About
+ 203. file://localhost/wiki/Wikipedia:Community_portal
+ 204. file://localhost/wiki/Special:RecentChanges
+ 205. file://localhost/wiki/Wikipedia:Contact_us
+ 206. http://wikimediafoundation.org/wiki/Donate
+ 207. file://localhost/wiki/Help:Contents
+ 208. file://localhost/wiki/Special:WhatLinksHere/Dyscalculia
+ 209. file://localhost/wiki/Special:RecentChangesLinked/Dyscalculia
+ 210. file://localhost/wiki/Wikipedia:Upload
+ 211. file://localhost/wiki/Special:SpecialPages
+ 212. file://localhost/w/index.php?title=Dyscalculia&printable=yes
+ 213. file://localhost/w/index.php?title=Dyscalculia&oldid=270320986
+ 214. file://localhost/w/index.php?title=Special:Cite&page=Dyscalculia&id=270320986
+ 215. http://cs.wikipedia.org/wiki/Dyskalkulie
+ 216. http://de.wikipedia.org/wiki/Dyskalkulie
+ 217. http://es.wikipedia.org/wiki/Discalculia
+ 218. http://eo.wikipedia.org/wiki/Diskalkulio
+ 219. http://eu.wikipedia.org/wiki/Diskalkulia
+ 220. http://fr.wikipedia.org/wiki/Dyscalculie
+ 221. http://it.wikipedia.org/wiki/Discalculia
+ 222. http://hu.wikipedia.org/wiki/Diszkalkulia
+ 223. http://nl.wikipedia.org/wiki/Dyscalculie
+ 224. http://no.wikipedia.org/wiki/Dyskalkuli
+ 225. http://pl.wikipedia.org/wiki/Dyskalkulia
+ 226. http://pt.wikipedia.org/wiki/Discalculia
+ 227. http://fi.wikipedia.org/wiki/Dyskalkulia
+ 228. http://sv.wikipedia.org/wiki/Dyskalkyli
+ 229. http://www.mediawiki.org/
+ 230. http://wikimediafoundation.org/
+ 231. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 232. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 233. http://www.wikimediafoundation.org/
+ 234. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 235. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 236. http://en.wikipedia.org/wiki/Non-profit_organization
+ 237. http://en.wikipedia.org/wiki/Charitable_organization
+ 238. http://wikimediafoundation.org/wiki/Privacy_policy
+ 239. file://localhost/wiki/Wikipedia:About
+ 240. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 241. file://localhost/wiki/File:Ambox_content.png
+ 242. file://localhost/wiki/File:Question_book-new.svg
+ 243. file://localhost/wiki/File:Penrose_triangle.svg
+ 244. file://localhost/wiki/File:Ambox_content.png
+ 245. file://localhost/wiki/File:Question_book-new.svg
+ 246. file://localhost/wiki/File:Penrose_triangle.svg
+ 247. file://localhost/wiki/Plus_and_minus_signs
+ 248. file://localhost/wiki/Obelus
+ 249. file://localhost/wiki/Multiplication_sign
+ 250. file://localhost/wiki/Main_Page
+ 251. http://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A1%D7%A7%D7%9C%D7%A7%D7%95%D7%9C%D7%99%D7%94
+ 252. http://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%A1%E1%83%99%E1%83%90%E1%83%9A%E1%83%99%E1%83%A3%E1%83%9A%E1%83%98%E1%83%90

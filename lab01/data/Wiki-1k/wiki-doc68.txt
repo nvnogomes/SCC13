@@ -1,0 +1,187 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+dnaG
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   DnaG is a bacterial [8]primase which synthesizes short RNA
+   oligonucleotides during DNA replication. These RNA oligonucleotides
+   serve as primers for DNA synthesis by bacterial DNA polymerase Pol III.
+   On one of the two parental strands, called the lagging strand, the
+   primase makes a primer every few kilobases. These primers serve a
+   substrates for synthesis of Okazaki fragments.
+
+   DnaG associates with bacterial replicative helicase [9]DnaB to perform
+   its primase activity.
+
+[[10]edit] External links
+
+     * [11]MeSH [12]dnaG+protein,+E+coli
+     * [13]MeSH [14]DnaG+(Primase)
+
+    This [15]enzyme-related article is a [16]stub. You can help Wikipedia
+   by [17]expanding it.
+   [18]v  [19]d  [20]e
+   [21]DNA replication
+   [22]Origin of replication/[23]Ori/[24]Replicon - [25]DNA clamp -
+   [26]Okazaki fragment - [27]Replication fork ([28]Lagging and
+   [29]leading strands) - [30]Single-strand binding protein - [31]Primer -
+   [32]Processivity - [33]Klenow fragment
+   [34]Pre-replication complex: [35]Helicase ([36]dnaA, [37]dnaB, [38]T7)
+   - [39]Primase (dnaG) - [40]DNA polymerase III holoenzyme ([41]dnaQ)
+   [42]DNA ligase - [43]Telomerase - [44]Topoisomerase
+   Retrieved from "[45]http://en.wikipedia.org/wiki/DnaG"
+   [46]Categories: [47]Enzyme stubs | [48]DNA replication
+
+Views
+
+     * [49]Article
+     * [50]Discussion
+     * [51]Edit this page
+     * [52]History
+
+Personal tools
+
+     * [53]Log in / create account
+
+Navigation
+
+     * [54]Main page
+     * [55]Contents
+     * [56]Featured content
+     * [57]Current events
+     * [58]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [59]About Wikipedia
+     * [60]Community portal
+     * [61]Recent changes
+     * [62]Contact Wikipedia
+     * [63]Donate to Wikipedia
+     * [64]Help
+
+Toolbox
+
+     * [65]What links here
+     * [66]Related changes
+     * [67]Upload file
+     * [68]Special pages
+     * [69]Printable version
+     * [70]Permanent link
+     * [71]Cite this page
+
+Languages
+
+     *
+
+   [72]Powered by MediaWiki
+   [73]Wikimedia Foundation
+     * This page was last modified on 7 February 2009, at 15:58.
+     * All text is available under the terms of the [74]GNU Free
+       Documentation License. (See [75]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [76]Wikimedia
+       Foundation, Inc., a U.S. registered [77]501(c)(3)
+       [78]tax-deductible [79]nonprofit [80]charity.
+     * [81]Privacy policy
+     * [82]About Wikipedia
+     * [83]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=DnaG&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc68.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc68.tmp.html#searchInput
+   8. file://localhost/wiki/Primase
+   9. file://localhost/wiki/DnaB
+  10. file://localhost/w/index.php?title=DnaG&action=edit&section=1
+  11. file://localhost/wiki/Medical_Subject_Headings
+  12. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?mode=&term=dnaG+protein,+E+coli
+  13. file://localhost/wiki/Medical_Subject_Headings
+  14. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?mode=&term=DnaG+(Primase)
+  15. file://localhost/wiki/Enzyme
+  16. file://localhost/wiki/Wikipedia:Stub
+  17. http://en.wikipedia.org/w/index.php?stub&title=DnaG&action=edit
+  18. file://localhost/wiki/Template:DNA_replication
+  19. file://localhost/w/index.php?title=Template_talk:DNA_replication&action=edit&redlink=1
+  20. http://en.wikipedia.org/w/index.php?title=Template:DNA_replication&action=edit
+  21. file://localhost/wiki/DNA_replication
+  22. file://localhost/wiki/Origin_of_replication
+  23. file://localhost/wiki/Ori_(genetics)
+  24. file://localhost/wiki/Replicon_(genetics)
+  25. file://localhost/wiki/DNA_clamp
+  26. file://localhost/wiki/Okazaki_fragment
+  27. file://localhost/wiki/Replication_fork
+  28. file://localhost/wiki/Lagging_strand
+  29. file://localhost/wiki/Leading_strand
+  30. file://localhost/wiki/Single-strand_binding_protein
+  31. file://localhost/wiki/Primer_(molecular_biology)
+  32. file://localhost/wiki/Processivity
+  33. file://localhost/wiki/Klenow_fragment
+  34. file://localhost/wiki/Pre-replication_complex
+  35. file://localhost/wiki/Helicase
+  36. file://localhost/wiki/DnaA
+  37. file://localhost/wiki/DnaB_helicase
+  38. file://localhost/wiki/T7_DNA_Helicase
+  39. file://localhost/wiki/Primase
+  40. file://localhost/wiki/DNA_polymerase_III_holoenzyme
+  41. file://localhost/wiki/DnaQ
+  42. file://localhost/wiki/DNA_ligase
+  43. file://localhost/wiki/Telomerase
+  44. file://localhost/wiki/Topoisomerase
+  45. http://en.wikipedia.org/wiki/DnaG
+  46. file://localhost/wiki/Special:Categories
+  47. file://localhost/wiki/Category:Enzyme_stubs
+  48. file://localhost/wiki/Category:DNA_replication
+  49. file://localhost/wiki/DnaG
+  50. file://localhost/wiki/Talk:DnaG
+  51. file://localhost/w/index.php?title=DnaG&action=edit
+  52. file://localhost/w/index.php?title=DnaG&action=history
+  53. file://localhost/w/index.php?title=Special:UserLogin&returnto=DnaG
+  54. file://localhost/wiki/Main_Page
+  55. file://localhost/wiki/Portal:Contents
+  56. file://localhost/wiki/Portal:Featured_content
+  57. file://localhost/wiki/Portal:Current_events
+  58. file://localhost/wiki/Special:Random
+  59. file://localhost/wiki/Wikipedia:About
+  60. file://localhost/wiki/Wikipedia:Community_portal
+  61. file://localhost/wiki/Special:RecentChanges
+  62. file://localhost/wiki/Wikipedia:Contact_us
+  63. http://wikimediafoundation.org/wiki/Donate
+  64. file://localhost/wiki/Help:Contents
+  65. file://localhost/wiki/Special:WhatLinksHere/DnaG
+  66. file://localhost/wiki/Special:RecentChangesLinked/DnaG
+  67. file://localhost/wiki/Wikipedia:Upload
+  68. file://localhost/wiki/Special:SpecialPages
+  69. file://localhost/w/index.php?title=DnaG&printable=yes
+  70. file://localhost/w/index.php?title=DnaG&oldid=269143012
+  71. file://localhost/w/index.php?title=Special:Cite&page=DnaG&id=269143012
+  72. http://www.mediawiki.org/
+  73. http://wikimediafoundation.org/
+  74. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  75. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  76. http://www.wikimediafoundation.org/
+  77. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  78. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  79. http://en.wikipedia.org/wiki/Non-profit_organization
+  80. http://en.wikipedia.org/wiki/Charitable_organization
+  81. http://wikimediafoundation.org/wiki/Privacy_policy
+  82. file://localhost/wiki/Wikipedia:About
+  83. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  84. file://localhost/wiki/File:AngiotensinCE-1O8A.png
+  85. file://localhost/wiki/Main_Page
+  86. http://ru.wikipedia.org/wiki/DnaG

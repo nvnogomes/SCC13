@@ -1,0 +1,468 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Drosophila embryogenesis
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   Drosophila has long been a favorite [8]model system for [9]geneticists
+   and [10]developmental biologists studying [11]embryogenesis. The small
+   size, short generation time, and large brood size makes it ideal for
+   genetic studies. Transparent embryos facilitate developmental studies.
+   [12]Drosophila melanogaster was introduced into the field of genetic
+   experiments by [13]Thomas Hunt Morgan in 1909.
+
+Contents
+
+     * [14]1 Life cycle
+     * [15]2 Anterior-posterior axis patterning in Drosophila
+          + [16]2.1 Maternal effect genes
+          + [17]2.2 Gap genes
+          + [18]2.3 Additional segmentation genes
+     * [19]3 Tools
+     * [20]4 See also
+     * [21]5 External links
+
+[[22]edit] Life cycle
+
+   Drosophila display a holometabolous method of development, meaning that
+   they have three distinct stages of their post-embryonic life cycle,
+   each with radically different body plans: larva, pupa and finally,
+   adult. The machinery necessary for the function and smooth transition
+   between these three phases develops during embryogenesis. During
+   [23]embryogenesis, the larval stage fly will develop and will hatch at
+   a stage of its life known as the first larval instar. Cells that will
+   produce adult structures are put aside in [24]imaginal discs. During
+   the pupal stage, the larval body breaks down as the imaginal disks grow
+   and produce the adult body. This process is called complete
+   [25]metamorphosis.
+
+   The mother fly produces [26]oocytes that already have
+   anterior-posterior and dorsal-ventral axes defined by maternal
+   activities.
+
+   Embryogenesis in Drosophila is unique among model organisms in that
+   cleavage occurs in a [27]syncytium. About 5,000 nuclei accumulate in
+   the unseparated cytoplasm of the oocyte before they migrate to the
+   surface and are encompassed by plasma membranes to form cells
+   surrounding the yolk sac. Early on, the [28]germ line segregates from
+   the somatic cells through the formation of pole cells at the posterior
+   end of the embryo.
+
+   Like other [29]triploblastic [30]metazoa, [31]gastrulation leads to the
+   formation of three [32]germ layers: the endoderm, mesoderm, and
+   ectoderm. The mesoderm invaginates from the ventral furrow (VF), as do
+   the ectoderm that will give rise to the midgut. The pole cells are
+   internalized by a different route.
+
+   Germ band elongation involves many rearrangements of cells, and the
+   appearance of distinct differences in the cells of the three germ bands
+   and various regions of the embryo. The posterior region (including the
+   hindgut) expands and extends towards the anterior pole along the dorsal
+   side of the embryo. The earliest signs of segmentation appear during
+   this phase with the formation of parasegmental furrows. This is also
+   when the tracheal pits form, the first signs of structures for
+   breathing.
+
+   Germ band retraction returns the hindgut to the dorsal side of the
+   posterior pole and coincides with overt [33]segmentation. The remaining
+   stages involve the internalization of the nervous system (ectoderm) and
+   the formation of internal organs (mainly mesoderm).
+
+[[34]edit] Anterior-posterior axis patterning in Drosophila
+
+   One of the best understood examples of pattern formation is the
+   patterning along the future head to tail (antero-posterior) axis of the
+   fruit fly [35]Drosophila melanogaster. The development of Drosophila is
+   particularly well studied, and it is representative of a major class of
+   animals, the insects or [36]insecta. Other multicellular organisms
+   sometimes use similar mechanisms for axis formation, although the
+   relative importance of signal transfer between the earliest cells of
+   many developing organisms is greater than in the example described
+   here.
+
+[[37]edit] Maternal effect genes
+
+          Further information: [38]Maternal effect
+
+   Figure 1. mRNA distributions.
+   Figure 2. Protein distributions.
+
+   The building-blocks of anterior-posterior axis patterning in Drosophila
+   are laid out during egg formation ([39]oogenesis), well before the egg
+   is fertilized and deposited. The developing egg ([40]oocyte) is
+   polarized by differentially localized [41]mRNA molecules.
+
+   The genes that code for these mRNAs, called maternal effect genes,
+   encode for proteins that get translated upon fertilization to establish
+   concentration gradients that span the egg. Bicoid and hunchback are the
+   maternal effect genes that are most important for patterning of
+   anterior parts (head and thorax) of the Drosophila embryo. Nanos and
+   Caudal are maternal effect genes that are important in the formation of
+   more posterior abdominal segments of the Drosophila embryo.
+
+   [42]Cytoskeletal elements such as [43]microtubules are polarized within
+   the oocyte and can be used to allow the localization of mRNA molecules
+   to specific parts of the cell. Maternally synthesized bicoid mRNAs
+   attach to microtubules and are concentrated at the anterior ends of
+   forming Drosophila eggs. In unfertilized eggs, transcripts are still
+   strictly localized at the tip. However, a recent report (Spirov et al.,
+   Development 136, 605-614, (2009)) has shown that immediately after
+   fertilization, an mRNA gradient is formed, due to the release of the
+   mRNA from the tip and proposed quasi-random active transport along a
+   peripheral network of microtubuli, aided by the Staufen protein.
+   Notably, an mRNA gradient was already demonstrated in 1986 to exist,
+   but was largely ignored. Figure 1 to the right is therefore incorrect
+   and needs an update: the bicoid mRNA is distrubuted as shown in Figure
+   2, i. e. the mRNA and protein gradients are virtually identical. Nanos
+   mRNAs also attach to the egg cytoskeleton but they concentrate at the
+   posterior ends of the eggs. Hunchback and caudal mRNAs lack special
+   location control systems and are fairly evenly spread throughout the
+   interior of egg cells.
+
+   When the mRNAs from the maternal effect genes are [44]translated into
+   proteins a Bicoid protein gradient forms at the anterior end of the
+   egg. Nanos protein forms a gradient at the posterior end. The Bicoid
+   protein blocks translation of caudal mRNA so Caudal protein is made
+   only in the posterior part of the cell. Nanos protein binds to the
+   hunchback mRNA and blocks its translation in the posterior end of
+   Drosophila embryos.
+
+   The Bicoid, Hunchback, and Caudal proteins are [45]transcription
+   factors. Bicoid has a DNA-binding [46]homeodomain that binds both DNA
+   and the nanos mRNA. Bicoid binds a specific RNA sequence in the [47]3'
+   untranslated region of caudal mRNA and blocks translation.
+
+   Hunchback protein levels in the early embryo are significantly
+   augmented by new hunchback gene transcription and translation of the
+   resulting [48]zygotically produced mRNA. During early Drosophila
+   embryogenesis there are nuclear divisions without cell division. The
+   many nuclei that are produced distribute themselves around the
+   periphery of the cell cytoplasm. Gene expression in these nuclei is
+   regulated by the Bicoid, Hunchback, and Caudal proteins. For example,
+   Bicoid acts as a transcriptional activator of hunchback gene
+   transcription.
+   Figure 3. bicoid gradient
+   Figure 4. nanos gradient
+
+[[49]edit] Gap genes
+
+   Figure 5. Gap genes.
+
+   The other important function of the gradients of Bicoid, Hunchback, and
+   Caudal proteins is in the transcriptional regulation of other
+   zygotically expressed proteins. Many of these are the protein products
+   derived from members of the "gap" family of developmental control
+   genes. Hunchback, krppel, giant, tailless and knirps are all gap genes.
+   Their expression patterns in the early embryo are determined by the
+   maternal effect gene products and shown in the diagrams on the right
+   side of this page. The gap genes are part of a larger family called the
+   segmentation genes. These genes establish the segmented body plan of
+   the embryo along the anterior-posterior axis. The segmentation genes
+   specify 14 "parasegments" that are closely related to the final
+   anatomical segments. The gap genes are the first layer of a
+   hierarchical cascade of the segmentation control genes.
+
+   Proteins such as Bicoid can be described as morphogens that act within
+   the [50]syncytial blastoderm of the early Drosophila embryo. These
+   intracellular morphogens enter the nuclei and act as transcription
+   factors to control expression of the gap genes.
+
+   In the blastoderm stage of Drosophila morphogenesis four types of
+   nuclear specification can be distinguished:
+     * Anterior (head and thorax)
+     * Posterior (abdomen)
+     * [51]Dorso-[52]ventral
+     * Terminal (special structures at the unsegmented ends of the embryo)
+
+[[53]edit] Additional segmentation genes
+
+   Figure 6. Pair rule.
+
+   Two additional classes of segmentation genes are expressed after the
+   gap gene products. The pair-rule genes are expressed in striped
+   patterns of seven bands perpendicular to the anterior-posterior axis
+   (see Figure 6, even-skipped). These patterns of expression are
+   established within the syncytial blastoderm. After these initial
+   patterning events, cell membranes form around the nuclei of the
+   syncytial blastoderm converting it to a cellular blastoderm.
+   Figure 7. Reciprocal signaling between Wingless and Hedgehog producing
+   cells.
+
+   The expression patterns of the final class of segmentation genes, the
+   segment polarity genes, are then fine-tuned by interactions between the
+   cells of adjacent parasegments (see the example, engrailed, Figure 7).
+   The Engrailed protein is a transcription factor (yellow in Figure 7)
+   that is expressed in one row of cells at the edge of each parasegment.
+   This expression pattern is initiated by the pair-rule genes (like
+   even-skipped) that code for transcription factors that regulate the
+   engrailed gene's transcription in the syncytial blastoderm.
+
+   Cells that make Engrailed can make the cell-to-cell signaling protein
+   [54]Hedgehog (green in Figure 7). Hedgehog is not free to move very far
+   and activates a thin stripe of cells adjacent to the
+   Engrailed-expressing cells. Only cells to one side of the
+   Engrailed-expressing cells are competent to respond to Hedgehog because
+   they express the receptor protein Patched (blue in Figure 7). Cells
+   with activated Patch receptor make the Wingless protein (red in Figure
+   7). Wingless protein acts on the adjacent rows of cells by activating
+   its cell surface receptor, Frizzled.
+
+   Wingless also acts on Engrailed-expressing cells to stabilize Engrailed
+   expression after the cellular blastoderm forms. The reciprocal
+   signaling by Hedgehog and Wingless stabilizes the boundary between each
+   segment. The Wingless protein is called "wingless" because of the
+   [55]phenotype of some wingless mutants. Wingless also functioned during
+   [56]metamorphosis to coordinate wing formation.
+
+   The transcription factors that are coded for by segmentation genes
+   regulate yet another family of developmental control genes, the
+   homeotic selector genes. These genes exist in two ordered groups on
+   Drosophila chromosome 3. The order of the genes on the chromosome
+   reflects the order that they are expressed along the anterior-posterior
+   axis of the developing embryo. The Antennapedia group of homeotic
+   selector genes includes labial, antennapedia, sex combs reduced,
+   deformed, and proboscipedia. Labial and Deformed proteins are expressed
+   in head segments where they activate the genes that define head
+   features. Sex-combs-reduced and Antennapedia specify the properties of
+   thoracic segments. The bithorax group of homeotic selector genes
+   control the specializations of the third thoracic segment and the
+   abdominal segments.
+
+   In 1995, the [57]Nobel Prize for Physiology or Medicine was awarded for
+   studies concerning the genetic control of early embryonic development
+   to [58]Christiane Nsslein-Volhard, [59]Edward B. Lewis and [60]Eric
+   Wieschaus. Their researches on genetic screening for embryo patterning
+   mutants revealed the role played in early embryologic development by
+   [61]Homeobox genes like bicoid. An example of a homeotic mutation is
+   the so-called antennapedia mutation. In Drosophila, antennae and legs
+   are created by the same basic "program", they only differ in a single
+   transcription factor. If this transcription factor is damaged, the fly
+   grows legs on its head instead of antennae. See images of this
+   "antennapedia" mutant and others, at [62]FlyBase.
+
+[[63]edit] Tools
+
+   [64]Mutagenesis allow scientists to disrupt the function of genes in
+   the fly. This is useful for studying embryogenosis.
+
+   It is fairly easy for an experienced scientist to make [65]transgenic
+   flies. This is a very useful tool and opens up many possibilities. It
+   allows the study of the role of the gene in embryogenosis.
+
+   It is possible to tag a fly protein with a fluorescent protein such as
+   [66]green fluorescent protein (GFP). This means that you can watch the
+   dynamics of the localisation of that protein. It is even possible to do
+   so in living organisms.
+
+   The fly genome has been published and is an extremely useful resource.
+   It can be used to look for the [67]homolog of genes from other
+   organisms, that are involved in embryogenosis. Once such a gene has
+   been identified in fly it will make the study of its function possible
+   and increase the understanding of the role of the gene product.
+
+[[68]edit] See also
+
+     * [69]Regional_specification#Drosophila
+     * [70]Morphogenesis
+     * [71]Pattern formation
+
+[[72]edit] External links
+
+     * Fly Move: [73]http://flymove.uni-muenster.de
+     * The Interactive Fly:
+       [74]http://www.sdbonline.org/fly/aimain/1aahome.htm
+
+   Retrieved from
+   "[75]http://en.wikipedia.org/wiki/Drosophila_embryogenesis"
+   [76]Categories: [77]Developmental biology | [78]Entomology |
+   [79]Drosophilidae
+
+Views
+
+     * [80]Article
+     * [81]Discussion
+     * [82]Edit this page
+     * [83]History
+
+Personal tools
+
+     * [84]Log in / create account
+
+Navigation
+
+     * [85]Main page
+     * [86]Contents
+     * [87]Featured content
+     * [88]Current events
+     * [89]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [90]About Wikipedia
+     * [91]Community portal
+     * [92]Recent changes
+     * [93]Contact Wikipedia
+     * [94]Donate to Wikipedia
+     * [95]Help
+
+Toolbox
+
+     * [96]What links here
+     * [97]Related changes
+     * [98]Upload file
+     * [99]Special pages
+     * [100]Printable version
+     * [101]Permanent link
+     * [102]Cite this page
+
+Languages
+
+     * [103]Espaol
+
+   [104]Powered by MediaWiki
+   [105]Wikimedia Foundation
+     * This page was last modified on 10 February 2009, at 08:46.
+     * All text is available under the terms of the [106]GNU Free
+       Documentation License. (See [107]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [108]Wikimedia
+       Foundation, Inc., a U.S. registered [109]501(c)(3)
+       [110]tax-deductible [111]nonprofit [112]charity.
+     * [113]Privacy policy
+     * [114]About Wikipedia
+     * [115]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Drosophila_embryogenesis&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#searchInput
+   8. file://localhost/wiki/Model_organism
+   9. file://localhost/wiki/Genetics
+  10. file://localhost/wiki/Developmental_biology
+  11. file://localhost/wiki/Embryogenesis
+  12. file://localhost/wiki/Drosophila_melanogaster
+  13. file://localhost/wiki/Thomas_Hunt_Morgan
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Life_cycle
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Anterior-posterior_axis_patterning_in_Drosophila
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Maternal_effect_genes
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Gap_genes
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Additional_segmentation_genes
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#Tools
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#See_also
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc418.tmp.html#External_links
+  22. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=1
+  23. file://localhost/wiki/Embryogenesis
+  24. file://localhost/wiki/Imaginal_disc
+  25. file://localhost/wiki/Metamorphosis_(biology)
+  26. file://localhost/wiki/Oocyte
+  27. file://localhost/wiki/Syncytium
+  28. file://localhost/wiki/Germ_line
+  29. file://localhost/wiki/Triploblastic
+  30. file://localhost/wiki/Metazoa
+  31. file://localhost/wiki/Gastrulation
+  32. file://localhost/wiki/Germ_layer
+  33. file://localhost/wiki/Segmentation_(biology)
+  34. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=2
+  35. file://localhost/wiki/Drosophila_melanogaster
+  36. file://localhost/wiki/Insecta
+  37. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=3
+  38. file://localhost/wiki/Maternal_effect
+  39. file://localhost/wiki/Oogenesis
+  40. file://localhost/wiki/Oocyte
+  41. file://localhost/wiki/MRNA
+  42. file://localhost/wiki/Cytoskeleton
+  43. file://localhost/wiki/Microtubule
+  44. file://localhost/wiki/Translation
+  45. file://localhost/wiki/Transcription_factors
+  46. file://localhost/wiki/Homeobox
+  47. file://localhost/wiki/3%27_UTR
+  48. file://localhost/wiki/Zygote
+  49. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=4
+  50. file://localhost/wiki/Syncytium
+  51. file://localhost/wiki/Dorsum_(biology)
+  52. file://localhost/wiki/Ventral
+  53. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=5
+  54. file://localhost/wiki/Hedgehog_(cell_signaling)
+  55. file://localhost/wiki/Phenotype
+  56. file://localhost/wiki/Metamorphosis_(biology)
+  57. file://localhost/wiki/Nobel_Prize_for_Physiology_or_Medicine
+  58. file://localhost/wiki/Christiane_N%C3%BCsslein-Volhard
+  59. file://localhost/wiki/Edward_B._Lewis
+  60. file://localhost/wiki/Eric_F._Wieschaus
+  61. file://localhost/wiki/Homeobox_gene
+  62. http://flybase.bio.indiana.edu/
+  63. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=6
+  64. file://localhost/wiki/Mutagenesis
+  65. file://localhost/wiki/Genetically_modified_organism
+  66. file://localhost/wiki/Green_fluorescent_protein
+  67. file://localhost/wiki/Homology_(biology)
+  68. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=7
+  69. file://localhost/wiki/Regional_specification#Drosophila
+  70. file://localhost/wiki/Morphogenesis
+  71. file://localhost/wiki/Pattern_formation
+  72. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit&section=8
+  73. http://flymove.uni-muenster.de/
+  74. http://www.sdbonline.org/fly/aimain/1aahome.htm
+  75. http://en.wikipedia.org/wiki/Drosophila_embryogenesis
+  76. file://localhost/wiki/Special:Categories
+  77. file://localhost/wiki/Category:Developmental_biology
+  78. file://localhost/wiki/Category:Entomology
+  79. file://localhost/wiki/Category:Drosophilidae
+  80. file://localhost/wiki/Drosophila_embryogenesis
+  81. file://localhost/wiki/Talk:Drosophila_embryogenesis
+  82. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=edit
+  83. file://localhost/w/index.php?title=Drosophila_embryogenesis&action=history
+  84. file://localhost/w/index.php?title=Special:UserLogin&returnto=Drosophila_embryogenesis
+  85. file://localhost/wiki/Main_Page
+  86. file://localhost/wiki/Portal:Contents
+  87. file://localhost/wiki/Portal:Featured_content
+  88. file://localhost/wiki/Portal:Current_events
+  89. file://localhost/wiki/Special:Random
+  90. file://localhost/wiki/Wikipedia:About
+  91. file://localhost/wiki/Wikipedia:Community_portal
+  92. file://localhost/wiki/Special:RecentChanges
+  93. file://localhost/wiki/Wikipedia:Contact_us
+  94. http://wikimediafoundation.org/wiki/Donate
+  95. file://localhost/wiki/Help:Contents
+  96. file://localhost/wiki/Special:WhatLinksHere/Drosophila_embryogenesis
+  97. file://localhost/wiki/Special:RecentChangesLinked/Drosophila_embryogenesis
+  98. file://localhost/wiki/Wikipedia:Upload
+  99. file://localhost/wiki/Special:SpecialPages
+ 100. file://localhost/w/index.php?title=Drosophila_embryogenesis&printable=yes
+ 101. file://localhost/w/index.php?title=Drosophila_embryogenesis&oldid=269733686
+ 102. file://localhost/w/index.php?title=Special:Cite&page=Drosophila_embryogenesis&id=269733686
+ 103. http://es.wikipedia.org/wiki/Embriog%C3%A9nesis_en_Drosophila
+ 104. http://www.mediawiki.org/
+ 105. http://wikimediafoundation.org/
+ 106. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 107. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 108. http://www.wikimediafoundation.org/
+ 109. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 110. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 111. http://en.wikipedia.org/wiki/Non-profit_organization
+ 112. http://en.wikipedia.org/wiki/Charitable_organization
+ 113. http://wikimediafoundation.org/wiki/Privacy_policy
+ 114. file://localhost/wiki/Wikipedia:About
+ 115. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 116. file://localhost/wiki/File:Maternal_effect_mRNAs.png
+ 117. file://localhost/wiki/File:Drosophila_early_embryo_protein_gradients.png
+ 118. file://localhost/wiki/File:Bicoid_gradient.png
+ 119. file://localhost/wiki/File:Nanos_gradient.png
+ 120. file://localhost/wiki/File:Gap_ene_expression.png
+ 121. file://localhost/wiki/File:Pair_rule.jpg
+ 122. file://localhost/wiki/File:Wingless.png
+ 123. file://localhost/wiki/Main_Page

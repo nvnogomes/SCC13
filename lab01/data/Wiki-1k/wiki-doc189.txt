@@ -1,0 +1,946 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Donald O. Hebb
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Donald Olding Hebb)
+   Jump to: [7]navigation, [8]search
+   This article includes a [9]list of references or [10]external links,
+   but its sources remain unclear because it lacks [11]inline citations.
+   Please [12]improve this article by introducing more precise citations
+   [13]where appropriate. (February 2008)
+   "Hebb" redirects here. For the record label, see [14]Hebb Records.
+   Donald Olding Hebb
+   Born July 22, 1904(1904-07-22)
+   [15]Chester, [16]Nova Scotia, [17]Canada
+   Died August 20, 1985 (aged 81)
+   Residence [18]Canada
+   Nationality [19]Canadian
+   Fields [20]Physiologist
+   Institutions [21]Montreal Neurological Institute,
+   [22]Queen's University,
+   [23]Yerkes Laboratories of Primate Biology,
+   [24]McGill University^[25][1]
+   [26]Alma mater [27]Dalhousie University,
+   [28]McGill University,
+   [29]Harvard University
+   Known for [30]Hebb synapse,
+   [31]Cell assembly theory
+      [32]Neuropsychology
+            Topics
+
+   [33]Brain-computer interface
+   [34]Traumatic brain injury
+   [35]Brain regions [36]Clinical neuropsychology
+   [37]Cognitive neuroscience [38]Human brain
+   [39]Neuroanatomy [40]Neurophysiology
+   [41]Phrenology [42]Misconceptions
+      [43]Brain functions
+
+   [44]arousal [45]attention
+   [46]consciousness [47]decision making
+   [48]executive functions [49]natural language
+   [50]learning [51]memory
+   [52]motor coordination [53]sensory perception
+   [54]planning [55]problem solving [56]thought
+            People
+
+   [57]Arthur L. Benton [58]David Bohm
+   [59]Antnio Damsio [60]Phineas Gage
+   [61]Norman Geschwind [62]Elkhonon Goldberg
+   Donald O. Hebb [63]Kenneth Heilman
+   [64]Edith Kaplan [65]Muriel Lezak
+   [66]Benjamin Libet [67]Rodolfo Llins
+   [68]Alexander Luria [69]Brenda Milner
+   [70]Karl H. Pribram [71]Oliver Sacks
+   [72]Roger W. Sperry [73]H. M. [74]K. C.
+           [75]Tests
+
+   [76]Bender-Gestalt Test
+   [77]Benton Visual Retention Test
+   [78]Clinical Dementia Rating
+   [79]Continuous Performance Task
+   [80]Glasgow Coma Scale
+   [81]Hayling and Brixton tests
+   [82]Johari window [83]Lexical decision task
+   [84]Mini-mental state examination
+   [85]Stroop effect
+   [86]Wechsler Adult Intelligence Scale
+   [87]Wisconsin card sorting
+   [88]Mind and Brain Portal
+   This box: [89]view  [90]talk  [91]edit
+
+   Donald Olding Hebb ([92]July 22, [93]1904 [94]August 20, [95]1985) was
+   a Canadian [96]psychologist who was influential in the area of
+   [97]neuropsychology, where he sought to understand how the function of
+   [98]neurons contributed to psychological processes such as
+   [99]learning. He has been described as the father of neuropsychology
+   and neural networks.
+
+Contents
+
+     * [100]1 Life
+     * [101]2 Work
+          + [102]2.1 The Organization of Behavior (1949)
+          + [103]2.2 Hebb as an educator
+          + [104]2.3 Sensory deprivation, military research, and torture
+     * [105]3 Known Students
+     * [106]4 References
+
+[[107]edit] Life
+
+   Donald Hebb was born in [108]Chester, [109]Nova Scotia, the oldest of
+   four children of Arthur M. and M. Clara (Olding) Hebb, and lived there
+   until the age of 16, when his parents moved to [110]Dartmouth, Nova
+   Scotia.
+
+   Donald's parents were both physicians. Donald's mother was heavily
+   influenced by the ideas of [111]Maria Montessori, and she home schooled
+   him until the age of 8. He performed so well in elementary school that
+   he was promoted to the 7th grade at 10 years of age. Although his
+   rebellious attitude and disrespect for authority may have contributed
+   to his failing the 11th grade, he graduated from the 12th grade two
+   years later. (At that time in Chester, the 9th, 10th and 11th grades
+   were taught in the same classroom by the same teacher. The year Donald
+   failed the 11th grade, most (almost all?) of the students in the three
+   grades failed the provincial exams and hence their year. Those failing
+   the 9th and 10th years were moved to the next grade despite their
+   failures. There was no 12th grade in Chester for Donald to be moved to
+   and so he repeated the 11th grade. The following year, then living in
+   Dartmouth, he successfully completed the 12th grade at Halifax County
+   Academy in Halifax.)
+
+   The older of Donald's younger brothers, Andrew, obtained a law degree
+   but went on to a career in journalism and then insurance. Donald's
+   youngest brother, Peter, became a physician like his parents. And his
+   sister, Catherine, eventually became a prominent physiologist. But
+   Donald, early in life, had no aspirations toward psychology or the
+   medical field; rather, he wanted to be a writer. He entered
+   [112]Dalhousie University aiming to become a novelist. He wasn't an
+   exceptional student (his best subjects were math and science) but he
+   graduated with a [113]Bachelor of Arts degree in 1925. Afterward, he
+   became a teacher, teaching at his old school in Chester. Later, he
+   became a farmer in [114]Alberta and then traveled around, working as a
+   laborer in [115]Quebec. During his travels he encountered the works of
+   [116]Sigmund Freud (which he regarded as "not too rigorous"),
+   [117]William James, and [118]John B. Watson which made him consider
+   joining the field of psychology.
+
+   At the age of 23, he decided to enter the field of psychology. He asked
+   [119]William Dunlop Tait, the chairman of the pychology department at
+   [120]McGill University (a post Hebb would one day hold) what he'd have
+   to do to get in and was given a reading list and told to come back in a
+   year's time. During this year of study, he went back to teaching.
+
+   In 1928, he became a part-time graduate student at McGill University.
+   But, at the same time, he was appointed headmaster of a troubled school
+   in the suburbs of [121]Montreal. He worked with two colleagues from the
+   university, Kellogg and Clarke, to improve the situation. He took a
+   more innovative approach to educationfor example, assigning more
+   interesting schoolwork and sending anyone misbehaving outside (making
+   schoolwork a privilege).
+
+   In 1931, Hebb became bedridden because of [122]tuberculosis in his hip.
+   He used the time to read [123]Charles Scott Sherrington's [124]The
+   Integrative Action of the Nervous System and [125]Ivan Pavlov's
+   [126]Conditioned Reflexes. His master's thesis, written later that
+   year, titled Conditioned and Unconditioned Reflexes and Inhibition,
+   tried to show that skeletal reflexes were due to cellular learning.
+   This he later dismissed as "nonsense, but no immediate disproof was
+   available at the time." And yet, one of the men who later approved the
+   thesis, [127]Boris Babkin, had worked with Pavlov himself. At the very
+   least, the thesis demonstrated the start of a thought process that
+   would later lead to the [128]Hebb synapse. Hebb passed [129]cum laude.
+   Babkin arranged for Hebb to do research on conditioning with
+   [130]Leonid Andreyev, another former member of Pavlov's laboratory.
+
+   Between 1933 and 1934, Hebb wrote a booklet titled Scientific Method in
+   Psychology: A Theory of Epistemology Based on Objective Psychology. It
+   was never published, but it contained many ideas that would become part
+   of his later work.
+
+   By the beginning of 1934, Hebb's life was in a slump. His wife had
+   died, following a car accident, on his twenty-ninth birthday (July 22,
+   1933). His work at the Montreal school was going badly. In his words,
+   it was "defeated by the rigidity of the curriculum in Quebec's
+   protestant schools." The focus of study at McGill was more in the
+   direction of education and intelligence, and Hebb was now more
+   interested in physiological psychology and was critical of the
+   methodology of the experiments there.
+
+   He decided to leave Montreal and wrote to Robert Yerkes at Yale where
+   he was offered a position to study for a [131]PhD. Babkin, however,
+   convinced Hebb to go study with [132]Karl Lashley instead.
+
+   In July 1934, Hebb was accepted to study under Karl Lashley at the
+   [133]University of Chicago. His thesis was titled "The problem of
+   spatial orientation and place learning". Hebb, along with two other
+   students, followed Lashley to [134]Harvard University in September,
+   1935. Here, he had to change his thesis. At Harvard, he did his thesis
+   research on the effects of early visual deprivation upon size and
+   brightness perception in a rat. That is, he raised rats in the dark and
+   some in the light and compared their brains. In 1936, he got his PhD
+   from Harvard.
+
+   The next year he worked as a research assistant to Lashley and as a
+   teaching assistant in introductory psychology for [135]Edwin G. Boring
+   at [136]Radcliffe College. His Harvard thesis was soon published, and
+   he finished the thesis he started at University of Chicago.
+
+   In 1937, Hebb married his second wife, Elizabeth Nichols Donovan. That
+   same year, on a tip from his sister Catherine (herself a PhD student
+   with Babkin at McGill University), he applied to work with [137]Wilder
+   Penfield at the [138]Montreal Neurological Institute. Here he
+   researched the effect of brain surgery and injury on human brain
+   function. He saw that the brain of a child could regain partial or full
+   function when a portion of it is removed but that similar damage in an
+   adult could be far more damaging, even catastrophic. From this, he
+   deduced the prominent role that external stimulation played in the
+   thought processes of adults. In fact, the lack of this stimulation, he
+   showed, caused diminished function and sometimes [139]hallucinations.
+
+   He also became critical of the [140]Stanford-Binet and [141]Wechsler
+   intelligence tests for use with brain surgery patients. These tests
+   were designed to measure overall intelligence, whereas Hebb believed
+   tests should be designed to measure more specific effects that surgery
+   could have had on the patient. Together with N.W. Morton, he created
+   the [142]Adult Comprehension Test and the [143]Picture Anomaly Test.
+
+   Putting the Picture Anomaly Test to use, he provided the first
+   indication that the right temporal lobe was involved in visual
+   recognition. He also showed that removal of large parts of the frontal
+   lobe had little effect on intelligence. In fact, in one adult patient,
+   who had a large portion of his frontal lobes removed in order to treat
+   his [144]epilepsy, he noted "a striking post-operative improvement in
+   personality and intellectual capacity." From these sorts of results, he
+   started to believe that the frontal lobes were instrumental in learning
+   only early in life.
+
+   In 1939, he was appointed to a teaching position at [145]Queen's
+   University. In order to test his theory of the changing role of the
+   frontal lobes with age, he designed a variable path maze for rats with
+   [146]Kenneth Williams called the [147]Hebb-Williams maze, a method for
+   testing animal intelligence later used in countless studies. He used
+   the maze to test the intelligence of rats blinded at different
+   developmental stages, showing that "there is a lasting effect of infant
+   experience on the problem-solving ability of the adult rat." This
+   became one of the main principles of [148]developmental psychology,
+   later helping those arguing the importance of the proposed [149]Head
+   Start programs for preschool children in economically poor
+   neighborhoods.
+
+   In 1942, he moved to [150]Orange Park, Florida to once again work with
+   Karl Lashley who had replaced Yerkes as the Director of the Yerkes
+   Laboratories of Primate Biology at the [151]Yerkes National Primate
+   Research Center. Here, studying primate behavior, Hebb developed
+   emotional tests for [152]chimpanzees. The experiments were somewhat
+   unsuccessful, however because chimpanzees turned out to be hard to
+   teach. During the course of the work there, Hebb wrote [153]The
+   Organization of Behavior: A Neuropsychological Theory, his
+   ground-breaking book that set forth the theory that the only way to
+   explain behavior was in terms of brain function.
+
+   Afterward, he returned to [154]McGill University to become a professor
+   of psychology in 1947 and was made chairman of the department in 1948.
+   Here he once again worked with Penfield, but this time through his
+   students, which included [155]Mortimer Mishkin, [156]Haldor Enger
+   Rosvold, and [157]Brenda Milner, all of whom extended his earlier work
+   with Penfield on the human brain.
+
+   His wife Elizabeth died in 1962. In 1966, Hebb married his third wife,
+   Margaret Doreen Wright (ne Williamson), a widow.
+
+   Hebb remained at McGill until retirement in 1972. He remained at McGill
+   after retirement for a few years, in the Department of Psychology as an
+   emeritus professor, conducting a seminar course required of all
+   department graduate students. Afterward, in 1980, he returned to
+   Dalhousie University as [158]professor emeritus of psychology.
+
+   Hebb was a member of the [159]American Psychological Association (APA)
+   and was its president in 1960. He won the APA Distinguished Scientific
+   Contribution Award in 1961.
+
+   Donald Hebb died in 1985, two years after his wife, in Nova Scotia. He
+   was survived by two daughters (both by his second marriage), Mary Ellen
+   Hebb and Jane Hebb Paul.
+
+   The [160]Donald O. Hebb Award, named in his honor, is awarded to
+   distinguished Canadian scientists.
+
+[[161]edit] Work
+
+[[162]edit] The Organization of Behavior (1949)
+
+   "The Organization of Behavior" is considered Hebb's most important
+   book. A combination of his years of work in brain surgery mixed with
+   his study of human behavior, it finally brought together the two realms
+   of human perception that for a long time could not be connected
+   properly. That is, it connected the biological function of the brain as
+   an organ together with the higher function of the mind.
+
+   There were many theories on how the brain and the mind were connected.
+   Pavlovian theories, for example, were based on a theory of stimulus and
+   response, based on the belief that a path existed from sensory organs
+   to the mind, which then made a response. The problem with the theory
+   was that it was assumed that signals travel one way to the brain. It
+   could not explain all the extra processing that adds to the input
+   signals of human senses. Perhaps this was based on the fact that
+   neurons themselves transmit in only one direction, but connections
+   between various neurons are not necessarily one-way.
+
+   In 1929, [163]Hans Berger discovered that the mind exhibits continuous
+   electrical activity and cast doubt on the Pavlovian model of perception
+   and response because, now, there appeared to be something going on in
+   the brain even without much stimulus.
+
+   At the same time, there were many mysteries. For example, if there was
+   a method for the brain to recognize a circle, how does it recognize
+   circles of various sizes or imperfect roundness? To accommodate every
+   single possible circle that could exist, the brain would need a far
+   greater capacity than it has.
+
+   Another theory, the [164]Gestalt theory, stated that signals to the
+   brain established a sort of field. The form of this field depended only
+   on the pattern of the inputs, but it still could not explain how this
+   field was understood by the mind.
+
+   The behaviorist theories at the time did well at explaining how the
+   processing of patterns happened. However, they could not account for
+   how these patterns made it into the mind.
+
+   Hebb combined up-to-date data about behavior and the mind into a single
+   theory. And, while the understanding of the anatomy of the brain did
+   not advance much since the development of the older theories on the
+   operation of the brain, he was still able to piece together a theory
+   that got a lot of the important functions of the brain right.
+
+   His theory became known as [165]Hebbian theory and the models which
+   follow this theory are said to exhibit [166]Hebbian learning. This
+   method of learning is best expressed by this quote from the book:
+
+          When an axon of cell A is near enough to excite cell B and
+          repeatedly or persistently takes part in firing it, some growth
+          process or metabolic change takes place in one or both cells
+          such that A's efficiency, as one of the cells firing B, is
+          increased
+
+   This is often paraphrased as "Neurons that fire together wire
+   together." It is commonly referred to as Hebb's Law.
+
+   The combination of neurons which could be grouped together as one
+   processing unit, Hebb referred to as "cell-assemblies". And their
+   combination of connections made up the ever-changing algorithm which
+   dictated the brain's response to stimuli.
+
+   Not only did Hebb's model for the working of the mind influence how
+   psychologists understood the processing of stimuli within the mind but
+   also it opened up the way for the creation of computational machines
+   that mimicked the biological processes of a living nervous system. And
+   while the dominant form of synaptic transmission in the nervous system
+   was later found to be chemical, modern [167]artificial neural networks
+   are still based on the transmission of signals via electrical impulses
+   that Hebbian theory was first designed around.
+
+[[168]edit] Hebb as an educator
+
+   Throughout his life Hebb enjoyed teaching and was very successful as a
+   teacher. Both in his early years as a teacher and a headmaster in a
+   Montreal school and in his later years at McGill University, he proved
+   to be a very effective educator and a great influence on the scientific
+   minds which were then his students.
+
+   As a professor at McGill, he believed that one could not teach
+   motivation, but rather create the conditions necessary for students
+   under which to do their study and research. One could train them to
+   write, help them choose a problem to study, and even help keep them
+   from being distracted, but the motivation and passion for research and
+   study had to come from the students themselves. He believed that
+   students should be evaluated on their ability to think and create
+   rather than their ability to memorize and reprocess older ideas.
+
+   Hebb believed in a very objective study of the human mind, more as a
+   study of a biological science. This attitude toward psychology and the
+   way it is taught made McGill University a prominent center of
+   psychological study.
+
+   Hebb also came up with the [169]A/S ratio, a value that measures the
+   brain complexity of an organism.
+
+[[170]edit] Sensory deprivation, military research, and torture
+
+   Hebb's name has often been invoked in discussions of the involvement of
+   psychological researchers in interrogation techniques, including the
+   use of sensory deprivation, because of his research into this field.
+   Speaking at a Harvard symposium on sensory deprivation in June, 1958,
+   Dr.Hebb is quoted as remarking:
+
+     The work that we have done at McGill University began, actually,
+     with the problem of brainwashing. We were not permitted to say so in
+     the first publishing.... The chief impetus, of course, was the
+     dismay at the kind of confessions being produced at the Russian
+     Communist trials. Brainwashing was a term that came a little later,
+     applied to Chinese procedures. We did not know what the Russian
+     procedures were, but it seemed that they were producing some
+     peculiar changes of attitude. How? One possible factor was
+     perceptual isolation and we concentrated on that. ^[171][2]
+
+   Recent research has argued that Dr. Hebb's sensory deprivation research
+   was funded by and coordinated with the CIA (McCoy, 2007). Some of this
+   research was done in secret, and the results were initially shared only
+   with U.S. authorities. Some of this research involved human subjects
+   that were put through hours of sensory deprivation treatments that by
+   today's standards would be considered torture^[[172]citation needed].
+
+[[173]edit] Known Students
+
+     * [174]M. Philip Bryden
+     * [175]Donald Forgays
+     * [176]Stevan Harnad
+     * [177]Woodburn Heron
+     * [178]Bernard Hymovitch
+     * [179]W. Jake Jacobs
+     * [180]Doreen Kimura
+     * [181]Helen Mahut
+     * [182]Ronald Melzack
+     * [183]Brenda Milner
+     * [184]Peter Milner
+     * [185]Mortimer Mishkin
+     * [186]Gordon Mogenson
+     * [187]Aryeh Routtenberg
+     * [188]Seth Sharpless
+     * [189]Case Vanderwolf
+
+[[190]edit] References
+
+    1. [191]^ [192]Biographies of Donald Olding Hebb
+    2. [193]^ Solomon, P., Kubzansky, Philip E., Leiderman, P. Herbert,
+       Mendelson, Jack H., Trumbull, Richard, & Wexler, Donald , Eds.
+       (1961). Sensory Deprivation: A Symposium Held at Harvard Medical
+       School. Cambridge, MA, Harvard University Press.
+
+     * [194]"The Hebb Legacy". Canadian Journal of Experimental
+       Psychology. [195]http://www.cpa.ca/Psynopsis/special_eng.html.
+       Retrieved on 8 March 2006.
+     * "Hebb, Donald O. (1904-1985)" (2 ed.). 2001.
+     * [196]"Donald Hebb Biography". Great Canadian Psychology Website.
+       [197]http://www.psych.ualberta.ca/~gcpws/Hebb/Hebb.html. Retrieved
+       on 9 March 2006.
+     * Richard E. Brown & Peter M. Milner (December 2003). "[198]The
+       Legacy Of Donald O. Hebb: More Than The Hebb Synapse". Nature 4:
+       10131019.
+       [199]http://www.nature.com/nrn/journal/v4/n12/full/nrn1257.html.
+     * [200]"Donald Hebb (1904 - 1985)". Harnad E-Print Archive and
+       Psycoloquy and BBS Journal Archives.
+       [201]http://www.ecs.soton.ac.uk/~harnad/Archive/hebb.html.
+       Retrieved on 18 March 2006.
+     * Alfred W. McCoy (2007). "Science in Dachau's Shadow: Hebb, Beecher,
+       and the Development of CIA Psychological Torture and Modern Medical
+       Ethics". Journal of the History of the Behavioral Sciences (Wiley
+       Interscience) 43 (4): 401-417.
+
+                                      Academic offices
+   Preceded by
+   [202]Howard Irwin Ross [203]Chancellor of [204]McGill University
+   19701974 Succeeded by
+   [205]Stuart Milner Finlayson
+   [206]v  [207]d  [208]e
+   [209]Psychology
+   [210]History  [211]Portal  [212]Psychologist
+   Research
+   [213]Affective   [214]Biological  [215]Clinical  [216]Cognitive
+   [217]Cognitive neuroscience  [218]Comparative  [219]Developmental
+   [220]Emotion  [221]Evolutionary  [222]Experimental  [223]Mathematical
+   [224]Neuropsychology  [225]Personality  [226]Physiological
+   [227]Positive  [228]Psycholinguistics  [229]Psychopathology
+   [230]Psychophysics  [231]Psychophysiology  [232]Qualitative research
+   [233]Quantitative research  [234]Social  [235]Theoretical
+   [236]Psi
+   Applied
+   [237]Assessment  [238]Clinical  [239]Counseling  [240]Educational
+   [241]Forensic  [242]Health  [243]Industrial/organizational  [244]Legal
+   [245]Media  [246]Military  [247]Occupational health
+   [248]Psychometrics  [249]Relationship counseling  [250]School
+   [251]Sport  [252]Systems
+   Orientations
+   [253]Analytical  [254]Behaviorism  [255]Cognitive behavioral therapy
+   [256]Cognitivism  [257]Descriptive  [258]Ecological systems theory
+   [259]Existential therapy  [260]Family therapy  [261]Feminist therapy
+   [262]Gestalt therapy  [263]Humanistic  [264]Narrative therapy
+   [265]Psychoanalysis  [266]Psychodynamic psychotherapy  [267]Rational
+   emotive behavior therapy  [268]Transpersonal
+   Eminent
+   psychologists
+   [269]Gordon Allport  [270]Albert Bandura  [271]Raymond Cattell
+   [272]Erik Erikson  [273]Hans Eysenck  [274]Leon Festinger  [275]Sigmund
+   Freud  Donald O. Hebb  [276]Clark L. Hull  [277]William James
+   [278]Carl Jung  [279]Jerome Kagan  [280]Kurt Lewin  [281]Abraham
+   Maslow  [282]David McClelland  [283]George A. Miller  [284]Neal E.
+   Miller  [285]Walter Mischel  [286]Ivan Pavlov  [287]Jean Piaget
+   [288]Carl Rogers  [289]Stanley Schachter  [290]B. F. Skinner
+   [291]Edward Thorndike  [292]John B. Watson
+   Lists
+   [293]Counseling topics  [294]Important publications in psychology
+   [295]Psychological research methods  [296]Psychological schools
+   [297]Psychologists  [298]Psychology disciplines  [299]Psychology
+   organizations  [300]Psychology topics  [301]Psychotherapies
+   [302]Timeline of psychology
+   [303]Wiktionary definition  [304]Wikisource  [305]Wikimedia Commons
+   [306]Wikiquote  [307]Wikinews  [308]Wikibooks
+   Retrieved from "[309]http://en.wikipedia.org/wiki/Donald_O._Hebb"
+   [310]Categories: [311]1904 births | [312]1985 deaths | [313]Canadian
+   neuroscientists | [314]Canadian psychologists | [315]Cognitive
+   neuroscientists | [316]Neuropsychologists | [317]Canadians of German
+   descent | [318]Chancellors of McGill University | [319]History of
+   neuroscience | [320]People from Lunenburg County, Nova Scotia |
+   [321]Harvard University alumni | [322]McGill University faculty |
+   [323]Canadian expatriate academics in the United States
+   Hidden categories: [324]Articles lacking in-text citations | [325]All
+   articles with unsourced statements | [326]Articles with unsourced
+   statements since October 2008
+
+Views
+
+     * [327]Article
+     * [328]Discussion
+     * [329]Edit this page
+     * [330]History
+
+Personal tools
+
+     * [331]Log in / create account
+
+Navigation
+
+     * [332]Main page
+     * [333]Contents
+     * [334]Featured content
+     * [335]Current events
+     * [336]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [337]About Wikipedia
+     * [338]Community portal
+     * [339]Recent changes
+     * [340]Contact Wikipedia
+     * [341]Donate to Wikipedia
+     * [342]Help
+
+Toolbox
+
+     * [343]What links here
+     * [344]Related changes
+     * [345]Upload file
+     * [346]Special pages
+     * [347]Printable version
+     * [348]Permanent link
+     * [349]Cite this page
+
+Languages
+
+     *
+     * [350]Deutsch
+     * [351]Espaol
+     * [352]Franais
+     * [353]Italiano
+     * [354]Magyar
+     * [355]Nederlands
+     *
+     * [356]Portugus
+
+   [357]Powered by MediaWiki
+   [358]Wikimedia Foundation
+     * This page was last modified on 10 February 2009, at 07:54.
+     * All text is available under the terms of the [359]GNU Free
+       Documentation License. (See [360]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [361]Wikimedia
+       Foundation, Inc., a U.S. registered [362]501(c)(3)
+       [363]tax-deductible [364]nonprofit [365]charity.
+     * [366]Privacy policy
+     * [367]About Wikipedia
+     * [368]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Donald_O._Hebb&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Donald_Olding_Hebb&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:External_links
+  11. file://localhost/wiki/Wikipedia:Citing_sources#Inline_citations
+  12. file://localhost/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check
+  13. file://localhost/wiki/Wikipedia:When_to_cite
+  14. file://localhost/wiki/Hebb_Records
+  15. file://localhost/wiki/Chester,_Nova_Scotia
+  16. file://localhost/wiki/Nova_Scotia
+  17. file://localhost/wiki/Canada
+  18. file://localhost/wiki/Canada
+  19. file://localhost/wiki/Canada
+  20. file://localhost/wiki/Physiology
+  21. file://localhost/wiki/Montreal_Neurological_Institute
+  22. file://localhost/wiki/Queen%27s_University
+  23. file://localhost/wiki/Yerkes_National_Primate_Research_Center
+  24. file://localhost/wiki/McGill_University
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#cite_note-0
+  26. file://localhost/wiki/Alma_mater
+  27. file://localhost/wiki/Dalhousie_University
+  28. file://localhost/wiki/McGill_University
+  29. file://localhost/wiki/Harvard_University
+  30. file://localhost/wiki/Hebb_synapse
+  31. file://localhost/wiki/Hebbian_theory
+  32. file://localhost/wiki/Neuropsychology
+  33. file://localhost/wiki/Brain-computer_interface
+  34. file://localhost/wiki/Traumatic_brain_injury
+  35. file://localhost/wiki/List_of_regions_in_the_human_brain
+  36. file://localhost/wiki/Clinical_neuropsychology
+  37. file://localhost/wiki/Cognitive_neuroscience
+  38. file://localhost/wiki/Human_brain
+  39. file://localhost/wiki/Neuroanatomy
+  40. file://localhost/wiki/Neurophysiology
+  41. file://localhost/wiki/Phrenology
+  42. file://localhost/wiki/List_of_misconceptions_about_the_brain
+  43. file://localhost/wiki/Brain_function
+  44. file://localhost/wiki/Arousal
+  45. file://localhost/wiki/Attention
+  46. file://localhost/wiki/Consciousness
+  47. file://localhost/wiki/Decision_making
+  48. file://localhost/wiki/Executive_functions
+  49. file://localhost/wiki/Natural_language
+  50. file://localhost/wiki/Learning
+  51. file://localhost/wiki/Memory
+  52. file://localhost/wiki/Motor_coordination
+  53. file://localhost/wiki/Sensory_perception
+  54. file://localhost/wiki/Planning
+  55. file://localhost/wiki/Problem_solving
+  56. file://localhost/wiki/Thought
+  57. file://localhost/wiki/Arthur_L._Benton
+  58. file://localhost/wiki/David_Bohm
+  59. file://localhost/wiki/Ant%C3%B3nio_Dam%C3%A1sio
+  60. file://localhost/wiki/Phineas_Gage
+  61. file://localhost/wiki/Norman_Geschwind
+  62. file://localhost/wiki/Elkhonon_Goldberg
+  63. file://localhost/wiki/Kenneth_Heilman
+  64. file://localhost/wiki/Edith_Kaplan
+  65. file://localhost/wiki/Muriel_Lezak
+  66. file://localhost/wiki/Benjamin_Libet
+  67. file://localhost/wiki/Rodolfo_Llin%C3%A1s
+  68. file://localhost/wiki/Alexander_Luria
+  69. file://localhost/wiki/Brenda_Milner
+  70. file://localhost/wiki/Karl_H._Pribram
+  71. file://localhost/wiki/Oliver_Sacks
+  72. file://localhost/wiki/Roger_Wolcott_Sperry
+  73. file://localhost/wiki/HM_(patient)
+  74. file://localhost/wiki/KC_(patient)
+  75. file://localhost/wiki/Neuropsychological_test
+  76. file://localhost/wiki/Bender-Gestalt_Test
+  77. file://localhost/wiki/Benton_Visual_Retention_Test
+  78. file://localhost/wiki/Clinical_Dementia_Rating
+  79. file://localhost/wiki/Continuous_Performance_Task
+  80. file://localhost/wiki/Glasgow_Coma_Scale
+  81. file://localhost/wiki/Hayling_and_Brixton_tests
+  82. file://localhost/wiki/Johari_window
+  83. file://localhost/wiki/Lexical_decision_task
+  84. file://localhost/wiki/Mini-mental_state_examination
+  85. file://localhost/wiki/Stroop_effect
+  86. file://localhost/wiki/Wechsler_Adult_Intelligence_Scale
+  87. file://localhost/wiki/Wisconsin_card_sort
+  88. file://localhost/wiki/Portal:Mind_and_Brain
+  89. file://localhost/wiki/Template:Neuropsychology
+  90. file://localhost/wiki/Template_talk:Neuropsychology
+  91. http://en.wikipedia.org/w/index.php?title=Template:Neuropsychology&action=edit
+  92. file://localhost/wiki/July_22
+  93. file://localhost/wiki/1904
+  94. file://localhost/wiki/August_20
+  95. file://localhost/wiki/1985
+  96. file://localhost/wiki/Psychologist
+  97. file://localhost/wiki/Neuropsychology
+  98. file://localhost/wiki/Neuron
+  99. file://localhost/wiki/Learning
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#Life
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#Work
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#The_Organization_of_Behavior_.281949.29
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#Hebb_as_an_educator
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#Sensory_deprivation.2C_military_research.2C_and_torture
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#Known_Students
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#References
+ 107. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=1
+ 108. file://localhost/wiki/Chester,_Nova_Scotia
+ 109. file://localhost/wiki/Nova_Scotia
+ 110. file://localhost/wiki/Dartmouth,_Nova_Scotia
+ 111. file://localhost/wiki/Maria_Montessori
+ 112. file://localhost/wiki/Dalhousie_University
+ 113. file://localhost/wiki/Bachelor_of_Arts
+ 114. file://localhost/wiki/Alberta
+ 115. file://localhost/wiki/Quebec
+ 116. file://localhost/wiki/Sigmund_Freud
+ 117. file://localhost/wiki/William_James
+ 118. file://localhost/wiki/John_B._Watson
+ 119. file://localhost/w/index.php?title=William_Dunlop_Tait&action=edit&redlink=1
+ 120. file://localhost/wiki/McGill_University
+ 121. file://localhost/wiki/Montreal,_Quebec
+ 122. file://localhost/wiki/Tuberculosis
+ 123. file://localhost/wiki/Charles_Scott_Sherrington
+ 124. file://localhost/w/index.php?title=The_Integrative_Action_of_the_Nervous_System&action=edit&redlink=1
+ 125. file://localhost/wiki/Ivan_Pavlov
+ 126. file://localhost/w/index.php?title=Conditioned_Reflexes&action=edit&redlink=1
+ 127. file://localhost/w/index.php?title=Boris_Babkin&action=edit&redlink=1
+ 128. file://localhost/wiki/Hebb_synapse
+ 129. file://localhost/wiki/Cum_laude
+ 130. file://localhost/wiki/Leonid_Andreyev
+ 131. file://localhost/wiki/PhD
+ 132. file://localhost/wiki/Karl_Lashley
+ 133. file://localhost/wiki/University_of_Chicago
+ 134. file://localhost/wiki/Harvard
+ 135. file://localhost/wiki/Edwin_G._Boring
+ 136. file://localhost/wiki/Radcliffe_College
+ 137. file://localhost/wiki/Wilder_Penfield
+ 138. file://localhost/wiki/Montreal_Neurological_Institute
+ 139. file://localhost/wiki/Hallucination
+ 140. file://localhost/wiki/Stanford-Binet_IQ_test
+ 141. file://localhost/wiki/Wechsler_Adult_Intelligence_Scale
+ 142. file://localhost/w/index.php?title=Adult_Comprehension_Test&action=edit&redlink=1
+ 143. file://localhost/w/index.php?title=Picture_Anomaly_Test&action=edit&redlink=1
+ 144. file://localhost/wiki/Epilepsy
+ 145. file://localhost/wiki/Queen%27s_University
+ 146. file://localhost/wiki/Kenneth_Williams
+ 147. file://localhost/w/index.php?title=Hebb-Williams_maze&action=edit&redlink=1
+ 148. file://localhost/wiki/Developmental_psychology
+ 149. file://localhost/wiki/Head_Start
+ 150. file://localhost/wiki/Orange_Park,_Florida
+ 151. file://localhost/wiki/Yerkes_National_Primate_Research_Center
+ 152. file://localhost/wiki/Chimpanzees
+ 153. file://localhost/w/index.php?title=The_Organization_of_Behavior:_A_Neuropsychological_Theory&action=edit&redlink=1
+ 154. file://localhost/wiki/McGill_University
+ 155. file://localhost/w/index.php?title=Mortimer_Mishkin&action=edit&redlink=1
+ 156. file://localhost/w/index.php?title=Haldor_Enger_Rosvold&action=edit&redlink=1
+ 157. file://localhost/wiki/Brenda_Milner
+ 158. file://localhost/wiki/Professor_emeritus
+ 159. file://localhost/wiki/American_Psychological_Association
+ 160. file://localhost/w/index.php?title=Donald_O._Hebb_Award&action=edit&redlink=1
+ 161. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=2
+ 162. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=3
+ 163. file://localhost/wiki/Hans_Berger
+ 164. file://localhost/wiki/Gestalt_psychology
+ 165. file://localhost/wiki/Hebbian_theory
+ 166. file://localhost/wiki/Hebbian_learning
+ 167. file://localhost/wiki/Artificial_neural_network
+ 168. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=4
+ 169. file://localhost/wiki/A/S_ratio
+ 170. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=5
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#cite_note-1
+ 172. file://localhost/wiki/Wikipedia:Citation_needed
+ 173. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=6
+ 174. file://localhost/w/index.php?title=M._Philip_Bryden&action=edit&redlink=1
+ 175. file://localhost/w/index.php?title=Donald_Forgays&action=edit&redlink=1
+ 176. file://localhost/wiki/Stevan_Harnad
+ 177. file://localhost/w/index.php?title=Woodburn_Heron&action=edit&redlink=1
+ 178. file://localhost/w/index.php?title=Bernard_Hymovitch&action=edit&redlink=1
+ 179. file://localhost/w/index.php?title=W._Jake_Jacobs&action=edit&redlink=1
+ 180. file://localhost/wiki/Doreen_Kimura
+ 181. file://localhost/w/index.php?title=Helen_Mahut&action=edit&redlink=1
+ 182. file://localhost/wiki/Ronald_Melzack
+ 183. file://localhost/wiki/Brenda_Milner
+ 184. file://localhost/w/index.php?title=Peter_Milner&action=edit&redlink=1
+ 185. file://localhost/w/index.php?title=Mortimer_Mishkin&action=edit&redlink=1
+ 186. file://localhost/w/index.php?title=Gordon_Mogenson&action=edit&redlink=1
+ 187. file://localhost/w/index.php?title=Aryeh_Routtenberg&action=edit&redlink=1
+ 188. file://localhost/w/index.php?title=Seth_Sharpless&action=edit&redlink=1
+ 189. file://localhost/w/index.php?title=Case_Vanderwolf&action=edit&redlink=1
+ 190. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit&section=7
+ 191. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#cite_ref-0
+ 192. http://www.mcgill.ca/hebb/biographies/
+ 193. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc189.tmp.html#cite_ref-1
+ 194. http://www.cpa.ca/Psynopsis/special_eng.html
+ 195. http://www.cpa.ca/Psynopsis/special_eng.html
+ 196. http://www.psych.ualberta.ca/~gcpws/Hebb/Hebb.html
+ 197. http://www.psych.ualberta.ca/~gcpws/Hebb/Hebb.html
+ 198. http://www.nature.com/nrn/journal/v4/n12/full/nrn1257.html
+ 199. http://www.nature.com/nrn/journal/v4/n12/full/nrn1257.html
+ 200. http://www.ecs.soton.ac.uk/~harnad/Archive/hebb.html
+ 201. http://www.ecs.soton.ac.uk/~harnad/Archive/hebb.html
+ 202. file://localhost/wiki/Howard_Irwin_Ross
+ 203. file://localhost/wiki/Chancellor_(education)
+ 204. file://localhost/wiki/McGill_University
+ 205. file://localhost/w/index.php?title=Stuart_Milner_Finlayson&action=edit&redlink=1
+ 206. file://localhost/wiki/Template:Psychology
+ 207. file://localhost/wiki/Template_talk:Psychology
+ 208. http://en.wikipedia.org/w/index.php?title=Template:Psychology&action=edit
+ 209. file://localhost/wiki/Psychology
+ 210. file://localhost/wiki/History_of_psychology
+ 211. file://localhost/wiki/Portal:Psychology
+ 212. file://localhost/wiki/Psychologist
+ 213. file://localhost/wiki/Affect_(psychology)
+ 214. file://localhost/wiki/Biological_psychology
+ 215. file://localhost/wiki/Clinical_psychology
+ 216. file://localhost/wiki/Cognitive_psychology
+ 217. file://localhost/wiki/Cognitive_neuroscience
+ 218. file://localhost/wiki/Comparative_psychology
+ 219. file://localhost/wiki/Developmental_psychology
+ 220. file://localhost/wiki/Emotion
+ 221. file://localhost/wiki/Evolutionary_psychology
+ 222. file://localhost/wiki/Experimental_psychology
+ 223. file://localhost/wiki/Mathematical_psychology
+ 224. file://localhost/wiki/Neuropsychology
+ 225. file://localhost/wiki/Personality_psychology
+ 226. file://localhost/wiki/Physiological_psychology
+ 227. file://localhost/wiki/Positive_psychology
+ 228. file://localhost/wiki/Psycholinguistics
+ 229. file://localhost/wiki/Psychopathology
+ 230. file://localhost/wiki/Psychophysics
+ 231. file://localhost/wiki/Psychophysiology
+ 232. file://localhost/wiki/Qualitative_psychological_research
+ 233. file://localhost/wiki/Quantitative_psychological_research
+ 234. file://localhost/wiki/Social_psychology_(psychology)
+ 235. file://localhost/wiki/Theoretical_psychology
+ 236. file://localhost/wiki/File:Psi2.svg
+ 237. file://localhost/wiki/Psychological_testing
+ 238. file://localhost/wiki/Clinical_psychology
+ 239. file://localhost/wiki/Counseling_psychology
+ 240. file://localhost/wiki/Educational_psychology
+ 241. file://localhost/wiki/Forensic_psychology
+ 242. file://localhost/wiki/Health_psychology
+ 243. file://localhost/wiki/Industrial_and_organizational_psychology
+ 244. file://localhost/wiki/Legal_psychology
+ 245. file://localhost/wiki/Media_psychology
+ 246. file://localhost/wiki/Military_psychology
+ 247. file://localhost/wiki/Occupational_health_psychology
+ 248. file://localhost/wiki/Psychometrics
+ 249. file://localhost/wiki/Relationship_counseling
+ 250. file://localhost/wiki/School_psychology
+ 251. file://localhost/wiki/Sport_psychology
+ 252. file://localhost/wiki/Systems_psychology
+ 253. file://localhost/wiki/Analytical_psychology
+ 254. file://localhost/wiki/Behaviorism
+ 255. file://localhost/wiki/Cognitive_behavioral_therapy
+ 256. file://localhost/wiki/Cognitivism_(psychology)
+ 257. file://localhost/wiki/Descriptive_psychology
+ 258. file://localhost/wiki/Ecological_systems_theory
+ 259. file://localhost/wiki/Existential_therapy
+ 260. file://localhost/wiki/Family_therapy
+ 261. file://localhost/wiki/Feminist_therapy
+ 262. file://localhost/wiki/Gestalt_therapy
+ 263. file://localhost/wiki/Humanistic_psychology
+ 264. file://localhost/wiki/Narrative_therapy
+ 265. file://localhost/wiki/Psychoanalysis
+ 266. file://localhost/wiki/Psychodynamic_psychotherapy
+ 267. file://localhost/wiki/Rational_emotive_behavior_therapy
+ 268. file://localhost/wiki/Transpersonal_psychology
+ 269. file://localhost/wiki/Gordon_Allport
+ 270. file://localhost/wiki/Albert_Bandura
+ 271. file://localhost/wiki/Raymond_Cattell
+ 272. file://localhost/wiki/Erik_Erikson
+ 273. file://localhost/wiki/Hans_Eysenck
+ 274. file://localhost/wiki/Leon_Festinger
+ 275. file://localhost/wiki/Sigmund_Freud
+ 276. file://localhost/wiki/Clark_L._Hull
+ 277. file://localhost/wiki/William_James
+ 278. file://localhost/wiki/Carl_Jung
+ 279. file://localhost/wiki/Jerome_Kagan
+ 280. file://localhost/wiki/Kurt_Lewin
+ 281. file://localhost/wiki/Abraham_Maslow
+ 282. file://localhost/wiki/David_McClelland
+ 283. file://localhost/wiki/George_Armitage_Miller
+ 284. file://localhost/wiki/Neal_E._Miller
+ 285. file://localhost/wiki/Walter_Mischel
+ 286. file://localhost/wiki/Ivan_Pavlov
+ 287. file://localhost/wiki/Jean_Piaget
+ 288. file://localhost/wiki/Carl_Rogers
+ 289. file://localhost/wiki/Stanley_Schachter
+ 290. file://localhost/wiki/B._F._Skinner
+ 291. file://localhost/wiki/Edward_Thorndike
+ 292. file://localhost/wiki/John_B._Watson
+ 293. file://localhost/wiki/List_of_counseling_topics
+ 294. file://localhost/wiki/List_of_important_publications_in_psychology
+ 295. file://localhost/wiki/List_of_psychological_research_methods
+ 296. file://localhost/wiki/List_of_psychological_schools
+ 297. file://localhost/wiki/List_of_psychologists
+ 298. file://localhost/wiki/List_of_psychology_disciplines
+ 299. file://localhost/wiki/List_of_psychology_organizations
+ 300. file://localhost/wiki/List_of_psychology_topics
+ 301. file://localhost/wiki/List_of_psychotherapies
+ 302. file://localhost/wiki/Timeline_of_psychology
+ 303. http://en.wiktionary.org/wiki/Psychology
+ 304. http://en.wikisource.org/wiki/Category:Psychology
+ 305. http://commons.wikimedia.org/wiki/category:Psychology
+ 306. http://en.wikiquote.org/wiki/Psychology
+ 307. http://en.wikinews.org/wiki/Special:Search/Psychology
+ 308. http://en.wikibooks.org/wiki/Psychology
+ 309. http://en.wikipedia.org/wiki/Donald_O._Hebb
+ 310. file://localhost/wiki/Special:Categories
+ 311. file://localhost/wiki/Category:1904_births
+ 312. file://localhost/wiki/Category:1985_deaths
+ 313. file://localhost/wiki/Category:Canadian_neuroscientists
+ 314. file://localhost/wiki/Category:Canadian_psychologists
+ 315. file://localhost/wiki/Category:Cognitive_neuroscientists
+ 316. file://localhost/wiki/Category:Neuropsychologists
+ 317. file://localhost/wiki/Category:Canadians_of_German_descent
+ 318. file://localhost/wiki/Category:Chancellors_of_McGill_University
+ 319. file://localhost/wiki/Category:History_of_neuroscience
+ 320. file://localhost/wiki/Category:People_from_Lunenburg_County,_Nova_Scotia
+ 321. file://localhost/wiki/Category:Harvard_University_alumni
+ 322. file://localhost/wiki/Category:McGill_University_faculty
+ 323. file://localhost/wiki/Category:Canadian_expatriate_academics_in_the_United_States
+ 324. file://localhost/wiki/Category:Articles_lacking_in-text_citations
+ 325. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 326. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_October_2008
+ 327. file://localhost/wiki/Donald_O._Hebb
+ 328. file://localhost/wiki/Talk:Donald_O._Hebb
+ 329. file://localhost/w/index.php?title=Donald_O._Hebb&action=edit
+ 330. file://localhost/w/index.php?title=Donald_O._Hebb&action=history
+ 331. file://localhost/w/index.php?title=Special:UserLogin&returnto=Donald_O._Hebb
+ 332. file://localhost/wiki/Main_Page
+ 333. file://localhost/wiki/Portal:Contents
+ 334. file://localhost/wiki/Portal:Featured_content
+ 335. file://localhost/wiki/Portal:Current_events
+ 336. file://localhost/wiki/Special:Random
+ 337. file://localhost/wiki/Wikipedia:About
+ 338. file://localhost/wiki/Wikipedia:Community_portal
+ 339. file://localhost/wiki/Special:RecentChanges
+ 340. file://localhost/wiki/Wikipedia:Contact_us
+ 341. http://wikimediafoundation.org/wiki/Donate
+ 342. file://localhost/wiki/Help:Contents
+ 343. file://localhost/wiki/Special:WhatLinksHere/Donald_O._Hebb
+ 344. file://localhost/wiki/Special:RecentChangesLinked/Donald_O._Hebb
+ 345. file://localhost/wiki/Wikipedia:Upload
+ 346. file://localhost/wiki/Special:SpecialPages
+ 347. file://localhost/w/index.php?title=Donald_O._Hebb&printable=yes
+ 348. file://localhost/w/index.php?title=Donald_O._Hebb&oldid=269728284
+ 349. file://localhost/w/index.php?title=Special:Cite&page=Donald_O._Hebb&id=269728284
+ 350. http://de.wikipedia.org/wiki/Donald_O._Hebb
+ 351. http://es.wikipedia.org/wiki/Donald_Hebb
+ 352. http://fr.wikipedia.org/wiki/Donald_Hebb
+ 353. http://it.wikipedia.org/wiki/Donald_Olding_Hebb
+ 354. http://hu.wikipedia.org/wiki/Donald_O._Hebb
+ 355. http://nl.wikipedia.org/wiki/Donald_Hebb
+ 356. http://pt.wikipedia.org/wiki/Donald_Olding_Hebb
+ 357. http://www.mediawiki.org/
+ 358. http://wikimediafoundation.org/
+ 359. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 360. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 361. http://www.wikimediafoundation.org/
+ 362. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 363. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 364. http://en.wikipedia.org/wiki/Non-profit_organization
+ 365. http://en.wikipedia.org/wiki/Charitable_organization
+ 366. http://wikimediafoundation.org/wiki/Privacy_policy
+ 367. file://localhost/wiki/Wikipedia:About
+ 368. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 369. file://localhost/wiki/File:Text_document_with_red_question_mark.svg
+ 370. file://localhost/wiki/File:Donald_Hebb.gif
+ 371. file://localhost/wiki/Main_Page
+ 372. http://ar.wikipedia.org/wiki/%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF_%D9%87%D8%A8
+ 373. http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%98%E3%83%83%E3%83%96

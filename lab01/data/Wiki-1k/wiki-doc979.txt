@@ -1,0 +1,263 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Interaction (statistics)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Effect modification)
+   Jump to: [7]navigation, [8]search
+   A graphical depiction of a statistical interaction in which the extent
+   to which experience impacts cost depends on decision time.
+
+   In [9]statistics, an interaction is a term in a [10]statistical model
+   added when the effect of two or more variables is not simply
+   [11]additive. Such a term reflects that the effect of one variable
+   depends on the values of one or more other variables.
+
+   Thus, for a response Y and two variables x[1] and x[2] an additive
+   model would be:
+
+          Y = ax_1 + bx_2 + \mbox{error}\,\!
+
+   In contrast to this,
+
+          Y = ax_1 + bx_2 + c(x_1\times x_2) + \mbox{error},
+
+   is an example of a model with an interaction between variables x[1] and
+   x[2] ("error" refers to the [12]random variable whose value by which y
+   differs from the [13]expected value of y).
+
+   Very often the interacting variables are categorical variables rather
+   than real numbers. For example, members of a population may be
+   classified by religion and by occupation. If one wishes to predict a
+   person's height based only on the person's religion and occupation, a
+   simple additive model, i.e., a model without interaction, would add to
+   an overall average height an adjustment for a particular religion and
+   another for a particular occupation. A model with interaction, unlike
+   an additive model, could add a further adjustment for the "interaction"
+   between that religion and that occupation. This example may cause one
+   to suspect that the word interaction is something of a misnomer.
+
+   Statistically, the presence of an interaction between categorical
+   variables is generally tested using a form of [14]Analysis of Variance
+   (ANOVA). If one or more of the variables is continuous in nature,
+   however, it would typically be tested using moderated multiple
+   regression.^[15][1] This is so-called because a moderator is a variable
+   that affects the strength of a relationship between two other
+   variables.
+
+   The consequence of an interaction is that the effect of one variable
+   depends on the value of another. This has implications in [16]design of
+   experiments as it is misleading to vary one factor at a time.
+
+   Real-world examples of interaction include:
+     * Interaction between adding sugar to coffee and stirring the coffee.
+       Neither of the two individual variables has much effect on
+       sweetness but a combination of the two does.
+     * Interaction between adding [17]carbon to [18]steel and quenching.
+       Neither of the two individually has much effect on [19]strength but
+       a combination of the two has a dramatic effect.
+     * Interaction between smoking and inhaling [20]asbestos fibres: Both
+       raise lung carcinoma risk, but exposure to asbestos multiplies the
+       cancer risk in smokers and non-smokers. Both risk factors were not
+       shown to be additive  a clear indication of interaction.^[21][2]
+
+   [22]Genichi Taguchi contended that interactions could be eliminated
+   from a [23]system by appropriate choice of response variable and
+   transformation. However [24]George Box and others have argued that this
+   is not the case in general.
+
+Contents
+
+     * [25]1 See also
+     * [26]2 Bibliography
+     * [27]3 Further reading
+     * [28]4 References
+
+[[29]edit] See also
+
+     * [30]Main effect
+     * [31]Interaction
+     * [32]Interaction variable
+     * [33]Design of experiments
+     * [34]Factorial experiment
+
+[[35]edit] Bibliography
+
+     * Box, G.E.P. (1990). Do interactions matter?. Quality Engineering 2,
+       365-369.
+
+[[36]edit] Further reading
+
+     * Southwood, K.E., "Substantive Theory and Statistical Interaction:
+       Five Models," The American Journal of Sociology, 83(5) (1978),
+       1154-1203.
+
+[[37]edit] References
+
+    1. [38]^ Overton, R. C. (2001), "Moderated multiple regression for
+       interactions involving categorical variables: a statistical control
+       for heterogeneous variance across two groups", Psychol Methods 6
+       (3): 21833, [39]doi:[40]10.1037/1082-989X.6.3.218, [41]PMID
+       11570229
+    2. [42]^ Lee, P. N. (2001), "Relation between exposure to asbestos and
+       smoking jointly and the risk of lung cancer", Occupational and
+       Environmental Medicine 58 (3): 145,
+       [43]doi:[44]10.1136/oem.58.3.145, [45]PMID 11171926
+
+   Retrieved from
+   "[46]http://en.wikipedia.org/wiki/Interaction_(statistics)"
+   [47]Categories: [48]Analysis of variance | [49]Experimental design
+
+Views
+
+     * [50]Article
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * [54]Log in / create account
+
+Navigation
+
+     * [55]Main page
+     * [56]Contents
+     * [57]Featured content
+     * [58]Current events
+     * [59]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [60]About Wikipedia
+     * [61]Community portal
+     * [62]Recent changes
+     * [63]Contact Wikipedia
+     * [64]Donate to Wikipedia
+     * [65]Help
+
+Toolbox
+
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Printable version
+     * [71]Permanent link
+     * [72]Cite this page
+
+Languages
+
+     * [73]Deutsch
+
+   [74]Powered by MediaWiki
+   [75]Wikimedia Foundation
+     * This page was last modified on 22 January 2009, at 19:56.
+     * All text is available under the terms of the [76]GNU Free
+       Documentation License. (See [77]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [78]Wikimedia
+       Foundation, Inc., a U.S. registered [79]501(c)(3)
+       [80]tax-deductible [81]nonprofit [82]charity.
+     * [83]Privacy policy
+     * [84]About Wikipedia
+     * [85]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Interaction_(statistics)&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Effect_modification&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#searchInput
+   9. file://localhost/wiki/Statistics
+  10. file://localhost/wiki/Statistical_model
+  11. file://localhost/wiki/Additive_function
+  12. file://localhost/wiki/Random_variable
+  13. file://localhost/wiki/Expected_value
+  14. file://localhost/wiki/Analysis_of_Variance
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#cite_note-Overton2001-0
+  16. file://localhost/wiki/Design_of_experiments
+  17. file://localhost/wiki/Carbon
+  18. file://localhost/wiki/Steel
+  19. file://localhost/wiki/Tensile_strength
+  20. file://localhost/wiki/Asbestos
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#cite_note-Lee2001-1
+  22. file://localhost/wiki/Genichi_Taguchi
+  23. file://localhost/wiki/System
+  24. file://localhost/wiki/George_Box
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#See_also
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#Bibliography
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#Further_reading
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#References
+  29. file://localhost/w/index.php?title=Interaction_(statistics)&action=edit&section=1
+  30. file://localhost/wiki/Main_effect
+  31. file://localhost/wiki/Interaction
+  32. file://localhost/wiki/Interaction_variable
+  33. file://localhost/wiki/Design_of_experiments
+  34. file://localhost/wiki/Factorial_experiment
+  35. file://localhost/w/index.php?title=Interaction_(statistics)&action=edit&section=2
+  36. file://localhost/w/index.php?title=Interaction_(statistics)&action=edit&section=3
+  37. file://localhost/w/index.php?title=Interaction_(statistics)&action=edit&section=4
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#cite_ref-Overton2001_0-0
+  39. file://localhost/wiki/Digital_object_identifier
+  40. http://dx.doi.org/10.1037%2F1082-989X.6.3.218
+  41. http://www.ncbi.nlm.nih.gov/pubmed/11570229
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc979.tmp.html#cite_ref-Lee2001_1-0
+  43. file://localhost/wiki/Digital_object_identifier
+  44. http://dx.doi.org/10.1136%2Foem.58.3.145
+  45. http://www.ncbi.nlm.nih.gov/pubmed/11171926
+  46. http://en.wikipedia.org/wiki/Interaction_(statistics)
+  47. file://localhost/wiki/Special:Categories
+  48. file://localhost/wiki/Category:Analysis_of_variance
+  49. file://localhost/wiki/Category:Experimental_design
+  50. file://localhost/wiki/Interaction_(statistics)
+  51. file://localhost/wiki/Talk:Interaction_(statistics)
+  52. file://localhost/w/index.php?title=Interaction_(statistics)&action=edit
+  53. file://localhost/w/index.php?title=Interaction_(statistics)&action=history
+  54. file://localhost/w/index.php?title=Special:UserLogin&returnto=Interaction_(statistics)
+  55. file://localhost/wiki/Main_Page
+  56. file://localhost/wiki/Portal:Contents
+  57. file://localhost/wiki/Portal:Featured_content
+  58. file://localhost/wiki/Portal:Current_events
+  59. file://localhost/wiki/Special:Random
+  60. file://localhost/wiki/Wikipedia:About
+  61. file://localhost/wiki/Wikipedia:Community_portal
+  62. file://localhost/wiki/Special:RecentChanges
+  63. file://localhost/wiki/Wikipedia:Contact_us
+  64. http://wikimediafoundation.org/wiki/Donate
+  65. file://localhost/wiki/Help:Contents
+  66. file://localhost/wiki/Special:WhatLinksHere/Interaction_(statistics)
+  67. file://localhost/wiki/Special:RecentChangesLinked/Interaction_(statistics)
+  68. file://localhost/wiki/Wikipedia:Upload
+  69. file://localhost/wiki/Special:SpecialPages
+  70. file://localhost/w/index.php?title=Interaction_(statistics)&printable=yes
+  71. file://localhost/w/index.php?title=Interaction_(statistics)&oldid=265767557
+  72. file://localhost/w/index.php?title=Special:Cite&page=Interaction_(statistics)&id=265767557
+  73. http://de.wikipedia.org/wiki/Interaktionseffekt
+  74. http://www.mediawiki.org/
+  75. http://wikimediafoundation.org/
+  76. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  77. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  78. http://www.wikimediafoundation.org/
+  79. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  80. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  81. http://en.wikipedia.org/wiki/Non-profit_organization
+  82. http://en.wikipedia.org/wiki/Charitable_organization
+  83. http://wikimediafoundation.org/wiki/Privacy_policy
+  84. file://localhost/wiki/Wikipedia:About
+  85. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  86. file://localhost/wiki/File:Statistical_interaction.jpg
+  87. file://localhost/wiki/File:Statistical_interaction.jpg
+  88. file://localhost/wiki/Main_Page

@@ -1,0 +1,277 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Edwin Thompson Jaynes
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]ET Jaynes)
+   Jump to: [7]navigation, [8]search
+   E. T. Jaynes
+   [9]Edwin Thompson Jaynes (1922-1998), photo taken circa 1960.
+   Edwin Thompson Jaynes (1922-1998), photo taken circa 1960.
+   Born [10]July 5, [11]1922
+   [12]Waterloo, Iowa
+   Died [13]April 30, [14]1998
+   [15]St. Louis, Missouri
+   Fields [16]Physicist
+   Institutions [17]Washington University
+   [18]Alma mater [19]Princeton University
+   [20]Doctoral advisor [21]Eugene Wigner
+   Known for [22]MaxEnt interpretation
+   Jaynes around 1982
+
+   Edwin Thompson Jaynes ([23]Waterloo, Iowa, [24]July 5, [25]1922 [26]St.
+   Louis, Missouri, [27]April 30, [28]1998) was Wayman Crow Distinguished
+   Professor of Physics at [29]Washington University in [30]St. Louis. He
+   wrote extensively on [31]statistical mechanics and on foundations of
+   [32]probability and [33]statistical inference, initiating in 1957 the
+   [34]MaxEnt interpretation of thermodynamics^[35][1]^[36][2], as being a
+   particular application of more general [37]Bayesian/[38]information
+   theory techniques (although he argued this was already implicit in the
+   works of [39]Gibbs). He was one of the first to interpret
+   [40]probability theory as an extension of [41]Aristotelian logic.
+
+   In 1963, together with [42]Fred Cummings, he modelized the evolution of
+   a [43]two-level atom in an electromagnetic field, in a fully quantized
+   way. This model is known as the [44]Jaynes-Cummings model.
+
+   A particular focus of his work was the construction of logical
+   principles for assigning prior probability distributions; see the
+   [45]principle of maximum entropy, the principle of transformation
+   groups^[46][3]^[47][4] and [48]Laplace's [49]principle of indifference.
+
+   His last book, Probability Theory: The Logic of Science gathers various
+   threads of modern thinking about [50]Bayesian probability and
+   [51]statistical inference, and contrasts the advantages of Bayesian
+   techniques with the results of other approaches. It was published
+   posthumously in 2003 by [52]Cambridge University Press from an
+   incomplete manuscript by editor [53]Larry Bretthorst.
+
+[[54]edit] Notes
+
+    1. [55]^ E. T. Jaynes (1957) [56]Information theory and statistical
+       mechanics, Physical Review 106:620
+    2. [57]^ E. T. Jaynes (1957) [58]Information theory and statistical
+       mechanics II, Physical Review 108:171
+    3. [59]^ E. T. Jaynes (1968) [60]Prior Probabilities, IEEE Trans. on
+       Systems Science and Cybernetics SSC-4:227
+    4. [61]^ E. T. Jaynes (1973) [62]The Well-Posed Problem, Found. Phys.
+       3:477
+
+[[63]edit] External links
+
+     * Edwin Thompson Jaynes. [64]Probability Theory: The Logic of
+       Science. Cambridge University Press, (2003). [65]ISBN
+       0-521-59271-2.
+     * [66]Early (1994) version (fragmentary) of Probability Theory: The
+       Logic of Science.
+     * A comprehensive [67]web page on E. T. Jaynes's life and work.
+     * [68]ET Jaynes' obituary at Washington university
+
+   Please help [69]improve this article or section by expanding it.
+   Further information might be found on the [70]talk page. (November
+   2008)
+   Retrieved from "[71]http://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes"
+   [72]Categories: [73]1922 births | [74]1998 deaths | [75]American
+   physicists | [76]American statisticians | [77]Washington University in
+   St. Louis faculty
+   Hidden categories: [78]Articles to be expanded since November 2008 |
+   [79]All articles to be expanded
+
+Views
+
+     * [80]Article
+     * [81]Discussion
+     * [82]Edit this page
+     * [83]History
+
+Personal tools
+
+     * [84]Log in / create account
+
+Navigation
+
+     * [85]Main page
+     * [86]Contents
+     * [87]Featured content
+     * [88]Current events
+     * [89]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [90]About Wikipedia
+     * [91]Community portal
+     * [92]Recent changes
+     * [93]Contact Wikipedia
+     * [94]Donate to Wikipedia
+     * [95]Help
+
+Toolbox
+
+     * [96]What links here
+     * [97]Related changes
+     * [98]Upload file
+     * [99]Special pages
+     * [100]Printable version
+     * [101]Permanent link
+     * [102]Cite this page
+
+Languages
+
+     * [103]esky
+     * [104]Deutsch
+     * [105]Espaol
+     * [106]Franais
+     * [107]Italiano
+     * [108]Kreyl ayisyen
+     * [109]Polski
+     *
+
+   [110]Powered by MediaWiki
+   [111]Wikimedia Foundation
+     * This page was last modified on 30 January 2009, at 18:16.
+     * All text is available under the terms of the [112]GNU Free
+       Documentation License. (See [113]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [114]Wikimedia
+       Foundation, Inc., a U.S. registered [115]501(c)(3)
+       [116]tax-deductible [117]nonprofit [118]charity.
+     * [119]Privacy policy
+     * [120]About Wikipedia
+     * [121]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Edwin_Thompson_Jaynes&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=ET_Jaynes&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#searchInput
+   9. file://localhost/wiki/File:ETJaynes1.jpg
+  10. file://localhost/wiki/July_5
+  11. file://localhost/wiki/1922
+  12. file://localhost/wiki/Waterloo,_Iowa
+  13. file://localhost/wiki/April_30
+  14. file://localhost/wiki/1998
+  15. file://localhost/wiki/St._Louis,_Missouri
+  16. file://localhost/wiki/Physicist
+  17. file://localhost/wiki/Washington_University
+  18. file://localhost/wiki/Alma_mater
+  19. file://localhost/wiki/Princeton_University
+  20. file://localhost/wiki/Doctorate
+  21. file://localhost/wiki/Eugene_Wigner
+  22. file://localhost/wiki/Maximum_entropy_thermodynamics
+  23. file://localhost/wiki/Waterloo,_Iowa
+  24. file://localhost/wiki/July_5
+  25. file://localhost/wiki/1922
+  26. file://localhost/wiki/St._Louis,_Missouri
+  27. file://localhost/wiki/April_30
+  28. file://localhost/wiki/1998
+  29. file://localhost/wiki/Washington_University
+  30. file://localhost/wiki/St._Louis,_Missouri
+  31. file://localhost/wiki/Statistical_mechanics
+  32. file://localhost/wiki/Probability
+  33. file://localhost/wiki/Statistical_inference
+  34. file://localhost/wiki/Maximum_entropy_thermodynamics
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_note-0
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_note-1
+  37. file://localhost/wiki/Bayesian_inference
+  38. file://localhost/wiki/Information_theory
+  39. file://localhost/wiki/Josiah_Willard_Gibbs
+  40. file://localhost/wiki/Probability_theory
+  41. file://localhost/wiki/Logic
+  42. file://localhost/wiki/Fred_Cummings
+  43. file://localhost/wiki/Two-level_system
+  44. file://localhost/wiki/Jaynes-Cummings_model
+  45. file://localhost/wiki/Principle_of_maximum_entropy
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_note-2
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_note-3
+  48. file://localhost/wiki/Pierre-Simon_Laplace
+  49. file://localhost/wiki/Principle_of_indifference
+  50. file://localhost/wiki/Bayesian_probability
+  51. file://localhost/wiki/Statistical_inference
+  52. file://localhost/wiki/Cambridge_University_Press
+  53. file://localhost/w/index.php?title=Larry_Bretthorst&action=edit&redlink=1
+  54. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&action=edit&section=1
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_ref-0
+  56. http://bayes.wustl.edu/etj/articles/theory.1.pdf
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_ref-1
+  58. http://bayes.wustl.edu/etj/articles/theory.2.pdf
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_ref-2
+  60. http://bayes.wustl.edu/etj/articles/prior.pdf
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc671.tmp.html#cite_ref-3
+  62. http://bayes.wustl.edu/etj/articles/well.pdf
+  63. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&action=edit&section=2
+  64. http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521592712
+  65. file://localhost/wiki/Special:BookSources/0521592712
+  66. http://omega.math.albany.edu:8008/JaynesBook.html
+  67. http://bayes.wustl.edu/
+  68. http://library.wustl.edu/units/spec/exhibits/crow/jaynesbio.html
+  69. http://en.wikipedia.org/w/index.php?title=Edwin_Thompson_Jaynes&action=edit
+  70. file://localhost/wiki/Talk:Edwin_Thompson_Jaynes
+  71. http://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+  72. file://localhost/wiki/Special:Categories
+  73. file://localhost/wiki/Category:1922_births
+  74. file://localhost/wiki/Category:1998_deaths
+  75. file://localhost/wiki/Category:American_physicists
+  76. file://localhost/wiki/Category:American_statisticians
+  77. file://localhost/wiki/Category:Washington_University_in_St._Louis_faculty
+  78. file://localhost/wiki/Category:Articles_to_be_expanded_since_November_2008
+  79. file://localhost/wiki/Category:All_articles_to_be_expanded
+  80. file://localhost/wiki/Edwin_Thompson_Jaynes
+  81. file://localhost/wiki/Talk:Edwin_Thompson_Jaynes
+  82. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&action=edit
+  83. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&action=history
+  84. file://localhost/w/index.php?title=Special:UserLogin&returnto=Edwin_Thompson_Jaynes
+  85. file://localhost/wiki/Main_Page
+  86. file://localhost/wiki/Portal:Contents
+  87. file://localhost/wiki/Portal:Featured_content
+  88. file://localhost/wiki/Portal:Current_events
+  89. file://localhost/wiki/Special:Random
+  90. file://localhost/wiki/Wikipedia:About
+  91. file://localhost/wiki/Wikipedia:Community_portal
+  92. file://localhost/wiki/Special:RecentChanges
+  93. file://localhost/wiki/Wikipedia:Contact_us
+  94. http://wikimediafoundation.org/wiki/Donate
+  95. file://localhost/wiki/Help:Contents
+  96. file://localhost/wiki/Special:WhatLinksHere/Edwin_Thompson_Jaynes
+  97. file://localhost/wiki/Special:RecentChangesLinked/Edwin_Thompson_Jaynes
+  98. file://localhost/wiki/Wikipedia:Upload
+  99. file://localhost/wiki/Special:SpecialPages
+ 100. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&printable=yes
+ 101. file://localhost/w/index.php?title=Edwin_Thompson_Jaynes&oldid=267445268
+ 102. file://localhost/w/index.php?title=Special:Cite&page=Edwin_Thompson_Jaynes&id=267445268
+ 103. http://cs.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 104. http://de.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 105. http://es.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 106. http://fr.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 107. http://it.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 108. http://ht.wikipedia.org/wiki/Edwin_Jaynes
+ 109. http://pl.wikipedia.org/wiki/Edwin_Thompson_Jaynes
+ 110. http://www.mediawiki.org/
+ 111. http://wikimediafoundation.org/
+ 112. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 113. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 114. http://www.wikimediafoundation.org/
+ 115. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 116. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 117. http://en.wikipedia.org/wiki/Non-profit_organization
+ 118. http://en.wikipedia.org/wiki/Charitable_organization
+ 119. http://wikimediafoundation.org/wiki/Privacy_policy
+ 120. file://localhost/wiki/Wikipedia:About
+ 121. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 122. file://localhost/wiki/File:ETJaynes2.jpg
+ 123. file://localhost/wiki/File:ETJaynes2.jpg
+ 124. file://localhost/wiki/File:Wiki_letter_w.svg
+ 125. file://localhost/wiki/Main_Page
+ 126. http://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BD%D1%81,_%D0%AD%D0%B4%D0%B2%D0%B8%D0%BD_%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD

@@ -1,0 +1,376 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+E-Trade
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E Trade)
+   Jump to: [7]navigation, [8]search
+   Not to be confused with [9]electronic trading.
+
+   CAPTION: E*Trade Financial Corporation
+
+   [10]Type [11]Public ([12]NASDAQ: [13]ETFC)
+   Founded [14]Palo Alto, California (1982)
+   Headquarters [15]New York City, [16]USA
+   Key people Donald H. Layton, [17]CEO
+   Bruce P. Nolop, [18]CFO^[19][1]
+   [20]Industry [21]Financial Services
+   [22]Products Trading & investing, banking & credit cards, retirement &
+   planning
+   [23]Revenue [24]US$3.57 Billion (2007)
+   [25]Net income [26]US$1.4 Billion (2007)^[27][2]
+   [28]Employees 3,108 (2008)
+   [29]Website [30]ETrade.com
+
+   E-Trade Financial Corporation ([31]NASDAQ: [32]ETFC) is a [33]financial
+   services company based in New York City, United States. The company
+   name is often rendered E*Trade. It is a holding company, the major
+   business of which is an [34]online [35]discount stock brokerage service
+   for self-directed investors. Investors can buy and sell securities such
+   as [36]stocks, [37]bonds, [38]options, [39]mutual funds, and
+   [40]exchange-traded funds via [41]electronic trading platforms or by
+   phone. The company also offers banking and lending products such as
+   checking and savings accounts, [42]money market accounts,
+   [43]certificates of deposit, and [44]credit cards. E-Trade is regulated
+   and licensed by [45]FINRA.
+
+Contents
+
+     * [46]1 History
+     * [47]2 Divestiture of subprime portfolio
+     * [48]3 Notes
+     * [49]4 External links
+
+[[50]edit] History
+
+   In 1982, [51]William A. Porter and [52]Bernard A. Newcomb founded
+   TradePlus Inc. in [53]Palo Alto, California. In 1991, Porter founded a
+   new company, E-Trade Securities, Inc., with several hundred thousand
+   dollars of startup capital from TradePlus. E-Trade offered its trading
+   services via [54]America Online and [55]Compuserve. In 1994, its
+   revenues neared $11 million (up from $850,000 in 1992). It later
+   reorganized and emerged under the name E-Trade Group, with E-Trade
+   Securities as its principal subsidiary.^[56][3]
+
+   In August 1996, it went public with [57]Robertson, Stephens & Company
+   as the lead underwriter. In 2003, the company changed its name from
+   E-Trade Group Inc. to E-Trade Financial Corporation.
+
+   In 2003, the [58]Toronto-Dominion Bank held talks to merge its [59]TD
+   Waterhouse discount brokerage with E-Trade, but the two sides could not
+   come to an agreement over control of the merged entity.^[60][4]^[61][5]
+   In 2005, E-Trade made an unsolicited offer for [62]Ameritrade,
+   currently the second largest US discount broker. Ameritrade instead
+   purchased TD Waterhouse, with TD Bank holding a 39% stake in the new
+   entity.^[63][6]
+
+   In 2005, E-Trade Financial acquired [64]Harrisdirect, formerly a
+   discount brokerage service of [65]Bank of Montreal, and [66]BrownCo,
+   formerly a discount brokerage service of [67]J.P. Morgan.^[68][7]
+
+[[69]edit] Divestiture of subprime portfolio
+
+   E-Trade Financial Center, San Francisco
+
+   On November 29, 2007, E-Trade announced a deal with the [70]Citadel
+   Investment Group in which Citadel purchased E-Trade's securitized
+   [71]subprime mortgage investments for $800 million, cash. The
+   transaction removed the assets with the greatest market risk from
+   E-Trade's consolidated [72]balance sheet -- their $3 billion
+   [73]asset-backed securities (ABS) portfolio, including its ABS
+   [74]collateralized debt obligations (CDOs) and [75]second lien
+   securities. This resulted in a net $2.2 billion reduction in assets on
+   their [76]balance sheet. In addition to that divestiture, under the
+   terms of the deal E-Trade received $1.6 billion of capital in exchange
+   for 12.5% senior unsecured notes and 84,687,686 shares [77]common stock
+   (equal to 19.99% of the then currently outstanding shares). Citadel
+   received a seat on E-Trade Financial's [78]Board of Directors.
+   [79]Mitch Caplan resigned as CEO on the same day that the deal was
+   announced.
+
+   Although E-Trade's management admits that the deal was costly for
+   E-Trade, it removed the risk from those subprime investments and
+   resulted in an infusion of $2.5 billion in cash.
+
+   Prior to the [80]subprime mortgage crisis, E-Trade's stock price had
+   reached a 52-week high of $26.08 and had a [81]book value ([82]assets -
+   [83]liabilities / number of [84]shares outstanding) of $9.68 per share.
+   However, on or about November 12, 2007, [85]Citigroup analyst Prashant
+   Bhatia suggested that E-Trade Financial could face a run on its bank
+   operations and a bankruptcy filing, causing the stock to drop
+   heavily.^[86][8]
+
+   After the sell-off and the Citadel deal, E-Trade's book value was $4.53
+   per share (a 52.2% drop), and the shares had reached a 52-week low of
+   $3.46 per share (a 86.7% drop). Bloomberg News reported that E-Trade
+   had lost between 1-2% of their deposits. Moody's reported that E-Trade
+   saw a "17% drop in customer cash and deposits in the month of
+   November". The company implemented a comprehensive turnaround plan at
+   the end of 2007 which included an assessment of its organizational
+   structure, operating expense base and balance sheet transition, along
+   with a customer win-back campaign.
+
+   In March 2008, E-Trade named Donald Layton, formerly JPMorgan Chase
+   vice chairman, as its new CEO. Layton had joined E-Trade's board of
+   directors in November 2007, at the same time as the Citadel deal.
+   Layton has been aggressively acting on the turnaround plan and the
+   company has stabilized and is seeing the beginnings of a return to
+   growth.
+
+   In July 2008, E-Trade sold its Canadian division to [87]Scotiabank for
+   CAN$444 million, as part of a program of selling off non-core
+   assets.^[88][9]
+
+[[89]edit] Notes
+
+    1. [90]^ [91]https://investor.etrade.com/management.cfm]
+    2. [92]^ [93]"E-Trade posts $1.7 billion loss for 4Q".
+       [94]http://origin.mercurynews.com/breakingnews/ci_8067279.
+       Retrieved on 2008-02-15.
+    3. [95]^ [96]Funding Universe - E-Trade Financial Corporation History
+    4. [97]^ [98]USATODAY.com - TD Waterhouse, E-Trade talk merger
+    5. [99]^ [100]E-Trade makes offer for Ameritrade: report
+    6. [101]^ [102]Ameritrade to acquire TD Waterhouse USA
+    7. [103]^ [104]E-Trade to acquire BrownCo for $1.6B. San Francisco
+       Business Times. September 30, 2005. Accessed September 12, 2007.
+    8. [105]^ [106]Cyberattack! Manipulation and Subversion of Financial
+       Markets!
+    9. [107]^ [108]Scotiabank buys E-Trade Canada
+
+[[109]edit] External links
+
+     * [110]E-Trade official website
+     * [111]Yahoo! - E-Trade Financial Corporation Company Profile
+     * [112]Hoover's - E-Trade Financial Corporation Company Profile
+
+   Retrieved from "[113]http://en.wikipedia.org/wiki/E-Trade"
+   [114]Categories: [115]Companies listed on NASDAQ | [116]Financial
+   services companies of the United States | [117]Dot-com | [118]Online
+   brokerages | [119]Companies established in 1982 | [120]Entities
+   involved in United States housing bubble | [121]Online companies
+
+Views
+
+     * [122]Article
+     * [123]Discussion
+     * [124]Edit this page
+     * [125]History
+
+Personal tools
+
+     * [126]Log in / create account
+
+Navigation
+
+     * [127]Main page
+     * [128]Contents
+     * [129]Featured content
+     * [130]Current events
+     * [131]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [132]About Wikipedia
+     * [133]Community portal
+     * [134]Recent changes
+     * [135]Contact Wikipedia
+     * [136]Donate to Wikipedia
+     * [137]Help
+
+Toolbox
+
+     * [138]What links here
+     * [139]Related changes
+     * [140]Upload file
+     * [141]Special pages
+     * [142]Printable version
+     * [143]Permanent link
+     * [144]Cite this page
+
+Languages
+
+     *
+
+   [145]Powered by MediaWiki
+   [146]Wikimedia Foundation
+     * This page was last modified on 25 February 2009, at 18:50.
+     * All text is available under the terms of the [147]GNU Free
+       Documentation License. (See [148]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [149]Wikimedia
+       Foundation, Inc., a U.S. registered [150]501(c)(3)
+       [151]tax-deductible [152]nonprofit [153]charity.
+     * [154]Privacy policy
+     * [155]About Wikipedia
+     * [156]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=E-Trade&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E_Trade&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#searchInput
+   9. file://localhost/wiki/Electronic_trading
+  10. file://localhost/wiki/Category:Types_of_companies
+  11. file://localhost/wiki/Public_company
+  12. file://localhost/wiki/NASDAQ
+  13. http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ETFC&selected=ETFC
+  14. file://localhost/wiki/Palo_Alto,_California
+  15. file://localhost/wiki/New_York_City
+  16. file://localhost/wiki/USA
+  17. file://localhost/wiki/CEO
+  18. file://localhost/wiki/CFO
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-0
+  20. file://localhost/wiki/Industry
+  21. file://localhost/wiki/Financial_Services
+  22. file://localhost/wiki/Product_(business)
+  23. file://localhost/wiki/Revenue
+  24. file://localhost/wiki/US$
+  25. file://localhost/wiki/Net_income
+  26. file://localhost/wiki/US$
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-1
+  28. file://localhost/wiki/Employment
+  29. file://localhost/wiki/Website
+  30. http://www.etrade.com/
+  31. file://localhost/wiki/NASDAQ
+  32. http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ETFC&selected=ETFC
+  33. file://localhost/wiki/Financial_services
+  34. file://localhost/wiki/Online
+  35. file://localhost/wiki/Stock_broker
+  36. file://localhost/wiki/Stock
+  37. file://localhost/wiki/Bond_(finance)
+  38. file://localhost/wiki/Option_(finance)
+  39. file://localhost/wiki/Mutual_fund
+  40. file://localhost/wiki/Exchange-traded_fund
+  41. file://localhost/wiki/Electronic_trading
+  42. file://localhost/wiki/Money_market
+  43. file://localhost/wiki/Certificates_of_deposit
+  44. file://localhost/wiki/Credit_cards
+  45. file://localhost/wiki/FINRA
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#History
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#Divestiture_of_subprime_portfolio
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#Notes
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#External_links
+  50. file://localhost/w/index.php?title=E-Trade&action=edit&section=1
+  51. file://localhost/wiki/William_A._Porter
+  52. file://localhost/wiki/Bernard_A._Newcomb
+  53. file://localhost/wiki/Palo_Alto,_California
+  54. file://localhost/wiki/America_Online
+  55. file://localhost/wiki/Compuserve
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-2
+  57. file://localhost/wiki/Robertson,_Stephens_%26_Company
+  58. file://localhost/wiki/Toronto-Dominion_Bank
+  59. file://localhost/wiki/TD_Waterhouse
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-3
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-4
+  62. file://localhost/wiki/Ameritrade
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-5
+  64. file://localhost/wiki/DLJ
+  65. file://localhost/wiki/Bank_of_Montreal
+  66. file://localhost/w/index.php?title=BrownCo&action=edit&redlink=1
+  67. file://localhost/wiki/JPMorgan_Chase_%26_Co.
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-6
+  69. file://localhost/w/index.php?title=E-Trade&action=edit&section=2
+  70. file://localhost/wiki/Citadel_Investment_Group
+  71. file://localhost/wiki/Subprime_mortgage
+  72. file://localhost/wiki/Balance_sheet
+  73. file://localhost/wiki/Asset-backed_securities
+  74. file://localhost/wiki/Collateralized_debt_obligations
+  75. file://localhost/wiki/Second_lien
+  76. file://localhost/wiki/Balance_sheet
+  77. file://localhost/wiki/Common_stock
+  78. file://localhost/wiki/Board_of_Directors
+  79. file://localhost/wiki/Mitch_Caplan
+  80. file://localhost/wiki/Subprime_mortgage_crisis
+  81. file://localhost/wiki/Book_value
+  82. file://localhost/wiki/Assets
+  83. file://localhost/wiki/Liabilities
+  84. file://localhost/wiki/Shares_outstanding
+  85. file://localhost/wiki/Citigroup
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-7
+  87. file://localhost/wiki/Scotiabank
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_note-8
+  89. file://localhost/w/index.php?title=E-Trade&action=edit&section=3
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-0
+  91. https://investor.etrade.com/management.cfm
+  92. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-1
+  93. http://origin.mercurynews.com/breakingnews/ci_8067279
+  94. http://origin.mercurynews.com/breakingnews/ci_8067279
+  95. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-2
+  96. http://www.fundinguniverse.com/company-histories/ETrade-Financial-Corporation-Company-History.html
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-3
+  98. http://www.usatoday.com/money/industries/brokerage/2004-01-13-td-etrade_x.htm
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-4
+ 100. http://www.cbc.ca/money/story/2005/05/09/online-brokerage050509.html
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-5
+ 102. http://www.cbc.ca/money/story/2005/06/22/waterhouse-050622.html
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-6
+ 104. http://www.bizjournals.com/sanfrancisco/stories/2005/09/26/daily46.html
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-7
+ 106. http://www.thecepblog.com/2008/01/08/cyberattack-manipulation-and-subversion-of-financial-markets/
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc680.tmp.html#cite_ref-8
+ 108. http://www.cbc.ca/money/story/2008/07/14/etrade-scotia.html
+ 109. file://localhost/w/index.php?title=E-Trade&action=edit&section=4
+ 110. http://www.etrade.com/
+ 111. http://biz.yahoo.com/ic/51/51422.html
+ 112. http://www.hoovers.com/e*trade-financial/--ID__51422--/free-co-factsheet.xhtml
+ 113. http://en.wikipedia.org/wiki/E-Trade
+ 114. file://localhost/wiki/Special:Categories
+ 115. file://localhost/wiki/Category:Companies_listed_on_NASDAQ
+ 116. file://localhost/wiki/Category:Financial_services_companies_of_the_United_States
+ 117. file://localhost/wiki/Category:Dot-com
+ 118. file://localhost/wiki/Category:Online_brokerages
+ 119. file://localhost/wiki/Category:Companies_established_in_1982
+ 120. file://localhost/wiki/Category:Entities_involved_in_United_States_housing_bubble
+ 121. file://localhost/wiki/Category:Online_companies
+ 122. file://localhost/wiki/E-Trade
+ 123. file://localhost/wiki/Talk:E-Trade
+ 124. file://localhost/w/index.php?title=E-Trade&action=edit
+ 125. file://localhost/w/index.php?title=E-Trade&action=history
+ 126. file://localhost/w/index.php?title=Special:UserLogin&returnto=E-Trade
+ 127. file://localhost/wiki/Main_Page
+ 128. file://localhost/wiki/Portal:Contents
+ 129. file://localhost/wiki/Portal:Featured_content
+ 130. file://localhost/wiki/Portal:Current_events
+ 131. file://localhost/wiki/Special:Random
+ 132. file://localhost/wiki/Wikipedia:About
+ 133. file://localhost/wiki/Wikipedia:Community_portal
+ 134. file://localhost/wiki/Special:RecentChanges
+ 135. file://localhost/wiki/Wikipedia:Contact_us
+ 136. http://wikimediafoundation.org/wiki/Donate
+ 137. file://localhost/wiki/Help:Contents
+ 138. file://localhost/wiki/Special:WhatLinksHere/E-Trade
+ 139. file://localhost/wiki/Special:RecentChangesLinked/E-Trade
+ 140. file://localhost/wiki/Wikipedia:Upload
+ 141. file://localhost/wiki/Special:SpecialPages
+ 142. file://localhost/w/index.php?title=E-Trade&printable=yes
+ 143. file://localhost/w/index.php?title=E-Trade&oldid=273242309
+ 144. file://localhost/w/index.php?title=Special:Cite&page=E-Trade&id=273242309
+ 145. http://www.mediawiki.org/
+ 146. http://wikimediafoundation.org/
+ 147. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 148. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 149. http://www.wikimediafoundation.org/
+ 150. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 151. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 152. http://en.wikipedia.org/wiki/Non-profit_organization
+ 153. http://en.wikipedia.org/wiki/Charitable_organization
+ 154. http://wikimediafoundation.org/wiki/Privacy_policy
+ 155. file://localhost/wiki/Wikipedia:About
+ 156. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 157. file://localhost/wiki/File:Etrade_financial_center_market_st_san_francisco.jpg
+ 158. file://localhost/wiki/File:Etrade_financial_center_market_st_san_francisco.jpg
+ 159. file://localhost/wiki/Main_Page
+ 160. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%BB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89

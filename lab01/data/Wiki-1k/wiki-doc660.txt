@@ -1,0 +1,364 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+e-participation
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EParticipation)
+   Jump to: [7]navigation, [8]search
+   This article may require [9]cleanup to meet Wikipedia's [10]quality
+   standards. Please [11]improve this article if you can. (March 2008)
+
+   e-participation (also written eParticipation and e-Participation) is a
+   recently invented term meaning ICT-supported participation in processes
+   involved in government and governance. Processes may concern
+   administration, service delivery, decision making and policy making.
+   eParticipation is hence closely related to [12]e-government and
+   (e-)[13]governance. (ICT=Information and Communication Technologies).
+   The need for the term has emerged as user benefits and values have
+   often been paid less attention to in the e-government development than
+   those of the service providers.
+
+   A more detailed definition sees eParticipation as "the use of
+   information and communication technologies to broaden and deepen
+   political participation by enabling citizens to connect with one
+   another and with their elected representatives" [1]. This definition
+   includes all stakeholders in democratic decision-making processes and
+   not only citizen related top-down government initiatives. So
+   eParticipation can be seen as part of [14]eDemocracy, whereas
+   eDemocracy means the use of ICT by governments in general used by
+   elected officials, media, political parties and interest groups, civil
+   society organizations, international governmental organizations, or
+   citizens/voters within any of the political processes of
+   states/regions, nations, and local and global communities [2]. The
+   complexity of eParticipation processes results from the large number of
+   different participation areas, involved stakeholders, levels of
+   engagement, and stages in policy making, which characterize the
+   research and applications [3, chapter 2].
+
+Contents
+
+     * [15]1 European eParticipation Preparatory Action
+     * [16]2 History
+     * [17]3 On the definition
+     * [18]4 See also
+     * [19]5 References
+     * [20]6 External links
+
+[[21]edit] European eParticipation Preparatory Action
+
+   eParticipation is the Preparatory Action ^[22][1] lasts for three years
+   (2006-2008). The EU is taking the lead in using on-line tools to
+   improve the legislative process for its citizens. eParticipation which
+   launched on 1 January 2007 will run as a series of linked projects
+   which each contribute to a greater awareness and involvement by
+   citizens in the legislation process right from the initial drafting
+   through to its implementation at a regional and local level.
+
+   The individual projects will concentrate on ensuring that the
+   legislative language and process is more transparent, understandable
+   and accessible to the citizen. In addition the projects emphasis on the
+   communication of legislation will be used to enhance and grow citizens
+   involvement and contribution in the process of creating and thereafter
+   implementing the legislation.
+
+   So far, 14 projects have been funded ^[23][2]. In the first year six
+   trial projects were selected and in 2007 a further seven trial projects
+   as well as a support action to coordinate and promote the
+   eParticipation projects were chosen. The [24]European Parliament,
+   national parliaments and local and regional authorities are actively
+   involved. State-of-the-art ICT tools are being tested to facilitate the
+   writing of legal texts, including translation into different languages,
+   and the drafting of amendments as well as making the texts easier for
+   non-specialists to find and understand. New digital technologies are
+   also being used to give citizens easier access to information and the
+   more opportunity to try to influence decisions that affect their lives.
+
+[[25]edit] History
+
+   The term emanated in the early 2000s and draws generally on three
+   developments.
+    1. The general development in [26]CSCW (Computer Supported Cooperative
+       Work) and [27]groupware directed towards collaborative environments
+       to support human ICT-mediated interaction, both work-related and
+       social.
+    2. The development in [28]E-democracy since the late 1990s, where
+       interest rapidly evolved from e-voting to several forms of
+       ICT-supported and enabled interaction between governments and
+       citizens, including not only direct ones such as consultations,
+       lobbying, petitioning and polling but also ones pursued outside of
+       government itself, including electioneering, campaigning, and
+       community informatics.
+    3. The development in [29]e-government towards increasingly complex
+       service delivery. Complex services require considerable interaction
+       including searching, selecting options based on multiple criteria,
+       calculating outcomes, notifications, inquiries, complaints, and
+       many other activities. There are several ICT tools for such tasks,
+       ranging from FAQs to call centres, but there is a need to
+       coordinate all these into user-friendly but powerful toolsets for
+       client-organization encounters. Because interaction in such
+       contexts is complex, and because goals have to be reached, the
+       arenas where it takes places becomes social arenas for
+       ICT-supported participation.
+
+[[30]edit] On the definition
+
+   The term [31]Participation means taking part in joint activities for
+   the purpose of reaching a common goal. This encompasses both trivial
+   situations in which participation mainly has a technical meaning, doing
+   things together. For example, a football team needs 11 players, and
+   dancing often requires two or more people acting in a coordinated
+   manner. But participation, even in trivial situations, also has a
+   goal-oriented aspect which means decision making and control are
+   involved. Participation in political science and theory of management
+   refers to direct public participation in political, economical or
+   management decisions. The two are not completely separated but belong
+   on a spectrum of complexity and context. When participation becomes
+   complicated, decision making becomes necessary. Hence, any
+   participatory process is potentially important for the rule system
+   governing the activities. In terms of points 2 and 3 above, this means
+   that when service processes become complex, the implementation of them
+   will not be in all details based on political decisions but also on
+   what is found to be practical. Such decisions are made in many places
+   in a situated manner. When such practical doings become implemented in
+   government (e)service systems, they will affect decision making, as
+   many changes will later be hard to make simply because exising
+   procedures are implemented in ICT systems and government agencies
+   procedures. There are many theories dealing with institutionalization,
+   for example [32]Structuration theory, [33]Institutional theory, and
+   [34]Actor-Network Theory. These theories all, in different ways, deal
+   with how "ways of doing things" become established or rejected, and how
+   those that become established increasingly affect the ways we
+   "normally" do things.
+
+[[35]edit] See also
+
+     * [36]eDemocracy
+     * [37]Direct democracy
+     * [38]eGovernment
+     * [39]Electronic civil disobedience
+     * [40]eRulemaking
+     * [41]Emergent democracy
+     * [42]Hacktivism
+     * [43]Internet activism
+     * [44]Online consultation
+     * [45]Online deliberation
+     * [46]Open politics
+     * [47]Open source governance
+     * [48]Participatory democracy
+     * [49]Parliamentary informatics
+     * [50]Radical transparency
+     * [51]Second Superpower
+     * [52]Smart mob
+
+[[53]edit] References
+
+   [1] Macintosh, A.: eParticipation in policy-making: the research and
+   the challenges. In: Exploiting the Knowledge Economy: Issues,
+   Applications, Case Studies. IOS Press, Amsterdam (2006)
+
+   [2] Clift, S.: E-Democracy, e-Governance and public net-work. (2003)
+
+   [3] DEMO_net: Demo_net Deliverable 5.1: Report on current ICTs to
+   enable partici- pation (2006)
+    1. [54]^ [55]European e-Government programme
+    2. [56]^ [57]European eParticipation web
+
+[[58]edit] External links
+
+     * [59]DEMO_net - The eParticipation Network of Excellence
+     * [60]MOMENTUM: The European Commission Support Action in
+       eParticipation
+     * [61]PEP-NET: Pan European eParticipation Network
+     * [62]European eParticipation Portal
+     * [63]Democracies Online Newswire
+     * [64]World e-Gov Forum
+     * [65]e-forum Association dedicated to analysing the future needs of
+       eGovernment in Europe
+     * [66]Internet Society Organization home for the groups responsible
+       for Internet infrastructure standards, including the Internet
+       Engineering Task Force (IETF) and the Internet Architecture Board
+       (IAB).
+     * [67]International Teledemocracy Centre, Napier University,
+       Edinburgh
+     * [68]TID+ - a research project studying the pioneering use of
+       e-participation in Estonia
+     * [69]E-participation Country Index -Provides an index on
+       E-participation
+
+   Retrieved from "[70]http://en.wikipedia.org/wiki/E-participation"
+   [71]Category: [72]Politics and technology
+   Hidden categories: [73]Cleanup from March 2008 | [74]All pages needing
+   cleanup
+
+Views
+
+     * [75]Article
+     * [76]Discussion
+     * [77]Edit this page
+     * [78]History
+
+Personal tools
+
+     * [79]Log in / create account
+
+Navigation
+
+     * [80]Main page
+     * [81]Contents
+     * [82]Featured content
+     * [83]Current events
+     * [84]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [85]About Wikipedia
+     * [86]Community portal
+     * [87]Recent changes
+     * [88]Contact Wikipedia
+     * [89]Donate to Wikipedia
+     * [90]Help
+
+Toolbox
+
+     * [91]What links here
+     * [92]Related changes
+     * [93]Upload file
+     * [94]Special pages
+     * [95]Printable version
+     * [96]Permanent link
+     * [97]Cite this page
+
+   [98]Powered by MediaWiki
+   [99]Wikimedia Foundation
+     * This page was last modified on 23 February 2009, at 20:20.
+     * All text is available under the terms of the [100]GNU Free
+       Documentation License. (See [101]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [102]Wikimedia
+       Foundation, Inc., a U.S. registered [103]501(c)(3)
+       [104]tax-deductible [105]nonprofit [106]charity.
+     * [107]Privacy policy
+     * [108]About Wikipedia
+     * [109]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=E-participation&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EParticipation&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Cleanup
+  10. file://localhost/wiki/Wikipedia:Manual_of_Style
+  11. http://en.wikipedia.org/w/index.php?title=E-participation&action=edit
+  12. file://localhost/wiki/E-government
+  13. file://localhost/wiki/Governance
+  14. file://localhost/wiki/E-democracy
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#European_eParticipation_Preparatory_Action
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#History
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#On_the_definition
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#See_also
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#References
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#External_links
+  21. file://localhost/w/index.php?title=E-participation&action=edit&section=1
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#cite_note-0
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#cite_note-1
+  24. file://localhost/wiki/European_Parliament
+  25. file://localhost/w/index.php?title=E-participation&action=edit&section=2
+  26. file://localhost/wiki/CSCW
+  27. file://localhost/wiki/Groupware
+  28. file://localhost/wiki/E-democracy
+  29. file://localhost/wiki/E-government
+  30. file://localhost/w/index.php?title=E-participation&action=edit&section=3
+  31. file://localhost/wiki/Participation
+  32. file://localhost/wiki/Structuration_theory
+  33. file://localhost/wiki/Institutional_theory
+  34. file://localhost/wiki/Actor-Network_Theory
+  35. file://localhost/w/index.php?title=E-participation&action=edit&section=4
+  36. file://localhost/wiki/EDemocracy
+  37. file://localhost/wiki/Direct_democracy
+  38. file://localhost/wiki/EGovernment
+  39. file://localhost/wiki/Electronic_civil_disobedience
+  40. file://localhost/wiki/ERulemaking
+  41. file://localhost/wiki/Emergent_democracy
+  42. file://localhost/wiki/Hacktivism
+  43. file://localhost/wiki/Internet_activism
+  44. file://localhost/wiki/Online_consultation
+  45. file://localhost/wiki/Online_deliberation
+  46. file://localhost/wiki/Open_politics
+  47. file://localhost/wiki/Open_source_governance
+  48. file://localhost/wiki/Participatory_democracy
+  49. file://localhost/wiki/Parliamentary_informatics
+  50. file://localhost/wiki/Radical_transparency
+  51. file://localhost/wiki/Second_Superpower
+  52. file://localhost/wiki/Smart_mob
+  53. file://localhost/w/index.php?title=E-participation&action=edit&section=5
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#cite_ref-0
+  55. http://ec.europa.eu/information_society/activities/egovernment/implementation/prep_action/index_en.htm
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc660.tmp.html#cite_ref-1
+  57. http://www.eu-participation.eu/
+  58. file://localhost/w/index.php?title=E-participation&action=edit&section=6
+  59. http://www.demo-net.org/
+  60. http://www.ep-momentum.eu/
+  61. http://www.pep-net.eu/
+  62. http://www.european-eparticipation.eu/
+  63. http://dowire.org/
+  64. http://www.worldegovforum.com/
+  65. http://www.eu-forum.org/
+  66. http://www.isoc.fr/
+  67. http://itc.napier.ac.uk/
+  68. http://tidywork.pbwiki.com/
+  69. http://unpan1.un.org/intradoc/groups/public/documents/un/unpan028607.pdf
+  70. http://en.wikipedia.org/wiki/E-participation
+  71. file://localhost/wiki/Special:Categories
+  72. file://localhost/wiki/Category:Politics_and_technology
+  73. file://localhost/wiki/Category:Cleanup_from_March_2008
+  74. file://localhost/wiki/Category:All_pages_needing_cleanup
+  75. file://localhost/wiki/E-participation
+  76. file://localhost/w/index.php?title=Talk:E-participation&action=edit&redlink=1
+  77. file://localhost/w/index.php?title=E-participation&action=edit
+  78. file://localhost/w/index.php?title=E-participation&action=history
+  79. file://localhost/w/index.php?title=Special:UserLogin&returnto=E-participation
+  80. file://localhost/wiki/Main_Page
+  81. file://localhost/wiki/Portal:Contents
+  82. file://localhost/wiki/Portal:Featured_content
+  83. file://localhost/wiki/Portal:Current_events
+  84. file://localhost/wiki/Special:Random
+  85. file://localhost/wiki/Wikipedia:About
+  86. file://localhost/wiki/Wikipedia:Community_portal
+  87. file://localhost/wiki/Special:RecentChanges
+  88. file://localhost/wiki/Wikipedia:Contact_us
+  89. http://wikimediafoundation.org/wiki/Donate
+  90. file://localhost/wiki/Help:Contents
+  91. file://localhost/wiki/Special:WhatLinksHere/E-participation
+  92. file://localhost/wiki/Special:RecentChangesLinked/E-participation
+  93. file://localhost/wiki/Wikipedia:Upload
+  94. file://localhost/wiki/Special:SpecialPages
+  95. file://localhost/w/index.php?title=E-participation&printable=yes
+  96. file://localhost/w/index.php?title=E-participation&oldid=272793866
+  97. file://localhost/w/index.php?title=Special:Cite&page=E-participation&id=272793866
+  98. http://www.mediawiki.org/
+  99. http://wikimediafoundation.org/
+ 100. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 101. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 102. http://www.wikimediafoundation.org/
+ 103. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 104. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 105. http://en.wikipedia.org/wiki/Non-profit_organization
+ 106. http://en.wikipedia.org/wiki/Charitable_organization
+ 107. http://wikimediafoundation.org/wiki/Privacy_policy
+ 108. file://localhost/wiki/Wikipedia:About
+ 109. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 110. file://localhost/wiki/File:Ambox_style.png
+ 111. file://localhost/wiki/Main_Page

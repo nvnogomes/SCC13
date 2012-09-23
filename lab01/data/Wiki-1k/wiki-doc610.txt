@@ -1,0 +1,369 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Neohesperidin dihydrochalcone
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E959)
+   Jump to: [7]navigation, [8]search
+   This article needs additional [9]citations for [10]verification. Please
+   help [11]improve this article by adding [12]reliable references.
+   Unsourced material may be [13]challenged and removed. (June 2008)
+        Neohesperidin dihydrochalcone^[14][1]
+   [15]IUPAC name
+
+   1-[4-[[(2S,3R,4S,5S,6R)-4,5-Dihydroxy-6-(hydroxymethyl)-3-
+   [[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyl-2-
+   tetrahydropyranyl]oxy]-2-tetrahydropyranyl]oxy]-2,6-dihydroxyphenyl]-
+   3-(3-hydroxy-4-methoxyphenyl)propan-1-one
+                     Identifiers
+   [16]CAS number        20702-77-6
+   [17]PubChem           [18]30231
+   [19]SMILES
+
+   C[C@H]1[C@@H]([C@H]([C@H] ([C@@H](O1)O[C@@H]2[C@H]
+   ([C@@H]([C@H](O[C@H]2OC3=CC(=C (C(=C3)O)C(=O)CCC4=CC(=C(C=C4)OC)
+   O)O)CO)O)O)O)O)O
+                     Properties
+   [20]Molecular formula C[28]H[36]O[15]
+   [21]Molar mass        612.58 g/mol
+   Except where noted otherwise, data are given for
+   materials in their [22]standard state
+   (at 25 C, 100 kPa)
+   [23]Infobox references
+
+   Neohesperidin dihydrochalcone, sometimes abbreviated to neohesperidin
+   DC or simply NHDC, is an [24]artificial sweetener derived from
+   [25]citrus.
+
+   NHDC was discovered during the 1960s as part of a [26]United States
+   Department of Agriculture research program to find methods for
+   minimizing the taste of bitter flavorants in citrus juices.
+   [27]Neohesperidin is one such bitter compound. When treated with
+   [28]potassium hydroxide or another strong base, and then
+   [29]catalytically [30]hydrogenated, it becomes NHDC, a compound roughly
+   1500-1800 times sweeter than sugar at threshold concentrations; around
+   340 times sweeter than sugar weight-for-weight. Its potency is
+   naturally affected by such factors as the application it is used for,
+   and the [31]pH of the product.
+
+   Like other highly sweet [32]glycosides, such as [33]glycyrrhizin and
+   those found in [34]stevia, NHDC's sweet taste has a slower onset than
+   sugar's and lingers in the mouth for some time. Unlike [35]aspartame,
+   NHDC is stable to elevated temperatures and to acidic or basic
+   conditions, and so can be used in applications that require a long
+   shelf life. NHDC itself can stay foodsafe for up to five years when
+   stored in optimal conditions.
+
+   The [36]European Union approved NHDC's use as a sweetener in 1994. It
+   has not been approved as a sweetener in the [37]United States. It is
+   sometimes said that NHDC is considered a [38]Generally Recognized as
+   Safe flavour enhancer by the Flavour and Extract Manufacturers'
+   Association, which is a trade group with no legal standing. NHDC has
+   never appeared on the FDA's GRAS listing.
+
+   It is particularly effective in masking the bitter tastes of other
+   compounds found in citrus, including [39]limonin and [40]naringin.
+   Industrially, it is produced by extracting neohesperidin from the
+   [41]bitter orange, and then hydrogenating this to make NHDC.
+
+   The product is well known for having a strong synergistic effect when
+   used in conjunction with other [42]artificial sweeteners such as
+   [43]aspartame, [44]saccharin, [45]acesulfame potassium, and
+   [46]cyclamate, as well as sugar alcohols such as [47]xylitol. NHDC
+   usage boosts the effects of these sweeteners at lower concentrations
+   than would otherwise be required; smaller amounts of other sweeteners
+   are needed. This provides a cost benefit.
+
+   As a [48]flavour enhancer, NHDC is used in a wide range of products and
+   is indicated by the [49]E number E 959. It is noted particularly for
+   enhancing [50]sensory effects (known in the industry as 'mouth feel.')
+   An example of this is 'creaminess' in [51]dairy foods such as
+   [52]yogurt and [53]ice cream but is also widely favoured for use in
+   otherwise naturally [54]bitter products. [55]Pharmaceutical companies
+   are fond of the product as a means of reducing the bitterness of
+   [56]pharmacological [57]drugs in [58]tablet form and it has been used
+   for [59]livestock feed as a means of reducing feeding time. Other
+   products NHDC can be found in may include a wide variety of
+   [60]alcoholic beverages (and non-alcoholic), [61]savoury foods,
+   [62]toothpaste, [63]mouthwash and [64]condiments such as [65]ketchup
+   and [66]mayonnaise.
+
+   NHDC in pure form is found as a white substance not unlike [67]powdered
+   sugar. In food it is used as a [68]flavour enhancer in concentrations
+   of around 4-5 [69]parts per million (ppm) and as an [70]artificial
+   sweetener at around 15-20 ppm.
+
+   Research has shown that at strengths of around and above 20 ppm, NHDC
+   can produce side effects such as [71]nausea and [72]migraine. This is
+   not widely documented, however is unquestionably known within the
+   [73]food science communities that have worked with the product, and
+   many recommend wearing a [74]surgical mask when handling pure NHDC.
+
+[[75]edit] References
+
+    1. [76]^ [77]Merck Index, 11th Edition, 6367.
+
+[[78]edit] External links
+
+     * [79]EVESA.
+
+   [80]v  [81]d  [82]e
+   [83]E numbers - 950-969
+
+   [84]Colours (E100199) [85]Preservatives (E200299) [86]Antioxidants &
+   [87]Acidity regulators (E300399) [88]Thickeners, [89]stabilisers &
+   [90]emulsifiers (E400499) [91]pH [92]regulators & [93]anti-caking
+   agents (E500599) [94]Flavour enhancers (E600699) [95]Antibiotics
+   (E700799) Miscellaneous (E900999) Additional chemicals (E11001599)
+     __________________________________________________________________
+
+   [96]Waxes (E900909) [97]Synthetic glazes (E910919) [98]Improving agents
+   (E920929) [99]Packaging gases (E930949) [100]Sweeteners (E950969)
+   [101]Foaming agents (E990999)
+     __________________________________________________________________
+
+   [102]Acesulfame K (E950) [103]Aspartame (E951) [104]Cyclamate (E952)
+   [105]Isomalt (E953) [106]Saccharin (E954) [107]Sucralose (E955)
+   [108]Alitame (E956) [109]Thaumatin (E957) Neohesperidin dihydrochalcone
+   (E959) [110]Aspartame-acesulfame salt (E962) [111]Maltitol (E965)
+   [112]Lactitol (E966) [113]Xylitol (E967)
+   Retrieved from
+   "[114]http://en.wikipedia.org/wiki/Neohesperidin_dihydrochalcone"
+   [115]Categories: [116]Sweeteners | [117]Food additives |
+   [118]Glycosides
+   Hidden category: [119]Articles needing additional references from June
+   2008
+
+Views
+
+     * [120]Article
+     * [121]Discussion
+     * [122]Edit this page
+     * [123]History
+
+Personal tools
+
+     * [124]Log in / create account
+
+Navigation
+
+     * [125]Main page
+     * [126]Contents
+     * [127]Featured content
+     * [128]Current events
+     * [129]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [130]About Wikipedia
+     * [131]Community portal
+     * [132]Recent changes
+     * [133]Contact Wikipedia
+     * [134]Donate to Wikipedia
+     * [135]Help
+
+Toolbox
+
+     * [136]What links here
+     * [137]Related changes
+     * [138]Upload file
+     * [139]Special pages
+     * [140]Printable version
+     * [141]Permanent link
+     * [142]Cite this page
+
+Languages
+
+     * [143]Deutsch
+     * [144]Espaol
+     * [145]Franais
+     * [146]Galego
+     * [147]Nederlands
+     * [148]Slovenina
+
+   [149]Powered by MediaWiki
+   [150]Wikimedia Foundation
+     * This page was last modified on 22 January 2009, at 15:41.
+     * All text is available under the terms of the [151]GNU Free
+       Documentation License. (See [152]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [153]Wikimedia
+       Foundation, Inc., a U.S. registered [154]501(c)(3)
+       [155]tax-deductible [156]nonprofit [157]charity.
+     * [158]Privacy policy
+     * [159]About Wikipedia
+     * [160]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Neohesperidin_dihydrochalcone&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E959&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc610.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc610.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:Verifiability
+  11. http://en.wikipedia.org/w/index.php?title=Neohesperidin_dihydrochalcone&action=edit
+  12. file://localhost/wiki/Wikipedia:Reliable_sources
+  13. file://localhost/wiki/Template:Fact
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc610.tmp.html#cite_note-0
+  15. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  16. file://localhost/wiki/CAS_registry_number
+  17. file://localhost/wiki/PubChem
+  18. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=30231
+  19. file://localhost/wiki/Simplified_molecular_input_line_entry_specification
+  20. file://localhost/wiki/Chemical_formula
+  21. file://localhost/wiki/Molar_mass
+  22. file://localhost/wiki/Standard_state
+  23. file://localhost/wiki/Wikipedia:Chemical_infobox#References
+  24. file://localhost/wiki/Artificial_sweetener
+  25. file://localhost/wiki/Citrus
+  26. file://localhost/wiki/United_States_Department_of_Agriculture
+  27. file://localhost/w/index.php?title=Neohesperidin&action=edit&redlink=1
+  28. file://localhost/wiki/Potassium_hydroxide
+  29. file://localhost/wiki/Catalyst
+  30. file://localhost/wiki/Hydrogenation
+  31. file://localhost/wiki/PH
+  32. file://localhost/wiki/Glycoside
+  33. file://localhost/wiki/Glycyrrhizin
+  34. file://localhost/wiki/Stevia
+  35. file://localhost/wiki/Aspartame
+  36. file://localhost/wiki/European_Union
+  37. file://localhost/wiki/United_States
+  38. file://localhost/wiki/Generally_Recognized_as_Safe
+  39. file://localhost/wiki/Limonin
+  40. file://localhost/wiki/Naringin
+  41. file://localhost/wiki/Bitter_orange
+  42. file://localhost/wiki/Artificial_sweetener
+  43. file://localhost/wiki/Aspartame
+  44. file://localhost/wiki/Saccharin
+  45. file://localhost/wiki/Acesulfame_potassium
+  46. file://localhost/wiki/Cyclamate
+  47. file://localhost/wiki/Xylitol
+  48. file://localhost/wiki/Flavour_enhancer
+  49. file://localhost/wiki/E_number
+  50. file://localhost/wiki/Sensory_analysis
+  51. file://localhost/wiki/Dairy
+  52. file://localhost/wiki/Yogurt
+  53. file://localhost/wiki/Ice_cream
+  54. file://localhost/wiki/Bitter_(taste)
+  55. file://localhost/wiki/Pharmaceutical
+  56. file://localhost/wiki/Pharmacological
+  57. file://localhost/wiki/Medication
+  58. file://localhost/wiki/Tablet
+  59. file://localhost/wiki/Livestock
+  60. file://localhost/wiki/Alcoholic_beverage
+  61. file://localhost/wiki/Savoury
+  62. file://localhost/wiki/Toothpaste
+  63. file://localhost/wiki/Mouthwash
+  64. file://localhost/wiki/Condiment
+  65. file://localhost/wiki/Ketchup
+  66. file://localhost/wiki/Mayonnaise
+  67. file://localhost/wiki/Powdered_sugar
+  68. file://localhost/wiki/Flavour_enhancer
+  69. file://localhost/wiki/Parts_per_million
+  70. file://localhost/wiki/Artificial_sweetener
+  71. file://localhost/wiki/Nausea
+  72. file://localhost/wiki/Migraine
+  73. file://localhost/wiki/Food_science
+  74. file://localhost/wiki/Surgical_mask
+  75. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&action=edit&section=1
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc610.tmp.html#cite_ref-0
+  77. file://localhost/wiki/Merck_Index
+  78. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&action=edit&section=2
+  79. http://www.evesa.com/product/nhdc.html
+  80. file://localhost/wiki/Template:E_number_infobox_950-969
+  81. file://localhost/w/index.php?title=Template_talk:E_number_infobox_950-969&action=edit&redlink=1
+  82. http://en.wikipedia.org/w/index.php?title=Template:E_number_infobox_950-969&action=edit
+  83. file://localhost/wiki/E_number
+  84. file://localhost/wiki/Food_colouring
+  85. file://localhost/wiki/Preservative
+  86. file://localhost/wiki/Antioxidant
+  87. file://localhost/wiki/Acidity_regulator
+  88. file://localhost/wiki/Thickener
+  89. file://localhost/wiki/Food_additive#Categories
+  90. file://localhost/wiki/Emulsifier
+  91. file://localhost/wiki/PH
+  92. file://localhost/wiki/Acidity_regulator
+  93. file://localhost/wiki/Anti-caking_agent
+  94. file://localhost/wiki/Flavour_enhancer
+  95. file://localhost/wiki/Antibiotics
+  96. file://localhost/wiki/Wax
+  97. file://localhost/wiki/Glazing_agent
+  98. file://localhost/wiki/Improving_agent
+  99. file://localhost/wiki/Packaging_gas
+ 100. file://localhost/wiki/Sugar_substitute
+ 101. file://localhost/wiki/Foaming_agent
+ 102. file://localhost/wiki/Acesulfame_K
+ 103. file://localhost/wiki/Aspartame
+ 104. file://localhost/wiki/Cyclamate
+ 105. file://localhost/wiki/Isomalt
+ 106. file://localhost/wiki/Saccharin
+ 107. file://localhost/wiki/Sucralose
+ 108. file://localhost/wiki/Alitame
+ 109. file://localhost/wiki/Thaumatin
+ 110. file://localhost/wiki/Aspartame-acesulfame_salt
+ 111. file://localhost/wiki/Maltitol
+ 112. file://localhost/wiki/Lactitol
+ 113. file://localhost/wiki/Xylitol
+ 114. http://en.wikipedia.org/wiki/Neohesperidin_dihydrochalcone
+ 115. file://localhost/wiki/Special:Categories
+ 116. file://localhost/wiki/Category:Sweeteners
+ 117. file://localhost/wiki/Category:Food_additives
+ 118. file://localhost/wiki/Category:Glycosides
+ 119. file://localhost/wiki/Category:Articles_needing_additional_references_from_June_2008
+ 120. file://localhost/wiki/Neohesperidin_dihydrochalcone
+ 121. file://localhost/wiki/Talk:Neohesperidin_dihydrochalcone
+ 122. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&action=edit
+ 123. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&action=history
+ 124. file://localhost/w/index.php?title=Special:UserLogin&returnto=Neohesperidin_dihydrochalcone
+ 125. file://localhost/wiki/Main_Page
+ 126. file://localhost/wiki/Portal:Contents
+ 127. file://localhost/wiki/Portal:Featured_content
+ 128. file://localhost/wiki/Portal:Current_events
+ 129. file://localhost/wiki/Special:Random
+ 130. file://localhost/wiki/Wikipedia:About
+ 131. file://localhost/wiki/Wikipedia:Community_portal
+ 132. file://localhost/wiki/Special:RecentChanges
+ 133. file://localhost/wiki/Wikipedia:Contact_us
+ 134. http://wikimediafoundation.org/wiki/Donate
+ 135. file://localhost/wiki/Help:Contents
+ 136. file://localhost/wiki/Special:WhatLinksHere/Neohesperidin_dihydrochalcone
+ 137. file://localhost/wiki/Special:RecentChangesLinked/Neohesperidin_dihydrochalcone
+ 138. file://localhost/wiki/Wikipedia:Upload
+ 139. file://localhost/wiki/Special:SpecialPages
+ 140. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&printable=yes
+ 141. file://localhost/w/index.php?title=Neohesperidin_dihydrochalcone&oldid=265719370
+ 142. file://localhost/w/index.php?title=Special:Cite&page=Neohesperidin_dihydrochalcone&id=265719370
+ 143. http://de.wikipedia.org/wiki/Neohesperidin-Dihydrochalkon
+ 144. http://es.wikipedia.org/wiki/Neohesperidina_dihidrocalcona
+ 145. http://fr.wikipedia.org/wiki/N%C3%A9ohesp%C3%A9ridine_dihydrochalcone
+ 146. http://gl.wikipedia.org/wiki/Neohesperidina_dihidrocalcona
+ 147. http://nl.wikipedia.org/wiki/Neohesperidine_dihydrochalcon
+ 148. http://sl.wikipedia.org/wiki/Neohesperidin_dihidroalkon
+ 149. http://www.mediawiki.org/
+ 150. http://wikimediafoundation.org/
+ 151. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 152. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 153. http://www.wikimediafoundation.org/
+ 154. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 155. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 156. http://en.wikipedia.org/wiki/Non-profit_organization
+ 157. http://en.wikipedia.org/wiki/Charitable_organization
+ 158. http://wikimediafoundation.org/wiki/Privacy_policy
+ 159. file://localhost/wiki/Wikipedia:About
+ 160. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 161. file://localhost/wiki/File:Question_book-new.svg
+ 162. file://localhost/wiki/File:Neohesperidin_dihydrochalcone.png
+ 163. file://localhost/wiki/Main_Page

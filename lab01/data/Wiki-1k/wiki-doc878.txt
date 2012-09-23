@@ -1,0 +1,264 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Uniform civil number
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Edinen Grazhdanski Nomer)
+   Jump to: [7]navigation, [8]search
+
+   The uniform civil number ([9]Bulgarian: ; abbreviated: , EGN) is a
+   10-digit unique number assigned to each [10]Bulgarian citizen or
+   resident foreign national. It serves as a [11]national identification
+   number. An EGN is assigned to Bulgarians at birth, or when a [12]birth
+   certificate is issued. The uniform system for civil registration and
+   administrative service of population ([13]Bulgarian: ; abbreviated: ,
+   ESGRAON) regulates the EGN system.
+
+Contents
+
+     * [14]1 Structure
+     * [15]2 Information leakage
+     * [16]3 Examples of valid EGN numbers
+     * [17]4 Misuse
+     * [18]5 See also
+     * [19]6 External links
+
+[[20]edit] Structure
+
+   The initial six digits correspond to the birth date (YYMMDD). Since
+   there are only two digits reserved for the year, only years between
+   1900 and 1999 can be encoded directly. Other years get represented as
+   follows:
+     * for births before [21]1 January [22]1900, 20 is added to the month
+     * for births from [23]31 January [24]1999 to [25]31 December
+       [26]2099, 40 is added to the month
+
+   The next three digits designate the birth order number, the third digit
+   being even for males and odd for females.
+
+   The tenth digit is a checksum, calculated using the following
+   [27]algorithm:
+    1. Each digit is multiplied by its weight (see below)
+    2. The products obtained are added
+    3. The sum is divided by 11 ( use sum % 11, not /, modulus, not
+       division)
+    4. If the remainder is less than 10, the remainder is the checksum
+       digit, otherwise the checksum digit is zero
+
++------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Position   |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
++------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Weight     |  x2 |  x4 |  x8 |  x5 | x10 |  x9 |  x7 |  x3 |  x6 |     |
++------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+
+   The weights are the powers of 2, modulo 11. (See also: [28]Galois field
+   applications)
+
+[[29]edit] Information leakage
+
+   The last digits of an EGN can reveal with reasonable accuracy the
+   birthplace of a Bulgarian citizen, because of the long-lasting practice
+   of assigning numbered sheets of paper to municipal ESGRAON divisions.
+   Other divisions directly add the birth sequence number to the last 3
+   digits of their EKNM (a regional identifier) and possibly another 1
+   depending on the baby's sex. This practice is denied by ESGRAON
+   officers, but is nevertheless used by civil authorities as a rule of
+   thumb for checking the validity of an identity document.^[[30]citation
+   needed]
+
+[[31]edit] Examples of valid EGN numbers
+
+     * 7523169263 a male, born on [32]16 March [33]1875
+     * 8032056031 a female, born on [34]5 December [35]1880
+     * 8001010008 a male, born on [36]1 January [37]1980
+     * 7501020018 a female, born on [38]2 January [39]1975
+     * 7552010005 a male, born on [40]1 December [41]2075
+     * 7542011030 a female, born on [42]1 February [43]2075
+
+[[44]edit] Misuse
+
+   In order to easily cross borders criminals have been known to change
+   EGNs. There were 46 such cases detected in March 2005.
+
+   Using the EGN system for identification raised some privacy concerns,
+   though they are officially considered personal information and are
+   protected by law.
+
+[[45]edit] See also
+
+     * [46]United States [47]Social Security number
+     * [48]Yugoslavia's [49]Unique Master Citizen Number
+     * [50]Australia's [51]Tax File Number
+
+[[52]edit] External links
+
+     * [53]A paper, Integrated Information System for Demographic
+       Statistics 'ESGRAON-TDS' in Bulgaria
+
+   Retrieved from "[54]http://en.wikipedia.org/wiki/Uniform_civil_number"
+   [55]Category: [56]Bulgarian law
+   Hidden categories: [57]Articles containing Bulgarian language text |
+   [58]All articles with unsourced statements | [59]Articles with
+   unsourced statements since February 2007
+
+Views
+
+     * [60]Article
+     * [61]Discussion
+     * [62]Edit this page
+     * [63]History
+
+Personal tools
+
+     * [64]Log in / create account
+
+Navigation
+
+     * [65]Main page
+     * [66]Contents
+     * [67]Featured content
+     * [68]Current events
+     * [69]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [70]About Wikipedia
+     * [71]Community portal
+     * [72]Recent changes
+     * [73]Contact Wikipedia
+     * [74]Donate to Wikipedia
+     * [75]Help
+
+Toolbox
+
+     * [76]What links here
+     * [77]Related changes
+     * [78]Upload file
+     * [79]Special pages
+     * [80]Printable version
+     * [81]Permanent link
+     * [82]Cite this page
+
+Languages
+
+     *
+
+   [83]Powered by MediaWiki
+   [84]Wikimedia Foundation
+     * This page was last modified on 17 January 2008, at 10:52.
+     * All text is available under the terms of the [85]GNU Free
+       Documentation License. (See [86]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [87]Wikimedia
+       Foundation, Inc., a U.S. registered [88]501(c)(3)
+       [89]tax-deductible [90]nonprofit [91]charity.
+     * [92]Privacy policy
+     * [93]About Wikipedia
+     * [94]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Uniform_civil_number&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Edinen_Grazhdanski_Nomer&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#searchInput
+   9. file://localhost/wiki/Bulgarian_language
+  10. file://localhost/wiki/Bulgaria
+  11. file://localhost/wiki/National_identification_number
+  12. file://localhost/wiki/Birth_certificate
+  13. file://localhost/wiki/Bulgarian_language
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#Structure
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#Information_leakage
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#Examples_of_valid_EGN_numbers
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#Misuse
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#See_also
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc878.tmp.html#External_links
+  20. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=1
+  21. file://localhost/wiki/January_1
+  22. file://localhost/wiki/1900
+  23. file://localhost/wiki/January_31
+  24. file://localhost/wiki/1999
+  25. file://localhost/wiki/December_31
+  26. file://localhost/wiki/2099
+  27. file://localhost/wiki/Algorithm
+  28. file://localhost/wiki/Galois_field#Applications
+  29. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=2
+  30. file://localhost/wiki/Wikipedia:Citation_needed
+  31. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=3
+  32. file://localhost/wiki/March_16
+  33. file://localhost/wiki/1875
+  34. file://localhost/wiki/December_5
+  35. file://localhost/wiki/1880
+  36. file://localhost/wiki/January_1
+  37. file://localhost/wiki/1980
+  38. file://localhost/wiki/January_2
+  39. file://localhost/wiki/1975
+  40. file://localhost/wiki/December_1
+  41. file://localhost/wiki/2075
+  42. file://localhost/wiki/February_1
+  43. file://localhost/wiki/2075
+  44. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=4
+  45. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=5
+  46. file://localhost/wiki/United_States
+  47. file://localhost/wiki/Social_Security_number
+  48. file://localhost/wiki/Yugoslavia
+  49. file://localhost/wiki/Unique_Master_Citizen_Number
+  50. file://localhost/wiki/Australia
+  51. file://localhost/wiki/Tax_File_Number
+  52. file://localhost/w/index.php?title=Uniform_civil_number&action=edit&section=6
+  53. http://www.demographic-research.org/volumes/vol6/12/
+  54. http://en.wikipedia.org/wiki/Uniform_civil_number
+  55. file://localhost/wiki/Special:Categories
+  56. file://localhost/wiki/Category:Bulgarian_law
+  57. file://localhost/wiki/Category:Articles_containing_Bulgarian_language_text
+  58. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+  59. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2007
+  60. file://localhost/wiki/Uniform_civil_number
+  61. file://localhost/wiki/Talk:Uniform_civil_number
+  62. file://localhost/w/index.php?title=Uniform_civil_number&action=edit
+  63. file://localhost/w/index.php?title=Uniform_civil_number&action=history
+  64. file://localhost/w/index.php?title=Special:UserLogin&returnto=Uniform_civil_number
+  65. file://localhost/wiki/Main_Page
+  66. file://localhost/wiki/Portal:Contents
+  67. file://localhost/wiki/Portal:Featured_content
+  68. file://localhost/wiki/Portal:Current_events
+  69. file://localhost/wiki/Special:Random
+  70. file://localhost/wiki/Wikipedia:About
+  71. file://localhost/wiki/Wikipedia:Community_portal
+  72. file://localhost/wiki/Special:RecentChanges
+  73. file://localhost/wiki/Wikipedia:Contact_us
+  74. http://wikimediafoundation.org/wiki/Donate
+  75. file://localhost/wiki/Help:Contents
+  76. file://localhost/wiki/Special:WhatLinksHere/Uniform_civil_number
+  77. file://localhost/wiki/Special:RecentChangesLinked/Uniform_civil_number
+  78. file://localhost/wiki/Wikipedia:Upload
+  79. file://localhost/wiki/Special:SpecialPages
+  80. file://localhost/w/index.php?title=Uniform_civil_number&printable=yes
+  81. file://localhost/w/index.php?title=Uniform_civil_number&oldid=184949376
+  82. file://localhost/w/index.php?title=Special:Cite&page=Uniform_civil_number&id=184949376
+  83. http://www.mediawiki.org/
+  84. http://wikimediafoundation.org/
+  85. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  86. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  87. http://www.wikimediafoundation.org/
+  88. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  89. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  90. http://en.wikipedia.org/wiki/Non-profit_organization
+  91. http://en.wikipedia.org/wiki/Charitable_organization
+  92. http://wikimediafoundation.org/wiki/Privacy_policy
+  93. file://localhost/wiki/Wikipedia:About
+  94. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  95. file://localhost/wiki/Main_Page
+  96. http://bg.wikipedia.org/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80

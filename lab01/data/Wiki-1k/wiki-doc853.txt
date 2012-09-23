@@ -1,0 +1,594 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Edema
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   Not to be confused with [8]Adema or [9]enema.
+   "Dropsy" redirects here. For other uses, see [10]Dropsy
+   (disambiguation).
+
+   CAPTION: Edema
+
+   [11]ICD-[12]10 [13]R[14]60.9
+   [15]ICD-[16]9  [17]782.3
+   [18]DiseasesDB [19]9148
+      [20]MeSH    [21]D004487
+
+   Edema ([22]American English) or Oedema ([23]British English), formerly
+   known as dropsy or hydropsy, is an abnormal accumulation of fluid
+   beneath the skin, or in one or more cavities of the body. Generally,
+   the amount of [24]interstitial fluid is determined by the balance of
+   fluid [25]homeostasis, and increased secretion of fluid into the
+   interstitium or impaired removal of this fluid may cause edema.
+
+   Five factors can contribute to the formation of edema. It may be
+   facilitated by increased [26]hydrostatic pressure or reduced
+   [27]oncotic pressure within blood vessels, increased blood vessel wall
+   permeability as in [28]inflammation, obstruction of fluid clearance via
+   the [29]lymphatic or changes in the water retaining properties of the
+   tissues themselves. Raised hydrostatic pressure often reflects
+   retention of water and sodium by the kidney.^[30][1]
+
+Contents
+
+     * [31]1 Mechanism
+     * [32]2 Organ-specific edema
+     * [33]3 Edema in plants
+     * [34]4 References
+     * [35]5 External links
+
+[[36]edit] Mechanism
+
+   Generation of interstitial fluid is regulated by the forces of the
+   [37]Starling equation.^[38][2] Hydrostatic pressure within blood
+   vessels tends to cause water to filter out into the tissue. This leads
+   to a difference in protein concentration between blood plasma and
+   tissue. As a result the [39]oncotic pressure of the higher level of
+   protein in the plasma tends to suck water back into the blood vessels
+   from the tissue. It is often not appreciated that the Starling equation
+   does not indicate a balance between these forces. The hydrostatic force
+   must always win, and there must always be leakage of fluid out of the
+   vessel because otherwise there can be no oncotic gradient. Starling's
+   equation states that the rate of leakage of fluid is determined by the
+   difference between the two forces and also by the permeability of the
+   vessel wall to water, which determines the rate of flow for a given
+   force imbalance. Most water leakage occurs in capillaries or post
+   capillary [40]venules, which have a [41]semi-permeable membrane wall
+   that allows water to pass more freely than protein. (The protein is
+   said to be reflected and the efficiency of reflection is given by a
+   reflection constant of up to 1.) If the gaps between the cells of the
+   vessel wall open up then permeability to water is increased first, but
+   as the gaps increase in size permeability to protein also increases
+   with a fall in reflection coefficient.
+
+   Changes in the variables in Starling's equation can contribute to the
+   formation of edema either by an increase in hydrostatic pressure within
+   the blood vessel, a decrease in the oncotic pressure within the blood
+   vessel or an increase in vessel wall permeability. The latter has two
+   effects. It allows water to flow more freely and it reduces the oncotic
+   pressure difference by allowing protein to leave the vessel more
+   easily.
+
+   A rise in hydrostatic pressure occurs in cardiac failure. A fall in
+   oncotic pressure occurs in nephrotic syndrome and liver failure. An
+   increase in permeability occurs in inflammation. It is commonly taught
+   that these facts explain the occurrence of edema in these conditions.
+   However, it has been known since the 1950s that the situation is more
+   complex and it is still far from completely understood^[42][3].
+
+   The variation in hydrostatic pressure in the vessels in the feet as
+   compared to the face is about a metre of water. In the case of human
+   feet, the Starling forces are always a long way out of balance. In
+   severe heart failure the change in central venous pressure is tiny in
+   comparison and cannot explain why edema of the feet develops simply
+   through an effect on capillary leakage. Three other factors may be
+   involved. If the central venous pressure rises to equal that of the
+   thoracic lymph duct then clearance of fluid from the tissue will be
+   impeded (see below). That is to say the edema may actually be caused by
+   a change in output of fluid from the tissue, as much as input to the
+   tissue. Secondly, severe heart failure is one of the most exhausting
+   conditions there is. The sufferers tend to spend what little effort
+   they can make trying to breathe with edematous lungs. They tend to sit
+   up to make breathing easier and their feet hang immobile on the floor.
+   Immobility is perhaps the commonest of all causes of edema, because
+   clearance of fluid via the lymphatics needs muscle action. Thirdly, in
+   severe heart failure [43]endocrine and neural changes alter the way
+   tissues are perfused in ways that are not fully understood.
+
+   Although a low plasma oncotic pressure is widely cited for the edema of
+   nephrotic syndrome, most physicians note that the edema may occur
+   before there is any significant loss of protein in the urine or fall in
+   plasma protein level. Fortunately there is another explanation
+   available. Most forms of nephrotic syndrome are due to biochemical and
+   structural changes in the basement membrane of capillaries in the
+   kidney glomerulae, and these changes occur, if to a lesser degree, in
+   the vessels of most other tissues of the body. Thus the resulting
+   increase in permeability that leads to protein in the urine can explain
+   the edema if all other vessels are more permeable as well.
+
+   Abnormal removal of interstitial fluid is caused by failure of the
+   [44]lymphatic system. This may be due to obstruction from, for example,
+   pressure from a [45]cancer or enlarged [46]lymph nodes, destruction of
+   lymph vessels by [47]radiotherapy, or infiltration of the lymphatics by
+   infection (such as [48]elephantiasis). It is most commonly due to a
+   failure of the pumping action of muscles due to immobility, most
+   strikingly in conditions such as multiple sclerosis, or paraplegia.
+   Lymphatic return of fluid is also dependent on a pumping action of
+   structures known as lymph hearts. It has been suggested that the edema
+   that occurs in some people following use of aspirin-like
+   cyclo-oxygenase inhibitors such as ibuprofen or indomethacin may be due
+   to inhibition of lymph heart action.
+
+   In myxedema and a variety of other rarer conditions edema is due to an
+   increased tendency of the tissue to hold water within its extracellular
+   space. In myxedema this is because of an increase in hydrophilic
+   carbohydrate-rich molecules (perhaps mostly hyaluronan) deposited in
+   the tissue matrix. Edema forms more easily in dependent areas in the
+   elderly (sitting in chairs at home or on aeroplanes) and this is not
+   well understood. Estrogens alter body weight in part through changes in
+   tissue water content. There may be a variety of poorly understood
+   situations in which transfer of water from tissue matrix to lymphatics
+   is impaired because of changes in the hydrophilicity of the tissue or
+   failure of the 'wicking' function of terminal lymphatic capillaries.
+
+[[49]edit] Organ-specific edema
+
+   Edema will occur in specific organs as part of inflammation, as in
+   pharyngitis, tendonitis or pancreatitis, for instance. Certain organs
+   develop edema through tissue specific mechanisms. Examples of edema in
+   specific organs:
+
+          + [50]Cerebral edema is extracellular fluid accumulation in the
+            brain. It can occur in toxic or abnormal metabolic states and
+            conditions such as systemic lupus. It causes drowsiness or
+            loss of consciousness.
+          + Pulmonary edema occurs when the pressure in blood vessels in
+            the lung is raised because of obstruction to removal of blood
+            via the pulmonary veins. This is usually due to failure of the
+            left ventricle of the heart. It can also occur in altitude
+            sickness or on inhalation of toxic chemicals. Pulmonary edema
+            produces shortness of breath. [51]Pleural effusions may occur
+            when fluid also accumulates in the [52]pleural cavity.
+
+          + Edema may also be found in the cornea of the eye with
+            glaucoma, severe conjunctivitis or keratitis or after surgery.
+            It may produce coloured haloes around bright lights.
+
+   Causes of edema which are generalized to the whole body can cause edema
+   in multiple organs and peripherally. For example, severe heart failure
+   can cause pulmonary edema, pleural effusions, ascites and
+   [53]peripheral edema, the last of which effects can also derive from
+   less serious causes.^[54][4]
+
+   Common appearances of [55]cutaneous edema are observed with
+   [56]mosquito bites, bee stings ([57]wheal and flare), and skin contact
+   with certain plants such as [58]Poison Ivy or [59]Western Poison
+   Oak,^[60][5] the latter of which are termed [61]contact dermatitis.
+
+[[62]edit] Edema in plants
+
+   Edema in plants is the extended swelling in plant organs caused
+   primarily by an excessive accumulation of water. This occurs since the
+   cell walls are composed of flexible cellulose.
+
+[[63]edit] References
+
+    1. [64]^ Kumar, Abbas, Fausto (1999). Pathologic Basis of Disease, 7th
+       edition. China: Elsevier Saunders. pp. 122. [65]ISBN
+       0-7216-0187-1.
+    2. [66]^ Walter F., PhD. Boron. Medical Physiology: A Cellular And
+       Molecular Approaoch, Elsevier/Saunders. [67]ISBN 1-4160-2328-3.
+    3. [68]^ Renkin EM. (1994) Cellular aspects of transvascular exchange:
+       a 40-year perspective. Microcirculation 1(3):157-67.
+    4. [69]^ Cho S, Atwood J (2002). "Peripheral oedema". Am J Med 113
+       (7): 5806. [70]doi:[71]10.1016/S0002-9343(02)01322-0. [72]PMID
+       12459405.
+    5. [73]^ C.Michael Hogan (2008) [74]"Western poison-oak: Toxicodendron
+       diversilobum", GlobalTwitcher, ed. Nicklas Strmberg
+
+[[75]edit] External links
+
+     * [76]Edema - Swelling - causes, treatment and more details
+     * [77]Medline Encyclopedia - Swelling
+
+   [78]v  [79]d  [80]e
+   [81]Symptoms and [82]signs: general ([83]R50-R69, [84]780-789)
+   [85]Fever
+   [86]Hyperpyrexia - [87]Fever of unknown origin
+   [88]Pain
+   [89]Headache - [90]Chronic pain
+   [91]Malaise/[92]Fatigue
+   [93]Asthenia - [94]Debility
+   [95]Fainting/syncope
+   [96]Vasovagal syncope - [97]Carotid sinus syncope - [98]Heat syncope
+   [99]Ingestion
+   food and fluid intake ([100]Anorexia, [101]Polydipsia, [102]Polyphagia)
+   - [103]Cachexia - [104]Xerostomia
+   [105]Anorexia/[106]Weight loss
+   [107]Hemodynamic
+   [108]Shock: [109]Cardiogenic - [110]Hypovolemic - [111]Distributive
+   ([112]Septic, [113]Neurogenic)
+
+   Edema: [114]Peripheral edema - [115]Anasarca
+
+   [116]Hyperaemia: [117]Functional - [118]Reactive
+   [119]Lymphadenopathy
+   Underdevelopment
+   [120]Delayed milestone - [121]Failure to thrive - [122]Short stature
+   ([123]Idiopathic)
+   Other
+   [124]Seizure ([125]Febrile seizure)
+
+   [126]Hyperhidrosis ([127]Sleep hyperhidrosis)
+
+   [128]Clubbing - [129]Tenderness
+   [130]Flu-like syndrome
+   [131]v  [132]d  [133]e
+   [134]Pathology: [135]hemodynamics
+   Decreases
+   [136]Infarction
+   general: [137]Anemic infarct - [138]Hemorrhagic infarct
+   regional: [139]Myocardial infarction - [140]Splenic infarction
+   [141]Ischemia
+   [142]Brain ischemia - [143]Ischaemic heart disease
+   [144]Thrombus/[145]thrombosis
+   [146]Renal vein thrombosis
+   Increases
+   [147]Hemorrhage
+   general: [148]Petechia - [149]Purpura - [150]Ecchymosis - [151]Hematoma
+   regional: head ([152]Epistaxis, [153]Hemoptysis, [154]Intracranial
+   hemorrhage, [155]Hyphema) - torso ([156]Hemothorax,
+   [157]Hemopericardium) - abdomen ([158]Gastrointestinal bleeding,
+   [159]Haemobilia, [160]Hemoperitoneum, [161]Hematocele,
+   [162]Hematosalpinx ) - joint ([163]Hemarthrosis)
+   Edema
+   general: [164]Anasarca - [165]Angioedema/[166]Lymphedema -
+   [167]Exudate/[168]Transudate
+   regional: [169]Cerebral edema - [170]Pulmonary edema - [171]Hydrothorax
+   - [172]Ascites/hydroperitoneum - [173]Hydrosalpinx
+   Other
+   [174]Hyperemia
+   Retrieved from "[175]http://en.wikipedia.org/wiki/Edema"
+   [176]Categories: [177]Medical signs | [178]Causes of death
+
+Views
+
+     * [179]Article
+     * [180]Discussion
+     * [181]Edit this page
+     * [182]History
+
+Personal tools
+
+     * [183]Log in / create account
+
+Navigation
+
+     * [184]Main page
+     * [185]Contents
+     * [186]Featured content
+     * [187]Current events
+     * [188]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [189]About Wikipedia
+     * [190]Community portal
+     * [191]Recent changes
+     * [192]Contact Wikipedia
+     * [193]Donate to Wikipedia
+     * [194]Help
+
+Toolbox
+
+     * [195]What links here
+     * [196]Related changes
+     * [197]Upload file
+     * [198]Special pages
+     * [199]Printable version
+     * [200]Permanent link
+     * [201]Cite this page
+
+Languages
+
+     * [202]Avae'
+     * [203]Bosanski
+     * [204]Dansk
+     * [205]Deutsch
+     * [206]Espaol
+     * [207]Franais
+     *
+     * [208]Hrvatski
+     * [209]Ido
+     * [210]Bahasa Indonesia
+     * [211]Italiano
+     *
+     * [212]Kiswahili
+     * [213]Magyar
+     * [214]Nederlands
+     *
+     * [215]Norsk (bokml)
+     * [216]Polski
+     *
+     * [217]Portugus
+     * [218]Ripoarisch
+     * [219]Runa Simi
+     *
+     * [220]Sicilianu
+     * [221]Slovenina
+     * [222]Slovenina
+     * [223]Suomi
+     * [224]Svenska
+     * [225]Tagalog
+     * [226]Trke
+     *
+
+   [227]Powered by MediaWiki
+   [228]Wikimedia Foundation
+     * This page was last modified on 9 January 2009, at 16:20.
+     * All text is available under the terms of the [229]GNU Free
+       Documentation License. (See [230]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [231]Wikimedia
+       Foundation, Inc., a U.S. registered [232]501(c)(3)
+       [233]tax-deductible [234]nonprofit [235]charity.
+     * [236]Privacy policy
+     * [237]About Wikipedia
+     * [238]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Edema&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#searchInput
+   8. file://localhost/wiki/Adema
+   9. file://localhost/wiki/Enema
+  10. file://localhost/wiki/Dropsy_(disambiguation)
+  11. file://localhost/wiki/ICD
+  12. file://localhost/wiki/List_of_ICD-10_codes
+  13. file://localhost/wiki/ICD-10_Chapter_R
+  14. http://www.who.int/classifications/apps/icd/icd10online/?gr50.htm+r609
+  15. file://localhost/wiki/ICD
+  16. file://localhost/wiki/List_of_ICD-9_codes
+  17. http://www.icd9data.com/getICD9Code.ashx?icd9=782.3
+  18. file://localhost/wiki/Diseases_Database
+  19. http://www.diseasesdatabase.com/ddb9148.htm
+  20. file://localhost/wiki/Medical_Subject_Headings
+  21. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?field=uid&term=D004487
+  22. file://localhost/wiki/American_English
+  23. file://localhost/wiki/British_English
+  24. file://localhost/wiki/Interstitial_fluid
+  25. file://localhost/wiki/Homeostasis
+  26. file://localhost/wiki/Hydrostatic_pressure
+  27. file://localhost/wiki/Oncotic_pressure
+  28. file://localhost/wiki/Inflammation
+  29. file://localhost/wiki/Lymphatic_system
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_note-0
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#Mechanism
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#Organ-specific_edema
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#Edema_in_plants
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#References
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#External_links
+  36. file://localhost/w/index.php?title=Edema&action=edit&section=1
+  37. file://localhost/wiki/Starling_equation
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_note-1
+  39. file://localhost/wiki/Oncotic_pressure
+  40. file://localhost/wiki/Venule
+  41. file://localhost/wiki/Semi-permeable_membrane
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_note-2
+  43. file://localhost/wiki/Endocrine
+  44. file://localhost/wiki/Lymphatic_system
+  45. file://localhost/wiki/Cancer
+  46. file://localhost/wiki/Lymph_nodes
+  47. file://localhost/wiki/Radiotherapy
+  48. file://localhost/wiki/Elephantiasis
+  49. file://localhost/w/index.php?title=Edema&action=edit&section=2
+  50. file://localhost/wiki/Cerebral_edema
+  51. file://localhost/wiki/Pleural_effusion
+  52. file://localhost/wiki/Pleural
+  53. file://localhost/wiki/Peripheral_edema
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_note-3
+  55. file://localhost/wiki/Cutaneous
+  56. file://localhost/wiki/Mosquito
+  57. file://localhost/wiki/Wheal_and_flare
+  58. file://localhost/wiki/Poison_Ivy
+  59. file://localhost/wiki/Western_Poison_Oak
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_note-4
+  61. file://localhost/wiki/Contact_dermatitis
+  62. file://localhost/w/index.php?title=Edema&action=edit&section=3
+  63. file://localhost/w/index.php?title=Edema&action=edit&section=4
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_ref-0
+  65. file://localhost/wiki/Special:BookSources/0721601871
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_ref-1
+  67. file://localhost/wiki/Special:BookSources/1416023283
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_ref-2
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_ref-3
+  70. file://localhost/wiki/Digital_object_identifier
+  71. http://dx.doi.org/10.1016%2FS0002-9343%2802%2901322-0
+  72. http://www.ncbi.nlm.nih.gov/pubmed/12459405
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc853.tmp.html#cite_ref-4
+  74. http://globaltwitcher.auderis.se/artspec_information.asp?thingid=82914
+  75. file://localhost/w/index.php?title=Edema&action=edit&section=5
+  76. http://www.undiag.com/symptoms/edema.php
+  77. http://www.nlm.nih.gov/medlineplus/ency/article/003103.htm
+  78. file://localhost/wiki/Template:General_symptoms_and_signs
+  79. file://localhost/wiki/Template_talk:General_symptoms_and_signs
+  80. http://en.wikipedia.org/w/index.php?title=Template:General_symptoms_and_signs&action=edit
+  81. file://localhost/wiki/Symptom
+  82. file://localhost/wiki/Medical_sign
+  83. file://localhost/wiki/ICD-10_Chapter_R#.28R50-R69.29_General_symptoms_and_signs
+  84. file://localhost/wiki/List_of_ICD-9_codes_780-799:_Symptoms,_signs,_and_ill-defined_conditions
+  85. file://localhost/wiki/Fever
+  86. file://localhost/wiki/Hyperpyrexia
+  87. file://localhost/wiki/Fever_of_unknown_origin
+  88. file://localhost/wiki/Pain
+  89. file://localhost/wiki/Headache
+  90. file://localhost/wiki/Chronic_pain
+  91. file://localhost/wiki/Malaise
+  92. file://localhost/wiki/Fatigue_(medical)
+  93. file://localhost/wiki/Asthenia
+  94. file://localhost/wiki/Debility_(medical)
+  95. file://localhost/wiki/Fainting
+  96. file://localhost/wiki/Vasovagal_syncope
+  97. file://localhost/wiki/Carotid_sinus_syncope
+  98. file://localhost/wiki/Heat_syncope
+  99. file://localhost/wiki/Ingestion
+ 100. file://localhost/wiki/Anorexia_(symptom)
+ 101. file://localhost/wiki/Polydipsia
+ 102. file://localhost/wiki/Polyphagia
+ 103. file://localhost/wiki/Cachexia
+ 104. file://localhost/wiki/Xerostomia
+ 105. file://localhost/wiki/Anorexia_(symptom)
+ 106. file://localhost/wiki/Weight_loss
+ 107. file://localhost/wiki/Hemodynamic
+ 108. file://localhost/wiki/Shock_(circulatory)
+ 109. file://localhost/wiki/Cardiogenic_shock
+ 110. file://localhost/wiki/Hypovolemic_shock
+ 111. file://localhost/wiki/Distributive_shock
+ 112. file://localhost/wiki/Septic_shock
+ 113. file://localhost/wiki/Neurogenic_shock
+ 114. file://localhost/wiki/Peripheral_edema
+ 115. file://localhost/wiki/Anasarca
+ 116. file://localhost/wiki/Hyperaemia
+ 117. file://localhost/wiki/Functional_hyperemia
+ 118. file://localhost/wiki/Reactive_hyperemia
+ 119. file://localhost/wiki/Lymphadenopathy
+ 120. file://localhost/wiki/Delayed_milestone
+ 121. file://localhost/wiki/Failure_to_thrive
+ 122. file://localhost/wiki/Short_stature
+ 123. file://localhost/wiki/Idiopathic_short_stature
+ 124. file://localhost/wiki/Seizure
+ 125. file://localhost/wiki/Febrile_seizure
+ 126. file://localhost/wiki/Hyperhidrosis
+ 127. file://localhost/wiki/Sleep_hyperhidrosis
+ 128. file://localhost/wiki/Clubbing
+ 129. file://localhost/wiki/Tenderness_(medicine)
+ 130. file://localhost/wiki/Flu-like_syndrome
+ 131. file://localhost/wiki/Template:Hemodynamics
+ 132. file://localhost/w/index.php?title=Template_talk:Hemodynamics&action=edit&redlink=1
+ 133. http://en.wikipedia.org/w/index.php?title=Template:Hemodynamics&action=edit
+ 134. file://localhost/wiki/Pathology
+ 135. file://localhost/wiki/Hemodynamics
+ 136. file://localhost/wiki/Infarction
+ 137. file://localhost/wiki/Anemic_infarct
+ 138. file://localhost/wiki/Hemorrhagic_infarct
+ 139. file://localhost/wiki/Myocardial_infarction
+ 140. file://localhost/wiki/Splenic_infarction
+ 141. file://localhost/wiki/Ischemia
+ 142. file://localhost/wiki/Brain_ischemia
+ 143. file://localhost/wiki/Ischaemic_heart_disease
+ 144. file://localhost/wiki/Thrombus
+ 145. file://localhost/wiki/Thrombosis
+ 146. file://localhost/wiki/Renal_vein_thrombosis
+ 147. file://localhost/wiki/Bleeding
+ 148. file://localhost/wiki/Petechia
+ 149. file://localhost/wiki/Purpura
+ 150. file://localhost/wiki/Ecchymosis
+ 151. file://localhost/wiki/Hematoma
+ 152. file://localhost/wiki/Epistaxis
+ 153. file://localhost/wiki/Hemoptysis
+ 154. file://localhost/wiki/Intracranial_hemorrhage
+ 155. file://localhost/wiki/Hyphema
+ 156. file://localhost/wiki/Hemothorax
+ 157. file://localhost/wiki/Hemopericardium
+ 158. file://localhost/wiki/Gastrointestinal_bleeding
+ 159. file://localhost/wiki/Haemobilia
+ 160. file://localhost/wiki/Hemoperitoneum
+ 161. file://localhost/wiki/Hematocele
+ 162. file://localhost/wiki/Hematosalpinx
+ 163. file://localhost/wiki/Hemarthrosis
+ 164. file://localhost/wiki/Anasarca
+ 165. file://localhost/wiki/Angioedema
+ 166. file://localhost/wiki/Lymphedema
+ 167. file://localhost/wiki/Exudate
+ 168. file://localhost/wiki/Transudate
+ 169. file://localhost/wiki/Cerebral_edema
+ 170. file://localhost/wiki/Pulmonary_edema
+ 171. file://localhost/wiki/Hydrothorax
+ 172. file://localhost/wiki/Ascites
+ 173. file://localhost/wiki/Hydrosalpinx
+ 174. file://localhost/wiki/Hyperaemia
+ 175. http://en.wikipedia.org/wiki/Edema
+ 176. file://localhost/wiki/Special:Categories
+ 177. file://localhost/wiki/Category:Medical_signs
+ 178. file://localhost/wiki/Category:Causes_of_death
+ 179. file://localhost/wiki/Edema
+ 180. file://localhost/wiki/Talk:Edema
+ 181. file://localhost/w/index.php?title=Edema&action=edit
+ 182. file://localhost/w/index.php?title=Edema&action=history
+ 183. file://localhost/w/index.php?title=Special:UserLogin&returnto=Edema
+ 184. file://localhost/wiki/Main_Page
+ 185. file://localhost/wiki/Portal:Contents
+ 186. file://localhost/wiki/Portal:Featured_content
+ 187. file://localhost/wiki/Portal:Current_events
+ 188. file://localhost/wiki/Special:Random
+ 189. file://localhost/wiki/Wikipedia:About
+ 190. file://localhost/wiki/Wikipedia:Community_portal
+ 191. file://localhost/wiki/Special:RecentChanges
+ 192. file://localhost/wiki/Wikipedia:Contact_us
+ 193. http://wikimediafoundation.org/wiki/Donate
+ 194. file://localhost/wiki/Help:Contents
+ 195. file://localhost/wiki/Special:WhatLinksHere/Edema
+ 196. file://localhost/wiki/Special:RecentChangesLinked/Edema
+ 197. file://localhost/wiki/Wikipedia:Upload
+ 198. file://localhost/wiki/Special:SpecialPages
+ 199. file://localhost/w/index.php?title=Edema&printable=yes
+ 200. file://localhost/w/index.php?title=Edema&oldid=262988171
+ 201. file://localhost/w/index.php?title=Special:Cite&page=Edema&id=262988171
+ 202. http://gn.wikipedia.org/wiki/Kandu
+ 203. http://bs.wikipedia.org/wiki/Edem
+ 204. http://da.wikipedia.org/wiki/%C3%98dem
+ 205. http://de.wikipedia.org/wiki/%C3%96dem
+ 206. http://es.wikipedia.org/wiki/Edema
+ 207. http://fr.wikipedia.org/wiki/%C5%92d%C3%A8me
+ 208. http://hr.wikipedia.org/wiki/Edem
+ 209. http://io.wikipedia.org/wiki/Edemo
+ 210. http://id.wikipedia.org/wiki/Sembap
+ 211. http://it.wikipedia.org/wiki/Edema
+ 212. http://sw.wikipedia.org/wiki/Tambazi
+ 213. http://hu.wikipedia.org/wiki/%C3%96d%C3%A9ma
+ 214. http://nl.wikipedia.org/wiki/Oedeem
+ 215. http://no.wikipedia.org/wiki/%C3%98dem
+ 216. http://pl.wikipedia.org/wiki/Obrz%C4%99k
+ 217. http://pt.wikipedia.org/wiki/Edema
+ 218. http://ksh.wikipedia.org/wiki/H%C3%A4%C3%A4zwasser
+ 219. http://qu.wikipedia.org/wiki/Punkillikuy
+ 220. http://scn.wikipedia.org/wiki/Vunciuni
+ 221. http://sk.wikipedia.org/wiki/Opuch
+ 222. http://sl.wikipedia.org/wiki/Edem
+ 223. http://fi.wikipedia.org/wiki/Turvotus
+ 224. http://sv.wikipedia.org/wiki/%C3%96dem
+ 225. http://tl.wikipedia.org/wiki/Bilbil
+ 226. http://tr.wikipedia.org/wiki/%C3%96dem
+ 227. http://www.mediawiki.org/
+ 228. http://wikimediafoundation.org/
+ 229. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 230. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 231. http://www.wikimediafoundation.org/
+ 232. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 233. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 234. http://en.wikipedia.org/wiki/Non-profit_organization
+ 235. http://en.wikipedia.org/wiki/Charitable_organization
+ 236. http://wikimediafoundation.org/wiki/Privacy_policy
+ 237. file://localhost/wiki/Wikipedia:About
+ 238. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 239. file://localhost/wiki/Main_Page
+ 240. http://ko.wikipedia.org/wiki/%EB%B6%80%EC%A2%85
+ 241. http://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%A7%D7%AA
+ 242. http://ja.wikipedia.org/wiki/%E6%B5%AE%E8%85%AB
+ 243. http://ps.wikipedia.org/wiki/%D8%A8%D9%88%D8%BA%D9%85%D9%87
+ 244. http://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%91%D0%BA
+ 245. http://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D1%80%D1%8F%D0%BA

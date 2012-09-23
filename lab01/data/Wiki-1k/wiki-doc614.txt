@@ -1,0 +1,786 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+ATX
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EATX)
+   Jump to: [7]navigation, [8]search
+   This article is about the computer form factor. For the city, see
+   [9]Austin, Texas. For the stock market index, see [10]Austrian Traded
+   Index.
+
+   CAPTION: [11]Computer form factors
+
+          Name         PCB Size (mm)
+         [12]WTX       356425
+         [13]AT        350305
+       [14]Baby-AT     330216
+         [15]BTX       325266
+           ATX         305244
+         [16]LPX       330229
+         [17]NLX       254228
+      [18]microATX     244244
+         [19]DTX       244203
+       [20]FlexATX     229191
+      [21]Mini-DTX     203170
+         [22]EBX       203146
+   [23]microATX (Min.) 171171
+      [24]Mini-ITX     170170
+   [25]EPIC (Express)  165115
+      [26]Nano-ITX     120120
+     [27]COM Express   12595
+      [28]ETX / XTX    11495
+      [29]Pico-ITX     10072
+   [30]PC/104 (-Plus)  9690
+     [31]mobile-ITX    7545
+
+   The ATX (for Advanced Technology Extended) [32]form factor was created
+   by [33]Intel in 1995. It was the first big change in [34]computer case
+   and [35]motherboard design in many years. ATX overtook [36]AT
+   completely as the default form factor for new systems. ATX addressed
+   many of the AT form factor's annoyances that had frustrated system
+   builders. Other standards for smaller boards (including [37]microATX,
+   [38]FlexATX and [39]mini-ITX) usually keep the basic rear layout but
+   reduce the size of the board and the number of expansion slot
+   positions. In 2003, Intel announced the [40]BTX standard, intended as a
+   replacement for ATX. As of 2009^[41][update] the ATX form factor
+   remains the industry standard for do-it-yourselfers; [42]BTX has
+   however made inroads into pre-made systems, being adopted by computer
+   makers like [43]Dell, [44]Gateway, and [45]HP.
+
+   The official specifications were released by Intel in 1995, and have
+   been revised numerous times since, the most recent being version
+   2.2,^[46][1] released in 2004.
+
+   A full size ATX board is 305 mm wide by 244 mm deep (12" x 9.6" ). This
+   allows many ATX form factor chassis to accept [47]microATX boards as
+   well.
+
+Contents
+
+     * [48]1 Power supply
+          + [49]1.1 Main changes from AT design
+               o [50]1.1.1 Power switch
+               o [51]1.1.2 Power connection to the motherboard
+               o [52]1.1.3 Airflow
+          + [53]1.2 ATX power supply revisions
+               o [54]1.2.1 Original ATX
+               o [55]1.2.2 ATX12V 1.x
+                    # [56]1.2.2.1 ATX12V 1.0
+                    # [57]1.2.2.2 ATX12V 1.1
+                    # [58]1.2.2.3 ATX12V 1.2
+                    # [59]1.2.2.4 ATX12V 1.3
+               o [60]1.2.3 ATX12V 2.x
+                    # [61]1.2.3.1 ATX12V 2.0
+                    # [62]1.2.3.2 ATX12V v2.1
+                    # [63]1.2.3.3 ATX12V v2.2
+          + [64]1.3 ATX power supply derivatives
+               o [65]1.3.1 AMD GES
+               o [66]1.3.2 EPS12V
+          + [67]1.4 Recent specification changes and additions
+          + [68]1.5 Interchanging old/new systems with old/new PSUs
+          + [69]1.6 Issues with Dell power supplies
+     * [70]2 Connectors
+     * [71]3 Variants
+          + [72]3.1 Prototypes
+     * [73]4 References
+     * [74]5 See also
+     * [75]6 External links
+
+[[76]edit] Power supply
+
+   ATX form motherboards became increasingly popular because of their
+   advantages over older [77]AT motherboards.
+
+[[78]edit] Main changes from AT design
+
+[[79]edit] Power switch
+
+   AT-style computer cases had a power button that was directly connected
+   to the system [80]computer power supply (PSU). The general
+   configuration was a double-pole latching mains voltage switch with the
+   four pins connected to wires from a four-core cable. The wires were
+   either [81]soldered to the power button (making it difficult to replace
+   the power supply if it failed) or [82]blade receptacles were used.
+   Typical ATX [83]power supply
+   Interior view of an ATX power supply.
+
+   An ATX power supply does not directly connect to the system power
+   button, allowing the computer to be turned off via [84]software.
+   However, many ATX power supplies have a manual switch on the back to
+   ensure the computer is truly off and no power is being sent to the
+   components. With this switch on, energy still flows to the components
+   even when the computer appears to be "off." This is known as soft-off
+   or standby and can be used for remote wake up through [85]Wake-on-Ring
+   or [86]Wake-on-LAN, but is generally used to power on the computer
+   through a front switch.
+
+[[87]edit] Power connection to the motherboard
+
+   The power supply's connection to the motherboard was changed. Older AT
+   power supplies had two similar connectors that could be accidentally
+   switched, usually causing short-circuits and irreversible damage to the
+   motherboard. ATX used one large, keyed connector instead, making a
+   reversed connection very difficult. The new connector also provided a
+   3.3 volt source, removing the need for motherboards to derive this
+   voltage from one of the other power rails. Some motherboards,
+   particularly late model AT form factor offerings, supported both AT and
+   ATX PSUs.
+
+   If you are not working with an ATX motherboard you can only turn on the
+   power by shorting the green wire from the ATX connector to a black wire
+   on the connector (or ground), since it is the motherboard's power
+   switch which the ATX PSU uses. This means that an old PC power supply
+   can be used for tasks other than powering a PC, but one must be careful
+   to observe the minimum load requirements of the PSU.
+
+[[88]edit] Airflow
+
+   ATX was originally designed with the power supply drawing air into the
+   case and exhausting it down onto the motherboard. The plan was to
+   deliver cool air directly to the CPU's and power regulation circuitry's
+   location, which was usually at the top of the motherboard in ATX
+   designs. This was not particularly useful for a variety of reasons.
+   Early ATX systems simply didn't have processors or components with
+   thermal output that required special cooling considerations. Later ATX
+   systems with significantly greater heat output would not be aided in
+   cooling by a power supply, because it would be delivering its often
+   significantly heated exhaust into the case. As a result, the ATX
+   specification was changed to make PSU airflow optional.[89][1]
+
+[[90]edit] ATX power supply revisions
+
+[[91]edit] Original ATX
+
+   ATX, introduced in late 1995, defined three types of power connectors:
+     * 4-pin peripheral connector (commonly but inaccurately known as
+       "MOLEX")transferred directly from AT standard
+     * 4-pin floppy connectortransferred directly from AT standard
+     * 20-pin main motherboard connectornew to the ATX standard
+
+   The power distribution specification defined that most of PSU's power
+   should be provided on 5V and 3.3V rails, because most of the electronic
+   components (CPU, RAM, chipset, PCI, AGP and ISA cards) used 5V or 3.3V
+   for power supply. The 12V rail was only used by fans and motors of
+   peripheral devices (HDD, FDD, CD-ROM, etc.).
+
+   The original ATX power supply specification remained mostly unrevised
+   until year 2000.
+
+[[92]edit] ATX12V 1.x
+
+   While designing the Pentium 4 platform in 1999/2000, the standard
+   20-pin ATX power connector was deemed inadequate to supply increasing
+   electrical load requirements. So, ATX was significantly revised into
+   ATX12V 1.0 standard (that is why ATX12V 1.x is sometimes inaccurately
+   called ATX-P4). ATX12V 1.x was also adopted by Athlon XP and Athlon 64
+   systems.
+
+[[93]edit] ATX12V 1.0
+
+   The main changes and additions in ATX12V 1.0 (released in February
+   2000) were:
+     * An extra 4-pin, 12-volt connector to power the CPU. Formally called
+       the "+12 V Power Connector", this is commonly referred to as the P4
+       connector because this was first needed to support the [94]Pentium
+       4 processor. (Older processors were powered from the 5V rail.)
+     * A supplemental 6-pin AUX connector providing additional 3.3V and 5V
+       supplies to the motherboard, if it needed it. Although it was
+       provided by every ATX12V 1.x PSU (as required per standard), it was
+       rarely required by motherboards.
+     * Increased the power on the 12V rail (power on 5V and 3.3V rails
+       remained mostly the same).
+
+[[95]edit] ATX12V 1.1
+
+   This is a minor revision from August 2000. The power on 3.3V rail was
+   slightly increased, among other much lesser changes.
+
+[[96]edit] ATX12V 1.2
+
+   A relatively minor revision from January 2002. The only significant
+   change was that the 5V rail was no longer required (it became
+   optional). This voltage was very rarely used, only on some old systems
+   with some ISA add-on cards.
+
+[[97]edit] ATX12V 1.3
+
+   Introduced in April 2003 (a month after 2.0). Lot of relatively minor
+   changes. Some of them are:
+     * Slightly increased the power on 12V rail.
+     * Defined minimal required PSU efficiencies for light and normal
+       load.
+     * Defined acoustic levels.
+     * Introduction of Serial ATA power connector (but defined as
+       optional).
+
+[[98]edit] ATX12V 2.x
+
+   ATX12V 2.x brought a very significant design change regarding power
+   distribution. When analyzing the then-current PC architectures' power
+   demands, it was determined that it would be much easier (both from
+   economical and engineering perspectives) to power most PC components
+   from 12V rails, instead of from 3.3V and 5V rails.
+
+[[99]edit] ATX12V 2.0
+
+   The above conclusion was incorporated in ATX12V 2.0 (introduced in
+   February 2003), which defined quite different power distribution from
+   ATX12V 1.x:
+     * The main ATX power connector was extended to 24 pins (it is
+       backwards compatible). The extra four pins provide one additional
+       3.3V, 5V and 12V circuit.
+     * The 6-pin AUX connector from ATX12V 1.x was removed because the
+       extra 3.3V and 5V circuits which it provided are now incorporated
+       in the 24-pin main connector.
+     * Most power is now provided on 12V rails. The standard specifies
+       that two independent 12V rails (12V2 for the 4 pin connector and
+       12V1 for everything else) with independent overcurrent protection
+       are needed to meet the power requirements safely (some very high
+       power PSUs have more than two rails, recommendations for such large
+       PSUs are not given by the standard).
+     * The power on 3.3V and 5.V rails was significantly reduced.
+     * Serial ATA power cable is required.
+     * Many other specification changes and additions.
+
+   CAPTION: 24-pin ATX12V 2.x power supply connector
+   (20-pin omits the last 4: 11, 12, 23 and 24)
+
+   Color     Signal    Pin Pin     Signal     Color
+   Orange       +3.3 V  1  13  +3.3V          Orange
+                               +3.3 V sense   Brown
+   Orange       +3.3 V  2  14  12 V            Blue
+   Black        Ground  3  15  Ground         Black
+    Red           +5 V  4  16  Power on       Green
+   Black        Ground  5  17  Ground         Black
+    Red           +5 V  6  18  Ground         Black
+   Black        Ground  7  19  Ground         Black
+    Grey    Power good  8  20  5 V (optional) White
+   Purple +5 V standby  9  21  +5 V            Red
+   Yellow        +12 V 10  22  +5 V            Red
+   Yellow        +12 V 11  23  +5 V            Red
+   Orange       +3.3 V 12  24  Ground         Black
+
+[[100]edit] ATX12V v2.1
+
+   This is a minor revision from March 2005. The 5V rail was completely
+   removed from the specification. The power was slightly increased on all
+   rails.
+
+[[101]edit] ATX12V v2.2
+
+   Another minor revision, the main change was a call for higher-quality
+   connectors on the motherboard power connectors.
+
+[[102]edit] ATX power supply derivatives
+
+[[103]edit] AMD GES
+
+   This is an ATX12V power supply derivative made by AMD to power its
+   Athlon MP (dual processor) platform. It was used only on high-end
+   Athlon MP motherboards. It has a special 8-pin supplemental connector
+   for motherboard, so an AMD GES PSU is required for such motherboards
+   (those motherboards will not work with ATX(12V) PSUs).
+
+[[104]edit] EPS12V
+
+   Defined in [105]SSI, and used by some (Xeon and [106]Opteron)
+   systems^[[107]dubious [108]discuss]. It has 24 pin main connector, 8
+   pin secondary connector, optional 4 pin tertiary connector.
+
+[[109]edit] Recent specification changes and additions
+
+   Because video card power demands have dramatically increased over the
+   2000s, some high-end graphics cards have power demands that exceed
+   [110]AGP or [111]PCIe slot capabilities. For these cards, supplementary
+   power was delivered through a standard 4-pin peripheral or floppy power
+   connector. Midrange and high-end PCI Express-based video cards
+   manufactured after 2004 typically use a standard 6 or 8-pin PCIe power
+   connector directly from the PSU.
+
+[[112]edit] Interchanging old/new systems with old/new PSUs
+
+   Although the ATX power supply specifications are all vertically
+   compatible in both ways (both electrically and physically), it is not
+   wise to mix old motherboards/systems with new PSU's, and vice versa.
+
+   There are two main reasons for this:
+     * The power distribution biases across 3.3V, 5V and 12V [113]rails
+       are very different between older and newer ATX PSU designs, as well
+       as between older and newer PC system designs.
+     * Older PSUs may not have connectors which are required for newer PC
+       systems to properly operate.
+
+   This is a practical guidance what to mix and what not to mix:
+     * Older systems (until Pentium 4 and Athlon XP platforms) were
+       designed to draw most power from 5V and 3.3V rails.
+     * Pentium 4 and Athlon XP systems draw much more from 12V rail,
+       instead from 5V and 3.3V rails.
+     * Newer systems (Athlon 64, Core Duo etc.) draw most power from 12V
+       rails.
+     * Original ATX PSUs have power distribution designed for pre-P4/XP
+       PCs. They lack the supplemental 4-pin 12-volt connector for the
+       CPU, so they simply cannot be used with P4/XP era or newer
+       motherboards (adapters do exist but power drain on the 12V rail
+       must be checked very carefully if using them).
+     * ATX12V 1.x PSUs have power distribution designed for P4/XP PCs, but
+       they are also greatly suitable for older PCs, since they give
+       plenty of power (relative to old PCs' needs) both on 12V and on
+       5V/3.3V. Some of them might not have the -5V rail which is needed
+       for some special add-in ISA cards. It is not recommended to use
+       ATX12V 1.x PSUs on ATX12V 2.x motherboards because those systems
+       require much more power on 12V, and much less on 3.3V/5V than
+       ATX12V PSUs provide.
+     * ATX12V 2.x PSUs have power distribution designed for late P4/XP PCs
+       and for Athlon 64 and Core Duo PCs. They can be used with earlier
+       P4/XP PCs, but the power distribution will be significantly
+       suboptimal, so a more powerful ATX12V 2.0 PSU should be used to
+       compensate for that discrepancy. ATX12V 2.x PSUs can also be used
+       with pre-P4/XP systems, but the power distribution will be greatly
+       suboptimal (12V rails will be mostly unused, while the 3.3V/5V
+       rails will be overloaded), so this is not recommended.
+
+   Special note: Proprietary brand-name or high-end workstation/server
+   designs do not fit into these guidelines. They usually require an
+   exactly matching power supply unit.
+
+[[114]edit] Issues with Dell power supplies
+
+   Older Dell computers, particularly those from the [115]Pentium II and
+   [116]III times, are notable for using proprietary power wiring on their
+   power supplies and motherboards. While the motherboard connectors
+   appear to be standard ATX, and will actually fit a standard power
+   supply, they are not compatible. Not only have wires been switched from
+   one location to another, but the number of wires for a given voltage
+   has been changed. Thus, the pins cannot simply be rearranged.[117][2]
+
+   The change affects not only 20-pin ATX connectors, but also auxiliary
+   6-pin connectors. Modern Dell systems may use standard ATX
+   connectors.[118][3] Dell PC owners should be careful when attempting to
+   mix non-Dell motherboards and power supplies, as it can cause damage to
+   the power supply or other components. If the power supply color coding
+   on the wiring does not match ATX standards, then it is probably
+   proprietary. Wiring diagrams for Dell systems are usually available on
+   Dell's support page.
+
+[[119]edit] Connectors
+
+   ATX I/O plates
+
+   On the back of the system, some major changes were made. The AT
+   standard had only a [120]keyboard connector and expansion slots for
+   add-on card backplates. Any other onboard interfaces (such as
+   [121]serial and [122]parallel ports) had to be connected via
+   [123]flying leads to connectors which were mounted either on spaces
+   provided by the case or brackets placed in unused expansion slot
+   positions. ATX allowed each motherboard manufacturer to put these ports
+   in a rectangular area on the back of the system, with an arrangement
+   they could define themselves (though a number of general patterns
+   depending on what ports the motherboard offers have been followed by
+   most manufacturers). Generally the case comes with a snap out panel,
+   also known as an I/O plate, reflecting one of the common arrangements.
+   If necessary, I/O plates can be replaced to suit the arrangement on the
+   motherboard that is being fitted and the I/O plates are usually
+   included when purchasing a motherboard. Panels were also made that
+   allowed fitting an AT motherboard in an ATX case.
+
+   ATX also made the [124]PS/2-style[125]mini-DIN keyboard and mouse
+   connectors ubiquitous. AT systems used a 5 pin [126]DIN connector for
+   the keyboard, and were generally used with serial port mice (although
+   PS/2 mouse ports were also found on some systems). Many modern
+   motherboards are phasing out the PS/2-style keyboard and mouse
+   connectors in favor of the modern standard of [127]USB ports. Other
+   legacy connectors that appeared on ATX motherboards but are being
+   phased out include 25-pin [128]parallel ports and 9-pin [129]RS-232
+   [130]serial ports. In their place are on-board peripheral ports such as
+   [131]Ethernet, [132]Firewire, [133]External SATA, [134]audio ports
+   (analog/[135]S/PDIF), video ([136]D-sub/[137]DVI/[138]HDMI), and extra
+   [139]USB ports.
+
+[[140]edit] Variants
+
+   There exist several ATX-derived form factors that use the same power
+   supply, mountings and basic back panel arrangement, but set different
+   standards for the size of the board.
+   ATX Scale Reference
+     width length color in image
+   [141]FlexATX 9 inches (228.6 mm) 7.5 inches (190.5 mm)
+   [142]microATX and EmbATX 9.6 inches (243.8 mm) 9.6 inches (243.8 mm)
+   Mini ATX 11.2 inches (284 mm) 8.2 inches (208 mm)
+   Standard ATX 12 inches (304.8 mm) 9.6 inches (243.8 mm)
+   EATX (extended ATX) 12 inches (304.8 mm) 13 inches (330.2 mm)
+   [143]WTX (workstation ATX) 14 inches (355.6 mm) 16.75 inches (425.4 mm)
+
+[[144]edit] Prototypes
+
+   In [145]CeBIT 2008, [146]Foxconn unveiled a Foxconn F1 motherboard
+   prototype, the same length as a standard ATX motherboard, but wider to
+   accomodate 10 slots.^[147][2] In January 2008, [148]Lian Li unveiled
+   Armorsuit PC-P80 case with 10 slots designed for the
+   motherboard.^[149][3]
+
+[[150]edit] References
+
+    1. [151]^ [152]"form factors.org - ATX Motherboard".
+       [153]http://www.formfactors.org/FFDetail.asp?FFID=1&CatID=1.
+       Retrieved on 2008-04-20.
+    2. [154]^ [155]Foxconn F1 Motherboard Prototype
+    3. [156]^ [157]Lian Li Armorsuit PC-P80R Spider Edition
+
+[[158]edit] See also
+
+     * [159]mini-ITX
+     * [160]BTX
+     * [161]SSI CEB
+     * [162]Entry-Level Power Supply Specification
+
+[[163]edit] External links
+
+     * [164]ATX Motherboard Specification, v2.2
+     * [165]Power Supply Form Factors
+     * [166]ATX12V Power Supply Design Guide, v2.01
+     * [167]ATX12V Power Supply Design Guide, v2.2
+     * [168]EPS12V Power Supply Design Guide, v2.91
+     * [169]Various power supply cables and connectors
+     * [170]A short history of power supply voltage rails
+     * [171]ATX power supply connectors with pinouts
+     * [172]ATX Power Supply Links
+     * [173]More ATX power supply connectors with pinouts
+     * [174]Motherboard power connectors with pinouts
+     * [175]ATX Riser Card Specification Revision 1.0
+
+   Retrieved from "[176]http://en.wikipedia.org/wiki/ATX"
+   [177]Categories: [178]Motherboard form factors | [179]IBM PC
+   compatibles
+   Hidden categories: [180]Articles containing potentially dated
+   statements from 2009 | [181]All articles containing potentially dated
+   statements | [182]All pages needing cleanup | [183]Articles with
+   disputed statements from February 2009
+
+Views
+
+     * [184]Article
+     * [185]Discussion
+     * [186]Edit this page
+     * [187]History
+
+Personal tools
+
+     * [188]Log in / create account
+
+Navigation
+
+     * [189]Main page
+     * [190]Contents
+     * [191]Featured content
+     * [192]Current events
+     * [193]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [194]About Wikipedia
+     * [195]Community portal
+     * [196]Recent changes
+     * [197]Contact Wikipedia
+     * [198]Donate to Wikipedia
+     * [199]Help
+
+Toolbox
+
+     * [200]What links here
+     * [201]Related changes
+     * [202]Upload file
+     * [203]Special pages
+     * [204]Printable version
+     * [205]Permanent link
+     * [206]Cite this page
+
+Languages
+
+     * [207]Afrikaans
+     * [208]esky
+     * [209]Deutsch
+     * [210]Espaol
+     * [211]Franais
+     * [212]Galego
+     * [213]Italiano
+     * [214]Nederlands
+     *
+     * [215]Norsk (bokml)
+     * [216]Polski
+     * [217]Portugus
+     *
+     * [218]Svenska
+     * [219]Trke
+     *
+     *
+
+   [220]Powered by MediaWiki
+   [221]Wikimedia Foundation
+     * This page was last modified on 17 February 2009, at 21:08.
+     * All text is available under the terms of the [222]GNU Free
+       Documentation License. (See [223]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [224]Wikimedia
+       Foundation, Inc., a U.S. registered [225]501(c)(3)
+       [226]tax-deductible [227]nonprofit [228]charity.
+     * [229]Privacy policy
+     * [230]About Wikipedia
+     * [231]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=ATX&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EATX&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#searchInput
+   9. file://localhost/wiki/Austin,_Texas
+  10. file://localhost/wiki/Austrian_Traded_Index
+  11. file://localhost/wiki/Comparison_of_computer_form_factors
+  12. file://localhost/wiki/WTX_(form_factor)
+  13. file://localhost/wiki/AT_(form_factor)
+  14. file://localhost/wiki/Baby-AT
+  15. file://localhost/wiki/BTX_(form_factor)
+  16. file://localhost/wiki/LPX_(form_factor)
+  17. file://localhost/wiki/NLX
+  18. file://localhost/wiki/MicroATX
+  19. file://localhost/wiki/DTX_(form_factor)
+  20. file://localhost/wiki/FlexATX
+  21. file://localhost/wiki/Mini-DTX
+  22. file://localhost/wiki/Embedded_Board_eXpandable
+  23. file://localhost/wiki/MicroATX
+  24. file://localhost/wiki/Mini-ITX
+  25. file://localhost/wiki/EPIC_(form_factor)
+  26. file://localhost/wiki/Nano-ITX
+  27. file://localhost/wiki/COM_Express
+  28. file://localhost/wiki/ETX_(form_factor)
+  29. file://localhost/wiki/Pico-ITX
+  30. file://localhost/wiki/PC/104
+  31. file://localhost/wiki/Mobile-ITX
+  32. file://localhost/wiki/Motherboard_form_factor
+  33. file://localhost/wiki/Intel
+  34. file://localhost/wiki/Computer_case
+  35. file://localhost/wiki/Motherboard
+  36. file://localhost/wiki/AT_form_factor
+  37. file://localhost/wiki/MicroATX
+  38. file://localhost/wiki/FlexATX
+  39. file://localhost/wiki/Mini-ITX
+  40. file://localhost/wiki/BTX_(form_factor)
+  41. http://en.wikipedia.org/w/index.php?title=ATX&action=edit
+  42. file://localhost/wiki/BTX_(form_factor)
+  43. file://localhost/wiki/Dell
+  44. file://localhost/wiki/Gateway,_Inc.
+  45. file://localhost/wiki/Hewlett-Packard
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_note-url-0
+  47. file://localhost/wiki/MicroATX
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Power_supply
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Main_changes_from_AT_design
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Power_switch
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Power_connection_to_the_motherboard
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Airflow
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX_power_supply_revisions
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Original_ATX
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_1.x
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_1.0
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_1.1
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_1.2
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_1.3
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_2.x
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_2.0
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_v2.1
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX12V_v2.2
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#ATX_power_supply_derivatives
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#AMD_GES
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#EPS12V
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Recent_specification_changes_and_additions
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Interchanging_old.2Fnew_systems_with_old.2Fnew_PSUs
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Issues_with_Dell_power_supplies
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Connectors
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Variants
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#Prototypes
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#References
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#See_also
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#External_links
+  76. file://localhost/w/index.php?title=ATX&action=edit&section=1
+  77. file://localhost/wiki/AT_form_factor
+  78. file://localhost/w/index.php?title=ATX&action=edit&section=2
+  79. file://localhost/w/index.php?title=ATX&action=edit&section=3
+  80. file://localhost/wiki/Computer_power_supply
+  81. file://localhost/wiki/Solder
+  82. file://localhost/wiki/Blade_connector
+  83. file://localhost/wiki/Computer_power_supply
+  84. file://localhost/wiki/Software
+  85. file://localhost/wiki/Wake-on-Ring
+  86. file://localhost/wiki/Wake-on-LAN
+  87. file://localhost/w/index.php?title=ATX&action=edit&section=4
+  88. file://localhost/w/index.php?title=ATX&action=edit&section=5
+  89. http://www.pcguide.com/ref/power/sup/form_ATX.htm
+  90. file://localhost/w/index.php?title=ATX&action=edit&section=6
+  91. file://localhost/w/index.php?title=ATX&action=edit&section=7
+  92. file://localhost/w/index.php?title=ATX&action=edit&section=8
+  93. file://localhost/w/index.php?title=ATX&action=edit&section=9
+  94. file://localhost/wiki/Pentium_4
+  95. file://localhost/w/index.php?title=ATX&action=edit&section=10
+  96. file://localhost/w/index.php?title=ATX&action=edit&section=11
+  97. file://localhost/w/index.php?title=ATX&action=edit&section=12
+  98. file://localhost/w/index.php?title=ATX&action=edit&section=13
+  99. file://localhost/w/index.php?title=ATX&action=edit&section=14
+ 100. file://localhost/w/index.php?title=ATX&action=edit&section=15
+ 101. file://localhost/w/index.php?title=ATX&action=edit&section=16
+ 102. file://localhost/w/index.php?title=ATX&action=edit&section=17
+ 103. file://localhost/w/index.php?title=ATX&action=edit&section=18
+ 104. file://localhost/w/index.php?title=ATX&action=edit&section=19
+ 105. file://localhost/w/index.php?title=Server_System_Infrastructure&action=edit&redlink=1
+ 106. file://localhost/wiki/Opteron
+ 107. file://localhost/wiki/Wikipedia:Disputed_statement
+ 108. file://localhost/wiki/Talk:ATX#Dubious
+ 109. file://localhost/w/index.php?title=ATX&action=edit&section=20
+ 110. file://localhost/wiki/Accelerated_Graphics_Port
+ 111. file://localhost/wiki/PCI_Express
+ 112. file://localhost/w/index.php?title=ATX&action=edit&section=21
+ 113. file://localhost/wiki/Power_supply_rail
+ 114. file://localhost/w/index.php?title=ATX&action=edit&section=22
+ 115. file://localhost/wiki/Pentium_II
+ 116. file://localhost/wiki/Pentium_III
+ 117. http://www.informit.com/articles/article.aspx?p=339053
+ 118. http://pinouts.ru/Power/dell_atxpower_pinout.shtml
+ 119. file://localhost/w/index.php?title=ATX&action=edit&section=23
+ 120. file://localhost/wiki/Computer_keyboard
+ 121. file://localhost/wiki/Serial_port
+ 122. file://localhost/wiki/Parallel_port
+ 123. file://localhost/w/index.php?title=Flying_leads&action=edit&redlink=1
+ 124. file://localhost/wiki/PS/2_connector
+ 125. file://localhost/wiki/Mini-DIN
+ 126. file://localhost/wiki/DIN_connector
+ 127. file://localhost/wiki/Universal_Serial_Bus
+ 128. file://localhost/wiki/Parallel_port
+ 129. file://localhost/wiki/RS-232
+ 130. file://localhost/wiki/Serial_port
+ 131. file://localhost/wiki/Ethernet
+ 132. file://localhost/wiki/Firewire
+ 133. file://localhost/wiki/SATA
+ 134. file://localhost/wiki/Sound_card
+ 135. file://localhost/wiki/S/PDIF
+ 136. file://localhost/wiki/D-sub
+ 137. file://localhost/wiki/DVI
+ 138. file://localhost/wiki/HDMI
+ 139. file://localhost/wiki/USB
+ 140. file://localhost/w/index.php?title=ATX&action=edit&section=24
+ 141. file://localhost/wiki/FlexATX
+ 142. file://localhost/wiki/MicroATX
+ 143. file://localhost/wiki/WTX_(form_factor)
+ 144. file://localhost/w/index.php?title=ATX&action=edit&section=25
+ 145. file://localhost/wiki/CeBIT
+ 146. file://localhost/wiki/Foxconn
+ 147. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_note-1
+ 148. file://localhost/wiki/Lian_Li
+ 149. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_note-2
+ 150. file://localhost/w/index.php?title=ATX&action=edit&section=26
+ 151. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_ref-url_0-0
+ 152. http://www.formfactors.org/FFDetail.asp?FFID=1&CatID=1
+ 153. http://www.formfactors.org/FFDetail.asp?FFID=1&CatID=1
+ 154. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_ref-1
+ 155. http://www.hardwaresecrets.com/article/513
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc614.tmp.html#cite_ref-2
+ 157. http://www.techpowerup.com/reviews/LianLi/Armorsuit_PC-P80R_Spider_Edition
+ 158. file://localhost/w/index.php?title=ATX&action=edit&section=27
+ 159. file://localhost/wiki/Mini-ITX
+ 160. file://localhost/wiki/BTX_(form_factor)
+ 161. file://localhost/wiki/SSI_CEB
+ 162. file://localhost/wiki/Entry-Level_Power_Supply_Specification
+ 163. file://localhost/w/index.php?title=ATX&action=edit&section=28
+ 164. http://www.formfactors.org/developer/specs/atx2_2.pdf
+ 165. http://www.pcguide.com/ref/power/sup/form_ATX.htm
+ 166. http://www.formfactors.org/developer/specs/ATX12V%20PSDG2.01.pdf
+ 167. http://www.formfactors.org/developer/specs/ATX12V_PSDG_2_2_public_br2.pdf
+ 168. http://ssiforum.oaktree.com/pdfs/EPS12V%20Spec%202_91.pdf
+ 169. http://www.playtool.com/pages/psuconnectors/connectors.html
+ 170. http://www.playtool.com/pages/psurailhistory/rails.html
+ 171. http://pinouts.ru/pin_Power.shtml
+ 172. http://www.epanorama.net/links/psu_computer.html
+ 173. http://www.hardwarebook.info/Category:Connector#Power_Supply
+ 174. http://www.pcguide.com/ref/power/sup/partsMotherboard-c.html
+ 175. http://www.formfactors.org/developer/specs/ATX_Spec_V1_0.pdf
+ 176. http://en.wikipedia.org/wiki/ATX
+ 177. file://localhost/wiki/Special:Categories
+ 178. file://localhost/wiki/Category:Motherboard_form_factors
+ 179. file://localhost/wiki/Category:IBM_PC_compatibles
+ 180. file://localhost/wiki/Category:Articles_containing_potentially_dated_statements_from_2009
+ 181. file://localhost/wiki/Category:All_articles_containing_potentially_dated_statements
+ 182. file://localhost/wiki/Category:All_pages_needing_cleanup
+ 183. file://localhost/wiki/Category:Articles_with_disputed_statements_from_February_2009
+ 184. file://localhost/wiki/ATX
+ 185. file://localhost/wiki/Talk:ATX
+ 186. file://localhost/w/index.php?title=ATX&action=edit
+ 187. file://localhost/w/index.php?title=ATX&action=history
+ 188. file://localhost/w/index.php?title=Special:UserLogin&returnto=ATX
+ 189. file://localhost/wiki/Main_Page
+ 190. file://localhost/wiki/Portal:Contents
+ 191. file://localhost/wiki/Portal:Featured_content
+ 192. file://localhost/wiki/Portal:Current_events
+ 193. file://localhost/wiki/Special:Random
+ 194. file://localhost/wiki/Wikipedia:About
+ 195. file://localhost/wiki/Wikipedia:Community_portal
+ 196. file://localhost/wiki/Special:RecentChanges
+ 197. file://localhost/wiki/Wikipedia:Contact_us
+ 198. http://wikimediafoundation.org/wiki/Donate
+ 199. file://localhost/wiki/Help:Contents
+ 200. file://localhost/wiki/Special:WhatLinksHere/ATX
+ 201. file://localhost/wiki/Special:RecentChangesLinked/ATX
+ 202. file://localhost/wiki/Wikipedia:Upload
+ 203. file://localhost/wiki/Special:SpecialPages
+ 204. file://localhost/w/index.php?title=ATX&printable=yes
+ 205. file://localhost/w/index.php?title=ATX&oldid=271420573
+ 206. file://localhost/w/index.php?title=Special:Cite&page=ATX&id=271420573
+ 207. http://af.wikipedia.org/wiki/ATX
+ 208. http://cs.wikipedia.org/wiki/ATX
+ 209. http://de.wikipedia.org/wiki/ATX-Format
+ 210. http://es.wikipedia.org/wiki/ATX
+ 211. http://fr.wikipedia.org/wiki/Advanced_Technology_Extended
+ 212. http://gl.wikipedia.org/wiki/ATX
+ 213. http://it.wikipedia.org/wiki/ATX_(standard)
+ 214. http://nl.wikipedia.org/wiki/ATX
+ 215. http://no.wikipedia.org/wiki/ATX
+ 216. http://pl.wikipedia.org/wiki/ATX_(informatyka)
+ 217. http://pt.wikipedia.org/wiki/ATX
+ 218. http://sv.wikipedia.org/wiki/ATX
+ 219. http://tr.wikipedia.org/wiki/ATX
+ 220. http://www.mediawiki.org/
+ 221. http://wikimediafoundation.org/
+ 222. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 223. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 224. http://www.wikimediafoundation.org/
+ 225. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 226. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 227. http://en.wikipedia.org/wiki/Non-profit_organization
+ 228. http://en.wikipedia.org/wiki/Charitable_organization
+ 229. http://wikimediafoundation.org/wiki/Privacy_policy
+ 230. file://localhost/wiki/Wikipedia:About
+ 231. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 232. file://localhost/wiki/File:Abit-kt7-large.jpg
+ 233. file://localhost/wiki/File:Abit-kt7-large.jpg
+ 234. file://localhost/wiki/File:ATX-Netzteil.jpg
+ 235. file://localhost/wiki/File:ATX-Netzteil.jpg
+ 236. file://localhost/wiki/File:ATX_power_supply_interior.jpg
+ 237. file://localhost/wiki/File:ATX_power_supply_interior.jpg
+ 238. file://localhost/wiki/File:Several_atx_io_shields_(smial).jpg
+ 239. file://localhost/wiki/File:Several_atx_io_shields_(smial).jpg
+ 240. file://localhost/wiki/File:Atxscale.svg
+ 241. file://localhost/wiki/File:Atxscale.svg
+ 242. file://localhost/wiki/Main_Page
+ 243. http://ja.wikipedia.org/wiki/ATX
+ 244. http://ru.wikipedia.org/wiki/ATX
+ 245. http://uk.wikipedia.org/wiki/ATX
+ 246. http://zh.wikipedia.org/wiki/ATX

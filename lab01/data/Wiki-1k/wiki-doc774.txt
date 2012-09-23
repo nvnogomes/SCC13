@@ -1,0 +1,174 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Eastern Young Cattle Indicator - EYCI
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   This article is [8]orphaned as few or no other articles [9]link to it.
+   Please help [10]introduce links to this subject in articles on
+   [11]topics related to it. (February 2009)
+
+   The Eastern Young Cattle Indicator - or EYCI - is an indicator of
+   general [12]cattle markets in [13]Australia.
+
+   The EYCI index is calculated based on a seven-day rolling average
+   expressed in cents per kilogram carcase (or dressed) weight (/kg cwt);
+   and is sourced from sale data from 26 saleyards in New South Wales,
+   Queensland and Victoria.^[14][1]
+
+   It is produced daily by MLA's National Livestock Reporting Service
+   (NLRS); and includes
+     * vealer
+     * yearling
+     * heifers
+     * steers
+
+   Only cattle meeting the following criteria are included
+     * grade score C2 or C3,
+     * 200kg+ liveweight
+
+   Includes cattle purchased for
+     * slaughter,
+     * restocking or
+     * lotfeeding;
+
+   It is also used as the base for the MLA/SFE [15]Meat & Livestock
+   Australia/[16]Sydney futures exchange Cattle Futures contract.
+
+[[17]edit] References
+
+    1. [18]^ [19]eyci.mla.com.au, retrieved September 10, 2006
+
+   Retrieved from
+   "[20]http://en.wikipedia.org/wiki/Eastern_Young_Cattle_Indicator_-_EYCI
+   "
+   [21]Categories: [22]Index numbers | [23]Beef | [24]Cattle |
+   [25]Agriculture in Australia
+   Hidden categories: [26]Orphaned articles from February 2009 | [27]All
+   orphaned articles
+
+Views
+
+     * [28]Article
+     * [29]Discussion
+     * [30]Edit this page
+     * [31]History
+
+Personal tools
+
+     * [32]Log in / create account
+
+Navigation
+
+     * [33]Main page
+     * [34]Contents
+     * [35]Featured content
+     * [36]Current events
+     * [37]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [38]About Wikipedia
+     * [39]Community portal
+     * [40]Recent changes
+     * [41]Contact Wikipedia
+     * [42]Donate to Wikipedia
+     * [43]Help
+
+Toolbox
+
+     * [44]What links here
+     * [45]Related changes
+     * [46]Upload file
+     * [47]Special pages
+     * [48]Printable version
+     * [49]Permanent link
+     * [50]Cite this page
+
+   [51]Powered by MediaWiki
+   [52]Wikimedia Foundation
+     * This page was last modified on 14 February 2009, at 13:32.
+     * All text is available under the terms of the [53]GNU Free
+       Documentation License. (See [54]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [55]Wikimedia
+       Foundation, Inc., a U.S. registered [56]501(c)(3)
+       [57]tax-deductible [58]nonprofit [59]charity.
+     * [60]Privacy policy
+     * [61]About Wikipedia
+     * [62]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc774.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc774.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:Orphan
+   9. http://en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&target=Eastern_Young_Cattle_Indicator_-_EYCI&namespace=0
+  10. file://localhost/wiki/Help:Link
+  11. http://www.google.com/search?hl=en&as_qdr=all&q=+site%3Aen.wikipedia.org+%22Eastern+Young+Cattle+Indicator+-+EYCI%22
+  12. file://localhost/wiki/Cattle
+  13. file://localhost/wiki/Australia
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc774.tmp.html#cite_note-0
+  15. http://www.mla.com.au/
+  16. file://localhost/wiki/Sydney_futures_exchange
+  17. file://localhost/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&action=edit&section=1
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc774.tmp.html#cite_ref-0
+  19. http://eyci.mla.com.au/
+  20. http://en.wikipedia.org/wiki/Eastern_Young_Cattle_Indicator_-_EYCI
+  21. file://localhost/wiki/Special:Categories
+  22. file://localhost/wiki/Category:Index_numbers
+  23. file://localhost/wiki/Category:Beef
+  24. file://localhost/wiki/Category:Cattle
+  25. file://localhost/wiki/Category:Agriculture_in_Australia
+  26. file://localhost/wiki/Category:Orphaned_articles_from_February_2009
+  27. file://localhost/wiki/Category:All_orphaned_articles
+  28. file://localhost/wiki/Eastern_Young_Cattle_Indicator_-_EYCI
+  29. file://localhost/wiki/Talk:Eastern_Young_Cattle_Indicator_-_EYCI
+  30. file://localhost/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&action=edit
+  31. file://localhost/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&action=history
+  32. file://localhost/w/index.php?title=Special:UserLogin&returnto=Eastern_Young_Cattle_Indicator_-_EYCI
+  33. file://localhost/wiki/Main_Page
+  34. file://localhost/wiki/Portal:Contents
+  35. file://localhost/wiki/Portal:Featured_content
+  36. file://localhost/wiki/Portal:Current_events
+  37. file://localhost/wiki/Special:Random
+  38. file://localhost/wiki/Wikipedia:About
+  39. file://localhost/wiki/Wikipedia:Community_portal
+  40. file://localhost/wiki/Special:RecentChanges
+  41. file://localhost/wiki/Wikipedia:Contact_us
+  42. http://wikimediafoundation.org/wiki/Donate
+  43. file://localhost/wiki/Help:Contents
+  44. file://localhost/wiki/Special:WhatLinksHere/Eastern_Young_Cattle_Indicator_-_EYCI
+  45. file://localhost/wiki/Special:RecentChangesLinked/Eastern_Young_Cattle_Indicator_-_EYCI
+  46. file://localhost/wiki/Wikipedia:Upload
+  47. file://localhost/wiki/Special:SpecialPages
+  48. file://localhost/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&printable=yes
+  49. file://localhost/w/index.php?title=Eastern_Young_Cattle_Indicator_-_EYCI&oldid=270659058
+  50. file://localhost/w/index.php?title=Special:Cite&page=Eastern_Young_Cattle_Indicator_-_EYCI&id=270659058
+  51. http://www.mediawiki.org/
+  52. http://wikimediafoundation.org/
+  53. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  54. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  55. http://www.wikimediafoundation.org/
+  56. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  57. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  58. http://en.wikipedia.org/wiki/Non-profit_organization
+  59. http://en.wikipedia.org/wiki/Charitable_organization
+  60. http://wikimediafoundation.org/wiki/Privacy_policy
+  61. file://localhost/wiki/Wikipedia:About
+  62. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  63. file://localhost/wiki/File:Wiki_letter_w.svg
+  64. file://localhost/wiki/Main_Page
