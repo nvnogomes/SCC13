@@ -8,5 +8,10 @@ CFLAGS  = -std=c++0x -g -Wall
 .IGNORE:                     # ignore problems (as far as possible)
 .SILENT:                     # don't echo commands executed
 
-all:
+all: index agg
+
+index:
 	$(CC) $(CFLAGS) -o indexer M_Indexer.cpp
+
+agg:
+	$(CC) $(CFLAGS) -o aggregator M_Aggregator.cpp
