@@ -58,15 +58,17 @@ std::string cleanWord(std::string& word ) {
 int main(int argc, char* argv[]) {
 
 	/* check correct usage */
-//	if( argc != 2 ) {
-//		std::cerr << "Usage: indexer file | directory" << std::endl;
-//		return 1;
-//	}
+	if( argc != 2 ) {
+		std::cerr << "Usage: indexer file" << std::endl;
+		return 1;
+	}
+
+	std::string inputFilename = argv[1];
 
 	std::cout << "Locale detected: " << std::locale("").name().c_str() << std::endl;
 
 //	std::string inputFilename = "../data/Eca-Queiros/pg16384.txt";
-	std::string inputFilename = "../data/Eca-Queiros/pg17515.txt";
+//	std::string inputFilename = "../data/Eca-Queiros/pg17515.txt";
 	std::ifstream input( inputFilename );
 
 	std::map<std::string, int> index;
