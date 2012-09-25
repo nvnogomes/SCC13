@@ -1,3 +1,10 @@
 para compilar o código executar:
 
 $ make
+
+TODO
+	change merge to run all *.index files
+	output file from indexer contains file words
+
+features
+	utf by c++11 flag

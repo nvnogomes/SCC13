@@ -12,8 +12,7 @@ void printMap(std::map<std::string, int>& index, std::string inputFilename) {
 
 	int fileIndex = inputFilename.rfind("/") + 1;
 	int strLenght = inputFilename.size() - fileIndex;
-	std::string outputFilename = "index_" + inputFilename.substr( fileIndex, strLenght );
-	std::cout << outputFilename << std::endl;
+	std::string outputFilename = inputFilename.substr( fileIndex, strLenght ) + ".index";
 
 	std::ofstream fileout( outputFilename );
 
