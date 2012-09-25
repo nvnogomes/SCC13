@@ -21,7 +21,7 @@ std::list<std::string> listIndexFiles( std::string searchDir ){
 		if( entry->d_type == DT_REG ){
 			std::string fname = entry->d_name;
 			if( fname.find( ".index" ) != std::string::npos) {
-				list.push_back(fname);
+				std::cout << fname << std::endl;
 			}
 		}
 	}
