@@ -11,7 +11,7 @@ CFLAGS  = -std=c++0x -g -Wall
 all: index agg
 
 index:
-	$(CC) $(CFLAGS) -o indexer M_Indexer.cpp
+	$(CC) $(CFLAGS) -o ../bin/indexer M_Indexer.cpp
 
 agg:
-	$(CC) $(CFLAGS) -o aggregator M_Aggregator.cpp
+	$(CC) $(CFLAGS) -o ../bin/aggregator M_Aggregator.cpp

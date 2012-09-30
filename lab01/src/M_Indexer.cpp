@@ -1,62 +1,156 @@
 #include <fstream>
 #include <iostream>
+#include <sstream>
 #include <locale>
 #include <map>
 #include <string>
 #include <cctype>
 
-/*
- * prints the map to file
- */
-void printMap(std::map<std::string, int>& index, std::string inputFilename) {
 
-	int fileIndex = inputFilename.rfind("/") + 1;
-	int strLenght = inputFilename.size() - fileIndex;
-	std::string outputFilename = inputFilename.substr( fileIndex, strLenght ) + ".index";
+class Indexer {
 
-	std::ofstream fileout( outputFilename );
+    std::string filename;
+    std::string outputString;
+    std::map<std::string, int> indexMap;
 
-	fileout << index.size() << std::endl;
-	std::map<std::string, int>::iterator iter;
-	for (iter = index.begin(); iter != index.end(); ++iter) {
-		fileout << iter->first << " " << iter->second << std::endl;
-	}
-	fileout.close();
+private:
+    virtual void buildMapString();
+    virtual std::string buildOutputFilename();
+    virtual std::string trimWord(std::string);
+
+public:
+    Indexer( std::string filename );
+    virtual ~Indexer();
+
+    virtual std::string getFile();
+    virtual void outputAggregate();
+    virtual void outputAggregateToFile();
+    virtual void run();
+    virtual void setFile( std::string file );
+
+};
+
+
+
+Indexer::Indexer(std::string filename):
+    outputString(""),
+    indexMap()
+{
+    setFile( filename );
+}
+
+Indexer::~Indexer(){}
+
+
+void Indexer::buildMapString() {
+
+    std::ostringstream buf ("");
+
+    buf << indexMap.size() << std::endl;
+    std::map<std::string, int>::iterator iter;
+    for (iter = indexMap.begin(); iter != indexMap.end(); ++iter) {
+        buf << iter->first << " " << iter->second << std::endl;
+    }
+
+    outputString = buf.str();
+}
+
+
+std::string Indexer::buildOutputFilename() {
+
+    int fileIndex = filename.rfind("/") + 1;
+    int strLenght = filename.size() - fileIndex;
+    return filename.substr( fileIndex, strLenght ) + ".index";
+}
+
+
+std::string Indexer::getFile() {
+    return filename;
+}
+
+
+void Indexer::outputAggregate() {
+
+    if( outputString.empty() ) {
+        buildMapString();
+    }
+
+    std::cout << outputString << std::endl;
+}
+
+
+void Indexer::outputAggregateToFile() {
+
+    if( outputString.empty() ) {
+        buildMapString();
+    }
+
+    std::string outputFile = buildOutputFilename();
+    std::ofstream fileOut( outputFile );
+    fileOut << outputString;
+
+    fileOut.close();
+}
+
+
+void Indexer::run() {
+
+    std::ifstream input( filename );
+
+    if( input.is_open() ) {
+
+        std::string word;
+
+        while( input.good() ) {
+            input >> word;
+            word = trimWord( word );
+            if( word.length() > 1 ) {
+                indexMap[ word ]++;
+            }
+        }
+        input.close();
+    }
+    else {
+        std::cerr << "Error: Could not open file." << std::endl;
+    }
+}
+
+
+void Indexer::setFile(std::string file) {
+    filename = file;
 }
 
 
 /*
  * removes non alphanumeric characters
- * from the begining and end of the word
- */
-std::string cleanWord(std::string& word ) {
+ * from the begining and end of the word */
+std::string Indexer::trimWord( std::string word) {
+    int chIndexBegin = 0;
+    while( !isalpha( word[chIndexBegin] ) && chIndexBegin < (int)word.size() ){
+        chIndexBegin++;
+    }
 
-	int chIndexBegin = 0;
-	while( !isalpha( word[chIndexBegin] ) && chIndexBegin < (int)word.size() ){
-		chIndexBegin++;
-	}
+    int chIndexEnd = word.size() - 1;
+    while( !isalpha( word[chIndexEnd] ) && chIndexEnd > 0 ){
+        chIndexEnd--;
+    }
 
-	int chIndexEnd = word.size() - 1;
-	while( !isalpha( word[chIndexEnd] ) && chIndexEnd > 0 ){
-		chIndexEnd--;
-	}
+    int strLenght = chIndexEnd - chIndexBegin +1;
 
-	int strLenght = chIndexEnd - chIndexBegin +1;
-
-	if( strLenght <= 0 ) {
-		return "";
-	}
-	else {
-		return word.substr(chIndexBegin, strLenght );
-	}
+    if( strLenght <= 0 ) {
+        return "";
+    }
+    else {
+        return word.substr(chIndexBegin, strLenght );
+    }
 }
 
+
 /*
- * MAIN
- */
+ * MAIN  */
 int main(int argc, char* argv[]) {
 
-	/* check correct usage */
+
 	if( argc != 2 ) {
 		std::cerr << "Usage: indexer file" << std::endl;
 		return 1;
@@ -66,30 +160,9 @@ int main(int argc, char* argv[]) {
 
 	std::cout << "Locale detected: " << std::locale("").name().c_str() << std::endl;
 
-//	std::string inputFilename = "../data/Eca-Queiros/pg16384.txt";
-//	std::string inputFilename = "../data/Eca-Queiros/pg17515.txt";
-	std::ifstream input( inputFilename );
-
-	std::map<std::string, int> index;
-	if( input.is_open() ) {
-
-		std::string word;
-
-		while( input.good() ) {
-			input >> word;
-			word = cleanWord( word );
-			if( word.length() > 1 ) {
-				index[ cleanWord( word ) ]++;
-			}
-		}
-		input.close();
-
-		printMap( index, inputFilename );
-		std::cout << index.size() << std::endl;
-	}
-	else {
-		std::cerr << "File not open" << std::endl;
-	}
+    Indexer idx ( inputFilename );
+    idx.run();
+    idx.outputAggregateToFile();
 
 	return 0;
 }
