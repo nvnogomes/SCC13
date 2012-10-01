@@ -1,17 +1,27 @@
 # Condor compiler version: 3.4.4 (current 4.7)
-CC 		= g++
+CC = g++
+
+# mpi compiler wrap
+MPICC = mpicc
 
 # flags for showing warnings and be utf8 aware
-CFLAGS  = -std=c++0x -g -Wall
+CFLAGS  = -g -Wall
+
+# c++11
+STDFLAG = -std=c++0x 
+
 
 
 .IGNORE:                     # ignore problems (as far as possible)
 .SILENT:                     # don't echo commands executed
 
-all: index agg
+all: index agg mpi
 
 index:
-	$(CC) $(CFLAGS) -o ../bin/indexer M_Indexer.cpp
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer M_Indexer.cpp
 
 agg:
-	$(CC) $(CFLAGS) -o ../bin/aggregator M_Aggregator.cpp
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator M_Aggregator.cpp
+
+mpi:
+	$(MPICC) $(CFLAGS) -o  ../bin/mpi mpi_index.cpp
