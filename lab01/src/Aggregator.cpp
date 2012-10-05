@@ -1,44 +1,20 @@
 #include <fstream>
 #include <iostream>
 #include <sstream>
-#include <list>
-#include <locale>
-#include <map>
-#include <string>
 #include <cctype>
 #include <dirent.h>
 #include <unistd.h>
+#include <string>
+#include <locale>
+
+#include "Aggregator.h"
 
 
-class Aggregator {
-
-    std::string directory;
-    std::string outputString;
-    std::map<std::string, std::list<std::pair<std::string,int> > > globalIndex;
-
-private:
-    std::list<std::string> listDirectory();
-    void buildMapString();
-
-public:
-    Aggregator( std::string dir );
-    virtual ~Aggregator();
-
-
-    virtual std::string getCwd();
-    virtual void outputAggregate();
-    virtual void outputAggregateToFile( std::string file );
-    virtual void run();
-    virtual void setDirectory( std::string dir );
-
-};
-
-
-Aggregator::Aggregator(std::string dir):
+Aggregator::Aggregator():
     outputString(""),
     globalIndex()
 {
-    directory = dir.empty() ? "." : dir;
+    setDirectory(".");
 }
 
 Aggregator::~Aggregator(){}
@@ -134,22 +110,3 @@ void Aggregator::buildMapString() {
     outputString = buf.str();
 }
 
-
-
-
-/*
- * MAIN
- */
-int main(int argc, char* argv[]) {
-
-	std::string searchDirectory = ".";
-	if( argc == 2 ) {
-		searchDirectory = argv[1];
-	}
-
-    Aggregator agg ( searchDirectory );
-    agg.run();
-    agg.outputAggregateToFile( "aggregatedOutput.txt" );
-
-	return 0;
-}

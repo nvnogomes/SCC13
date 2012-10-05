@@ -2,33 +2,10 @@
 #include <iostream>
 #include <sstream>
 #include <locale>
-#include <map>
 #include <string>
 #include <cctype>
 
-
-class Indexer {
-
-    std::string filename;
-    std::string outputString;
-    std::map<std::string, int> indexMap;
-
-private:
-    virtual void buildMapString();
-    virtual std::string buildOutputFilename();
-    virtual std::string trimWord(std::string);
-
-public:
-    Indexer( std::string filename );
-    virtual ~Indexer();
-
-    virtual std::string getFile();
-    virtual void outputAggregate();
-    virtual void outputAggregateToFile();
-    virtual void run();
-    virtual void setFile( std::string file );
-
-};
+#include "Indexer.h"
 
 
 
@@ -145,24 +122,3 @@ std::string Indexer::trimWord( std::string word) {
     }
 }
 
-
-/*
- * MAIN  */
-int main(int argc, char* argv[]) {
-
-
-	if( argc != 2 ) {
-		std::cerr << "Usage: indexer file" << std::endl;
-		return 1;
-	}
-
-	std::string inputFilename = argv[1];
-
-	std::cout << "Locale detected: " << std::locale("").name().c_str() << std::endl;
-
-    Indexer idx ( inputFilename );
-    idx.run();
-    idx.outputAggregateToFile();
-
-	return 0;
-}

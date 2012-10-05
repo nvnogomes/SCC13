@@ -2,7 +2,7 @@
 CC = g++
 
 # mpi compiler wrap
-MPICC = mpicc
+MPICC = mpiCC
 
 # flags for showing warnings and be utf8 aware
 CFLAGS  = -g -Wall
@@ -17,11 +17,17 @@ STDFLAG = -std=c++0x
 
 all: index agg mpi
 
-index:
-	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer M_Indexer.cpp
+index: Indexer.h
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer -c Indexer.cpp
 
-agg:
-	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator M_Aggregator.cpp
+agg: Aggregator.h
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator -c Aggregator.cpp
 
-mpi:
-	$(MPICC) $(CFLAGS) -o  ../bin/mpi mpi_index.cpp
+mpi: Indexer.h Indexer.cpp Aggregator.h Aggregator.cpp
+	$(MPICC) $(CFLAGS) -o ../bin/mpi -c MPI_Index.cpp
+
+
+lab: ../bin/indexer ../bin/aggregator ../bin/mpi
+	$(MPICC) $(CFLAGS) -o lab ../bin/indexer ../bin/aggregator ../bin/mpi
+
+
