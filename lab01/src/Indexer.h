@@ -20,10 +20,12 @@ public:
     virtual ~Indexer();
 
     virtual std::string getFile();
+    virtual int getOutputSize();
     virtual void outputAggregate();
     virtual void outputAggregateToFile();
     virtual void run();
     virtual void setFile( std::string file );
+
 
 };
 

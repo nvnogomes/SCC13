@@ -45,6 +45,10 @@ std::string Indexer::getFile() {
     return filename;
 }
 
+int Indexer::getOutputSize() {
+    return indexMap.size();
+}
+
 
 void Indexer::outputAggregate() {
 

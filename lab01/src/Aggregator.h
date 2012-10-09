@@ -20,6 +20,7 @@ public:
     virtual ~Aggregator();
 
     virtual std::string getCwd();
+    virtual int getAggSize();
     virtual void outputAggregate();
     virtual void outputAggregateToFile( std::string file );
     virtual void run();

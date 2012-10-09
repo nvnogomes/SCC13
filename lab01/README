@@ -1,10 +1,50 @@
 para compilar o código executar:
 
 $ make
-
-TODO
-	change merge to run all *.index files
-	output file from indexer contains file words
+$ mpirun -np <processos> ../bin/mpi
 
 features
-	utf by c++11 flag
+    UTF by c++11 flag
+
+
+Estrutura
+    lab1/
+     + bin/     (binários e ficheiros de resultados)
+     + src/     (códigos fonte)
+     + data/    (dados para teste)
+     + docs/    (documentos relevantes)
+
+
+Indexer
+    Indexação de um ficheiro passado por argumento
+    Filtro das palavras com comprimento maior que um
+    Limpeza de caracteres não alfanuméricos nas extremidades das palavras
+    O ficheiro resultante inicia-se com o total de entradas.
+    Cada entrada tem o formato: <palavra> <ocorrencias>
+
+
+Aggregator
+    Agregação de todos os ficheiros de extensão .index na directoria indicada ou
+        a directoria corrente se inicializado sem argumento
+    O ficheiro resultante inicia-se com o total de entradas.
+    Cada entrada tem o formato: <palavra> [ (<documento> <ocorrencias>) ...]
+
+
+MPI_Index
+    Junta os dois programas anteriores e implementa o processamento em paralelo
+    O processamento recai sobre os ficheiros indicados por constante no ficheiro
+    Como utiliza os dois programas anteriores terá os mesmos ficheiros de saida.
+    Além dos anteriores também terá um ficheiro que guarda toda a execução
+        Info do inicio da execução
+        Número de processos requerido
+        Acções despoletadas pelo master
+        Evolução dos slaves
+        Número total de palavras indexadas
+        Tempo de execução
+
+
+Makefile
+    Regras definidas
+        index   programa de indexação
+        agg     programa de agregação
+        mpi     programa indexação e aggregação com MPI

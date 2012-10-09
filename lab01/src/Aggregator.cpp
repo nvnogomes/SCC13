@@ -20,6 +20,10 @@ Aggregator::Aggregator():
 Aggregator::~Aggregator(){}
 
 
+int Aggregator::getAggSize() {
+    return globalIndex.size();
+}
+
 std::string Aggregator::getCwd() {
     return directory;
 }

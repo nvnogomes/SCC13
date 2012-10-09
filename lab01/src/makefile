@@ -12,22 +12,19 @@ STDFLAG = -std=c++0x
 
 
 
-.IGNORE:                     # ignore problems (as far as possible)
-.SILENT:                     # don't echo commands executed
+.IGNORE:	# ignore problems (as far as possible)
+.SILENT:	# don't echo commands executed
 
 all: index agg mpi
 
-index: Indexer.h
-	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer -c Indexer.cpp
+index:
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer.o -c Indexer.cpp
 
-agg: Aggregator.h
-	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator -c Aggregator.cpp
+agg:
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator.o -c Aggregator.cpp
 
-mpi: Indexer.h Indexer.cpp Aggregator.h Aggregator.cpp
-	$(MPICC) $(CFLAGS) -o ../bin/mpi -c MPI_Index.cpp
+mpi:
+	$(MPICC) $(CFLAGS) -o ../bin/mpi ../bin/indexer.o ../bin/aggregator.o MPI_Index.cpp
 
-
-lab: ../bin/indexer ../bin/aggregator ../bin/mpi
-	$(MPICC) $(CFLAGS) -o lab ../bin/indexer ../bin/aggregator ../bin/mpi
 
 

@@ -1,22 +1,25 @@
 #include <dirent.h>
 #include <vector>
 #include <mpi.h>
+#include <fstream>
+#include <sstream>
+#include <string>
 #include "Aggregator.h"
 #include "Indexer.h"
 
 
-#define WORKTAG 1
-#define DIETAG 2
+#define WORK_TAG 1
+#define DIE_TAG 2
+#define DATA_DIRECTORY "../data/Eca-Queiros/"
+//#define DATA_DIRECTORY "../data/Wiki-1k/"
+#define TRACE true
 
-/*
-    to execute
-    mpiexec -n #process binary
-*/
 
 
 /* files */
 std::vector< std::string > fileList;
 int fileEntry;
+std::ostringstream buf ("");
 
 
 
@@ -30,7 +33,7 @@ void listDocDirectory(std::string directory) {
             std::string fname = entry->d_name;
             if( fname.find( ".txt" ) != std::string::npos) {
 
-                fileList.push_back( entry->d_name );
+                fileList.push_back( directory + entry->d_name );
             }
         }
     }
@@ -39,11 +42,21 @@ void listDocDirectory(std::string directory) {
 }
 
 
+std::string getCurrentDate() {
+    time_t rawtime;
+    struct tm *timeinfo;
+
+    time ( &rawtime );
+    timeinfo = localtime ( &rawtime );
+
+    return asctime (timeinfo);
+}
+
 static int
 getNextWorkItem(void) {
 
-    if( ++fileEntry < (int)fileList.size() ) {
-        return fileEntry;
+    if( fileEntry < (int)fileList.size() ) {
+        return fileEntry++;
     }
     else {
         return -1;
@@ -59,6 +72,7 @@ processResults() {
     agg.run();
     agg.outputAggregateToFile( "aggResult.txt" );
 
+    buf << "Global Index size: "<< agg.getAggSize() << " entries." << std::endl;
 }
 
 
@@ -68,6 +82,7 @@ doWork(int filenameIndex) {
     Indexer ind ( fileList[filenameIndex] );
     ind.run();
     ind.outputAggregateToFile();
+
     return 0;
 }
 
@@ -75,67 +90,78 @@ doWork(int filenameIndex) {
 
 static void
 master(void) {
-    int ntasks, rank;
-    int work;
-    int result;
+    int ntasks, rank, work, result;
     MPI_Status status;
 
-    /* Find out how many processes there are in the default communicator */
     MPI_Comm_size(MPI_COMM_WORLD, &ntasks);
 
-    /* Seed the slaves; send one unit of work to each slave. */
+    buf << getCurrentDate()
+        <<"Running with " << ntasks << " processes" << std::endl;
+
+    // assign work to all processes
     for (rank = 1; rank < ntasks; ++rank) {
 
-        /* Find the next item of work to do */
         work = getNextWorkItem();
+        MPI_Send(&work,
+                 1,
+                 MPI_INT,
+                 rank,
+                 WORK_TAG,
+                 MPI_COMM_WORLD);
 
-        /* Send it to each rank */
-        MPI_Send(&work,             /* message buffer */
-                 1,                 /* one data item */
-                 MPI_INT,           /* data item is an integer */
-                 rank,              /* destination process rank */
-                 WORKTAG,           /* user chosen message tag */
-                 MPI_COMM_WORLD);   /* default communicator */
+        buf << "Master: W" << work << " sent to S" << rank << std::endl;
     }
 
-    /* Loop over getting new work requests until there is no more work
-     to be done */
+    /* when the #work is bigger than #process we will
+     * give more work to the process
+     * this will be repeated until there is work to be done */
     work = getNextWorkItem();
     while ( work != -1 ) {
 
         /* Receive results from a slave */
-        MPI_Recv(&result,           /* message buffer */
-                 1,                 /* one data item */
-                 MPI_INT,        /* of type string */
-                 MPI_ANY_SOURCE,    /* receive from any sender */
-                 MPI_ANY_TAG,       /* any type of message */
-                 MPI_COMM_WORLD,    /* default communicator */
-                 &status);          /* info about the received message */
+        MPI_Recv(&result,
+                 1,
+                 MPI_INT,
+                 MPI_ANY_SOURCE,
+                 MPI_ANY_TAG,
+                 MPI_COMM_WORLD,
+                 &status);
+
+        buf << "Slave : S" << status.MPI_SOURCE << " finished." << std::endl;
 
         /* Send the slave a new work unit */
-        MPI_Send(&work,             /* message buffer */
-                 1,                 /* one data item */
-                 MPI_INT,           /* data item is an integer */
-                 status.MPI_SOURCE, /* to who we just received from */
-                 WORKTAG,           /* user chosen message tag */
-                 MPI_COMM_WORLD);   /* default communicator */
+        MPI_Send(&work,
+                 1,
+                 MPI_INT,
+                 status.MPI_SOURCE,
+                 WORK_TAG,
+                 MPI_COMM_WORLD);
 
+        buf << "Master: W" << work << " sent to S" << status.MPI_SOURCE << std::endl;
 
         work = getNextWorkItem();
     }
 
-    /* Tell all the slaves to exit by sending an empty message with the DIETAG. */
     for (rank = 1; rank < ntasks; ++rank) {
-        MPI_Send(0, 0, MPI_INT, rank, DIETAG, MPI_COMM_WORLD);
+        MPI_Send(0,
+                 0,
+                 MPI_INT,
+                 rank,
+                 DIE_TAG,
+                 MPI_COMM_WORLD);
     }
 
-    /* There's no more work to be done, so receive all the outstanding
-     results from the slaves. */
     for (rank = 1; rank < ntasks; ++rank) {
-        MPI_Recv(&result, 1, MPI_INT, MPI_ANY_SOURCE,
-                 MPI_ANY_TAG, MPI_COMM_WORLD, &status);
-    }
+        MPI_Recv(&result,
+                 1,
+                 MPI_INT,
+                 MPI_ANY_SOURCE,
+                 MPI_ANY_TAG,
+                 MPI_COMM_WORLD,
+                 &status);
 
+        buf << "Slave : S" << status.MPI_SOURCE << " finished." << std::endl;
+    }
 
     processResults();
 }
@@ -150,27 +176,50 @@ slave(void) {
 
     while (1) {
 
-        MPI_Recv(&filenameIndex, 1, MPI_INT, 0, MPI_ANY_TAG,
-                 MPI_COMM_WORLD, &status);
+        MPI_Recv(&filenameIndex,
+                 1,
+                 MPI_INT,
+                 0,
+                 MPI_ANY_TAG,
+                 MPI_COMM_WORLD,
+                 &status);
 
-        if (status.MPI_TAG == DIETAG) {
+        if (status.MPI_TAG == DIE_TAG) {
             return;
         }
 
         result = doWork( filenameIndex );
 
-        MPI_Send(&result, 1, MPI_INT, 0, 0, MPI_COMM_WORLD);
+        MPI_Send(&result,
+                 1,
+                 MPI_INT,
+                 0,
+                 0,
+                 MPI_COMM_WORLD);
     }
 }
 
+void
+outputTrace() {
+    std::string aux = (std::string) DATA_DIRECTORY;
+    aux.erase( aux.length()-1, 1);
+    int fileIndex = aux.rfind("/") + 1;
+    int strLenght = aux.size() - fileIndex;
+    std::string outputFile = aux.substr( fileIndex, strLenght ) + "_trace.txt";
 
+    std::ofstream fileOut( outputFile.c_str(), std::ios_base::app );
+    buf << std::endl;
+    fileOut << buf.str();
+    fileOut.close();
+}
 
 
 int
 main(int argc, char **argv) {
     int myrank;
+    double start, finish;
 
-    listDocDirectory( "../data/Eca-Queiros/" );
+    listDocDirectory( DATA_DIRECTORY );
 
     MPI_Init(&argc, &argv);
 
@@ -180,12 +229,19 @@ main(int argc, char **argv) {
 
     MPI_Comm_rank(MPI_COMM_WORLD, &myrank);
     if (myrank == 0) {
+        start = MPI_Wtime();
         master();
+        finish = MPI_Wtime();
+
+        buf << "Time elapsed: " << finish - start << "s" <<std::endl;
+
+        if( TRACE ) { outputTrace(); }
     } else {
         slave();
     }
 
     /* Shut down MPI */
     MPI_Finalize();
+
     return 0;
 }
