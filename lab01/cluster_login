@@ -1,0 +1,4 @@
+ssh -p 12034 scg@di88.di.fct.unl.pt
+password: 1213scg
+ssh scg16@192.168.254.34
+password: gomes12mestre
