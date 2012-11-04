@@ -4,17 +4,18 @@
 #include <cctype>
 #include <dirent.h>
 #include <unistd.h>
+#include <cstdlib>
 #include <string>
 #include <locale>
 
 #include "Aggregator.h"
 
 
-Aggregator::Aggregator():
+Aggregator::Aggregator(std::string dir):
     outputString(""),
     globalIndex()
 {
-    setDirectory(".");
+    setDirectory( dir );
 }
 
 Aggregator::~Aggregator(){}
@@ -29,24 +30,33 @@ std::string Aggregator::getCwd() {
 }
 
 void Aggregator::setDirectory( std::string dir ) {
-  directory = dir;
+    directory = dir;
 }
 
 
 std::list<std::string> Aggregator::listDirectory() {
-    DIR *searchDirectory = opendir( directory.c_str() );
-    dirent* entry;
+    DIR *searchDirectory;
+    struct dirent *entry;
     std::list<std::string> list;
+
+    searchDirectory = opendir( directory.c_str() );
+
+    if( searchDirectory == NULL ) {
+	printf("Error opening directory: Agg");
+        exit(2);
+    }
 
     while( (entry = readdir( searchDirectory )) ){
 
         if( entry->d_type == DT_REG ){
             std::string fname = entry->d_name;
             if( fname.find( ".index" ) != std::string::npos) {
-                list.push_back( fname );
+                list.push_back( directory +""+ fname );
             }
         }
     }
+    closedir( searchDirectory );
+
 
     return list;
 }
@@ -58,9 +68,10 @@ void Aggregator::run() {
     std::list<std::string>::iterator fileIter;
     for ( fileIter = fileList.begin(); fileIter != fileList.end(); fileIter++) {
         std::string currentFilename = *fileIter;
+
         currentFilename.resize( currentFilename.length() - 6);
 
-        std::ifstream input( *fileIter );
+        std::ifstream input( (*fileIter).c_str(), std::ios::in );
         int entries;
         std::string word;
         int wordCount;
@@ -83,13 +94,15 @@ void Aggregator::outputAggregate() {
     std::cout << outputString << std::endl;
 }
 
-void Aggregator::outputAggregateToFile( std::string file ) {
+void Aggregator::outputAggregateToFile() {
 
     if( outputString.empty() ) {
         buildMapString();
     }
 
-    std::ofstream fileOut( file );
+    std::string outputFile = directory +"masterIndex.txt";
+
+    std::ofstream fileOut( outputFile.c_str(), std::ios::out );
     fileOut << outputString;
     fileOut.close();
 }

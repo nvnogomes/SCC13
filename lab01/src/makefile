@@ -2,13 +2,13 @@
 CC = g++
 
 # mpi compiler wrap
-MPICC = mpiCC
+MPICC = mpic++
 
 # flags for showing warnings and be utf8 aware
 CFLAGS  = -g -Wall
 
 # c++11
-STDFLAG = -std=c++0x 
+STDFLAG = #-std=c++0x 
 
 
 
@@ -26,5 +26,6 @@ agg:
 mpi:
 	$(MPICC) $(CFLAGS) -o ../bin/mpi ../bin/indexer.o ../bin/aggregator.o MPI_Index.cpp
 
-
+sandbox:
+	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/aggregator.o sandbox.cpp
 

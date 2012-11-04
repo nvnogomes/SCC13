@@ -48,3 +48,7 @@ Makefile
         index   programa de indexação
         agg     programa de agregação
         mpi     programa indexação e aggregação com MPI
+        sandbox programa de testes
+
+Aspecto importante no ambiente remoto
+Não esquecer: localização relativo ao local de invocação!

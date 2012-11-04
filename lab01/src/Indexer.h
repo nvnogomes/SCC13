@@ -7,6 +7,7 @@
 class Indexer {
 
     std::string filename;
+    std::string directory;
     std::string outputString;
     std::map<std::string, int> indexMap;
 
@@ -24,6 +25,7 @@ public:
     virtual void outputAggregate();
     virtual void outputAggregateToFile();
     virtual void run();
+    virtual void setOutputDirectory(std::string);
     virtual void setFile( std::string file );
 
 

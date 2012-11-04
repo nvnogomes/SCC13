@@ -16,13 +16,13 @@ private:
     void buildMapString();
 
 public:
-    Aggregator();
+    Aggregator( std::string dir );
     virtual ~Aggregator();
 
     virtual std::string getCwd();
     virtual int getAggSize();
     virtual void outputAggregate();
-    virtual void outputAggregateToFile( std::string file );
+    virtual void outputAggregateToFile();
     virtual void run();
     virtual void setDirectory( std::string dir );
 };

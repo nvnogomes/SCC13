@@ -1,17 +1,20 @@
 #include <dirent.h>
 #include <vector>
 #include <mpi.h>
+#include <iostream>
 #include <fstream>
 #include <sstream>
 #include <string>
+#include <cstdlib>
 #include "Aggregator.h"
 #include "Indexer.h"
 
 
 #define WORK_TAG 1
 #define DIE_TAG 2
-#define DATA_DIRECTORY "../data/Eca-Queiros/"
-//#define DATA_DIRECTORY "../data/Wiki-1k/"
+#define DATA_DIRECTORY "data/Eca-Queiros/"
+//#define DATA_DIRECTORY "data/Wiki-1k/"
+#define OUTPUT_DIRECTORY "output/"
 #define TRACE true
 
 
@@ -24,8 +27,15 @@ std::ostringstream buf ("");
 
 
 void listDocDirectory(std::string directory) {
-    DIR *searchDirectory = opendir( directory.c_str() );
-    dirent* entry;
+    DIR *searchDirectory;
+    struct dirent *entry;
+
+    searchDirectory = opendir( directory.c_str() );
+
+    if( searchDirectory == NULL ) {
+        printf("Error: Cannot open directory: %s", directory.c_str() );
+	exit(27);
+    }
 
     while( (entry = readdir( searchDirectory )) ){
 
@@ -37,6 +47,7 @@ void listDocDirectory(std::string directory) {
             }
         }
     }
+    closedir( searchDirectory );
 
     fileEntry = 0;
 }
@@ -68,9 +79,14 @@ getNextWorkItem(void) {
 static void
 processResults() {
 
-    Aggregator agg;
+    std::string prefix = (std::string) OUTPUT_DIRECTORY;
+
+    Aggregator agg( prefix );
     agg.run();
-    agg.outputAggregateToFile( "aggResult.txt" );
+
+    agg.outputAggregateToFile();
+
+    printf("GIndex Size: %i\n", agg.getAggSize() );
 
     buf << "Global Index size: "<< agg.getAggSize() << " entries." << std::endl;
 }
@@ -79,8 +95,11 @@ processResults() {
 static int
 doWork(int filenameIndex) {
 
-    Indexer ind ( fileList[filenameIndex] );
+    std::string filename = fileList[filenameIndex];
+
+    Indexer ind ( filename );
     ind.run();
+    ind.setOutputDirectory( (std::string) OUTPUT_DIRECTORY );
     ind.outputAggregateToFile();
 
     return 0;
@@ -173,6 +192,9 @@ slave(void) {
     int result;
     MPI_Status status;
 
+    int rank;
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
 
     while (1) {
 
@@ -202,10 +224,12 @@ slave(void) {
 void
 outputTrace() {
     std::string aux = (std::string) DATA_DIRECTORY;
+    std::string dir = (std::string) OUTPUT_DIRECTORY;
     aux.erase( aux.length()-1, 1);
     int fileIndex = aux.rfind("/") + 1;
     int strLenght = aux.size() - fileIndex;
-    std::string outputFile = aux.substr( fileIndex, strLenght ) + "_trace.txt";
+    std::string outputFile = dir +""+ aux.substr( 
+fileIndex, strLenght ) + "_trace.txt";
 
     std::ofstream fileOut( outputFile.c_str(), std::ios_base::app );
     buf << std::endl;
@@ -219,9 +243,9 @@ main(int argc, char **argv) {
     int myrank;
     double start, finish;
 
-    listDocDirectory( DATA_DIRECTORY );
-
     MPI_Init(&argc, &argv);
+
+    listDocDirectory( DATA_DIRECTORY );
 
     MPI_Datatype MPIString;
     MPI_Type_contiguous(16, MPI::CHAR, &MPIString);
@@ -236,6 +260,7 @@ main(int argc, char **argv) {
         buf << "Time elapsed: " << finish - start << "s" <<std::endl;
 
         if( TRACE ) { outputTrace(); }
+
     } else {
         slave();
     }

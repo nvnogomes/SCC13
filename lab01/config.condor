@@ -1,0 +1,11 @@
+######################################
+## Parallel submit description file
+######################################
+universe = parallel
+executable = /home/condor/libexec/lamscript
+arguments = bin/mpi
+log = output/logfile
+output = output/outfile
+error = output/error
+machine_count = 9
+queue 1

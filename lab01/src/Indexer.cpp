@@ -1,5 +1,6 @@
 #include <fstream>
 #include <iostream>
+#include <istream>
 #include <sstream>
 #include <locale>
 #include <string>
@@ -8,12 +9,12 @@
 #include "Indexer.h"
 
 
-
 Indexer::Indexer(std::string filename):
     outputString(""),
     indexMap()
 {
     setFile( filename );
+    setOutputDirectory( "../output/" );
 }
 
 Indexer::~Indexer(){}
@@ -37,7 +38,8 @@ std::string Indexer::buildOutputFilename() {
 
     int fileIndex = filename.rfind("/") + 1;
     int strLenght = filename.size() - fileIndex;
-    return filename.substr( fileIndex, strLenght ) + ".index";
+    return directory +""+ filename.substr( fileIndex, strLenght ) + 
+".index";
 }
 
 
@@ -67,7 +69,8 @@ void Indexer::outputAggregateToFile() {
     }
 
     std::string outputFile = buildOutputFilename();
-    std::ofstream fileOut( outputFile );
+    std::ofstream fileOut;
+fileOut.open( outputFile.c_str(), std::ios::out );
     fileOut << outputString;
 
     fileOut.close();
@@ -76,7 +79,7 @@ void Indexer::outputAggregateToFile() {
 
 void Indexer::run() {
 
-    std::ifstream input( filename );
+    std::ifstream input( filename.c_str(), std::ios::in );
 
     if( input.is_open() ) {
 
@@ -99,6 +102,11 @@ void Indexer::run() {
 
 void Indexer::setFile(std::string file) {
     filename = file;
+}
+
+
+void Indexer::setOutputDirectory( std::string dir ) {
+    directory = dir;
 }
 
 
