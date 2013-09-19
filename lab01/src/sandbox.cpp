@@ -8,11 +8,12 @@
 
 
 int main() {
-	printf("Init sandbox");
-	Aggregator agg("../output/");
-	agg.run();
-	std::cout << agg.getAggSize() << std::endl;
-	agg.outputAggregateToFile();
+    std::cout << "Init sandbox" << std::endl;
+    Indexer i("../data/Eca-Queiros/pg16384.txt");
+    i.run();
+    i.outputHistogram();
+    i.outputHistogramToFile();
+    std::cout << i.getOutputSize() << std::endl;
 
 	return 0;
 }

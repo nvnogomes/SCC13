@@ -9,7 +9,7 @@ class Indexer {
     std::string filename;
     std::string directory;
     std::string outputString;
-    std::map<std::string, int> indexMap;
+    std::map<std::string, float> histogram;
 
 private:
     virtual void buildMapString();
@@ -22,8 +22,8 @@ public:
 
     virtual std::string getFile();
     virtual int getOutputSize();
-    virtual void outputAggregate();
-    virtual void outputAggregateToFile();
+    virtual void outputHistogram();
+    virtual void outputHistogramToFile();
     virtual void run();
     virtual void setOutputDirectory(std::string);
     virtual void setFile( std::string file );

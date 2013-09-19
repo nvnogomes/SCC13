@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <fstream>
 #include <iostream>
 #include <istream>
@@ -11,7 +12,7 @@
 
 Indexer::Indexer(std::string filename):
     outputString(""),
-    indexMap()
+    histogram()
 {
     setFile( filename );
     setOutputDirectory( "../output/" );
@@ -24,54 +25,54 @@ void Indexer::buildMapString() {
 
     std::ostringstream buf ("");
 
-    buf << indexMap.size() << std::endl;
-    std::map<std::string, int>::iterator iter;
-    for (iter = indexMap.begin(); iter != indexMap.end(); ++iter) {
+    buf << this->histogram.size() << std::endl;
+    std::map<std::string, float>::iterator iter;
+    for (iter = this->histogram.begin(); iter != this->histogram.end(); ++iter) {
         buf << iter->first << " " << iter->second << std::endl;
     }
 
-    outputString = buf.str();
+    this->outputString = buf.str();
 }
 
 
 std::string Indexer::buildOutputFilename() {
 
-    int fileIndex = filename.rfind("/") + 1;
-    int strLenght = filename.size() - fileIndex;
-    return directory +""+ filename.substr( fileIndex, strLenght ) + 
+    int fileIndex = this->filename.rfind("/") + 1;
+    int strLenght = this->filename.size() - fileIndex;
+    return this->directory +""+ this->filename.substr( fileIndex, strLenght ) +
 ".index";
 }
 
 
 std::string Indexer::getFile() {
-    return filename;
+    return this->filename;
 }
 
 int Indexer::getOutputSize() {
-    return indexMap.size();
+    return this->histogram.size();
 }
 
 
-void Indexer::outputAggregate() {
+void Indexer::outputHistogram() {
 
-    if( outputString.empty() ) {
+    if( this->outputString.empty() ) {
         buildMapString();
     }
 
-    std::cout << outputString << std::endl;
+    std::cout << this->outputString << std::endl;
 }
 
 
-void Indexer::outputAggregateToFile() {
+void Indexer::outputHistogramToFile() {
 
-    if( outputString.empty() ) {
+    if( this->outputString.empty() ) {
         buildMapString();
     }
 
     std::string outputFile = buildOutputFilename();
     std::ofstream fileOut;
-fileOut.open( outputFile.c_str(), std::ios::out );
-    fileOut << outputString;
+    fileOut.open( outputFile.c_str(), std::ios::out );
+    fileOut << this->outputString;
 
     fileOut.close();
 }
@@ -89,10 +90,17 @@ void Indexer::run() {
             input >> word;
             word = trimWord( word );
             if( word.length() > 1 ) {
-                indexMap[ word ]++;
+                this->histogram[ word ]++;
             }
         }
         input.close();
+
+        // histogram
+        std::map<std::string, float>::iterator it;
+        for(it = this->histogram.begin(); it != this->histogram.end(); it++) {
+           this->histogram[it->first] = (it->second / this->histogram.size()) * 1000;
+        }
+
     }
     else {
         std::cerr << "Error: Could not open file." << std::endl;
@@ -101,12 +109,12 @@ void Indexer::run() {
 
 
 void Indexer::setFile(std::string file) {
-    filename = file;
+    this->filename = file;
 }
 
 
 void Indexer::setOutputDirectory( std::string dir ) {
-    directory = dir;
+    this->directory = dir;
 }
 
 

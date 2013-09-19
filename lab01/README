@@ -13,6 +13,7 @@ Estrutura
      + src/     (códigos fonte)
      + data/    (dados para teste)
      + docs/    (documentos relevantes)
+	 + output/  (resultados da execução)
 
 
 Indexer

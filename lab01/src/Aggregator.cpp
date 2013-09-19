@@ -22,15 +22,15 @@ Aggregator::~Aggregator(){}
 
 
 int Aggregator::getAggSize() {
-    return globalIndex.size();
+    return this->globalIndex.size();
 }
 
 std::string Aggregator::getCwd() {
-    return directory;
+    return this->directory;
 }
 
 void Aggregator::setDirectory( std::string dir ) {
-    directory = dir;
+    this->directory = dir;
 }
 
 
@@ -39,7 +39,7 @@ std::list<std::string> Aggregator::listDirectory() {
     struct dirent *entry;
     std::list<std::string> list;
 
-    searchDirectory = opendir( directory.c_str() );
+    searchDirectory = opendir( this->directory.c_str() );
 
     if( searchDirectory == NULL ) {
 	printf("Error opening directory: Agg");
@@ -51,7 +51,7 @@ std::list<std::string> Aggregator::listDirectory() {
         if( entry->d_type == DT_REG ){
             std::string fname = entry->d_name;
             if( fname.find( ".index" ) != std::string::npos) {
-                list.push_back( directory +""+ fname );
+                list.push_back( this->directory +""+ fname );
             }
         }
     }
@@ -79,7 +79,7 @@ void Aggregator::run() {
         input >> entries;
         for( int j = 0; j < entries; j++ ) {
             input >> word >> wordCount;
-            globalIndex[word].push_back( std::make_pair(currentFilename, wordCount) );
+            this->globalIndex[word].push_back( std::make_pair(currentFilename, wordCount) );
         }
     }
 }
@@ -87,7 +87,7 @@ void Aggregator::run() {
 
 void Aggregator::outputAggregate() {
 
-    if( outputString.empty() ) {
+    if( this->outputString.empty() ) {
         buildMapString();
     }
 
@@ -96,14 +96,14 @@ void Aggregator::outputAggregate() {
 
 void Aggregator::outputAggregateToFile() {
 
-    if( outputString.empty() ) {
+    if( this->outputString.empty() ) {
         buildMapString();
     }
 
-    std::string outputFile = directory +"masterIndex.txt";
+    std::string outputFile = this->directory +"masterIndex.txt";
 
     std::ofstream fileOut( outputFile.c_str(), std::ios::out );
-    fileOut << outputString;
+    fileOut << this->outputString;
     fileOut.close();
 }
 
@@ -112,9 +112,9 @@ void Aggregator::buildMapString() {
 
     std::ostringstream buf ("");
 
-    buf << globalIndex.size() << std::endl;
+    buf << this->globalIndex.size() << std::endl;
     std::map<std::string, std::list<std::pair<std::string,int> > >::iterator iter;
-    for (iter = globalIndex.begin(); iter != globalIndex.end(); ++iter) {
+    for (iter = this->globalIndex.begin(); iter != this->globalIndex.end(); ++iter) {
         buf << iter->first << " [";
 
         std::list<std::pair<std::string,int> >::iterator listIter;
@@ -124,6 +124,6 @@ void Aggregator::buildMapString() {
         buf << " ]" << std::endl;
     }
 
-    outputString = buf.str();
+    this->outputString = buf.str();
 }
 
