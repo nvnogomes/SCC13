@@ -10,77 +10,102 @@
 #include "Indexer.h"
 
 
-Indexer::Indexer(std::string filename):
-    outputString(""),
-    histogram()
+Indexer::Indexer(std::string filename, std::string output_directory):
+    output_string_(""),
+    histogram_()
 {
-    setFile( filename );
-    setOutputDirectory( "../output/" );
+    this->filename_= filename;
+    this->directory_ = output_directory;
+
 }
+
 
 Indexer::~Indexer(){}
 
 
-void Indexer::buildMapString() {
+/**
+ * @brief Indexer::buildMapString
+ * Builds the string with the current histogram
+ * to be printed on screen or written into a file
+ */
+void Indexer::build_histogram_string() {
 
     std::ostringstream buf ("");
 
-    buf << this->histogram.size() << std::endl;
-    std::map<std::string, float>::iterator iter;
-    for (iter = this->histogram.begin(); iter != this->histogram.end(); ++iter) {
+    buf << this->histogram_.size() << std::endl;
+    std::map<std::string, float>::iterator iter = this->histogram_.begin();
+    char current_letter = 'k';
+    for (; iter != this->histogram_.end(); ++iter) {
+        if( toupper(iter->first[0]) != current_letter ) {
+            current_letter = toupper(iter->first[0]);
+            buf << current_letter << std::endl;
+        }
         buf << iter->first << " " << iter->second << std::endl;
     }
 
-    this->outputString = buf.str();
+    this->output_string_ = buf.str();
 }
 
 
-std::string Indexer::buildOutputFilename() {
+/**
+ * @brief Indexer::build_output_filename
+ * @return
+ */
+std::string Indexer::build_output_filename() {
 
-    int fileIndex = this->filename.rfind("/") + 1;
-    int strLenght = this->filename.size() - fileIndex;
-    return this->directory +""+ this->filename.substr( fileIndex, strLenght ) +
-".index";
+    int file_index = this->filename_.rfind("/") + 1;
+    int str_lenght = this->filename_.size() - file_index;
+    std::string filename = this->filename_.substr( file_index, str_lenght );
+    return this->directory_ +""+ filename +".index";
 }
 
 
-std::string Indexer::getFile() {
-    return this->filename;
+/**
+ * @brief Indexer::histogram_size
+ * @return
+ */
+int Indexer::histogram_size() {
+    return this->histogram_.size();
 }
 
-int Indexer::getOutputSize() {
-    return this->histogram.size();
-}
 
+/**
+ * @brief Indexer::print
+ */
+void Indexer::print() {
 
-void Indexer::outputHistogram() {
-
-    if( this->outputString.empty() ) {
-        buildMapString();
+    if( this->output_string_.empty() ) {
+        build_histogram_string();
     }
 
-    std::cout << this->outputString << std::endl;
+    std::cout << this->output_string_ << std::endl;
 }
 
 
-void Indexer::outputHistogramToFile() {
+/**
+ * @brief Indexer::save
+ */
+void Indexer::save() {
 
-    if( this->outputString.empty() ) {
-        buildMapString();
+    if( this->output_string_.empty() ) {
+        build_histogram_string();
     }
 
-    std::string outputFile = buildOutputFilename();
-    std::ofstream fileOut;
-    fileOut.open( outputFile.c_str(), std::ios::out );
-    fileOut << this->outputString;
+    std::string output_filename = build_output_filename();
+    std::ofstream output_stream_file;
+    output_stream_file.open( output_filename.c_str(), std::ios::out );
+    output_stream_file << this->output_string_;
 
-    fileOut.close();
+    output_stream_file.close();
 }
 
 
+/**
+ * @brief Indexer::run
+ */
 void Indexer::run() {
 
-    std::ifstream input( filename.c_str(), std::ios::in );
+    std::ifstream input( this->filename_.c_str(), std::ios::in );
 
     if( input.is_open() ) {
 
@@ -88,17 +113,19 @@ void Indexer::run() {
 
         while( input.good() ) {
             input >> word;
-            word = trimWord( word );
+            word = trim_word( word );
             if( word.length() > 1 ) {
-                this->histogram[ word ]++;
+                std::transform(word.begin(), word.end(), word.begin(), toupper);
+                this->histogram_[ word ]++;
             }
         }
         input.close();
 
         // histogram
         std::map<std::string, float>::iterator it;
-        for(it = this->histogram.begin(); it != this->histogram.end(); it++) {
-           this->histogram[it->first] = (it->second / this->histogram.size()) * 1000;
+        for(it = this->histogram_.begin(); it != this->histogram_.end(); it++) {
+            float word_permil = (it->second / this->histogram_.size()) * 10;
+            this->histogram_[it->first] = word_permil;
         }
 
     }
@@ -108,37 +135,30 @@ void Indexer::run() {
 }
 
 
-void Indexer::setFile(std::string file) {
-    this->filename = file;
-}
-
-
-void Indexer::setOutputDirectory( std::string dir ) {
-    this->directory = dir;
-}
-
-
-/*
- * removes non alphanumeric characters
- * from the begining and end of the word */
-std::string Indexer::trimWord( std::string word) {
-    int chIndexBegin = 0;
-    while( !isalpha( word[chIndexBegin] ) && chIndexBegin < (int)word.size() ){
-        chIndexBegin++;
+/**
+ * @brief Indexer::trimWord removes non alphanumeric characters
+ * from the begining and end of the word
+ * @param word to be trimmed
+ * @return trimmed word
+ */
+std::string Indexer::trim_word( std::string word) {
+    int index_begin = 0;
+    while( !isalpha( word[index_begin] ) && index_begin < (int)word.size() ){
+        index_begin++;
     }
 
-    int chIndexEnd = word.size() - 1;
-    while( !isalpha( word[chIndexEnd] ) && chIndexEnd > 0 ){
-        chIndexEnd--;
+    int index_end = word.size() - 1;
+    while( !isalpha( word[index_end] ) && index_end > 0 ){
+        index_end--;
     }
 
-    int strLenght = chIndexEnd - chIndexBegin +1;
+    int str_lenght = index_end - index_begin +1;
 
-    if( strLenght <= 0 ) {
+    if( str_lenght <= 0 ) {
         return "";
     }
     else {
-        return word.substr(chIndexBegin, strLenght );
+        return word.substr(index_begin, str_lenght );
     }
 }
 

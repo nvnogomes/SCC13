@@ -8,7 +8,7 @@ MPICC = mpic++
 CFLAGS  = -g -Wall
 
 # c++11
-STDFLAG = #-std=c++0x 
+STDFLAG = #-std=c++11 
 
 
 
@@ -16,6 +16,7 @@ STDFLAG = #-std=c++0x
 .SILENT:	# don't echo commands executed
 
 all: index agg mpi
+alpha: index sandbox
 
 index:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer.o -c Indexer.cpp

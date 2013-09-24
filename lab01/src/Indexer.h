@@ -6,30 +6,25 @@
 
 class Indexer {
 
-    std::string filename;
-    std::string directory;
-    std::string outputString;
-    std::map<std::string, float> histogram;
-
 private:
-    virtual void buildMapString();
-    virtual std::string buildOutputFilename();
-    virtual std::string trimWord(std::string);
+    std::string filename_;
+    std::string directory_;
+    std::string output_string_;
+    std::map<std::string, float> histogram_;
+
+    virtual void build_histogram_string();
+    virtual std::string build_output_filename();
+    virtual std::string trim_word(std::string);
 
 public:
     Indexer( std::string filename );
+    Indexer( std::string filename, std::string output_directory);
     virtual ~Indexer();
 
-    virtual std::string getFile();
-    virtual int getOutputSize();
-    virtual void outputHistogram();
-    virtual void outputHistogramToFile();
+    virtual int histogram_size();
+    virtual void print();
     virtual void run();
-    virtual void setOutputDirectory(std::string);
-    virtual void setFile( std::string file );
-
+    virtual void save();
 
 };
-
-
 #endif // INDEXER_H

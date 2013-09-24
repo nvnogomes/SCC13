@@ -9,11 +9,10 @@
 
 int main() {
     std::cout << "Init sandbox" << std::endl;
-    Indexer i("../data/Eca-Queiros/pg16384.txt");
+    Indexer i("../data/Eca-Queiros/pg16384.txt", "../output/");
     i.run();
-    i.outputHistogram();
-    i.outputHistogramToFile();
-    std::cout << i.getOutputSize() << std::endl;
+    i.save();
+    std::cout << i.histogram_size() << std::endl;
 
 	return 0;
 }
