@@ -33,6 +33,8 @@ void Indexer::build_histogram_string() {
     char current_letter = 'A';
     std::ostringstream buf ("");
     std::ostringstream letter_buffer ("");
+    buf << current_letter << std::endl;
+
 
     for (; iter != this->histogram_.end(); ++iter) {
 

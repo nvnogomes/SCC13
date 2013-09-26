@@ -15,7 +15,6 @@ private:
 
     virtual void build_histogram_string();
     virtual std::string build_output_filename();
-    virtual std::string get_filename();
     virtual std::string filter(std::string);
     virtual std::string trim_word(std::string);
     static bool start_match(std::string, std::string);
@@ -26,6 +25,7 @@ public:
     virtual ~Indexer();
 
     virtual int histogram_size();
+    virtual std::string get_filename();
     virtual void print();
     virtual void run();
     virtual void save();

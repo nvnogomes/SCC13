@@ -16,7 +16,7 @@ STDFLAG = #-std=c++11
 .SILENT:	# don't echo commands executed
 
 all: index agg mpi
-alpha: index sandbox
+alpha: index sandbox merger
 
 index:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer.o -c Indexer.cpp
@@ -24,9 +24,18 @@ index:
 agg:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator.o -c Aggregator.cpp
 
+merger:
+	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/merger.o -c Merger.cpp
+
 mpi:
 	$(MPICC) $(CFLAGS) -o ../bin/mpi ../bin/indexer.o ../bin/aggregator.o MPI_Index.cpp
 
-sandbox:
-	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/aggregator.o sandbox.cpp
 
+sandbox:
+	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/aggregator.o ../bin/merger.o sandbox.cpp
+
+
+
+
+clean:
+	rm ../output/*.index; rm ../bin/*
