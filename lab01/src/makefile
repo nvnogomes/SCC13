@@ -16,6 +16,7 @@ STDFLAG = #-std=c++11
 .SILENT:	# don't echo commands executed
 
 all: index agg mpi
+clean: clean_output clean_bin
 alpha: index sandbox merger
 
 index:
@@ -32,10 +33,14 @@ mpi:
 
 
 sandbox:
-	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/aggregator.o ../bin/merger.o sandbox.cpp
+	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/merger.o sandbox.cpp
 
 
 
 
-clean:
-	rm ../output/*.index; rm ../bin/*
+clean_output:
+	cd ../output/; $(RM) *
+
+clean_bin:
+	cd ../bin/; $(RM) *
+

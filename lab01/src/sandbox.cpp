@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
         index_count = atoi(argv[1]);
     }
     run_index(index_count);
-    Merger mg ("../output/Z.index");
+    Merger mg ("../output/");
     mg.run();
 
 	return 0;

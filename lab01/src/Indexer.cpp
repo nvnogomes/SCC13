@@ -29,13 +29,13 @@ Indexer::~Indexer(){}
  */
 void Indexer::build_histogram_string() {
 
-    std::map<std::string, float>::iterator iter = this->histogram_.begin();
     char current_letter = 'A';
     std::ostringstream buf ("");
     std::ostringstream letter_buffer ("");
+    buf << this->histogram_size() << std::endl;
     buf << current_letter << std::endl;
 
-
+    std::map<std::string, float>::iterator iter = this->histogram_.begin();
     for (; iter != this->histogram_.end(); ++iter) {
 
         if( toupper(iter->first[0]) != current_letter ) {
@@ -52,8 +52,8 @@ void Indexer::build_histogram_string() {
         letter_buffer << this->get_filename() << std::endl;
 
         float word_permil = (iter->second / this->histogram_.size()) * 10;
-        buf << iter->first << " ";
-        buf << iter->second << " " << word_permil << std::endl;
+        buf << iter->first << " " << iter->second << " ";
+        buf << word_permil << std::endl;
     }
     this->letters_[toupper(letter_buffer.str()[0])] = letter_buffer.str();
 

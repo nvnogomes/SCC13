@@ -13,22 +13,55 @@ Estrutura
      + src/     (códigos fonte)
      + data/    (dados para teste)
      + docs/    (documentos relevantes)
-	 + output/  (resultados da execução)
+     + output/  (resultados da execução)
 
 
 Indexer
-    Indexação de um ficheiro passado por argumento
-    Filtro das palavras com comprimento maior que um
-    Limpeza de caracteres não alfanuméricos nas extremidades das palavras
-    O ficheiro resultante inicia-se com o total de entradas.
-    Cada entrada tem o formato: <palavra> <ocorrencias>
+-Input
+	Ficheiro a indexar.
+	
+-Output
+	1- Ficheiro com indice do documento indexado.
+		O ficheiro de indexação próprio inicia-se com o total de entradas.
+		Entradas com o formato: <palavra> <ocorrencias> <palavra/mil>-
+	2- Ficheiros com índice por palavra, concatenado por todos os ficheiros.
+		Entradas com o formato: <palavra> <ocorrências> <ficheiro>.
+	
+-Filtro
+	Filtro das palavras com comprimento maior que um e URLs.
+	Limpeza de caracteres não alfanuméricos nas extremidades das palavras.
+	
+-Algoritmo
+	A cada palavra encontrada vai ser incrementado um contador para a mesma.
+	Cplx: O(N).
+    
 
+
+Merger
+-Input
+	Nome de ficheiro ou directoria
+	
+-Output
+	Ficheiro(s) com entradas coerêntes
+	Entradas com formato: <palavra><LF><ocorrências><ficheiro>
+	
+-Algoritmo
+	A cada linha do ficheiro de origem vai ser adicionada a palavra à chave de um
+	mapa, no valor uma lista com o par ocorrẽncias-ficheiro.
+	Cplx: O(N).
+	
 
 Aggregator
-    Agregação de todos os ficheiros de extensão .index na directoria indicada ou
-        a directoria corrente se inicializado sem argumento
-    O ficheiro resultante inicia-se com o total de entradas.
-    Cada entrada tem o formato: <palavra> [ (<documento> <ocorrencias>) ...]
+-Input
+	Directoria com índices por letra a fundir, de extensão .index na directoria
+	indicada ou a directoria corrente se inicializado sem argumento.
+	
+-Output
+	Ficheiro com índice global.
+	Entradas com formato: <letra><LF><palavra><LF><ocorrências><ficheiro>.
+	
+-Algoritmo
+	25 Threads para fundir documento numa estrutura thread-safe?
 
 
 MPI_Index
@@ -50,6 +83,9 @@ Makefile
         agg     programa de agregação
         mpi     programa indexação e aggregação com MPI
         sandbox programa de testes
+        merger	programa de merge/sort dos índice por letra
+        clean	remoção de binários e outputs
+        
 
 Aspecto importante no ambiente remoto
 Não esquecer: localização relativo ao local de invocação!
