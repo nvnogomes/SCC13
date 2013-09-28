@@ -1,129 +1,131 @@
+#include <algorithm>
+#include <cmath>
+#include <cstdio>
+#include <cstdlib>
+#include <dirent.h>
 #include <fstream>
 #include <iostream>
-#include <sstream>
-#include <cctype>
-#include <dirent.h>
-#include <unistd.h>
-#include <cstdlib>
+#include <pthread.h>
 #include <string>
-#include <locale>
+#include <unistd.h>
 
 #include "Aggregator.h"
 
 
 Aggregator::Aggregator(std::string dir):
-    outputString(""),
-    globalIndex()
+    directory_( dir )
 {
-    setDirectory( dir );
 }
+
 
 Aggregator::~Aggregator(){}
 
 
-int Aggregator::getAggSize() {
-    return this->globalIndex.size();
+void *merge(void *file) {
+
+    struct Files *f = (struct Files *) file;
+
+    std::cout << "COPYING " << f->begin << " < " << f->end << std::endl;
+
+    const int LEN=8192;
+    char buffer_out[LEN];
+    char buffer_in[LEN];
+
+    std::ifstream src;
+    std::ofstream dest;
+
+    src.rdbuf()->pubsetbuf(buffer_in, LEN );
+    dest.rdbuf()->pubsetbuf(buffer_out, LEN);
+
+    src.open(f->begin, std::ios::in | std::ios::binary);
+    dest.open(f->end, std::ios::out | std::ios::app | std::ios::binary);
+    dest << src.rdbuf();
+    src.sync();
+
+    pthread_exit(NULL);
 }
 
-std::string Aggregator::getCwd() {
-    return this->directory;
-}
 
-void Aggregator::setDirectory( std::string dir ) {
-    this->directory = dir;
-}
+void Aggregator::merge_cycle(std::vector<std::string> file_list) {
 
+    std::cout << file_list.size() << " ";
+    std::cout << file_list[0] << std::endl;
 
-std::list<std::string> Aggregator::listDirectory() {
-    DIR *searchDirectory;
-    struct dirent *entry;
-    std::list<std::string> list;
-
-    searchDirectory = opendir( this->directory.c_str() );
-
-    if( searchDirectory == NULL ) {
-	printf("Error opening directory: Agg");
-        exit(2);
+    if( file_list.size() < 2 ) {
+        return;
     }
 
-    while( (entry = readdir( searchDirectory )) ){
+    std::vector<std::string> files_remaining;
+    bool is_odd = false;
+    int files_left = file_list.size();
+    if( file_list.size() % 2 != 0 ) {
+        files_left -= 1;
+        is_odd = true;
+    }
+
+    int num_threads = files_left / 2;
+    int thread_counter = 0;
+    pthread_t thread[ num_threads ];
+
+    for(int i = 0; i < files_left; i+= 2) {
+        struct Files indexes;
+        indexes.begin = file_list[i];
+        indexes.end = file_list[i+1];
+        pthread_create(&thread[thread_counter], NULL, merge, (void*)&indexes);
+        files_remaining.push_back(file_list[i]);
+        thread_counter++;
+    }
+
+    void *status;
+    for(int i = 0; i < num_threads; i++) {
+        pthread_join(thread[i], &status);
+    }
+
+    if( is_odd ) {
+        files_remaining.push_back(file_list.back());
+    }
+
+    merge_cycle(files_remaining);
+}
+
+
+
+
+std::vector<std::string> Aggregator::list_directory() {
+    DIR *search_directory;
+    struct dirent *entry;
+    std::vector<std::string> list;
+
+    search_directory = opendir( this->directory_.c_str() );
+
+    if( search_directory == NULL ) {
+        printf("Error opening directory: %s", this->directory_.c_str());
+        exit(1);
+    }
+
+    while( (entry = readdir( search_directory )) ){
 
         if( entry->d_type == DT_REG ){
-            std::string fname = entry->d_name;
-            if( fname.find( ".index" ) != std::string::npos) {
-                list.push_back( this->directory +""+ fname );
+            std::string filename = entry->d_name;
+            if( filename.find( ".index" ) != std::string::npos
+                    && filename.size() == 7) {
+                list.push_back( this->directory_ +""+ filename );
             }
         }
     }
-    closedir( searchDirectory );
+    std::sort(list.begin(), list.end());
 
+    closedir( search_directory );
 
     return list;
 }
 
 
+
+
+
 void Aggregator::run() {
-    std::list<std::string> fileList = listDirectory();
+    std::vector<std::string> file_list = list_directory();
 
-    std::list<std::string>::iterator fileIter;
-    for ( fileIter = fileList.begin(); fileIter != fileList.end(); fileIter++) {
-        std::string currentFilename = *fileIter;
-
-        currentFilename.resize( currentFilename.length() - 6);
-
-        std::ifstream input( (*fileIter).c_str(), std::ios::in );
-        int entries;
-        std::string word;
-        int wordCount;
-
-        input >> entries;
-        for( int j = 0; j < entries; j++ ) {
-            input >> word >> wordCount;
-            this->globalIndex[word].push_back( std::make_pair(currentFilename, wordCount) );
-        }
-    }
+    this->merge_cycle(file_list);
 }
-
-
-void Aggregator::outputAggregate() {
-
-    if( this->outputString.empty() ) {
-        buildMapString();
-    }
-
-    std::cout << outputString << std::endl;
-}
-
-void Aggregator::outputAggregateToFile() {
-
-    if( this->outputString.empty() ) {
-        buildMapString();
-    }
-
-    std::string outputFile = this->directory +"masterIndex.txt";
-
-    std::ofstream fileOut( outputFile.c_str(), std::ios::out );
-    fileOut << this->outputString;
-    fileOut.close();
-}
-
-
-void Aggregator::buildMapString() {
-
-    std::ostringstream buf ("");
-
-    buf << this->globalIndex.size() << std::endl;
-    std::map<std::string, std::list<std::pair<std::string,int> > >::iterator iter;
-    for (iter = this->globalIndex.begin(); iter != this->globalIndex.end(); ++iter) {
-        buf << iter->first << " [";
-
-        std::list<std::pair<std::string,int> >::iterator listIter;
-        for( listIter = iter->second.begin(); listIter != iter->second.end(); ++listIter) {
-            buf << " (" << listIter->first << " " << listIter->second << ")";
-        }
-        buf << " ]" << std::endl;
-    }
-
-    this->outputString = buf.str();
-}
-

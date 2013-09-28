@@ -8,22 +8,27 @@ MPICC = mpic++
 CFLAGS  = -g -Wall
 
 # c++11
-STDFLAG = #-std=c++11 
+STDFLAG = -std=c++11 
 
+# POSIX THREADS
+PTHREADS = -lpthread
 
 
 .IGNORE:	# ignore problems (as far as possible)
 .SILENT:	# don't echo commands executed
 
+
 all: index agg mpi
 clean: clean_output clean_bin
 alpha: index sandbox merger
+beta: agg sandbox
+
 
 index:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/indexer.o -c Indexer.cpp
 
 agg:
-	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/aggregator.o -c Aggregator.cpp
+	$(CC) $(STDFLAG) $(PTHREADS)  $(CFLAGS) -o ../bin/aggregator.o -c Aggregator.cpp
 
 merger:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/merger.o -c Merger.cpp
@@ -33,7 +38,7 @@ mpi:
 
 
 sandbox:
-	$(CC) $(CFLAGS) -o ../bin/sandbox ../bin/indexer.o ../bin/merger.o sandbox.cpp
+	$(CC) $(PTHREADS) $(CFLAGS) -o ../bin/sandbox ../bin/aggregator.o ../bin/indexer.o ../bin/merger.o sandbox.cpp
 
 
 
