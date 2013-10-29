@@ -8,15 +8,25 @@
 #include <cctype>
 
 #include "Indexer.h"
+#include "config.h"
+
+
+Indexer::Indexer(std::string filename):
+    filename_( filename ),
+    directory_( OUTPUT_DIRECTORY ),
+    output_string_(""),
+    letters_(),
+    histogram_()
+{}
 
 
 Indexer::Indexer(std::string filename, std::string output_directory):
+    filename_( filename ),
+    directory_( output_directory ),
     output_string_(""),
+    letters_(),
     histogram_()
-{
-    this->filename_= filename;
-    this->directory_ = output_directory;
-}
+{}
 
 
 Indexer::~Indexer(){}
@@ -32,7 +42,7 @@ void Indexer::build_histogram_string() {
     char current_letter = 'A';
     std::ostringstream buf ("");
     std::ostringstream letter_buffer ("");
-    buf << this->histogram_size() << std::endl;
+    buf << this->histogram_.size() << std::endl;
     buf << current_letter << std::endl;
 
     std::map<std::string, float>::iterator iter = this->histogram_.begin();
@@ -57,7 +67,6 @@ void Indexer::build_histogram_string() {
     }
     this->letters_[toupper(letter_buffer.str()[0])] = letter_buffer.str();
 
-
     this->output_string_ = buf.str();
 }
 
@@ -79,16 +88,7 @@ std::string Indexer::get_filename() {
  */
 std::string Indexer::build_output_filename() {
 
-    return this->directory_ +""+ this->get_filename() +".index";
-}
-
-
-/**
- * @brief Indexer::histogram_size
- * @return
- */
-int Indexer::histogram_size() {
-    return this->histogram_.size();
+    return this->directory_ +""+ this->get_filename() + INDEX_EXTENSION;
 }
 
 
@@ -124,7 +124,7 @@ void Indexer::save() {
     // letter index
     std::map<char,std::string>::iterator it;
     for( it = this->letters_.begin(); it != this->letters_.end(); it++) {
-        std::string letter_filename = this->directory_ +""+ it->first +""+ ".index";
+        std::string letter_filename = this->directory_ +""+ it->first +""+ PARTIAL_EXTENSION;
         std::ofstream letter_output_file;
         letter_output_file.open( letter_filename.c_str(), std::ios::out | std::ios::app);
         letter_output_file << it->second;
@@ -137,6 +137,10 @@ void Indexer::save() {
  * @brief Indexer::run
  */
 void Indexer::run() {
+
+    if( DEBUG ) {
+        std::cout << "Running Indexer..." << std::endl;
+    }
 
     std::ifstream input( this->filename_.c_str(), std::ios::in );
 
@@ -156,6 +160,10 @@ void Indexer::run() {
     }
     else {
         std::cerr << "Error: Could not open file." << std::endl;
+    }
+
+    if( DEBUG ) {
+        std::cout << this->filename_ << " #" << this->histogram_.size() << std::endl;
     }
 }
 

@@ -4,8 +4,8 @@
 #include <vector>
 
 struct Files {
-  std::string begin;
-  std::string end;
+  std::string base;
+  std::string append;
 };
 
 
@@ -16,8 +16,10 @@ private:
 
   std::vector<std::string> list_directory();
   void merge_cycle(std::vector<std::string>);
+  void cleanup_directory(std::vector<std::string>);
 
 public:
+  Aggregator();
   Aggregator( std::string dir );
   virtual ~Aggregator();
 

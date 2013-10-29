@@ -24,7 +24,6 @@ public:
     Indexer( std::string filename, std::string output_directory);
     virtual ~Indexer();
 
-    virtual int histogram_size();
     virtual std::string get_filename();
     virtual void print();
     virtual void run();

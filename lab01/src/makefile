@@ -18,10 +18,11 @@ PTHREADS = -lpthread
 .SILENT:	# don't echo commands executed
 
 
-all: index agg mpi
+all: index agg merger sandbox
 clean: clean_output clean_bin
-alpha: index sandbox merger
-beta: agg sandbox
+alpha: index sandbox
+beta: merger sandbox
+delta: agg sandbox
 
 
 index:

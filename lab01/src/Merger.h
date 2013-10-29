@@ -18,6 +18,7 @@ private:
     virtual void save(std::string);
 
 public:
+    Merger();
     Merger(std::string);
     virtual ~Merger();
 

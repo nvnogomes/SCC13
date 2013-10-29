@@ -8,8 +8,13 @@
 #include "Indexer.h"
 #include "Aggregator.h"
 #include "Merger.h"
+#include "config.h"
 
 
+/**
+ * list of tst files of Eça
+ */
+const int FILE_COUNT = 8;
 const std::string FILES[] = {
     "../data/Eca-Queiros/pg16384.txt",
     "../data/Eca-Queiros/pg17515.txt",
@@ -22,17 +27,28 @@ const std::string FILES[] = {
 };
 
 
-void run_index(int files) {
+/**
+ * index all the Eça files
+ *
+ * @brief run_index
+ * @param files
+ */
+void run_index() {
 
-    for (int index = 0; index < files; ++index) {
-        Indexer i( FILES[index], "../output/");
+    for (int index = 0; index < FILE_COUNT; ++index) {
+        Indexer i( FILES[index] );
         i.run();
         i.save();
-        std::cout << i.get_filename() << " " << i.histogram_size() << std::endl;
     }
 }
 
 
+/**
+ *
+ *
+ * @brief run_random
+ * @param file_list
+ */
 void run_random(std::vector<std::string> file_list) {
 
     if( file_list.size() == 1 ) {
@@ -59,17 +75,34 @@ void run_random(std::vector<std::string> file_list) {
     run_random(files_remaining);
 }
 
-void test_indexmerge(int argc, char** argv) {
-    int index_count = 1;
-    if( argc > 1 ) {
-        index_count = atoi(argv[1]);
-    }
-    run_index(index_count);
-    Merger mg ("../output/");
+
+/**
+ * Merge all the index files in the output directory
+ *
+ * @brief test_indexmerge
+ * @param argc
+ * @param argv
+ */
+void run_merge() {
+
+    Merger mg;
     mg.run();
 }
 
 
+/**
+ * @brief run_aggregator
+ */
+void run_aggregator() {
+
+    Aggregator agg;
+    agg.run();
+}
+
+
+/**
+ * @brief testindexes
+ */
 void testindexes() {
     std::string my_str[] = {"1","2","3","4","5","6","7","8","9","10","11"};
     std::vector<std::string> pooey (my_str, my_str + sizeof(my_str) / sizeof(std::string) );
@@ -78,11 +111,18 @@ void testindexes() {
 }
 
 
+/**
+ * @brief main
+ * @param argc
+ * @param argv
+ * @return
+ */
 int main(int argc, char** argv) {
-    std::cout << "Init sandbox" << std::endl;
+    std::cout << "Running sandbox..." << std::endl;
 
-    Aggregator ag("../output/");
-    ag.run();
+    run_index();
+    run_merge();
+    run_aggregator();
 
     return 0;
 }

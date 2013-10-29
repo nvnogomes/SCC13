@@ -1,5 +1,3 @@
-#include "Merger.h"
-
 #include <fstream>
 #include <iostream>
 #include <istream>
@@ -11,8 +9,25 @@
 #include <unistd.h>
 #include <cstdlib>
 
+#include "Merger.h"
+#include "config.h"
 
 
+/**
+ * @brief Merger::Merger
+ */
+Merger::Merger():
+    filename_( OUTPUT_DIRECTORY ),
+    letter_map_()
+{
+    this->is_directory_ = true;
+}
+
+
+/**
+ * @brief Merger::Merger
+ * @param filename
+ */
 Merger::Merger(std::string filename):
     filename_(filename),
     letter_map_()
@@ -25,6 +40,10 @@ Merger::Merger(std::string filename):
     }
 }
 
+
+/**
+ * @brief Merger::~Merger
+ */
 Merger::~Merger() {}
 
 
@@ -32,6 +51,10 @@ Merger::~Merger() {}
  * @brief Merger::run
  */
 void Merger::run() {
+
+    if( DEBUG ) {
+        std::cout << "Running Merge on " << this->filename_ << std::endl;
+    }
 
     std::list<std::string> files;
     if( this->is_directory_ ) {
@@ -50,7 +73,12 @@ void Merger::run() {
     }
 }
 
-
+/**
+ * reads the file and sorts it by word and the documents where it exists
+ *
+ * @brief Merger::merge_file
+ * @param filename
+ */
 void Merger::merge_file(std::string filename) {
     std::ifstream file_input( filename.c_str(), std::ios::in );
 
@@ -60,10 +88,19 @@ void Merger::merge_file(std::string filename) {
     while (file_input >> word >> occurences >> original_file ) {
         this->letter_map_[word].push_back(occurences +" "+ original_file);
     }
+
+    if( DEBUG ) {
+        std::cout << filename << ": #" << this->letter_map_.size() << std::endl;
+    }
 }
 
 
-
+/**
+ * Save result to file
+ *
+ * @brief Merger::save
+ * @param filename
+ */
 void Merger::save(std::string filename) {
 
     std::ofstream letter_output_file;
@@ -82,6 +119,12 @@ void Merger::save(std::string filename) {
 }
 
 
+/**
+ * List the given directory and returns the letter index files
+ *
+ * @brief Merger::list_directory
+ * @return
+ */
 std::list<std::string> Merger::list_directory() {
     DIR *search_directory;
     struct dirent *entry;
@@ -98,7 +141,7 @@ std::list<std::string> Merger::list_directory() {
 
         if( entry->d_type == DT_REG ){
             std::string filename = entry->d_name;
-            if( filename.find( ".index" ) != std::string::npos) {
+            if( filename.find( PARTIAL_EXTENSION ) != std::string::npos) {
                 list.push_back( this->filename_ +""+ filename );
             }
         }
@@ -108,6 +151,13 @@ std::list<std::string> Merger::list_directory() {
     return list;
 }
 
+/**
+ * checks if the given path is a directory or a file
+ *
+ * @brief Merger::is_file
+ * @param path
+ * @return
+ */
 bool Merger::is_file(const char* path) {
     struct stat buf;
     stat(path, &buf);

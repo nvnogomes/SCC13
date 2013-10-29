@@ -17,6 +17,8 @@ Estrutura
 
 
 Indexer
+-Objectivo
+Indexar ficheiro passado por argumento, devolvendo ficheiro global e por letra.
 -Input
 	Ficheiro a indexar.
 	
