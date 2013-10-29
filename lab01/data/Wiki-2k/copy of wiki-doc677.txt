@@ -1,0 +1,255 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+XNOR gate
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EXNOR)
+   Jump to: [7]navigation, [8]search
+
+                                    INPUT
+                                A   B OUTPUT
+                                  A XNOR B
+                                                                   0   0 1
+                                                                   0   1 0
+                                                                   1   0 0
+                                                                   1   1 1
+
+   The XNOR gate (sometimes spelled 'exnor') is a digital [9]logic gate
+   whose function is the inverse of the exclusive OR ([10]XOR) gate. The
+   two-input version implements [11]logical equality, behaving according
+   to the truth table to the right. A HIGH output (1) results if both of
+   the inputs to the gate are the same. If one but not both inputs are
+   HIGH (1), a LOW output (0) results.
+
+Contents
+
+     * [12]1 Symbols
+     * [13]2 Hardware description and pinout
+     * [14]3 Alternatives
+     * [15]4 See also
+
+[[16]edit] Symbols
+
+   There are two symbols for XNOR gates: the 'professional' symbol and the
+   'rectangular' symbol. For more information see [17]Logic Gate Symbols
+   'Military' XNOR Symbol
+   'Rectangular' XNOR Symbol
+
+   A XNOR B= A.B+/A./B
+
+[[18]edit] Hardware description and pinout
+
+   XNOR Gates are basic logic gates, and as such they are recognised in
+   [19]TTL and [20]CMOS [21]ICs. The standard, [22]4000 series, CMOS IC is
+   the 4077, which includes four independent, two-input, XNOR gates. The
+   pinout diagram is as follows:
+   Pinout diagram of a 4077 Quad XNOR [23]DIP-format IC
+ 1  Input A1
+ 2  Input B1
+ 3  Output Q1
+ 4  Output Q2
+ 5  Input B2
+ 6  Input A2
+ 7  V[ss]
+ 8  Input A3
+ 9  Input B3
+ 10 Output Q3
+ 11 Output Q4
+ 12 Input B4
+ 13 Input A4
+ 14 V[dd]
+
+   This device is available from most semiconductor manufacturers such as
+   Philips. It is usually available in both through-hole [24]DIP and
+   [25]SOIC format. Datasheets are readily available in most [26]datasheet
+   databases.
+
+[[27]edit] Alternatives
+
+   If no specific XNOR gates are available, one can be made from five NAND
+   gates in the configuration shown below. In fact, any logic gate can be
+   made from combinations of [28]only NAND gates or [29]only NOR gates.
+   XNOR gate constructed using only NAND gates
+
+[[30]edit] See also
+
+   [31]Kronecker delta function
+
+   [32]Logical biconditional
+   [33]v  [34]d  [35]e
+   [36]Logical connectives
+   [37]Tautology
+   [38]OR      [39]NAND
+   [40]Proposition  [41]XOR  [42]XNOR  [43]Negation
+   [44]AND      [45]NOR
+   [46]Contradiction
+   Retrieved from "[47]http://en.wikipedia.org/wiki/XNOR_gate"
+   [48]Category: [49]Logic gates
+
+Views
+
+     * [50]Article
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * [54]Log in / create account
+
+Navigation
+
+     * [55]Main page
+     * [56]Contents
+     * [57]Featured content
+     * [58]Current events
+     * [59]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [60]About Wikipedia
+     * [61]Community portal
+     * [62]Recent changes
+     * [63]Contact Wikipedia
+     * [64]Donate to Wikipedia
+     * [65]Help
+
+Toolbox
+
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Printable version
+     * [71]Permanent link
+     * [72]Cite this page
+
+Languages
+
+     * [73]Deutsch
+     * [74]Euskara
+     * [75]Portugus
+     * [76]Slovenina
+
+   [77]Powered by MediaWiki
+   [78]Wikimedia Foundation
+     * This page was last modified on 12 January 2009, at 10:06.
+     * All text is available under the terms of the [79]GNU Free
+       Documentation License. (See [80]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [81]Wikimedia
+       Foundation, Inc., a U.S. registered [82]501(c)(3)
+       [83]tax-deductible [84]nonprofit [85]charity.
+     * [86]Privacy policy
+     * [87]About Wikipedia
+     * [88]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=XNOR_gate&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EXNOR&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#searchInput
+   9. file://localhost/wiki/Logic_gate
+  10. file://localhost/wiki/XOR_gate
+  11. file://localhost/wiki/Logical_equality
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#Symbols
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#Hardware_description_and_pinout
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#Alternatives
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc677.tmp.html#See_also
+  16. file://localhost/w/index.php?title=XNOR_gate&action=edit&section=1
+  17. file://localhost/wiki/Logic_gate#Symbols
+  18. file://localhost/w/index.php?title=XNOR_gate&action=edit&section=2
+  19. file://localhost/wiki/Transistor-transistor_logic
+  20. file://localhost/wiki/CMOS
+  21. file://localhost/wiki/Integrated_circuit
+  22. file://localhost/wiki/4000_series
+  23. file://localhost/wiki/Dual_in-line_package
+  24. file://localhost/wiki/Dual_in-line_package
+  25. file://localhost/wiki/Small-outline_integrated_circuit
+  26. file://localhost/wiki/Datasheet#Datasheet_Search_Engines
+  27. file://localhost/w/index.php?title=XNOR_gate&action=edit&section=3
+  28. file://localhost/wiki/NAND_logic
+  29. file://localhost/wiki/NOR_logic
+  30. file://localhost/w/index.php?title=XNOR_gate&action=edit&section=4
+  31. file://localhost/wiki/Kronecker_delta
+  32. file://localhost/wiki/Logical_biconditional
+  33. file://localhost/wiki/Template:Logical_connectives
+  34. file://localhost/wiki/Template_talk:Logical_connectives
+  35. http://en.wikipedia.org/w/index.php?title=Template:Logical_connectives&action=edit
+  36. file://localhost/wiki/Logical_connective
+  37. file://localhost/wiki/Tautology_(logic)
+  38. file://localhost/wiki/Logical_disjunction
+  39. file://localhost/wiki/Sheffer_stroke
+  40. file://localhost/wiki/Proposition
+  41. file://localhost/wiki/Exclusive_or
+  42. file://localhost/wiki/Logical_biconditional
+  43. file://localhost/wiki/Negation
+  44. file://localhost/wiki/Logical_conjunction
+  45. file://localhost/wiki/Logical_NOR
+  46. file://localhost/wiki/Contradiction
+  47. http://en.wikipedia.org/wiki/XNOR_gate
+  48. file://localhost/wiki/Special:Categories
+  49. file://localhost/wiki/Category:Logic_gates
+  50. file://localhost/wiki/XNOR_gate
+  51. file://localhost/w/index.php?title=Talk:XNOR_gate&action=edit&redlink=1
+  52. file://localhost/w/index.php?title=XNOR_gate&action=edit
+  53. file://localhost/w/index.php?title=XNOR_gate&action=history
+  54. file://localhost/w/index.php?title=Special:UserLogin&returnto=XNOR_gate
+  55. file://localhost/wiki/Main_Page
+  56. file://localhost/wiki/Portal:Contents
+  57. file://localhost/wiki/Portal:Featured_content
+  58. file://localhost/wiki/Portal:Current_events
+  59. file://localhost/wiki/Special:Random
+  60. file://localhost/wiki/Wikipedia:About
+  61. file://localhost/wiki/Wikipedia:Community_portal
+  62. file://localhost/wiki/Special:RecentChanges
+  63. file://localhost/wiki/Wikipedia:Contact_us
+  64. http://wikimediafoundation.org/wiki/Donate
+  65. file://localhost/wiki/Help:Contents
+  66. file://localhost/wiki/Special:WhatLinksHere/XNOR_gate
+  67. file://localhost/wiki/Special:RecentChangesLinked/XNOR_gate
+  68. file://localhost/wiki/Wikipedia:Upload
+  69. file://localhost/wiki/Special:SpecialPages
+  70. file://localhost/w/index.php?title=XNOR_gate&printable=yes
+  71. file://localhost/w/index.php?title=XNOR_gate&oldid=263559515
+  72. file://localhost/w/index.php?title=Special:Cite&page=XNOR_gate&id=263559515
+  73. http://de.wikipedia.org/wiki/XNOR-Gatter
+  74. http://eu.wikipedia.org/wiki/EZ-EDO_esklusibo_ate_logikoa
+  75. http://pt.wikipedia.org/wiki/Porta_XNOR
+  76. http://sk.wikipedia.org/wiki/Hradlo_XNOR
+  77. http://www.mediawiki.org/
+  78. http://wikimediafoundation.org/
+  79. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  80. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  81. http://www.wikimediafoundation.org/
+  82. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  83. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  84. http://en.wikipedia.org/wiki/Non-profit_organization
+  85. http://en.wikipedia.org/wiki/Charitable_organization
+  86. http://wikimediafoundation.org/wiki/Privacy_policy
+  87. file://localhost/wiki/Wikipedia:About
+  88. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  89. file://localhost/wiki/File:Xnor-gate.png
+  90. file://localhost/wiki/File:IEC_XNOR.svg
+  91. file://localhost/wiki/File:XNOR_Pinout.png
+  92. file://localhost/wiki/File:XNOR_Pinout.png
+  93. file://localhost/wiki/File:XNOR_Using_NAND.png
+  94. file://localhost/wiki/File:Hypercubeorder.svg
+  95. file://localhost/wiki/Converse_implication
+  96. file://localhost/wiki/Material_implication
+  97. file://localhost/wiki/Material_nonimplication
+  98. file://localhost/wiki/Converse_nonimplication
+  99. file://localhost/wiki/Main_Page

@@ -1,0 +1,300 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Bipolar encoding
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Duobinary signal)
+   Jump to: [7]navigation, [8]search
+   An example of Bipolar encoding, or AMI.
+
+   In [9]telecommunication, bipolar encoding is a type of [10]line code (a
+   method of encoding digital information to make it resistant to certain
+   forms of signal loss during transmission). A duobinary signal is such
+   an encoding.
+
+Contents
+
+     * [11]1 Advantages
+     * [12]2 Alternate Mark Inversion
+     * [13]3 Error detection
+     * [14]4 Other T1 encoding schemes
+     * [15]5 References
+     * [16]6 See also
+
+[[17]edit] Advantages
+
+   A binary 0 is encoded as zero volts as in [18]unipolar encoding. A
+   binary 1 is encoded alternately as a positive voltage and a negative
+   voltage. This prevents a significant build-up of [19]DC, as the
+   positive and negative pulses average to zero volts. Little or no
+   DC-component is considered an advantage because the cable may then be
+   used for longer distances and to carry power for intermediate equipment
+   such as line [20]repeaters.^[21][1] The DC-component can be easily and
+   cheaply removed before the signal reaches the decoding circuitry.
+
+   Bipolar encoding is preferable to [22]non-return-to-zero where signal
+   transitions are required to maintain synchronization between the
+   transmitter and receiver. Other systems must synchronize using some
+   form of out-of-band communication, or add [23]frame synchronization
+   sequences that don't carry data to the signal. These alternative
+   approaches require either an additional transmission medium for the
+   clock signal or a loss of performance due to overhead, respectively. A
+   bipolar encoding is an often good compromise: runs of ones will not
+   cause a lack of transitions, however long sequences of zeroes are still
+   an issue. Long sequences of zero bits result in no transitions and a
+   loss of synchronization. Where frequent transitions are a requirement,
+   a self-clocking encoding such as [24]return-to-zero or some other more
+   complicated [25]line code may be more appropriate, though they
+   introduce significant overhead.
+
+[[26]edit] Alternate Mark Inversion
+
+   When used on a [27]T-carrier, the code is known as Alternate Mark
+   Inversion because, in this context, a binary 1 is referred to as a
+   "mark", while a binary 0 is called a "space".^[28][2] The coding was
+   used extensively in first-generation [29]PCM networks, and is still
+   commonly seen on older [30]multiplexing equipment today, but successful
+   transmission relies on no long runs of zeroes being present.^[31][3] No
+   more than 15 consecutive zeros should ever be sent to ensure
+   synchronization. The modification of bit 7 causes a change to voice
+   that is undetectable by the human ear, but it is an unacceptable
+   corruption of a data stream. Data channels are required to use some
+   other form of pulse-stuffing,^[32][1] such as always setting bit 8 to
+   1, in order to maintain one's density. If the characteristics of the
+   input data does not follow the pattern that every eighth bit is 1, the
+   coder using alternate mark inversion adds a 1 after seven consecutive
+   zeros to maintain synchronisation. On the decoder side, this extra 1
+   added by the coder is removed, resulting that the correct data arrives
+   for the receiver. Due to this, the data sent between the coder and the
+   decoder is longer than the original data by less than 1% in average. Of
+   course, this lowers the effective data throughput to 56 kbit/s per
+   channel.^[33][4]
+
+[[34]edit] Error detection
+
+   Another benefit of bipolar encoding compared to unipolar is [35]error
+   detection. In the T-carrier example, the bipolar signals are
+   regenerated at regular intervals so that signals diminished by distance
+   are not just amplified, but detected and recreated anew. Weakened
+   signals corrupted by noise could cause errors, a mark interpreted as
+   zero, or zero as positive or negative mark. Every single-bit error
+   results in a violation of the bipolar rule. Each such [36]bipolar
+   violation (BPV) is an indication of a transmission error. (The location
+   of BPV is not necessarily the location of the original error).
+
+[[37]edit] Other T1 encoding schemes
+
+          Main article: [38]Modified AMI code
+
+   For data channels, in order to avoid the need of always setting bit 8
+   to 1, as described above, other T1 encoding schemes ([39]Modified AMI
+   codes) ensure regular transitions regardless of the data being carried.
+   In this way, data throughput of 64 kbit/s per channel is achieved.
+   [40]B8ZS is a newer format for [41]North America, where [42]HDB3 is the
+   original line coding type used in [43]Europe and [44]Japan.
+
+   A very similar encoding scheme, with the logical positions reversed, is
+   also used and is often referred to as pseudoternary encoding. This
+   encoding is otherwise identical.
+
+[[45]edit] References
+
+    1. ^ [46]^a [47]^b [48]"T1 Fundamentals", Revision 1.0, dated 23
+       January 1997, by Digital Link, retrieved on 25 January 2007
+    2. [49]^ [50]"alternate mark inversion (AMI) signal", ATIS Telecom
+       Glossary 2000, last updated 28 February 2001, retrieved 25 January
+       2007
+    3. [51]^ [52]"All You Wanted to Know About T1 But Were Afraid to Ask",
+       Bob Wachtel, retrieved on 25 January 2007
+    4. [53]^ [54]Telecom Dictionary, retrieved 25 January 2007
+
+[[55]edit] See also
+
+   [56]Sister project [57]Wikimedia Commons has media related to: [58]AMI
+   code
+     * [59]MLT-3 encoding
+     * [60]unipolar encoding
+     * [61]polar encoding
+
+   Retrieved from "[62]http://en.wikipedia.org/wiki/Bipolar_encoding"
+   [63]Categories: [64]Encodings | [65]Line codes
+
+Views
+
+     * [66]Article
+     * [67]Discussion
+     * [68]Edit this page
+     * [69]History
+
+Personal tools
+
+     * [70]Log in / create account
+
+Navigation
+
+     * [71]Main page
+     * [72]Contents
+     * [73]Featured content
+     * [74]Current events
+     * [75]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [76]About Wikipedia
+     * [77]Community portal
+     * [78]Recent changes
+     * [79]Contact Wikipedia
+     * [80]Donate to Wikipedia
+     * [81]Help
+
+Toolbox
+
+     * [82]What links here
+     * [83]Related changes
+     * [84]Upload file
+     * [85]Special pages
+     * [86]Printable version
+     * [87]Permanent link
+     * [88]Cite this page
+
+Languages
+
+     * [89]Deutsch
+     * [90]Espaol
+     * [91]Franais
+     * [92]Nederlands
+     * [93]Polski
+     * [94]Suomi
+
+   [95]Powered by MediaWiki
+   [96]Wikimedia Foundation
+     * This page was last modified on 20 November 2008, at 18:48.
+     * All text is available under the terms of the [97]GNU Free
+       Documentation License. (See [98]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [99]Wikimedia
+       Foundation, Inc., a U.S. registered [100]501(c)(3)
+       [101]tax-deductible [102]nonprofit [103]charity.
+     * [104]Privacy policy
+     * [105]About Wikipedia
+     * [106]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Bipolar_encoding&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Duobinary_signal&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#searchInput
+   9. file://localhost/wiki/Telecommunication
+  10. file://localhost/wiki/Line_code
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#Advantages
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#Alternate_Mark_Inversion
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#Error_detection
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#Other_T1_encoding_schemes
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#References
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#See_also
+  17. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=1
+  18. file://localhost/wiki/Unipolar_encoding
+  19. file://localhost/wiki/Direct_current
+  20. file://localhost/wiki/Repeater
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_note-digitallink-0
+  22. file://localhost/wiki/Non-return-to-zero
+  23. file://localhost/wiki/Frame_synchronization
+  24. file://localhost/wiki/Return-to-zero
+  25. file://localhost/wiki/Line_code
+  26. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=2
+  27. file://localhost/wiki/T-carrier
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_note-1
+  29. file://localhost/wiki/Pulse-code_modulation
+  30. file://localhost/wiki/Multiplexing
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_note-allyouwanted-2
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_note-digitallink-0
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_note-dictionary-3
+  34. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=3
+  35. file://localhost/wiki/Error_detection
+  36. file://localhost/wiki/Bipolar_violation
+  37. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=4
+  38. file://localhost/wiki/Modified_AMI_code
+  39. file://localhost/wiki/Modified_AMI_code
+  40. file://localhost/wiki/B8ZS
+  41. file://localhost/wiki/North_America
+  42. file://localhost/wiki/HDB3
+  43. file://localhost/wiki/Europe
+  44. file://localhost/wiki/Japan
+  45. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=5
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_ref-digitallink_0-0
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_ref-digitallink_0-1
+  48. http://www.stromcarlson.com/docs/basics/t1svcfund.pdf
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_ref-1
+  50. http://www.atis.org/tg2k/_alternate_mark_inversion_signal.html
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_ref-allyouwanted_2-0
+  52. http://www.dcbnet.com/notes/9611t1.html
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc519.tmp.html#cite_ref-dictionary_3-0
+  54. http://www.faxswitch.com/Definitions/telecom_dictionary_b.html
+  55. file://localhost/w/index.php?title=Bipolar_encoding&action=edit&section=6
+  56. http://commons.wikimedia.org/wiki/Special:Search/Bipolar_encoding
+  57. file://localhost/wiki/Wikimedia_Commons
+  58. http://commons.wikimedia.org/wiki/Category:Alternate_mark_inversion
+  59. file://localhost/wiki/MLT-3_encoding
+  60. file://localhost/wiki/Unipolar_encoding
+  61. file://localhost/wiki/Polar_encoding
+  62. http://en.wikipedia.org/wiki/Bipolar_encoding
+  63. file://localhost/wiki/Special:Categories
+  64. file://localhost/wiki/Category:Encodings
+  65. file://localhost/wiki/Category:Line_codes
+  66. file://localhost/wiki/Bipolar_encoding
+  67. file://localhost/wiki/Talk:Bipolar_encoding
+  68. file://localhost/w/index.php?title=Bipolar_encoding&action=edit
+  69. file://localhost/w/index.php?title=Bipolar_encoding&action=history
+  70. file://localhost/w/index.php?title=Special:UserLogin&returnto=Bipolar_encoding
+  71. file://localhost/wiki/Main_Page
+  72. file://localhost/wiki/Portal:Contents
+  73. file://localhost/wiki/Portal:Featured_content
+  74. file://localhost/wiki/Portal:Current_events
+  75. file://localhost/wiki/Special:Random
+  76. file://localhost/wiki/Wikipedia:About
+  77. file://localhost/wiki/Wikipedia:Community_portal
+  78. file://localhost/wiki/Special:RecentChanges
+  79. file://localhost/wiki/Wikipedia:Contact_us
+  80. http://wikimediafoundation.org/wiki/Donate
+  81. file://localhost/wiki/Help:Contents
+  82. file://localhost/wiki/Special:WhatLinksHere/Bipolar_encoding
+  83. file://localhost/wiki/Special:RecentChangesLinked/Bipolar_encoding
+  84. file://localhost/wiki/Wikipedia:Upload
+  85. file://localhost/wiki/Special:SpecialPages
+  86. file://localhost/w/index.php?title=Bipolar_encoding&printable=yes
+  87. file://localhost/w/index.php?title=Bipolar_encoding&oldid=253029649
+  88. file://localhost/w/index.php?title=Special:Cite&page=Bipolar_encoding&id=253029649
+  89. http://de.wikipedia.org/wiki/AMI-Code
+  90. http://es.wikipedia.org/wiki/C%C3%B3digo_AMI_RZ
+  91. http://fr.wikipedia.org/wiki/Alternate_Mark_Inversion
+  92. http://nl.wikipedia.org/wiki/Alternate_Mark_Inversion
+  93. http://pl.wikipedia.org/wiki/Ami_(kod)
+  94. http://fi.wikipedia.org/wiki/AMI-koodaus
+  95. http://www.mediawiki.org/
+  96. http://wikimediafoundation.org/
+  97. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  98. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  99. http://www.wikimediafoundation.org/
+ 100. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 101. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 102. http://en.wikipedia.org/wiki/Non-profit_organization
+ 103. http://en.wikipedia.org/wiki/Charitable_organization
+ 104. http://wikimediafoundation.org/wiki/Privacy_policy
+ 105. file://localhost/wiki/Wikipedia:About
+ 106. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 107. file://localhost/wiki/File:Ami_encoding.svg
+ 108. file://localhost/wiki/File:Ami_encoding.svg
+ 109. file://localhost/wiki/Main_Page

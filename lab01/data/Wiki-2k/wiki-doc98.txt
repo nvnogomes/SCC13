@@ -1,0 +1,419 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Sanitization (classified information)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Document sanitizing)
+   Jump to: [7]navigation, [8]search
+   Not to be confused with [9]Data cleansing.
+
+   Sanitization (also '[10]redaction') is the process of removing
+   sensitive information from a document or other medium, so that it may
+   be distributed to a broader audience. When dealing with [11]classified
+   information, sanitization attempts to reduce the document's
+   classification level, possibly yielding an unclassified document.
+   Originally, the term sanitization was applied to [12]printed documents;
+   it has since been extended to apply to [13]computer media and the
+   problem of [14]data remanence as well.
+
+   Redaction generally refers to the [15]editing or blacking out of text
+   in a document, or to the result of such an effort. It is intended to
+   allow the selective disclosure of information in a document while
+   keeping other parts of the document secret. Typically the result is a
+   document that is suitable for [16]publication, or for dissemination to
+   others than the intended audience of the original document. For
+   example, when a document is [17]subpoenaed in a court case, information
+   not specifically relevant to the case at hand is often redacted.
+
+Contents
+
+     * [18]1 Government secrecy
+          + [19]1.1 Secure document redaction techniques
+     * [20]2 Printed matter
+     * [21]3 Computer media and files
+     * [22]4 References
+     * [23]5 See also
+     * [24]6 External links
+
+[[25]edit] Government secrecy
+
+   In the context of [26]government documents, redaction (also called
+   sanitization) generally refers more specifically to the process of
+   removing sensitive or [27]classified information from a document prior
+   to its publication, during [28]declassification.
+
+[[29]edit] Secure document redaction techniques
+
+   A US government document that has been redacted prior to release.
+   A heavily [30]redacted page from a lawsuit filed by the ACLU
+   [31]American Civil Liberties Union v. Ashcroft
+
+   The traditional technique of redacting confidential material from a
+   paper document before its public release involves crossing out portions
+   of text with a wide black pen, followed by photocopying the result.
+   This is a relatively easy to understand process and has only minor
+   risks associated with it. For example, if the black pen is not wide
+   enough, careful examination of the resulting photocopy may still reveal
+   partial information about the text, such as the difference between
+   short and tall letters. The exact length of the removed text also
+   remains recognizable, which may help to guess plausible wordings for
+   shorter redacted sections. Where computer-generated proportional fonts
+   were used, even more information can leak out of the redacted section
+   in the form of the exact position of nearby visible characters.
+
+   The [32]National Archives (UK) published a document, [33]Redaction
+   Toolkit, Guidelines for the Editing of Exempt Information from
+   Documents Prior to Release (2004), "to provide guidance on the editing
+   of exempt material from information held by public bodies."
+
+   Secure redacting is a far more complicated problem with word processing
+   file formats. These may also save a revision history of the edited text
+   that still contains the redacted text. In some file formats, unused
+   portions of memory are saved that may still contain fragments of
+   previous versions of the text. Where text is redacted by overlaying
+   graphical elements (usually black rectangles) on top of text, the
+   original text remains in the file and can be uncovered by simply
+   deleting the overlaying graphics. Effective redaction of electronic
+   documents requires the actual removal of the text or image data from
+   the document file. This either requires a very detailed understanding
+   of the internal operation of the document processing software and file
+   formats used, which most computer users lack, or software tools
+   designed for sanitizing electronic documents (see external links
+   below).
+
+   Redaction usually requires a marking of the redacted area with the
+   reason why the content is being restricted. Government documents being
+   released under the Freedom Act are marked with exemption codes that
+   denote the reason why the content has been sanitized.
+
+   The [34]National Security Agency published a document, [35]Redacting
+   with Confidence: How to Safely Publish Sanitized Reports Converted from
+   Word to PDF, which provides instructions for redacting [36]Microsoft
+   Word generated [37]PDF files.
+
+[[38]edit] Printed matter
+
+   A page of a [39]classified document that has been sanitized for public
+   release. This is page 13 of a [40]U.S. National Security Agency report
+   [41][1] on the [42]USS Liberty incident, which was declassifed and
+   released to the public in July 2003. Classified information has been
+   blocked out so that only the unclassified information is visible.
+   Notations with leader lines at top and bottom cite statutory authority
+   for not declassifying certain sections. Click on the image to enlarge.
+
+   A printed document which contains classified or sensitive information
+   will frequently contain a great deal of information which is less
+   sensitive. There may be a need to release the less sensitive portions
+   to [43]uncleared personnel. The printed document will thus be sanitized
+   to obscure or remove the sensitive information. The term [44]redaction
+   is also used to describe this process, though that term is more often
+   used in literary contexts.
+
+   In some cases, sanitizing a classified document removes enough
+   information to reduce the classification from a higher level to a lower
+   one. For example, raw [45]intelligence reports may contain highly
+   classified information, like the identities of [46]spies, that is
+   removed before the reports are distributed outside the intelligence
+   agency: the initial report may be classified as Top Secret while the
+   sanitized report may be classified as Secret.
+
+   In other cases, like the [47]U.S. National Security Agency's report on
+   the [48]USS Liberty incident (right), the report may be sanitized to
+   remove all sensitive data, so that the report may be released to the
+   general public.
+
+   As is seen in the USS Liberty report, paper documents are generally
+   sanitized by covering the classified and sensitive portions and then
+   photocopying the document, resulting in a sanitized document suitable
+   for distribution.
+
+[[49]edit] Computer media and files
+
+          See also: [50]Data remanence and [51]Data erasure
+
+   Computer (electronic or digital) documents are more difficult to
+   sanitize. In many cases, when information in an information system is
+   modified or erased, some or all of the data remains in [52]storage.
+   This may be an accident of design, where the underlying storage
+   mechanism ([53]disk, [54]RAM, etc.) still allows information to be
+   read, despite its nominal erasure. The general term for this problem is
+   [55]data remanence. In some contexts (notably the US [56]NSA, [57]DoD,
+   and related organizations), sanitization typically refers to countering
+   the data remanence problem; redaction is used in the sense of this
+   article.
+
+   However, the retention may be a deliberate [58]feature, in the form of
+   an [59]undo buffer, revision history, "trash can", [60]backups, or the
+   like. For example, word processing programs like [61]Microsoft Word
+   will sometimes be used to edit out the sensitive information.
+   Unfortunately, these products do not always show the user all of the
+   information stored in a file, so it is possible that a file may still
+   contain sensitive information. In other cases, inexperienced users will
+   use ineffective methods which fail to sanitize the document.
+
+   In May, 2005, the US military published a report on the death of
+   [62]Nicola Calipari, an Italian secret agent, at a US military
+   checkpoint in Iraq. The report was published in [63]Adobe PDF format
+   and had apparently been sanitized using commercial word processing
+   tools. Shortly thereafter, readers discovered that the blocked-out
+   portions could be retrieved using simple [64]cut and paste operations
+   on the posted document.^[65][1]
+
+   Similarly, on May 24, 2006, lawyers for the communications service
+   provider [66]AT&T filed a legal brief^[67][2] regarding their
+   cooperation with domestic wiretapping by the [68]NSA. Text on pages 12
+   through 14 of the [69]Adobe PDF document were blacked out in an attempt
+   to sanitize the document, but the hidden text could be retrieved using
+   cut and paste.^[70][3]
+
+   At the end of 2005, the [71]NSA released a report giving
+   recommendations on how to safely sanitize a [72]Word document.^[73][4]
+
+   Issues such as these make it difficult to reliably implement
+   [74]multilevel security systems, in which computer users of differing
+   security clearances may share documents. The Challenge of Multilevel
+   Security gives an example of a sanitization failure caused by
+   unexpected behavior in Microsoft Word's change tracking
+   feature.^[75][5]
+
+[[76]edit] References
+
+    1. [77]^ BBC Report (May 2, 2005). [78]"Readers 'declassify' US
+       document". BBC.
+       [79]http://news.bbc.co.uk/1/hi/world/europe/4506517.stm.
+    2. [80]^
+       [81]http://www.politechbot.com/docs/att.not.redacted.brief.052606.p
+       df
+    3. [82]^ Declan McCullagh (May 26, 2006). [83]"AT&T leaks sensitive
+       info in NSA suit". CNet News.
+       [84]http://news.com.com/AT38T+leaks+sensitive+info+in+NSA+suit/2100
+       -1028_3-6077353.html.
+    4. [85]^ NSA SNAC (December 13, 2005) (PDF). [86]Redacting with
+       Confidence: How to Safely Publish Sanitized Reports Converted From
+       Word to PDF. Report# I333-015R-2005. Information Assurance
+       Directorate, National Security Agency.
+       [87]http://www.fas.org/sgp/othergov/dod/nsa-redact.pdf. Retrieved
+       on 2006-05-29.
+    5. [88]^ Rick Smith (2003). "[89]The Challenge of Multilevel Security"
+       (PDF). Black Hat Federal Conference.
+
+[[90]edit] See also
+
+     * [91]Censorship
+     * [92]Freedom of Information Act
+
+[[93]edit] External links
+
+     * [94]Adobe Acrobat V8 or higher: PDF Redaction
+     * [95]Appligent Redax: Acrobat Add-in for PDF Redaction
+     * [96]Informative Graphics Redact-It: Multi-format Intelligent
+       Redaction
+     * [97]Microsoft Office 2003 Add-in: Word Redaction v1.2
+
+   Retrieved from
+   "[98]http://en.wikipedia.org/wiki/Sanitization_(classified_information)
+   "
+   [99]Category: [100]Redaction
+
+Views
+
+     * [101]Article
+     * [102]Discussion
+     * [103]Edit this page
+     * [104]History
+
+Personal tools
+
+     * [105]Log in / create account
+
+Navigation
+
+     * [106]Main page
+     * [107]Contents
+     * [108]Featured content
+     * [109]Current events
+     * [110]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [111]About Wikipedia
+     * [112]Community portal
+     * [113]Recent changes
+     * [114]Contact Wikipedia
+     * [115]Donate to Wikipedia
+     * [116]Help
+
+Toolbox
+
+     * [117]What links here
+     * [118]Related changes
+     * [119]Upload file
+     * [120]Special pages
+     * [121]Printable version
+     * [122]Permanent link
+     * [123]Cite this page
+
+   [124]Powered by MediaWiki
+   [125]Wikimedia Foundation
+     * This page was last modified on 25 January 2009, at 15:08.
+     * All text is available under the terms of the [126]GNU Free
+       Documentation License. (See [127]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [128]Wikimedia
+       Foundation, Inc., a U.S. registered [129]501(c)(3)
+       [130]tax-deductible [131]nonprofit [132]charity.
+     * [133]Privacy policy
+     * [134]About Wikipedia
+     * [135]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Sanitization_(classified_information)&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Document_sanitizing&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#searchInput
+   9. file://localhost/wiki/Data_cleansing
+  10. file://localhost/wiki/Redaction
+  11. file://localhost/wiki/Classified_information
+  12. file://localhost/wiki/Printing
+  13. file://localhost/wiki/Computer_file
+  14. file://localhost/wiki/Data_remanence
+  15. file://localhost/wiki/Editing
+  16. file://localhost/wiki/Publication
+  17. file://localhost/wiki/Subpoena
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#Government_secrecy
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#Secure_document_redaction_techniques
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#Printed_matter
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#Computer_media_and_files
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#References
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#See_also
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#External_links
+  25. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=1
+  26. file://localhost/wiki/Government
+  27. file://localhost/wiki/Classified_information
+  28. file://localhost/wiki/Declassification
+  29. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=2
+  30. file://localhost/wiki/Redaction
+  31. file://localhost/wiki/American_Civil_Liberties_Union_v._Ashcroft_(2004)
+  32. file://localhost/wiki/National_Archives_(UK)
+  33. http://www.nationalarchives.gov.uk/documents/redaction_toolkit.pdf
+  34. file://localhost/wiki/National_Security_Agency
+  35. http://www.nsa.gov/snac/vtechrep/I333-TR-015R-2005.PDF
+  36. file://localhost/wiki/Microsoft_Word
+  37. file://localhost/wiki/PDF
+  38. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=3
+  39. file://localhost/wiki/Classified_information
+  40. file://localhost/wiki/U.S._National_Security_Agency
+  41. http://www.nsa.gov/liberty/liber00010.pdf
+  42. file://localhost/wiki/USS_Liberty_incident
+  43. file://localhost/wiki/Security_clearance
+  44. file://localhost/wiki/Redaction
+  45. file://localhost/wiki/Military_intelligence
+  46. file://localhost/wiki/Espionage
+  47. file://localhost/wiki/U.S._National_Security_Agency
+  48. file://localhost/wiki/USS_Liberty_incident
+  49. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=4
+  50. file://localhost/wiki/Data_remanence
+  51. file://localhost/wiki/Data_erasure
+  52. file://localhost/wiki/Computer_storage
+  53. file://localhost/wiki/Disk_storage
+  54. file://localhost/wiki/Random_access_memory
+  55. file://localhost/wiki/Data_remanence
+  56. file://localhost/wiki/National_Security_Agency
+  57. file://localhost/wiki/United_States_Department_of_Defense
+  58. file://localhost/wiki/Feature
+  59. file://localhost/wiki/Undo
+  60. file://localhost/wiki/Backup
+  61. file://localhost/wiki/Microsoft_Word
+  62. file://localhost/wiki/Nicola_Calipari
+  63. file://localhost/wiki/Portable_Document_Format
+  64. file://localhost/wiki/Cut_and_paste
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_note-0
+  66. file://localhost/wiki/AT%26T
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_note-1
+  68. file://localhost/wiki/NSA
+  69. file://localhost/wiki/Portable_Document_Format
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_note-2
+  71. file://localhost/wiki/NSA
+  72. file://localhost/wiki/Microsoft_Word
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_note-3
+  74. file://localhost/wiki/Multilevel_security
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_note-4
+  76. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=5
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_ref-0
+  78. http://news.bbc.co.uk/1/hi/world/europe/4506517.stm
+  79. http://news.bbc.co.uk/1/hi/world/europe/4506517.stm
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_ref-1
+  81. http://www.politechbot.com/docs/att.not.redacted.brief.052606.pdf
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_ref-2
+  83. http://news.com.com/AT38T+leaks+sensitive+info+in+NSA+suit/2100-1028_3-6077353.html
+  84. http://news.com.com/AT38T+leaks+sensitive+info+in+NSA+suit/2100-1028_3-6077353.html
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_ref-3
+  86. http://www.fas.org/sgp/othergov/dod/nsa-redact.pdf
+  87. http://www.fas.org/sgp/othergov/dod/nsa-redact.pdf
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc98.tmp.html#cite_ref-4
+  89. https://www.cryptosmith.com/docs/BH%20MLS%2006a.pdf
+  90. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=6
+  91. file://localhost/wiki/Censorship
+  92. file://localhost/wiki/Freedom_of_Information_Act
+  93. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit&section=7
+  94. http://www.adobe.com/products/acrobat/
+  95. http://www.appligent.com/products/product_families/redaction.php
+  96. http://www.redact-it.com/
+  97. http://www.microsoft.com/downloads/details.aspx?FamilyID=028c0fd7-67c2-4b51-8e87-65cc9f30f2ed&DisplayLang=en
+  98. http://en.wikipedia.org/wiki/Sanitization_(classified_information)
+  99. file://localhost/wiki/Special:Categories
+ 100. file://localhost/wiki/Category:Redaction
+ 101. file://localhost/wiki/Sanitization_(classified_information)
+ 102. file://localhost/w/index.php?title=Talk:Sanitization_(classified_information)&action=edit&redlink=1
+ 103. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=edit
+ 104. file://localhost/w/index.php?title=Sanitization_(classified_information)&action=history
+ 105. file://localhost/w/index.php?title=Special:UserLogin&returnto=Sanitization_(classified_information)
+ 106. file://localhost/wiki/Main_Page
+ 107. file://localhost/wiki/Portal:Contents
+ 108. file://localhost/wiki/Portal:Featured_content
+ 109. file://localhost/wiki/Portal:Current_events
+ 110. file://localhost/wiki/Special:Random
+ 111. file://localhost/wiki/Wikipedia:About
+ 112. file://localhost/wiki/Wikipedia:Community_portal
+ 113. file://localhost/wiki/Special:RecentChanges
+ 114. file://localhost/wiki/Wikipedia:Contact_us
+ 115. http://wikimediafoundation.org/wiki/Donate
+ 116. file://localhost/wiki/Help:Contents
+ 117. file://localhost/wiki/Special:WhatLinksHere/Sanitization_(classified_information)
+ 118. file://localhost/wiki/Special:RecentChangesLinked/Sanitization_(classified_information)
+ 119. file://localhost/wiki/Wikipedia:Upload
+ 120. file://localhost/wiki/Special:SpecialPages
+ 121. file://localhost/w/index.php?title=Sanitization_(classified_information)&printable=yes
+ 122. file://localhost/w/index.php?title=Sanitization_(classified_information)&oldid=266322502
+ 123. file://localhost/w/index.php?title=Special:Cite&page=Sanitization_(classified_information)&id=266322502
+ 124. http://www.mediawiki.org/
+ 125. http://wikimediafoundation.org/
+ 126. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 127. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 128. http://www.wikimediafoundation.org/
+ 129. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 130. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 131. http://en.wikipedia.org/wiki/Non-profit_organization
+ 132. http://en.wikipedia.org/wiki/Charitable_organization
+ 133. http://wikimediafoundation.org/wiki/Privacy_policy
+ 134. file://localhost/wiki/Wikipedia:About
+ 135. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 136. file://localhost/wiki/File:Mkultra-lsd-doc.jpg
+ 137. file://localhost/wiki/File:Mkultra-lsd-doc.jpg
+ 138. file://localhost/wiki/File:Aclu-v-ashcroft-redacted.jpg
+ 139. file://localhost/wiki/File:NSALibertyReport.p13.jpg
+ 140. file://localhost/wiki/File:NSALibertyReport.p13.jpg
+ 141. file://localhost/wiki/Main_Page

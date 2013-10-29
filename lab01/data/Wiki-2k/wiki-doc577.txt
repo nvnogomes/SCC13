@@ -1,0 +1,212 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dynamic bandwidth allocation
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dynamic bandwidth allocation method)
+   Jump to: [7]navigation, [8]search
+   This article is in need of attention from an expert on the subject.
+   [9]WikiProject Telecommunications may be able to help recruit one.
+   (November 2008)
+   This article does not [10]cite any [11]references or sources. Please
+   help [12]improve this article by adding citations to [13]reliable
+   sources. [14]Unverifiable material may be challenged and removed.
+   (February 2008)
+
+   Dynamic Bandwidth Allocation (DBA) is a technique by which traffic
+   bandwidth in a shared telecommunications medium can be allocated on
+   demand and fairly between different users of that bandwidth. This is a
+   form of [15]bandwidth management, and is essentially the same thing as
+   [16]statistical multiplexing. Where the sharing of a link adapts in
+   some way to the instantaneous traffic demands of the nodes connected to
+   the link.
+
+   DBA takes advantage of several attributes of shared networks: (1) all
+   users are typically not connected to the network at one time (2) even
+   when connected, users are not transmitting data (or voice or video) at
+   all times (3) most traffic is "bursty" -- there are gaps between
+   packets of information that can be filled with other user traffic
+
+   Different network protocols implement DBA in different ways. These
+   methods are typically defined in [17]standards developed by standards
+   bodies such as the [18]ITU, [19]IEEE, [20]FSAN, or [21]IETF. One
+   example of DBA is defined in the ITU G.983 specification for
+   [22]passive optical network ([23]PON).
+
+[[24]edit] See also
+
+     * [25]Statistical multiplexing
+     * [26]Channel access method
+     * [27]Time division duplex (TDD)
+     * [28]Bandwidth Controller
+     * [29]Dynamic TDMA
+     * [30]Reservation ALOHA (R-ALOHA)
+     * [31]Packet reservation multiple access (PRMA)
+     * [32]OFDMA
+     * [33]CDMA
+     * [34]Dynamic channel allocation
+     * [35]Interleaved polling with adaptive cycle time (IPACT)
+     * [36]Bandwidth guaranteed polling (BGP)
+     * [37]Fair Queuing with Service Envelopes (FQSE)
+     * [38]Limited Allocation with Excess Redistribution (LAER+EA)
+     * [39]Hybrid granting
+     * [40]Modified Token-bucket
+
+   Retrieved from
+   "[41]http://en.wikipedia.org/wiki/Dynamic_bandwidth_allocation"
+   [42]Categories: [43]Telecommunications | [44]Computer networking |
+   [45]Channel access methods | [46]Radio resource management
+   Hidden categories: [47]Telecommunications articles needing expert
+   attention | [48]Articles needing expert attention since November 2008 |
+   [49]Articles lacking sources from February 2008 | [50]All articles
+   lacking sources
+
+Views
+
+     * [51]Article
+     * [52]Discussion
+     * [53]Edit this page
+     * [54]History
+
+Personal tools
+
+     * [55]Log in / create account
+
+Navigation
+
+     * [56]Main page
+     * [57]Contents
+     * [58]Featured content
+     * [59]Current events
+     * [60]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [61]About Wikipedia
+     * [62]Community portal
+     * [63]Recent changes
+     * [64]Contact Wikipedia
+     * [65]Donate to Wikipedia
+     * [66]Help
+
+Toolbox
+
+     * [67]What links here
+     * [68]Related changes
+     * [69]Upload file
+     * [70]Special pages
+     * [71]Printable version
+     * [72]Permanent link
+     * [73]Cite this page
+
+   [74]Powered by MediaWiki
+   [75]Wikimedia Foundation
+     * This page was last modified on 3 November 2008, at 18:26.
+     * All text is available under the terms of the [76]GNU Free
+       Documentation License. (See [77]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [78]Wikimedia
+       Foundation, Inc., a U.S. registered [79]501(c)(3)
+       [80]tax-deductible [81]nonprofit [82]charity.
+     * [83]Privacy policy
+     * [84]About Wikipedia
+     * [85]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dynamic_bandwidth_allocation&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation_method&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc577.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc577.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:WikiProject_Telecommunications
+  10. file://localhost/wiki/Wikipedia:Citing_sources
+  11. file://localhost/wiki/Wikipedia:Verifiability
+  12. http://en.wikipedia.org/w/index.php?title=Dynamic_bandwidth_allocation&action=edit
+  13. file://localhost/wiki/Wikipedia:Reliable_sources
+  14. file://localhost/wiki/Wikipedia:Verifiability
+  15. file://localhost/wiki/Bandwidth_management
+  16. file://localhost/wiki/Statistical_multiplexing
+  17. file://localhost/wiki/Standardization
+  18. file://localhost/wiki/ITU
+  19. file://localhost/wiki/IEEE
+  20. file://localhost/w/index.php?title=FSAN&action=edit&redlink=1
+  21. file://localhost/wiki/IETF
+  22. file://localhost/wiki/Passive_optical_network
+  23. file://localhost/wiki/PON
+  24. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation&action=edit&section=1
+  25. file://localhost/wiki/Statistical_multiplexing
+  26. file://localhost/wiki/Channel_access_method
+  27. file://localhost/wiki/Time_division_duplex
+  28. file://localhost/w/index.php?title=Bandwidth_Controller&action=edit&redlink=1
+  29. file://localhost/wiki/Dynamic_TDMA
+  30. file://localhost/wiki/Reservation_ALOHA
+  31. file://localhost/w/index.php?title=Packet_reservation_multiple_access&action=edit&redlink=1
+  32. file://localhost/wiki/OFDMA
+  33. file://localhost/wiki/CDMA
+  34. file://localhost/wiki/Dynamic_channel_allocation
+  35. file://localhost/wiki/Interleaved_polling_with_adaptive_cycle_time
+  36. file://localhost/wiki/Bandwidth_guaranteed_polling
+  37. file://localhost/w/index.php?title=Fair_Queuing_with_Service_Envelopes_(FQSE)&action=edit&redlink=1
+  38. file://localhost/w/index.php?title=Limited_Allocation_with_Excess_Redistribution_(LAER%2BEA)&action=edit&redlink=1
+  39. file://localhost/w/index.php?title=Hybrid_granting&action=edit&redlink=1
+  40. file://localhost/w/index.php?title=Modified_Token-bucket&action=edit&redlink=1
+  41. http://en.wikipedia.org/wiki/Dynamic_bandwidth_allocation
+  42. file://localhost/wiki/Special:Categories
+  43. file://localhost/wiki/Category:Telecommunications
+  44. file://localhost/wiki/Category:Computer_networking
+  45. file://localhost/wiki/Category:Channel_access_methods
+  46. file://localhost/wiki/Category:Radio_resource_management
+  47. file://localhost/wiki/Category:Telecommunications_articles_needing_expert_attention
+  48. file://localhost/wiki/Category:Articles_needing_expert_attention_since_November_2008
+  49. file://localhost/wiki/Category:Articles_lacking_sources_from_February_2008
+  50. file://localhost/wiki/Category:All_articles_lacking_sources
+  51. file://localhost/wiki/Dynamic_bandwidth_allocation
+  52. file://localhost/wiki/Talk:Dynamic_bandwidth_allocation
+  53. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation&action=edit
+  54. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation&action=history
+  55. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dynamic_bandwidth_allocation
+  56. file://localhost/wiki/Main_Page
+  57. file://localhost/wiki/Portal:Contents
+  58. file://localhost/wiki/Portal:Featured_content
+  59. file://localhost/wiki/Portal:Current_events
+  60. file://localhost/wiki/Special:Random
+  61. file://localhost/wiki/Wikipedia:About
+  62. file://localhost/wiki/Wikipedia:Community_portal
+  63. file://localhost/wiki/Special:RecentChanges
+  64. file://localhost/wiki/Wikipedia:Contact_us
+  65. http://wikimediafoundation.org/wiki/Donate
+  66. file://localhost/wiki/Help:Contents
+  67. file://localhost/wiki/Special:WhatLinksHere/Dynamic_bandwidth_allocation
+  68. file://localhost/wiki/Special:RecentChangesLinked/Dynamic_bandwidth_allocation
+  69. file://localhost/wiki/Wikipedia:Upload
+  70. file://localhost/wiki/Special:SpecialPages
+  71. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation&printable=yes
+  72. file://localhost/w/index.php?title=Dynamic_bandwidth_allocation&oldid=249453093
+  73. file://localhost/w/index.php?title=Special:Cite&page=Dynamic_bandwidth_allocation&id=249453093
+  74. http://www.mediawiki.org/
+  75. http://wikimediafoundation.org/
+  76. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  77. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  78. http://www.wikimediafoundation.org/
+  79. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  80. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  81. http://en.wikipedia.org/wiki/Non-profit_organization
+  82. http://en.wikipedia.org/wiki/Charitable_organization
+  83. http://wikimediafoundation.org/wiki/Privacy_policy
+  84. file://localhost/wiki/Wikipedia:About
+  85. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  86. file://localhost/wiki/File:Ambox_content.png
+  87. file://localhost/wiki/File:Question_book-new.svg
+  88. file://localhost/wiki/Main_Page

@@ -1,0 +1,210 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Blue diaper syndrome
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Drummond's syndrome)
+   Jump to: [7]navigation, [8]search
+
+   Blue diaper syndrome is a rare, [9]autosomal recessive [10]metabolic
+   disorder characterized in infants by bluish urine-stained diapers.
+
+   It is caused by a defect in [11]tryptophan absorption. Bacterial
+   degradation of tryptophan in the intestine leads to excessive
+   [12]indole production and thus to [13]indicanuria which, on oxidation
+   to [14]indigo blue, causes a peculiar bluish discoloration of the
+   diaper. Symptoms typically include digestive disturbances, fever and
+   visual problems.
+
+[[15]edit] Genetics
+
+   Blue diaper syndrome has an autosomal recessive pattern of inheritance.
+
+   Blue diaper syndrome is thought to be inherited as an [16]autosomal
+   recessive disorder. Recent research indicates that [17]mutations in the
+   [18]LAT2 and [19]TAT1 [20]genes might be involved in causing this
+   syndrome.
+
+[[21]edit] References
+
+     * Drummond KN, Michael AF, Ulstrom RA, Good RA (1964). "The blue
+       diaper syndrome: Familial [22]hypercalcemia with
+       [23]nephrocalcinosis and indicanuria; A new familial disease, with
+       definition of the metabolic abnormality". Am J Med 37: 92848.
+       [24]doi:[25]10.1016/0002-9343(64)90134-2.  [26]PMID 14246093
+     * Kim do K, Kanai Y, Matsuo H, Kim JY, Chairoungdua A, Kobayashi Y,
+       Enomoto A, Cha SH, Goya T, Endou H (2002). "The human T-type amino
+       acid transporter-1: characterization, gene organization, and
+       chromosomal location". Genomics 79 (1): 95103.
+       [27]doi:[28]10.1006/geno.2001.6678.  [29]PMID 11827462
+     * Park SY, Kim JK, Kim IJ, Choi BK, Jung KY, Lee S, Park KJ,
+       Chairoungdua A, Kanai Y, Endou H, Kim do K (2005). "Reabsorption of
+       neutral amino acids mediated by amino acid transporter LAT2 and
+       TAT1 in the basolateral membrane of proximal tubule". Arch Pharm
+       Res 28 (4): 42132.  [30]PMID 15918515
+
+[[31]edit] External links
+
+     * [32]Online 'Mendelian Inheritance in Man' (OMIM) [33]Blue diaper
+       syndrome; Hypercalcemia, familial, with Nephrocalcinosis and
+       Indicanuria -211000
+     * [34]Blue diaper syndrome at [35]NIH's Office of [36]Rare Diseases
+
+    This [37]genetic disorder article is a [38]stub. You can help
+   Wikipedia by [39]expanding it.
+   Retrieved from "[40]http://en.wikipedia.org/wiki/Blue_diaper_syndrome"
+   [41]Categories: [42]Genetic disorder stubs | [43]Genetic disorders |
+   [44]Autosomal recessive disorders | [45]Metabolic disorders
+
+Views
+
+     * [46]Article
+     * [47]Discussion
+     * [48]Edit this page
+     * [49]History
+
+Personal tools
+
+     * [50]Log in / create account
+
+Navigation
+
+     * [51]Main page
+     * [52]Contents
+     * [53]Featured content
+     * [54]Current events
+     * [55]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [56]About Wikipedia
+     * [57]Community portal
+     * [58]Recent changes
+     * [59]Contact Wikipedia
+     * [60]Donate to Wikipedia
+     * [61]Help
+
+Toolbox
+
+     * [62]What links here
+     * [63]Related changes
+     * [64]Upload file
+     * [65]Special pages
+     * [66]Printable version
+     * [67]Permanent link
+     * [68]Cite this page
+
+Languages
+
+     * [69]Polski
+     * [70]Deutsch
+
+   [71]Powered by MediaWiki
+   [72]Wikimedia Foundation
+     * This page was last modified on 23 August 2008, at 11:57.
+     * All text is available under the terms of the [73]GNU Free
+       Documentation License. (See [74]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [75]Wikimedia
+       Foundation, Inc., a U.S. registered [76]501(c)(3)
+       [77]tax-deductible [78]nonprofit [79]charity.
+     * [80]Privacy policy
+     * [81]About Wikipedia
+     * [82]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Blue_diaper_syndrome&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Drummond%27s_syndrome&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc429.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc429.tmp.html#searchInput
+   9. file://localhost/wiki/Autosomal_recessive
+  10. file://localhost/wiki/Metabolic_disorder
+  11. file://localhost/wiki/Tryptophan
+  12. file://localhost/wiki/Indole
+  13. file://localhost/wiki/Indican
+  14. file://localhost/wiki/Indigo_blue
+  15. file://localhost/w/index.php?title=Blue_diaper_syndrome&action=edit&section=1
+  16. file://localhost/wiki/Autosomal_recessive
+  17. file://localhost/wiki/Mutation
+  18. file://localhost/wiki/LAT2
+  19. file://localhost/w/index.php?title=TAT1_(gene)&action=edit&redlink=1
+  20. file://localhost/wiki/Gene
+  21. file://localhost/w/index.php?title=Blue_diaper_syndrome&action=edit&section=2
+  22. file://localhost/wiki/Hypercalcemia
+  23. file://localhost/wiki/Nephrocalcinosis
+  24. file://localhost/wiki/Digital_object_identifier
+  25. http://dx.doi.org/10.1016%2F0002-9343%2864%2990134-2
+  26. http://www.ncbi.nlm.nih.gov/pubmed/14246093
+  27. file://localhost/wiki/Digital_object_identifier
+  28. http://dx.doi.org/10.1006%2Fgeno.2001.6678
+  29. http://www.ncbi.nlm.nih.gov/pubmed/11827462
+  30. http://www.ncbi.nlm.nih.gov/pubmed/15918515
+  31. file://localhost/w/index.php?title=Blue_diaper_syndrome&action=edit&section=3
+  32. file://localhost/wiki/Mendelian_Inheritance_in_Man
+  33. http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=211000
+  34. http://rarediseases.info.nih.gov/GARD/Disease.aspx?PageID=4&diseaseID=5939
+  35. file://localhost/wiki/National_Institutes_of_Health
+  36. file://localhost/wiki/Rare_disease
+  37. file://localhost/wiki/Genetic_disorder
+  38. file://localhost/wiki/Wikipedia:Stub
+  39. http://en.wikipedia.org/w/index.php?stub&title=Blue_diaper_syndrome&action=edit
+  40. http://en.wikipedia.org/wiki/Blue_diaper_syndrome
+  41. file://localhost/wiki/Special:Categories
+  42. file://localhost/wiki/Category:Genetic_disorder_stubs
+  43. file://localhost/wiki/Category:Genetic_disorders
+  44. file://localhost/wiki/Category:Autosomal_recessive_disorders
+  45. file://localhost/wiki/Category:Metabolic_disorders
+  46. file://localhost/wiki/Blue_diaper_syndrome
+  47. file://localhost/wiki/Talk:Blue_diaper_syndrome
+  48. file://localhost/w/index.php?title=Blue_diaper_syndrome&action=edit
+  49. file://localhost/w/index.php?title=Blue_diaper_syndrome&action=history
+  50. file://localhost/w/index.php?title=Special:UserLogin&returnto=Blue_diaper_syndrome
+  51. file://localhost/wiki/Main_Page
+  52. file://localhost/wiki/Portal:Contents
+  53. file://localhost/wiki/Portal:Featured_content
+  54. file://localhost/wiki/Portal:Current_events
+  55. file://localhost/wiki/Special:Random
+  56. file://localhost/wiki/Wikipedia:About
+  57. file://localhost/wiki/Wikipedia:Community_portal
+  58. file://localhost/wiki/Special:RecentChanges
+  59. file://localhost/wiki/Wikipedia:Contact_us
+  60. http://wikimediafoundation.org/wiki/Donate
+  61. file://localhost/wiki/Help:Contents
+  62. file://localhost/wiki/Special:WhatLinksHere/Blue_diaper_syndrome
+  63. file://localhost/wiki/Special:RecentChangesLinked/Blue_diaper_syndrome
+  64. file://localhost/wiki/Wikipedia:Upload
+  65. file://localhost/wiki/Special:SpecialPages
+  66. file://localhost/w/index.php?title=Blue_diaper_syndrome&printable=yes
+  67. file://localhost/w/index.php?title=Blue_diaper_syndrome&oldid=233720848
+  68. file://localhost/w/index.php?title=Special:Cite&page=Blue_diaper_syndrome&id=233720848
+  69. http://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_niebieskich_pieluszek
+  70. http://de.wikipedia.org/wiki/Blaue-Windeln-Syndrom
+  71. http://www.mediawiki.org/
+  72. http://wikimediafoundation.org/
+  73. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  74. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  75. http://www.wikimediafoundation.org/
+  76. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  77. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  78. http://en.wikipedia.org/wiki/Non-profit_organization
+  79. http://en.wikipedia.org/wiki/Charitable_organization
+  80. http://wikimediafoundation.org/wiki/Privacy_policy
+  81. file://localhost/wiki/Wikipedia:About
+  82. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  83. file://localhost/wiki/File:Autorecessive.svg
+  84. file://localhost/wiki/File:Autorecessive.svg
+  85. file://localhost/wiki/File:Chromosome.svg
+  86. file://localhost/wiki/Main_Page

@@ -1,0 +1,410 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Overhead camshaft
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double overhead cam)
+   Jump to: [7]navigation, [8]search
+   This article needs additional [9]citations for [10]verification. Please
+   help [11]improve this article by adding [12]reliable references.
+   Unsourced material may be [13]challenged and removed. (September 2007)
+   A [14]cylinder head sliced in half shows two overhead camshaftsone
+   above each of the two [15]valves.
+
+   Overhead camshaft, commonly abbreviated to OHC, [16]valvetrain
+   configurations place the engine [17]camshaft within the [18]cylinder
+   heads, above the [19]combustion chambers, and drive the [20]valves or
+   [21]lifters in a more direct manner compared to [22]overhead valves
+   (OHV) and [23]pushrods.
+
+   Compared to OHV pushrod (or I-Head) systems with the same number of
+   valves the reciprocating components of the OHC system are fewer and
+   have a lower total mass. Though the system that drives the cams may
+   become more complex, most engine manufacturers easily accept that added
+   complexity in trade for better engine performance and greater design
+   flexibility. Another performance advantage is gained as a result of the
+   better optimized port configurations made possible with overhead
+   camshaft designs. With no intrusive pushrods the overhead camshaft
+   cylinder head design can use straighter ports of more advantageous
+   crossection and length.
+
+   The OHC system can be driven using the same methods as an OHV system,
+   which include using a rubber/kevlar toothed [24]timing belt, [25]chain,
+   or in less common cases, [26]gears.
+
+   Many OHC engines today employ [27]variable valve timing and
+   [28]multiple valves to improve efficiency and power. OHC also
+   inherently allows for greater engine speeds over comparable
+   cam-in-block designs.
+
+   There are two overhead camshaft layouts:
+     * Single overhead camshaft - or SOHC
+     * Dual overhead camshaft - or DOHC
+
+Contents
+
+     * [29]1 Single overhead camshaft
+     * [30]2 Dual overhead camshaft
+     * [31]3 History
+     * [32]4 See also
+     * [33]5 References
+     * [34]6 External links
+
+[[35]edit] Single overhead camshaft
+
+   A single overhead camshaft cylinder head from a 1987 [36]Honda [37]CRX
+   Si.
+
+   Single overhead camshaft (SOHC) is a design in which one camshaft is
+   placed within the [38]cylinder head. In an inline engine this means
+   there is one camshaft in the head, while in a [39]V engine or a
+   horizontally-opposed engine (boxer; [40]flat engine) there are two
+   camshafts: one per cylinder bank.
+
+   The SOHC design has less reciprocating mass than a comparable
+   [41]pushrod design. This allows for higher engine speeds, which in turn
+   will increase power output for a given [42]torque. The cam operates the
+   valves directly or through a [43]rocker arm, as opposed to overhead
+   valve [44]pushrod engines which have tappets, long pushrods, and rocker
+   arms to transfer the movement of the lobes on the camshaft in the
+   engine block to the valves in the [45]cylinder head.
+
+   SOHC designs offer reduced complexity compared to [46]pushrod designs
+   when used for multi-valve heads in which each cylinder has more than
+   two valves. An example of a SOHC design using [47]shim and bucket valve
+   adjustment was the engine installed in the [48]Hillman Imp (4 cylinder,
+   8 valve); a small, early 1960s 2-door [49]saloon car with a rear
+   mounted alloy engine based on the [50]Coventry Climax FWMA race
+   engines. Exhaust and inlet manifolds were both on the same side of the
+   engine block (thus not a [51]crossflow cylinder head design). This did,
+   however, offer excellent access to the spark plugs.
+
+   In the early 1980s, [52]Toyota and [53]Volkswagen also used a directly
+   actuated, SOHC parallel valve configuration with two valves for each
+   cylinder. The Toyota system used hydraulic [54]tappets while the
+   Volkswagen system used bucket [55]tappets with shims for valve lash
+   adjustment. Of all valvetrain systems, this is the least complex
+   configuration possible.
+
+[[56]edit] Dual overhead camshaft
+
+   Overhead view of Suzuki [57]GS550 head showing dual camshafts and drive
+   sprockets.
+
+   A double overhead camshaft valve train layout is characterized by two
+   camshafts located within the cylinder head, one operating the inlet
+   valves and one operating the exhaust valves. Some engines have more
+   than one bank of cylinder heads (V8 and [58]flat-four being two
+   well-known examples) and these have more than two camshafts in total,
+   but they remain DOHC. The term "twin cam" is imprecise, but will
+   normally refer to DOHC eng valves, but are necessary for more than two
+   valves that are directly actuated (though still usually via tappets).
+   Not all DOHC engines are multivalve enginesDOHC was common in two valve
+   per cylinder heads for decades before multivalve heads appeared. Today,
+   however, DOHC is synonymous with multi-valve heads since almost all
+   DOHC engines have between three and five valves per cylinder.^[59][1]
+
+[[60]edit] History
+
+   [61]DOHC [62]straight-8 in a 1933 [63]Bugatti Type 59 [64]Grand Prix
+   racer
+
+   Among the early pioneers of DOHC were [65]Isotta Fraschini's
+   [66]Giustino Cattaneo, [67]Austro-Daimler's [68]Ferdinand Porsche
+   [69]Stephen Tomczak (in the Prinz Heinrich), and [70]W. O. Bentley (in
+   1919); [71]Sunbeam built small numbers between 1921 and 1923.^[72][2]
+   The first DOHC engines were two- or four-valve per cylinder designs
+   from companies like [73]Fiat (1912), [74]Peugeot Grand Prix (1913, 4
+   valve), [75]Alfa Romeo [76]GP (1914, 4 valve) and [77]6C (1925),
+   [78]Maserati [79]Tipo 26 (1926), [80]Bugatti [81]Type 51 (1931), and
+   [82]Audi^[[83]clarification needed]. Most [84]Ferraris used two-valve
+   DOHC engines as well.
+
+   When DOHC technology was introduced in mainstream vehicles, it was
+   common for it to be heavily advertised. While used at first in limited
+   production and sports cars, [85]Fiat is credited as the first car
+   company to use a belt-driven DOHC engine across their complete product
+   line, in the mid-1960s.^[[86]citation needed], although [87]Jaguar's
+   XK6 DOHC engine was displayed in the Jaguar XK120 at the London Motor
+   Show in 1948 and used across the whole Jaguar range through the late
+   1940s, 1950 and 1960s.
+
+   More than two overhead camshafts are not known to have been tried in a
+   production engine. However [88]MotoCzysz has designed a motorcycle
+   engine with a triple overhead camshaft configuration with the intake
+   ports descending through the head to two central intake ports between
+   two outside exhaust camshafts actuating one of two exhaust valve per
+   cylinder each. ^[89][3]
+
+[[90]edit] See also
+
+     * [91]Valvetrain
+     * [92]Overhead valve
+     * [93]Cam-in-block
+     * [94]Camless
+
+[[95]edit] References
+
+    1. [96]^ [97]SOHC vs DOHC Valvetrains: A Comparison
+    2. [98]^ Georgano, G. N. Cars: Early and Vintage, 1886-1930. (London:
+       Grange-Universal, 1985).
+    3. [99]^ Motoczysz triple cam engine [100][1]
+
+[[101]edit] External links
+
+     * [102]OHV, SOHC, DOHC engine animated diagrams
+
+   Retrieved from
+   "[103]http://en.wikipedia.org/wiki/Overhead_camshaft#Double_overhead_ca
+   mshafts"
+   [104]Categories: [105]Valvetrain | [106]Engine valves | [107]Motorcycle
+   engines
+   Hidden categories: [108]Articles needing additional references from
+   September 2007 | [109]All pages needing cleanup | [110]Wikipedia
+   articles needing clarification from February 2009 | [111]All articles
+   with unsourced statements | [112]Articles with unsourced statements
+   since April 2008
+
+Views
+
+     * [113]Article
+     * [114]Discussion
+     * [115]Edit this page
+     * [116]History
+
+Personal tools
+
+     * [117]Log in / create account
+
+Navigation
+
+     * [118]Main page
+     * [119]Contents
+     * [120]Featured content
+     * [121]Current events
+     * [122]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [123]About Wikipedia
+     * [124]Community portal
+     * [125]Recent changes
+     * [126]Contact Wikipedia
+     * [127]Donate to Wikipedia
+     * [128]Help
+
+Toolbox
+
+     * [129]What links here
+     * [130]Related changes
+     * [131]Upload file
+     * [132]Special pages
+     * [133]Printable version
+     * [134]Permanent link
+     * [135]Cite this page
+
+Languages
+
+     * [136]esky
+     * [137]Deutsch
+     * [138]Franais
+     * [139]Nederlands
+     * [140]Polski
+     * [141]Portugus
+     *
+     * [142]Slovenina
+     * [143]Svenska
+     * [144]Ting Vit
+     *
+
+   [145]Powered by MediaWiki
+   [146]Wikimedia Foundation
+     * This page was last modified on 6 February 2009, at 16:31.
+     * All text is available under the terms of the [147]GNU Free
+       Documentation License. (See [148]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [149]Wikimedia
+       Foundation, Inc., a U.S. registered [150]501(c)(3)
+       [151]tax-deductible [152]nonprofit [153]charity.
+     * [154]Privacy policy
+     * [155]About Wikipedia
+     * [156]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Overhead_camshaft&action=edit#Double_overhead_camshafts
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double_overhead_cam&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:Verifiability
+  11. http://en.wikipedia.org/w/index.php?title=Overhead_camshaft&action=edit
+  12. file://localhost/wiki/Wikipedia:Reliable_sources
+  13. file://localhost/wiki/Template:Fact
+  14. file://localhost/wiki/Cylinder_head
+  15. file://localhost/wiki/Poppet_valve
+  16. file://localhost/wiki/Valvetrain
+  17. file://localhost/wiki/Camshaft
+  18. file://localhost/wiki/Cylinder_head
+  19. file://localhost/wiki/Combustion_chamber
+  20. file://localhost/wiki/Poppet_valve
+  21. file://localhost/wiki/Lifter
+  22. file://localhost/wiki/Overhead_valve
+  23. file://localhost/wiki/Pushrod
+  24. file://localhost/wiki/Timing_belt
+  25. file://localhost/wiki/Roller_chain
+  26. file://localhost/wiki/Gears
+  27. file://localhost/wiki/Variable_valve_timing
+  28. file://localhost/wiki/Multi-valve
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#Single_overhead_camshaft
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#Dual_overhead_camshaft
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#History
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#See_also
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#References
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#External_links
+  35. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=1
+  36. file://localhost/wiki/Honda
+  37. file://localhost/wiki/Honda_CRX
+  38. file://localhost/wiki/Cylinder_head
+  39. file://localhost/wiki/V_engine
+  40. file://localhost/wiki/Flat_engine
+  41. file://localhost/wiki/Pushrod
+  42. file://localhost/wiki/Torque
+  43. file://localhost/wiki/Rocker_arm
+  44. file://localhost/wiki/Pushrod
+  45. file://localhost/wiki/Cylinder_head
+  46. file://localhost/wiki/Pushrod
+  47. file://localhost/wiki/Shim_(engineering)
+  48. file://localhost/wiki/Hillman_Imp
+  49. file://localhost/wiki/Saloon_car
+  50. file://localhost/wiki/Coventry_Climax
+  51. file://localhost/wiki/Crossflow_cylinder_head
+  52. file://localhost/wiki/Toyota
+  53. file://localhost/wiki/Volkswagen
+  54. file://localhost/wiki/Tappet
+  55. file://localhost/wiki/Tappet
+  56. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=2
+  57. file://localhost/wiki/Suzuki_GS_series
+  58. file://localhost/wiki/Flat-four
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_note-0
+  60. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=3
+  61. file://localhost/wiki/DOHC
+  62. file://localhost/wiki/Straight-8
+  63. file://localhost/wiki/Bugatti_Type_59
+  64. file://localhost/wiki/Grand_Prix_motor_racing
+  65. file://localhost/wiki/Isotta_Fraschini
+  66. file://localhost/w/index.php?title=Giustino_Cattaneo&action=edit&redlink=1
+  67. file://localhost/wiki/Austro-Daimler
+  68. file://localhost/wiki/Ferdinand_Porsche
+  69. file://localhost/w/index.php?title=Stephen_Tomczak&action=edit&redlink=1
+  70. file://localhost/wiki/W._O._Bentley
+  71. file://localhost/wiki/Sunbeam_Car_Company
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_note-1
+  73. file://localhost/wiki/Fiat
+  74. file://localhost/wiki/Peugeot
+  75. file://localhost/wiki/Alfa_Romeo
+  76. file://localhost/wiki/Alfa_Romeo_Grand_Prix
+  77. file://localhost/wiki/Alfa_Romeo_6C
+  78. file://localhost/wiki/Maserati
+  79. file://localhost/w/index.php?title=Maserati_Tipo_26&action=edit&redlink=1
+  80. file://localhost/wiki/Bugatti
+  81. file://localhost/wiki/Bugatti_Type_51
+  82. file://localhost/wiki/Audi
+  83. file://localhost/wiki/Wikipedia:Please_clarify
+  84. file://localhost/wiki/Ferrari
+  85. file://localhost/wiki/Fiat
+  86. file://localhost/wiki/Wikipedia:Citation_needed
+  87. file://localhost/w/index.php?title=Jaguar%27s_XK6&action=edit&redlink=1
+  88. file://localhost/wiki/MotoCzysz
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_note-2
+  90. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=4
+  91. file://localhost/wiki/Valvetrain
+  92. file://localhost/wiki/Overhead_valve
+  93. file://localhost/wiki/Cam-in-block
+  94. file://localhost/wiki/Camless
+  95. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=5
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_ref-0
+  97. http://paultan.org/archives/2005/06/22/sohc-vs-dohc-valvetrains/
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_ref-1
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc275.tmp.html#cite_ref-2
+ 100. http://www.motoczysz.com/rss_news_view.php?id=66
+ 101. file://localhost/w/index.php?title=Overhead_camshaft&action=edit&section=6
+ 102. http://www.samarins.com/glossary/dohc.html
+ 103. http://en.wikipedia.org/wiki/Overhead_camshaft#Double_overhead_camshafts
+ 104. file://localhost/wiki/Special:Categories
+ 105. file://localhost/wiki/Category:Valvetrain
+ 106. file://localhost/wiki/Category:Engine_valves
+ 107. file://localhost/wiki/Category:Motorcycle_engines
+ 108. file://localhost/wiki/Category:Articles_needing_additional_references_from_September_2007
+ 109. file://localhost/wiki/Category:All_pages_needing_cleanup
+ 110. file://localhost/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2009
+ 111. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 112. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_April_2008
+ 113. file://localhost/wiki/Overhead_camshaft
+ 114. file://localhost/wiki/Talk:Overhead_camshaft
+ 115. file://localhost/w/index.php?title=Overhead_camshaft&action=edit
+ 116. file://localhost/w/index.php?title=Overhead_camshaft&action=history
+ 117. file://localhost/w/index.php?title=Special:UserLogin&returnto=Overhead_camshaft
+ 118. file://localhost/wiki/Main_Page
+ 119. file://localhost/wiki/Portal:Contents
+ 120. file://localhost/wiki/Portal:Featured_content
+ 121. file://localhost/wiki/Portal:Current_events
+ 122. file://localhost/wiki/Special:Random
+ 123. file://localhost/wiki/Wikipedia:About
+ 124. file://localhost/wiki/Wikipedia:Community_portal
+ 125. file://localhost/wiki/Special:RecentChanges
+ 126. file://localhost/wiki/Wikipedia:Contact_us
+ 127. http://wikimediafoundation.org/wiki/Donate
+ 128. file://localhost/wiki/Help:Contents
+ 129. file://localhost/wiki/Special:WhatLinksHere/Overhead_camshaft
+ 130. file://localhost/wiki/Special:RecentChangesLinked/Overhead_camshaft
+ 131. file://localhost/wiki/Wikipedia:Upload
+ 132. file://localhost/wiki/Special:SpecialPages
+ 133. file://localhost/w/index.php?title=Overhead_camshaft&printable=yes
+ 134. file://localhost/w/index.php?title=Overhead_camshaft&oldid=268940477
+ 135. file://localhost/w/index.php?title=Special:Cite&page=Overhead_camshaft&id=268940477
+ 136. http://cs.wikipedia.org/wiki/Over_Head_Camshaft
+ 137. http://de.wikipedia.org/wiki/OHC-Ventilsteuerung
+ 138. http://fr.wikipedia.org/wiki/Arbre_%C3%A0_cames#Arbre_.C3.A0_cames_en_t.C3.AAte
+ 139. http://nl.wikipedia.org/wiki/Bovenliggende_nokkenas
+ 140. http://pl.wikipedia.org/wiki/OHC
+ 141. http://pt.wikipedia.org/wiki/OHC
+ 142. http://sk.wikipedia.org/wiki/Rozvod_OHC
+ 143. http://sv.wikipedia.org/wiki/Ventil_(maskindel)
+ 144. http://vi.wikipedia.org/wiki/C%C6%A1_c%E1%BA%A5u_ph%E1%BB%91i_kh%C3%AD_tr%E1%BB%A5c_cam_tr%C3%AAn_%C4%91%E1%BB%89nh
+ 145. http://www.mediawiki.org/
+ 146. http://wikimediafoundation.org/
+ 147. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 148. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 149. http://www.wikimediafoundation.org/
+ 150. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 151. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 152. http://en.wikipedia.org/wiki/Non-profit_organization
+ 153. http://en.wikipedia.org/wiki/Charitable_organization
+ 154. http://wikimediafoundation.org/wiki/Privacy_policy
+ 155. file://localhost/wiki/Wikipedia:About
+ 156. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 157. file://localhost/wiki/File:Question_book-new.svg
+ 158. file://localhost/wiki/File:DOHC-Zylinderkopf-Schnitt.jpg
+ 159. file://localhost/wiki/File:DOHC-Zylinderkopf-Schnitt.jpg
+ 160. file://localhost/wiki/File:Head_D15A3.JPG
+ 161. file://localhost/wiki/File:Head_D15A3.JPG
+ 162. file://localhost/wiki/File:Suzuki-GS550-DOHC.jpg
+ 163. file://localhost/wiki/File:Suzuki-GS550-DOHC.jpg
+ 164. file://localhost/wiki/File:1933_Bugatti_Type_59_Grand_Prix_engine.jpg
+ 165. file://localhost/wiki/File:1933_Bugatti_Type_59_Grand_Prix_engine.jpg
+ 166. file://localhost/wiki/Main_Page
+ 167. http://ru.wikipedia.org/wiki/SOHC
+ 168. http://zh.wikipedia.org/wiki/%E9%A1%B6%E7%BD%AE%E5%87%B8%E8%BD%AE%E8%BD%B4

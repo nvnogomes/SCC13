@@ -1,0 +1,905 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Benzoic acid
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E210)
+   Jump to: [7]navigation, [8]search
+   Benzoic acid
+   [9]IUPAC name
+
+   Benzoic acid,
+   benzene carboxylic acid
+   Other names Carboxybenzene,
+   [10]E210, dracylic acid
+   Identifiers
+   [11]CAS number 65-85-0
+   [12]PubChem [13]243
+   [14]KEGG [15]C00180
+   [16]MeSH [17]benzoic+acid
+   [18]ChEBI [19]30746
+   [20]RTECS number DG0875000
+   [21]SMILES
+
+   c1ccccc1C(=O)O
+   [22]InChI
+
+   1/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)/f/h8H
+   [23]Beilstein Reference 636131
+   [24]Gmelin Reference 2946
+   [25]ChemSpider ID [26]238
+   3DMet [27]B00053
+   Properties
+   [28]Molecular formula C[6]H[5]COOH
+   [29]Molar mass 122.12 g/mol
+   Appearance Colourless crystalline solid
+   [30]Density 1.32 g/cm^3, solid
+   [31]Melting point
+
+   122.4 C (395 K)
+   [32]Boiling point
+
+   249  C (522 K)
+   [33]Solubility in [34]water Soluble (hot water)
+   3.4 g/l (25 C)
+   [35]Solubility in [36]THF, [37]ethanol, [38]methanol THF 3.6 M, ethanol
+   2.4 M, methanol 2.9 M ^[39][1]
+   [40]Acidity (pK[a]) 4.21
+   Structure
+   [41]Crystal structure [42]Monoclinic
+   [43]Molecular shape [44]planar
+   [45]Dipole moment 1.72 [46]D in [47]Dioxane
+   Hazards
+   [48]MSDS [49]ScienceLab.com
+   Main [50]hazards Irritating
+   [51]NFPA 704
+   1
+   2
+   0
+
+   [52]R-phrases [53]R22, [54]R36
+   [55]S-phrases [56]S24
+   [57]Flash point 121 C (394 K)
+   Related compounds
+   Related carboxylic acid [58]phenylacetic acid,
+   [59]hippuric acid,
+   [60]salicylic acid
+   Related compounds [61]benzene,
+   [62]benzaldehyde,
+   [63]benzyl alcohol,
+   [64]benzylamine,
+   [65]benzyl benzoate,
+   [66]benzoyl chloride
+   Except where noted otherwise, data are given for
+   materials in their [67]standard state
+   (at 25 C, 100 kPa)
+   [68]Infobox references
+   Benzoic Acid Crystals
+
+   Benzoic acid, C[7]H[6]O[2] (or C[6]H[5]COOH), is a colorless
+   crystalline solid and the simplest [69]aromatic [70]carboxylic acid.
+   The name derived from [71]gum benzoin, which was for a long time the
+   only source for benzoic acid. This weak acid and its salts are used as
+   a food preservative. Benzoic acid is an important precursor for the
+   synthesis of many other organic substances.
+
+Contents
+
+     * [72]1 History
+     * [73]2 Production
+          + [74]2.1 Industrial preparations
+          + [75]2.2 Laboratory synthesis
+               o [76]2.2.1 By hydrolysis
+               o [77]2.2.2 From benzaldehyde
+               o [78]2.2.3 From bromobenzene
+               o [79]2.2.4 From benzyl alcohol
+          + [80]2.3 Historical preparations
+     * [81]3 Uses
+          + [82]3.1 Food preservative
+          + [83]3.2 Feedstock
+          + [84]3.3 Medicinal
+     * [85]4 Biology and health effects
+     * [86]5 Chemistry
+          + [87]5.1 Aromatic ring
+          + [88]5.2 Carboxyl group
+     * [89]6 References
+     * [90]7 Further reading
+     * [91]8 External links
+
+[[92]edit] History
+
+   Benzoic acid was discovered in the 16th century. The [93]dry
+   distillation of [94]gum benzoin first described by [95]Nostradamus
+   (1556), and subsequently by [96]Alexius Pedemontanus (1560) and
+   [97]Blaise de Vigenre (1596).^[98][2]
+
+   [99]Justus von Liebig and [100]Friedrich Whler determined the structure
+   of benzoic acid in 1832.^[101][3] They also investigated how
+   [102]hippuric acid is related to benzoic acid.
+
+   In 1875 Salkowski discovered the [103]antifungal abilities of benzoic
+   acid, which was used for a long time in the preservation of
+   benzoate-containing [104]cloudberry fruits.^[105][4]
+
+[[106]edit] Production
+
+[[107]edit] Industrial preparations
+
+   Benzoic acid is produced commercially by partial oxidation of
+   [108]toluene with [109]oxygen. The process is catalyzed by [110]cobalt
+   or [111]manganese [112]naphthenates. The process uses cheap raw
+   materials, proceeds in high yield, and is considered environmentally
+   green.
+
+   [113]toluene oxidation
+
+   U.S. production capacity is estimated to be 126,000 [114]tonnes per
+   year (139,000 tons), much of which is consumed domestically to prepare
+   other industrial chemicals.
+
+[[115]edit] Laboratory synthesis
+
+   Benzoic acid is cheap and readily available, so the laboratory
+   synthesis of benzoic acid is mainly practiced for its pedagogical
+   value. It is a common undergraduate preparation.
+
+   For all syntheses, benzoic acid can be purified by recrystallization
+   from water because of its high solubility in hot water and poor
+   solubility in cold water. The avoidance of organic solvents for the
+   recrystallization makes this experiment particularly safe. Other
+   possible recrystallization solvents include [116]acetic acid
+   ([117]anhydrous or aqueous), [118]benzene, petroleum ether, and a
+   mixture of ethanol and water.^[119][5]
+
+[[120]edit] By hydrolysis
+
+   Like any other [121]nitrile or [122]amide, [123]benzonitrile and
+   [124]benzamide can be hydrolyzed to benzoic acid or its conjugate base
+   in acid or basic conditions.
+
+[[125]edit] From benzaldehyde
+
+   The base-induced [126]disproportionation of [127]benzaldehyde, the
+   [128]Cannizzaro reaction, affords equal amounts of benzoate and
+   [129]benzyl alcohol; the latter can be removed by [130]distillation.
+
+[[131]edit] From bromobenzene
+
+   [132]Bromobenzene can be converted to benzoic acid by "carbonation" of
+   the intermediate [133]phenylmagnesium bromide:^[134][6]
+
+          C[6]H[5]MgBr + CO[2] C[6]H[5]CO[2]MgBr
+          C[6]H[5]CO[2]MgBr + HCl C[6]H[5]CO[2]H + MgBrCl
+
+[[135]edit] From benzyl alcohol
+
+   [136]Benzyl alcohol is refluxed with potassium permanganate or other
+   oxidizing reagents in water. The mixture is hot filtered to remove
+   manganese dioxide and then allowed to cool to afford benzoic acid.
+
+[[137]edit] Historical preparations
+
+   The first industrial process involved the reaction of
+   [138]benzotrichloride (trichloromethyl benzene) with [139]calcium
+   hydroxide in water, using [140]iron or [141]iron salts as
+   [142]catalyst. The resulting [143]calcium benzoate is converted to
+   benzoic acid with [144]hydrochloric acid. The product contains
+   significant amounts of chlorinated benzoic acid derivatives. For this
+   reason, benzoic acid for human consumption was obtained by dry
+   distillation of gum benzoin. Food-grade benzoic acid is now produced
+   synthetically.^[145][7]
+
+   [146]Alkyl substituted [147]benzene derivatives give benzoic acid with
+   the stoichiometric oxidants [148]potassium permanganate, [149]chromium
+   trioxide, [150]nitric acid.
+
+[[151]edit] Uses
+
+[[152]edit] Food preservative
+
+   Benzoic acid and its salts are used as a food [153]preservative,
+   represented by the [154]E-numbers [155]E210, [156]E211, [157]E212, and
+   [158]E213. Benzoic acid inhibits the growth of [159]mold,
+   [160]yeast^[161][8] and some [162]bacteria. It is either added directly
+   or created from reactions with its [163]sodium, [164]potassium, or
+   [165]calcium salt. The mechanism starts with the absorption of benzoic
+   acid in to the cell. If the intracellular [166]pH changes to 5 or
+   lower, the [167]anaerobic fermentation of [168]glucose through
+   [169]phosphofructokinase is decreased by 95%. The efficacy of benzoic
+   acid and benzoate is thus dependent on the pH of the food.^[170][9]
+   Acidic food and beverage like [171]fruit juice ([172]citric acid),
+   sparkling drinks ([173]carbon dioxide), [174]soft drinks
+   ([175]phosphoric acid), [176]pickles ([177]vinegar) or other acidified
+   food are preserved with benzoic acid and benzoates.
+
+   Typical levels of use for benzoic acid as a preservative in food are
+   between 0.05 0.1%. Foods in which benzoic acid may be used and maximum
+   levels for its application are laid down in international food
+   law.^[178][10]^[179][11]
+
+   Concern has been expressed that benzoic acid and its salts may react
+   with [180]ascorbic acid (vitamin C) in some soft drinks, forming small
+   quantities of [181]benzene.^[182][12]
+
+          See also: [183]Benzene in soft drinks
+
+[[184]edit] Feedstock
+
+   Benzoic acid is used to make a large number of chemicals, important
+   examples of which are:
+     * [185]Benzoyl chloride, C[6]H[5]C(O)Cl, is obtained by treatment of
+       benzoic with [186]thionyl chloride, [187]phosgene or one of the
+       [188]chlorides of phosphorus. C[6]H[5]C(O)Cl is an important
+       starting material for several benzoic acid derivates like
+       [189]benzyl benzoate, which is used in [190]artificial flavours and
+       [191]insect repellents.
+     * Benzoate [192]plasticizers, such as the glycol-, diethylengylcol-,
+       and triethyleneglycol esters, are obtained by
+       [193]transesterification of [194]methyl benzoate with the
+       corresponding [195]diol. Alternatively these species arise by
+       treatment of benzoylchloride with the diol. These plasticizers are
+       used similarly to those derived from terephthalic acid ester.
+     * [196]Phenol, C[6]H[5]OH, is obtained by oxidative
+       [197]decarboxylation at 300-400C. The temperature required can be
+       lowered to 200C by the addition of catalytic amounts of
+       [198]copper(II) salts. The phenol can be converted to
+       [199]cyclohexanol, which is a starting material for [200]nylon
+       synthesis.
+
+[[201]edit] Medicinal
+
+   Benzoic acid is a constituent of [202]Whitfield's Ointment which is
+   used for the treatment of fungal skin diseases such as tinea,
+   [203]ringworm, and [204]athlete's foot. ^[205][13] ^[206][14]
+
+[[207]edit] Biology and health effects
+
+   Benzoic acid occurs naturally free and bound as benzoic acid esters in
+   many plant and animal species. Appreciable amounts have been found in
+   most berries (around 0.05%). Ripe fruits of several [208]Vaccinium
+   species (e.g., [209]cranberry, V. vitis idaea; [210]bilberry, V.
+   macrocarpon) contain as much as 300-1300 mg free benzoic acid per kg
+   fruit. Benzoic acid is also formed in [211]apples after infection with
+   the fungus [212]Nectria galligena. Among animals, benzoic acid has been
+   identified primarily in omnivorous or phytophageous species, e.g., in
+   viscera and muscles of the [213]ptarmigan (Lagopus mutus) as well as in
+   gland secretions of male [214]muskoxen (Ovibos moschatus) or Asian bull
+   elephants ([215]Elephas maximus).^[216][15]
+
+   [217]Gum benzoin contains up to 20% of benzoic acid and 40% benzoic
+   acid esters.^[218][16]
+
+   Benzoic acid is present as part of [219]hippuric acid
+   (N-Benzoylglycine) in [220]urine of [221]mammals, especially
+   [222]herbivores (Gr. hippos = horse; ouron = urine). Humans produce
+   about 0.44 g/L [223]hippuric acid per day in their urine, and if the
+   person is exposed to [224]toluene or benzoic acid it can rise above
+   that level.^[225][17]
+
+   For humans, the WHO's International Programme on Chemical Safety (IPCS)
+   suggests a provisional tolerable intake would be 5 mg/kg body weight
+   per day.^[226][15] [227]Cats have a significantly lower tolerance
+   against benzoic acid and its [228]salts than [229]rats and [230]mice.
+   Lethal dose for cats can be as low as 300 mg/kg body weight.^[231][18]
+   The oral [232]LD[50] for [233]rats is 3040 mg/kg, for [234]mice [235]it
+   is 1940-2263 mg/kg.^[236][15]
+
+[[237]edit] Chemistry
+
+   Reactions of benzoic acid can occur at either the [238]aromatic ring or
+   the [239]carboxyl group:
+
+[[240]edit] Aromatic ring
+
+   [241]benzoic acid aromatic ring reactions
+
+   [242]Electrophilic aromatic substitution reaction will take place
+   mainly in 3-position to the [243]electron-withdrawing [244]carboxylic
+   group; i.e. benzoic acid is [245]meta directing.
+
+   The second substitution reaction (on the right) is slower because the
+   first nitro group is deactivating.^[246][19] Conversely, if an
+   activating group (electron-donating) was introduced (e.g., alkyl), a
+   second substitution reaction would occur more readily than the first
+   and the disubstituted product might not accumulate to a significant
+   extent.
+
+[[247]edit] Carboxyl group
+
+   All the reactions mentioned for [248]carboxylic acids are also possible
+   for benzoic acid.
+     * Benzoic acid [249]esters are the product of the acid catalysed
+       reaction with [250]alcohols.
+     * Benzoic acid [251]amides are more easily available by using
+       activated acid derivatives (such as [252]benzoyl chloride) or by
+       coupling reagents used in [253]peptide synthesis like [254]DCC and
+       [255]DMAP.
+     * The more active benzoic [256]anhydride is formed by dehydration
+       using [257]acetic anhydride or [258]phosphorus pentoxide.
+     * Highly reactive acid derivatives such as [259]acid halides are
+       easily obtained by mixing with [260]halogenation agents like
+       [261]phosphorus chlorides or [262]thionyl chloride.
+     * [263]Orthoesters can be obtained by the reaction of [264]alcohols
+       under acidic water free conditions with [265]benzonitrile.
+     * Reduction to [266]benzaldehyde and [267]benzyl alcohol is possible
+       using [268]DIBAL-H, [269]LiAlH[4] or [270]sodium borohydride.
+     * The copper catalysed [271]decarboxylation of [272]benzoate to
+       benzene may be effected by heating in [273]quinoline. Also,
+       Hunsdiecker decarboxylation can be achieved by forming the silver
+       salt and heating.
+
+   [274]benzoic acid group reactions
+
+[[275]edit] References
+
+    1. [276]^ [277]Solubility of benzoic acid in non-aqueous solvents
+    2. [278]^ Neumller O-A (1988). Rmpps Chemie-Lexikon (6 ed.).
+       Stuttgart: Frankh'sche Verlagshandlung. [279]ISBN 3-440-04516-1.
+       [280]OCLC [281]50969944.
+    3. [282]^ [283]Liebig J, [284]Whler F (1832). "Untersuchungen ber das
+       Radikal der Benzoesure". [285]Annalen der Chemie 3: 249282.
+       [286]doi:[287]10.1002/jlac.18320030302.
+    4. [288]^ Salkowski E (1875). Berl Klin Wochenschr 12: 297298.
+    5. [289]^ D. D. Perrin; W. L. F. Armarego (1988). Purification of
+       Laboratory Chemicals (3rd Edition ed.). Pergamon Press. pp. 94.
+       [290]ISBN 0-08-034715-0.
+    6. [291]^ Donald L. Pavia (2004). Introduction to Organic Laboratory
+       Techniques: A Small Scale Approach. Thomson Brooks/Cole.
+       pp. 312314. [292]ISBN 0534408338.
+    7. [293]^ Killinger-Mann, Karen (2007-09-07). [294]"What's in my...".
+       The Columbian.
+       [295]http://www.columbian.com/lifeHome/whatsinmy/10102006news66192.
+       cfm. Retrieved on 2007-09-08.
+    8. [296]^ A D Warth (12/01/1991). "[297]Mechanism of action of benzoic
+       acid on Zygosaccharomyces bailii: effects on glycolytic metabolite
+       levels, energy production, and intracellular pH". Appl Environ
+       Microbiol. 1991 December 1 (12): 1. [298]PMID 1785916.
+       [299]http://aem.asm.org/cgi/content/abstract/57/12/3410.
+    9. [300]^ Pastrorova I, de Koster CG, Boom JJ (1997). "Analytic Study
+       of Free and Ester Bound Benzoic and Cinnamic Acids of Gum Benzoin
+       Resins by GC-MS HPLC-frit FAB-MS". Phytochem Anal 8: 6373.
+       [301]doi:[302]10.1002/(SICI)1099-1565(199703)8:2<63::AID-PCA337>3.0
+       .CO;2-Y.
+   10. [303]^ [304]GSFA Online Food Additive Group Details: Benzoates
+       (2006)
+   11. [305]^ [306]EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE No 95/2/EC of
+       20 February 1995 on food additives other than colours and
+       sweeteners (Consleg-versions do not contain the latest changes in a
+       law)
+   12. [307]^
+       [308]http://www.bfr.bund.de/cm/245/indications_of_the_possible_form
+       ation_of_benzene_from_benzoic_acid_in_foods.pdf BfR article
+   13. [309]^ [310]Whitfield Ointment
+   14. [311]^ Charles Owens Wilson; Ole Gisvold; John H. Block (2004).
+       Wilson and Gisvold's Textbook of Organic Medicinal and
+       Pharmaceutical. Lippincott Williams & Wilkins. pp. 234. [312]ISBN
+       0781734819.
+   15. ^ [313]^a [314]^b [315]^c [316]Concise International Chemical
+       Assessment Document 26: BENZOIC ACID AND SODIUM BENZOATE
+   16. [317]^ Tomokuni K, Ogata M (1972). "Direct Colorimetric
+       Determination of Hippuric Acid in Urine". Clin Chem 18: 349351.
+   17. [318]^ Krebs HA, Wiggins D, Stubbs M (1983). "[319]Studies on the
+       mechanism of the antifungal action of benzoate". Biochem J 214:
+       657663. [320]http://www.biochemj.org/bj/214/0657/2140657.pdf.
+   18. [321]^ Bedford PG, Clarke EG (1972). "Experimental benzoic acid
+       poisoning in the cat". Vet Rec 90: 5358. [322]PMID 4672555.
+   19. [323]^ Brewster, R. Q.; Williams, B.; Phillips, R. (1955).
+       "[324]3,5-Dinitrobenzoic Acid". [325]Org. Synth.; Coll. Vol. 3:
+       337.
+
+[[326]edit] Further reading
+
+     * Cosmetic Ingredient Review Expert Panel Bindu Nair (2001). "Final
+       Report on the Safety Assessment of Benzyl Alcohol, Benzoic Acid,
+       and Sodium Benzoate". Int J Tox 20 (Suppl. 3): 2350.
+       [327]doi:[328]10.1080/10915810152630729.
+
+[[329]edit] External links
+
+     * [330]International Chemical Safety Card 0103
+     * [331]ChemicalLand
+
+   Retrieved from "[332]http://en.wikipedia.org/wiki/Benzoic_acid"
+   [333]Categories: [334]Organic acids | [335]Benzoic acids |
+   [336]Aromatic compounds
+
+Views
+
+     * [337]Article
+     * [338]Discussion
+     * [339]Edit this page
+     * [340]History
+
+Personal tools
+
+     * [341]Log in / create account
+
+Navigation
+
+     * [342]Main page
+     * [343]Contents
+     * [344]Featured content
+     * [345]Current events
+     * [346]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [347]About Wikipedia
+     * [348]Community portal
+     * [349]Recent changes
+     * [350]Contact Wikipedia
+     * [351]Donate to Wikipedia
+     * [352]Help
+
+Toolbox
+
+     * [353]What links here
+     * [354]Related changes
+     * [355]Upload file
+     * [356]Special pages
+     * [357]Printable version
+     * [358]Permanent link
+     * [359]Cite this page
+
+Languages
+
+     *
+     *
+     * [360]esky
+     * [361]Dansk
+     * [362]Deutsch
+     * [363]Eesti
+     * [364]Espaol
+     * [365]Franais
+     * [366]Gaeilge
+     *
+     * [367]Bahasa Indonesia
+     * [368]Italiano
+     *
+     * [369]Latvieu
+     * [370]Magyar
+     * [371]Nederlands
+     *
+     * [372]Norsk (bokml)
+     * [373]Polski
+     * [374]Portugus
+     * [375]Romn
+     *
+     * [376]Slovenina
+     * [377]Suomi
+     * [378]Svenska
+     * [379]Ting Vit
+     *
+     *
+     *
+
+   [380]Powered by MediaWiki
+   [381]Wikimedia Foundation
+     * This page was last modified on 19 February 2009, at 13:40.
+     * All text is available under the terms of the [382]GNU Free
+       Documentation License. (See [383]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [384]Wikimedia
+       Foundation, Inc., a U.S. registered [385]501(c)(3)
+       [386]tax-deductible [387]nonprofit [388]charity.
+     * [389]Privacy policy
+     * [390]About Wikipedia
+     * [391]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Benzoic_acid&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E210&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#searchInput
+   9. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  10. file://localhost/wiki/E210
+  11. file://localhost/wiki/CAS_registry_number
+  12. file://localhost/wiki/PubChem
+  13. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=243
+  14. file://localhost/wiki/KEGG
+  15. http://www.genome.ad.jp/dbget-bin/www_bget?cpd:C00180
+  16. file://localhost/wiki/Medical_Subject_Headings
+  17. http://www.nlm.nih.gov/cgi/mesh/2007/MB_cgi?mode=&term=benzoic+acid
+  18. file://localhost/wiki/ChEBI
+  19. http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30746
+  20. file://localhost/wiki/RTECS
+  21. file://localhost/wiki/Simplified_molecular_input_line_entry_specification
+  22. file://localhost/wiki/International_Chemical_Identifier
+  23. file://localhost/wiki/Beilstein_database
+  24. file://localhost/wiki/Gmelin_database
+  25. file://localhost/wiki/ChemSpider
+  26. http://www.chemspider.com/238
+  27. http://www.3dmet.dna.affrc.go.jp/html/B00053.html
+  28. file://localhost/wiki/Chemical_formula
+  29. file://localhost/wiki/Molar_mass
+  30. file://localhost/wiki/Density
+  31. file://localhost/wiki/Melting_point
+  32. file://localhost/wiki/Boiling_point
+  33. file://localhost/wiki/Solubility
+  34. file://localhost/wiki/Water
+  35. file://localhost/wiki/Solubility
+  36. file://localhost/wiki/THF
+  37. file://localhost/wiki/Ethanol
+  38. file://localhost/wiki/Methanol
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-0
+  40. file://localhost/wiki/Acid_dissociation_constant
+  41. file://localhost/wiki/Crystal_structure
+  42. file://localhost/wiki/Monoclinic
+  43. file://localhost/wiki/Molecular_geometry
+  44. file://localhost/wiki/Planar
+  45. file://localhost/wiki/Dipole#Molecular_dipoles
+  46. file://localhost/wiki/Debye
+  47. file://localhost/wiki/Dioxane
+  48. file://localhost/wiki/MSDS
+  49. http://sciencelab.com/msds.php?msdsId=9927096
+  50. file://localhost/wiki/Worker_safety_and_health
+  51. file://localhost/wiki/NFPA_704
+  52. file://localhost/wiki/List_of_R-phrases
+  53. file://localhost/wiki/R22:_Harmful_if_swallowed
+  54. file://localhost/wiki/R36:_Irritating_to_eyes
+  55. file://localhost/wiki/List_of_S-phrases
+  56. file://localhost/wiki/S24:_Avoid_contact_with_skin
+  57. file://localhost/wiki/Flash_point
+  58. file://localhost/wiki/Phenylacetic_acid
+  59. file://localhost/wiki/Hippuric_acid
+  60. file://localhost/wiki/Salicylic_acid
+  61. file://localhost/wiki/Benzene
+  62. file://localhost/wiki/Benzaldehyde
+  63. file://localhost/wiki/Benzyl_alcohol
+  64. file://localhost/wiki/Benzylamine
+  65. file://localhost/wiki/Benzyl_benzoate
+  66. file://localhost/wiki/Benzoyl_chloride
+  67. file://localhost/wiki/Standard_state
+  68. file://localhost/wiki/Wikipedia:Chemical_infobox#References
+  69. file://localhost/wiki/Aromatic
+  70. file://localhost/wiki/Carboxylic_acid
+  71. file://localhost/wiki/Gum_benzoin
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#History
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Production
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Industrial_preparations
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Laboratory_synthesis
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#By_hydrolysis
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#From_benzaldehyde
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#From_bromobenzene
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#From_benzyl_alcohol
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Historical_preparations
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Uses
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Food_preservative
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Feedstock
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Medicinal
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Biology_and_health_effects
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Chemistry
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Aromatic_ring
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Carboxyl_group
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#References
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#Further_reading
+  91. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#External_links
+  92. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=1
+  93. file://localhost/wiki/Dry_distillation
+  94. file://localhost/wiki/Gum_benzoin
+  95. file://localhost/wiki/Nostradamus
+  96. file://localhost/wiki/Alexius_Pedemontanus
+  97. file://localhost/wiki/Blaise_de_Vigen%C3%A8re
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-1
+  99. file://localhost/wiki/Justus_von_Liebig
+ 100. file://localhost/wiki/Friedrich_W%C3%B6hler
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-2
+ 102. file://localhost/wiki/Hippuric_acid
+ 103. file://localhost/wiki/Antifungal
+ 104. file://localhost/wiki/Cloudberry
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-3
+ 106. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=2
+ 107. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=3
+ 108. file://localhost/wiki/Toluene
+ 109. file://localhost/wiki/Oxygen
+ 110. file://localhost/wiki/Cobalt
+ 111. file://localhost/wiki/Manganese
+ 112. file://localhost/wiki/Naphthenate
+ 113. file://localhost/wiki/File:Benzoic_acid-chemical-synthesis-1.png
+ 114. file://localhost/wiki/Tonne
+ 115. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=4
+ 116. file://localhost/wiki/Acetic_acid
+ 117. file://localhost/wiki/Anhydrous
+ 118. file://localhost/wiki/Benzene
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-4
+ 120. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=5
+ 121. file://localhost/wiki/Nitrile
+ 122. file://localhost/wiki/Amide
+ 123. file://localhost/wiki/Benzonitrile
+ 124. file://localhost/wiki/Benzamide
+ 125. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=6
+ 126. file://localhost/wiki/Disproportionation
+ 127. file://localhost/wiki/Benzaldehyde
+ 128. file://localhost/wiki/Cannizzaro_reaction
+ 129. file://localhost/wiki/Benzyl_alcohol
+ 130. file://localhost/wiki/Distillation
+ 131. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=7
+ 132. file://localhost/wiki/Bromobenzene
+ 133. file://localhost/wiki/Phenylmagnesium_bromide
+ 134. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-5
+ 135. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=8
+ 136. file://localhost/wiki/Benzyl_alcohol
+ 137. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=9
+ 138. file://localhost/wiki/Benzotrichloride
+ 139. file://localhost/wiki/Calcium_hydroxide
+ 140. file://localhost/wiki/Iron
+ 141. file://localhost/wiki/Iron(III)_chloride
+ 142. file://localhost/wiki/Catalyst
+ 143. file://localhost/wiki/Calcium_benzoate
+ 144. file://localhost/wiki/Hydrochloric_acid
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-6
+ 146. file://localhost/wiki/Alkyl
+ 147. file://localhost/wiki/Benzene
+ 148. file://localhost/wiki/Potassium_permanganate
+ 149. file://localhost/wiki/Chromium_trioxide
+ 150. file://localhost/wiki/Nitric_acid
+ 151. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=10
+ 152. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=11
+ 153. file://localhost/wiki/Preservative
+ 154. file://localhost/wiki/E-numbers
+ 155. file://localhost/wiki/E210
+ 156. file://localhost/wiki/Sodium_benzoate
+ 157. file://localhost/wiki/Potassium_benzoate
+ 158. file://localhost/wiki/Calcium_benzoate
+ 159. file://localhost/wiki/Mold
+ 160. file://localhost/wiki/Yeast
+ 161. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-7
+ 162. file://localhost/wiki/Bacterium
+ 163. file://localhost/wiki/Sodium
+ 164. file://localhost/wiki/Potassium
+ 165. file://localhost/wiki/Calcium
+ 166. file://localhost/wiki/PH
+ 167. file://localhost/wiki/Fermentation_(biochemistry)
+ 168. file://localhost/wiki/Glucose
+ 169. file://localhost/wiki/Phosphofructokinase
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-8
+ 171. file://localhost/wiki/Fruit_juice
+ 172. file://localhost/wiki/Citric_acid
+ 173. file://localhost/wiki/Carbon_dioxide
+ 174. file://localhost/wiki/Soft_drinks
+ 175. file://localhost/wiki/Phosphoric_acid
+ 176. file://localhost/wiki/Pickling
+ 177. file://localhost/wiki/Vinegar
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-9
+ 179. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-10
+ 180. file://localhost/wiki/Ascorbic_acid
+ 181. file://localhost/wiki/Benzene
+ 182. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-11
+ 183. file://localhost/wiki/Benzene_in_soft_drinks
+ 184. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=12
+ 185. file://localhost/wiki/Benzoyl_chloride
+ 186. file://localhost/wiki/Thionyl_chloride
+ 187. file://localhost/wiki/Phosgene
+ 188. file://localhost/wiki/Phosphorus_chlorides
+ 189. file://localhost/wiki/Benzyl_benzoate
+ 190. file://localhost/wiki/Flavouring
+ 191. file://localhost/wiki/Insect_repellent
+ 192. file://localhost/wiki/Plasticizer
+ 193. file://localhost/wiki/Transesterification
+ 194. file://localhost/wiki/Methyl_benzoate
+ 195. file://localhost/wiki/Diol
+ 196. file://localhost/wiki/Phenol
+ 197. file://localhost/wiki/Decarboxylation
+ 198. file://localhost/wiki/Copper
+ 199. file://localhost/wiki/Cyclohexanol
+ 200. file://localhost/wiki/Nylon
+ 201. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=13
+ 202. file://localhost/wiki/Whitfield%27s_Ointment
+ 203. file://localhost/wiki/Ringworm
+ 204. file://localhost/wiki/Athlete%27s_foot
+ 205. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-12
+ 206. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-13
+ 207. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=14
+ 208. file://localhost/wiki/Vaccinium
+ 209. file://localhost/wiki/Cranberry
+ 210. file://localhost/wiki/Bilberry
+ 211. file://localhost/wiki/Apple
+ 212. file://localhost/wiki/Nectria_galligena
+ 213. file://localhost/wiki/Ptarmigan
+ 214. file://localhost/wiki/Muskoxen
+ 215. file://localhost/wiki/Elephas_maximus
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-concise-14
+ 217. file://localhost/wiki/Gum_benzoin
+ 218. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-15
+ 219. file://localhost/wiki/Hippuric_acid
+ 220. file://localhost/wiki/Urine
+ 221. file://localhost/wiki/Mammals
+ 222. file://localhost/wiki/Herbivores
+ 223. file://localhost/wiki/Hippuric_acid
+ 224. file://localhost/wiki/Toluene
+ 225. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-16
+ 226. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-concise-14
+ 227. file://localhost/wiki/Cats
+ 228. file://localhost/wiki/Salts
+ 229. file://localhost/wiki/Rats
+ 230. file://localhost/wiki/Mouse
+ 231. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-17
+ 232. file://localhost/wiki/LD50
+ 233. file://localhost/wiki/Rats
+ 234. file://localhost/wiki/Mice
+ 235. file://localhost/wiki/It
+ 236. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-concise-14
+ 237. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=15
+ 238. file://localhost/wiki/Aromaticity
+ 239. file://localhost/wiki/Carboxyl_group
+ 240. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=16
+ 241. file://localhost/wiki/File:Benzoic_acid-chemical-reaction-1.png
+ 242. file://localhost/wiki/Electrophilic_aromatic_substitution
+ 243. file://localhost/wiki/Deactivating_group
+ 244. file://localhost/wiki/Carboxylic_group
+ 245. file://localhost/wiki/Electrophilic_aromatic_substitution#Meta_directors
+ 246. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_note-18
+ 247. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=17
+ 248. file://localhost/wiki/Carboxylic_acid
+ 249. file://localhost/wiki/Esters
+ 250. file://localhost/wiki/Alcohols
+ 251. file://localhost/wiki/Amide
+ 252. file://localhost/wiki/Benzoyl_chloride
+ 253. file://localhost/wiki/Peptide_synthesis
+ 254. file://localhost/wiki/Dicyclohexylcarbodiimide
+ 255. file://localhost/wiki/DMAP
+ 256. file://localhost/wiki/Acid_anhydride
+ 257. file://localhost/wiki/Acetic_anhydride
+ 258. file://localhost/wiki/Phosphorus_pentoxide
+ 259. file://localhost/wiki/Acyl_halide
+ 260. file://localhost/wiki/Halogenation
+ 261. file://localhost/wiki/Phosphorus_chlorides
+ 262. file://localhost/wiki/Thionyl_chloride
+ 263. file://localhost/wiki/Orthoester
+ 264. file://localhost/wiki/Alcohols
+ 265. file://localhost/wiki/Benzonitrile
+ 266. file://localhost/wiki/Benzaldehyde
+ 267. file://localhost/wiki/Benzyl_alcohol
+ 268. file://localhost/wiki/DIBAL-H
+ 269. file://localhost/wiki/Lithium_aluminium_hydride
+ 270. file://localhost/wiki/Sodium_borohydride
+ 271. file://localhost/wiki/Decarboxylation
+ 272. file://localhost/wiki/Benzoate
+ 273. file://localhost/wiki/Quinoline
+ 274. file://localhost/wiki/File:Benzoic_acid-chemical-reaction-2.png
+ 275. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=18
+ 276. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-0
+ 277. http://oru.edu/cccda/sl/solubility/allsolvents.php?solute=benzoic%20acid
+ 278. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-1
+ 279. file://localhost/wiki/Special:BookSources/3440045161
+ 280. file://localhost/wiki/OCLC
+ 281. http://worldcat.org/oclc/50969944
+ 282. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-2
+ 283. file://localhost/wiki/Justus_von_Liebig
+ 284. file://localhost/wiki/Friedrich_W%C3%B6hler
+ 285. file://localhost/wiki/Liebigs_Annalen
+ 286. file://localhost/wiki/Digital_object_identifier
+ 287. http://dx.doi.org/10.1002%2Fjlac.18320030302
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-3
+ 289. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-4
+ 290. file://localhost/wiki/Special:BookSources/0080347150
+ 291. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-5
+ 292. file://localhost/wiki/Special:BookSources/0534408338
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-6
+ 294. http://www.columbian.com/lifeHome/whatsinmy/10102006news66192.cfm
+ 295. http://www.columbian.com/lifeHome/whatsinmy/10102006news66192.cfm
+ 296. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-7
+ 297. http://aem.asm.org/cgi/content/abstract/57/12/3410
+ 298. http://www.ncbi.nlm.nih.gov/pubmed/1785916
+ 299. http://aem.asm.org/cgi/content/abstract/57/12/3410
+ 300. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-8
+ 301. file://localhost/wiki/Digital_object_identifier
+ 302. http://dx.doi.org/10.1002%2F%28SICI%291099-1565%28199703%298%3A2%3C63%3A%3AAID-PCA337%3E3.0.CO%3B2-Y
+ 303. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-9
+ 304. http://www.codexalimentarius.net/gsfaonline/groups/details.html?id=162
+ 305. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-10
+ 306. http://europa.eu.int/eur-lex/en/consleg/pdf/1995/en_1995L0002_do_001.pdf
+ 307. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-11
+ 308. http://www.bfr.bund.de/cm/245/indications_of_the_possible_formation_of_benzene_from_benzoic_acid_in_foods.pdf
+ 309. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-12
+ 310. http://www.medipharmalimited.com/whitfield_ointment.asp
+ 311. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-13
+ 312. file://localhost/wiki/Special:BookSources/0781734819
+ 313. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-concise_14-0
+ 314. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-concise_14-1
+ 315. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-concise_14-2
+ 316. http://www.inchem.org/documents/cicads/cicads/cicad26.htm
+ 317. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-15
+ 318. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-16
+ 319. http://www.biochemj.org/bj/214/0657/2140657.pdf
+ 320. http://www.biochemj.org/bj/214/0657/2140657.pdf
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-17
+ 322. http://www.ncbi.nlm.nih.gov/pubmed/4672555
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc606.tmp.html#cite_ref-18
+ 324. http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv3p0337
+ 325. file://localhost/wiki/Organic_Syntheses
+ 326. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=19
+ 327. file://localhost/wiki/Digital_object_identifier
+ 328. http://dx.doi.org/10.1080%2F10915810152630729
+ 329. file://localhost/w/index.php?title=Benzoic_acid&action=edit&section=20
+ 330. http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc01/icsc0103.htm
+ 331. http://www.chemicalland21.com/arokorhi/industrialchem/organic/BENZOIC%20ACID.htm
+ 332. http://en.wikipedia.org/wiki/Benzoic_acid
+ 333. file://localhost/wiki/Special:Categories
+ 334. file://localhost/wiki/Category:Organic_acids
+ 335. file://localhost/wiki/Category:Benzoic_acids
+ 336. file://localhost/wiki/Category:Aromatic_compounds
+ 337. file://localhost/wiki/Benzoic_acid
+ 338. file://localhost/wiki/Talk:Benzoic_acid
+ 339. file://localhost/w/index.php?title=Benzoic_acid&action=edit
+ 340. file://localhost/w/index.php?title=Benzoic_acid&action=history
+ 341. file://localhost/w/index.php?title=Special:UserLogin&returnto=Benzoic_acid
+ 342. file://localhost/wiki/Main_Page
+ 343. file://localhost/wiki/Portal:Contents
+ 344. file://localhost/wiki/Portal:Featured_content
+ 345. file://localhost/wiki/Portal:Current_events
+ 346. file://localhost/wiki/Special:Random
+ 347. file://localhost/wiki/Wikipedia:About
+ 348. file://localhost/wiki/Wikipedia:Community_portal
+ 349. file://localhost/wiki/Special:RecentChanges
+ 350. file://localhost/wiki/Wikipedia:Contact_us
+ 351. http://wikimediafoundation.org/wiki/Donate
+ 352. file://localhost/wiki/Help:Contents
+ 353. file://localhost/wiki/Special:WhatLinksHere/Benzoic_acid
+ 354. file://localhost/wiki/Special:RecentChangesLinked/Benzoic_acid
+ 355. file://localhost/wiki/Wikipedia:Upload
+ 356. file://localhost/wiki/Special:SpecialPages
+ 357. file://localhost/w/index.php?title=Benzoic_acid&printable=yes
+ 358. file://localhost/w/index.php?title=Benzoic_acid&oldid=271825679
+ 359. file://localhost/w/index.php?title=Special:Cite&page=Benzoic_acid&id=271825679
+ 360. http://cs.wikipedia.org/wiki/Kyselina_benzoov%C3%A1
+ 361. http://da.wikipedia.org/wiki/Benzoesyre
+ 362. http://de.wikipedia.org/wiki/Benzoes%C3%A4ure
+ 363. http://et.wikipedia.org/wiki/Bensoehape
+ 364. http://es.wikipedia.org/wiki/%C3%81cido_benzoico
+ 365. http://fr.wikipedia.org/wiki/Acide_benzo%C3%AFque
+ 366. http://ga.wikipedia.org/wiki/Aig%C3%A9ad_beans%C3%B3ch
+ 367. http://id.wikipedia.org/wiki/Asam_benzoat
+ 368. http://it.wikipedia.org/wiki/Acido_benzoico
+ 369. http://lv.wikipedia.org/wiki/Benzosk%C4%81be
+ 370. http://hu.wikipedia.org/wiki/Benzoesav
+ 371. http://nl.wikipedia.org/wiki/Benzo%C3%ABzuur
+ 372. http://no.wikipedia.org/wiki/Benzosyre
+ 373. http://pl.wikipedia.org/wiki/Kwas_benzoesowy
+ 374. http://pt.wikipedia.org/wiki/%C3%81cido_benz%C3%B3ico
+ 375. http://ro.wikipedia.org/wiki/Acid_benzoic
+ 376. http://sk.wikipedia.org/wiki/Kyselina_benzoov%C3%A1
+ 377. http://fi.wikipedia.org/wiki/Bentsoehappo
+ 378. http://sv.wikipedia.org/wiki/Bensoesyra
+ 379. http://vi.wikipedia.org/wiki/Ax%C3%ADt_benzoic
+ 380. http://www.mediawiki.org/
+ 381. http://wikimediafoundation.org/
+ 382. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 383. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 384. http://www.wikimediafoundation.org/
+ 385. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 386. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 387. http://en.wikipedia.org/wiki/Non-profit_organization
+ 388. http://en.wikipedia.org/wiki/Charitable_organization
+ 389. http://wikimediafoundation.org/wiki/Privacy_policy
+ 390. file://localhost/wiki/Wikipedia:About
+ 391. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 392. file://localhost/wiki/File:Benzoic_acid.svg
+ 393. file://localhost/wiki/File:Benzoic-acid-3D-vdW.png
+ 394. file://localhost/wiki/File:NFPA_704.svg
+ 395. file://localhost/wiki/File:S-Sci-ArCOOH.jpg
+ 396. file://localhost/wiki/File:S-Sci-ArCOOH.jpg
+ 397. file://localhost/wiki/File:Benzaldehyde_Cannizzaro_reaction.png
+ 398. file://localhost/wiki/Main_Page
+ 399. http://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%88%D9%8A%D9%83
+ 400. http://bg.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%BE%D0%B5%D0%BD%D0%B0_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0
+ 401. http://ko.wikipedia.org/wiki/%EB%B2%A4%EC%A1%B0%EC%82%B0
+ 402. http://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%A6%D7%94_%D7%91%D7%A0%D7%96%D7%95%D7%90%D7%99%D7%AA
+ 403. http://ja.wikipedia.org/wiki/%E5%AE%89%E6%81%AF%E9%A6%99%E9%85%B8
+ 404. http://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0
+ 405. http://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%BE%D0%B9%D0%BD%D0%B0_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0
+ 406. http://ur.wikipedia.org/wiki/%D8%A8%DB%8C%D9%86%D8%B2%D9%88%D8%A6%DA%A9_%D8%AA%DB%8C%D8%B2%D8%A7%D8%A8
+ 407. http://zh.wikipedia.org/wiki/%E8%8B%AF%E7%94%B2%E9%85%B8

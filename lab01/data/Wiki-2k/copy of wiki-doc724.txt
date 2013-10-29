@@ -1,0 +1,529 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Earthdawn
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   Earthdawn Gamemaster's Compendium (RedBrick Limited)
+
+   CAPTION: Earthdawn
+
+   [8]Designer [9]Greg Gorden
+   [10]Publisher [11]FASA (1st edition)
+   Living Room Games (2nd edition)
+   RedBrick Limited (Classic edition)
+   Publication date 1993 (1st edition)
+   2001 (2nd edition)
+   2005 (Classic edition)
+   Genre(s) [12]Fantasy
+   System [13]Step System
+   Set in the same world as [14]Shadowrun, [15]millennia earlier
+
+   Earthdawn is a [16]fantasy [17]role-playing game, originally produced
+   by [18]FASA in 1993.^[19][1] In 1999 it was licensed to Living Room
+   Games, which produced the Second Edition line. It is currently licensed
+   to RedBrick Limited, a company that is producing the Classic or
+   RedBrick's Earthdawn line (which is essentially an alternative second
+   edition; see History below for more information).
+
+   The game is similar to fantasy games like [20]Dungeons & Dragons, but
+   draws more inspiration from games like [21]RuneQuest. The rules of the
+   game are tightly bound to the underlying [22]magical [23]metaphysics,
+   with the goal of creating a richer, more realistic fantasy world. Like
+   many role-playing games from the nineties, Earthdawn focuses much of
+   its detail on its [24]setting, a province called Barsaive.
+
+Contents
+
+     * [25]1 History
+     * [26]2 Setting
+          + [27]2.1 Races
+          + [28]2.2 Political entities
+          + [29]2.3 Magic in Earthdawn
+     * [30]3 Game mechanics
+     * [31]4 Publications
+     * [32]5 References
+     * [33]6 External links
+
+[[34]edit] History
+
+   Starting in 1993, FASA released over 20 gaming supplements describing
+   this universe; however, it closed down production of Earthdawn in
+   January 1999. During that time several [35]novels and short story
+   anthologies set in the Earthdawn universe were also released. In late
+   1999, FASA granted Living Room Games a licensing agreement to produce
+   new material for the game.
+
+   The 2nd Edition did not alter the setting, though it did update the
+   timeline to include events that took place in Barsaive. There were a
+   few changes to the rules in the 2nd Edition; some classes were slightly
+   different or altered abilities from the original. The changes were
+   meant to allow for more rounded-out characters and better balance of
+   play. Living Room Games last published in 2005, and they no longer have
+   a license with FASA to publish Earthdawn material.^[36][2]
+
+   In 2003, a second license was granted to RedBrick Limited, who are
+   currently developing their own line based on the FASA products, while
+   releasing the original FASA books in PDF form. The Earthdawn Player's
+   Compendium and Earthdawn Gamemaster's Compendium are essentially an
+   alternative second edition, but without a version designation (since
+   the material is compatible anyway). Each book has over 500 pages, and
+   summarizes much of what FASA published not only the game mechanics, but
+   also the setting, narrations, and stories. For example, each Discipline
+   has its own chapter, describing it from the point of view of different
+   adepts. Likewise, Barsaive gets a complete treatment, and the chapters
+   contain a lot of log entries and stories in addition to the setting
+   descriptions; the same applies also to Horrors and Dragons.
+   Earthdawn Player's Compendium (RedBrick Limited)
+
+   While RedBrick Limited tried to remain faithful to FASA's vision and
+   also tried to keep the visual style, they revised almost everything,
+   and introduced some new material to fill the gaps. RedBrick Limited
+   also began publishing Earthdawn novels in 2007. On July 8th 2008,
+   RedBrick announced a new line called Age of Legend 4e, a port of the
+   Earthdawn setting for use with the Dungeons & Dragons 4th Edition
+   rules.
+
+   In 1999 [37]Pyramid magazine named Earthdawn as one of The Millennium's
+   Most Underrated Games. Editor Scott Haring noted (referring to the FASA
+   edition) that "Earthdawn had an original, inventive magic system (no
+   mean trick given the hundreds of fantasy RPGs that came before), and a
+   game world that gave you the classic "monsters and dungeons" sort of
+   RPG experience, but made sense doing it."^[38][3]
+
+[[39]edit] Setting
+
+   In Barsaive, magic, like many things in nature, goes through cycles. As
+   the magic level rises, it allows alien creatures called [40]Horrors to
+   cross from their distant, otherworldly [41]dimension into our own. The
+   Horrors come in an almost infinite variety -- from simple eating
+   machines that devour all they encounter, to incredibly intelligent and
+   cunning foes that feed off the negative emotions they inspire in their
+   prey.
+
+   In the distant past of Earthdawn's setting, an [42]elf scholar
+   discovered that the time of the Horrors was approaching, and founded
+   the Eternal Library in order to discover a way to defeat them or at the
+   very least, survive them. The community that grew up around the library
+   developed wards and protections against the Horrors, which they traded
+   to other lands and eventually became the powerful [43]Theran Empire, an
+   extremely magically advanced civilization and the main antagonist of
+   the Earthdawn setting.
+
+   The peoples of the world built kaers, underground towns and cities,
+   which they sealed with the Theran wards to wait out the time of the
+   Horrors, which was called the Scourge. Theran wizards and politicians
+   warned many of the outlying nations around Thera of the coming of the
+   Horrors, offering the protection of the kaers to those who would pledge
+   their loyalty to the Empire. Most of these nations agreed at first
+   though some became unwilling to fulfill their end of the bargain after
+   the end of the Scourge, wanting to have nothing to do with the
+   bureaucratic nation run on political conflict and powered by slavery.
+   After four hundred years of hiding, the Scourge ended, and the people
+   emerged to a world changed by the Horrors. The player characters
+   explore this new world, discovering lost secrets of the past, and
+   fighting Horrors that remain.
+
+   The primary setting of Earthdawn is Barsaive, a former province of the
+   Theran Empire. Barsaive is a region of city-states, independent from
+   the Therans since the [44]dwarven Kingdom of Throal led a rebellion
+   against their former overlords.
+
+   The Theran presence in Barsaive has been limited to a small part of
+   south-western Barsaive, based around the magical fortress of Sky Point
+   and the city of Vivane.
+
+   The setting of Earthdawn is the same world as [45]Shadowrun, but takes
+   place Millennia earlier.
+
+[[46]edit] Races
+
+   The setting of Earthdawn features several fantasy races for characters
+   and NPCs:
+    1. [47]Dwarf - Dwarfs in Earthdawn are similar in appearance to the
+       classic [48]D&D or [49]Tolkien dwarves. They are the predominant
+       race in Barsaive, and the dwarf language is considered the common
+       language. Their culture, especially of the dominant Throal Kingdom,
+       can be considered more of a [50]Renaissance-level culture than in
+       most other fantasy settings, and form the main source of resistance
+       to a return of [51]Thera's rule in Barsaive.
+    2. [52]Elf - Elves in Earthdawn fit the common fantasy role-playing
+       convention; they are tall, lithe, pointy-eared humanoids who prefer
+       living in nature. Elves in Earthdawn naturally live a very long
+       time; some are thought to be immortal. Such immortal Elves feature
+       in many cross-pollinated storylines with [53]Shadowrun. A
+       subspecies of Earthdawn elves are called the Blood Elves. The blood
+       elves rejected the Theran protective magic, and attempted their own
+       warding spells. These wards failed, and a last-ditch ritual caused
+       thorns to thrust through the skin of the blood elves. These
+       ever-bleeding wounds caused constant pain, but the self-inflicted
+       suffering was enough to protect the blood elves from the worst of
+       the horrors.
+    3. [54]Human - Humans in Earthdawn are physically similar to humans in
+       our own real world. Human adepts are granted a special Versatility
+       talent to make them more mechanically appealing. Humans in
+       Earthdawn are considered to be somewhat warlike in general outlook.
+    4. Obsidiman - Obsidimen are a race of large, rock-based humanoids.
+       They stand over 7 feet tall and weigh over 900 pounds. Their
+       primary connection is to their Liferock, which is a large formation
+       of stone within four hours of their place of birth. Obsidimen are
+       loyal to the community around their Liferock, and eventually return
+       to it. Obsidimen can live around 500 years away from their
+       Liferock, and their ultimate lifespan is unknown, as they generally
+       return to it and remain there. Due to their rocky nature and long
+       lives, obsidimen are rather slow moving and deliberate in both
+       speech and action, and can have difficulty understanding the
+       smaller races' need for haste. However, if aroused by a threat to
+       self, friend, or community, obsidimen are fearsome to behold.
+    5. [55]Ork - The ork race in Earthdawn is similar to other depictions
+       of orks in fantasy role-playing. They are tribal, nomadic and often
+       barbaric humanoids, with green, tan, beige or ebony skin. They are
+       relatively short-lived, and as a result many attempt to leave a
+       legacy marked by a memorable death - preferably one that leaves no
+       corpse. Before the Scourge almost all orks were enslaved by other
+       races.
+    6. [56]Troll - The troll race in Earthdawn is also similar to other
+       fantasy role-playing depictions of trolls. They are very tall
+       humanoids, with a hardened skin and horns. Socially, they form
+       clans to which they are fiercely loyal. Troll clans often raid one
+       another, and a significant subset of the troll race are crystal
+       raiders, which command many of the airships of Barsaive. Other
+       trolls, known as lowland trolls, have merged with mixed communities
+       around Barsaive, although most retain the fierce cultural and
+       personal pride of their less-civilized cousins.
+    7. T'skrang - The t'skrang are lizard-like amphibian humanoids with
+       long tails and a flair for dramatics. Many of them exhibit the
+       behaviors and characteristics which are stereotypical to a
+       "swashbuckler". T'skrang are often sailors, and many t'skrang
+       families run ships up and down the rivers of Barsaive. A rare
+       subrace of t'skrang, the k'stulaami, possess a flap of skin much
+       like a [57]flying squirrel, allowing them to glide. While
+       k'stulaami can be born as a random mutation in any t'skrang line,
+       they tend to congregate into communities filled with their own
+       kind.
+    8. Windling - The windlings are small, winged humanoids; similar to
+       many depictions of [58]fae creatures, they resemble small elves
+       with insect-like wings. They have the ability to see into the
+       astral plane, and are considerably luckier than the other races.
+       Windlings are often somewhat mischievous, hedonistic, and eager for
+       new experiences, and are culturally similar to the [59]Kender of
+       [60]Krynn, but without the same [61]kleptomaniacal tendencies. They
+       have wings similar to those of a dragonfly and are one to two feet
+       in height.
+
+[[62]edit] Political entities
+
+   Barsaive
+
+          + Throal Kingdom/Throal (dwarves, monarchy)
+          + Iopos (city state, magocracy)
+          + Blood Wood (Elves, monarchy)
+          + Kratas (city of thieves, kleptocracy)
+          + Urupa (city-state, important port)
+          + Jerris (city-state)
+          + Travar (city-state)
+          + Trollish clans of mountains (sky raiders)
+          + T'skrang clans (aropagoi) of the Serpent River (traders)
+          + Vivane (city-state, under occupation by Thera)
+          + Haven and Parlainth (ruins)
+          + Great Dragons
+          + various Secret Societies
+
+   Outside Barsaive
+
+          + [63]Theran Empire (Thera)
+          + Cathay (Orient)
+          + Indrisa (India)
+          + Shosara (Elves)
+          + Talea (Italy)
+          + Creana (Egypt)
+          + Marac (North Africa)
+          + Vasgothia (Northern Europe)
+
+[[64]edit] Magic in Earthdawn
+
+   Earthdawn's magic system is highly varied but the essential idea is
+   that every player character (called [65]Adepts) has some access to
+   magic, used to perform abilities attained through their Disciplines.
+
+   One of the most innovative ideas in Earthdawn is how magical items
+   work. At first, most magical items work exactly like a mundane item of
+   the same type. As a character searches for information about the item's
+   history, performs certain tasks relating to that history, and spends
+   legend points (the Earthdawn equivalent of [66]experience points) to
+   activate the item, he unlocks some of the magic in the item. As the
+   character learns more about the item and its history, he can unlock
+   more and more power within the item.
+
+   Each magical item, therefore, is unique by virtue of its history and
+   the scope of its powers. For example, one magical broadsword may have
+   only 4 magical ranks and only increases the damage of the blade. On the
+   other hand the legendary sword Purifier, has 10 magical ranks and
+   grants its wielder numerous powers.
+
+[[67]edit] Game mechanics
+
+   The Earthdawn Companion 2nd Edition cover shows Throal, the capital of
+   Barsaive
+
+   Earthdawn stands out from other tabletop RPGs with a unique approach to
+   skill tests. Players wanting to perform an action determines their
+   level or "step" for the skill, talent, or ability to be used. This step
+   can then be looked up in a list of dice to be thrown.
+
+   CAPTION: Examples of steps
+
+   Step              Dice to be thrown
+   3    1D4
+   4    1D6
+   5    1D8
+   6    1D10
+   7    1D12
+   8    2D6
+   9    1D8 + 1D6
+   10   1D10+1D6
+   11   1D10+1D8
+   12   2D10
+   13   1D12+1D10
+   14   1D20+1D4 or 2D12 (Earthdawn Classic option)
+
+   The result of each die is added (dice which reach their maximum value
+   are thrown again, adding each maximum to the tally, along with the
+   final result below maximum) and compared to a value decided by the game
+   master/storyteller according to the difficulty of the task. This
+   approach allows for impressively high scores with high level
+   characters, yet leaves room for possible failure. This will sometimes
+   make combat last longer than in other games.
+
+[[68]edit] Publications
+
+   See [69]list of Earthdawn books.
+
+[[70]edit] References
+
+    1. [71]^ Staff (December 1993). "Feature Review: Earthdawn".
+       [72]Shadis (10).
+    2. [73]^ [74]"Living Room Games Forums". 2009-01-30.
+       [75]http://forums.lrgames.com/forum/viewtopic.php?t=1043&postdays=0
+       &postorder=asc&start=30. Retrieved on 2009-01-31.
+    3. [76]^ Haring, Scott D. (1999-11-25). "[77]Second Sight: The
+       Millennium's Most Influential Company and The Millennium's Most
+       Underrated Game". [78]Pyramid (online).
+       [79]http://www.sjgames.com/pyramid/login/article.html?id=1240.
+       Retrieved on 16 February 2008.
+
+[[80]edit] External links
+
+     * [81]RedBrick Limited Earthdawn Homepage
+     * [82]RedBrick Limited Age of Legend 4e Homepage
+     * [83]Living Room Games Earthdawn Homepage
+     * [84]Earthdawn Journal ezine
+     * [85]Internet Archive of FASA's official Earthdawn page
+
+   Retrieved from "[86]http://en.wikipedia.org/wiki/Earthdawn"
+   [87]Category: [88]Earthdawn
+
+Views
+
+     * [89]Article
+     * [90]Discussion
+     * [91]Edit this page
+     * [92]History
+
+Personal tools
+
+     * [93]Log in / create account
+
+Navigation
+
+     * [94]Main page
+     * [95]Contents
+     * [96]Featured content
+     * [97]Current events
+     * [98]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [99]About Wikipedia
+     * [100]Community portal
+     * [101]Recent changes
+     * [102]Contact Wikipedia
+     * [103]Donate to Wikipedia
+     * [104]Help
+
+Toolbox
+
+     * [105]What links here
+     * [106]Related changes
+     * [107]Upload file
+     * [108]Special pages
+     * [109]Printable version
+     * [110]Permanent link
+     * [111]Cite this page
+
+Languages
+
+     * [112]Deutsch
+     * [113]Franais
+     * [114]Magyar
+     *
+     * [115]Polski
+
+   [116]Powered by MediaWiki
+   [117]Wikimedia Foundation
+     * This page was last modified on 2 February 2009, at 14:29.
+     * All text is available under the terms of the [118]GNU Free
+       Documentation License. (See [119]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [120]Wikimedia
+       Foundation, Inc., a U.S. registered [121]501(c)(3)
+       [122]tax-deductible [123]nonprofit [124]charity.
+     * [125]Privacy policy
+     * [126]About Wikipedia
+     * [127]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Earthdawn&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#searchInput
+   8. file://localhost/wiki/Game_designer
+   9. file://localhost/w/index.php?title=Greg_Gorden&action=edit&redlink=1
+  10. file://localhost/wiki/Game_publisher
+  11. file://localhost/wiki/FASA_Corporation
+  12. file://localhost/wiki/Fantasy
+  13. file://localhost/w/index.php?title=Step_System&action=edit&redlink=1
+  14. file://localhost/wiki/Shadowrun
+  15. file://localhost/wiki/Millennium
+  16. file://localhost/wiki/Fantasy
+  17. file://localhost/wiki/Role-playing_game
+  18. file://localhost/wiki/FASA_Corporation
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_note-0
+  20. file://localhost/wiki/Dungeons_%26_Dragons
+  21. file://localhost/wiki/RuneQuest
+  22. file://localhost/wiki/Magic_(gaming)
+  23. file://localhost/wiki/Metaphysics
+  24. file://localhost/wiki/Fantasy_world
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#History
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Setting
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Races
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Political_entities
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Magic_in_Earthdawn
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Game_mechanics
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#Publications
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#References
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#External_links
+  34. file://localhost/w/index.php?title=Earthdawn&action=edit&section=1
+  35. file://localhost/wiki/Novel
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_note-1
+  37. file://localhost/wiki/Pyramid_(magazine)
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_note-2
+  39. file://localhost/w/index.php?title=Earthdawn&action=edit&section=2
+  40. file://localhost/wiki/Horrors
+  41. file://localhost/wiki/Dimension
+  42. file://localhost/wiki/Elf
+  43. file://localhost/wiki/Theran_Empire
+  44. file://localhost/wiki/Dwarf
+  45. file://localhost/wiki/Shadowrun
+  46. file://localhost/w/index.php?title=Earthdawn&action=edit&section=3
+  47. file://localhost/wiki/Dwarf
+  48. file://localhost/wiki/Dungeons_%26_Dragons
+  49. file://localhost/wiki/Tolkien
+  50. file://localhost/wiki/Renaissance
+  51. file://localhost/wiki/Theran_Empire
+  52. file://localhost/wiki/Elf
+  53. file://localhost/wiki/Shadowrun
+  54. file://localhost/wiki/Human
+  55. file://localhost/wiki/Orc
+  56. file://localhost/wiki/Troll
+  57. file://localhost/wiki/Flying_squirrel
+  58. file://localhost/wiki/Fairy
+  59. file://localhost/wiki/Kender
+  60. file://localhost/wiki/Krynn
+  61. file://localhost/wiki/Kleptomania
+  62. file://localhost/w/index.php?title=Earthdawn&action=edit&section=4
+  63. file://localhost/wiki/Theran_Empire
+  64. file://localhost/w/index.php?title=Earthdawn&action=edit&section=5
+  65. file://localhost/wiki/Adepts
+  66. file://localhost/wiki/Experience_points
+  67. file://localhost/w/index.php?title=Earthdawn&action=edit&section=6
+  68. file://localhost/w/index.php?title=Earthdawn&action=edit&section=7
+  69. file://localhost/wiki/List_of_Earthdawn_books
+  70. file://localhost/w/index.php?title=Earthdawn&action=edit&section=8
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_ref-0
+  72. file://localhost/wiki/Shadis
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_ref-1
+  74. http://forums.lrgames.com/forum/viewtopic.php?t=1043&postdays=0&postorder=asc&start=30
+  75. http://forums.lrgames.com/forum/viewtopic.php?t=1043&postdays=0&postorder=asc&start=30
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc724.tmp.html#cite_ref-2
+  77. http://www.sjgames.com/pyramid/login/article.html?id=1240
+  78. file://localhost/wiki/Pyramid_(magazine)
+  79. http://www.sjgames.com/pyramid/login/article.html?id=1240
+  80. file://localhost/w/index.php?title=Earthdawn&action=edit&section=9
+  81. http://www.earthdawn.com/
+  82. http://www.ageoflegend4e.com/
+  83. http://earthdawn.lrgames.com/
+  84. http://www.fortunecity.com/rivendell/rhydin/91/
+  85. http://web.archive.org/web/*/http://www.fasa.com/Earthdawn/EDMainPage.html
+  86. http://en.wikipedia.org/wiki/Earthdawn
+  87. file://localhost/wiki/Special:Categories
+  88. file://localhost/wiki/Category:Earthdawn
+  89. file://localhost/wiki/Earthdawn
+  90. file://localhost/wiki/Talk:Earthdawn
+  91. file://localhost/w/index.php?title=Earthdawn&action=edit
+  92. file://localhost/w/index.php?title=Earthdawn&action=history
+  93. file://localhost/w/index.php?title=Special:UserLogin&returnto=Earthdawn
+  94. file://localhost/wiki/Main_Page
+  95. file://localhost/wiki/Portal:Contents
+  96. file://localhost/wiki/Portal:Featured_content
+  97. file://localhost/wiki/Portal:Current_events
+  98. file://localhost/wiki/Special:Random
+  99. file://localhost/wiki/Wikipedia:About
+ 100. file://localhost/wiki/Wikipedia:Community_portal
+ 101. file://localhost/wiki/Special:RecentChanges
+ 102. file://localhost/wiki/Wikipedia:Contact_us
+ 103. http://wikimediafoundation.org/wiki/Donate
+ 104. file://localhost/wiki/Help:Contents
+ 105. file://localhost/wiki/Special:WhatLinksHere/Earthdawn
+ 106. file://localhost/wiki/Special:RecentChangesLinked/Earthdawn
+ 107. file://localhost/wiki/Wikipedia:Upload
+ 108. file://localhost/wiki/Special:SpecialPages
+ 109. file://localhost/w/index.php?title=Earthdawn&printable=yes
+ 110. file://localhost/w/index.php?title=Earthdawn&oldid=268036791
+ 111. file://localhost/w/index.php?title=Special:Cite&page=Earthdawn&id=268036791
+ 112. http://de.wikipedia.org/wiki/Earthdawn
+ 113. http://fr.wikipedia.org/wiki/Earthdawn
+ 114. http://hu.wikipedia.org/wiki/Earthdawn
+ 115. http://pl.wikipedia.org/wiki/Earthdawn
+ 116. http://www.mediawiki.org/
+ 117. http://wikimediafoundation.org/
+ 118. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 119. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 120. http://www.wikimediafoundation.org/
+ 121. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 122. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 123. http://en.wikipedia.org/wiki/Non-profit_organization
+ 124. http://en.wikipedia.org/wiki/Charitable_organization
+ 125. http://wikimediafoundation.org/wiki/Privacy_policy
+ 126. file://localhost/wiki/Wikipedia:About
+ 127. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 128. file://localhost/wiki/File:Earthdawngmc.jpg
+ 129. file://localhost/wiki/File:Earthdawngmc.jpg
+ 130. file://localhost/wiki/File:EDplayerscomp.jpg
+ 131. file://localhost/wiki/File:EDplayerscomp.jpg
+ 132. file://localhost/wiki/File:Earthdawn_companion_ldged-201.jpg
+ 133. file://localhost/wiki/File:Earthdawn_companion_ldged-201.jpg
+ 134. file://localhost/wiki/Main_Page
+ 135. http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%89%E3%83%BC%E3%83%B3

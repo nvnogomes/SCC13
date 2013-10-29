@@ -1,0 +1,269 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Indices of economic freedom
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Economic Freedom of the World Index)
+   Jump to: [7]navigation, [8]search
+
+   A number of indicators of economic freedom have been proposed. They
+   differ in the methods by which they have been constructed, the purposes
+   to which they have been put and the conception of [9]economic freedom
+   they embody.
+
+Contents
+
+     * [10]1 Economic Freedom of the World
+     * [11]2 Index of Economic Freedom
+     * [12]3 World Survey of Economic Freedom
+     * [13]4 India
+     * [14]5 References
+
+[[15]edit] Economic Freedom of the World
+
+          Main article: [16]Economic Freedom of the World
+
+   The annual survey Economic Freedom of the World is an indicator of
+   economic freedom produced by the Canadian [17]Fraser Institute. The
+   index uses a definition of economic freedom similar to
+   [18]laissez-faire [19]capitalism and it has been more widely used than
+   any measure of economic freedom, because of its coverage of a longer
+   time period. According to the index, the cornerstones of economic
+   freedom are personal choice, voluntary exchange, freedom to compete,
+   and security of privately owned property.
+
+   In practice, the index measures:
+     * Size of Government: Expenditures, Taxes, and Enterprises
+     * Legal Structure and Security of Property Rights
+     * Access to Sound Money
+     * Freedom to Trade Internationally
+     * Regulation of Credit, Labor, and Business
+
+   The report uses 42 distinct variables, from for example the [20]World
+   Bank, to measure this. Some examples: tax rates, degree of juridical
+   independence, inflation rates, costs of importing, and regulated
+   prices. Each of the 5 areas above is given equal weight in the final
+   score.^[21][1]
+
+[[22]edit] Index of Economic Freedom
+
+          Main article: [23]Index of Economic Freedom
+
+   The Index of Economic Freedom is a series of 10 economic measurements
+   created by the [24]Heritage Foundation and [25]Wall Street Journal. The
+   Index's definition of economic freedom is the following; "Economic
+   freedom is the fundamental right of every human to control his or her
+   own labor and property. In an economically free society, individuals
+   are free to work, produce, consume, and invest in any way they please,
+   with that freedom both protected by the state and unconstrained by the
+   state. In economically free societies, governments allow labor, capital
+   and goods to move freely, and refrain from coercion or constraint of
+   liberty beyond the extent necessary to protect and maintain liberty
+   itself." ^[26][2]
+
+   The index scores nations on 10 broad factors of economic freedom using
+   statistics from organizations like the [27]World Bank, the [28]IMF and
+   the [29]Economist Intelligence Unit:
+     * Business Freedom
+     * Trade Freedom
+     * Monetary Freedom
+     * Government Size
+     * Fiscal Freedom
+     * Property Rights
+     * Investment Freedom
+     * Financial Freedom
+     * Freedom from Corruption
+     * Labor Freedom
+
+   The 10 factors are averaged equally into a total score.
+
+[[30]edit] World Survey of Economic Freedom
+
+   [31]Freedom House published a measure of economic freedom in 1996, but
+   publication of this measure has been discontinued. They defined
+   economic freedom through two dimensions lack of state infringements on
+   citizens' rights to exchange goods and services, and state
+   establishment of the rules governing contracts, property rights and
+   other institutional prerequisites required for the conduct of economic
+   affairs. To determine level of economic freedom Freedom House used six
+   indicators:^[32][3]
+     * freedom to hold property
+     * freedom to earn a living
+     * freedom to operate a business
+     * freedom to invest one's earnings
+     * freedom to trade internationally
+     * freedom to participate in the market economy
+
+[[33]edit] India
+
+   Two different measures have been proposed for India, both called
+   Economic Freedom Index for India.[34][1]. One is produced by Bibek
+   Debroy, Shubashis Gangopadhyay and Laveesh Bhandari and places weight
+   on measures of both [35]positive freedom and [36]negative freedom. The
+   other is an adaption of the Fraser Institute measure produced by the
+   [37]Rajiv Gandhi Institute for Contemporary Studies [38][2]
+
+[[39]edit] References
+
+    1. [40]^ [41]Economic Freedom of the World: 2008 Annual Report
+    2. [42]^ [43]"Frequently Asked Questions". Index of Economic Freedom.
+       [44]http://www.heritage.org/Index/FAQ.aspx. Retrieved on
+       2009-01-25.
+    3. [45]^ World Survey of Economic Freedom 1995-1996: A Freedom House
+       Study. Transaction Publishers. 1996. [46]ISBN 9781560009290. p. 5-7
+
+   Retrieved from
+   "[47]http://en.wikipedia.org/wiki/Indices_of_economic_freedom"
+   [48]Category: [49]Economic systems
+
+Views
+
+     * [50]Article
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * [54]Log in / create account
+
+Navigation
+
+     * [55]Main page
+     * [56]Contents
+     * [57]Featured content
+     * [58]Current events
+     * [59]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [60]About Wikipedia
+     * [61]Community portal
+     * [62]Recent changes
+     * [63]Contact Wikipedia
+     * [64]Donate to Wikipedia
+     * [65]Help
+
+Toolbox
+
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Printable version
+     * [71]Permanent link
+     * [72]Cite this page
+
+Languages
+
+     * [73]Suomi
+
+   [74]Powered by MediaWiki
+   [75]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 19:09.
+     * All text is available under the terms of the [76]GNU Free
+       Documentation License. (See [77]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [78]Wikimedia
+       Foundation, Inc., a U.S. registered [79]501(c)(3)
+       [80]tax-deductible [81]nonprofit [82]charity.
+     * [83]Privacy policy
+     * [84]About Wikipedia
+     * [85]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Indices_of_economic_freedom&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Economic_Freedom_of_the_World_Index&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#searchInput
+   9. file://localhost/wiki/Economic_freedom
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#Economic_Freedom_of_the_World
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#Index_of_Economic_Freedom
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#World_Survey_of_Economic_Freedom
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#India
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#References
+  15. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit&section=1
+  16. file://localhost/wiki/Economic_Freedom_of_the_World
+  17. file://localhost/wiki/Fraser_Institute
+  18. file://localhost/wiki/Laissez-faire
+  19. file://localhost/wiki/Capitalism
+  20. file://localhost/wiki/World_Bank
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_note-0
+  22. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit&section=2
+  23. file://localhost/wiki/Index_of_Economic_Freedom
+  24. file://localhost/wiki/Heritage_Foundation
+  25. file://localhost/wiki/Wall_Street_Journal
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_note-index-1
+  27. file://localhost/wiki/World_Bank
+  28. file://localhost/wiki/IMF
+  29. file://localhost/wiki/Economist_Intelligence_Unit
+  30. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit&section=3
+  31. file://localhost/wiki/Freedom_House
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_note-2
+  33. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit&section=4
+  34. http://www.rediff.com/money/2004/mar/08spec.htm
+  35. file://localhost/wiki/Positive_freedom
+  36. file://localhost/wiki/Negative_freedom
+  37. file://localhost/w/index.php?title=Rajiv_Gandhi_Institute_for_Contemporary_Studies&action=edit&redlink=1
+  38. http://www.indicus.net/Research/Home/Sectors/Governance%20and%20State/Economic%20Freedom%20For%20States%20of%20India,%202005/10067/
+  39. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit&section=5
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_ref-0
+  41. http://www.freetheworld.com/2008/EconomicFreedomoftheWorld2008.pdf
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_ref-index_1-0
+  43. http://www.heritage.org/Index/FAQ.aspx
+  44. http://www.heritage.org/Index/FAQ.aspx
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc809.tmp.html#cite_ref-2
+  46. file://localhost/wiki/Special:BookSources/9781560009290
+  47. http://en.wikipedia.org/wiki/Indices_of_economic_freedom
+  48. file://localhost/wiki/Special:Categories
+  49. file://localhost/wiki/Category:Economic_systems
+  50. file://localhost/wiki/Indices_of_economic_freedom
+  51. file://localhost/wiki/Talk:Indices_of_economic_freedom
+  52. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=edit
+  53. file://localhost/w/index.php?title=Indices_of_economic_freedom&action=history
+  54. file://localhost/w/index.php?title=Special:UserLogin&returnto=Indices_of_economic_freedom
+  55. file://localhost/wiki/Main_Page
+  56. file://localhost/wiki/Portal:Contents
+  57. file://localhost/wiki/Portal:Featured_content
+  58. file://localhost/wiki/Portal:Current_events
+  59. file://localhost/wiki/Special:Random
+  60. file://localhost/wiki/Wikipedia:About
+  61. file://localhost/wiki/Wikipedia:Community_portal
+  62. file://localhost/wiki/Special:RecentChanges
+  63. file://localhost/wiki/Wikipedia:Contact_us
+  64. http://wikimediafoundation.org/wiki/Donate
+  65. file://localhost/wiki/Help:Contents
+  66. file://localhost/wiki/Special:WhatLinksHere/Indices_of_economic_freedom
+  67. file://localhost/wiki/Special:RecentChangesLinked/Indices_of_economic_freedom
+  68. file://localhost/wiki/Wikipedia:Upload
+  69. file://localhost/wiki/Special:SpecialPages
+  70. file://localhost/w/index.php?title=Indices_of_economic_freedom&printable=yes
+  71. file://localhost/w/index.php?title=Indices_of_economic_freedom&oldid=273476263
+  72. file://localhost/w/index.php?title=Special:Cite&page=Indices_of_economic_freedom&id=273476263
+  73. http://fi.wikipedia.org/wiki/taloudellisen_vapauden_indeksi
+  74. http://www.mediawiki.org/
+  75. http://wikimediafoundation.org/
+  76. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  77. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  78. http://www.wikimediafoundation.org/
+  79. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  80. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  81. http://en.wikipedia.org/wiki/Non-profit_organization
+  82. http://en.wikipedia.org/wiki/Charitable_organization
+  83. http://wikimediafoundation.org/wiki/Privacy_policy
+  84. file://localhost/wiki/Wikipedia:About
+  85. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  86. file://localhost/wiki/Main_Page

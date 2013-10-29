@@ -1,0 +1,220 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+eCosCentric
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   CAPTION: eCosCentric Limited
+
+   [8]eCosCentric logo
+   [9]Type Private
+   Founded 2002
+   Headquarters [10]Cambridge, [11]England
+   Key people [12]eCos Founders
+   [13]Industry [14]Computer software
+   [15]Products [16]eCos
+   [17]eCosPro
+   [18]RedBoot
+   [19]Employees ~10 (2005)
+   [20]Website [21]www.ecoscentric.com
+
+   eCosCentric Limited is a privately held company dedicated to [22]open
+   source [23]software, with a distinct focus on [24]eCos. Founded in 2002
+   by the original [25]eCos developers ^[26][1], it employs the majority
+   of [27]eCos maintainers at its headquarters in [28]Cambridge in
+   [29]England from where it continues to support, develop and provide
+   commercial services for [30]eCos and [31]RedBoot^[32][2]. eCosCentric
+   also provide a commercially strengthened version of [33]eCos,
+   [34]eCosPro, which is targeted at professional developers looking to
+   integrate [35]eCos within commercial products ^[36][3].
+
+[[37]edit] References
+
+    1. [38]^ Dedicated Systems (2006-07-13). [39]eCosCentric announces
+       eCosPro(R) selection by Philips for next generation Nexperia(TM)
+       Set-top box semiconductor solutions. [40]Press release.
+       [41]http://www.dedicated-systems.com/vpr/layout/display/pr.asp?PRID
+       =9919. Retrieved on 2007-03-31.
+    2. [42]^ Larmour, Jonathan (May 2005), "[43]How eCos can be shrunk to
+       fit" (PDF), Embedded Systems Europe: 34,
+       [44]http://i.cmpnet.com/embedded/europe/esemay05/esemay05p32.pdf
+    3. [45]^ OSNews (2003-09-02). [46]eCosCentric announces eCosPro
+       Developer's Kit. [47]Press release.
+       [48]http://www.osnews.com/story.php?news_id=4395. Retrieved on
+       2007-03-31.
+
+[[49]edit] External links
+
+     * [50]Official website
+     * [51]eCos
+
+    This article about a [52]technological [53]corporation or [54]company
+   is a [55]stub. You can [56]help Wikipedia by [57]expanding it.
+   Retrieved from "[58]http://en.wikipedia.org/wiki/ECosCentric"
+   [59]Categories: [60]Technology companies | [61]Companies established in
+   2002 | [62]Free software companies | [63]Companies based in
+   Cambridgeshire | [64]Technological company stubs
+
+Views
+
+     * [65]Article
+     * [66]Discussion
+     * [67]Edit this page
+     * [68]History
+
+Personal tools
+
+     * [69]Log in / create account
+
+Navigation
+
+     * [70]Main page
+     * [71]Contents
+     * [72]Featured content
+     * [73]Current events
+     * [74]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [75]About Wikipedia
+     * [76]Community portal
+     * [77]Recent changes
+     * [78]Contact Wikipedia
+     * [79]Donate to Wikipedia
+     * [80]Help
+
+Toolbox
+
+     * [81]What links here
+     * [82]Related changes
+     * [83]Upload file
+     * [84]Special pages
+     * [85]Printable version
+     * [86]Permanent link
+     * [87]Cite this page
+
+   [88]Powered by MediaWiki
+   [89]Wikimedia Foundation
+     * This page was last modified on 17 December 2008, at 11:27.
+     * All text is available under the terms of the [90]GNU Free
+       Documentation License. (See [91]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [92]Wikimedia
+       Foundation, Inc., a U.S. registered [93]501(c)(3)
+       [94]tax-deductible [95]nonprofit [96]charity.
+     * [97]Privacy policy
+     * [98]About Wikipedia
+     * [99]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=ECosCentric&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#searchInput
+   8. file://localhost/wiki/File:ECosCentric.png
+   9. file://localhost/wiki/Category:Types_of_companies
+  10. file://localhost/wiki/Cambridge
+  11. file://localhost/wiki/England
+  12. file://localhost/wiki/ECos
+  13. file://localhost/wiki/Industry
+  14. file://localhost/wiki/Computer_software
+  15. file://localhost/wiki/Product_(business)
+  16. file://localhost/wiki/ECos
+  17. file://localhost/wiki/ECosPro
+  18. file://localhost/wiki/RedBoot
+  19. file://localhost/wiki/Employment
+  20. file://localhost/wiki/Website
+  21. http://www.ecoscentric.com/
+  22. file://localhost/wiki/Open_source
+  23. file://localhost/wiki/Software
+  24. file://localhost/wiki/ECos
+  25. file://localhost/wiki/ECos
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_note-0
+  27. file://localhost/wiki/ECos
+  28. file://localhost/wiki/Cambridge
+  29. file://localhost/wiki/England
+  30. file://localhost/wiki/ECos
+  31. file://localhost/wiki/RedBoot
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_note-1
+  33. file://localhost/wiki/ECos
+  34. file://localhost/wiki/ECosPro
+  35. file://localhost/wiki/ECos
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_note-2
+  37. file://localhost/w/index.php?title=ECosCentric&action=edit&section=1
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_ref-0
+  39. http://www.dedicated-systems.com/vpr/layout/display/pr.asp?PRID=9919
+  40. file://localhost/wiki/News_release
+  41. http://www.dedicated-systems.com/vpr/layout/display/pr.asp?PRID=9919
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_ref-1
+  43. http://i.cmpnet.com/embedded/europe/esemay05/esemay05p32.pdf
+  44. http://i.cmpnet.com/embedded/europe/esemay05/esemay05p32.pdf
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc627.tmp.html#cite_ref-2
+  46. http://www.osnews.com/story.php?news_id=4395
+  47. file://localhost/wiki/News_release
+  48. http://www.osnews.com/story.php?news_id=4395
+  49. file://localhost/w/index.php?title=ECosCentric&action=edit&section=2
+  50. http://www.ecoscentric.com/
+  51. http://ecos.sourceware.org/
+  52. file://localhost/wiki/Technology
+  53. file://localhost/wiki/Corporation
+  54. file://localhost/wiki/Company_(law)
+  55. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  56. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  57. http://en.wikipedia.org/w/index.php?stub&title=ECosCentric&action=edit
+  58. http://en.wikipedia.org/wiki/ECosCentric
+  59. file://localhost/wiki/Special:Categories
+  60. file://localhost/wiki/Category:Technology_companies
+  61. file://localhost/wiki/Category:Companies_established_in_2002
+  62. file://localhost/wiki/Category:Free_software_companies
+  63. file://localhost/wiki/Category:Companies_based_in_Cambridgeshire
+  64. file://localhost/wiki/Category:Technological_company_stubs
+  65. file://localhost/wiki/ECosCentric
+  66. file://localhost/wiki/Talk:ECosCentric
+  67. file://localhost/w/index.php?title=ECosCentric&action=edit
+  68. file://localhost/w/index.php?title=ECosCentric&action=history
+  69. file://localhost/w/index.php?title=Special:UserLogin&returnto=ECosCentric
+  70. file://localhost/wiki/Main_Page
+  71. file://localhost/wiki/Portal:Contents
+  72. file://localhost/wiki/Portal:Featured_content
+  73. file://localhost/wiki/Portal:Current_events
+  74. file://localhost/wiki/Special:Random
+  75. file://localhost/wiki/Wikipedia:About
+  76. file://localhost/wiki/Wikipedia:Community_portal
+  77. file://localhost/wiki/Special:RecentChanges
+  78. file://localhost/wiki/Wikipedia:Contact_us
+  79. http://wikimediafoundation.org/wiki/Donate
+  80. file://localhost/wiki/Help:Contents
+  81. file://localhost/wiki/Special:WhatLinksHere/ECosCentric
+  82. file://localhost/wiki/Special:RecentChangesLinked/ECosCentric
+  83. file://localhost/wiki/Wikipedia:Upload
+  84. file://localhost/wiki/Special:SpecialPages
+  85. file://localhost/w/index.php?title=ECosCentric&printable=yes
+  86. file://localhost/w/index.php?title=ECosCentric&oldid=258555330
+  87. file://localhost/w/index.php?title=Special:Cite&page=ECosCentric&id=258555330
+  88. http://www.mediawiki.org/
+  89. http://wikimediafoundation.org/
+  90. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  91. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  92. http://www.wikimediafoundation.org/
+  93. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  94. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  95. http://en.wikipedia.org/wiki/Non-profit_organization
+  96. http://en.wikipedia.org/wiki/Charitable_organization
+  97. http://wikimediafoundation.org/wiki/Privacy_policy
+  98. file://localhost/wiki/Wikipedia:About
+  99. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 100. file://localhost/wiki/File:Integrated_circuit_icon.svg
+ 101. file://localhost/wiki/Main_Page

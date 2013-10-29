@@ -1,0 +1,854 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Econometrics
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Econometrician)
+   Jump to: [7]navigation, [8]search
+                [9]Economics
+     [10]Economies by region
+
+   [11]Africa  [12]North America
+   [13]South America  [14]Asia
+   [15]Europe  [16]Oceania
+           [17]Outline of topics
+        [18]General classifications
+
+                   [19]Microeconomics  [20]Macroeconomics
+                       [21]History of economic thought
+                   [22]Methodology  [23]Heterodox methods
+
+               [24]Techniques
+
+                       [25]Mathematical  Econometrics
+                  [26]Experimental  [27]National accounting
+
+          [28]Fields and subfields
+
+                   [29]Behavioral  [30]Business economics
+                       [31]Cultural  [32]Evolutionary
+                  [33]Growth  [34]Development  [35]History
+                   [36]International  [37]Economic systems
+                       [38]Monetary and [39]Financial
+                    [40]Public and [41]Welfare economics
+                   [42]Health  [43]Labour  [44]Managerial
+                      [45]Information  [46]Game theory
+                    [47]Industrial organization   [48]Law
+                   [49]Agricultural  [50]Natural resource
+                      [51]Environmental  [52]Ecological
+                     [53]Urban  [54]Rural  [55]Regional
+
+                 [56]Lists
+
+   [57]Journals [58]Publications
+   [59]Categories [60]Topics [61]Economists
+   [62]Economic ideologies
+
+   [63]Anarchist  [64]Capitalist
+   [65]Communist  [66]Corporatist
+   [67]Fascist  [68]Georgist
+   [69]Islamic  [70]Laissez-faire
+   [71]Market socialist  [72]Mercantilist
+   [73]Protectionist  [74]Socialist
+   [75]Syndicalist  [76]Third Way
+   [77]Other economies
+
+   [78]Anglo-Saxon  [79]Feudal
+   [80]Global  [81]Hunter-gatherer
+   [82]Newly industrialized country
+   [83]Palace  [84]Plantation
+   [85]Post-capitalist  [86]Post-industrial
+   [87]Social market  [88]Socialist market
+   [89]Token  [90]Traditional
+   [91]Information  [92]Transition
+     [93]Business and Economics Portal
+   This box: [94]view  [95]talk  [96]edit
+
+   Econometrics is concerned with the tasks of developing and applying
+   [97]quantitative or [98]statistical methods to the study and
+   elucidation of economic principles.^[99][1] Econometrics combines
+   [100]economic theory with [101]statistics to analyze and test economic
+   relationships. Theoretical econometrics considers questions about the
+   statistical properties of estimators and tests, while applied
+   econometrics is concerned with the application of econometric methods
+   to assess economic theories. Although the first known use of the term
+   "econometrics" was by Pawel Ciompa in 1910, [102]Ragnar Frisch is given
+   credit for coining the term in the sense that it is used
+   today.^[103][2]
+
+   Although many econometric methods represent applications of standard
+   [104]statistical models, there are some special features of
+   [105]economic data that distinguish econometrics from other branches of
+   statistics. Economic data are generally [106]observational, rather than
+   being derived from [107]controlled experiments. Because the individual
+   units in an economy interact with each other, the observed data tend to
+   reflect complex [108]economic equilibrium conditions rather than simple
+   behavioral relationships based on [109]preferences or [110]technology.
+   Consequently, the field of econometrics has developed methods for
+   [111]identification and [112]estimation of [113]simultaneous equation
+   models. These methods allow researchers to make causal inferences in
+   the absence of controlled experiments. Early work in econometrics
+   focused on [114]time-series data, but now econometrics also fully
+   covers [115]cross-sectional and [116]panel data.
+
+Contents
+
+     * [117]1 Purpose
+     * [118]2 Methods
+          + [119]2.1 Example
+     * [120]3 Notable econometricians
+     * [121]4 Journals
+     * [122]5 See also
+     * [123]6 Notes
+     * [124]7 References
+     * [125]8 Further reading
+     * [126]9 External links
+
+[[127]edit] Purpose
+
+   The two main purposes of econometrics are to give [128]empirical
+   content to economic theory and to subject economic theory to
+   potentially falsifying tests.^[129][2]
+
+   For example, consider one of the basic relationships in economics: the
+   relationship between the price of a commodity and the quantities of
+   that commodity that people wish to purchase at each price (the
+   [130]demand relationship). According to economic theory, an increase in
+   the price would lead to a decrease in the quantity demanded, holding
+   other relevant variables constant to isolate the relationship of
+   interest. A mathematical equation can be written that describes the
+   relationship between quantity, price, other demand variables like
+   income, and a random term to reflect simplification and imprecision of
+   the theoretical model:
+
+          Q = \beta_0 + \beta_1\text{Price} + \beta_2\text{Income} +
+          \varepsilon.
+
+   [131]Regression analysis could be used to estimate the unknown
+   parameters [0], [1], and [2] in the relationship, using data on price,
+   income, and quantity. The model could then be tested for
+   [132]statistical significance as to whether an increase in price is
+   associated with a decrease in the quantity, as [133]hypothesized: [1] <
+   0.
+
+   There are complications even in this simple example, and it is often
+   easy to mistake statistical significance with economic significance.
+   Statistical significance is neither necessary nor sufficient for
+   economic significance.^[134][3] In order to estimate the theoretical
+   demand relationship, the observations in the data set must be price and
+   quantity pairs that are collected along a demand schedule that is
+   stable. If those assumptions are not satisfied, a more sophisticated
+   model or econometric method may be necessary to derive reliable
+   estimates and tests.
+
+[[135]edit] Methods
+
+   One of the fundamental statistical methods used by econometricians is
+   [136]regression analysis. For an overview of a linear implementation of
+   this framework, see [137]linear regression. Regression methods are
+   important in econometrics because economists typically cannot use
+   [138]controlled experiments. Econometricians often seek illuminating
+   [139]natural experiments in the absence of evidence from controlled
+   experiments. Observational data may be subject to [140]omitted-variable
+   bias and a list of other problems that must be addressed using causal
+   analysis of simultaneous equation models.^[141][4]
+
+   [142]Data sets to which econometric analyses are applied can be
+   classified as [143]time-series data, [144]cross-sectional data,
+   [145]panel data, and [146]multidimensional panel data. Time-series data
+   sets contain observations over time; for example, inflation over the
+   course of several years. Cross-sectional data sets contain observations
+   at a single point in time; for example, many individuals' incomes in a
+   given year. Panel data sets contain both time-series and
+   cross-sectional observations. Multi-dimensional panel data sets contain
+   observations across time, cross-sectionally, and across some third
+   dimension. For example, the Survey of Professional Forecasters contains
+   forecasts for many forecasters (cross-sectional observations), at many
+   points in time (time series observations), and at multiple forecast
+   horizons (a third dimension).
+
+   Econometric analysis may also be classified on the basis of the number
+   of relationships modeled. [147]Single equation methods model a single
+   variable (the [148]dependent variable) as a function of one or more
+   explanatory (or independent) variables. In many econometric contexts,
+   such single equation methods may not recover the effect desired, or may
+   produce estimates with poor statistical properties. [149]Simultaneous
+   equation methods have been developed as one means of addressing these
+   problems. Many of these methods use variants of [150]instrumental
+   variable to make estimates.
+
+   Other important methods include [151]Method of Moments, Generalized
+   Method of Moments ([152]GMM), [153]Bayesian methods, Two Stage Least
+   Squares ([154]2SLS), and Three Stage Least Squares ([155]3SLS).
+
+[[156]edit] Example
+
+   A simple example of a relationship in econometrics from the field of
+   [157]labor economics is:
+
+          \ln(\text{wage}) = \beta_0 + \beta_1 (\text{years of education})
+          + \varepsilon.
+
+   Economic theory says that the natural logarithm of a person's wage is a
+   linear function of (among other things) the number of years of
+   education that person has acquired. The parameter [1] measures the
+   increase in the natural log of the wage attributable to one more year
+   of education. It should be noted that by using the natural log we have
+   moved away from a [158]simple linear regression model and are now using
+   a non linear model, in this case, a semi-log y model. The term is a
+   random variable representing all other factors that may have direct
+   influence on wage. The econometric goal is to estimate the parameters,
+   [0] and [1] under specific assumptions about the random variable . For
+   example, if is uncorrelated with years of education, then the equation
+   can be estimated with [159]ordinary least squares.
+
+   If the researcher could randomly assign people to different levels of
+   education, the data set thus generated would allow estimation of the
+   effect of changes in years of education on wages. In reality, those
+   experiments cannot be conducted. Instead, the econometrician observes
+   the years of education of and the wages paid to people who differ along
+   many dimensions. Given this kind of data, the estimated coefficient on
+   Years of Education in the equation above reflects both the effect of
+   education on wages and the effect of other variables on wages, if those
+   other variables were correlated with education. For example, people
+   with more innate ability may have higher wages and higher levels of
+   education. Unless the econometrician controls for innate ability in the
+   above equation, the effect of innate ability on wages may be falsely
+   attributed to the effect of education on wages.
+
+   The most obvious way to control for innate ability is to include a
+   measure of ability in the equation above. Exclusion of innate ability,
+   together with the assumption that is uncorrelated with education
+   produces a misspecified model. A second technique for dealing with
+   omitted variables is [160]instrumental variables estimation. An
+   overview of econometric methods used to study this problem can be found
+   in Card (1999). ^[161][5]
+
+[[162]edit] Notable econometricians
+
+   The following are the [163]Nobel Memorial Prize in Economic Sciences
+   recipients in the field of econometrics:
+     * [164]Jan Tinbergen, former Professor at the [165]Erasmus University
+       Rotterdam, and [166]Ragnar Frisch were awarded the first prize in
+       1969 for having developed and applied dynamic models for the
+       analysis of economic processes.
+     * [167]Lawrence Klein, Professor of Economics at the [168]University
+       of Pennsylvania, was awarded in 1980 for his computer modeling work
+       in the field.
+     * [169]Trygve Haavelmo was awarded in 1989. His main contribution to
+       econometrics was his 1944 article (published in [170]Econometrica)
+       "The Probability Approach to Econometrics."
+     * [171]Daniel McFadden and [172]James Heckman shared the award in
+       2000 for their work in microeconometrics. McFadden founded the
+       econometrics lab at the [173]University of California, Berkeley.
+     * [174]Robert Engle and [175]Clive Granger at the [176]University of
+       California, San Diego, were awarded in 2003 for work on analyzing
+       economic time series. Engle pioneered the method of
+       [177]autoregressive conditional heteroskedasticity (ARCH) and
+       Granger the method of [178]cointegration.
+
+   The [179]Econometric Author Links of the Econometrics Journal provides
+   personal links to recent articles and working papers of econometric
+   authors via the [180]RePEc system in [181]EconPapers.
+
+[[182]edit] Journals
+
+   The main journals which publish work in econometrics are
+   [183]Econometrica, the [184]Journal of Econometrics, the [185]Review of
+   Economics and Statistics, the [186]Econometric Theory, the [187]Journal
+   of Applied Econometrics, the [188]Econometric Reviews, and the
+   [189]Journal of Business and Economic Statistics .
+
+[[190]edit] See also
+
+     * [191]Cowles Foundation
+     * [192]Correlation does not imply causation
+     * [193]Choice Modelling
+     * [194]Modeling and analysis of financial markets
+     * [195]Important publications in econometrics
+     * [196]Gretl, the Gnu Regression, Econometrics and Time Series
+       Library, open source and free software for econometrics.
+     * Hayashi, Fumio. Econometrics. Princeton University Press, 2000.
+     * [197]Single equation methods (econometrics)
+     * [198]Granger causality
+     * [199]Augmented Dickey-Fuller test
+     * [200]Unit root
+     * [201]Predetermined variables
+
+[[202]edit] Notes
+
+    1. [203]^ Ragnar Frisch (1933). "Editor's Note". Econometrica 1. 1-4.
+    2. ^ [204]^a [205]^b [206]Pesaran, M. Hashem, "Econometrics", in
+       [207]Eatwell, John; Milgate, Murray; Newman, Peter, [208]The New
+       Palgrave: A Dictionary of Economics, 2, pp. 822
+    3. [209]^ Ziliak, Stephen T. and Deirde N. McCloskey. "Size Matters:
+       The Standard Error of Regressions in the American Economic Review"
+       (August 2004). [210][1]
+    4. [211]^ Edward E. Leamer, "Specification problems in econometrics,"
+       [212]The New Palgrave: A Dictionary of Economics, v. 4 (1987), pp.
+       472-75.
+    5. [213]^ Card, D. (1999) "The causal effect of education on earning,"
+       in Ashenfelter, O. and Card, D., (eds.) Handbook of Labor
+       Economics, pp 1801-63.
+
+[[214]edit] References
+
+     * [215]Handbook of Econometrics Elsevier, links to:
+
+          v. 1, pp. 3-771 (1983)
+          v. 2, pp. 775-1461 (1984)
+          v. 3, pp. 1465-2107 (1986)
+          v. 4, pp. 2111-3155 (1994)
+          v. 5, pp. 3159-3843 (2001)
+          v. 6, Part 1, pp. 3845-4776 (2007)
+          v. 6, Part 2, pp. 4777-5752 (2007)
+
+     * Harry H. Kelejian and Wallace E. Oates (1989, 3rd ed.) Introduction
+       to Econometrics.
+     * Peter Kennedy (2003). A Guide to Econometrics, 5th ed.
+       [216]Preview.
+     * Robert S. Pindyck and Daniel L. Rubinfeld (1998, 4th ed.).
+     * A.H. Studenmund (2000, 4th ed.) Using Econometrics: A Practical
+       Guide.
+     * Greene (1999, 4th ed.) Econometric Analysis, Prentice Hall.
+     * Hamilton, James (1994, 1st ed.) Time Series Analysis, Princeton
+       University Press.
+
+[[217]edit] Further reading
+
+     * [218]Econometric Theory book on Wikibooks
+     * MacKinnon, James and Davidson, Russell. Econometric Theory and
+       Methods. New York: Oxford University Press, 2004.
+     * [219]Pearl, J. Causality: Models, Reasoning and Inference,
+       Cambridge University Press, 2000.
+     * Wooldridge, Jeffrey. Introductory Econometrics: A Modern Approach.
+       Mason: Thomson South-Western, 2003. [220]ISBN 0-324-11364-1
+     * Giovanini, Enrico [221]Understanding Economic Statistics, OECD
+       Publishing, 2008, [222]ISBN 978-92-64-03312-2
+
+[[223]edit] External links
+
+   [224]Sister project Look up [225]econometrics in
+   [226]Wiktionary, the free dictionary.
+     * [227]Econometric Links
+     * [228]Econometric Society
+     * [229]The Econometrics Journal
+     * [230]MERLOT Learning materials in Econometrics (US-based catalogue
+       of materials)
+     * [231]Teaching Econometrics (Index by the Economics Network (UK))
+     * [232]Applied Econometric Association
+     * [233]"The Art and Science of Cause and Effect": a slide show and
+       tutorial lecture by Judea Pearl
+
+   [234]v  [235]d  [236]e
+   [237]Economics
+   [238]Macroeconomics
+   [239]Adaptive expectations  [240]Balance of payments  [241]Central
+   bank  [242]Currency  [243]Gold standard  [244]Gresham's Law
+   [245]Inflation  [246]IS/LM model  [247]Money  [248]Measures of national
+   income and output  [249]Monetary policy  [250]National Income and
+   Product Accounts  [251]Purchasing power parity  [252]Rational
+   Expectations  [253]Reaganomics  [254]Recession  [255]Unemployment
+   [256]Development  [257]List of economics topics  [258]List of economic
+   geography topics  [259]List of international trade topics
+   [260]Publications
+   [261]Microeconomics
+   [262]Scarcity  [263]Opportunity cost  [264]Supply and demand
+   [265]Elasticity  [266]Economic surplus  [267]Economic shortage
+   [268]Aggregate demand  [269]Consumer theory  [270]Market form
+   [271]Welfare  [272]Market failure
+   Sub-disciplines
+   [273]International  [274]Development  [275]Labor  [276]Environmental
+   [277]Institutional  [278]Normative  [279]Behavioural
+   [280]Experimental  [281]Industrial organization  [282]Public finance
+   [283]Economic psychology  [284]Economic sociology  [285]Economic
+   geography  [286]Positive  [287]Law and economics  [288]Political
+   economy
+   Methodologies
+   Econometrics  [289]Computational economics
+   Famous [290]economists
+   [291]Adam Smith  [292]David Ricardo  [293]Karl Marx  [294]Ludwig von
+   Mises  [295]John Maynard Keynes  [296]Milton Friedman  [297]more
+   Retrieved from "[298]http://en.wikipedia.org/wiki/Econometrics"
+   [299]Categories: [300]Econometrics | [301]Mathematical and quantitative
+   methods (economics) | [302]Metrics | [303]Formal sciences
+
+Views
+
+     * [304]Article
+     * [305]Discussion
+     * [306]Edit this page
+     * [307]History
+
+Personal tools
+
+     * [308]Log in / create account
+
+Navigation
+
+     * [309]Main page
+     * [310]Contents
+     * [311]Featured content
+     * [312]Current events
+     * [313]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [314]About Wikipedia
+     * [315]Community portal
+     * [316]Recent changes
+     * [317]Contact Wikipedia
+     * [318]Donate to Wikipedia
+     * [319]Help
+
+Toolbox
+
+     * [320]What links here
+     * [321]Related changes
+     * [322]Upload file
+     * [323]Special pages
+     * [324]Printable version
+     * [325]Permanent link
+     * [326]Cite this page
+
+Languages
+
+     *
+     * [327]Azrbaycan
+     * [328]()
+     * [329]Catal
+     * [330]esky
+     * [331]Dansk
+     * [332]Deutsch
+     * [333]Eesti
+     *
+     * [334]Espaol
+     * [335]Esperanto
+     * [336]Franais
+     * [337]Bahasa Indonesia
+     * [338]Italiano
+     *
+     *
+     *
+     * [339]Magyar
+     *
+     * [340]Nederlands
+     *
+     * [341]Norsk (bokml)
+     * [342]Norsk (nynorsk)
+     * [343]Polski
+     * [344]Portugus
+     * [345]Romn
+     *
+     * [346]Shqip
+     * [347]Simple English
+     * [348]Slovenina
+     * [349]Basa Sunda
+     * [350]Suomi
+     * [351]Svenska
+     * [352]Ting Vit
+     * [353]Trke
+     *
+     *
+
+   [354]Powered by MediaWiki
+   [355]Wikimedia Foundation
+     * This page was last modified on 5 February 2009, at 20:16.
+     * All text is available under the terms of the [356]GNU Free
+       Documentation License. (See [357]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [358]Wikimedia
+       Foundation, Inc., a U.S. registered [359]501(c)(3)
+       [360]tax-deductible [361]nonprofit [362]charity.
+     * [363]Privacy policy
+     * [364]About Wikipedia
+     * [365]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Econometrics&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Econometrician&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#searchInput
+   9. file://localhost/wiki/Economics
+  10. file://localhost/wiki/Economies_of_present-day_nations_and_states
+  11. file://localhost/wiki/Economy_of_Africa
+  12. file://localhost/wiki/Economy_of_North_America
+  13. file://localhost/wiki/Economy_of_South_America
+  14. file://localhost/wiki/Economy_of_Asia
+  15. file://localhost/wiki/Economy_of_Europe
+  16. file://localhost/wiki/Economy_of_Oceania
+  17. file://localhost/wiki/Topic_outline_of_economics
+  18. file://localhost/wiki/JEL_classification_codes
+  19. file://localhost/wiki/Microeconomics
+  20. file://localhost/wiki/Macroeconomics
+  21. file://localhost/wiki/History_of_economic_thought
+  22. file://localhost/wiki/Economic_methodology
+  23. file://localhost/wiki/Heterodox_economics
+  24. file://localhost/wiki/JEL_classification_codes#Mathematical_and_quantitative_methods_JEL:_C_Subcategories
+  25. file://localhost/wiki/Mathematical_economics
+  26. file://localhost/wiki/Experimental_economics
+  27. file://localhost/wiki/National_accounts
+  28. file://localhost/wiki/JEL_classification_codes
+  29. file://localhost/wiki/Behavioral_economics
+  30. file://localhost/wiki/Business_economics
+  31. file://localhost/wiki/Cultural_economics
+  32. file://localhost/wiki/Evolutionary_economics
+  33. file://localhost/wiki/Economic_growth
+  34. file://localhost/wiki/Development_economics
+  35. file://localhost/wiki/Economic_history
+  36. file://localhost/wiki/International_economics
+  37. file://localhost/wiki/Economic_system
+  38. file://localhost/wiki/Monetary_economics
+  39. file://localhost/wiki/Financial_economics
+  40. file://localhost/wiki/Public_economics
+  41. file://localhost/wiki/Welfare_economics
+  42. file://localhost/wiki/Health_economics
+  43. file://localhost/wiki/Labour_economics
+  44. file://localhost/wiki/Managerial_economics
+  45. file://localhost/wiki/Information_economics
+  46. file://localhost/wiki/Game_theory
+  47. file://localhost/wiki/Industrial_organization
+  48. file://localhost/wiki/Law_and_economics
+  49. file://localhost/wiki/Agricultural_economics
+  50. file://localhost/wiki/Natural_resource_economics
+  51. file://localhost/wiki/Environmental_economics
+  52. file://localhost/wiki/Ecological_economics
+  53. file://localhost/wiki/Urban_economics
+  54. file://localhost/wiki/Rural_economics
+  55. file://localhost/wiki/Regional_science
+  56. file://localhost/wiki/Category:Economics_lists
+  57. file://localhost/wiki/List_of_scholarly_journals_in_economics
+  58. file://localhost/wiki/List_of_important_publications_in_economics
+  59. file://localhost/wiki/Category:Economics
+  60. file://localhost/wiki/List_of_economics_topics
+  61. file://localhost/wiki/List_of_economists
+  62. file://localhost/wiki/Economic_ideology
+  63. file://localhost/wiki/Anarchist_economics
+  64. file://localhost/wiki/Capitalism
+  65. file://localhost/wiki/Communist_economy
+  66. file://localhost/wiki/Corporatism
+  67. file://localhost/wiki/Economics_of_fascism
+  68. file://localhost/wiki/Georgism
+  69. file://localhost/wiki/Islamic_economics
+  70. file://localhost/wiki/Laissez-faire
+  71. file://localhost/wiki/Market_socialism
+  72. file://localhost/wiki/Mercantilism
+  73. file://localhost/wiki/Protectionism
+  74. file://localhost/wiki/Socialist_economics
+  75. file://localhost/wiki/Syndicalism
+  76. file://localhost/wiki/Third_Way_(centrism)
+  77. file://localhost/wiki/Economy
+  78. file://localhost/wiki/Anglo-Saxon_economy
+  79. file://localhost/wiki/Feudal
+  80. file://localhost/wiki/Global_economy
+  81. file://localhost/wiki/Hunter-gatherer
+  82. file://localhost/wiki/Newly_industrialized_country
+  83. file://localhost/wiki/Palace_economy
+  84. file://localhost/wiki/Plantation_economy
+  85. file://localhost/wiki/Post-capitalism
+  86. file://localhost/wiki/Post-industrial_economy
+  87. file://localhost/wiki/Social_market_economy
+  88. file://localhost/wiki/Socialist_market_economy
+  89. file://localhost/wiki/Token_economy
+  90. file://localhost/wiki/Traditional_economy
+  91. file://localhost/wiki/Information_economy
+  92. file://localhost/wiki/Transition_economy
+  93. file://localhost/wiki/Portal:Business_and_economics
+  94. file://localhost/wiki/Template:Economics_sidebar
+  95. file://localhost/wiki/Template_talk:Economics_sidebar
+  96. http://en.wikipedia.org/w/index.php?title=Template:Economics_sidebar&action=edit
+  97. file://localhost/wiki/Quantitative
+  98. file://localhost/wiki/Statistical
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-0
+ 100. file://localhost/wiki/Economics
+ 101. file://localhost/wiki/Statistics
+ 102. file://localhost/wiki/Ragnar_Anton_Kittil_Frisch
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-Pesaran-1
+ 104. file://localhost/wiki/Statistical_model
+ 105. file://localhost/wiki/Economic_data
+ 106. file://localhost/wiki/Observational_study
+ 107. file://localhost/wiki/Experiment
+ 108. file://localhost/wiki/Economic_equilibrium
+ 109. file://localhost/wiki/Preferences
+ 110. file://localhost/wiki/Production_function
+ 111. file://localhost/wiki/Parameter_identification_problem
+ 112. file://localhost/wiki/Estimation_theory
+ 113. file://localhost/wiki/Simultaneous_equation_methods_(econometrics)
+ 114. file://localhost/wiki/Time_series
+ 115. file://localhost/wiki/Cross-sectional_data
+ 116. file://localhost/wiki/Panel_data
+ 117. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Purpose
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Methods
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Example
+ 120. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Notable_econometricians
+ 121. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Journals
+ 122. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#See_also
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Notes
+ 124. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#References
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#Further_reading
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#External_links
+ 127. file://localhost/w/index.php?title=Econometrics&action=edit&section=1
+ 128. file://localhost/wiki/Empiricism
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-Pesaran-1
+ 130. file://localhost/wiki/Supply_and_Demand#Empirical_estimation
+ 131. file://localhost/wiki/Regression_analysis
+ 132. file://localhost/wiki/Statistical_significance
+ 133. file://localhost/wiki/Hypothesis_test
+ 134. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-2
+ 135. file://localhost/w/index.php?title=Econometrics&action=edit&section=2
+ 136. file://localhost/wiki/Regression_analysis
+ 137. file://localhost/wiki/Linear_regression
+ 138. file://localhost/wiki/Experiment#Controlled_experiments
+ 139. file://localhost/wiki/Natural_experiment
+ 140. file://localhost/wiki/Omitted-variable_bias
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-3
+ 142. file://localhost/wiki/Data_set
+ 143. file://localhost/wiki/Time-series_data
+ 144. file://localhost/wiki/Cross-sectional_data
+ 145. file://localhost/wiki/Panel_data
+ 146. file://localhost/wiki/Multidimensional_panel_data
+ 147. file://localhost/wiki/Single_equation_methods_(econometrics)
+ 148. file://localhost/wiki/Dependent_variable
+ 149. file://localhost/wiki/Simultaneous_equation_methods_(econometrics)
+ 150. file://localhost/wiki/Instrumental_variable
+ 151. file://localhost/wiki/Method_of_Moments
+ 152. file://localhost/wiki/Generalized_Method_of_Moments
+ 153. file://localhost/wiki/Bayesian
+ 154. file://localhost/wiki/2SLS
+ 155. file://localhost/wiki/3SLS
+ 156. file://localhost/w/index.php?title=Econometrics&action=edit&section=3
+ 157. file://localhost/wiki/Labor_economics
+ 158. file://localhost/wiki/Simple_linear_regression
+ 159. file://localhost/wiki/Linear_regression
+ 160. file://localhost/wiki/Instrumental_variables
+ 161. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_note-Card:00-4
+ 162. file://localhost/w/index.php?title=Econometrics&action=edit&section=4
+ 163. file://localhost/wiki/Nobel_Memorial_Prize_in_Economic_Sciences
+ 164. file://localhost/wiki/Jan_Tinbergen
+ 165. file://localhost/wiki/Erasmus_University_Rotterdam
+ 166. file://localhost/wiki/Ragnar_Frisch
+ 167. file://localhost/wiki/Lawrence_Klein
+ 168. file://localhost/wiki/University_of_Pennsylvania
+ 169. file://localhost/wiki/Trygve_Haavelmo
+ 170. file://localhost/wiki/Econometrica
+ 171. file://localhost/wiki/Daniel_McFadden
+ 172. file://localhost/wiki/James_Heckman
+ 173. file://localhost/wiki/University_of_California,_Berkeley
+ 174. file://localhost/wiki/Robert_Engle
+ 175. file://localhost/wiki/Clive_Granger
+ 176. file://localhost/wiki/University_of_California,_San_Diego
+ 177. file://localhost/wiki/Autoregressive_conditional_heteroskedasticity
+ 178. file://localhost/wiki/Cointegration
+ 179. http://www.feweb.vu.nl/econometriclinks/authors
+ 180. http://repec.org/
+ 181. http://econpapers.repec.org/
+ 182. file://localhost/w/index.php?title=Econometrics&action=edit&section=5
+ 183. file://localhost/wiki/Econometrica
+ 184. file://localhost/wiki/Journal_of_Econometrics
+ 185. file://localhost/wiki/Review_of_Economics_and_Statistics
+ 186. file://localhost/wiki/Econometric_Theory
+ 187. file://localhost/wiki/Journal_of_Applied_Econometrics
+ 188. file://localhost/wiki/Econometric_Reviews
+ 189. file://localhost/wiki/Journal_of_Business_and_Economic_Statistics
+ 190. file://localhost/w/index.php?title=Econometrics&action=edit&section=6
+ 191. file://localhost/wiki/Cowles_Foundation
+ 192. file://localhost/wiki/Correlation_does_not_imply_causation
+ 193. file://localhost/wiki/Choice_Modelling
+ 194. file://localhost/wiki/Modeling_and_analysis_of_financial_markets
+ 195. file://localhost/wiki/List_of_publications_in_economics#Econometrics
+ 196. file://localhost/wiki/Gretl
+ 197. file://localhost/wiki/Single_equation_methods_(econometrics)
+ 198. file://localhost/wiki/Granger_causality
+ 199. file://localhost/wiki/Augmented_Dickey-Fuller_test
+ 200. file://localhost/wiki/Unit_root
+ 201. file://localhost/wiki/Predetermined_variables
+ 202. file://localhost/w/index.php?title=Econometrics&action=edit&section=7
+ 203. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-0
+ 204. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-Pesaran_1-0
+ 205. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-Pesaran_1-1
+ 206. file://localhost/wiki/Mohammad_Hashem_Pesaran
+ 207. file://localhost/wiki/John_Eatwell,_Baron_Eatwell
+ 208. file://localhost/wiki/The_New_Palgrave:_A_Dictionary_of_Economics
+ 209. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-2
+ 210. http://www.econjournalwatch.org/pdf/ZiliakMcCloskeyAugust2004.pdf
+ 211. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-3
+ 212. file://localhost/wiki/The_New_Palgrave:_A_Dictionary_of_Economics
+ 213. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc807.tmp.html#cite_ref-Card:00_4-0
+ 214. file://localhost/w/index.php?title=Econometrics&action=edit&section=8
+ 215. http://www.sciencedirect.com/science?_ob=PublicationURL&_cdi=20479&_auth=y&_acct=C000050221&_version=1&_userid=10&_pubType=HS&md5=a4addc2c851e27f700bc8d6f716c6c95
+ 216. http://books.google.com/books?hl=en&lr=&id=B8I5SP69e4kC&oi=fnd&pg=PR11&ots=w8xiZdkYWb&sig=_YKfXmJbK4-F3H4zsMl8N-U5BGo#PRA1-PA396,M1
+ 217. file://localhost/w/index.php?title=Econometrics&action=edit&section=9
+ 218. http://en.wikibooks.org/wiki/Econometric_Theory
+ 219. http://bayes.cs.ucla.edu/BOOK-2K/
+ 220. file://localhost/wiki/Special:BookSources/0324113641
+ 221. http://www.oecd.org/statistics/understandingeconomicstatistics
+ 222. file://localhost/wiki/Special:BookSources/9789264033122
+ 223. file://localhost/w/index.php?title=Econometrics&action=edit&section=10
+ 224. file://localhost/wiki/D:Special:Search/Econometrics
+ 225. http://en.wiktionary.org/wiki/Special:Search/econometrics
+ 226. file://localhost/wiki/Wiktionary
+ 227. http://www.econometriclinks.com/
+ 228. http://www.econometricsociety.org/
+ 229. http://www.ectj.org/
+ 230. http://www.merlot.org/merlot/materials.htm?category=2219
+ 231. http://www.economicsnetwork.ac.uk/subjects/econometrics.htm
+ 232. http://www.aea-eu.com/
+ 233. http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm
+ 234. file://localhost/wiki/Template:Economics
+ 235. file://localhost/wiki/Template_talk:Economics
+ 236. http://en.wikipedia.org/w/index.php?title=Template:Economics&action=edit
+ 237. file://localhost/wiki/Economics
+ 238. file://localhost/wiki/Macroeconomics
+ 239. file://localhost/wiki/Adaptive_expectations
+ 240. file://localhost/wiki/Balance_of_payments
+ 241. file://localhost/wiki/Central_bank
+ 242. file://localhost/wiki/Currency
+ 243. file://localhost/wiki/Gold_standard
+ 244. file://localhost/wiki/Gresham%27s_Law
+ 245. file://localhost/wiki/Inflation_(economics)
+ 246. file://localhost/wiki/IS/LM_model
+ 247. file://localhost/wiki/Money
+ 248. file://localhost/wiki/Measures_of_national_income_and_output
+ 249. file://localhost/wiki/Monetary_policy_of_central_banks
+ 250. file://localhost/wiki/National_Income_and_Product_Accounts
+ 251. file://localhost/wiki/Purchasing_power_parity
+ 252. file://localhost/wiki/Rational_Expectations
+ 253. file://localhost/wiki/Reaganomics
+ 254. file://localhost/wiki/Recession
+ 255. file://localhost/wiki/Unemployment
+ 256. file://localhost/wiki/Development_economics
+ 257. file://localhost/wiki/List_of_economics_topics
+ 258. file://localhost/wiki/List_of_economic_geography_topics
+ 259. file://localhost/wiki/List_of_international_trade_topics
+ 260. file://localhost/wiki/List_of_publications_in_economics#Macroeconomics
+ 261. file://localhost/wiki/Microeconomics
+ 262. file://localhost/wiki/Scarcity
+ 263. file://localhost/wiki/Opportunity_cost
+ 264. file://localhost/wiki/Supply_and_demand
+ 265. file://localhost/wiki/Elasticity_(economics)
+ 266. file://localhost/wiki/Economic_surplus
+ 267. file://localhost/wiki/Economic_shortage
+ 268. file://localhost/wiki/Aggregate_demand
+ 269. file://localhost/wiki/Consumer_theory
+ 270. file://localhost/wiki/Market_form
+ 271. file://localhost/wiki/Welfare_economics
+ 272. file://localhost/wiki/Market_failure
+ 273. file://localhost/wiki/International_economics
+ 274. file://localhost/wiki/Development_economics
+ 275. file://localhost/wiki/Labor_economics
+ 276. file://localhost/wiki/Environmental_economics
+ 277. file://localhost/wiki/Institutional_economics
+ 278. file://localhost/wiki/Normative_economics
+ 279. file://localhost/wiki/Behavioural_economics
+ 280. file://localhost/wiki/Experimental_economics
+ 281. file://localhost/wiki/Industrial_organization
+ 282. file://localhost/wiki/Public_finance
+ 283. file://localhost/wiki/Economic_psychology
+ 284. file://localhost/wiki/Economic_sociology
+ 285. file://localhost/wiki/Economic_geography
+ 286. file://localhost/wiki/Positive_(social_sciences)
+ 287. file://localhost/wiki/Category:Law_and_economics
+ 288. file://localhost/wiki/Political_economy
+ 289. file://localhost/wiki/Computational_economics
+ 290. file://localhost/wiki/Economist
+ 291. file://localhost/wiki/Adam_Smith
+ 292. file://localhost/wiki/David_Ricardo
+ 293. file://localhost/wiki/Karl_Marx
+ 294. file://localhost/wiki/Ludwig_von_Mises
+ 295. file://localhost/wiki/John_Maynard_Keynes
+ 296. file://localhost/wiki/Milton_Friedman
+ 297. file://localhost/wiki/Category:Economists
+ 298. http://en.wikipedia.org/wiki/Econometrics
+ 299. file://localhost/wiki/Special:Categories
+ 300. file://localhost/wiki/Category:Econometrics
+ 301. file://localhost/wiki/Category:Mathematical_and_quantitative_methods_(economics)
+ 302. file://localhost/wiki/Category:Metrics
+ 303. file://localhost/wiki/Category:Formal_sciences
+ 304. file://localhost/wiki/Econometrics
+ 305. file://localhost/wiki/Talk:Econometrics
+ 306. file://localhost/w/index.php?title=Econometrics&action=edit
+ 307. file://localhost/w/index.php?title=Econometrics&action=history
+ 308. file://localhost/w/index.php?title=Special:UserLogin&returnto=Econometrics
+ 309. file://localhost/wiki/Main_Page
+ 310. file://localhost/wiki/Portal:Contents
+ 311. file://localhost/wiki/Portal:Featured_content
+ 312. file://localhost/wiki/Portal:Current_events
+ 313. file://localhost/wiki/Special:Random
+ 314. file://localhost/wiki/Wikipedia:About
+ 315. file://localhost/wiki/Wikipedia:Community_portal
+ 316. file://localhost/wiki/Special:RecentChanges
+ 317. file://localhost/wiki/Wikipedia:Contact_us
+ 318. http://wikimediafoundation.org/wiki/Donate
+ 319. file://localhost/wiki/Help:Contents
+ 320. file://localhost/wiki/Special:WhatLinksHere/Econometrics
+ 321. file://localhost/wiki/Special:RecentChangesLinked/Econometrics
+ 322. file://localhost/wiki/Wikipedia:Upload
+ 323. file://localhost/wiki/Special:SpecialPages
+ 324. file://localhost/w/index.php?title=Econometrics&printable=yes
+ 325. file://localhost/w/index.php?title=Econometrics&oldid=268756052
+ 326. file://localhost/w/index.php?title=Special:Cite&page=Econometrics&id=268756052
+ 327. http://az.wikipedia.org/wiki/Ekonometrika
+ 328. http://be-x-old.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B0%D0%BD%D0%B0%D0%BC%D1%8D%D1%82%D1%80%D1%8B%D0%BA%D0%B0
+ 329. http://ca.wikipedia.org/wiki/Econometria
+ 330. http://cs.wikipedia.org/wiki/Ekonometrie
+ 331. http://da.wikipedia.org/wiki/%C3%98konometri_(%C3%B8konomi)
+ 332. http://de.wikipedia.org/wiki/%C3%96konometrie
+ 333. http://et.wikipedia.org/wiki/%C3%96konomeetria
+ 334. http://es.wikipedia.org/wiki/Econometr%C3%ADa
+ 335. http://eo.wikipedia.org/wiki/Ekonometrio
+ 336. http://fr.wikipedia.org/wiki/%C3%89conom%C3%A9trie
+ 337. http://id.wikipedia.org/wiki/Ekonometrika
+ 338. http://it.wikipedia.org/wiki/Econometria
+ 339. http://hu.wikipedia.org/wiki/%C3%96konometria
+ 340. http://nl.wikipedia.org/wiki/Econometrie
+ 341. http://no.wikipedia.org/wiki/%C3%98konometri
+ 342. http://nn.wikipedia.org/wiki/%C3%98konometri
+ 343. http://pl.wikipedia.org/wiki/Ekonometria
+ 344. http://pt.wikipedia.org/wiki/Econometria
+ 345. http://ro.wikipedia.org/wiki/Econometrie
+ 346. http://sq.wikipedia.org/wiki/Ekonometria
+ 347. http://simple.wikipedia.org/wiki/Econometrics
+ 348. http://sk.wikipedia.org/wiki/Ekonometria
+ 349. http://su.wikipedia.org/wiki/%C3%89konom%C3%A9tri
+ 350. http://fi.wikipedia.org/wiki/Ekonometria
+ 351. http://sv.wikipedia.org/wiki/Ekonometri
+ 352. http://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_l%C6%B0%E1%BB%A3ng
+ 353. http://tr.wikipedia.org/wiki/Ekonometri
+ 354. http://www.mediawiki.org/
+ 355. http://wikimediafoundation.org/
+ 356. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 357. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 358. http://www.wikimediafoundation.org/
+ 359. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 360. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 361. http://en.wikipedia.org/wiki/Non-profit_organization
+ 362. http://en.wikipedia.org/wiki/Charitable_organization
+ 363. http://wikimediafoundation.org/wiki/Privacy_policy
+ 364. file://localhost/wiki/Wikipedia:About
+ 365. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 366. file://localhost/wiki/File:GDP_nominal_per_capita_world_map_IMF_2007.PNG
+ 367. file://localhost/wiki/File:Portal.svg
+ 368. file://localhost/wiki/Main_Page
+ 369. http://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A
+ 370. http://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%AF%CE%B1
+ 371. http://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%A0%D7%95%D7%9E%D7%98%D7%A8%D7%99%D7%A7%D7%94
+ 372. http://ka.wikipedia.org/wiki/%E1%83%94%E1%83%99%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%98%E1%83%99%E1%83%90
+ 373. http://lo.wikipedia.org/wiki/%E0%BB%80%E0%BA%AD%E0%BB%82%E0%BA%84%E0%BB%82%E0%BA%99%E0%BB%80%E0%BA%A1%E0%BA%97%E0%BA%A3%E0%BA%B4%E0%BA%81
+ 374. http://mn.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA
+ 375. http://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6
+ 376. http://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0
+ 377. http://uk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0
+ 378. http://zh.wikipedia.org/wiki/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6

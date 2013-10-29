@@ -1,0 +1,543 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EPH receptor A2
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EPHA2)
+   Jump to: [7]navigation, [8]search
+
+                                                                   [9]edit
+
+   EPH receptor A2
+   [10]PDB rendering based on 1mqb.
+   Available structures: [11]1mqb
+   Identifiers
+   [12]Symbols [13]EPHA2; ECK
+   External IDs OMIM: [14]176946 [15]MGI: [16]95278
+   [17]HomoloGene: [18]20929
+   [19]Gene ontology
+   Molecular function: [20]nucleotide binding
+   [21]protein-tyrosine kinase activity
+   [22]receptor activity
+   [23]ephrin receptor activity
+   [24]ATP binding
+   [25]transferase activity
+   Cellular component: [26]integral to plasma membrane
+   [27]membrane
+   [28]integral to membrane
+   Biological process: [29]protein amino acid phosphorylation
+   [30]signal transduction
+   [31]transmembrane receptor protein tyrosine kinase signaling pathway
+   [32]multicellular organismal development
+   [33]neuron differentiation
+   [34]ephrin receptor signaling pathway
+   RNA expression pattern
+
+   [35]More reference expression data
+   Orthologs
+   Human Mouse
+   [36]Entrez [37]1969 [38]13836
+   [39]Ensembl [40]ENSG00000142627 [41]ENSMUSG00000006445
+   [42]Uniprot [43]P29317 [44]Q3UNI2
+   Refseq [45]NM_004431 (mRNA)
+   [46]NP_004422 (protein) [47]XM_982454 (mRNA)
+   [48]XP_987548 (protein)
+   Location [49]Chr 1: 16.32 - 16.36 Mb [50]Chr 4: 140.57 - 140.6 Mb
+   [51]Pubmed search [52][1] [53][2]
+
+   EPH receptor A2, also known as EPHA2, is a human [54]gene.^[55][1]
+
+   This gene belongs to the ephrin receptor subfamily of the
+   protein-tyrosine kinase family. EPH and EPH-related receptors have been
+   implicated in mediating developmental events, particularly in the
+   nervous system. Receptors in the EPH subfamily typically have a single
+   kinase domain and an extracellular region containing a Cys-rich domain
+   and 2 fibronectin type III repeats. The ephrin receptors are divided
+   into 2 groups based on the similarity of their extracellular domain
+   sequences and their affinities for binding ephrin-A and ephrin-B
+   ligands. This gene encodes a protein that binds ephrin-A
+   ligands.^[56][2]
+
+[[57]edit] References
+
+    1. [58]^ [59]"Entrez Gene: EPHA2 EPH receptor A2".
+       [60]http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetail
+       View&TermToSearch=1969.
+    2. [61]^ [62]"Entrez Gene: EPHA2 EPH receptor A2".
+       [63]http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetail
+       View&TermToSearch=1969.
+
+     * Flanagan JG, Vanderhaeghen P (1998). "The ephrins and Eph receptors
+       in neural development.". Annu. Rev. Neurosci. 21: 30945.
+       [64]doi:[65]10.1146/annurev.neuro.21.1.309. [66]PMID 9530499.
+     * Zhou R (1998). "The Eph family receptors and ligands.". Pharmacol.
+       Ther. 77 (3): 15181. [67]PMID 9576626.
+     * Holder N, Klein R (1999). "Eph receptors and ephrins: effectors of
+       morphogenesis.". Development 126 (10): 203344. [68]PMID 10207129.
+     * Wilkinson DG (2000). "Eph receptors and ephrins: regulators of
+       guidance and assembly.". Int. Rev. Cytol. 196: 177244. [69]PMID
+       10730216.
+     * Xu Q, Mellitzer G, Wilkinson DG (2001). "Roles of Eph receptors and
+       ephrins in segmental patterning.". Philos. Trans. R. Soc. Lond., B,
+       Biol. Sci. 355 (1399): 9931002. [70]doi:[71]10.1098/rstb.2000.0635.
+       [72]PMID 11128993.
+     * Wilkinson DG (2001). "Multiple roles of EPH receptors and ephrins
+       in neural development.". Nat. Rev. Neurosci. 2 (3): 15564. [73]PMID
+       11256076.
+     * Kinch MS, Carles-Kinch K (2003). "Overexpression and functional
+       alterations of the EphA2 tyrosine kinase in cancer.". Clin. Exp.
+       Metastasis 20 (1): 5968. [74]PMID 12650608.
+     * Walker-Daniels J, Hess AR, Hendrix MJ, Kinch MS (2003).
+       "Differential regulation of EphA2 in normal and malignant cells.".
+       Am. J. Pathol. 162 (4): 103742. [75]PMID 12651595.
+     * Lindberg RA, Hunter T (1991). "cDNA cloning and characterization of
+       eck, an epithelial cell receptor protein-tyrosine kinase in the
+       eph/elk family of protein kinases.". Mol. Cell. Biol. 10 (12):
+       631624. [76]PMID 2174105.
+     * Pandey A, Shao H, Marks RM, et al. (1995). "Role of B61, the ligand
+       for the Eck receptor tyrosine kinase, in TNF-alpha-induced
+       angiogenesis.". Science 268 (5210): 5679. [77]PMID 7536959.
+     * Pandey A, Duan H, Dixit VM (1995). "Characterization of a novel
+       Src-like adapter protein that associates with the Eck receptor
+       tyrosine kinase.". J. Biol. Chem. 270 (33): 192014. [78]PMID
+       7543898.
+     * Ruiz JC, Robertson EJ (1994). "The expression of the
+       receptor-protein tyrosine kinase gene, eck, is highly restricted
+       during early mouse development.". Mech. Dev. 46 (2): 87100.
+       [79]PMID 7918100.
+     * Davis S, Gale NW, Aldrich TH, et al. (1994). "Ligands for
+       EPH-related receptor tyrosine kinases that require membrane
+       attachment or clustering for activity.". Science 266 (5186): 8169.
+       [80]PMID 7973638.
+     * Pandey A, Lazar DF, Saltiel AR, Dixit VM (1994). "Activation of the
+       Eck receptor protein tyrosine kinase stimulates
+       phosphatidylinositol 3-kinase activity.". J. Biol. Chem. 269 (48):
+       301547. [81]PMID 7982920.
+     * Ganju P, Shigemoto K, Brennan J, et al. (1994). "The Eck receptor
+       tyrosine kinase is implicated in pattern formation during
+       gastrulation, hindbrain segmentation and limb development.".
+       Oncogene 9 (6): 161324. [82]PMID 8183555.
+     * Gale NW, Holland SJ, Valenzuela DM, et al. (1996). "Eph receptors
+       and ligands comprise two major specificity subclasses and are
+       reciprocally compartmentalized during embryogenesis.". Neuron 17
+       (1): 919. [83]PMID 8755474.
+     * Sulman EP, Tang XX, Allen C, et al. (1997). "ECK, a human
+       EPH-related gene, maps to 1p36.1, a common region of alteration in
+       human cancers.". Genomics 40 (2): 3714.
+       [84]doi:[85]10.1006/geno.1996.4569. [86]PMID 9119409.
+     * Kozlosky CJ, VandenBos T, Park L, et al. (1997). "LERK-7: a ligand
+       of the Eph-related kinases is developmentally regulated in the
+       brain.". Cytokine 9 (8): 5409. [87]doi:[88]10.1006/cyto.1997.0199.
+       [89]PMID 9245480.
+     * "Unified nomenclature for Eph family receptors and their ligands,
+       the ephrins. Eph Nomenclature Committee.". Cell 90 (3): 4034. 1997.
+       [90]PMID 9267020.
+
+    This article on a [91]gene on [92]chromosome 1 is a [93]stub. You can
+   help Wikipedia by [94]expanding it.
+   [95]v  [96]d  [97]e
+   [98]Protein kinases: [99]tyrosine kinases ([100]EC 2.7.10)
+
+   [101]Receptor tyrosine kinases ([102]EC 2.7.10.1)
+   [103]EGF receptor family
+   [104]EGFR  [105]ERBB2  [106]ERBB3  [107]ERBB4
+   [108]Insulin receptor family
+   [109]IGF1R  [110]INSR  [111]INSRR
+   [112]PDGF receptor family
+   [113]CSF1R  [114]FLT3  [115]KIT  [116]PDGFR ([117]PDGFRA, [118]PDGFRB)
+   [119]FGF receptor family
+   [120]FGFR1  [121]FGFR2  [122]FGFR3  [123]FGFR4
+   [124]VEGF receptors family
+   [125]VEGFR1  [126]VEGFR2  [127]VEGFR3  [128]VEGFR4
+   [129]HGF receptor family
+   [130]MET  [131]RON
+   [132]Trk receptor family
+   [133]NTRK1  [134]NTRK2  [135]NTRK3
+   [136]EPH receptor family
+   [137]EPHA1  EPHA2  [138]EPHA3  [139]EPHA4  [140]EPHA5  [141]EPHA6
+   [142]EPHA7  [143]EPHA8  [144]EPHB1  [145]EPHB2  [146]EPHB3  [147]EPHB4
+   [148]EPHB5  [149]EPHB6  [150]EPHX
+   [151]LTK receptor family
+   [152]LTK  [153]ALK
+   [154]TIE receptor family
+   [155]TIE  [156]TEK
+   [157]ROR receptor family
+   [158]ROR1  [159]ROR2
+   [160]DDR receptor family
+   [161]DDR1  [162]DDR2
+   [163]PTK7 receptor family
+   [164]PTK7
+   [165]RYK receptor family
+   [166]RYK
+   [167]MuSK receptor family
+   [168]MUSK
+   [169]ROS receptor family
+   [170]ROS1
+   [171]AATYK receptor family
+   [172]AATYK  [173]AATYK2  [174]AATYK3
+   [175]AXL receptor family
+   [176]AXL  [177]MER  [178]TYRO3
+   [179]RET receptor family
+   [180]RET
+   uncatagorised
+   [181]DKFZp761P1010
+
+   [182]Non-receptor tyrosine kinases ([183]EC 2.7.10.2)
+   [184]ABL family
+   [185]ABL1  [186]ARG
+   [187]ACK family
+   [188]ACK1  [189]TNK1
+   [190]CSK family
+   [191]CSK  [192]MATK
+   [193]FAK family
+   [194]FAK  [195]PYK2
+   [196]FES family
+   [197]FES  [198]FER
+   [199]FRK family
+   [200]FRK  [201]BRK  [202]SRMS
+   [203]JAK family
+   [204]JAK1  [205]JAK2  [206]JAK3  [207]TYK2
+   [208]SRC-A family
+   [209]SRC  [210]FGR  [211]FYN  [212]YES1
+   [213]SRC-B family
+   [214]BLK  [215]HCK  [216]LCK  [217]LYN
+   [218]TEC family
+   [219]TEC  [220]BMX  [221]BTK  [222]ITK  [223]TXK
+   [224]SYK family
+   [225]SYK  [226]ZAP70
+
+   Retrieved from "[227]http://en.wikipedia.org/wiki/EPH_receptor_A2"
+   [228]Categories: [229]Genes on chromosome 1 | [230]Human proteins |
+   [231]Chromosome 1 gene stubs
+
+Views
+
+     * [232]Article
+     * [233]Discussion
+     * [234]Edit this page
+     * [235]History
+
+Personal tools
+
+     * [236]Log in / create account
+
+Navigation
+
+     * [237]Main page
+     * [238]Contents
+     * [239]Featured content
+     * [240]Current events
+     * [241]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [242]About Wikipedia
+     * [243]Community portal
+     * [244]Recent changes
+     * [245]Contact Wikipedia
+     * [246]Donate to Wikipedia
+     * [247]Help
+
+Toolbox
+
+     * [248]What links here
+     * [249]Related changes
+     * [250]Upload file
+     * [251]Special pages
+     * [252]Printable version
+     * [253]Permanent link
+     * [254]Cite this page
+
+   [255]Powered by MediaWiki
+   [256]Wikimedia Foundation
+     * This page was last modified on 7 November 2008, at 09:05.
+     * All text is available under the terms of the [257]GNU Free
+       Documentation License. (See [258]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [259]Wikimedia
+       Foundation, Inc., a U.S. registered [260]501(c)(3)
+       [261]tax-deductible [262]nonprofit [263]charity.
+     * [264]Privacy policy
+     * [265]About Wikipedia
+     * [266]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EPH_receptor_A2&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EPHA2&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#searchInput
+   9. http://en.wikipedia.org/w/index.php?title=Template:PBB/1969&action=edit
+  10. file://localhost/wiki/Protein_Data_Bank
+  11. http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1mqb
+  12. file://localhost/wiki/HUGO
+  13. http://www.genenames.org/data/hgnc_data.php?hgnc_id=3386
+  14. http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=176946
+  15. file://localhost/wiki/Mouse_Genome_Informatics
+  16. http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95278
+  17. file://localhost/wiki/HomoloGene
+  18. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=homologene&dopt=HomoloGene&list_uids=20929
+  19. file://localhost/wiki/Gene_ontology
+  20. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0000166
+  21. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0004713
+  22. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0004872
+  23. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005003
+  24. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005524
+  25. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0016740
+  26. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005887
+  27. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0016020
+  28. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0016021
+  29. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0006468
+  30. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0007165
+  31. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0007169
+  32. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0007275
+  33. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0030182
+  34. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0048013
+  35. http://symatlas.gnf.org/SymAtlas/symquery?q=EPHA2
+  36. file://localhost/wiki/Entrez
+  37. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&cmd=retrieve&dopt=default&list_uids=1969&rn=1
+  38. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&cmd=retrieve&dopt=default&list_uids=13836&rn=1
+  39. file://localhost/wiki/Ensembl
+  40. http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000142627;db=core
+  41. http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000006445;db=core
+  42. file://localhost/wiki/Uniprot
+  43. http://www.expasy.org/uniprot/P29317
+  44. http://www.expasy.org/uniprot/Q3UNI2
+  45. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_004431
+  46. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_004422
+  47. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_982454
+  48. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XP_987548
+  49. http://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&position=chr1:16323419-16355169
+  50. http://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&position=chr4:140573316-140601454
+  51. file://localhost/wiki/Pubmed
+  52. http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Link&LinkName=gene_pubmed&from_uid=1969
+  53. http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Link&LinkName=gene_pubmed&from_uid=13836
+  54. file://localhost/wiki/Gene
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#cite_note-0
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#cite_note-entrez-1
+  57. file://localhost/w/index.php?title=EPH_receptor_A2&action=edit&section=1
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#cite_ref-0
+  59. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1969
+  60. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1969
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc659.tmp.html#cite_ref-entrez_1-0
+  62. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1969
+  63. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1969
+  64. file://localhost/wiki/Digital_object_identifier
+  65. http://dx.doi.org/10.1146%2Fannurev.neuro.21.1.309
+  66. http://www.ncbi.nlm.nih.gov/pubmed/9530499
+  67. http://www.ncbi.nlm.nih.gov/pubmed/9576626
+  68. http://www.ncbi.nlm.nih.gov/pubmed/10207129
+  69. http://www.ncbi.nlm.nih.gov/pubmed/10730216
+  70. file://localhost/wiki/Digital_object_identifier
+  71. http://dx.doi.org/10.1098%2Frstb.2000.0635
+  72. http://www.ncbi.nlm.nih.gov/pubmed/11128993
+  73. http://www.ncbi.nlm.nih.gov/pubmed/11256076
+  74. http://www.ncbi.nlm.nih.gov/pubmed/12650608
+  75. http://www.ncbi.nlm.nih.gov/pubmed/12651595
+  76. http://www.ncbi.nlm.nih.gov/pubmed/2174105
+  77. http://www.ncbi.nlm.nih.gov/pubmed/7536959
+  78. http://www.ncbi.nlm.nih.gov/pubmed/7543898
+  79. http://www.ncbi.nlm.nih.gov/pubmed/7918100
+  80. http://www.ncbi.nlm.nih.gov/pubmed/7973638
+  81. http://www.ncbi.nlm.nih.gov/pubmed/7982920
+  82. http://www.ncbi.nlm.nih.gov/pubmed/8183555
+  83. http://www.ncbi.nlm.nih.gov/pubmed/8755474
+  84. file://localhost/wiki/Digital_object_identifier
+  85. http://dx.doi.org/10.1006%2Fgeno.1996.4569
+  86. http://www.ncbi.nlm.nih.gov/pubmed/9119409
+  87. file://localhost/wiki/Digital_object_identifier
+  88. http://dx.doi.org/10.1006%2Fcyto.1997.0199
+  89. http://www.ncbi.nlm.nih.gov/pubmed/9245480
+  90. http://www.ncbi.nlm.nih.gov/pubmed/9267020
+  91. file://localhost/wiki/Gene
+  92. file://localhost/wiki/Chromosome_1
+  93. file://localhost/wiki/Wikipedia:Stub
+  94. http://en.wikipedia.org/w/index.php?stub&title=EPH_receptor_A2&action=edit
+  95. file://localhost/wiki/Template:Tyrosine_kinases
+  96. file://localhost/wiki/Template_talk:Tyrosine_kinases
+  97. http://en.wikipedia.org/w/index.php?title=Template:Tyrosine_kinases&action=edit
+  98. file://localhost/wiki/Protein_kinase
+  99. file://localhost/wiki/Tyrosine_kinase
+ 100. file://localhost/wiki/EC_number
+ 101. file://localhost/wiki/Receptor_tyrosine_kinase
+ 102. file://localhost/wiki/EC_number
+ 103. file://localhost/wiki/ErbB
+ 104. file://localhost/wiki/Epidermal_growth_factor_receptor
+ 105. file://localhost/wiki/HER2/neu
+ 106. file://localhost/wiki/ERBB3
+ 107. file://localhost/wiki/ERBB4
+ 108. file://localhost/wiki/Insulin_receptor
+ 109. file://localhost/wiki/Insulin-like_growth_factor_1_receptor
+ 110. file://localhost/wiki/Insulin_receptor
+ 111. file://localhost/wiki/INSRR
+ 112. file://localhost/wiki/RTK_class_III
+ 113. file://localhost/wiki/Colony_stimulating_factor_1_receptor
+ 114. file://localhost/wiki/CD135
+ 115. file://localhost/wiki/CD117
+ 116. file://localhost/wiki/Platelet-derived_growth_factor_receptor
+ 117. file://localhost/wiki/PDGFRA
+ 118. file://localhost/wiki/PDGFRB
+ 119. file://localhost/wiki/Fibroblast_growth_factor_receptor
+ 120. file://localhost/wiki/Fibroblast_growth_factor_receptor_1
+ 121. file://localhost/wiki/Fibroblast_growth_factor_receptor_2
+ 122. file://localhost/wiki/FGFR3
+ 123. file://localhost/wiki/Fibroblast_growth_factor_receptor_4
+ 124. file://localhost/wiki/VEGF_receptors
+ 125. file://localhost/wiki/FLT1
+ 126. file://localhost/wiki/Kinase_insert_domain_receptor
+ 127. file://localhost/wiki/VEGFR3
+ 128. file://localhost/w/index.php?title=VEGFR4&action=edit&redlink=1
+ 129. file://localhost/wiki/C-Met
+ 130. file://localhost/wiki/C-Met
+ 131. file://localhost/wiki/MST1R
+ 132. file://localhost/wiki/Trk_receptor
+ 133. file://localhost/wiki/TrkA
+ 134. file://localhost/wiki/NTRK2
+ 135. file://localhost/wiki/NTRK3
+ 136. file://localhost/wiki/Eph_receptor
+ 137. file://localhost/wiki/EPH_receptor_A1
+ 138. file://localhost/wiki/EPHA3
+ 139. file://localhost/wiki/EPH_receptor_A4
+ 140. file://localhost/wiki/EPHA5
+ 141. file://localhost/wiki/EPHA6
+ 142. file://localhost/wiki/EPHA7
+ 143. file://localhost/wiki/EPHA8
+ 144. file://localhost/wiki/EPH_receptor_B1
+ 145. file://localhost/wiki/EPH_receptor_B2
+ 146. file://localhost/wiki/EPHB3
+ 147. file://localhost/wiki/EPH_receptor_B4
+ 148. file://localhost/w/index.php?title=EPHB5&action=edit&redlink=1
+ 149. file://localhost/wiki/EPHB6
+ 150. file://localhost/w/index.php?title=EPHX&action=edit&redlink=1
+ 151. file://localhost/wiki/LTK_(gene)
+ 152. file://localhost/wiki/LTK_(gene)
+ 153. file://localhost/wiki/Anaplastic_lymphoma_kinase
+ 154. file://localhost/wiki/Angiopoietin_receptor
+ 155. file://localhost/wiki/TIE1
+ 156. file://localhost/wiki/TEK_tyrosine_kinase
+ 157. file://localhost/w/index.php?title=ROR_receptor&action=edit&redlink=1
+ 158. file://localhost/w/index.php?title=ROR1&action=edit&redlink=1
+ 159. file://localhost/wiki/ROR2
+ 160. file://localhost/wiki/DDR1
+ 161. file://localhost/wiki/DDR1
+ 162. file://localhost/wiki/DDR2_(gene)
+ 163. file://localhost/wiki/PTK7
+ 164. file://localhost/wiki/PTK7
+ 165. file://localhost/wiki/Related_to_receptor_tyrosine_kinase
+ 166. file://localhost/wiki/Related_to_receptor_tyrosine_kinase
+ 167. file://localhost/wiki/MuSK_protein
+ 168. file://localhost/wiki/MuSK_protein
+ 169. file://localhost/wiki/ROS1_(gene)
+ 170. file://localhost/wiki/ROS1_(gene)
+ 171. file://localhost/wiki/AATK
+ 172. file://localhost/wiki/AATK
+ 173. file://localhost/wiki/AATYK2
+ 174. file://localhost/w/index.php?title=AATYK3&action=edit&redlink=1
+ 175. file://localhost/wiki/AXL_receptor_tyrosine_kinase
+ 176. file://localhost/wiki/AXL_receptor_tyrosine_kinase
+ 177. file://localhost/wiki/MERTK
+ 178. file://localhost/wiki/TYRO3
+ 179. file://localhost/wiki/RET_proto-oncogene
+ 180. file://localhost/wiki/RET_proto-oncogene
+ 181. file://localhost/w/index.php?title=DKFZp761P1010&action=edit&redlink=1
+ 182. file://localhost/wiki/Non-specific_protein-tyrosine_kinase
+ 183. file://localhost/wiki/EC_number
+ 184. file://localhost/wiki/Abl_gene
+ 185. file://localhost/wiki/Abl_gene
+ 186. file://localhost/wiki/ABL2
+ 187. file://localhost/wiki/TNK2
+ 188. file://localhost/wiki/TNK2
+ 189. file://localhost/w/index.php?title=TNK1&action=edit&redlink=1
+ 190. file://localhost/wiki/C-src_tyrosine_kinase
+ 191. file://localhost/wiki/C-src_tyrosine_kinase
+ 192. file://localhost/wiki/Megakaryocyte-associated_tyrosine_kinase
+ 193. file://localhost/wiki/PTK2
+ 194. file://localhost/wiki/PTK2
+ 195. file://localhost/wiki/PTK2B
+ 196. file://localhost/wiki/Feline_sarcoma_oncogene
+ 197. file://localhost/wiki/Feline_sarcoma_oncogene
+ 198. file://localhost/wiki/FER_(gene)
+ 199. file://localhost/wiki/FRK_(gene)
+ 200. file://localhost/wiki/FRK_(gene)
+ 201. file://localhost/wiki/PTK6
+ 202. file://localhost/w/index.php?title=SRMS_(gene)&action=edit&redlink=1
+ 203. file://localhost/wiki/Janus_kinase
+ 204. file://localhost/wiki/Janus_kinase_1
+ 205. file://localhost/wiki/Janus_kinase_2
+ 206. file://localhost/wiki/Janus_kinase_3
+ 207. file://localhost/wiki/Tyrosine_kinase_2
+ 208. file://localhost/w/index.php?title=SRC-A&action=edit&redlink=1
+ 209. file://localhost/wiki/Src_(gene)
+ 210. file://localhost/wiki/FGR_(gene)
+ 211. file://localhost/wiki/FYN
+ 212. file://localhost/wiki/YES1
+ 213. file://localhost/w/index.php?title=SRC-B&action=edit&redlink=1
+ 214. file://localhost/wiki/BLK_(gene)
+ 215. file://localhost/wiki/HCK
+ 216. file://localhost/wiki/Lck
+ 217. file://localhost/wiki/LYN
+ 218. file://localhost/wiki/TEC_(gene)
+ 219. file://localhost/wiki/TEC_(gene)
+ 220. file://localhost/wiki/BMX_(gene)
+ 221. file://localhost/wiki/Bruton%27s_tyrosine_kinase
+ 222. file://localhost/wiki/ITK_(gene)
+ 223. file://localhost/wiki/TXK_(gene)
+ 224. file://localhost/wiki/Syk
+ 225. file://localhost/wiki/Syk
+ 226. file://localhost/wiki/ZAP-70
+ 227. http://en.wikipedia.org/wiki/EPH_receptor_A2
+ 228. file://localhost/wiki/Special:Categories
+ 229. file://localhost/wiki/Category:Genes_on_chromosome_1
+ 230. file://localhost/wiki/Category:Human_proteins
+ 231. file://localhost/wiki/Category:Chromosome_1_gene_stubs
+ 232. file://localhost/wiki/EPH_receptor_A2
+ 233. file://localhost/wiki/Talk:EPH_receptor_A2
+ 234. file://localhost/w/index.php?title=EPH_receptor_A2&action=edit
+ 235. file://localhost/w/index.php?title=EPH_receptor_A2&action=history
+ 236. file://localhost/w/index.php?title=Special:UserLogin&returnto=EPH_receptor_A2
+ 237. file://localhost/wiki/Main_Page
+ 238. file://localhost/wiki/Portal:Contents
+ 239. file://localhost/wiki/Portal:Featured_content
+ 240. file://localhost/wiki/Portal:Current_events
+ 241. file://localhost/wiki/Special:Random
+ 242. file://localhost/wiki/Wikipedia:About
+ 243. file://localhost/wiki/Wikipedia:Community_portal
+ 244. file://localhost/wiki/Special:RecentChanges
+ 245. file://localhost/wiki/Wikipedia:Contact_us
+ 246. http://wikimediafoundation.org/wiki/Donate
+ 247. file://localhost/wiki/Help:Contents
+ 248. file://localhost/wiki/Special:WhatLinksHere/EPH_receptor_A2
+ 249. file://localhost/wiki/Special:RecentChangesLinked/EPH_receptor_A2
+ 250. file://localhost/wiki/Wikipedia:Upload
+ 251. file://localhost/wiki/Special:SpecialPages
+ 252. file://localhost/w/index.php?title=EPH_receptor_A2&printable=yes
+ 253. file://localhost/w/index.php?title=EPH_receptor_A2&oldid=250200446
+ 254. file://localhost/w/index.php?title=Special:Cite&page=EPH_receptor_A2&id=250200446
+ 255. http://www.mediawiki.org/
+ 256. http://wikimediafoundation.org/
+ 257. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 258. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 259. http://www.wikimediafoundation.org/
+ 260. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 261. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 262. http://en.wikipedia.org/wiki/Non-profit_organization
+ 263. http://en.wikipedia.org/wiki/Charitable_organization
+ 264. http://wikimediafoundation.org/wiki/Privacy_policy
+ 265. file://localhost/wiki/Wikipedia:About
+ 266. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 267. file://localhost/wiki/File:PBB_Protein_EPHA2_image.jpg
+ 268. file://localhost/wiki/File:PBB_GE_EPHA2_203499_at_tn.png
+ 269. file://localhost/wiki/File:DNA_stub.png
+ 270. file://localhost/wiki/Main_Page

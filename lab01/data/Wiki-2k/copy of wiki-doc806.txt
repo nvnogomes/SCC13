@@ -1,0 +1,1590 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Ecology
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Ecological factor)
+   Jump to: [7]navigation, [8]search
+   For the journal, see [9]Ecology (journal).
+   This article needs additional [10]citations for [11]verification.
+   Please help [12]improve this article by adding [13]reliable references.
+   Unsourced material may be [14]challenged and removed. (May 2007)
+   [15]Eugenius Warming founded ecology as a scientific discipline
+
+   Ecology (from Greek okos, "house"; -, -logia, study of) is the
+   [16]scientific study of the distribution and [17]abundance of [18]life
+   and the [19]interactions between [20]organisms and their [21]natural
+   [22]environment.^[23][1] The environment of an organism includes
+   physical properties, which can be described as the sum of local
+   [24]abiotic factors such as [25]insolation (sunlight), [26]climate, and
+   geology, and biotic [27]ecosystem, which includes other organisms that
+   share its [28]habitat.^[29][2]
+
+   The word "ecology" is often used colloquially in such terms as
+   [30]social ecology and [31]deep ecology and in common parlance as a
+   synonym for the [32]natural environment or [33]environmentalism.
+   Likewise "ecologic" or "ecological" is often taken in the sense of
+   [34]environmentally friendly.
+
+   The term ecology or oekologie was coined by the German biologist
+   [35]Ernst Haeckel in 1866, when he defined it as "the comprehensive
+   science of the relationship of the organism to the
+   environment."^[36][3] Haeckel did not elaborate on the concept, and the
+   first significant textbook on the subject (together with the first
+   university course) was written by the [37]Danish [38]botanist,
+   [39]Eugenius Warming. For this early work, Warming is often identified
+   as the founder of ecology.^[40][4]
+
+Contents
+
+     * [41]1 Scope
+          + [42]1.1 Disciplines
+     * [43]2 History
+     * [44]3 Fundamental principles
+          + [45]3.1 Levels of organization
+          + [46]3.2 Biosphere
+          + [47]3.3 Ecosystem
+          + [48]3.4 Dynamics and stability
+          + [49]3.5 Spatial relationships and subdivisions of land
+          + [50]3.6 Ecosystem productivity
+          + [51]3.7 Ecological crisis
+     * [52]4 See also
+          + [53]4.1 Lists
+          + [54]4.2 Related topics
+     * [55]5 Notes
+     * [56]6 References
+     * [57]7 External links
+
+[[58]edit] Scope
+
+   A coral reef near the Hawaiian islands is an example of a complex
+   marine ecosystem.
+
+   Ecology is usually considered as a branch of biology, the general
+   science that studies living organisms. Organisms can be studied at many
+   different levels, from [59]proteins and [60]nucleic acids (in
+   [61]biochemistry and [62]molecular biology), to [63]cells (in
+   [64]cellular biology), to individuals (in [65]botany, [66]zoology, and
+   other similar disciplines), and finally at the level of
+   [67]populations, communities, and [68]ecosystems, to the [69]biosphere
+   as a whole; these latter strata are the primary subjects of ecological
+   inquiry. Ecology is a [70]multidisciplinary science. Because of its
+   focus on the higher levels of the organization of [71]life on earth and
+   on the interrelations between organisms and their [72]environment,
+   ecology draws on many other branches of science, especially geology and
+   geography, [73]meteorology, [74]pedology, genetics, chemistry, and
+   physics. Thus, ecology is considered by some to be a [75]holistic
+   science, one that over-arches older disciplines such as biology which
+   in this view become sub-disciplines contributing to ecological
+   knowledge. In support of viewing ecology as a subject in its own right
+   as opposed to a sub-discipline of biology, [76]Robert Ulanowicz stated
+   that "The emerging picture of ecosystem behavior does not resemble the
+   worldview imparted by an extrapolation of conceptual trends established
+   in other sciences."^[77][5]
+
+   Agriculture, fisheries, forestry, medicine, and urban development are
+   among human activities that would fall within Krebs' (1972: 4)
+   explanation of his definition of ecology: where organisms are found,
+   how many occur there, and why.
+
+   Ecological knowledge such as the quantification of [78]biodiversity and
+   [79]population dynamics has provided a scientific basis for expressing
+   the aims of [80]environmentalism and evaluating its goals and policies.
+   Additionally, a [81]holistic view of nature is stressed in both ecology
+   and environmentalism.
+
+   Consider the ways an ecologist might approach studying the life of
+   honeybees:
+     * The behavioral relationship between individuals of a species is
+       behavioral ecologyfor example, the study of the queen bee, and how
+       she relates to the worker bees and the drones.
+     * The organized activity of a species is community ecology; for
+       example, the activity of bees assures the [82]pollination of
+       [83]flowering plants. Beehives additionally produce honey which is
+       consumed by still other species, such as bears.
+     * The relationship between the environment and a species is
+       environmental ecologyfor example, the consequences of environmental
+       change on bee activity. Bees may die out due to environmental
+       changes (see [84]pollinator decline). The environment
+       simultaneously affects and is a consequence of this activity and is
+       thus intertwined with the survival of the species.
+
+[[85]edit] Disciplines
+
+          Main article: [86]Ecology (disciplines)
+
+   Ecology is a broad discipline comprising many sub-disciplines. A
+   common, broad classification, moving from lowest to highest complexity,
+   where complexity is defined as the number of entities and processes in
+   the system under study, is:
+     * [87]Ecophysiology examines how the physiological functions of
+       organisms influence the way they interact with the environment,
+       both biotic and abiotic.
+     * [88]Behavioral ecology examines the roles of behavior in enabling
+       an animal to adapt to its environment.
+     * [89]Population ecology studies the dynamics of populations of a
+       single species.
+     * [90]Community ecology (or synecology) focuses on the interactions
+       between species within an ecological community.
+     * [91]Ecosystem ecology studies the flows of energy and matter
+       through the biotic and abiotic components of [92]ecosystems.
+     * [93]Systems ecology is an interdisciplinary field focusing on the
+       study, development, and organization of ecological systems from a
+       [94]holistic perspective.
+     * [95]Landscape ecology examines processes and relationship in a
+       spatially explicit manner, often across multiple ecosystems or very
+       large geographic areas.
+     * [96]Evolutionary ecology studies ecology in a way that explicitly
+       considers the evolutionary histories of species and their
+       interactions.
+     * [97]Political ecology connects politics and economy to problems of
+       environmental control and ecological change.
+
+   Ecology can also be sub-divided according to the species of interest
+   into fields such as [98]animal ecology, plant ecology, [99]insect
+   ecology, [100]marine ecology, and so on. Another frequent method of
+   subdivision is by [101]biome studied, e.g., [102]Arctic ecology (or
+   [103]polar ecology), [104]tropical ecology, [105]desert ecology, etc.
+   The primary technique used for investigation is often used to subdivide
+   the discipline into groups such as [106]chemical ecology, [107]genetic
+   ecology, [108]field ecology, [109]statistical ecology, [110]theoretical
+   ecology, and so forth. These fields are not mutually exclusive.
+
+[[111]edit] History
+
+          Main article: [112]History of ecology
+
+[[113]edit] Fundamental principles
+
+[[114]edit] Levels of organization
+
+   Some of the biodiversity of a [115]coral reef.
+
+   Ecology can be studied at a wide range of levels, from large to small
+   scale. These levels of ecological organization, as well as an example
+   of a question ecologists would ask at each level, include:
+     * [116]Biosphere: " What role does concentration of atmospheric
+       [117]carbon dioxide play in the regulation of global
+       [118]temperature?"
+     * [119]Region: "How has geological history influenced regional
+       diversity within certain groups of organisms?"
+     * [120]Landscape: "How do vegetated corridors affect the rate of
+       movement by mammals among isolated fragments?"
+     * [121]Ecosystem: "How does fire affect nutrient availability in
+       grassland ecosystems?"
+     * [122]Community: "How does disturbance influence the number of
+       mammal species in African grasslands?"
+     * [123]Interactions: "What evolutionary benefit do zebras gain by
+       allowing birds to remove parasites?"
+     * [124]Population: "What factors control zebra populations?"
+     * [125]Individual: "How do zebras regulate internal water balance?"
+          + These levels range from broadest to most specific.^[126][6]
+
+[[127]edit] Biosphere
+
+          Main articles: [128]Biosphere, [129]Biodiversity, and
+          [130]Unified neutral theory of biodiversity
+
+   For modern ecologists, ecology can be studied at several levels:
+   population level (individuals of the same species in the same or
+   similar environment), [131]biocoenosis level (or community of species),
+   [132]ecosystem level, and [133]biosphere level.
+
+   The outer layer of the planet Earth can be divided into several
+   compartments: the [134]hydrosphere (or sphere of water), the
+   [135]lithosphere (or sphere of soils and rocks), and the
+   [136]atmosphere (or sphere of the air). The [137]biosphere (or sphere
+   of life), sometimes described as "the fourth envelope," is all living
+   matter on the planet or that portion of the planet occupied by life. It
+   reaches well into the other three spheres, although there are no
+   permanent inhabitants of the atmosphere. Relative to the volume of the
+   Earth, the biosphere is only the very thin surface layer that extends
+   from 11,000 meters below sea level to 15,000 meters above.
+
+   It is thought that life first developed in the hydrosphere, at shallow
+   depths, in the [138]photic zone. (Recently, though, a competing theory
+   has emerged, that life originated around [139]hydrothermal vents in the
+   deeper ocean. See [140]Origin of life.) Multicellular organisms then
+   appeared and colonized [141]benthic zones. [142]Photosynthetic
+   organisms gradually produced the chemically unstable oxygen-rich
+   atmosphere that characterizes our planet. Terrestrial life developed
+   later, protected from [143]UV rays by the [144]ozone layer.
+   Diversification of terrestrial species is thought to be increased by
+   the continents [145]drifting apart, or alternately, colliding.
+   Biodiversity is expressed at the ecological level (ecosystem),
+   population level (intraspecific diversity), species level (specific
+   diversity), and genetic level.
+
+   The biosphere contains great quantities of elements such as
+   [146]carbon, [147]nitrogen, [148]hydrogen, and oxygen. Other elements,
+   such as [149]phosphorus, [150]calcium, and [151]potassium, are also
+   essential to life, yet are present in smaller amounts. At the ecosystem
+   and biosphere levels, there is a continual recycling of all these
+   elements, which alternate between the mineral and organic states.
+
+   Although there is a slight input of geothermal energy, the bulk of the
+   functioning of the ecosystem is based on the input of solar energy.
+   Plants and photosynthetic microorganisms convert light into chemical
+   energy by the process of [152]photosynthesis, which creates
+   [153]glucose (a simple sugar) and releases free oxygen. Glucose thus
+   becomes the secondary energy source that drives the ecosystem. Some of
+   this glucose is used directly by other organisms for energy. Other
+   sugar molecules can be converted to molecules such as [154]amino acids.
+   Plants use some of this sugar, concentrated in [155]nectar, to entice
+   pollinators to aid them in reproduction.
+
+   [156]Cellular respiration is the process by which organisms (like
+   mammals) break the glucose back down into its constituents, water and
+   [157]carbon dioxide, thus regaining the stored energy the sun
+   originally gave to the plants. The proportion of photosynthetic
+   activity of plants and other photosynthesizers to the respiration of
+   other organisms determines the specific composition of the Earth's
+   atmosphere, particularly its oxygen level. [158]Global air currents mix
+   the atmosphere and maintain nearly the same balance of elements in
+   areas of intense biological activity and areas of slight biological
+   activity.
+
+   Water is also exchanged between the hydrosphere, lithosphere,
+   atmosphere, and biosphere in regular [159]cycles. The oceans are large
+   tanks that store water, ensure thermal and climatic stability, and
+   facilitate the transport of chemical elements thanks to large
+   [160]oceanic currents.
+
+   For a better understanding of how the biosphere works, and various
+   dysfunctions related to human activity, American scientists attempted
+   to simulate the biosphere in a small-scale model, called [161]Biosphere
+   II.
+
+[[162]edit] Ecosystem
+
+          Main article: [163]Ecosystem
+
+   The [164]Daintree Rainforest in [165]Queensland, Australia is an
+   example of a [166]forest ecosystem.
+
+   A central principle of ecology is that each living organism has an
+   ongoing and continual relationship with every other element that makes
+   up its environment. The sum total of interacting living organisms (the
+   [167]biocoenosis) and their non-living environment (the [168]biotope)
+   in an area is termed an ecosystem. Studies of ecosystems usually focus
+   on the movement of energy and matter through the system.
+
+   Almost all ecosystems run on energy captured from the sun by
+   [169]primary producers via [170]photosynthesis. This energy then flows
+   through the food chains to [171]primary consumers ([172]herbivores who
+   eat and digest the plants), and on to [173]secondary and [174]tertiary
+   consumers (either [175]carnivores or [176]omnivores). Energy is lost to
+   living organisms when it is used by the organisms to do [177]work, or
+   is lost as [178]waste heat.
+
+   Matter is incorporated into living organisms by the primary producers.
+   Photosynthetic plants fix carbon from [179]carbon dioxide and nitrogen
+   from atmospheric nitrogen or nitrates present in the soil to produce
+   amino acids. Much of the carbon and nitrogen contained in ecosystems is
+   created by such plants, and is then consumed by secondary and tertiary
+   consumers and incorporated into themselves. Nutrients are usually
+   returned to the ecosystem via [180]decomposition. The entire movement
+   of chemicals in an ecosystem is termed a [181]biogeochemical cycle, and
+   includes the [182]carbon and [183]nitrogen cycle.
+
+   Ecosystems of any size can be studied; for example, a rock and the
+   plant life growing on it might be considered an ecosystem. This rock
+   might be within a plain, with many such rocks, small grass, and grazing
+   animals -- also an ecosystem. This plain might be in the [184]tundra,
+   which is also an ecosystem (although once they are of this size, they
+   are generally termed [185]ecozones or [186]biomes). In fact, the entire
+   terrestrial surface of the earth, all the matter which composes it, the
+   air that is directly above it, and all the living organisms living
+   within it can be considered as one, large ecosystem.
+
+   Ecosystems can be roughly divided into [187]terrestrial ecosystems
+   (including [188]forest ecosystems, [189]steppes, [190]savannas, and so
+   on), [191]freshwater ecosystems (lakes, ponds and rivers), and
+   [192]marine ecosystems, depending on the dominant biotope.
+
+[[193]edit] Dynamics and stability
+
+          Main articles: [194]Biogeochemistry, [195]Homeostasis, and
+          [196]Population dynamics
+
+   Much attention has been given to preserving the natural characteristics
+   of [197]Hopetoun Falls, Australia, while allowing ample access for
+   visitors.
+
+   Ecological factors that affect dynamic change in a population or
+   species in a given ecology or [198]environment are usually divided into
+   two groups: abiotic and biotic.
+
+   Abiotic factors are geological, geographical, [199]hydrological, and
+   climatological parameters. A biotope is an environmentally uniform
+   region characterized by a particular set of abiotic ecological factors.
+   Specific abiotic factors include:
+     * Water, which is at the same time an essential element to life and a
+       [200]milieu
+     * Air, which provides oxygen, nitrogen, and carbon dioxide to living
+       species and allows the dissemination of pollen and [201]spores
+     * Soil, at the same time a source of nutriment and physical support
+          + Soil [202]pH, [203]salinity, nitrogen and phosphorus content,
+            ability to retain water, and density are all influential
+     * Temperature, which should not exceed certain extremes, even if
+       tolerance to heat is significant for some species
+     * Light, which provides energy to the ecosystem through
+       [204]photosynthesis
+     * Natural disasters can also be considered abiotic
+
+   Biocenose, or community, is a group of populations of plants, animals,
+   microorganisms. Each population is the result of [205]procreations
+   between individuals of the same species and [206]cohabitation in a
+   given place and for a given time. When a population consists of an
+   insufficient number of individuals, that population is threatened with
+   extinction; the extinction of a species can approach when all
+   biocenoses composed of individuals of the species are in decline. In
+   small populations, [207]consanguinity (inbreeding) can result in
+   reduced [208]genetic diversity, which can further weaken the biocenose.
+
+   Biotic ecological factors also influence biocenose viability; these
+   factors are considered as either intraspecific or interspecific
+   relations.
+
+          Intraspecific relations are those that are established between
+          individuals of the same species, forming a population. They are
+          relations of [209]cooperation or [210]competition, with division
+          of the territory, and sometimes organization in hierarchical
+          societies.
+
+   An [211]antlion lies in wait under its pit trap, built in dry dust
+   under a building, awaiting unwary insects that fall in. Many pest
+   insects are partly or wholly [212]controlled by other insect predators.
+
+          Interspecific relations[213]interactions between different
+          speciesare numerous, and usually described according to their
+          beneficial, detrimental, or neutral effect (for example,
+          [214]mutualism (relation ++) or [215]competition (relation --).
+          The most significant relation is the relation of [216]predation
+          (to eat or to be eaten), which leads to the essential concepts
+          in ecology of [217]food chains (for example, the grass is
+          consumed by the herbivore, itself consumed by a carnivore,
+          itself consumed by a carnivore of larger size). A high predator
+          to prey ratio can have a negative influence on both the predator
+          and prey biocenoses in that low availability of food and high
+          death rate prior to sexual maturity can decrease (or prevent the
+          increase of) populations of each, respectively. Selective
+          hunting of species by humans that leads to population decline is
+          one example of a high predator to prey ratio in action. Other
+          interspecific relations include [218]parasitism, [219]infectious
+          disease, and competition for limited resources, which can occur
+          when two species share the same [220]ecological niche.
+
+   The existing interactions between the various living beings go along
+   with a permanent mixing of mineral and organic substances, absorbed by
+   organisms for their growth, their maintenance, and their reproduction,
+   to be finally rejected as waste. These permanent recycling of the
+   elements (in particular carbon, oxygen, and nitrogen) as well as the
+   water are called [221]biogeochemical cycles. They guarantee a durable
+   stability of the biosphere (at least when unchecked human influence and
+   extreme weather or geological phenomena are left aside). This
+   self-regulation, supported by negative [222]feedback controls, ensures
+   the perenniality of the ecosystems. It is shown by the very stable
+   concentrations of most elements of each compartment. This is referred
+   to as [223]homeostasis. The ecosystem also tends to evolve to a state
+   of ideal balance, called the [224]climax, which is reached after a
+   [225]succession of events (for example a pond can become a [226]peat
+   bog).
+
+[[227]edit] Spatial relationships and subdivisions of land
+
+          Main articles: [228]Biome and [229]ecozone
+
+   Ecosystems are not isolated from each other, but are interrelated. For
+   example, water may circulate between ecosystems by means of a river or
+   ocean current. Water itself, as a liquid medium, even defines
+   ecosystems. Some species, such as salmon or freshwater eels, move
+   between marine systems and fresh-water systems. These relationships
+   between the ecosystems lead to the concept of a biome.
+
+   A [230]biome is a homogeneous ecological formation that exists over a
+   large region, such as [231]tundra or [232]steppes. The [233]biosphere
+   comprises all of the Earth's biomes -- the entirety of places where
+   life is possible -- from the highest mountains to the depths of the
+   oceans.
+
+   Biomes correspond rather well to subdivisions distributed along the
+   latitudes, from the equator towards the [234]poles, with differences
+   based on the physical environment (for example, oceans or mountain
+   ranges) and the climate. Their variation is generally related to the
+   distribution of species according to their ability to tolerate
+   temperature, dryness, or both. For example, one may find
+   [235]photosynthetic [236]algae only in the photic part of the ocean
+   (where light penetrates), whereas [237]conifers are mostly found in
+   mountains.
+
+   Though this is a simplification of a more complicated scheme,
+   [238]latitude and [239]altitude approximate a good representation of
+   the distribution of [240]biodiversity within the biosphere. Very
+   generally, the richness of biodiversity (as well for animal as for
+   plant species) is decreasing most rapidly near the [241]equator and
+   less rapidly as one approach the poles.
+
+   The biosphere may also be divided into [242]ecozones, which are very
+   well defined today and primarily follow the continental borders. The
+   ecozones are themselves divided into [243]ecoregions, though there is
+   not agreement on their limits.
+
+[[244]edit] Ecosystem productivity
+
+   In an ecosystem, the connections between species are generally related
+   to their role in the [245]food chain. There are three categories of
+   organisms:
+   The [246]leaf is the primary site of [247]photosynthesis in plants.
+     * [248]Producers or Autotrophs -- Usually plants or
+       [249]cyanobacteria that are capable of [250]photosynthesis but
+       could be other organisms such as the bacteria near ocean vents that
+       are capable of [251]chemosynthesis.
+     * [252]Consumers or Heterotrophs -- Animals, which can be primary
+       consumers ([253]herbivorous), or secondary or tertiary consumers
+       ([254]carnivorous and [255]omnivores).
+     * [256]Decomposers or Detritivores -- [257]Bacteria, [258]fungi, and
+       [259]insects which degrade organic matter of all types and restore
+       [260]nutrients to the environment. The producers will then consume
+       the nutrients, completing the [261]cycle.
+
+   These relations form sequences, in which each individual consumes the
+   preceding one and is consumed by the one following, in what are called
+   [262]food chains or [263]food networks. In a food network, there will
+   be fewer organisms at each level as one follows the links of the
+   network up the chain, forming a [264]pyramid.
+
+   These concepts lead to the idea of [265]biomass (the total living
+   matter in an ecosystem), [266]primary productivity (the increase in
+   organic compounds), and [267]secondary productivity (the living matter
+   produced by consumers and the decomposers in a given time).
+   An ecological pyramid.
+
+   These last two ideas are key, since they make it possible to evaluate
+   the [268]carrying capacity -- the number of organisms that can be
+   supported by a given ecosystem. In any food network, the energy
+   contained in the level of the producers is not completely transferred
+   to the consumers. The higher up the chain, the more energy and
+   resources are lost. Thus, from a purely energy and nutrient point of
+   view, it is more efficient for humans to be primary consumers (to
+   subsist from vegetables, grains, legumes, fruit, etc.) than to be
+   secondary consumers (consuming herbivores, omnivores, or their
+   products) and still more so than as a tertiary consumer (consuming
+   carnivores, omnivores, or their products). An ecosystem is unstable
+   when the carrying capacity is overrun.
+
+   The total productivity of ecosystems is sometimes estimated by
+   comparing three types of land-based ecosystems and the total of aquatic
+   ecosystems. Slightly over half of [269]primary production is estimated
+   to occur on land, and the rest in the ocean.
+     * The forests (1/3 of the Earth's land area) contain dense biomasses
+       and are very productive.
+     * Savannas, meadows, and marshes (1/3 of the Earth's land area)
+       contain less dense biomasses, but are productive. These ecosystems
+       represent the major part of what humans depend on for food.
+     * Extreme ecosystems in the areas with more extreme climates --
+       deserts and semi-deserts, tundra, alpine meadows, and steppes --
+       (1/3 of the Earth's land area) have very sparse biomasses and low
+       productivity
+     * Finally, the marine and fresh water ecosystems (3/4 of Earth's
+       surface) contain very sparse biomasses (apart from the coastal
+       zones).
+
+   Ecosystems differ in biomass (grams carbon per square meter) and
+   productivity (grams carbon per square meter per day), and direct
+   comparisons of biomass and productivity may not be valid. An ecosystem
+   such as that found in [270]taiga may be high in biomass, but slow
+   growing and thus low in productivity. Ecosystems are often compared on
+   the basis of their turnover (production ratio) or turnover time which
+   is the reciprocal of turnover.
+
+   Humanity's actions over the last few centuries have seriously reduced
+   the amount of the Earth covered by forests ([271]deforestation), and
+   have increased [272]agro-ecosystems. In recent decades, an increase in
+   the areas occupied by extreme ecosystems has occurred, such as
+   [273]desertification.
+
+[[274]edit] Ecological crisis
+
+          Main article: [275]Ecological crisis
+
+   The [276]retreat of [277]Aletsch Glacier in the [278]Swiss Alps
+   (situation in 1979, 1991 and 2002), due to global warming.
+
+   Generally, an [279]ecological crisis occurs with the loss of
+   [280]adaptive capacity when the [281]resilience of an [282]environment
+   or of a species or a population evolves in a way unfavourable to coping
+   with [283]perturbations that interfere with that ecosystem, landscape
+   or species survival (Note: The concept of resilience is not universally
+   accepted in ecology, and moreso represents a contingent within the
+   field that take a holist view of the environment. There are also many
+   ecologists that take a reductionistic perspective and that believe that
+   the environment, at base, is indeterministic). It may be that the
+   environment quality degrades compared to the species needs, after a
+   change in an abiotic [284]ecological factor (for example, an increase
+   of temperature, less significant rainfalls)^[[285]citation needed]. It
+   may be that the environment becomes unfavourable for the survival of a
+   species (or a population) due to an increased pressure of
+   [286]predation (for example overfishing). Lastly, it may be that the
+   situation becomes unfavourable to the quality of life of the species
+   (or the population) due to a rise in the number of individuals
+   ([287]overpopulation).
+
+   Ecological crises vary in length and severity, occurring within a few
+   months or taking as long as a few million years. They can also be of
+   natural or anthropic origin. They may relate to one unique species or
+   to many species, as in an [288]Extinction event. Lastly, an ecological
+   crisis may be local (as an [289]oil spill) or global (a rise in the sea
+   level due to global warming).
+
+   According to its degree of endemism, a local crisis will have more or
+   less significant consequences, from the death of many individuals to
+   the total extinction of a species. Whatever its origin, disappearance
+   of one or several species often will involve a rupture in the food
+   chain, further impacting the survival of other species.
+
+   In the case of a global crisis, the consequences can be much more
+   significant; some extinction events showed the disappearance of more
+   than 90% of existing species at that time. However, it should be noted
+   that the disappearance of certain species, such as the dinosaurs, by
+   freeing an ecological niche, allowed the development and the
+   diversification of the mammals. An ecological crisis thus paradoxically
+   favoured biodiversity.
+
+   Sometimes, an ecological crisis can be a specific and reversible
+   phenomenon at the ecosystem scale. But more generally, the crises
+   impact will last. Indeed, it rather is a connected series of events,
+   that occur till a final point. From this stage, no return to the
+   previous stable state is possible, and a new stable state will be set
+   up gradually (see [290]homeorhesy).
+
+   Lastly, if an ecological crisis can cause extinction, it can also more
+   simply reduce the quality of life of the remaining individuals. Thus,
+   even if the diversity of the human population is sometimes considered
+   threatened (see in particular [291]indigenous people), few people
+   envision human disappearance at short span. However, [292]epidemic
+   diseases, [293]famines, impact on health of reduction of air quality,
+   [294]food crises, reduction of living space, accumulation of toxic or
+   non degradable wastes, threats on [295]keystone species (great apes,
+   panda, whales) are also factors influencing the well-being of people.
+
+   Due to the increases in technology and a rapidly increasing population,
+   humans have more influence on their own environment than any other
+   [296]ecosystem engineer.
+
+[[297]edit] See also
+
+   [298]Ecology portal
+   [299]Earth_sciences portal
+   [300]Environment portal
+     * [301]Biodiversity
+     * [302]Ecosystem
+     * [303]Earth Science
+     * [304]Habitat
+     * [305]Habitat conservation
+     * [306]Natural environment
+     * [307]Nature
+     * [308]Ecological Forecasting
+
+[[309]edit] Lists
+
+     * [310]List of basic biology topics
+     * [311]List of biology topics
+     * [312]List of basic ecology topics
+     * [313]List of ecology topics
+     * [314]List of ecologists
+     * [315]Important publications in ecology
+
+[[316]edit] Related topics
+
+     * [317]Acoustic ecology
+     * [318]Agroecology
+     * [319]Ecological crisis
+     * [320]Ecological economics
+     * [321]Ecology movement
+     * [322]Ecology of contexts
+     * [323]Ecosystem
+     * [324]Ecosystem model
+     * [325]Ecohydrology
+     * [326]ELDIS, a database on ecological aspects of economical
+       development.
+     * [327]Forest farming
+     * [328]Forest gardening
+     * [329]Human ecology
+     * [330]Knowledge ecology
+     * [331]Social ecology
+     * [332]Systems ecology
+
+[[333]edit] Notes
+
+    1. [334]^ Begon, M.; Townsend, C. R., Harper, J. L. (2006). Ecology:
+       From individuals to ecosystems. (4th ed.). Blackwell. [335]ISBN
+       1405111178.
+    2. [336]^ Campbell, Neil A.; Brad Williamson; Robin J. Heyden (2006).
+       [337]Biology: Exploring Life. Boston, Massachusetts: Pearson
+       Prentice Hall. [338]ISBN 0-13-250882-6.
+       [339]http://www.phschool.com/el_marketing.html.
+    3. [340]^ Frodin, D.G. (2001). [341]Guide to Standard Floras of the
+       World. Cambridge: Cambridge University Press. pp. 72. [342]ISBN
+       0-521-79077-8.
+       [343]http://books.google.com/books?id=aMjXCF4rmDUC&printsec=frontco
+       ver&dq=qjIyUKx2VnKAYDw2zTZA9n6hkuk#PPA72,M1. "[ecology is] a term
+       first introduced by Haeckel in 1866 as kologie and which came into
+       English in 1873"
+    4. [344]^ Goodland, R.J. (1975) The tropical origin of ecology: Eugen
+       Warmings jubilee. Oikos 26, 240-245.
+    5. [345]^ R. Ulanowicz, Ecology: The Ascendent Perspective, Columbia
+       (1997)
+    6. [346]^ Ecology: Concepts & Applications. Fourth Edition Manuel C.
+       Molles Jr. U of New Mexico. 2008 McGraw Hill Publishing. [347]ISBN
+       978-0-07-305082-9
+
+[[348]edit] References
+
+     * Warming, E. (1909) [349]Oecology of Plants - an introduction to the
+       study of plant-communities. Clarendon Press, Oxford.
+     * Haeckel, E. (1866) General Morphology of Organisms; General
+       Outlines of the Science of Organic Forms based on Mechanical
+       Principles through the Theory of Descent as reformed by Charles
+       Darwin. Berlin.
+     * Odum, E. P. (1971) General Principles of Ecology, Third Edition W.
+       B. Suanders Company. pp 17-20
+     * Campbell, Neil A.; Brad Williamson; Robin J. Heyden (2006).
+       [350]Biology: Exploring Life. Boston, Massachusetts: Pearson
+       Prentice Hall. [351]ISBN 0-13-250882-6.
+       [352]http://www.phschool.com/el_marketing.html.
+
+[[353]edit] External links
+
+   [354]Sister project [355]Wikimedia Commons has media related to:
+   [356]Ecology
+   [357]Sister project At [358]Wikiversity you can learn more and teach
+   others about Ecology at:
+   [359]The Department of Ecology
+   [360]Sister project [361]Wikibooks has more on the topic of
+   [362]Ecology
+   [363]Sister project Look up [364]ecology in
+   [365]Wiktionary, the free dictionary.
+     * [366]Ecology (Stanford Encyclopedia of Philosophy)
+     * [367]Ecology Journals List of the Scientific Journals related to
+       Ecology
+     * [368]Ecology Dictionary - Explanation of Ecological Terms
+
+   [369]v  [370]d  [371]e
+   The Dynamic [372]Earth
+   [373]Continents
+   [374]Africa   [375]Antarctica   [376]Asia   [377]Europe   [378]North
+   America   [379]Oceania   [380]South America
+   [381]Oceans
+   [382]Antarctic Ocean   [383]Arctic Ocean   [384]Atlantic Ocean
+   [385]Indian Ocean   [386]Pacific Ocean
+   [387]Dynamic Earth
+   [388]Earth science   [389]Geological history of Earth   [390]History of
+   Earth   [391]Geology   [392]Plate tectonics   [393]Structure of the
+   Earth
+   [394]Natural Environment
+   Ecology  [395]Ecosystem   [396]Nature   [397]Wilderness
+   Related Articles
+   [398]Earth Day   [399]Geology of solar terrestrial planets   [400]Solar
+   System   [401]World
+   [402]Category  [403]Portal
+   [404]v  [405]d  [406]e
+   Major subfields of [407]biology
+   [408]Anatomy  [409]Astrobiology  [410]Biochemistry  [411]Biophysics
+   [412]Bioinformatics  [413]Biostatistics  [414]Botany  [415]Cell
+   biology  [416]Chronobiology  [417]Conservation Biology
+   [418]Developmental biology  Ecology  [419]Epidemiology
+   [420]Evolutionary biology  [421]Genetics  [422]Genomics  [423]Human
+   biology  [424]Immunology  [425]Marine biology  [426]Microbiology
+   [427]Molecular biology  [428]Neuroscience  [429]Nutrition  [430]Origin
+   of life  [431]Paleontology  [432]Parasitology  [433]Pathology
+   [434]Physiology  [435]Systems biology  [436]Taxonomy  [437]Zoology
+   [438]v  [439]d  [440]e
+   Fields within the [441]natural sciences
+
+   [442]Astronomy  [443]Biology  [444]Chemistry  [445]Earth science
+   [446]Physics
+   [447]v  [448]d  [449]e
+   [450]Botany
+   Subdisciplines of botany
+   [451]Ethnobotany  [452]Paleobotany  [453]Plant anatomy  Plant ecology
+   [454]Plant evo-devo  [455]Plant morphology  [456]Plant physiology
+                            [457]Plants
+   [458]Evolutionary history of plants  [459]Algae  [460]Bryophyte
+   [461]Pteridophyte  [462]Gymnosperm  [463]Angiosperm
+                            Plant parts
+   [464]Flower  [465]Fruit  [466]Leaf  [467]Meristem  [468]Root
+   [469]Stem  [470]Stoma  [471]Vascular tissue  [472]Wood
+   [473]Plant cells
+   [474]Cell wall  [475]Chlorophyll  [476]Chloroplast
+   [477]Photosynthesis  [478]Plant hormone  [479]Plastid
+   [480]Transpiration
+                            [481]Plant life cycles
+   [482]Gametophyte  [483]Plant sexuality  [484]Pollen  [485]Pollination
+   [486]Seed  [487]Spore  [488]Sporophyte
+                            [489]Plant taxonomy
+   [490]Botanical name  [491]Botanical nomenclature  [492]Herbarium
+   [493]IAPT  [494]ICBN  [495]Species Plantarum
+   [496]Category  [497]Portal
+   [498]v  [499]d  [500]e
+   Elements of [501]Nature
+   [502]Earth
+   [503]History of Earth  [504]Earth science  [505]Structure of the Earth
+   [506]Plate tectonics  [507]Geological history of Earth  [508]Geology
+   [509]Weather
+   [510]Climate  [511]Earth's atmosphere
+   [512]Life
+   [513]Biosphere  [514]Origin of life  [515]Life on Earth  [516]Microbe
+   [517]Flora  [518]Plants  [519]Fungi  [520]Fauna  [521]Animals
+   [522]Biology  [523]Evolutionary history of life
+   [524]Environment
+   [525]Wilderness  Ecology  [526]Ecosystem
+   [527]Universe
+   [528]Matter  [529]Energy  [530]Outer space
+   [531]Category  [532]Portal
+
+   Retrieved from "[533]http://en.wikipedia.org/wiki/Ecology"
+   [534]Categories: [535]Ecology | [536]Biology | [537]Greek loanwords
+   Hidden categories: [538]Articles needing additional references from May
+   2007 | [539]All articles with unsourced statements | [540]Articles with
+   unsourced statements since December 2008
+
+Views
+
+     * [541]Article
+     * [542]Discussion
+     * [543]Edit this page
+     * [544]History
+
+Personal tools
+
+     * [545]Log in / create account
+
+Navigation
+
+     * [546]Main page
+     * [547]Contents
+     * [548]Featured content
+     * [549]Current events
+     * [550]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [551]About Wikipedia
+     * [552]Community portal
+     * [553]Recent changes
+     * [554]Contact Wikipedia
+     * [555]Donate to Wikipedia
+     * [556]Help
+
+Toolbox
+
+     * [557]What links here
+     * [558]Related changes
+     * [559]Upload file
+     * [560]Special pages
+     * [561]Printable version
+     * [562]Permanent link
+     * [563]Cite this page
+
+Languages
+
+     * [564]Afrikaans
+     * [565]Alemannisch
+     *
+     * [566]Aragons
+     * [567]Asturianu
+     * [568]Bn-lm-g
+     *
+     * [569]Bosanski
+     *
+     * [570]Catal
+     *
+     * [571]Cebuano
+     * [572]esky
+     * [573]Cymraeg
+     * [574]Dansk
+     * [575]Deutsch
+     *
+     * [576]Eesti
+     *
+     * [577]Espaol
+     * [578]Esperanto
+     * [579]Euskara
+     *
+     * [580]Franais
+     * [581]Furlan
+     * [582]Gaeilge
+     * [583]Gaelg
+     * [584]Gidhlig
+     * [585]Galego
+     *
+     * [586]Hawai`i
+     *
+     * [587]Hrvatski
+     * [588]Ido
+     * [589]Bahasa Indonesia
+     * [590]Interlingua
+     * [591]slenska
+     * [592]Italiano
+     *
+     * [593]Basa Jawa
+     *
+     *
+     * [594]Kreyl ayisyen
+     * [595]Ladino
+     * [596]Latina
+     * [597]Ltzebuergesch
+     * [598]Lietuvi
+     * [599]Lumbaart
+     * [600]Magyar
+     *
+     * [601]Malagasy
+     * [602]Mori
+     * [603]Bahasa Melayu
+     *
+     * [604]Nederlands
+     *
+     * [605]Norsk (bokml)
+     * [606]Norsk (nynorsk)
+     * [607]Nouormand
+     * [608]Novial
+     * [609]Occitan
+     *
+     * [610]Polski
+     * [611]Portugus
+     * [612]Romn
+     * [613]Runa Simi
+     *
+     *
+     * [614]Scots
+     * [615]Shqip
+     * [616]Simple English
+     * [617]Slovenina
+     * [618]Slovenina
+     * [619]/ Srpski
+     * [620]Basa Sunda
+     * [621]Suomi
+     * [622]Svenska
+     * [623]Tagalog
+     *
+     *
+     *
+     * [624]Ting Vit
+     *
+     * [625]Trke
+     * [626]Trkmen
+     *
+     *
+     *
+
+   [627]Powered by MediaWiki
+   [628]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 23:20.
+     * All text is available under the terms of the [629]GNU Free
+       Documentation License. (See [630]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [631]Wikimedia
+       Foundation, Inc., a U.S. registered [632]501(c)(3)
+       [633]tax-deductible [634]nonprofit [635]charity.
+     * [636]Privacy policy
+     * [637]About Wikipedia
+     * [638]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Ecology&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Ecological_factor&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#searchInput
+   9. file://localhost/wiki/Ecology_(journal)
+  10. file://localhost/wiki/Wikipedia:Citing_sources
+  11. file://localhost/wiki/Wikipedia:Verifiability
+  12. http://en.wikipedia.org/w/index.php?title=Ecology&action=edit
+  13. file://localhost/wiki/Wikipedia:Reliable_sources
+  14. file://localhost/wiki/Template:Fact
+  15. file://localhost/wiki/Eugenius_Warming
+  16. file://localhost/wiki/Science
+  17. file://localhost/wiki/Abundance_(ecology)
+  18. file://localhost/wiki/Life
+  19. file://localhost/wiki/Interaction
+  20. file://localhost/wiki/Organism
+  21. file://localhost/wiki/Nature
+  22. file://localhost/wiki/Environment_(biophysical)
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-0
+  24. file://localhost/wiki/Abiotic
+  25. file://localhost/wiki/Insolation
+  26. file://localhost/wiki/Climate
+  27. file://localhost/wiki/Ecosystem
+  28. file://localhost/wiki/Habitat_(ecology)
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-1
+  30. file://localhost/wiki/Social_ecology
+  31. file://localhost/wiki/Deep_ecology
+  32. file://localhost/wiki/Natural_environment
+  33. file://localhost/wiki/Environmentalism
+  34. file://localhost/wiki/Environmentally_friendly
+  35. file://localhost/wiki/Ernst_Haeckel
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-2
+  37. file://localhost/wiki/Denmark
+  38. file://localhost/wiki/Botany
+  39. file://localhost/wiki/Eugenius_Warming
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-3
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Scope
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Disciplines
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#History
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Fundamental_principles
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Levels_of_organization
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Biosphere
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Ecosystem
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Dynamics_and_stability
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Spatial_relationships_and_subdivisions_of_land
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Ecosystem_productivity
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Ecological_crisis
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#See_also
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Lists
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Related_topics
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#Notes
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#References
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#External_links
+  58. file://localhost/w/index.php?title=Ecology&action=edit&section=1
+  59. file://localhost/wiki/Proteins
+  60. file://localhost/wiki/Nucleic_acid
+  61. file://localhost/wiki/Biochemistry
+  62. file://localhost/wiki/Molecular_biology
+  63. file://localhost/wiki/Cell_(biology)
+  64. file://localhost/wiki/Cellular_biology
+  65. file://localhost/wiki/Botany
+  66. file://localhost/wiki/Zoology
+  67. file://localhost/wiki/Population
+  68. file://localhost/wiki/Ecosystem
+  69. file://localhost/wiki/Biosphere
+  70. file://localhost/wiki/Interdisciplinary
+  71. file://localhost/wiki/Life_on_earth
+  72. file://localhost/wiki/Environment_(biophysical)
+  73. file://localhost/wiki/Meteorology
+  74. file://localhost/wiki/Pedology_(soil_study)
+  75. file://localhost/wiki/Holistic_science
+  76. file://localhost/wiki/Robert_Ulanowicz
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-4
+  78. file://localhost/wiki/Biodiversity
+  79. file://localhost/wiki/Population_dynamics
+  80. file://localhost/wiki/Environmentalism
+  81. file://localhost/wiki/Holism
+  82. file://localhost/wiki/Pollination
+  83. file://localhost/wiki/Flowering_plant
+  84. file://localhost/wiki/Pollinator_decline
+  85. file://localhost/w/index.php?title=Ecology&action=edit&section=2
+  86. file://localhost/wiki/Ecology_(disciplines)
+  87. file://localhost/wiki/Ecophysiology
+  88. file://localhost/wiki/Behavioral_ecology
+  89. file://localhost/wiki/Population_ecology
+  90. file://localhost/wiki/Community_ecology
+  91. file://localhost/wiki/Ecosystem_ecology
+  92. file://localhost/wiki/Ecosystem
+  93. file://localhost/wiki/Systems_ecology
+  94. file://localhost/wiki/Holistic
+  95. file://localhost/wiki/Landscape_ecology
+  96. file://localhost/wiki/Evolutionary_ecology
+  97. file://localhost/wiki/Political_ecology
+  98. file://localhost/w/index.php?title=Animal_ecology&action=edit&redlink=1
+  99. file://localhost/wiki/Insect_ecology
+ 100. file://localhost/wiki/Marine_ecology
+ 101. file://localhost/wiki/Biome
+ 102. file://localhost/wiki/Arctic_ecology
+ 103. file://localhost/wiki/Polar_ecology
+ 104. file://localhost/wiki/Tropical_ecology
+ 105. file://localhost/wiki/Desert_ecology
+ 106. file://localhost/wiki/Chemical_ecology
+ 107. file://localhost/w/index.php?title=Genetic_ecology&action=edit&redlink=1
+ 108. file://localhost/w/index.php?title=Field_ecology&action=edit&redlink=1
+ 109. file://localhost/w/index.php?title=Statistical_ecology&action=edit&redlink=1
+ 110. file://localhost/wiki/Theoretical_ecology
+ 111. file://localhost/w/index.php?title=Ecology&action=edit&section=3
+ 112. file://localhost/wiki/History_of_ecology
+ 113. file://localhost/w/index.php?title=Ecology&action=edit&section=4
+ 114. file://localhost/w/index.php?title=Ecology&action=edit&section=5
+ 115. file://localhost/wiki/Coral_reef
+ 116. file://localhost/wiki/Biosphere
+ 117. file://localhost/wiki/Carbon_dioxide
+ 118. file://localhost/wiki/Temperature
+ 119. file://localhost/wiki/Region
+ 120. file://localhost/wiki/Landscape
+ 121. file://localhost/wiki/Ecosystem
+ 122. file://localhost/wiki/Community
+ 123. file://localhost/wiki/Interactions
+ 124. file://localhost/wiki/Population
+ 125. file://localhost/wiki/Individual
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_note-5
+ 127. file://localhost/w/index.php?title=Ecology&action=edit&section=6
+ 128. file://localhost/wiki/Biosphere
+ 129. file://localhost/wiki/Biodiversity
+ 130. file://localhost/wiki/Unified_neutral_theory_of_biodiversity
+ 131. file://localhost/wiki/Biocoenosis
+ 132. file://localhost/wiki/Ecosystem
+ 133. file://localhost/wiki/Biosphere
+ 134. file://localhost/wiki/Hydrosphere
+ 135. file://localhost/wiki/Lithosphere
+ 136. file://localhost/wiki/Earth%27s_atmosphere
+ 137. file://localhost/wiki/Biosphere
+ 138. file://localhost/wiki/Photic_zone
+ 139. file://localhost/wiki/Hydrothermal_vents
+ 140. file://localhost/wiki/Origin_of_life
+ 141. file://localhost/wiki/Benthos
+ 142. file://localhost/wiki/Cyanobacteria
+ 143. file://localhost/wiki/Ultraviolet
+ 144. file://localhost/wiki/Ozone_layer
+ 145. file://localhost/wiki/Continental_drift
+ 146. file://localhost/wiki/Carbon
+ 147. file://localhost/wiki/Nitrogen
+ 148. file://localhost/wiki/Hydrogen
+ 149. file://localhost/wiki/Phosphorus
+ 150. file://localhost/wiki/Calcium
+ 151. file://localhost/wiki/Potassium
+ 152. file://localhost/wiki/Photosynthesis
+ 153. file://localhost/wiki/Glucose
+ 154. file://localhost/wiki/Amino_acid
+ 155. file://localhost/wiki/Nectar_(plant)
+ 156. file://localhost/wiki/Cellular_respiration
+ 157. file://localhost/wiki/Carbon_dioxide
+ 158. file://localhost/wiki/Airstream
+ 159. file://localhost/wiki/Water_cycle
+ 160. file://localhost/wiki/Oceanic_current
+ 161. file://localhost/wiki/Biosphere_II
+ 162. file://localhost/w/index.php?title=Ecology&action=edit&section=7
+ 163. file://localhost/wiki/Ecosystem
+ 164. file://localhost/wiki/Daintree_Rainforest
+ 165. file://localhost/wiki/Queensland
+ 166. file://localhost/wiki/Forest_ecology
+ 167. file://localhost/wiki/Biocoenosis
+ 168. file://localhost/wiki/Biotope
+ 169. file://localhost/wiki/Primary_producer
+ 170. file://localhost/wiki/Photosynthesis
+ 171. file://localhost/wiki/Primary_consumers
+ 172. file://localhost/wiki/Herbivores
+ 173. file://localhost/wiki/Secondary_consumer
+ 174. file://localhost/wiki/Tertiary_consumer
+ 175. file://localhost/wiki/Carnivores
+ 176. file://localhost/wiki/Omnivores
+ 177. file://localhost/wiki/Work_(physics)
+ 178. file://localhost/wiki/Waste_heat
+ 179. file://localhost/wiki/Carbon_dioxide
+ 180. file://localhost/wiki/Decomposition
+ 181. file://localhost/wiki/Biogeochemical_cycle
+ 182. file://localhost/wiki/Carbon_cycle
+ 183. file://localhost/wiki/Nitrogen_cycle
+ 184. file://localhost/wiki/Tundra
+ 185. file://localhost/wiki/Ecozone
+ 186. file://localhost/wiki/Biome
+ 187. file://localhost/w/index.php?title=Terrestrial_ecosystem&action=edit&redlink=1
+ 188. file://localhost/wiki/Forest_ecosystem
+ 189. file://localhost/wiki/Steppes
+ 190. file://localhost/wiki/Savannas
+ 191. file://localhost/wiki/Freshwater_ecosystem
+ 192. file://localhost/wiki/Marine_ecosystem
+ 193. file://localhost/w/index.php?title=Ecology&action=edit&section=8
+ 194. file://localhost/wiki/Biogeochemistry
+ 195. file://localhost/wiki/Homeostasis
+ 196. file://localhost/wiki/Population_dynamics
+ 197. file://localhost/wiki/Hopetoun_Falls
+ 198. file://localhost/wiki/Environment_(biophysical)
+ 199. file://localhost/wiki/Ecohydrology
+ 200. file://localhost/wiki/Environment_(biophysical)
+ 201. file://localhost/wiki/Spore
+ 202. file://localhost/wiki/PH
+ 203. file://localhost/wiki/Salinity_in_Australia
+ 204. file://localhost/wiki/Photosynthesis
+ 205. file://localhost/wiki/Procreation
+ 206. file://localhost/wiki/Cohabitation
+ 207. file://localhost/wiki/Inbreeding
+ 208. file://localhost/wiki/Genetic_diversity
+ 209. file://localhost/wiki/Cooperation
+ 210. file://localhost/wiki/Competition
+ 211. file://localhost/wiki/Antlion
+ 212. file://localhost/wiki/Biological_pest_control
+ 213. file://localhost/wiki/Biological_interaction
+ 214. file://localhost/wiki/Mutualism
+ 215. file://localhost/wiki/Competition
+ 216. file://localhost/wiki/Predator
+ 217. file://localhost/wiki/Food_chain
+ 218. file://localhost/wiki/Parasitism
+ 219. file://localhost/wiki/Infectious_disease
+ 220. file://localhost/wiki/Ecological_niche
+ 221. file://localhost/wiki/Biogeochemical_cycle
+ 222. file://localhost/wiki/Feedback
+ 223. file://localhost/wiki/Homeostasis
+ 224. file://localhost/wiki/Climax_(biology)
+ 225. file://localhost/wiki/Ecological_succession
+ 226. file://localhost/wiki/Peat_bog
+ 227. file://localhost/w/index.php?title=Ecology&action=edit&section=9
+ 228. file://localhost/wiki/Biome
+ 229. file://localhost/wiki/Ecozone
+ 230. file://localhost/wiki/Biome
+ 231. file://localhost/wiki/Tundra
+ 232. file://localhost/wiki/Steppe
+ 233. file://localhost/wiki/Biosphere
+ 234. file://localhost/wiki/Geographical_pole
+ 235. file://localhost/wiki/Photosynthesis
+ 236. file://localhost/wiki/Algae
+ 237. file://localhost/wiki/Conifer
+ 238. file://localhost/wiki/Latitude
+ 239. file://localhost/wiki/Altitude
+ 240. file://localhost/wiki/Biodiversity
+ 241. file://localhost/wiki/Equator
+ 242. file://localhost/wiki/Ecozone
+ 243. file://localhost/wiki/Ecoregions
+ 244. file://localhost/w/index.php?title=Ecology&action=edit&section=10
+ 245. file://localhost/wiki/Food_chain
+ 246. file://localhost/wiki/Leaf
+ 247. file://localhost/wiki/Photosynthesis
+ 248. file://localhost/wiki/Autotroph
+ 249. file://localhost/wiki/Cyanobacteria
+ 250. file://localhost/wiki/Photosynthesis
+ 251. file://localhost/wiki/Chemosynthesis
+ 252. file://localhost/wiki/Heterotroph
+ 253. file://localhost/wiki/Herbivorous
+ 254. file://localhost/wiki/Carnivorous
+ 255. file://localhost/wiki/Omnivores
+ 256. file://localhost/wiki/Detritivore
+ 257. file://localhost/wiki/Bacterium
+ 258. file://localhost/wiki/Fungi
+ 259. file://localhost/wiki/Insects
+ 260. file://localhost/wiki/Nutrient
+ 261. file://localhost/wiki/Biogeochemical_cycle
+ 262. file://localhost/wiki/Food_chain
+ 263. file://localhost/wiki/Ecological_network
+ 264. file://localhost/wiki/Ecological_pyramid
+ 265. file://localhost/wiki/Biomass_(ecology)
+ 266. file://localhost/wiki/Primary_productivity
+ 267. file://localhost/w/index.php?title=Secondary_productivity&action=edit&redlink=1
+ 268. file://localhost/wiki/Carrying_capacity
+ 269. file://localhost/wiki/Primary_production
+ 270. file://localhost/wiki/Taiga
+ 271. file://localhost/wiki/Deforestation
+ 272. file://localhost/wiki/Agriculture
+ 273. file://localhost/wiki/Desertification
+ 274. file://localhost/w/index.php?title=Ecology&action=edit&section=11
+ 275. file://localhost/wiki/Ecological_crisis
+ 276. file://localhost/wiki/Retreat_of_glaciers_since_1850
+ 277. file://localhost/wiki/Aletsch_Glacier
+ 278. file://localhost/wiki/Swiss_Alps
+ 279. file://localhost/wiki/Ecological_crisis
+ 280. file://localhost/wiki/Adaptive_capacity
+ 281. file://localhost/wiki/Resilience_(ecology)
+ 282. file://localhost/wiki/Environment_(biophysical)
+ 283. file://localhost/wiki/Perturbation_(biology)
+ 284. file://localhost/wiki/Ecological_factor
+ 285. file://localhost/wiki/Wikipedia:Citation_needed
+ 286. file://localhost/wiki/Predation
+ 287. file://localhost/wiki/Overpopulation
+ 288. file://localhost/wiki/Extinction_event
+ 289. file://localhost/wiki/Oil_spill
+ 290. file://localhost/w/index.php?title=Homeorhesy&action=edit&redlink=1
+ 291. file://localhost/wiki/Indigenous_people
+ 292. file://localhost/w/index.php?title=Epidemic_disease&action=edit&redlink=1
+ 293. file://localhost/wiki/Famine
+ 294. file://localhost/wiki/Food_crises
+ 295. file://localhost/wiki/Keystone_species
+ 296. file://localhost/wiki/Ecosystem_engineer
+ 297. file://localhost/w/index.php?title=Ecology&action=edit&section=12
+ 298. file://localhost/wiki/Portal:Ecology
+ 299. file://localhost/wiki/Portal:Earth_sciences
+ 300. file://localhost/wiki/Portal:Environment
+ 301. file://localhost/wiki/Biodiversity
+ 302. file://localhost/wiki/Ecosystem
+ 303. file://localhost/wiki/Earth_Science
+ 304. file://localhost/wiki/Habitat
+ 305. file://localhost/wiki/Habitat_conservation
+ 306. file://localhost/wiki/Natural_environment
+ 307. file://localhost/wiki/Nature
+ 308. file://localhost/wiki/Ecological_Forecasting
+ 309. file://localhost/w/index.php?title=Ecology&action=edit&section=13
+ 310. file://localhost/wiki/List_of_basic_biology_topics
+ 311. file://localhost/wiki/List_of_biology_topics
+ 312. file://localhost/wiki/List_of_basic_ecology_topics
+ 313. file://localhost/wiki/List_of_ecology_topics
+ 314. file://localhost/wiki/List_of_ecologists
+ 315. file://localhost/wiki/List_of_publications_in_biology#Ecology
+ 316. file://localhost/w/index.php?title=Ecology&action=edit&section=14
+ 317. file://localhost/wiki/Acoustic_ecology
+ 318. file://localhost/wiki/Agroecology
+ 319. file://localhost/wiki/Ecological_crisis
+ 320. file://localhost/wiki/Ecological_economics
+ 321. file://localhost/wiki/Ecology_movement
+ 322. file://localhost/wiki/Ecology_of_contexts
+ 323. file://localhost/wiki/Ecosystem
+ 324. file://localhost/wiki/Ecosystem_model
+ 325. file://localhost/wiki/Ecohydrology
+ 326. file://localhost/wiki/ELDIS
+ 327. file://localhost/wiki/Forest_farming
+ 328. file://localhost/wiki/Forest_gardening
+ 329. file://localhost/wiki/Human_ecology
+ 330. file://localhost/wiki/Knowledge_ecology
+ 331. file://localhost/wiki/Social_ecology
+ 332. file://localhost/wiki/Systems_ecology
+ 333. file://localhost/w/index.php?title=Ecology&action=edit&section=15
+ 334. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-0
+ 335. file://localhost/wiki/Special:BookSources/1405111178
+ 336. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-1
+ 337. http://www.phschool.com/el_marketing.html
+ 338. file://localhost/wiki/Special:BookSources/0132508826
+ 339. http://www.phschool.com/el_marketing.html
+ 340. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-2
+ 341. http://books.google.com/books?id=aMjXCF4rmDUC&printsec=frontcover&dq=qjIyUKx2VnKAYDw2zTZA9n6hkuk#PPA72,M1
+ 342. file://localhost/wiki/Special:BookSources/0521790778
+ 343. http://books.google.com/books?id=aMjXCF4rmDUC&printsec=frontcover&dq=qjIyUKx2VnKAYDw2zTZA9n6hkuk#PPA72,M1
+ 344. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-3
+ 345. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-4
+ 346. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc806.tmp.html#cite_ref-5
+ 347. file://localhost/wiki/Special:BookSources/9780073050829
+ 348. file://localhost/w/index.php?title=Ecology&action=edit&section=16
+ 349. file://localhost/wiki/Eugenius_Warming#.27Plantesamfund.27_or_.27Oecology_of_Plants.27
+ 350. http://www.phschool.com/el_marketing.html
+ 351. file://localhost/wiki/Special:BookSources/0132508826
+ 352. http://www.phschool.com/el_marketing.html
+ 353. file://localhost/w/index.php?title=Ecology&action=edit&section=17
+ 354. http://commons.wikimedia.org/wiki/Special:Search/Ecology
+ 355. file://localhost/wiki/Wikimedia_Commons
+ 356. http://commons.wikimedia.org/wiki/Category:Ecology
+ 357. http://en.wikiversity.org/wiki/Special:Search/Ecology
+ 358. file://localhost/wiki/Wikiversity
+ 359. http://en.wikiversity.org/wiki/Topic:Ecology
+ 360. http://en.wikibooks.org/wiki/Special:Search/Ecology
+ 361. file://localhost/wiki/Wikibooks
+ 362. http://en.wikibooks.org/wiki/Special:Search/Ecology
+ 363. http://en.wiktionary.org/wiki/Special:Search/Ecology
+ 364. http://en.wiktionary.org/wiki/Special:Search/ecology
+ 365. file://localhost/wiki/Wiktionary
+ 366. http://plato.stanford.edu/entries/ecology/
+ 367. http://ekolojinet.com/journals.html
+ 368. http://ecologydictionary.org/
+ 369. file://localhost/wiki/Template:Physical_Earth
+ 370. file://localhost/w/index.php?title=Template_talk:Physical_Earth&action=edit&redlink=1
+ 371. http://en.wikipedia.org/w/index.php?title=Template:Physical_Earth&action=edit
+ 372. file://localhost/wiki/Earth
+ 373. file://localhost/wiki/Continent
+ 374. file://localhost/wiki/Africa
+ 375. file://localhost/wiki/Antarctica
+ 376. file://localhost/wiki/Asia
+ 377. file://localhost/wiki/Europe
+ 378. file://localhost/wiki/North_America
+ 379. file://localhost/wiki/Oceania
+ 380. file://localhost/wiki/South_America
+ 381. file://localhost/wiki/Ocean
+ 382. file://localhost/wiki/Antarctic_Ocean
+ 383. file://localhost/wiki/Arctic_Ocean
+ 384. file://localhost/wiki/Atlantic_Ocean
+ 385. file://localhost/wiki/Indian_Ocean
+ 386. file://localhost/wiki/Pacific_Ocean
+ 387. file://localhost/wiki/Earth
+ 388. file://localhost/wiki/Earth_science
+ 389. file://localhost/wiki/Geological_history_of_Earth
+ 390. file://localhost/wiki/History_of_Earth
+ 391. file://localhost/wiki/Geology
+ 392. file://localhost/wiki/Plate_tectonics
+ 393. file://localhost/wiki/Structure_of_the_Earth
+ 394. file://localhost/wiki/Natural_environment
+ 395. file://localhost/wiki/Ecosystem
+ 396. file://localhost/wiki/Nature
+ 397. file://localhost/wiki/Wilderness
+ 398. file://localhost/wiki/Earth_Day
+ 399. file://localhost/wiki/Geology_of_solar_terrestrial_planets
+ 400. file://localhost/wiki/Solar_System
+ 401. file://localhost/wiki/World
+ 402. file://localhost/wiki/Category:Nature
+ 403. file://localhost/wiki/Portal:Science
+ 404. file://localhost/wiki/Template:Biology-footer
+ 405. file://localhost/wiki/Template_talk:Biology-footer
+ 406. http://en.wikipedia.org/w/index.php?title=Template:Biology-footer&action=edit
+ 407. file://localhost/wiki/Biology
+ 408. file://localhost/wiki/Anatomy
+ 409. file://localhost/wiki/Astrobiology
+ 410. file://localhost/wiki/Biochemistry
+ 411. file://localhost/wiki/Biophysics
+ 412. file://localhost/wiki/Bioinformatics
+ 413. file://localhost/wiki/Biostatistics
+ 414. file://localhost/wiki/Botany
+ 415. file://localhost/wiki/Cell_biology
+ 416. file://localhost/wiki/Chronobiology
+ 417. file://localhost/wiki/Conservation_Biology
+ 418. file://localhost/wiki/Developmental_biology
+ 419. file://localhost/wiki/Epidemiology
+ 420. file://localhost/wiki/Evolutionary_biology
+ 421. file://localhost/wiki/Genetics
+ 422. file://localhost/wiki/Genomics
+ 423. file://localhost/wiki/Human_biology
+ 424. file://localhost/wiki/Immunology
+ 425. file://localhost/wiki/Marine_biology
+ 426. file://localhost/wiki/Microbiology
+ 427. file://localhost/wiki/Molecular_biology
+ 428. file://localhost/wiki/Neuroscience
+ 429. file://localhost/wiki/Nutrition
+ 430. file://localhost/wiki/Origin_of_life
+ 431. file://localhost/wiki/Paleontology
+ 432. file://localhost/wiki/Parasitology
+ 433. file://localhost/wiki/Pathology
+ 434. file://localhost/wiki/Physiology
+ 435. file://localhost/wiki/Systems_biology
+ 436. file://localhost/wiki/Alpha_taxonomy
+ 437. file://localhost/wiki/Zoology
+ 438. file://localhost/wiki/Template:Natural_sciences-footer
+ 439. file://localhost/wiki/Template_talk:Natural_sciences-footer
+ 440. http://en.wikipedia.org/w/index.php?title=Template:Natural_sciences-footer&action=edit
+ 441. file://localhost/wiki/Natural_science
+ 442. file://localhost/wiki/Astronomy
+ 443. file://localhost/wiki/Biology
+ 444. file://localhost/wiki/Chemistry
+ 445. file://localhost/wiki/Earth_science
+ 446. file://localhost/wiki/Physics
+ 447. file://localhost/wiki/Template:Botany
+ 448. file://localhost/wiki/Template_talk:Botany
+ 449. http://en.wikipedia.org/w/index.php?title=Template:Botany&action=edit
+ 450. file://localhost/wiki/Botany
+ 451. file://localhost/wiki/Ethnobotany
+ 452. file://localhost/wiki/Paleobotany
+ 453. file://localhost/wiki/Plant_anatomy
+ 454. file://localhost/wiki/Plant_evolutionary_developmental_biology
+ 455. file://localhost/wiki/Plant_morphology
+ 456. file://localhost/wiki/Plant_physiology
+ 457. file://localhost/wiki/Plant
+ 458. file://localhost/wiki/Evolutionary_history_of_plants
+ 459. file://localhost/wiki/Algae
+ 460. file://localhost/wiki/Bryophyte
+ 461. file://localhost/wiki/Fern
+ 462. file://localhost/wiki/Gymnosperm
+ 463. file://localhost/wiki/Flowering_plant
+ 464. file://localhost/wiki/Flower
+ 465. file://localhost/wiki/Fruit
+ 466. file://localhost/wiki/Leaf
+ 467. file://localhost/wiki/Meristem
+ 468. file://localhost/wiki/Root
+ 469. file://localhost/wiki/Plant_stem
+ 470. file://localhost/wiki/Stoma
+ 471. file://localhost/wiki/Vascular_tissue
+ 472. file://localhost/wiki/Wood
+ 473. file://localhost/wiki/Plant_cell
+ 474. file://localhost/wiki/Cell_wall
+ 475. file://localhost/wiki/Chlorophyll
+ 476. file://localhost/wiki/Chloroplast
+ 477. file://localhost/wiki/Photosynthesis
+ 478. file://localhost/wiki/Plant_hormone
+ 479. file://localhost/wiki/Plastid
+ 480. file://localhost/wiki/Transpiration
+ 481. file://localhost/wiki/Alternation_of_generations
+ 482. file://localhost/wiki/Gametophyte
+ 483. file://localhost/wiki/Plant_sexuality
+ 484. file://localhost/wiki/Pollen
+ 485. file://localhost/wiki/Pollination
+ 486. file://localhost/wiki/Seed
+ 487. file://localhost/wiki/Spore
+ 488. file://localhost/wiki/Sporophyte
+ 489. file://localhost/wiki/Plant_taxonomy
+ 490. file://localhost/wiki/Botanical_name
+ 491. file://localhost/wiki/Botanical_nomenclature
+ 492. file://localhost/wiki/Herbarium
+ 493. file://localhost/wiki/International_Association_for_Plant_Taxonomy
+ 494. file://localhost/wiki/International_Code_of_Botanical_Nomenclature
+ 495. file://localhost/wiki/Species_Plantarum
+ 496. file://localhost/wiki/Category:Botany
+ 497. file://localhost/wiki/Portal:Plants
+ 498. file://localhost/wiki/Template:Nature_nav
+ 499. file://localhost/wiki/Template_talk:Nature_nav
+ 500. http://en.wikipedia.org/w/index.php?title=Template:Nature_nav&action=edit
+ 501. file://localhost/wiki/Nature
+ 502. file://localhost/wiki/Earth
+ 503. file://localhost/wiki/History_of_Earth
+ 504. file://localhost/wiki/Earth_science
+ 505. file://localhost/wiki/Structure_of_the_Earth
+ 506. file://localhost/wiki/Plate_tectonics
+ 507. file://localhost/wiki/Geological_history_of_Earth
+ 508. file://localhost/wiki/Geology
+ 509. file://localhost/wiki/Weather
+ 510. file://localhost/wiki/Climate
+ 511. file://localhost/wiki/Earth%27s_atmosphere
+ 512. file://localhost/wiki/Life
+ 513. file://localhost/wiki/Biosphere
+ 514. file://localhost/wiki/Origin_of_life
+ 515. file://localhost/wiki/Organism
+ 516. file://localhost/wiki/Microorganism
+ 517. file://localhost/wiki/Flora
+ 518. file://localhost/wiki/Plant
+ 519. file://localhost/wiki/Fungus
+ 520. file://localhost/wiki/Fauna
+ 521. file://localhost/wiki/Animal
+ 522. file://localhost/wiki/Biology
+ 523. file://localhost/wiki/Evolutionary_history_of_life
+ 524. file://localhost/wiki/Natural_environment
+ 525. file://localhost/wiki/Wilderness
+ 526. file://localhost/wiki/Ecosystem
+ 527. file://localhost/wiki/Universe
+ 528. file://localhost/wiki/Matter
+ 529. file://localhost/wiki/Energy
+ 530. file://localhost/wiki/Outer_space
+ 531. file://localhost/wiki/Category:Nature
+ 532. file://localhost/wiki/Portal:Science
+ 533. http://en.wikipedia.org/wiki/Ecology
+ 534. file://localhost/wiki/Special:Categories
+ 535. file://localhost/wiki/Category:Ecology
+ 536. file://localhost/wiki/Category:Biology
+ 537. file://localhost/wiki/Category:Greek_loanwords
+ 538. file://localhost/wiki/Category:Articles_needing_additional_references_from_May_2007
+ 539. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 540. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_December_2008
+ 541. file://localhost/wiki/Ecology
+ 542. file://localhost/wiki/Talk:Ecology
+ 543. file://localhost/w/index.php?title=Ecology&action=edit
+ 544. file://localhost/w/index.php?title=Ecology&action=history
+ 545. file://localhost/w/index.php?title=Special:UserLogin&returnto=Ecology
+ 546. file://localhost/wiki/Main_Page
+ 547. file://localhost/wiki/Portal:Contents
+ 548. file://localhost/wiki/Portal:Featured_content
+ 549. file://localhost/wiki/Portal:Current_events
+ 550. file://localhost/wiki/Special:Random
+ 551. file://localhost/wiki/Wikipedia:About
+ 552. file://localhost/wiki/Wikipedia:Community_portal
+ 553. file://localhost/wiki/Special:RecentChanges
+ 554. file://localhost/wiki/Wikipedia:Contact_us
+ 555. http://wikimediafoundation.org/wiki/Donate
+ 556. file://localhost/wiki/Help:Contents
+ 557. file://localhost/wiki/Special:WhatLinksHere/Ecology
+ 558. file://localhost/wiki/Special:RecentChangesLinked/Ecology
+ 559. file://localhost/wiki/Wikipedia:Upload
+ 560. file://localhost/wiki/Special:SpecialPages
+ 561. file://localhost/w/index.php?title=Ecology&printable=yes
+ 562. file://localhost/w/index.php?title=Ecology&oldid=273531072
+ 563. file://localhost/w/index.php?title=Special:Cite&page=Ecology&id=273531072
+ 564. http://af.wikipedia.org/wiki/Ekologie
+ 565. http://als.wikipedia.org/wiki/%C3%96kologie
+ 566. http://an.wikipedia.org/wiki/Ecoloch%C3%ADa
+ 567. http://ast.wikipedia.org/wiki/Ecolox%C3%ADa
+ 568. http://zh-min-nan.wikipedia.org/wiki/Seng-th%C3%A0i-ha%CC%8Dk
+ 569. http://bs.wikipedia.org/wiki/Ekologija
+ 570. http://ca.wikipedia.org/wiki/Ecologia
+ 571. http://ceb.wikipedia.org/wiki/Ekolohiya
+ 572. http://cs.wikipedia.org/wiki/Ekologie
+ 573. http://cy.wikipedia.org/wiki/Ecoleg
+ 574. http://da.wikipedia.org/wiki/%C3%98kologi
+ 575. http://de.wikipedia.org/wiki/%C3%96kologie
+ 576. http://et.wikipedia.org/wiki/%C3%96koloogia
+ 577. http://es.wikipedia.org/wiki/Ecolog%C3%ADa
+ 578. http://eo.wikipedia.org/wiki/Ekologio
+ 579. http://eu.wikipedia.org/wiki/Ekologia
+ 580. http://fr.wikipedia.org/wiki/%C3%89cologie
+ 581. http://fur.wikipedia.org/wiki/Ecologjie
+ 582. http://ga.wikipedia.org/wiki/%C3%89iceola%C3%ADocht
+ 583. http://gv.wikipedia.org/wiki/Eggoaylleeaght
+ 584. http://gd.wikipedia.org/wiki/Eige%C3%B2las
+ 585. http://gl.wikipedia.org/wiki/Ecolox%C3%ADa
+ 586. http://haw.wikipedia.org/wiki/K%C4%81laikaiaola
+ 587. http://hr.wikipedia.org/wiki/Ekologija
+ 588. http://io.wikipedia.org/wiki/Ekologio
+ 589. http://id.wikipedia.org/wiki/Ekologi
+ 590. http://ia.wikipedia.org/wiki/Ecologia
+ 591. http://is.wikipedia.org/wiki/Vistfr%C3%A6%C3%B0i
+ 592. http://it.wikipedia.org/wiki/Ecologia
+ 593. http://jv.wikipedia.org/wiki/%C3%89kologi
+ 594. http://ht.wikipedia.org/wiki/Ekoloji
+ 595. http://lad.wikipedia.org/wiki/Ekolojiya
+ 596. http://la.wikipedia.org/wiki/Oecologia
+ 597. http://lb.wikipedia.org/wiki/%C3%96kologie
+ 598. http://lt.wikipedia.org/wiki/Ekologija
+ 599. http://lmo.wikipedia.org/wiki/Eculug%C3%ADa
+ 600. http://hu.wikipedia.org/wiki/%C3%96kol%C3%B3gia
+ 601. http://mg.wikipedia.org/wiki/Ekolojia
+ 602. http://mi.wikipedia.org/wiki/M%C4%81tauranga_taupuhi_kaiao
+ 603. http://ms.wikipedia.org/wiki/Ekologi
+ 604. http://nl.wikipedia.org/wiki/Ecologie
+ 605. http://no.wikipedia.org/wiki/%C3%98kologi
+ 606. http://nn.wikipedia.org/wiki/%C3%98kologi
+ 607. http://nrm.wikipedia.org/wiki/%C3%8Acologie
+ 608. http://nov.wikipedia.org/wiki/Ekologia
+ 609. http://oc.wikipedia.org/wiki/Ecologia
+ 610. http://pl.wikipedia.org/wiki/Ekologia
+ 611. http://pt.wikipedia.org/wiki/Ecologia
+ 612. http://ro.wikipedia.org/wiki/Ecologie
+ 613. http://qu.wikipedia.org/wiki/Kawsay_pacha_yachay
+ 614. http://sco.wikipedia.org/wiki/Ecologie
+ 615. http://sq.wikipedia.org/wiki/Ekologjia
+ 616. http://simple.wikipedia.org/wiki/Ecology
+ 617. http://sk.wikipedia.org/wiki/Ekol%C3%B3gia
+ 618. http://sl.wikipedia.org/wiki/Ekologija
+ 619. http://sr.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0
+ 620. http://su.wikipedia.org/wiki/%C3%89kologi
+ 621. http://fi.wikipedia.org/wiki/Ekologia
+ 622. http://sv.wikipedia.org/wiki/Ekologi
+ 623. http://tl.wikipedia.org/wiki/Ekolohiya
+ 624. http://vi.wikipedia.org/wiki/Sinh_th%C3%A1i_h%E1%BB%8Dc
+ 625. http://tr.wikipedia.org/wiki/Ekoloji
+ 626. http://tk.wikipedia.org/wiki/Ekologi%C3%BDa
+ 627. http://www.mediawiki.org/
+ 628. http://wikimediafoundation.org/
+ 629. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 630. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 631. http://www.wikimediafoundation.org/
+ 632. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 633. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 634. http://en.wikipedia.org/wiki/Non-profit_organization
+ 635. http://en.wikipedia.org/wiki/Charitable_organization
+ 636. http://wikimediafoundation.org/wiki/Privacy_policy
+ 637. file://localhost/wiki/Wikipedia:About
+ 638. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 639. file://localhost/wiki/File:Question_book-new.svg
+ 640. file://localhost/wiki/File:Eugenius_Warming_1841-1924.jpg
+ 641. file://localhost/wiki/File:Eugenius_Warming_1841-1924.jpg
+ 642. file://localhost/wiki/File:Nwhi_-_French_Frigate_Shoals_reef_-_many_fish.jpg
+ 643. file://localhost/wiki/File:Nwhi_-_French_Frigate_Shoals_reef_-_many_fish.jpg
+ 644. file://localhost/wiki/File:Blue_Linckia_Starfish.JPG
+ 645. file://localhost/wiki/File:Blue_Linckia_Starfish.JPG
+ 646. file://localhost/wiki/File:Daintree_Rainforest.JPG
+ 647. file://localhost/wiki/File:Daintree_Rainforest.JPG
+ 648. file://localhost/wiki/File:Hopetoun_falls.jpg
+ 649. file://localhost/wiki/File:Hopetoun_falls.jpg
+ 650. file://localhost/wiki/File:Ant_lion_8785.JPG
+ 651. file://localhost/wiki/File:Ant_lion_8785.JPG
+ 652. file://localhost/wiki/File:Leaf_1_web.jpg
+ 653. file://localhost/wiki/File:Leaf_1_web.jpg
+ 654. file://localhost/wiki/File:Ecological_pyramid.svg
+ 655. file://localhost/wiki/File:Ecological_pyramid.svg
+ 656. file://localhost/wiki/File:Gletscherschmelze.jpg
+ 657. file://localhost/wiki/File:Gletscherschmelze.jpg
+ 658. file://localhost/wiki/File:Earth_flag_PD.jpg
+ 659. file://localhost/wiki/File:Terra.png
+ 660. file://localhost/wiki/File:Devils_Punchbowl_Waterfall,_New_Zealand.jpg
+ 661. file://localhost/wiki/File:1859-Martinique.web.jpg
+ 662. file://localhost/wiki/Main_Page
+ 663. http://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9
+ 664. http://be.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
+ 665. http://bg.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+ 666. http://cv.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8
+ 667. http://dv.wikipedia.org/wiki/%DE%87%DE%A8%DE%86%DE%AE%DE%8D%DE%AE%DE%96%DE%A9
+ 668. http://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1
+ 669. http://fa.wikipedia.org/wiki/%D8%A8%D9%88%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C
+ 670. http://ko.wikipedia.org/wiki/%EC%83%9D%ED%83%9C%ED%95%99
+ 671. http://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80
+ 672. http://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94
+ 673. http://ka.wikipedia.org/wiki/%E1%83%94%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90
+ 674. http://ky.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+ 675. http://mk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0
+ 676. http://mn.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8
+ 677. http://ja.wikipedia.org/wiki/%E7%94%9F%E6%85%8B%E5%AD%A6
+ 678. http://ps.wikipedia.org/wiki/%DA%86%D8%A7%D9%BE%DB%90%D8%B1%D9%8A%D8%A7%D9%84_%D9%BE%D9%88%D9%87%D9%86%D9%87
+ 679. http://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+ 680. http://sah.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+ 681. http://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D
+ 682. http://te.wikipedia.org/wiki/%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%A3_%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%AE%E0%B1%81
+ 683. http://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2
+ 684. http://tg.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F
+ 685. http://uk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F
+ 686. http://ur.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D9%8A%D8%A7%D8%AA
+ 687. http://zh.wikipedia.org/wiki/%E7%94%9F%E6%80%81%E5%AD%A6

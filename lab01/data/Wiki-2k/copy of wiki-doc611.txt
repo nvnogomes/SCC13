@@ -1,0 +1,758 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+E
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   For other uses of "E", see [8]E (disambiguation).
+   For technical reasons, E# redirects here. For the musical note, see
+   [9]F.
+   Look up [10]E, [11]e in [12]Wiktionary, the free dictionary.
+   [13]E
+   Basic [14]Latin alphabet
+          [15]Aa [16]Bb [17]Cc [18]Dd
+   Ee     [19]Ff [20]Gg [21]Hh [22]Ii [23]Jj
+   [24]Kk [25]Ll [26]Mm [27]Nn [28]Oo [29]Pp
+   [30]Qq [31]Rr [32]Ss [33]Tt [34]Uu [35]Vv
+          [36]Ww [37]Xx [38]Yy [39]Zz
+
+   E is the fifth letter in the [40]Latin alphabet. Its name in
+   [41]English is spelled e (pronounced [42]/i/), plural ees (pronounced
+   [43]/iz/)(rare).^[44][1] The letter E is the most commonly used letter
+   in the [45]Czech,^[46][2] [47]Danish,^[48][2] [49]Dutch,^[50][2]
+   [51]English,^[52][3] [53]French,^[54][4] [55]German,^[56][5]
+   [57]Hungarian,^[58][2] [59]Latin,^[60][2] [61]Norwegian,^[62][2]
+   [63]Spanish,^[64][6] and [65]Swedish languages.^[66][2]
+
+Contents
+
+     * [67]1 History
+     * [68]2 Usage
+     * [69]3 Codes for computing
+     * [70]4 See also
+     * [71]5 References
+
+[[72]edit] History
+
+   Egyptian hieroglyph
+   q Proto-Semitic
+   H Phoenician
+   H Etruscan
+   E Greek
+   Epsilon Roman/Cyrillic
+   E
+   A28
+   [73]Image:Proto-semiticE-01.png [74]File:Alfabeto camuno-e.svg
+   [75]Roman E
+
+   E is derived from the [76]Greek letter [77]epsilon which is much the
+   same in appearance (, ) and function. In [78]etymology, the [79]Semitic
+   [80]h probably first represented a praying or calling human figure
+   ([81]hillul jubilation), and was probably based on a similar
+   [82]Egyptian hieroglyph that was pronounced and used quite differently.
+   In Semitic, the letter represented /h/ (and /e/ in foreign words), in
+   Greek h became (Epsilon) with the value /e/. [83]Etruscans and
+   [84]Romans followed this usage. Arising from the [85]Great Vowel Shift,
+   [86]English usage is rather different, namely /i/ (derived from /e/ in
+   "me" or "bee") whereas other words like "bed" are closer to Latin and
+   other languages in usage.
+
+[[87]edit] Usage
+
+   Like other [88]Latin vowels, E came in a long and a short variety.
+   Originally, the only difference was in length but later on, short e
+   represented //. In other languages that use the [89]letter E or e, it
+   represents various other phonetic values, sometimes with accents to
+   indicate contrasts (e ).
+
+   [90]Digraphs starting with E are common in many languages to indicate
+   [91]diphthongs and [92]monophthongs, such as EA or EE for /i/ or /e/ in
+   English, EI for /a/ in [93]German, or EU for // in [94]French or // in
+   German.
+
+   At the end of a word, E is very often silent in English ([95]silent e),
+   where old noun [96]inflections have been dropped, although even when
+   silent at the end of a word it often causes vowels in the word to be
+   pronounced as [97]diphthongs, conventionally called [98]long vowels
+   (compare as a noun rat and as a verb rate).
+
+   The letter 'E' is the most common (or highest [99]frequency) letter in
+   the [100]English language (starting off the typographer's phrase
+   [101]ETAOIN SHRDLU) and many other related [102]languages, which has
+   implications in both [103]cryptography and [104]data compression. This
+   makes it a difficult and popular letter to use when writing
+   [105]lipograms. [106]Ernest Vincent Wright's [107]Gadsby (1939), is
+   considered a "dreadful" novel, and that "at least part of Wright's
+   narrative difficulties were caused by language restrictions imposed by
+   the lack of E."^[108][7] Both [109]Georges Perec's novel [110]A Void
+   (La Disparition) (1969) and its English translation by Gilbert Adair
+   omit the letter E and are considered better works.^[111][8]
+
+[[112]edit] Codes for computing
+
+   Alternative representations of E
+   [113]NATO phonetic [114]Morse code
+   Echo
+   [115]Signal flag [116]Flag semaphore [117]Braille
+
+   In [118]Unicode the [119]capital E is codepoint U+0045 and the
+   [120]lower case e is U+0065.
+
+   The [121]ASCII code for capital E is 69 and for lower case e is 101; or
+   in [122]binary 01000101 and 01100101, respectively.
+
+   The [123]EBCDIC code for capital E is 197 and for lowercase e is 133.
+
+   The [124]numeric character references in [125]HTML and [126]XML are
+   "&#69;" and "&#101;" for upper and lower case, respectively.
+
+[[127]edit] See also
+
+   Similar Latin letters:
+     *  : [128]Latin epsilon
+
+   Similar non-Latin letters:
+     *  : [129]Greek epsilon
+     *  : [130]Cyrillic Ye/E
+     *  : [131]Cyrillic Yo
+     *  : [132]Ukrainian Ye
+     *  : [133]Cyrillic backwards E
+
+   Similar phonetic symbols:
+     * e : [134]Close-mid front unrounded vowel
+     *  : [135]Open-mid front unrounded vowel
+
+   Special symbols similar to the letter E:
+     *  : [136]Estimated sign (used on prepackaged goods for sale within
+       the European Union).
+     *  : [137]Euro sign
+
+   [138]Sister project [139]Wikimedia Commons has media related to: [140]E
+
+[[141]edit] References
+
+    1. [142]^ "E" Merriam-Webster's Third New International Dictionary of
+       the English Language, Unabridged (1993). The plural of the letter,
+       as opposed to the name, is E's, Es, e's, or es.
+    2. ^ [143]^a [144]^b [145]^c [146]^d [147]^e [148]^f [149]^g Kelk,
+       Brian. [150]"Letter frequencies". UK Free Software Network.
+       [151]http://www.bckelk.ukfsn.org/words/etaoin.html. Retrieved on
+       2008-06-25.
+    3. [152]^ Lewand, Robert. [153]"Relative Frequencies of Letters in
+       General English Plain text". Cryptographical Mathematics.
+       [154]Central College.
+       [155]http://pages.central.edu/emp/LintonT/classes/spring01/cryptogr
+       aphy/letterfreq.html. Retrieved on 2008-06-25.
+    4. [156]^ [157]"Frequency of Occurrence of Letters in French". Santa
+       Cruz Public Libraries.
+       [158]http://www.santacruzpl.org/readyref/files/g-l/ltfrqfr.shtml.
+       Retrieved on 2008-06-25.
+    5. [159]^ [160]"Frequency of Occurrence of Letters in German". Santa
+       Cruz Public Libraries.
+       [161]http://scplweb.santacruzpl.org/readyref/files/g-l/ltfrqger.sht
+       ml. Retrieved on 2008-06-25.
+    6. [162]^ [163]"Frequency of Occurrence of Letters in Spanish". Santa
+       Cruz Public Libraries.
+       [164]http://www.santacruzpl.org/readyref/files/g-l/ltfrqsp.shtml.
+       Retrieved on 2008-06-25.
+    7. [165]^ Ross Eckler, Making the Alphabet Dance: Recreational Word
+       Play. New York: St. Martin's Press (1996): 3
+    8. [166]^ Eckler (1996): 3. Perec's novel "was so well written that at
+       least some reviewers never realized the existence of a letter
+       constraint."
+
+   The [167]Basic modern Latin alphabet
+   [168]Aa [169]Bb [170]Cc [171]Dd Ee [172]Ff [173]Gg [174]Hh [175]Ii
+   [176]Jj [177]Kk [178]Ll [179]Mm [180]Nn [181]Oo [182]Pp [183]Qq [184]Rr
+   [185]Ss [186]Tt [187]Uu [188]Vv [189]Ww [190]Xx [191]Yy [192]Zz
+   Letter E with [193]diacritics
+   [194]Two-letter combinations
+   [195]Ea [196]Eb [197]Ec [198]Ed [199]Ee [200]Ef [201]Eg [202]Eh [203]Ei
+   [204]Ej [205]Ek [206]El [207]Em [208]En [209]Eo [210]Ep [211]Eq [212]Er
+   [213]Es [214]Et [215]Eu [216]Ev [217]Ew [218]Ex [219]Ey [220]Ez
+   [221]EA [222]EB [223]EC [224]ED [225]EE [226]EF [227]EG [228]EH [229]EI
+   [230]EJ [231]EK [232]EL [233]EM [234]EN [235]EO [236]EP [237]EQ [238]ER
+   [239]ES [240]ET [241]EU [242]EV [243]EW [244]EX [245]EY [246]EZ
+   [247]Letter-digit & [248]Digit-letter combinations
+       [249]E0 [250]E1 [251]E2 [252]E3 [253]E4 [254]E5 [255]E6 [256]E7
+   [257]E8 [258]E9     [259]0E [260]1E [261]2E [262]3E [263]4E [264]5E
+   [265]6E [266]7E [267]8E [268]9E
+
+   [269]history [270]palaeography [271]derivations [272]diacritics
+   [273]punctuation [274]numerals [275]Unicode [276]list of letters
+   [277]ISO/IEC 646
+   Retrieved from "[278]http://en.wikipedia.org/wiki/E"
+   [279]Categories: [280]Latin letters | [281]Vowel letters
+   Hidden category: [282]Wikipedia indefinitely move-protected pages
+
+Views
+
+     * [283]Article
+     * [284]Discussion
+     * [285]Edit this page
+     * [286]History
+
+Personal tools
+
+     * [287]Log in / create account
+
+Navigation
+
+     * [288]Main page
+     * [289]Contents
+     * [290]Featured content
+     * [291]Current events
+     * [292]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [293]About Wikipedia
+     * [294]Community portal
+     * [295]Recent changes
+     * [296]Contact Wikipedia
+     * [297]Donate to Wikipedia
+     * [298]Help
+
+Toolbox
+
+     * [299]What links here
+     * [300]Related changes
+     * [301]Upload file
+     * [302]Special pages
+     * [303]Printable version
+     * [304]Permanent link
+     * [305]Cite this page
+
+Languages
+
+     * [306]Afrikaans
+     * [307]Alemannisch
+     *
+     * [308]Aragons
+     *
+     * [309]Asturianu
+     * [310]Azrbaycan
+     * [311]Bn-lm-g
+     * [312]Bosanski
+     * [313]Brezhoneg
+     *
+     * [314]Catal
+     * [315]esky
+     * [316]Corsu
+     * [317]Cymraeg
+     * [318]Dansk
+     * [319]Deutsch
+     *
+     * [320]Espaol
+     * [321]Esperanto
+     * [322]Euskara
+     *
+     * [323]Franais
+     * [324]Frysk
+     * [325]Furlan
+     *
+     * [326]Gidhlig
+     * [327]Galego
+     *
+     * [328]Hrvatski
+     * [329]Ilokano
+     * [330]slenska
+     * [331]Italiano
+     *
+     *
+     * [332]Kernewek
+     * [333]Kiswahili
+     * [334]Kreyl ayisyen
+     * [335]Latina
+     * [336]Latvieu
+     * [337]Ltzebuergesch
+     * [338]Lietuvi
+     * [339]Magyar
+     *
+     * [340]Bahasa Melayu
+     * [341]Nhuatl
+     * [342]Nederlands
+     *
+     * [343]Norsk (bokml)
+     * [344]Norsk (nynorsk)
+     * [345]Nouormand
+     * [346]O'zbek
+     * [347]Plattdtsch
+     * [348]Polski
+     * [349]Portugus
+     * [350]Qrmtatarca
+     * [351]Romn
+     * [352]Runa Simi
+     *
+     * [353]Smegiella
+     * [354]Seeltersk
+     * [355]Simple English
+     * [356]Slovenina
+     * [357]Slovenina
+     * [358]/ Srpski
+     * [359]Suomi
+     * [360]Svenska
+     * [361]Tagalog
+     *
+     * [362]Ting Vit
+     * [363]Trke
+     *
+     * [364]Volapk
+     * [365]Yorb
+     *
+     * [366]emaitka
+     *
+
+   [367]Powered by MediaWiki
+   [368]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 16:38.
+     * All text is available under the terms of the [369]GNU Free
+       Documentation License. (See [370]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [371]Wikimedia
+       Foundation, Inc., a U.S. registered [372]501(c)(3)
+       [373]tax-deductible [374]nonprofit [375]charity.
+     * [376]Privacy policy
+     * [377]About Wikipedia
+     * [378]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=E&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#searchInput
+   8. file://localhost/wiki/E_(disambiguation)
+   9. file://localhost/wiki/F_(musical_note)
+  10. http://en.wiktionary.org/wiki/E
+  11. http://en.wiktionary.org/wiki/e
+  12. file://localhost/wiki/Wiktionary
+  13. file://localhost/wiki/File:Latin_alphabet_Ee.svg
+  14. file://localhost/wiki/Latin_alphabet
+  15. file://localhost/wiki/A
+  16. file://localhost/wiki/B
+  17. file://localhost/wiki/C
+  18. file://localhost/wiki/D
+  19. file://localhost/wiki/F
+  20. file://localhost/wiki/G
+  21. file://localhost/wiki/H
+  22. file://localhost/wiki/I
+  23. file://localhost/wiki/J
+  24. file://localhost/wiki/K
+  25. file://localhost/wiki/L
+  26. file://localhost/wiki/M
+  27. file://localhost/wiki/N
+  28. file://localhost/wiki/O
+  29. file://localhost/wiki/P
+  30. file://localhost/wiki/Q
+  31. file://localhost/wiki/R
+  32. file://localhost/wiki/S
+  33. file://localhost/wiki/T
+  34. file://localhost/wiki/U
+  35. file://localhost/wiki/V
+  36. file://localhost/wiki/W
+  37. file://localhost/wiki/X
+  38. file://localhost/wiki/Y
+  39. file://localhost/wiki/Z
+  40. file://localhost/wiki/Latin_alphabet
+  41. file://localhost/wiki/English_language
+  42. file://localhost/wiki/Wikipedia:IPA_for_English
+  43. file://localhost/wiki/Wikipedia:IPA_for_English
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-0
+  45. file://localhost/wiki/Czech_language
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  47. file://localhost/wiki/Danish_language
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  49. file://localhost/wiki/Dutch_language
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  51. file://localhost/wiki/English_language
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-2
+  53. file://localhost/wiki/French_language
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-3
+  55. file://localhost/wiki/German_language
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-4
+  57. file://localhost/wiki/Hungarian_language
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  59. file://localhost/wiki/Latin_language
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  61. file://localhost/wiki/Norwegian_language
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  63. file://localhost/wiki/Spanish_language
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-5
+  65. file://localhost/wiki/Swedish_language
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-Brian_Keck_UKFSN-1
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#History
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#Usage
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#Codes_for_computing
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#See_also
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#References
+  72. file://localhost/w/index.php?title=E&action=edit&section=1
+  73. file://localhost/wiki/File:Proto-semiticE-01.png
+  74. file://localhost/wiki/File:Alfabeto_camuno-e.svg
+  75. file://localhost/wiki/File:RomanE-01.png
+  76. file://localhost/wiki/Greek_alphabet
+  77. file://localhost/wiki/Epsilon
+  78. file://localhost/wiki/Etymology
+  79. file://localhost/wiki/Semitic
+  80. file://localhost/wiki/He_(letter)
+  81. file://localhost/w/index.php?title=Hillul&action=edit&redlink=1
+  82. file://localhost/wiki/Egyptian_hieroglyph
+  83. file://localhost/wiki/Etruria
+  84. file://localhost/wiki/Ancient_Rome
+  85. file://localhost/wiki/Great_Vowel_Shift
+  86. file://localhost/wiki/English_language
+  87. file://localhost/w/index.php?title=E&action=edit&section=2
+  88. file://localhost/wiki/Latin_spelling_and_pronunciation#Vowels
+  89. file://localhost/wiki/Letter_(alphabet)
+  90. file://localhost/wiki/Digraphs
+  91. file://localhost/wiki/Diphthong
+  92. file://localhost/wiki/Monophthong
+  93. file://localhost/wiki/German_language
+  94. file://localhost/wiki/French_language
+  95. file://localhost/wiki/Silent_e
+  96. file://localhost/wiki/Inflections
+  97. file://localhost/wiki/Diphthongs
+  98. file://localhost/wiki/Long_vowel#Long_vowels_in_English
+  99. file://localhost/wiki/Frequency_(statistics)
+ 100. file://localhost/wiki/English_language
+ 101. file://localhost/wiki/ETAOIN_SHRDLU
+ 102. file://localhost/wiki/Languages
+ 103. file://localhost/wiki/Cryptography
+ 104. file://localhost/wiki/Data_compression
+ 105. file://localhost/wiki/Lipogram
+ 106. file://localhost/wiki/Ernest_Vincent_Wright
+ 107. file://localhost/wiki/Gadsby:_Champion_of_Youth
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-6
+ 109. file://localhost/wiki/Georges_Perec
+ 110. file://localhost/wiki/A_Void_(novel)
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_note-7
+ 112. file://localhost/w/index.php?title=E&action=edit&section=3
+ 113. file://localhost/wiki/NATO_phonetic_alphabet
+ 114. file://localhost/wiki/Morse_code
+ 115. file://localhost/wiki/International_maritime_signal_flags
+ 116. file://localhost/wiki/Flag_semaphore
+ 117. file://localhost/wiki/Braille
+ 118. file://localhost/wiki/Unicode
+ 119. file://localhost/wiki/Majuscule
+ 120. file://localhost/wiki/Lower_case
+ 121. file://localhost/wiki/ASCII
+ 122. file://localhost/wiki/Binary_numeral_system
+ 123. file://localhost/wiki/EBCDIC
+ 124. file://localhost/wiki/Numeric_character_reference
+ 125. file://localhost/wiki/HTML
+ 126. file://localhost/wiki/XML
+ 127. file://localhost/w/index.php?title=E&action=edit&section=4
+ 128. file://localhost/wiki/%C6%90
+ 129. file://localhost/wiki/Epsilon
+ 130. file://localhost/wiki/Ye_(Cyrillic)
+ 131. file://localhost/wiki/Yo_(Cyrillic)
+ 132. file://localhost/wiki/Ukrainian_Ye
+ 133. file://localhost/wiki/E_(Cyrillic)
+ 134. file://localhost/wiki/Close-mid_front_unrounded_vowel
+ 135. file://localhost/wiki/Open-mid_front_unrounded_vowel
+ 136. file://localhost/wiki/Estimated_sign
+ 137. file://localhost/wiki/Euro_sign
+ 138. http://commons.wikimedia.org/wiki/Special:Search/E
+ 139. file://localhost/wiki/Wikimedia_Commons
+ 140. http://commons.wikimedia.org/wiki/E
+ 141. file://localhost/w/index.php?title=E&action=edit&section=5
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-0
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-0
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-1
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-2
+ 146. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-3
+ 147. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-4
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-5
+ 149. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-Brian_Keck_UKFSN_1-6
+ 150. http://www.bckelk.ukfsn.org/words/etaoin.html
+ 151. http://www.bckelk.ukfsn.org/words/etaoin.html
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-2
+ 153. http://pages.central.edu/emp/LintonT/classes/spring01/cryptography/letterfreq.html
+ 154. file://localhost/wiki/Central_College
+ 155. http://pages.central.edu/emp/LintonT/classes/spring01/cryptography/letterfreq.html
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-3
+ 157. http://www.santacruzpl.org/readyref/files/g-l/ltfrqfr.shtml
+ 158. http://www.santacruzpl.org/readyref/files/g-l/ltfrqfr.shtml
+ 159. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-4
+ 160. http://scplweb.santacruzpl.org/readyref/files/g-l/ltfrqger.shtml
+ 161. http://scplweb.santacruzpl.org/readyref/files/g-l/ltfrqger.shtml
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-5
+ 163. http://www.santacruzpl.org/readyref/files/g-l/ltfrqsp.shtml
+ 164. http://www.santacruzpl.org/readyref/files/g-l/ltfrqsp.shtml
+ 165. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-6
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc611.tmp.html#cite_ref-7
+ 167. file://localhost/wiki/Basic_modern_Latin_alphabet
+ 168. file://localhost/wiki/A
+ 169. file://localhost/wiki/B
+ 170. file://localhost/wiki/C
+ 171. file://localhost/wiki/D
+ 172. file://localhost/wiki/F
+ 173. file://localhost/wiki/G
+ 174. file://localhost/wiki/H
+ 175. file://localhost/wiki/I
+ 176. file://localhost/wiki/J
+ 177. file://localhost/wiki/K
+ 178. file://localhost/wiki/L
+ 179. file://localhost/wiki/M
+ 180. file://localhost/wiki/N
+ 181. file://localhost/wiki/O
+ 182. file://localhost/wiki/P
+ 183. file://localhost/wiki/Q
+ 184. file://localhost/wiki/R
+ 185. file://localhost/wiki/S
+ 186. file://localhost/wiki/T
+ 187. file://localhost/wiki/U
+ 188. file://localhost/wiki/V
+ 189. file://localhost/wiki/W
+ 190. file://localhost/wiki/X
+ 191. file://localhost/wiki/Y
+ 192. file://localhost/wiki/Z
+ 193. file://localhost/wiki/Diacritic
+ 194. file://localhost/wiki/Wikipedia:List_of_all_two-letter_combinations
+ 195. file://localhost/wiki/Ea
+ 196. file://localhost/wiki/Eb
+ 197. file://localhost/wiki/Ec
+ 198. file://localhost/wiki/Ed
+ 199. file://localhost/wiki/Ee
+ 200. file://localhost/wiki/Ef
+ 201. file://localhost/wiki/Eg
+ 202. file://localhost/wiki/Eh
+ 203. file://localhost/wiki/Ei
+ 204. file://localhost/wiki/Ej
+ 205. file://localhost/wiki/Ek
+ 206. file://localhost/wiki/El
+ 207. file://localhost/wiki/Em
+ 208. file://localhost/wiki/En
+ 209. file://localhost/wiki/Eo
+ 210. file://localhost/wiki/Ep
+ 211. file://localhost/wiki/Eq
+ 212. file://localhost/wiki/Er
+ 213. file://localhost/wiki/Es
+ 214. file://localhost/wiki/Et
+ 215. file://localhost/wiki/Eu
+ 216. file://localhost/wiki/Ev
+ 217. file://localhost/wiki/Ew
+ 218. file://localhost/wiki/Ex
+ 219. file://localhost/wiki/Ey
+ 220. file://localhost/wiki/Ez
+ 221. file://localhost/wiki/EA
+ 222. file://localhost/wiki/EB
+ 223. file://localhost/wiki/EC
+ 224. file://localhost/wiki/ED
+ 225. file://localhost/wiki/EE
+ 226. file://localhost/wiki/EF
+ 227. file://localhost/wiki/EG
+ 228. file://localhost/wiki/EH
+ 229. file://localhost/wiki/EI
+ 230. file://localhost/wiki/EJ
+ 231. file://localhost/wiki/EK
+ 232. file://localhost/wiki/EL
+ 233. file://localhost/wiki/EM
+ 234. file://localhost/wiki/EN
+ 235. file://localhost/wiki/EO
+ 236. file://localhost/wiki/EP
+ 237. file://localhost/wiki/EQ
+ 238. file://localhost/wiki/ER
+ 239. file://localhost/wiki/ES
+ 240. file://localhost/wiki/ET
+ 241. file://localhost/wiki/EU
+ 242. file://localhost/wiki/EV
+ 243. file://localhost/wiki/EW
+ 244. file://localhost/wiki/EX
+ 245. file://localhost/wiki/EY
+ 246. file://localhost/wiki/EZ
+ 247. file://localhost/wiki/Wikipedia:List_of_all_single-letter-single-digit_combinations
+ 248. file://localhost/wiki/Wikipedia:List_of_all_single-digit-single-letter_combinations
+ 249. file://localhost/wiki/E0
+ 250. file://localhost/wiki/E1
+ 251. file://localhost/wiki/E2
+ 252. file://localhost/wiki/E3
+ 253. file://localhost/wiki/E4
+ 254. file://localhost/wiki/E5
+ 255. file://localhost/wiki/E6
+ 256. file://localhost/wiki/E7
+ 257. file://localhost/wiki/E8
+ 258. file://localhost/wiki/E9
+ 259. file://localhost/w/index.php?title=0E&action=edit&redlink=1
+ 260. file://localhost/w/index.php?title=1E&action=edit&redlink=1
+ 261. file://localhost/wiki/2E
+ 262. file://localhost/w/index.php?title=3E&action=edit&redlink=1
+ 263. file://localhost/wiki/4E
+ 264. file://localhost/w/index.php?title=5E&action=edit&redlink=1
+ 265. file://localhost/wiki/6E
+ 266. file://localhost/wiki/7E
+ 267. file://localhost/wiki/8E
+ 268. file://localhost/wiki/9E
+ 269. file://localhost/wiki/History_of_the_Latin_alphabet
+ 270. file://localhost/wiki/Palaeography
+ 271. file://localhost/wiki/Alphabets_derived_from_the_Latin
+ 272. file://localhost/wiki/Diacritic
+ 273. file://localhost/wiki/Punctuation
+ 274. file://localhost/wiki/Roman_numerals
+ 275. file://localhost/wiki/Latin_characters_in_Unicode
+ 276. file://localhost/wiki/List_of_Latin_letters
+ 277. file://localhost/wiki/ISO/IEC_646
+ 278. http://en.wikipedia.org/wiki/E
+ 279. file://localhost/wiki/Special:Categories
+ 280. file://localhost/wiki/Category:Latin_letters
+ 281. file://localhost/wiki/Category:Vowel_letters
+ 282. file://localhost/wiki/Category:Wikipedia_indefinitely_move-protected_pages
+ 283. file://localhost/wiki/E
+ 284. file://localhost/wiki/Talk:E
+ 285. file://localhost/w/index.php?title=E&action=edit
+ 286. file://localhost/w/index.php?title=E&action=history
+ 287. file://localhost/w/index.php?title=Special:UserLogin&returnto=E
+ 288. file://localhost/wiki/Main_Page
+ 289. file://localhost/wiki/Portal:Contents
+ 290. file://localhost/wiki/Portal:Featured_content
+ 291. file://localhost/wiki/Portal:Current_events
+ 292. file://localhost/wiki/Special:Random
+ 293. file://localhost/wiki/Wikipedia:About
+ 294. file://localhost/wiki/Wikipedia:Community_portal
+ 295. file://localhost/wiki/Special:RecentChanges
+ 296. file://localhost/wiki/Wikipedia:Contact_us
+ 297. http://wikimediafoundation.org/wiki/Donate
+ 298. file://localhost/wiki/Help:Contents
+ 299. file://localhost/wiki/Special:WhatLinksHere/E
+ 300. file://localhost/wiki/Special:RecentChangesLinked/E
+ 301. file://localhost/wiki/Wikipedia:Upload
+ 302. file://localhost/wiki/Special:SpecialPages
+ 303. file://localhost/w/index.php?title=E&refo%3Flu=&printable=yes
+ 304. file://localhost/w/index.php?title=E&oldid=273446538
+ 305. file://localhost/w/index.php?title=Special:Cite&page=E&id=273446538
+ 306. http://af.wikipedia.org/wiki/E
+ 307. http://als.wikipedia.org/wiki/E
+ 308. http://an.wikipedia.org/wiki/E
+ 309. http://ast.wikipedia.org/wiki/E
+ 310. http://az.wikipedia.org/wiki/E
+ 311. http://zh-min-nan.wikipedia.org/wiki/E
+ 312. http://bs.wikipedia.org/wiki/E
+ 313. http://br.wikipedia.org/wiki/E_(lizherenn)
+ 314. http://ca.wikipedia.org/wiki/E
+ 315. http://cs.wikipedia.org/wiki/E
+ 316. http://co.wikipedia.org/wiki/E
+ 317. http://cy.wikipedia.org/wiki/E
+ 318. http://da.wikipedia.org/wiki/E
+ 319. http://de.wikipedia.org/wiki/E
+ 320. http://es.wikipedia.org/wiki/E
+ 321. http://eo.wikipedia.org/wiki/E
+ 322. http://eu.wikipedia.org/wiki/E
+ 323. http://fr.wikipedia.org/wiki/E_(lettre)
+ 324. http://fy.wikipedia.org/wiki/E
+ 325. http://fur.wikipedia.org/wiki/E
+ 326. http://gd.wikipedia.org/wiki/E
+ 327. http://gl.wikipedia.org/wiki/E
+ 328. http://hr.wikipedia.org/wiki/E
+ 329. http://ilo.wikipedia.org/wiki/E
+ 330. http://is.wikipedia.org/wiki/E
+ 331. http://it.wikipedia.org/wiki/E
+ 332. http://kw.wikipedia.org/wiki/E
+ 333. http://sw.wikipedia.org/wiki/E
+ 334. http://ht.wikipedia.org/wiki/E
+ 335. http://la.wikipedia.org/wiki/E
+ 336. http://lv.wikipedia.org/wiki/E
+ 337. http://lb.wikipedia.org/wiki/E
+ 338. http://lt.wikipedia.org/wiki/E
+ 339. http://hu.wikipedia.org/wiki/E
+ 340. http://ms.wikipedia.org/wiki/E
+ 341. http://nah.wikipedia.org/wiki/E
+ 342. http://nl.wikipedia.org/wiki/E_(letter)
+ 343. http://no.wikipedia.org/wiki/E
+ 344. http://nn.wikipedia.org/wiki/E
+ 345. http://nrm.wikipedia.org/wiki/E
+ 346. http://uz.wikipedia.org/wiki/E_(harf)
+ 347. http://nds.wikipedia.org/wiki/E
+ 348. http://pl.wikipedia.org/wiki/E
+ 349. http://pt.wikipedia.org/wiki/E
+ 350. http://crh.wikipedia.org/wiki/E
+ 351. http://ro.wikipedia.org/wiki/E
+ 352. http://qu.wikipedia.org/wiki/E
+ 353. http://se.wikipedia.org/wiki/E
+ 354. http://stq.wikipedia.org/wiki/E
+ 355. http://simple.wikipedia.org/wiki/E
+ 356. http://sk.wikipedia.org/wiki/E
+ 357. http://sl.wikipedia.org/wiki/E
+ 358. http://sr.wikipedia.org/wiki/E_(%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5)
+ 359. http://fi.wikipedia.org/wiki/E
+ 360. http://sv.wikipedia.org/wiki/E
+ 361. http://tl.wikipedia.org/wiki/E
+ 362. http://vi.wikipedia.org/wiki/E
+ 363. http://tr.wikipedia.org/wiki/E_(harf)
+ 364. http://vo.wikipedia.org/wiki/E
+ 365. http://yo.wikipedia.org/wiki/E
+ 366. http://bat-smg.wikipedia.org/wiki/E
+ 367. http://www.mediawiki.org/
+ 368. http://wikimediafoundation.org/
+ 369. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 370. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 371. http://www.wikimediafoundation.org/
+ 372. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 373. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 374. http://en.wikipedia.org/wiki/Non-profit_organization
+ 375. http://en.wikipedia.org/wiki/Charitable_organization
+ 376. http://wikimediafoundation.org/wiki/Privacy_policy
+ 377. file://localhost/wiki/Wikipedia:About
+ 378. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 379. file://localhost/wiki/File:Wiktionary-logo-en.svg
+ 380. file://localhost/wiki/File:PhoenicianE-01.svg
+ 381. file://localhost/wiki/File:Epsilon_uc_lc.svg
+ 382. http://upload.wikimedia.org/wikipedia/commons/e/e7/E_morse_code.ogg
+ 383. file://localhost/wiki/File:ICS_Echo.svg
+ 384. file://localhost/wiki/File:Semaphore_Echo.svg
+ 385. file://localhost/wiki/File:Braille_E5.svg
+ 386. file://localhost/wiki/%C3%89
+ 387. file://localhost/wiki/%C3%88
+ 388. file://localhost/wiki/%C4%94
+ 389. file://localhost/wiki/%C3%8A
+ 390. file://localhost/wiki/%E1%BA%BE
+ 391. file://localhost/wiki/%E1%BB%80
+ 392. file://localhost/wiki/%E1%BB%84
+ 393. file://localhost/wiki/%E1%BB%82
+ 394. file://localhost/wiki/%C4%9A
+ 395. file://localhost/wiki/%C3%8B
+ 396. file://localhost/wiki/%E1%BA%BC
+ 397. file://localhost/wiki/%C4%96
+ 398. file://localhost/w/index.php?title=%C8%A8&action=edit&redlink=1
+ 399. file://localhost/wiki/%E1%B8%9C
+ 400. file://localhost/wiki/%C4%98
+ 401. file://localhost/wiki/%C4%92
+ 402. file://localhost/w/index.php?title=%E1%B8%96&action=edit&redlink=1
+ 403. file://localhost/w/index.php?title=%E1%B8%94&action=edit&redlink=1
+ 404. file://localhost/wiki/%E1%BA%BA
+ 405. file://localhost/wiki/%C8%84
+ 406. file://localhost/w/index.php?title=%C8%86&action=edit&redlink=1
+ 407. file://localhost/wiki/%E1%BA%B8
+ 408. file://localhost/wiki/%E1%BB%86
+ 409. file://localhost/wiki/%E1%B8%98
+ 410. file://localhost/w/index.php?title=%E1%B8%9A&action=edit&redlink=1
+ 411. file://localhost/wiki/%C9%86
+ 412. file://localhost/w/index.php?title=%E1%B6%92&action=edit&redlink=1
+ 413. file://localhost/w/index.php?title=%E2%B1%B8&action=edit&redlink=1
+ 414. file://localhost/wiki/Main_Page
+ 415. http://ar.wikipedia.org/wiki/E
+ 416. http://arc.wikipedia.org/wiki/E
+ 417. http://bg.wikipedia.org/wiki/E
+ 418. http://el.wikipedia.org/wiki/E
+ 419. http://fa.wikipedia.org/wiki/E
+ 420. http://gan.wikipedia.org/wiki/E
+ 421. http://ko.wikipedia.org/wiki/E
+ 422. http://he.wikipedia.org/wiki/E
+ 423. http://ka.wikipedia.org/wiki/E
+ 424. http://mzn.wikipedia.org/wiki/E
+ 425. http://ja.wikipedia.org/wiki/E
+ 426. http://ru.wikipedia.org/wiki/E_(%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0)
+ 427. http://th.wikipedia.org/wiki/E
+ 428. http://uk.wikipedia.org/wiki/E_(%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8F)
+ 429. http://zh-yue.wikipedia.org/wiki/E
+ 430. http://zh.wikipedia.org/wiki/E

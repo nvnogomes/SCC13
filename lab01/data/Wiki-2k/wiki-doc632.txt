@@ -1,0 +1,307 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Earth's field NMR
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EFNMR)
+   Jump to: [7]navigation, [8]search
+
+   [9]Nuclear magnetic resonance (NMR) in the [10]geomagnetic field is
+   conventionally referred to as Earth's field NMR (EFNMR). Note that the
+   same acronym is used for [11]electric field NMR.
+
+   EFNMR is a special case of [12]low field NMR.
+
+   When placed in a constant magnetic field and stimulated (perturbed) by
+   a pulsed or alternating magnetic field, NMR active nuclei (such as ^1H
+   or ^13C) resonate at frequencies characteristic of the [13]isotope. The
+   resonant frequencies and signal strengths are proportional to the
+   strength of the applied magnetic field. Thus in the 21 [14]tesla
+   magnetic field that may be found in high resolution laboratory [15]NMR
+   spectrometers, protons resonate at 900 MHz. However in the Earth's
+   magnetic field the same nuclei resonate at audio frequencies of around
+   2 kHz, generating very weak signals.
+
+   The location of a nucleus within a complex molecule affects the
+   chemical environment experienced by the nucleus. Thus different
+   [16]hydrocarbon molecules containing NMR active nuclei in different
+   positions within the molecule produce slightly different patterns of
+   resonant frequencies. Analysis of the frequency spectrum allows the
+   structure of the molecule to be determined.
+
+Contents
+
+     * [17]1 Applications
+     * [18]2 Mode of operation
+     * [19]3 Proton EFNMR frequencies
+     * [20]4 History
+     * [21]5 See also
+     * [22]6 External links
+
+[[23]edit] Applications
+
+   Applications of EFNMR include:
+     * [24]Proton precession magnetometers (PPM) or [25]proton
+       magnetometers, which produce magnetic resonance in a known sample
+       in the magnetic field to be measured, measure the sample's resonant
+       frequency, then calculate and display the field strength.
+
+     * EFNMR spectrometers, which use the principle of [26]NMR
+       spectroscopy to analyse molecular structures in a variety of
+       applications, from investigating the structure of ice crystals in
+       polar ice-fields, to rocks and hydrocarbons in the field.
+
+     * Earth's field MRI scanners, which use the principle of [27]magnetic
+       resonance imaging.
+
+   The advantages of the Earth's field instruments over conventional (high
+   field strength) instruments include the portability of the equipment
+   giving the ability to analyse substances on site, and their lower cost.
+   The much lower geomagnetic field strength, that would otherwise result
+   in poor signal-to-noise ratios, is compensated by homogeneity of the
+   Earth's field giving the ability to use much larger samples. Their
+   relatively low cost and simplicity make them good educational tools.
+
+   Examples (illustrated) are the [28]TeachSpin and [29]Terranova MRI
+   instruments.
+
+[[30]edit] Mode of operation
+
+   [31]Free Induction Decay (FID) is the magnetic resonance due to
+   [32]Larmor precession that results from the stimulation of nuclei by
+   means of either a pulsed dc magnetic field or a pulsed resonant
+   frequency (rf) magnetic field, somewhat analogous respectively to the
+   effects of plucking or bowing a stringed instrument. Whereas a pulsed
+   rf field is usual in conventional (high field) NMR spectrometers, the
+   pulsed dc field method of stimulating FID is usual in EFNMR
+   spectrometers and PPMs.
+
+   Since the FID resonant frequency of NMR active nuclei is directly
+   proportional to the magnetic field affecting those nuclei, we can use
+   widely available NMR spectroscopy data to analyse suitable substances
+   in the [33]Earth's magnetic field.
+
+   For more context and an explanation of NMR principles, please refer to
+   the main articles on [34]NMR and [35]NMR spectroscopy.
+
+[[36]edit] Proton EFNMR frequencies
+
+   The geomagnetic field strength and hence precession frequency varies
+   with location and time.
+
+          Larmor precession frequency = [37]magnetogyric ratio x magnetic
+          field
+          Proton magnetogyric ratio = 42.576 Hz/T (also written
+          42.576 MHz/T or 0.042576 Hz/nT)
+          Earth's magnetic field: 30 T near Equator to 60 T near Poles,
+          around 50 T at mid-latitudes.
+
+   Thus [38]proton (hydrogen nucleus) EFNMR frequencies are [39]audio
+   frequencies of about 1.3 kHz near the Equator to 2.5 kHz near the
+   Poles, around 2 kHz being typical of mid-latitudes.
+
+   Examples of molecules containing hydrogen nuclei useful in proton EFNMR
+   are [40]water, [41]hydrocarbons such as [42]natural gas and
+   [43]petroleum, and [44]carbohydrates.
+
+[[45]edit] History
+
+   Early EFNMR instruments were developed in the 1950s using
+   [46]thermionic valve ([47]vacuum tube) circuits. Sir [48]Peter
+   Mansfield's first acquaintance with NMR was an undergraduate project to
+   develop a [49]transistorized EFNMR spectrometer in the late 1950's
+   [50][1]. Following that introduction to NMR, he went on to invent an
+   [51]MRI scanner, for which he shared a Nobel prize.
+
+[[52]edit] See also
+
+     * [53]Carbohydrate
+     * [54]Earth's magnetic field variations
+     * [55]Free induction decay (FID)
+     * [56]Hydrocarbon
+     * [57]Hydrogen
+     * [58]Larmor precession
+     * [59]Magnetogyric or Gyromagnetic ratio
+     * [60]Magnetometer
+     * [61]MRI
+     * [62]NMR
+     * [63]NMR spectroscopy
+     * [64]Proton
+
+[[65]edit] External links
+
+     * [66]TeachSpin EFNMR instrument
+     * [67]http://www.magritek.com/earthsfieldscience.html
+     * [68]Peter Mansfield autobiography
+
+   Retrieved from "[69]http://en.wikipedia.org/wiki/Earth%27s_field_NMR"
+   [70]Category: [71]Nuclear magnetic resonance
+
+Views
+
+     * [72]Article
+     * [73]Discussion
+     * [74]Edit this page
+     * [75]History
+
+Personal tools
+
+     * [76]Log in / create account
+
+Navigation
+
+     * [77]Main page
+     * [78]Contents
+     * [79]Featured content
+     * [80]Current events
+     * [81]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [82]About Wikipedia
+     * [83]Community portal
+     * [84]Recent changes
+     * [85]Contact Wikipedia
+     * [86]Donate to Wikipedia
+     * [87]Help
+
+Toolbox
+
+     * [88]What links here
+     * [89]Related changes
+     * [90]Upload file
+     * [91]Special pages
+     * [92]Printable version
+     * [93]Permanent link
+     * [94]Cite this page
+
+   [95]Powered by MediaWiki
+   [96]Wikimedia Foundation
+     * This page was last modified on 3 December 2008, at 04:15.
+     * All text is available under the terms of the [97]GNU Free
+       Documentation License. (See [98]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [99]Wikimedia
+       Foundation, Inc., a U.S. registered [100]501(c)(3)
+       [101]tax-deductible [102]nonprofit [103]charity.
+     * [104]Privacy policy
+     * [105]About Wikipedia
+     * [106]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Earth%27s_field_NMR&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EFNMR&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#searchInput
+   9. file://localhost/wiki/Nuclear_magnetic_resonance
+  10. file://localhost/wiki/Geomagnetic_field
+  11. file://localhost/wiki/Electric_field_NMR
+  12. file://localhost/wiki/Low_field_NMR
+  13. file://localhost/wiki/Isotope
+  14. file://localhost/wiki/Tesla_(unit)
+  15. file://localhost/wiki/NMR_spectroscopy
+  16. file://localhost/wiki/Hydrocarbon
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#Applications
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#Mode_of_operation
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#Proton_EFNMR_frequencies
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#History
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#See_also
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc632.tmp.html#External_links
+  23. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=1
+  24. file://localhost/wiki/Proton_precession_magnetometer
+  25. file://localhost/wiki/Proton_magnetometer
+  26. file://localhost/wiki/NMR_spectroscopy
+  27. file://localhost/wiki/Magnetic_resonance_imaging
+  28. http://www.teachspin.com/instruments/earths_field_NMR/index.shtml
+  29. http://www.magritek.com/terranova.html
+  30. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=2
+  31. file://localhost/wiki/Free_Induction_Decay
+  32. file://localhost/wiki/Larmor_precession
+  33. file://localhost/wiki/Earth%27s_magnetic_field
+  34. file://localhost/wiki/NMR
+  35. file://localhost/wiki/NMR_spectroscopy
+  36. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=3
+  37. file://localhost/wiki/Magnetogyric_ratio
+  38. file://localhost/wiki/Proton
+  39. file://localhost/wiki/Audio_frequencies
+  40. file://localhost/wiki/Water
+  41. file://localhost/wiki/Hydrocarbons
+  42. file://localhost/wiki/Natural_gas
+  43. file://localhost/wiki/Petroleum
+  44. file://localhost/wiki/Carbohydrates
+  45. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=4
+  46. file://localhost/wiki/Thermionic_valve
+  47. file://localhost/wiki/Vacuum_tube
+  48. file://localhost/wiki/Peter_Mansfield
+  49. file://localhost/wiki/Transistorized
+  50. http://nobelprize.org/nobel_prizes/medicine/laureates/2003/mansfield-autobio.html
+  51. file://localhost/wiki/MRI
+  52. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=5
+  53. file://localhost/wiki/Carbohydrate
+  54. file://localhost/wiki/Geomagnetic_field#Magnetic_field_variations
+  55. file://localhost/wiki/Free_induction_decay
+  56. file://localhost/wiki/Hydrocarbon
+  57. file://localhost/wiki/Hydrogen
+  58. file://localhost/wiki/Larmor_precession
+  59. file://localhost/wiki/Gyromagnetic_ratio#Magnetogyric_ratio_for_a_nucleus
+  60. file://localhost/wiki/Magnetometer
+  61. file://localhost/wiki/MRI
+  62. file://localhost/wiki/NMR
+  63. file://localhost/wiki/NMR_spectroscopy
+  64. file://localhost/wiki/Proton
+  65. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit&section=6
+  66. http://www.teachspin.com/instruments/earths_field_NMR/index.shtml
+  67. http://www.magritek.com/earthsfieldscience.html
+  68. http://nobelprize.org/nobel_prizes/medicine/laureates/2003/mansfield-autobio.html
+  69. http://en.wikipedia.org/wiki/Earth%27s_field_NMR
+  70. file://localhost/wiki/Special:Categories
+  71. file://localhost/wiki/Category:Nuclear_magnetic_resonance
+  72. file://localhost/wiki/Earth%27s_field_NMR
+  73. file://localhost/wiki/Talk:Earth%27s_field_NMR
+  74. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=edit
+  75. file://localhost/w/index.php?title=Earth%27s_field_NMR&action=history
+  76. file://localhost/w/index.php?title=Special:UserLogin&returnto=Earth%27s_field_NMR
+  77. file://localhost/wiki/Main_Page
+  78. file://localhost/wiki/Portal:Contents
+  79. file://localhost/wiki/Portal:Featured_content
+  80. file://localhost/wiki/Portal:Current_events
+  81. file://localhost/wiki/Special:Random
+  82. file://localhost/wiki/Wikipedia:About
+  83. file://localhost/wiki/Wikipedia:Community_portal
+  84. file://localhost/wiki/Special:RecentChanges
+  85. file://localhost/wiki/Wikipedia:Contact_us
+  86. http://wikimediafoundation.org/wiki/Donate
+  87. file://localhost/wiki/Help:Contents
+  88. file://localhost/wiki/Special:WhatLinksHere/Earth%27s_field_NMR
+  89. file://localhost/wiki/Special:RecentChangesLinked/Earth%27s_field_NMR
+  90. file://localhost/wiki/Wikipedia:Upload
+  91. file://localhost/wiki/Special:SpecialPages
+  92. file://localhost/w/index.php?title=Earth%27s_field_NMR&printable=yes
+  93. file://localhost/w/index.php?title=Earth%27s_field_NMR&oldid=255571867
+  94. file://localhost/w/index.php?title=Special:Cite&page=Earth%27s_field_NMR&id=255571867
+  95. http://www.mediawiki.org/
+  96. http://wikimediafoundation.org/
+  97. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  98. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  99. http://www.wikimediafoundation.org/
+ 100. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 101. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 102. http://en.wikipedia.org/wiki/Non-profit_organization
+ 103. http://en.wikipedia.org/wiki/Charitable_organization
+ 104. http://wikimediafoundation.org/wiki/Privacy_policy
+ 105. file://localhost/wiki/Wikipedia:About
+ 106. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 107. file://localhost/wiki/Main_Page

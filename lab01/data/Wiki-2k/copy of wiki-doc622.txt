@@ -1,0 +1,1143 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+List of chess openings
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]ECO B28)
+   Jump to: [7]navigation, [8]search
+
+          This article uses [9]algebraic notation to describe chess moves.
+
+   This is a list of chess openings, organized by the [10]Encyclopaedia of
+   Chess Openings (ECO) code. In 1966, [11]Chess Informant categorized the
+   [12]chess openings into five broad areas ("A" through "E"), with each
+   of those broken down into one hundred subcategories ("00" through
+   "99"). The openings were published in five volumes of Encyclopaedia of
+   Chess Openings, with volumes labeled "A" through "E". This is a list of
+   chess openings by the ECO classification.
+
+Contents
+
+     * [13]1 A
+          + [14]1.1 A00-A39
+          + [15]1.2 A40-A44
+          + [16]1.3 A45-A49
+          + [17]1.4 A50-A79
+          + [18]1.5 A80-A99
+     * [19]2 B
+          + [20]2.1 B00-B19
+          + [21]2.2 B20-B99
+     * [22]3 C
+          + [23]3.1 C00-C19
+          + [24]3.2 C20-C99
+     * [25]4 D
+          + [26]4.1 D00-D69
+          + [27]4.2 D70-D99
+     * [28]5 E
+          + [29]5.1 E00-E59
+          + [30]5.2 E60-E99
+     * [31]6 See also
+     * [32]7 External links
+
+[[33]edit] A
+
+     * White first moves other than 1.e4, 1.d4: [34]Irregular openings
+       (A00-A39)
+     * 1.d4 without 1...d5 or 1...Nf6: Atypical replies to 1.d4 (A40-A44)
+     * 1.d4 Nf6 without 2.c4: Atypical replies to 1...Nf6 (A45-A49)
+     * 1.d4 Nf6 2.c4 without 2...e6 or 2...g6: Atypical [35]Indian systems
+       (A50-A79)
+     * 1.d4 f5: [36]Dutch Defence (A80-A99)
+
+[[37]edit] A00-A39
+
+   White first moves other than 1.e4, 1.d4: [38]Irregular openings
+   (A00-A39)
+     * A00 [39]Irregular Openings
+
+          + [40]Anderssen's Opening: 1. a3
+
+               o [41]Anderssen's Opening, Polish Gambit: 1. a3 a5 2. b4
+               o [42]Anderssen's Opening, Creepy Crawly Formation: 1. a3
+                 e5 2. h3 d5
+               o [43]Anderssen's Opening, Andersspike: 1. a3 g6 2. g4
+
+          + [44]Ware Opening: 1. a4
+
+               o [45]Ware Opening, Wing Gambit: 1. a4 b5 2. axb5 Bb7
+               o [46]Ware Opening, Ware Gambit: 1. a4 e5 2. a5 d5 3. e3 f5
+                 4. a6
+               o [47]Ware Opening, Crab Variation: 1. a4 e5 2. h4
+
+          + [48]Durkin Opening: 1. Na3
+          + [49]Sokolsky Opening: 1. b4
+
+               o [50]Sokolsky Opening, Birmingham Gambit: 1. b4 c5
+               o [51]Sokolsky Opening, Outflank Variation: 1. b4 c6
+               o [52]Sokolsky Opening, Schuhler Gambit: 1. b4 c6 2. Bb2 a5
+                 3. b5 cxb5 4. e4
+               o [53]Sokolsky Opening, Myers Variation: 1. b4 d5 2. Bb2 c6
+                 3. a4
+               o [54]Sokolsky Opening, Bugayev Attack: 1. b4 e5 2. a3
+               o [55]Sokolsky Opening, Wolferts Gambit: 1. b4 e5 2. Bb2 c5
+
+          + [56]Saragossa Opening: 1.c3
+          + [57]Dunst Opening: 1. Nc3
+          + [58]Van 't Kruijs Opening: 1.e3
+          + [59]Mieses Opening: 1. d3
+          + [60]Barnes Opening: 1. f3
+          + [61]Benko's Opening: 1. g3
+          + [62]Grob's Attack: 1. g4
+          + [63]Clemenz Opening: 1. h3
+          + [64]Desprez Opening: 1. h4
+          + [65]Amar Opening: 1. Nh3
+
+     * A01 [66]Larsen's Opening, 1. b3
+     * A02 [67]Bird's Opening, 1. f4
+     * A03 Bird's Opening, 1...d5
+     * A04 [68]Rti Opening, 1. Nf3
+     * A05 Reti Opening, 2...Nf6
+     * A06 Reti Opening, 2...d5
+     * A07 Reti Opening, [69]King's Indian attack (Barcza system)
+     * A08 Reti Opening, [70]King's Indian attack
+     * A09 Reti Opening, 2...d5 3.c4
+     * A10 [71]English Opening
+     * A11 English, Caro-Kann defensive system
+     * A12 English, Caro-Kann defensive system
+     * A13 English Opening
+     * A14 English, Neo-Catalan declined
+     * A15 English, 1...Nf6 (Anglo-Indian defence)
+     * A16 English Opening
+     * A17 English Opening, [72]Hedgehog Defence
+     * A18 English, Mikenas-Carls variation
+     * A19 English, Mikenas-Carls, Sicilian variation
+     * A20 English Opening
+     * A21 English Opening
+     * A22 English Opening
+     * A23 English Opening, Bremen system, Keres variation
+     * A24 English Opening, Bremen system with 3...g6
+     * A25 English Opening, Sicilian Reversed
+     * A26 English Opening, Closed system
+     * A27 English Opening, Three knights system
+     * A28 English Opening, Four knights system
+     * A29 English Opening, Four knights, kingside Fianchetto
+     * A30 English Opening, Symmetrical variation
+     * A31 English Opening, Symmetrical, Benoni formation
+     * A32 English Opening, Symmetrical
+     * A33 English Opening, Symmetrical
+     * A34 English Opening, Symmetrical
+     * A35 English Opening, Symmetrical
+     * A36 English Opening, Symmetrical
+     * A37 English Opening, Symmetrical
+     * A38 English Opening, Symmetrical
+     * A39 English Opening, Symmetrical, Main line with d4
+
+[[73]edit] A40-A44
+
+   1.d4 without 1...d5 or 1...Nf6: Atypical replies to 1.d4 (A40-A44)
+     * A40 [74]Queen's Pawn Game (including [75]English Defence,
+       [76]Englund Gambit, [77]Queen's Knight Defence, [78]Polish Defence
+       and [79]Keres Defence)
+     * A41 Queen's Pawn Game, [80]Wade Defence
+     * A42 [81]Modern defence, Averbakh system also [82]Wade Defence
+     * A43 [83]Old Benoni defence
+     * A44 Old Benoni defence
+
+[[84]edit] A45-A49
+
+   1.d4 Nf6 without 2.c4: Atypical replies to 1...Nf6 (A45-A49)
+     * A45 Queen's Pawn Game
+     * A46 [85]Queen's Pawn Game
+     * A47 [86]Queen's Indian Defence
+     * A48 [87]King's Indian, [88]East Indian defence
+     * A49 King's Indian, Fianchetto without c4
+
+[[89]edit] A50-A79
+
+   1.d4 Nf6 2.c4 without 2...e6 or 2...g6: Atypical [90]Indian systems
+   (A50-A79)
+     * A50 Queen's Pawn Game, [91]Black Knights' Tango
+     * A51 [92]Budapest Gambit declined
+     * A52 Budapest Gambit
+     * A53 [93]Old Indian Defence
+     * A54 Old Indian, Ukrainian variation
+     * A55 Old Indian, Main line
+     * A56 [94]Benoni Defence
+     * A57 [95]Benko gambit
+     * A58 Benko gambit accepted
+     * A59 [96]Benko gambit, 7.e4
+     * A60 Benoni defence
+     * A61 Benoni defence
+     * A62 Benoni, Fianchetto variation
+     * A63 Benoni, Fianchetto variation, 9...Nbd7
+     * A64 Benoni, Fianchetto variation, 11...Re8
+     * A65 Benoni, 6.e4
+     * A66 Benoni, pawn storm variation
+     * A67 [97]Benoni, Taimanov variation
+     * A68 Benoni, Four pawns attack
+     * A69 Benoni, Four pawns attack, Main line
+     * A70 Benoni, Classical with e4 and Nf3
+     * A71 Benoni, Classical, 8.Bg5
+     * A72 Benoni, Classical without 9.O-O
+     * A73 Benoni, Classical, 9.O-O
+     * A74 Benoni, Classical, 9...a6, 10.a4
+     * A75 Benoni, Classical with ...a6 and 10...Bg4
+     * A76 Benoni, Classical, 9...Re8
+     * A77 Benoni, Classical, 9...Re8, 10.Nd2
+     * A78 Benoni, Classical with ...Re8 and ...Na6
+     * A79 Benoni, Classical, 11.f3
+
+[[98]edit] A80-A99
+
+   1.d4 f5: [99]Dutch Defence (A80-A99)
+     * A80 [100]Dutch Defence
+     * A81 Dutch defence
+     * A82 [101]Dutch, Staunton gambit, also includes [102]Balogh Defence
+     * A83 Dutch, Staunton gambit, Staunton's line
+     * A84 Dutch defence
+     * A85 Dutch with 2.c4 & 3.Nc3
+     * A86 Dutch with 2.c4 & 3.g3
+     * A87 Dutch, Leningrad, Main variation
+     * A88 Dutch, Leningrad, Main variation with 7...c6
+     * A89 Dutch, Leningrad, Main variation with Nc6
+     * A90 Dutch defence
+     * A91 Dutch defence
+     * A92 Dutch defence
+     * A93 Dutch, Stonewall, Botwinnik variation
+     * A94 Dutch, Stonewall with Ba3
+     * A95 Dutch, Stonewall with Nc3
+     * A96 Dutch, Classical variation
+     * A97 Dutch, Ilyin-Genevsky variation
+     * A98 Dutch, Ilyin-Genevsky variation with Qc2
+     * A99 Dutch, Ilyin-Genevsky variation with b3
+
+[[103]edit] B
+
+     * 1.e4 without 1...c5, 1...e6 or 1...e5 (B00-B19)
+     * 1.e4 c5: [104]Sicilian Defence (B20-B99)
+
+[[105]edit] B00-B19
+
+   1.e4 without 1...c5, 1...e6 or 1...e5 (B00-B19)
+     * B00 [106]King's pawn Opening without 1... e5, 1... d5, 1... Nf6,
+       1... g6, 1... d6, 1... c6, 1... c5. (includes [107]Nimzowitsch
+       Defence, [108]St. George Defence, [109]Owen's Defence,
+       [110]Hippopotamus Defence, [111]Fred Defence and others)
+     * B01 [112]Scandinavian Defence (Center Counter Defence)
+     * B02 [113]Alekhine's Defence
+     * B03 Alekhine's Defence 3.d4
+     * B04 Alekhine's defence, Modern variation
+     * B05 Alekhine's defence, Modern variation, 4...Bg4
+     * B06 [114]Robatsch (Modern) defence, including [115]Monkey's Bum
+     * B07 [116]Pirc defence
+     * B08 [117]Pirc, Classical (Two knights) system
+     * B09 [118]Pirc, Austrian attack
+     * B10 [119]Caro-Kann Defence
+     * B11 Caro-Kann, Two knights, 3...Bg4
+     * B12 Caro-Kann defence
+     * B13 Caro-Kann, Exchange variation
+     * B14 Caro-Kann, Panov-Botvinnik attack, 5...e6
+     * B15 Caro-Kann defence
+     * B16 Caro-Kann, Bronstein-Larsen variation
+     * B17 Caro-Kann, Steinitz variation
+     * B18 Caro-Kann, Classical variation
+     * B19 Caro-Kann, Classical, 7...Nd7
+
+[[120]edit] B20-B99
+
+   1.e4 c5: [121]Sicilian Defence (B20-B99)
+     * B20 [122]Sicilian defence
+     * B21 Sicilian, Grand Prix attack and [123]Smith-Morra Gambit,
+       including the [124]Siberian Trap
+     * B22 [125]Sicilian Defence, Alapin Variation (2.c3)
+     * B23 Sicilian, Closed
+     * B24 Sicilian, Closed
+     * B25 Sicilian, Closed
+     * B26 Sicilian, Closed, 6.Be3
+     * B27 Sicilian defence
+     * B28 Sicilian, O'Kelly variation
+     * B29 Sicilian, Nimzovich-Rubinstein variation
+     * B30 Sicilian defence
+     * B31 Sicilian, Nimzovich-Rossolimo attack (with ...g6, without
+       ...d6)
+     * B32 Sicilian defence
+     * B33 Sicilian, Sveshnikov (Lasker-Pelikan) variation
+     * B34 [126]Sicilian Defence, Accelerated Fianchetto, Exchange
+       variation
+     * B35 [127]Sicilian Defence, Accelerated Fianchetto, Modern variation
+       with Bc4
+     * B36 [128]Sicilian Defence, Accelerated Fianchetto, [129]Maroczy
+       bind
+     * B37 [130]Sicilian Defence, Accelerated Fianchetto, Maroczy bind,
+       5...Bg7
+     * B38 [131]Sicilian Defence, Accelerated Fianchetto, Maroczy bind,
+       6.Be3
+     * B39 [132]Sicilian Defence, Accelerated Fianchetto, Breyer variation
+     * B40 Sicilian defence
+     * B41 Sicilian, Kan variation
+     * B42 Sicilian, Kan, 5.Bd3
+     * B43 Sicilian, Kan, 5.Nc3
+     * B44 Sicilian defence
+     * B45 Sicilian, Taimanov variation
+     * B46 Sicilian, Taimanov variation
+     * B47 [133]Sicilian, Taimanov (Bastrikov) variation
+     * B48 Sicilian, Taimanov variation
+     * B49 Sicilian, Taimanov variation
+     * [134]B50 Sicilian
+     * B51 Sicilian, Canal-Sokolsky attack
+     * B52 Sicilian, Canal-Sokolsky attack, 3...Bd7
+     * B53 Sicilian, Chekhover variation
+     * B54 Sicilian
+     * B55 Sicilian, Prins variation, Venice attack
+     * B56 Sicilian
+     * B57 Sicilian, Sozin (not Scheveningen) including [135]Magnus Smith
+       Trap
+     * B58 Sicilian, Classical
+     * B59 Sicilian, Boleslavsky variation, 7.Nb3
+     * B60 [136]Sicilian, Richter-Rauzer
+     * B61 Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2
+     * B62 Sicilian, Richter-Rauzer, 6...e6
+     * B63 Sicilian, Richter-Rauzer, Rauzer attack
+     * B64 Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4
+     * B65 Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7 defence,
+       9...Nxd4
+     * B66 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6
+     * B67 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence,
+       8...Bd7
+     * B68 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence,
+       9...Be7
+     * B69 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence,
+       11.Bxf6
+     * B70 [137]Sicilian, Dragon variation
+     * B71 Sicilian, Dragon, Levenfish variation
+     * B72 Sicilian, Dragon, 6.Be3
+     * B73 Sicilian, Dragon, Classical, 8.O-O
+     * B74 Sicilian, Dragon, Classical, 9.Nb3
+     * B75 Sicilian, Dragon, Yugoslav attack
+     * B76 [138]Sicilian, Dragon, Yugoslav attack, 7...O-O
+     * B77 [139]Sicilian, Dragon, Yugoslav attack, 9.Bc4
+     * B78 [140]Sicilian, Dragon, Yugoslav attack, 10.O-O-O
+     * B79 [141]Sicilian, Dragon, Yugoslav attack, 12.h4
+     * B80 [142]Sicilian Defence, Scheveningen Variation
+     * B81 Sicilian, Scheveningen, Keres attack
+     * B82 Sicilian, Scheveningen, 6.f4
+     * B83 Sicilian, Scheveningen, 6.Be2
+     * B84 Sicilian, Scheveningen (Paulsen), Classical variation
+     * B85 Sicilian, Scheveningen, Classical variation with ...Qc7 and
+       ...Nc6
+     * B86 Sicilian, Sozin attack
+     * B87 Sozin with ...a6 and ...b5
+     * B88 Sicilian, Sozin, Leonhardt variation
+     * B89 [143]Sicilian, Sozin, 7.Be3
+     * B90 Sicilian, Najdorf
+     * B91 Sicilian, Najdorf, Zagreb (Fianchetto) variation (6.g3)
+     * B92 Sicilian, Najdorf, Opocensky variation (6.Be2)
+     * B93 Sicilian, Najdorf, 6.f4
+     * B94 Sicilian, Najdorf, 6.Bg5
+     * B95 Sicilian, Najdorf, 6...e6
+     * B96 Sicilian, Najdorf, 7.f4
+     * B97 Sicilian, Najdorf, 7...Qb6 including [144]Poisoned Pawn
+       Variation
+     * B98 Sicilian, Najdorf, 7...Be7
+     * B99 [145]Sicilian, Najdorf, 7...Be7 Main line
+
+[[146]edit] C
+
+     * 1.e4 e6: [147]French Defence (C00-C19)
+     * 1.e4 e5: [148]Open Game (C20-C99)
+
+[[149]edit] C00-C19
+
+   1.e4 e6: [150]French Defence (C00-C19)
+     * C00 [151]French Defence
+     * C01 French, Exchange Variation, [152]Kingston Defence
+     * C02 French, Advance Variation
+     * C03 French, Tarrasch
+     * C04 French, Tarrasch, Guimard Main line
+     * C05 French, Tarrasch, Closed Variation
+     * C06 French, Tarrasch, Closed Variation, Main line
+     * C07 French, Tarrasch, Open Variation
+     * C08 French, Tarrasch, Open, 4.exd5 exd5
+     * C09 French, Tarrasch, Open Variation, Main line
+     * C10 French, Paulsen Variation
+     * C11 French Defence
+     * C12 French, MacCutcheon Variation
+     * C13 French, Classical
+     * C14 French, Classical Variation
+     * C15 French, Winawer (Nimzovich) Variation
+     * C16 French, Winawer, Advance Variation
+     * C17 French, Winawer, Advance Variation
+     * C18 [153]French, Winawer, Advance Variation
+     * C19 French, Winawer, Advance, 6...Ne7
+
+[[154]edit] C20-C99
+
+   1.e4 e5: [155]Open Game (C20-C99)
+     * C20 [156]King's Pawn Game (includes [157]Alapin's Opening,
+       [158]Lopez Opening, [159]Napoleon Opening, [160]Portuguese Opening
+       and [161]Parham Attack)
+     * C21 [162]Center Game (includes [163]Danish Gambit)
+     * C22 Center Game
+     * C23 [164]Bishop's Opening
+     * C24 Bishop's Opening, Berlin Defence
+     * C25 [165]Vienna Game
+     * C26 Vienna Game, Falkbeer Variation
+     * C27 Vienna Game, [166]Frankenstein-Dracula Variation
+     * C28 Vienna Game
+     * C29 Vienna Gambit, Kaufmann Variation including [167]Wrzburger Trap
+     * C30 [168]King's Gambit
+     * C31 King's Gambit Declined, Falkbeer Countergambit
+     * C32 King's Gambit Declined, Falkbeer, 5. dxe4
+     * C33 King's Gambit Accepted
+     * C34 King's Gambit Accepted, including [169]Fischer Defence
+     * C35 King's Gambit Accepted, Cunningham Defence
+     * C36 King's Gambit Accepted, Abbazia Defence (Classical Defence,
+       Modern Defence)
+     * C37 King's Gambit Accepted, Quaade Gambit
+     * C38 King's Gambit Accepted
+     * C39 [170]KGA, Allagier & Kiesertisky Gambits including [171]Rice
+       Gambit
+     * C40 [172]King's Knight Opening (includes [173]Gunderam Defence,
+       [174]Greco Defence, [175]Damiano Defence, [176]Elephant Gambit, and
+       [177]Latvian Gambit.)
+     * C41 [178]Philidor Defence
+     * C42 [179]Petrov's Defence, including [180]Marshall Trap
+     * C43 Petrov's Defence, Modern (Steinitz) Attack
+     * C44 King's Pawn Game (includes [181]Ponziani Opening, [182]Inverted
+       Hungarian Opening, [183]Irish Gambit, [184]Konstantinopolsky
+       Opening and some [185]Scotch Game)
+     * C45 [186]Scotch Game
+     * C46 [187]Three Knights Game including [188]Mller-Schulze Gambit or
+       Halloween Attack
+     * C47 [189]Four Knights Game, Scotch Variation
+     * C48 Four Knights Game, Spanish Variation
+     * C49 Four Knights Game, Double Ruy Lopez
+     * C50 [190]King's Pawn Game (includes [191]Blackburne Shilling
+       Gambit, [192]Hungarian Defence, [193]Italian Gambit, [194]Lgal
+       Trap, [195]Rousseau Gambit and [196]Giuoco Pianissimo)
+     * C51 [197]Evans Gambit
+     * C52 Evans Gambit with 4...Bxb4 5.c3 Ba5
+     * C53 [198]Giuoco Piano
+     * C54 Giuoco Piano
+     * C55 [199]Two Knights Defence
+     * C56 Two Knights Defence
+     * C57 Two Knights Defence, including the [200]Fried Liver Attack
+     * C58 Two Knights Defence
+     * C59 Two Knights Defence
+     * C60 [201]Ruy Lopez
+     * C61 [202]Ruy Lopez, Bird's Defence
+     * C62 [203]Ruy Lopez, Old Steinitz Defence
+     * C63 [204]Ruy Lopez, Schliemann Defence
+     * C64 [205]Ruy Lopez, Classical (Cordel) Defence
+     * C65 [206]Ruy Lopez, Berlin Defence including [207]Mortimer Trap
+     * C66 Ruy Lopez, Berlin Defence, 4.O-O, d6
+     * C67 Ruy Lopez, Berlin Defence, Open variation
+     * C68 [208]Ruy Lopez, Exchange Variation
+     * C69 Ruy Lopez, Exchange Variation, 5.O-O
+     * C70 Ruy Lopez
+     * C71 [209]Ruy Lopez, Modern Steinitz Defence including [210]Noah's
+       Ark Trap
+     * C72 Ruy Lopez, Modern Steinitz Defence 5.0-0
+     * C73 Ruy Lopez, Modern Steinitz Defence, Richter variation
+     * C74 Ruy Lopez, Modern Steinitz Defence
+     * C75 Ruy Lopez, Modern Steinitz Defence
+     * C76 Ruy Lopez, Modern Steinitz Defence, Fianchetto (Bronstein)
+       variation
+     * C77 [211]Ruy Lopez, Morphy Defence
+     * C78 [212]Ruy Lopez, 5.O-O
+     * C79 [213]Ruy Lopez, Steinitz Defence Deferred (Russian Defence)
+     * C80 [214]Ruy Lopez, Open (Tarrasch) Defence
+     * C81 [215]Ruy Lopez, Open, Howell Attack
+     * C82 Ruy Lopez, Open, 9.c3
+     * C83 [216]Ruy Lopez, Open, Classical Defence
+     * C84 [217]Ruy Lopez, Closed Defence
+     * C85 [218]Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)
+     * C86 [219]Ruy Lopez, Worrall Attack
+     * C87 Ruy Lopez, Closed, Averbach Variation
+     * C88 Ruy Lopez, Closed
+     * C89 [220]Ruy Lopez, Marshall Counterattack
+     * C90 Ruy Lopez, Closed (with ...d6)
+     * C91 Ruy Lopez, Closed, 9.d4
+     * C92 [221]Ruy Lopez, Closed, 9.h3
+     * C93 [222]Ruy Lopez, Closed, Smyslov Defence
+     * C94 [223]Ruy Lopez, Closed, Breyer Defence
+     * C95 Ruy Lopez, Closed, Breyer, 10.d4
+     * C96 Ruy Lopez, Closed, 8...Na5
+     * C97 [224]Ruy Lopez, Closed, Chigorin Defence
+     * C98 Ruy Lopez, Closed, Chigorin, 12...Nc6
+     * C99 Ruy Lopez, Closed, Chigorin, 12...c5d4
+
+[[225]edit] D
+
+     * 1.d4 d5: [226]Closed Game (D00-D69)
+     * 1.d4 Nf6 2.c4 g6 with 3...d5: [227]Grnfeld Defence (D70-D99)
+
+[[228]edit] D00-D69
+
+   1.d4 d5: [229]Closed Game (D00-D69)
+     * D00 [230]Queen's Pawn Game (including [231]Blackmar-Diemer Gambit,
+       [232]Halosar Trap and others)
+     * D01 [233]Richter-Veresov Attack
+     * D02 Queen's Pawn Game, 2. Nf3
+     * D03 [234]Torre Attack, Tartakower variation
+     * D04 Queen's Pawn Game
+     * D05 Queen's Pawn Game, Zukertort variation (including [235]Colle
+       system)
+     * D06 [236]Queen's Gambit (including the [237]Baltic Defence,
+       [238]Marshall Defence and [239]Symmetrical Defence)
+     * D07 QGD; Chigorin defence
+     * D08 QGD; [240]Albin Countergambit and [241]Lasker Trap
+     * D09 QGD; Albin Countergambit, 5.g3
+     * D10 QGD; [242]Slav Defence
+     * D11 QGD; Slav defence, 3.Nf3
+     * D12 QGD; Slav defence, 4.e3 Bf5
+     * D13 QGD; Slav defence, Exchange variation
+     * D14 QGD; Slav defence, Exchange variation
+     * D15 [243]QGD; Slav, 4.Nc3
+     * D16 QGD; Slav accepted, Alapin variation
+     * D17 QGD; Slav defence, Czech defence
+     * D18 QGD; Dutch variation
+     * D19 QGD; Dutch variation
+     * D20 [244]Queen's Gambit Accepted
+     * D21 QGA, 3.Nf3
+     * D22 QGA; Alekhine defence
+     * D23 Queen's gambit accepted
+     * D24 QGA, 4.Nc3
+     * D25 QGA, 4.e3
+     * D26 QGA; classical variation
+     * D27 QGA; classical variation
+     * D28 QGA; Classical variation 7.Qe2
+     * D29 QGA; Classical variation 8...Bb7
+     * D30 [245]Queen's Gambit Declined
+     * D31 QGD, 3.Nc3
+     * D32 QGD; [246]Tarrasch Defence
+     * D33 QGD; Tarrasch, Schlechter-Rubinstein system
+     * D34 QGD; Tarrasch, 7...Be7
+     * D35 QGD; Exchange Variation
+     * D36 QGD; Exchange, positional line, 6.Qc2
+     * D37 QGD; 4.Nf3
+     * D38 QGD; Ragozin variation
+     * D39 QGD; Ragozin, Vienna variation
+     * D40 QGD; Semi-Tarrasch defence
+     * D41 QGD; Semi-Tarrasch, 5.cd
+     * D42 QGD; Semi-Tarrasch, 7.Bd3
+     * D43 QGD; [247]Semi-Slav Defence
+     * D44 [248]QGD; Semi-Slav 5.Bg5 dxc4
+     * D45 QGD; Semi-Slav 5.e3
+     * D46 QGD; Semi-Slav 6.Bd3
+     * D47 QGD; Semi-Slav 7.Bc4
+     * D48 QGD; Meran, 8...a6
+     * D49 QGD; Meran, 11.Nxb5
+     * D50 QGD; 4.Bg5
+     * D51 QGD; 4.Bg5 Nbd7 ([249]Cambridge Springs Defence and
+       [250]Elephant Trap)
+     * D52 QGD
+     * D53 QGD; 4.Bg5 Be7
+     * D54 QGD; Anti-neo-Orthodox variation
+     * D55 QGD; 6.Nf3
+     * D56 QGD; Lasker defence
+     * D57 QGD; Lasker defence, Main line
+     * D58 QGD; Tartakower (Makagonov-Bondarevsky) system
+     * D59 QGD; Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5
+     * D60 QGD; Orthodox defence
+     * D61 QGD; Orthodox defence, Rubinstein variation
+     * D62 QGD; Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)
+     * D63 QGD; Orthodox defence, 7.Rc1
+     * D64 QGD; Orthodox defence, Rubinstein attack (with Rc1)
+     * D65 QGD; Orthodox defence, Rubinstein attack, Main line
+     * D66 QGD; Orthodox defence, Bd3 line including [251]Rubinstein Trap
+     * D67 QGD; Orthodox defence, Bd3 line, Capablanca freeing manoeuver
+     * D68 QGD; Orthodox defence, Classical variation
+     * D69 QGD; Orthodox defence, Classical, 13.dxe5
+
+[[252]edit] D70-D99
+
+   1.d4 Nf6 2.c4 g6 with 3...d5: [253]Grnfeld Defence (D70-D99)
+     * D70 Neo-Grnfeld Defence
+     * D71 Neo-Grnfeld, 5.cd
+     * D72 Neo-Grnfeld, 5.cd, Main line
+     * D73 Neo-Grnfeld, 5.Nf3
+     * D74 Neo-Grnfeld, 6.cd Nxd5, 7.O-O
+     * D75 Neo-Grnfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3
+     * D76 Neo-Grnfeld, 6.cd Nxd5, 7.O-O Nb6
+     * D77 Neo-Grnfeld, 6.O-O
+     * D78 Neo-Grnfeld, 6.O-O c6
+     * D79 Neo-Grnfeld, 6.O-O, Main line
+     * D80 [254]Grnfeld Defence
+     * D81 Grnfeld; Russian variation
+     * D82 Grnfeld 4.Bf4
+     * D83 Grnfeld gambit
+     * D84 Grnfeld gambit accepted
+     * D85 Grnfeld, exchange variation, [255]Nadanian Variation
+     * D86 Grnfeld, Exchange, Classical variation
+     * D87 Grnfeld, Exchange, Spassky variation
+     * D88 Grnfeld, Spassky variation, Main line, 10...cd, 11.cd
+     * D89 Grnfeld, Spassky variation, Main line, 13.Bd3
+     * D90 Grnfeld, Three knights variation
+     * D91 Grnfeld, Three knights variation
+     * D92 Grnfeld, 5.Bf4
+     * D93 Grnfeld with 5.Bf4 O-O 6.e3
+     * D94 Grnfeld, 5.e3
+     * D95 Grnfeld with 5.e3 O-O 6.Qb3
+     * D96 Grnfeld, Russian variation
+     * D97 Grnfeld, Russian variation with 7.e4
+     * D98 Grnfeld, Russian, Smyslov variation
+     * D99 Grnfeld Defence, Smyslov, Main line
+
+[[256]edit] E
+
+     * 1.d4 Nf6 2.c4 e6: Indian systems with ...e6 (E00-E59)
+     * 1.d4 Nf6 2.c4 g6 without 3...d5: Indian systems with ...g6 (except
+       Grnfeld) (E60-E99)
+
+[[257]edit] E00-E59
+
+   1.d4 Nf6 2.c4 e6: Indian systems with ...e6 (E00-E59)
+     * E00 [258]Queen's Pawn Game (including [259]Neo-Indian Attack,
+       [260]Trompowski Attack, [261]Catalan Opening and others)
+     * E01 [262]Catalan, closed
+     * E02 Catalan, open, 5.Qa4
+     * E03 Catalan, open, Alekhine variation
+     * E04 Catalan, Open, 5.Nf3
+     * E05 Catalan, Open, Classical line
+     * E06 Catalan, Closed, 5.Nf3
+     * E07 Catalan, Closed, 6...Nbd7
+     * E08 Catalan, Closed, 7.Qc2
+     * E09 Catalan, Closed, Main line
+     * E10 Queen's Pawn Game 3.Nf3
+     * E11 [263]Bogo-Indian Defence
+     * E12 [264]Queen's Indian Defence
+     * E13 Queen's Indian, 4.Nc3, Main line
+     * E14 Queen's Indian, 4.e3
+     * E15 [265]Queen's Indian, 4.g3
+     * E16 Queen's Indian, Capablanca variation
+     * E17 Queen's Indian, 5.Bg2 Be7
+     * E18 Queen's Indian, Old Main line, 7.Nc3
+     * E19 Queen's Indian, Old Main line, 9.Qxc3
+     * E20 [266]Nimzo-Indian Defence
+     * E21 Nimzo-Indian, Three knights variation
+     * E22 Nimzo-Indian, Spielmann Variation
+     * E23 Nimzo-Indian, Spielmann, 4...c5, 5.dc Nc6
+     * E24 Nimzo-Indian, Saemisch variation
+     * E25 Nimzo-Indian, Saemisch variation, Keres variation
+     * E26 Nimzo-Indian, Saemisch variation, 4.a3 Bxc3+ 5.bxc3 c5 6.e3
+     * E27 Nimzo-Indian, Saemisch variation, 5...0-0
+     * E28 Nimzo-Indian, Saemisch variation, 6.e3
+     * E29 Nimzo-Indian, Saemisch variation, Main line
+     * E30 Nimzo-Indian, Leningrad variation,
+     * E31 Nimzo-Indian, Leningrad variation, main line
+     * E32 Nimzo-Indian, Classical variation
+     * E33 Nimzo-Indian, Classical variation, 4...Nc6
+     * E34 Nimzo-Indian, Classical, Noa variation
+     * E35 Nimzo-Indian, Classical, Noa variation, 5.cxd5 exd5
+     * E36 Nimzo-Indian, Classical, Noa variation, 5.a3
+     * E37 Nimzo-Indian, Classical, Noa variation, Main line, 7.Qc2
+     * E38 Nimzo-Indian, Classical, 4...c5
+     * E39 Nimzo-Indian, Classical, Pirc variation
+     * E40 Nimzo-Indian, 4.e3
+     * E41 Nimzo-Indian, 4.e3 c5
+     * E42 Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)
+     * E43 Nimzo-Indian, Fischer variation
+     * E44 Nimzo-Indian, Fischer variation, 5.Ne2
+     * E45 Nimzo-Indian, 4.e3, Bronstein (Byrne) variation
+     * E46 Nimzo-Indian, 4.e3 O-O
+     * E47 Nimzo-Indian, 4.e3 O-O, 5.Bd3
+     * E48 Nimzo-Indian, 4.e3 O-O, 5.Bd3 d5
+     * E49 Nimzo-Indian, 4.e3, Botvinnik system
+     * E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5
+     * E51 Nimzo-Indian, 4.e3 e8g8, 5.Nf3 d7d5
+     * E52 Nimzo-Indian, 4.e3, Main line with ...b6
+     * E53 Nimzo-Indian, 4.e3, Main line with ...c5
+     * E54 Nimzo-Indian, 4.e3, Gligoric system with 7...dc
+     * E55 Nimzo-Indian, 4.e3, Gligoric system, Bronstein variation
+     * E56 Nimzo-Indian, 4.e3, Main line with 7...Nc6
+     * E57 Nimzo-Indian, 4.e3, Main line with 8...dxc4 and 9...Bxc4 cxd4
+     * E58 Nimzo-Indian, 4.e3, Main line with 8...Bxc3
+     * E59 Nimzo-Indian, 4.e3, Main line
+
+[[267]edit] E60-E99
+
+   1.d4 Nf6 2.c4 g6 without 3...d5: Indian systems with ...g6 (except
+   Grnfeld) (E60-E99)
+     * E60 [268]King's Indian Defence
+     * E61 King's Indian Defence, 3.Nc3
+     * E62 King's Indian, Fianchetto variation
+     * E63 King's Indian, Fianchetto, Panno variation
+     * E64 King's Indian, Fianchetto, Yugoslav system
+     * E65 King's Indian, Yugoslav, 7.O-O
+     * E66 King's Indian, Fianchetto, Yugoslav Panno
+     * E67 King's Indian, Fianchetto with ...Nd7
+     * E68 King's Indian, Fianchetto, Classical variation, 8.e4
+     * E69 King's Indian, Fianchetto, Classical Main line
+     * E70 King's Indian, 4.e4
+     * E71 King's Indian, Makogonov system (5.h3)
+     * E72 King's Indian with e4 & g3
+     * E73 King's Indian, 5.Be2
+     * E74 King's Indian, Averbakh, 6...c5
+     * E75 King's Indian, Averbakh, Main line
+     * E76 [269]King's Indian Defence, Four Pawns Attack
+     * E77 King's Indian, Four pawns attack, 6.Be2
+     * E78 King's Indian, Four pawns attack, with Be2 and Nf3
+     * E79 King's Indian, Four pawns attack, Main line
+     * E80 King's Indian, Smisch variation
+     * E81 King's Indian, Smisch, 5...O-O
+     * E82 King's Indian, Smisch, double Fianchetto variation
+     * E83 King's Indian, Smisch, 6...Nc6
+     * E84 King's Indian, Smisch, Panno Main line
+     * E85 King's Indian, Smisch, Orthodox variation
+     * E86 King's Indian, Smisch, Orthodox, 7.Nge2 c6
+     * E87 King's Indian, Smisch, Orthodox, 7.d5
+     * E88 King's Indian, Smisch, Orthodox, 7.d5 c6
+     * E89 King's Indian, Smisch, Orthodox Main line
+     * E90 King's Indian, 5.Nf3
+     * E91 King's Indian, 6.Be2
+     * E92 King's Indian, Classical variation
+     * E93 King's Indian, Petrosian system, Main line
+     * E94 King's Indian, Orthodox variation
+     * E95 King's Indian, Orthodox, 7...Nbd7, 8.Re1
+     * E96 King's Indian, Orthodox, 7...Nbd7, Main line
+     * E97 King's Indian, Orthodox, Aronin-Taimanov variation (Yugoslav
+       attack / Mar del Plata variation)
+     * E98 King's Indian, Orthodox, Aronin-Taimanov, 9.Ne1
+     * E99 King's Indian, Orthodox, Aronin-Taimanov, Main
+
+[[270]edit] See also
+
+   [271]Sister project [272]Wikibooks has a book on the topic of
+   [273]Opening theory in chess
+     * [274]Chess
+     * [275]Chess openings
+     * [276]Encyclopaedia of Chess Openings
+     * [277]Chess Informant
+     * [278]Chess opening theory table
+     * [279]List of chess openings named after people
+     * [280]List of chess openings named after places
+
+[[281]edit] External links
+
+     * [282]Chess Informant official website
+     * [283]Bill Wall's list of opening variations
+     * [284]About.com : ECO codes
+     * [285]Arkansas State University : list of openings with board
+     * [286]ECO Information and Index
+
+   Retrieved from
+   "[287]http://en.wikipedia.org/wiki/List_of_chess_openings"
+   [288]Categories: [289]Chess openings | [290]Chess lists
+
+Views
+
+     * [291]Article
+     * [292]Discussion
+     * [293]Edit this page
+     * [294]History
+
+Personal tools
+
+     * [295]Log in / create account
+
+Navigation
+
+     * [296]Main page
+     * [297]Contents
+     * [298]Featured content
+     * [299]Current events
+     * [300]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [301]About Wikipedia
+     * [302]Community portal
+     * [303]Recent changes
+     * [304]Contact Wikipedia
+     * [305]Donate to Wikipedia
+     * [306]Help
+
+Toolbox
+
+     * [307]What links here
+     * [308]Related changes
+     * [309]Upload file
+     * [310]Special pages
+     * [311]Printable version
+     * [312]Permanent link
+     * [313]Cite this page
+
+Languages
+
+     *
+     * [314]esky
+     * [315]Dansk
+     * [316]Deutsch
+     * [317]Espaol
+     * [318]Franais
+     * [319]Italiano
+     * [320]Magyar
+     *
+     *
+     * [321]Slovenina
+     * [322]Suomi
+     * [323]Svenska
+
+   [324]Powered by MediaWiki
+   [325]Wikimedia Foundation
+     * This page was last modified on 17 January 2009, at 20:49.
+     * All text is available under the terms of the [326]GNU Free
+       Documentation License. (See [327]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [328]Wikimedia
+       Foundation, Inc., a U.S. registered [329]501(c)(3)
+       [330]tax-deductible [331]nonprofit [332]charity.
+     * [333]Privacy policy
+     * [334]About Wikipedia
+     * [335]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=List_of_chess_openings&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=ECO_B28&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#searchInput
+   9. file://localhost/wiki/Algebraic_chess_notation
+  10. file://localhost/wiki/Encyclopaedia_of_Chess_Openings
+  11. file://localhost/wiki/Chess_Informant
+  12. file://localhost/wiki/Chess_opening
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A00-A39
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A40-A44
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A45-A49
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A50-A79
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#A80-A99
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#B
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#B00-B19
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#B20-B99
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#C
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#C00-C19
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#C20-C99
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#D
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#D00-D69
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#D70-D99
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#E
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#E00-E59
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#E60-E99
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#See_also
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc622.tmp.html#External_links
+  33. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=1
+  34. file://localhost/wiki/Irregular_chess_openings
+  35. file://localhost/wiki/Indian_defences
+  36. file://localhost/wiki/Dutch_Defence
+  37. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=2
+  38. file://localhost/wiki/Irregular_chess_openings
+  39. file://localhost/wiki/Irregular_chess_openings
+  40. file://localhost/wiki/Anderssen%27s_Opening
+  41. file://localhost/wiki/Anderssen%27s_Opening
+  42. file://localhost/wiki/Anderssen%27s_Opening
+  43. file://localhost/wiki/Anderssen%27s_Opening
+  44. file://localhost/wiki/Ware_Opening
+  45. file://localhost/wiki/Ware_Opening
+  46. file://localhost/wiki/Ware_Opening
+  47. file://localhost/wiki/Ware_Opening
+  48. file://localhost/wiki/Durkin_Opening
+  49. file://localhost/wiki/Sokolsky_Opening
+  50. file://localhost/wiki/Sokolsky_Opening
+  51. file://localhost/wiki/Sokolsky_Opening
+  52. file://localhost/wiki/Sokolsky_Opening
+  53. file://localhost/wiki/Sokolsky_Opening
+  54. file://localhost/wiki/Sokolsky_Opening
+  55. file://localhost/wiki/Sokolsky_Opening
+  56. file://localhost/wiki/Saragossa_Opening
+  57. file://localhost/wiki/Dunst_Opening
+  58. file://localhost/wiki/Van_%27t_Kruijs_Opening
+  59. file://localhost/wiki/Mieses_Opening
+  60. file://localhost/wiki/Barnes_Opening
+  61. file://localhost/wiki/Benko%27s_Opening
+  62. file://localhost/wiki/Grob%27s_Attack
+  63. file://localhost/wiki/Clemenz_Opening
+  64. file://localhost/wiki/Desprez_Opening
+  65. file://localhost/wiki/Amar_Opening
+  66. file://localhost/wiki/Larsen%27s_Opening
+  67. file://localhost/wiki/Bird%27s_Opening
+  68. file://localhost/wiki/R%C3%A9ti_Opening
+  69. file://localhost/wiki/King%27s_Indian_attack
+  70. file://localhost/wiki/King%27s_Indian_attack
+  71. file://localhost/wiki/English_Opening
+  72. file://localhost/wiki/Hedgehog_(chess)
+  73. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=3
+  74. file://localhost/wiki/Queen%27s_Pawn_Game
+  75. file://localhost/wiki/English_Defence
+  76. file://localhost/wiki/Englund_Gambit
+  77. file://localhost/wiki/Queen%27s_Knight_Defence
+  78. file://localhost/wiki/Polish_Defence
+  79. file://localhost/wiki/Keres_Defence
+  80. file://localhost/wiki/Wade_Defence
+  81. file://localhost/wiki/Modern_defence
+  82. file://localhost/wiki/Wade_Defence
+  83. file://localhost/wiki/Old_Benoni_defence
+  84. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=4
+  85. file://localhost/wiki/Queen%27s_Pawn_Game
+  86. file://localhost/wiki/Queen%27s_Indian_Defence
+  87. file://localhost/wiki/King%27s_Indian
+  88. file://localhost/wiki/East_Indian_defence
+  89. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=5
+  90. file://localhost/wiki/Indian_defences
+  91. file://localhost/wiki/Black_Knights%27_Tango
+  92. file://localhost/wiki/Budapest_Gambit
+  93. file://localhost/wiki/Old_Indian_Defence
+  94. file://localhost/wiki/Benoni_Defence
+  95. file://localhost/wiki/Benko_gambit
+  96. file://localhost/wiki/Benko_gambit,_7.e4
+  97. file://localhost/wiki/Benoni,_Taimanov_variation
+  98. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=6
+  99. file://localhost/wiki/Dutch_Defence
+ 100. file://localhost/wiki/Dutch_Defence
+ 101. file://localhost/wiki/Dutch,_Staunton_gambit
+ 102. file://localhost/wiki/Balogh_Defence
+ 103. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=7
+ 104. file://localhost/wiki/Sicilian_Defence
+ 105. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=8
+ 106. file://localhost/wiki/King%27s_pawn_Opening
+ 107. file://localhost/wiki/Nimzowitsch_Defence
+ 108. file://localhost/wiki/St._George_Defence
+ 109. file://localhost/wiki/Owen%27s_Defence
+ 110. file://localhost/wiki/Hippopotamus_Defence
+ 111. file://localhost/wiki/Fred_Defence
+ 112. file://localhost/wiki/Scandinavian_Defence
+ 113. file://localhost/wiki/Alekhine%27s_Defence
+ 114. file://localhost/wiki/Robatsch_defence
+ 115. file://localhost/wiki/Monkey%27s_Bum
+ 116. file://localhost/wiki/Pirc_defence
+ 117. file://localhost/wiki/Pirc,_Classical_(Two_knights)_system
+ 118. file://localhost/wiki/Pirc,_Austrian_attack
+ 119. file://localhost/wiki/Caro-Kann_Defence
+ 120. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=9
+ 121. file://localhost/wiki/Sicilian_Defence
+ 122. file://localhost/wiki/Sicilian_defence
+ 123. file://localhost/wiki/Smith-Morra_Gambit
+ 124. file://localhost/wiki/Siberian_Trap
+ 125. file://localhost/wiki/Sicilian_Defence,_Alapin_Variation
+ 126. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 127. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 128. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 129. file://localhost/wiki/Mar%C3%B3czy_Bind
+ 130. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 131. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 132. file://localhost/wiki/Sicilian_Defence,_Accelerated_Fianchetto
+ 133. file://localhost/wiki/Sicilian,_Taimanov_(Bastrikov)_variation
+ 134. file://localhost/wiki/Sicilian_Defence
+ 135. file://localhost/wiki/Magnus_Smith_Trap
+ 136. file://localhost/wiki/Sicilian,_Richter-Rauzer
+ 137. file://localhost/wiki/Sicilian_Defence,_Dragon_Variation
+ 138. file://localhost/wiki/Sicilian,_Dragon,_Yugoslav_attack,_7...O-O
+ 139. file://localhost/wiki/Sicilian,_Dragon,_Yugoslav_attack,_9.Bc4
+ 140. file://localhost/wiki/Sicilian,_Dragon,_Yugoslav_attack,_10.O-O-O
+ 141. file://localhost/wiki/Sicilian,_Dragon,_Yugoslav_attack,_12.h4
+ 142. file://localhost/wiki/Sicilian_Defence,_Scheveningen_Variation
+ 143. file://localhost/wiki/Sicilian,_Sozin,_7.Be3
+ 144. file://localhost/wiki/Poisoned_Pawn_Variation
+ 145. file://localhost/wiki/Sicilian,_Najdorf,_7...Be7_Main_line
+ 146. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=10
+ 147. file://localhost/wiki/French_Defence
+ 148. file://localhost/wiki/Open_Game
+ 149. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=11
+ 150. file://localhost/wiki/French_Defence
+ 151. file://localhost/wiki/French_Defence
+ 152. file://localhost/wiki/Kingston_Defence
+ 153. file://localhost/wiki/French,_Winawer,_Advance_Variation
+ 154. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=12
+ 155. file://localhost/wiki/Open_Game
+ 156. file://localhost/wiki/King%27s_Pawn_Game
+ 157. file://localhost/wiki/Alapin%27s_Opening
+ 158. file://localhost/wiki/Lopez_Opening
+ 159. file://localhost/wiki/Napoleon_Opening
+ 160. file://localhost/wiki/Portuguese_Opening
+ 161. file://localhost/wiki/Parham_Attack
+ 162. file://localhost/wiki/Center_Game
+ 163. file://localhost/wiki/Danish_Gambit
+ 164. file://localhost/wiki/Bishop%27s_Opening
+ 165. file://localhost/wiki/Vienna_Game
+ 166. file://localhost/wiki/Frankenstein-Dracula_Variation
+ 167. file://localhost/wiki/W%C3%BCrzburger_Trap
+ 168. file://localhost/wiki/King%27s_Gambit
+ 169. file://localhost/wiki/Fischer_Defence
+ 170. file://localhost/wiki/KGA,_Allagier_%26_Kiesertisky_Gambits
+ 171. file://localhost/wiki/Rice_Gambit
+ 172. file://localhost/wiki/King%27s_Knight_Opening
+ 173. file://localhost/wiki/Gunderam_Defence
+ 174. file://localhost/wiki/Greco_Defence
+ 175. file://localhost/wiki/Damiano_Defence
+ 176. file://localhost/wiki/Elephant_Gambit
+ 177. file://localhost/wiki/Latvian_Gambit
+ 178. file://localhost/wiki/Philidor_Defence
+ 179. file://localhost/wiki/Petrov%27s_Defence
+ 180. file://localhost/wiki/Marshall_Trap
+ 181. file://localhost/wiki/Ponziani_Opening
+ 182. file://localhost/wiki/Inverted_Hungarian_Opening
+ 183. file://localhost/wiki/Irish_Gambit
+ 184. file://localhost/wiki/Konstantinopolsky_Opening
+ 185. file://localhost/wiki/Scotch_Game
+ 186. file://localhost/wiki/Scotch_Game
+ 187. file://localhost/wiki/Three_Knights_Game
+ 188. file://localhost/wiki/M%C3%BCller-Schulze_Gambit
+ 189. file://localhost/wiki/Four_Knights_Game
+ 190. file://localhost/wiki/King%27s_Pawn_Game
+ 191. file://localhost/wiki/Blackburne_Shilling_Gambit
+ 192. file://localhost/wiki/Hungarian_Defense
+ 193. file://localhost/wiki/Italian_Gambit
+ 194. file://localhost/wiki/L%C3%A9gal_Trap
+ 195. file://localhost/wiki/Rousseau_Gambit
+ 196. file://localhost/wiki/Giuoco_Piano
+ 197. file://localhost/wiki/Evans_Gambit
+ 198. file://localhost/wiki/Giuoco_Piano
+ 199. file://localhost/wiki/Two_Knights_Defence
+ 200. file://localhost/wiki/Fried_Liver_Attack
+ 201. file://localhost/wiki/Ruy_Lopez
+ 202. file://localhost/wiki/Ruy_Lopez,_Bird%27s_Defence
+ 203. file://localhost/wiki/Ruy_Lopez,_Old_Steinitz_Defence
+ 204. file://localhost/wiki/Ruy_Lopez,_Schliemann_Defence
+ 205. file://localhost/wiki/Ruy_Lopez,_Classical_(Cordel)_Defence
+ 206. file://localhost/wiki/Ruy_Lopez,_Berlin_Defence
+ 207. file://localhost/wiki/Mortimer_Trap
+ 208. file://localhost/wiki/Ruy_Lopez,_Exchange_Variation
+ 209. file://localhost/wiki/Ruy_Lopez,_Modern_Steinitz_Defence
+ 210. file://localhost/wiki/Noah%27s_Ark_Trap
+ 211. file://localhost/wiki/Ruy_Lopez,_Morphy_Defence
+ 212. file://localhost/wiki/Ruy_Lopez,_5.O-O
+ 213. file://localhost/wiki/Ruy_Lopez,_Steinitz_Defence_Deferred_(Russian_Defence)
+ 214. file://localhost/wiki/Ruy_Lopez,_Open_(Tarrasch)_Defence
+ 215. file://localhost/wiki/Ruy_Lopez,_Open,_Howell_Attack
+ 216. file://localhost/wiki/Ruy_Lopez,_Open,_Classical_Defence
+ 217. file://localhost/wiki/Ruy_Lopez,_Closed_Defence
+ 218. file://localhost/wiki/Ruy_Lopez,_Exchange_Variation_Doubly_Deferred_(DERLD)
+ 219. file://localhost/wiki/Ruy_Lopez,_Worrall_Attack
+ 220. file://localhost/wiki/Ruy_Lopez,_Marshall_Counterattack
+ 221. file://localhost/wiki/Ruy_Lopez,_Closed,_9.h3
+ 222. file://localhost/wiki/Ruy_Lopez,_Closed,_Smyslov_Defence
+ 223. file://localhost/wiki/Ruy_Lopez,_Closed,_Breyer_Defence
+ 224. file://localhost/wiki/Ruy_Lopez,_Closed,_Chigorin_Defence
+ 225. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=13
+ 226. file://localhost/wiki/Closed_Game
+ 227. file://localhost/wiki/Gr%C3%BCnfeld_Defence
+ 228. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=14
+ 229. file://localhost/wiki/Closed_Game
+ 230. file://localhost/wiki/Queen%27s_Pawn_Game
+ 231. file://localhost/wiki/Blackmar-Diemer_Gambit
+ 232. file://localhost/wiki/Halosar_Trap
+ 233. file://localhost/wiki/Richter-Veresov_Attack
+ 234. file://localhost/wiki/Torre_Attack
+ 235. file://localhost/wiki/Colle_system
+ 236. file://localhost/wiki/Queen%27s_Gambit
+ 237. file://localhost/wiki/Baltic_Defence
+ 238. file://localhost/wiki/Marshall_Defence
+ 239. file://localhost/wiki/Symmetrical_Defence
+ 240. file://localhost/wiki/Albin_Countergambit
+ 241. file://localhost/wiki/Lasker_Trap
+ 242. file://localhost/wiki/Slav_Defence
+ 243. file://localhost/wiki/QGD;_Slav,_4.Nc3
+ 244. file://localhost/wiki/Queen%27s_Gambit_Accepted
+ 245. file://localhost/wiki/Queen%27s_Gambit_Declined
+ 246. file://localhost/wiki/Tarrasch_Defence
+ 247. file://localhost/wiki/Semi-Slav_Defence
+ 248. file://localhost/wiki/QGD;_Semi-Slav_5.Bg5_dxc4
+ 249. file://localhost/wiki/Cambridge_Springs_Defence
+ 250. file://localhost/wiki/Elephant_Trap
+ 251. file://localhost/wiki/Rubinstein_Trap
+ 252. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=15
+ 253. file://localhost/wiki/Gr%C3%BCnfeld_Defence
+ 254. file://localhost/wiki/Gr%C3%BCnfeld_Defence
+ 255. file://localhost/wiki/Gr%C3%BCnfeld_Defence,_Nadanian_Variation
+ 256. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=16
+ 257. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=17
+ 258. file://localhost/wiki/Queen%27s_Pawn_Game
+ 259. file://localhost/wiki/Neo-Indian_Attack
+ 260. file://localhost/wiki/Trompowski_Attack
+ 261. file://localhost/wiki/Catalan_Opening
+ 262. file://localhost/wiki/Catalan_Opening
+ 263. file://localhost/wiki/Bogo-Indian_Defence
+ 264. file://localhost/wiki/Queen%27s_Indian_Defence
+ 265. file://localhost/wiki/Queen%27s_Indian,_4.g3
+ 266. file://localhost/wiki/Nimzo-Indian_Defence
+ 267. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=18
+ 268. file://localhost/wiki/King%27s_Indian_Defence
+ 269. file://localhost/wiki/King%27s_Indian_Defence,_Four_Pawns_Attack
+ 270. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=19
+ 271. http://en.wikibooks.org/wiki/Special:Search/List_of_chess_openings
+ 272. file://localhost/wiki/Wikibooks
+ 273. http://en.wikibooks.org/wiki/Opening_theory_in_chess
+ 274. file://localhost/wiki/Chess
+ 275. file://localhost/wiki/Chess_opening
+ 276. file://localhost/wiki/Encyclopaedia_of_Chess_Openings
+ 277. file://localhost/wiki/Chess_Informant
+ 278. file://localhost/wiki/Chess_opening_theory_table
+ 279. file://localhost/wiki/List_of_chess_openings_named_after_people
+ 280. file://localhost/wiki/List_of_chess_openings_named_after_places
+ 281. file://localhost/w/index.php?title=List_of_chess_openings&action=edit&section=20
+ 282. http://www.sahovski.com/other/index.php?other=5
+ 283. http://www.geocities.com/siliconvalley/lab/7378/eco.htm
+ 284. http://chess.about.com/gi/dynamic/offsite.htm?zi=1/XJ/Ya&sdn=chess&cdn=hobbies&tm=22&gps=109_9_796_455&f=10&su=p445.92.150.ip_&tt=14&bt=0&bts=0&zu=http%3A//www.chessarch.com/library/0000_eco/index.shtml
+ 285. http://www.csm.astate.edu/~wpaulsen/chess/index.htm
+ 286. http://www.markalowery.net/Chess/ECO-List/ECO_Index_Information.html
+ 287. http://en.wikipedia.org/wiki/List_of_chess_openings
+ 288. file://localhost/wiki/Special:Categories
+ 289. file://localhost/wiki/Category:Chess_openings
+ 290. file://localhost/wiki/Category:Chess_lists
+ 291. file://localhost/wiki/List_of_chess_openings
+ 292. file://localhost/wiki/Talk:List_of_chess_openings
+ 293. file://localhost/w/index.php?title=List_of_chess_openings&action=edit
+ 294. file://localhost/w/index.php?title=List_of_chess_openings&action=history
+ 295. file://localhost/w/index.php?title=Special:UserLogin&returnto=List_of_chess_openings
+ 296. file://localhost/wiki/Main_Page
+ 297. file://localhost/wiki/Portal:Contents
+ 298. file://localhost/wiki/Portal:Featured_content
+ 299. file://localhost/wiki/Portal:Current_events
+ 300. file://localhost/wiki/Special:Random
+ 301. file://localhost/wiki/Wikipedia:About
+ 302. file://localhost/wiki/Wikipedia:Community_portal
+ 303. file://localhost/wiki/Special:RecentChanges
+ 304. file://localhost/wiki/Wikipedia:Contact_us
+ 305. http://wikimediafoundation.org/wiki/Donate
+ 306. file://localhost/wiki/Help:Contents
+ 307. file://localhost/wiki/Special:WhatLinksHere/List_of_chess_openings
+ 308. file://localhost/wiki/Special:RecentChangesLinked/List_of_chess_openings
+ 309. file://localhost/wiki/Wikipedia:Upload
+ 310. file://localhost/wiki/Special:SpecialPages
+ 311. file://localhost/w/index.php?title=List_of_chess_openings&printable=yes
+ 312. file://localhost/w/index.php?title=List_of_chess_openings&oldid=264734562
+ 313. file://localhost/w/index.php?title=Special:Cite&page=List_of_chess_openings&id=264734562
+ 314. http://cs.wikipedia.org/wiki/Seznam_%C5%A1achov%C3%BDch_zah%C3%A1jen%C3%AD
+ 315. http://da.wikipedia.org/wiki/Skak%C3%A5bninger
+ 316. http://de.wikipedia.org/wiki/ECO-Codes
+ 317. http://es.wikipedia.org/wiki/Anexo:Aperturas_de_ajedrez
+ 318. http://fr.wikipedia.org/wiki/Liste_des_ouvertures_d%27%C3%A9checs
+ 319. http://it.wikipedia.org/wiki/Codice_ECO
+ 320. http://hu.wikipedia.org/wiki/Sakkmegnyit%C3%A1sok_list%C3%A1ja
+ 321. http://sl.wikipedia.org/wiki/%C5%A0ahovska_ECO_klasifikacija
+ 322. http://fi.wikipedia.org/wiki/Luettelo_shakkiavauksista
+ 323. http://sv.wikipedia.org/wiki/ECO-lista
+ 324. http://www.mediawiki.org/
+ 325. http://wikimediafoundation.org/
+ 326. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 327. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 328. http://www.wikimediafoundation.org/
+ 329. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 330. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 331. http://en.wikipedia.org/wiki/Non-profit_organization
+ 332. http://en.wikipedia.org/wiki/Charitable_organization
+ 333. http://wikimediafoundation.org/wiki/Privacy_policy
+ 334. file://localhost/wiki/Wikipedia:About
+ 335. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 336. file://localhost/wiki/Main_Page
+ 337. http://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B8%D1%82%D0%B5_%D0%B4%D0%B5%D0%B1%D1%8E%D1%82%D0%B8
+ 338. http://ja.wikipedia.org/wiki/ECO_(%E3%83%81%E3%82%A7%E3%82%B9)
+ 339. http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D1%8B_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D1%85_%D0%B4%D0%B5%D0%B1%D1%8E%D1%82%D0%BE%D0%B2

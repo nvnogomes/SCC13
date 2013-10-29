@@ -1,0 +1,222 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Upper set
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Down set lattice)
+   Jump to: [7]navigation, [8]search
+
+   In [9]mathematics, an upper set, or upward [10]closed set, is a subset
+   Y of a given [11]partially ordered set (X,) such that, for all elements
+   x and y, if x is less than or equal to y and x is an element of Y, then
+   y is also in Y. More formally,
+
+          \forall x\forall y\left[x \le y \and x \in Y \Rightarrow \; y
+          \in Y\right].
+
+   The [12]dual notion is lower set (alternatively, down set, decreasing
+   set, initial segment; the set is downward closed), which is any subset
+   Y of a given partially ordered set (X,) such that, for all elements x
+   and y, if x is less than or equal to y and y is an element of Y, then x
+   is also in Y. More formally,
+
+          \forall x\forall y\left[x \le y \and y \in Y \Rightarrow \; x
+          \in Y\right].
+
+Contents
+
+     * [13]1 Properties
+     * [14]2 Ordinal numbers
+     * [15]3 References
+     * [16]4 External links
+
+[[17]edit] Properties
+
+   Every partially ordered set is an upper set of itself. The
+   [18]intersection of upper sets is again an upper set. The
+   [19]complement of any upper set is a lower set, and vice versa.
+
+   Given a partially ordered set (X,), the family of lower sets of X
+   ordered with the [20]inclusion relation is a [21]complete lattice, the
+   down-set lattice O(X).
+
+   Given an arbitrary subset Y of an ordered set X, the smallest upper set
+   containing Y is denoted using an up arrow as Y. Dually, the smallest
+   lower set containing Y is denoted using a down arrow as Y. A lower set
+   is called principal if it is of the form {x} where x is an element of
+   X. Every lower set Y of a finite ordered set X is equal to the smallest
+   lower set containing all [22]maximal elements of Y: Y = Max(Y) where
+   Max(Y) denotes the set containing the maximal elements of Y.
+
+   A [23]directed lower set is called an [24]order ideal.
+
+   The [25]minimal elements of any upper set form an [26]antichain.
+   Conversely any antichain A determines an upper set {x: for some y in A,
+   x y}. For partial orders satisfying the [27]descending chain condition
+   this correspondence between antichains and upper sets is 1-1, but for
+   more general partial orders this is not true.
+
+[[28]edit] Ordinal numbers
+
+   An [29]ordinal number is usually identified with the set of all smaller
+   ordinal numbers. Thus the ordinal numbers are exactly the lower sets of
+   ordinal numbers.
+
+[[30]edit] References
+
+     * Blanck, J. (2000) "Domain representations of topological spaces".
+       Theoretical Computer Science, 247, 229255.
+     * Hoffman, K. H. (2001), [31]The low separation axioms (T[0]) and
+       (T[1])
+     * Davey, B.A., and Priestley, H. A. (2002). Introduction to Lattices
+       and Order (Second Edition ed.). Cambridge University Press.
+       [32]ISBN 0-521-78451-4.
+
+[[33]edit] External links
+
+     * [34]"Domain representations of topological spaces"
+
+   Retrieved from "[35]http://en.wikipedia.org/wiki/Upper_set"
+   [36]Category: [37]Order theory
+
+Views
+
+     * [38]Article
+     * [39]Discussion
+     * [40]Edit this page
+     * [41]History
+
+Personal tools
+
+     * [42]Log in / create account
+
+Navigation
+
+     * [43]Main page
+     * [44]Contents
+     * [45]Featured content
+     * [46]Current events
+     * [47]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [48]About Wikipedia
+     * [49]Community portal
+     * [50]Recent changes
+     * [51]Contact Wikipedia
+     * [52]Donate to Wikipedia
+     * [53]Help
+
+Toolbox
+
+     * [54]What links here
+     * [55]Related changes
+     * [56]Upload file
+     * [57]Special pages
+     * [58]Printable version
+     * [59]Permanent link
+     * [60]Cite this page
+
+Languages
+
+     * [61]Italiano
+     *
+
+   [62]Powered by MediaWiki
+   [63]Wikimedia Foundation
+     * This page was last modified on 14 December 2008, at 15:56.
+     * All text is available under the terms of the [64]GNU Free
+       Documentation License. (See [65]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [66]Wikimedia
+       Foundation, Inc., a U.S. registered [67]501(c)(3)
+       [68]tax-deductible [69]nonprofit [70]charity.
+     * [71]Privacy policy
+     * [72]About Wikipedia
+     * [73]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Upper_set&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Down_set_lattice&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#searchInput
+   9. file://localhost/wiki/Mathematics
+  10. file://localhost/wiki/Closure_(mathematics)#Closed_sets
+  11. file://localhost/wiki/Partially_ordered_set
+  12. file://localhost/wiki/Duality_(order_theory)
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#Properties
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#Ordinal_numbers
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#References
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc303.tmp.html#External_links
+  17. file://localhost/w/index.php?title=Upper_set&action=edit&section=1
+  18. file://localhost/wiki/Intersection_(set_theory)
+  19. file://localhost/wiki/Complement_(set_theory)
+  20. file://localhost/wiki/Inclusion_(set_theory)
+  21. file://localhost/wiki/Complete_lattice
+  22. file://localhost/wiki/Maximal_element
+  23. file://localhost/wiki/Directed_set
+  24. file://localhost/wiki/Order_ideal
+  25. file://localhost/wiki/Minimal_element
+  26. file://localhost/wiki/Antichain
+  27. file://localhost/wiki/Descending_chain_condition
+  28. file://localhost/w/index.php?title=Upper_set&action=edit&section=2
+  29. file://localhost/wiki/Ordinal_number
+  30. file://localhost/w/index.php?title=Upper_set&action=edit&section=3
+  31. http://www.mathematik.tu-darmstadt.de:8080/Math-Net/Lehrveranstaltungen/Lehrmaterial/SS2003/Topology/separation.pdf
+  32. file://localhost/wiki/Special:BookSources/0521784514
+  33. file://localhost/w/index.php?title=Upper_set&action=edit&section=4
+  34. http://www.sm.luth.se/~jens/pdf/top.pdf
+  35. http://en.wikipedia.org/wiki/Upper_set
+  36. file://localhost/wiki/Special:Categories
+  37. file://localhost/wiki/Category:Order_theory
+  38. file://localhost/wiki/Upper_set
+  39. file://localhost/wiki/Talk:Upper_set
+  40. file://localhost/w/index.php?title=Upper_set&action=edit
+  41. file://localhost/w/index.php?title=Upper_set&action=history
+  42. file://localhost/w/index.php?title=Special:UserLogin&returnto=Upper_set
+  43. file://localhost/wiki/Main_Page
+  44. file://localhost/wiki/Portal:Contents
+  45. file://localhost/wiki/Portal:Featured_content
+  46. file://localhost/wiki/Portal:Current_events
+  47. file://localhost/wiki/Special:Random
+  48. file://localhost/wiki/Wikipedia:About
+  49. file://localhost/wiki/Wikipedia:Community_portal
+  50. file://localhost/wiki/Special:RecentChanges
+  51. file://localhost/wiki/Wikipedia:Contact_us
+  52. http://wikimediafoundation.org/wiki/Donate
+  53. file://localhost/wiki/Help:Contents
+  54. file://localhost/wiki/Special:WhatLinksHere/Upper_set
+  55. file://localhost/wiki/Special:RecentChangesLinked/Upper_set
+  56. file://localhost/wiki/Wikipedia:Upload
+  57. file://localhost/wiki/Special:SpecialPages
+  58. file://localhost/w/index.php?title=Upper_set&printable=yes
+  59. file://localhost/w/index.php?title=Upper_set&oldid=257921415
+  60. file://localhost/w/index.php?title=Special:Cite&page=Upper_set&id=257921415
+  61. http://it.wikipedia.org/wiki/Segmento_iniziale
+  62. http://www.mediawiki.org/
+  63. http://wikimediafoundation.org/
+  64. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  65. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  66. http://www.wikimediafoundation.org/
+  67. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  68. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  69. http://en.wikipedia.org/wiki/Non-profit_organization
+  70. http://en.wikipedia.org/wiki/Charitable_organization
+  71. http://wikimediafoundation.org/wiki/Privacy_policy
+  72. file://localhost/wiki/Wikipedia:About
+  73. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  74. file://localhost/wiki/Main_Page
+  75. http://zh.wikipedia.org/wiki/%E4%B8%8A%E9%97%AD%E9%9B%86%E5%90%88

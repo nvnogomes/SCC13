@@ -1,0 +1,329 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Drungarios
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   A droungarios, also spelled drungarios ([8]Greek: , [9]Latin:
+   drungarius) or, in its English form, drungary, was a [10]military rank
+   of the late [11]Roman and [12]Byzantine Empires.
+
+Contents
+
+     * [13]1 History and use
+          + [14]1.1 Late Roman and Byzantine army
+          + [15]1.2 Byzantine Navy
+     * [16]2 See also
+     * [17]3 References
+     * [18]4 Sources
+
+[[19]edit] History and use
+
+[[20]edit] Late Roman and Byzantine army
+
+   The term drungus is first attested in Latin in the later fourth
+   century. It derives from Gaulish *dhrungho (see Old Irish drong; Old
+   Breton drogn or drog), meaning tribe, group, throng or crowd. An
+   alternative Germanic etymology cited by some historians originates in
+   seventeenth-century guesswork which has been rejected by the
+   overwhelming majority of philologists.^[21][1] The earliest usage of
+   drungus in Latin is non-technical and similarly signifies a generic
+   band or troop, which Vegetius equates to Latin globus.^[22][2] The term
+   first occurs in Greek as droungos (), with the same meaning, in the
+   early fifth century.^[23][3] In the late sixth century, the Emperor
+   [24]Maurice applies droungos to a specific tactical deployment, usually
+   of cavalry, characterised as a compact non-linear grouping suited to
+   outflanking tactics, ambushes and irregular operations. He is the first
+   author to employ the cognate adverb droungisti (), with the sense of
+   "in group formation" or "small-group tactics".^[25][4] Maurice also
+   occasionally employs droungos as a generic expression for larger
+   "groupings" or "formations" of troops, though in this sense he refers
+   only to a "division" (meros) and never to a "brigade" (moira) with
+   which droungos became associated in later sources.^[26][5]
+
+   The term droungarios () is not documented before the early seventh
+   century but might have been used as an informal or unofficial
+   designation before that date. The office and the corresponding unit
+   appear to have initially referred to [27]ad hoc arrangements, but
+   during the early seventh century these were formalized, like much of
+   the Eastern Roman army's rank structure.^[28][6] In the new
+   military-administrative [29]theme system, every major division, called
+   a thema (), was further divided into tourmai while each tourma was
+   divided into [30]moirai () or droungoi, which in turn were composed of
+   several [31]banda. Thus each moira or droungos was the analogue of a
+   modern regiment or brigade, initially ca. 1000 men strong (and hence
+   also referred to as a [32]chiliarchia), although on occasion it could
+   rise to 3000 men, and Emperor [33]Leo VI the Wise is recorded as having
+   established droungoi of only 400 men for the new smaller
+   themes.^[34][7]
+
+   The commander of the elite Vigla regiment (one of the [35]tagmata) also
+   bore the rank of droungarios, and was later raised to the rank of megas
+   droungarios ts vigls ( , "Grand Drungary of the Vigla"). In the 11th
+   century, this office also assumed significant judicial
+   responsibilities, since its holder became the president of the imperial
+   court of the Vlon, housed at the "Covered Hippodrome" adjoining the
+   [36]imperial palace.^[37][8] In the Komnenian period, its holders, men
+   like Andronikos Kamateros, were amongst the emperor's senior
+   aides.^[38][9]
+
+   In the [39]Palaiologan period, this office was the tenth in the overall
+   hierarchy, according to the list of Pseudo-Kodinos, and on campaign,
+   its holder was responsible for setting the watch around the imperial
+   camp.^[40][10]
+
+[[41]edit] Byzantine Navy
+
+   The rank of droungarios was also used in the [42]Byzantine navy to
+   designate its [43]admirals. The droungarios tou basilikou plmou ( ) was
+   the commander of the central Imperial Fleet, based at and around
+   [44]Constantinople, while the provincial ("thematic") fleets were also
+   commanded by a droungarios (although it was later replaced by the more
+   exalted rank of [45]strategos), to whose title was added the name of
+   the thema under his command, e.g. droungarios tn Kibyrraitn ( , the
+   admiral of the Cibyrrhaeotic Theme). The droungarios of the Imperial
+   Fleet was later raised to the rank of megas droungarios [tou plmou]
+   ("Grand Drungary [of the Fleet]") acting as commander in chief of the
+   entire navy, until he was replaced in this task by the [46]megas doux
+   in the 1090s. The office of megas droungarios of the fleet continued to
+   exist, in a subordinate position, until the Empire's fall. The variant
+   rank of droungarokoms () also existed, signifying a count (koms) in
+   command of a squadron of warships.
+
+   The rank of droungarios was one of the lowest military ranks that
+   carried an accompanying [47]court title, ranging from hypatos to
+   vesttr.^[48][11]
+
+[[49]edit] See also
+
+     * [50]Byzantine aristocracy and bureaucracy
+
+[[51]edit] References
+
+    1. [52]^ Rance (2004), pp. 97-105
+    2. [53]^ [54]Vegetius, Epitoma rei militaris III.16, 19
+    3. [55]^ [56]John Chrysostom, Epistulae ad Olympiadem 4.2
+    4. [57]^ Maurice, [58]Strategikon, esp. III.14, IV.5
+    5. [59]^ Maurice, [60]Strategikon I.3, IX.3; Rance (2004), pp. 109-114
+    6. [61]^ Haldon (1999), p. 109
+    7. [62]^ Treadgold (1995), pp. 104-105
+    8. [63]^ Magdalino (2002), p. 230
+    9. [64]^ Magdalino (2002), pp. 259-260
+   10. [65]^ Bartusis (1997), p. 253
+   11. [66]^ Treadgold (1995), p. 121
+
+[[67]edit] Sources
+
+     * Bartusis, Mark C. (1997). The Late Byzantine Army: Arms and Society
+       1204-1453. University of Pennsylvania Press. [68]ISBN 0812216202.
+     * [69]Bury, John B. (1963). Imperial Administrative System of the
+       Ninth Century. Ayer Publishing. [70]ISBN 0833704346.
+     * Haldon, John F. (1999). Warfare, state and society in the Byzantine
+       world, 565-1204. Routledge. [71]ISBN 1857284941.
+     * Magdalino, Paul (2002). The Empire of Manuel I Komnenos, 11431180.
+       Cambridge University Press. [72]ISBN 0-521-52653-1.
+     * (Greek) Plakogiannakis, Kimon Emmanouil (2001). Timtikoi Titloi kai
+       Energa Aximata sto Vyzantio ("Honorary titles and active offices in
+       Byzantium"). IANOS. [73]ISBN 960-7771-57-5.
+     * Rance, Philip (2004). Drungus, and a Gallicism and Continuity in
+       Roman Cavalry Tactics, Phoenix 58: 96-130
+     * Treadgold, Warren T. (1995). Byzantium and Its Army, 284-1081.
+       Stanford University Press. [74]ISBN 0804731632.
+
+   Retrieved from "[75]http://en.wikipedia.org/wiki/Drungarios"
+   [76]Categories: [77]Admirals | [78]Byzantine admirals | [79]Byzantine
+   military | [80]Byzantine navy | [81]Military ranks | [82]Naval ranks
+   Hidden categories: [83]Articles containing Greek language text |
+   [84]Articles containing Latin language text | [85]Articles containing
+   non-English language text
+
+Views
+
+     * [86]Article
+     * [87]Discussion
+     * [88]Edit this page
+     * [89]History
+
+Personal tools
+
+     * [90]Log in / create account
+
+Navigation
+
+     * [91]Main page
+     * [92]Contents
+     * [93]Featured content
+     * [94]Current events
+     * [95]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [96]About Wikipedia
+     * [97]Community portal
+     * [98]Recent changes
+     * [99]Contact Wikipedia
+     * [100]Donate to Wikipedia
+     * [101]Help
+
+Toolbox
+
+     * [102]What links here
+     * [103]Related changes
+     * [104]Upload file
+     * [105]Special pages
+     * [106]Printable version
+     * [107]Permanent link
+     * [108]Cite this page
+
+Languages
+
+     * [109]Italiano
+     * [110]Polski
+
+   [111]Powered by MediaWiki
+   [112]Wikimedia Foundation
+     * This page was last modified on 21 February 2009, at 10:47.
+     * All text is available under the terms of the [113]GNU Free
+       Documentation License. (See [114]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [115]Wikimedia
+       Foundation, Inc., a U.S. registered [116]501(c)(3)
+       [117]tax-deductible [118]nonprofit [119]charity.
+     * [120]Privacy policy
+     * [121]About Wikipedia
+     * [122]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Drungarios&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#searchInput
+   8. file://localhost/wiki/Greek_language
+   9. file://localhost/wiki/Latin_language
+  10. file://localhost/wiki/Military_rank
+  11. file://localhost/wiki/Roman_Empire
+  12. file://localhost/wiki/Byzantine_Empire
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#History_and_use
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#Late_Roman_and_Byzantine_army
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#Byzantine_Navy
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#See_also
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#References
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#Sources
+  19. file://localhost/w/index.php?title=Drungarios&action=edit&section=1
+  20. file://localhost/w/index.php?title=Drungarios&action=edit&section=2
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-0
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-1
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-2
+  24. file://localhost/wiki/Maurice_(emperor)
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-3
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-4
+  27. file://localhost/wiki/Ad_hoc
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-5
+  29. file://localhost/wiki/Theme_system
+  30. file://localhost/wiki/Moira_(military)
+  31. file://localhost/w/index.php?title=Bandum_(military)&action=edit&redlink=1
+  32. file://localhost/wiki/Chiliarch
+  33. file://localhost/wiki/Leo_VI_the_Wise
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-6
+  35. file://localhost/wiki/Tagma_(military)
+  36. file://localhost/wiki/Great_Palace_of_Constantinople
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-7
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-8
+  39. file://localhost/wiki/Palaiologos
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-9
+  41. file://localhost/w/index.php?title=Drungarios&action=edit&section=3
+  42. file://localhost/wiki/Byzantine_navy
+  43. file://localhost/wiki/Admiral
+  44. file://localhost/wiki/Constantinople
+  45. file://localhost/wiki/Strategos
+  46. file://localhost/wiki/Megas_doux
+  47. file://localhost/wiki/Byzantine_aristocracy_and_bureaucracy#Titles_for_the_.22Bearded_Ones.22
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_note-10
+  49. file://localhost/w/index.php?title=Drungarios&action=edit&section=4
+  50. file://localhost/wiki/Byzantine_aristocracy_and_bureaucracy
+  51. file://localhost/w/index.php?title=Drungarios&action=edit&section=5
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-0
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-1
+  54. file://localhost/wiki/Vegetius
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-2
+  56. file://localhost/wiki/John_Chrysostom
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-3
+  58. file://localhost/wiki/Strategikon_of_Maurice
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-4
+  60. file://localhost/wiki/Strategikon_of_Maurice
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-5
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-6
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-7
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-8
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-9
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc430.tmp.html#cite_ref-10
+  67. file://localhost/w/index.php?title=Drungarios&action=edit&section=6
+  68. file://localhost/wiki/Special:BookSources/0812216202
+  69. file://localhost/wiki/J._B._Bury
+  70. file://localhost/wiki/Special:BookSources/0833704346
+  71. file://localhost/wiki/Special:BookSources/1857284941
+  72. file://localhost/wiki/Special:BookSources/0521526531
+  73. file://localhost/wiki/Special:BookSources/9607771575
+  74. file://localhost/wiki/Special:BookSources/0804731632
+  75. http://en.wikipedia.org/wiki/Drungarios
+  76. file://localhost/wiki/Special:Categories
+  77. file://localhost/wiki/Category:Admirals
+  78. file://localhost/wiki/Category:Byzantine_admirals
+  79. file://localhost/wiki/Category:Byzantine_military
+  80. file://localhost/wiki/Category:Byzantine_navy
+  81. file://localhost/wiki/Category:Military_ranks
+  82. file://localhost/wiki/Category:Naval_ranks
+  83. file://localhost/wiki/Category:Articles_containing_Greek_language_text
+  84. file://localhost/wiki/Category:Articles_containing_Latin_language_text
+  85. file://localhost/wiki/Category:Articles_containing_non-English_language_text
+  86. file://localhost/wiki/Drungarios
+  87. file://localhost/wiki/Talk:Drungarios
+  88. file://localhost/w/index.php?title=Drungarios&action=edit
+  89. file://localhost/w/index.php?title=Drungarios&action=history
+  90. file://localhost/w/index.php?title=Special:UserLogin&returnto=Drungarios
+  91. file://localhost/wiki/Main_Page
+  92. file://localhost/wiki/Portal:Contents
+  93. file://localhost/wiki/Portal:Featured_content
+  94. file://localhost/wiki/Portal:Current_events
+  95. file://localhost/wiki/Special:Random
+  96. file://localhost/wiki/Wikipedia:About
+  97. file://localhost/wiki/Wikipedia:Community_portal
+  98. file://localhost/wiki/Special:RecentChanges
+  99. file://localhost/wiki/Wikipedia:Contact_us
+ 100. http://wikimediafoundation.org/wiki/Donate
+ 101. file://localhost/wiki/Help:Contents
+ 102. file://localhost/wiki/Special:WhatLinksHere/Drungarios
+ 103. file://localhost/wiki/Special:RecentChangesLinked/Drungarios
+ 104. file://localhost/wiki/Wikipedia:Upload
+ 105. file://localhost/wiki/Special:SpecialPages
+ 106. file://localhost/w/index.php?title=Drungarios&printable=yes
+ 107. file://localhost/w/index.php?title=Drungarios&oldid=272242854
+ 108. file://localhost/w/index.php?title=Special:Cite&page=Drungarios&id=272242854
+ 109. http://it.wikipedia.org/wiki/Drungarios
+ 110. http://pl.wikipedia.org/wiki/Drungarios
+ 111. http://www.mediawiki.org/
+ 112. http://wikimediafoundation.org/
+ 113. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 114. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 115. http://www.wikimediafoundation.org/
+ 116. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 117. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 118. http://en.wikipedia.org/wiki/Non-profit_organization
+ 119. http://en.wikipedia.org/wiki/Charitable_organization
+ 120. http://wikimediafoundation.org/wiki/Privacy_policy
+ 121. file://localhost/wiki/Wikipedia:About
+ 122. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 123. file://localhost/wiki/Main_Page

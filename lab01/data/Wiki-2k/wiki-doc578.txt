@@ -1,0 +1,147 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dynaset
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dynamic set)
+   Jump to: [7]navigation, [8]search
+   "Dynamic set" redirects here. For the category of abstract data types,
+   see [9]Abstract data type.
+
+   A dynaset (short for dynamic set) is a set of data that is dynamically
+   linked back to the [10]database. Instead of having the query result
+   stored in a temporary table, where the data cannot be updated directly
+   by the user, the dynaset allows the user to view and update the data
+   contained in the dynaset. Thus, if a university lecturer queried all
+   students who received a distinction in their assignment and found an
+   error in that student's record, they would only need to update the data
+   in the dynaset, which would automatically update the student's database
+   record without the need for them to send a specific update query after
+   storing the query results in a temporary table.
+
+   The concept was initially put forth by Dr. [11]E.F. Codd, the inventor
+   of the [12]relational database management system (RDBMS) concept.
+
+   [13]Software spanner This [14]software engineering-related article is a
+   [15]stub. You can [16]help Wikipedia by [17]expanding it.
+   Retrieved from "[18]http://en.wikipedia.org/wiki/Dynaset"
+   [19]Categories: [20]Software engineering stubs | [21]Databases
+
+Views
+
+     * [22]Article
+     * [23]Discussion
+     * [24]Edit this page
+     * [25]History
+
+Personal tools
+
+     * [26]Log in / create account
+
+Navigation
+
+     * [27]Main page
+     * [28]Contents
+     * [29]Featured content
+     * [30]Current events
+     * [31]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [32]About Wikipedia
+     * [33]Community portal
+     * [34]Recent changes
+     * [35]Contact Wikipedia
+     * [36]Donate to Wikipedia
+     * [37]Help
+
+Toolbox
+
+     * [38]What links here
+     * [39]Related changes
+     * [40]Upload file
+     * [41]Special pages
+     * [42]Printable version
+     * [43]Permanent link
+     * [44]Cite this page
+
+   [45]Powered by MediaWiki
+   [46]Wikimedia Foundation
+     * This page was last modified on 10 December 2008, at 23:39.
+     * All text is available under the terms of the [47]GNU Free
+       Documentation License. (See [48]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [49]Wikimedia
+       Foundation, Inc., a U.S. registered [50]501(c)(3)
+       [51]tax-deductible [52]nonprofit [53]charity.
+     * [54]Privacy policy
+     * [55]About Wikipedia
+     * [56]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dynaset&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dynamic_set&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc578.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc578.tmp.html#searchInput
+   9. file://localhost/wiki/Abstract_data_type
+  10. file://localhost/wiki/Database
+  11. file://localhost/wiki/E.F._Codd
+  12. file://localhost/wiki/Relational_database_management_system
+  13. file://localhost/wiki/File:Software_spanner.png
+  14. file://localhost/wiki/Software_engineering
+  15. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  16. file://localhost/wiki/Wikipedia:Stub
+  17. http://en.wikipedia.org/w/index.php?stub&title=Dynaset&action=edit
+  18. http://en.wikipedia.org/wiki/Dynaset
+  19. file://localhost/wiki/Special:Categories
+  20. file://localhost/wiki/Category:Software_engineering_stubs
+  21. file://localhost/wiki/Category:Databases
+  22. file://localhost/wiki/Dynaset
+  23. file://localhost/wiki/Talk:Dynaset
+  24. file://localhost/w/index.php?title=Dynaset&action=edit
+  25. file://localhost/w/index.php?title=Dynaset&action=history
+  26. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dynaset
+  27. file://localhost/wiki/Main_Page
+  28. file://localhost/wiki/Portal:Contents
+  29. file://localhost/wiki/Portal:Featured_content
+  30. file://localhost/wiki/Portal:Current_events
+  31. file://localhost/wiki/Special:Random
+  32. file://localhost/wiki/Wikipedia:About
+  33. file://localhost/wiki/Wikipedia:Community_portal
+  34. file://localhost/wiki/Special:RecentChanges
+  35. file://localhost/wiki/Wikipedia:Contact_us
+  36. http://wikimediafoundation.org/wiki/Donate
+  37. file://localhost/wiki/Help:Contents
+  38. file://localhost/wiki/Special:WhatLinksHere/Dynaset
+  39. file://localhost/wiki/Special:RecentChangesLinked/Dynaset
+  40. file://localhost/wiki/Wikipedia:Upload
+  41. file://localhost/wiki/Special:SpecialPages
+  42. file://localhost/w/index.php?title=Dynaset&printable=yes
+  43. file://localhost/w/index.php?title=Dynaset&oldid=257160579
+  44. file://localhost/w/index.php?title=Special:Cite&page=Dynaset&id=257160579
+  45. http://www.mediawiki.org/
+  46. http://wikimediafoundation.org/
+  47. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  48. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  49. http://www.wikimediafoundation.org/
+  50. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  51. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  52. http://en.wikipedia.org/wiki/Non-profit_organization
+  53. http://en.wikipedia.org/wiki/Charitable_organization
+  54. http://wikimediafoundation.org/wiki/Privacy_policy
+  55. file://localhost/wiki/Wikipedia:About
+  56. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  57. file://localhost/wiki/Main_Page

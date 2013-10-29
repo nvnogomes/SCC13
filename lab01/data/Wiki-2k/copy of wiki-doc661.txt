@@ -1,0 +1,1015 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EverQuest II
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EQII)
+   Jump to: [7]navigation, [8]search
+   EverQuest II
+   [9]EverQuest II box art.
+   [10]Developer(s) [11]Sony Online Entertainment
+   [12]Publisher(s) [13]Sony Online Entertainment ([14]US/[15]EU/[16]JP),
+   [17]Gamania ([18]CN/[19]TW/[20]KR) (closed), [21]Akella ([22]RU),
+   [23]Square Enix ([24]JP) (previous publisher), [25]UbiSoft ([26]EU)
+   [27]Platform(s) [28]Windows
+   Release date(s) 8 November 2004
+   [29]Genre(s) [30]MMORPG
+   Mode(s) [31]Multiplayer
+   [32]Rating(s) Teen (T)
+   [33]Media [34]CD, [35]DVD, [36]Download
+   System requirements
+
+   Minimum requirements
+     * [37]OS: Windows 98/2000/ME/XP/Vista
+     * [38]CPU: 1 [39]GHz
+     * [40]RAM: 512 [41]MB
+     * [42]HDD: 6 [43]GB free space
+     * [44]Video: [45]DirectX 9 compatible; [46]pixel shader and
+       [47]vertex shader compatible hardware with 64 MB of [48]texture
+       memory
+     * [49]Sound: DirectSound compatible audio hardware
+
+   Recommended requirements
+     * [50]OS: Windows 98/2000/ME/XP/Vista
+     * [51]CPU: 2 [52]GHz
+     * [53]RAM: 1 [54]GB
+     * [55]HDD: 15 [56]GB free space
+     * [57]Video: [58]DirectX 9 compatible; [59]pixel shader and
+       [60]vertex shader compatible hardware with 128 MB or more of
+       [61]texture memory
+     * [62]Sound: DirectSound compatible audio hardware
+
+   Input methods [63]Keyboard, [64]Mouse
+
+   EverQuest II (EQ2), based upon the popular [65]EverQuest, is a
+   [66]fantasy [67]massively multiplayer online role-playing game (MMORPG)
+   developed by [68]Sony Online Entertainment (SOE) and shipped on 8
+   November 2004. It features graphics and [69]gameplay vastly updated
+   from its predecessor as well as [70]NPCs that speak.
+
+Contents
+
+     * [71]1 Story
+     * [72]2 Gameplay
+     * [73]3 Features
+          + [74]3.1 Gameplay differences between EQ2 and the original
+            EverQuest
+     * [75]4 Setting
+     * [76]5 Races and classes
+          + [77]5.1 Character races
+          + [78]5.2 Adventurer classes
+          + [79]5.3 Betrayal
+          + [80]5.4 Artisan classes
+     * [81]6 Voices
+     * [82]7 Music
+     * [83]8 Business
+     * [84]9 Expansions and Adventure Packs
+     * [85]10 Alternate versions
+     * [86]11 References
+     * [87]12 External links
+          + [88]12.1 SOE websites
+          + [89]12.2 Wikis
+          + [90]12.3 News and community websites
+
+[[91]edit] Story
+
+   EverQuest II is set on the fictional world of [92]Norrath five hundred
+   years after the [93]The Planes of Power storyline of the original
+   [94]EverQuest game. The gods withdrew from the world in retaliation for
+   mortal incursions into their planes. On Norrath itself, Dark Elves and
+   the Orcs destroyed much of [95]Faydwer; while the Ogres, Goblins, Orcs,
+   and Giants ravaged [96]Antonica. Transport and communication to the
+   moon [97]Luclin were cut off.
+
+   The storyline says that 100 years ago, the continent of Antonica was
+   ripped apart into smaller islands, which are now called the Shattered
+   Lands. The oceans became impassible, preventing contact between the
+   continents of Norrath. Fifteen years ago, the moon Luclin exploded and
+   parts of the Shattered moon remain in the sky.
+
+   EverQuest II takes place in what is called the Age of Destiny. In this
+   setting, Queen Antonia Bayle of Qeynos is a benevolent sorceress who
+   welcomes all goodly races to her city to help rebuild Norrath. The
+   Overlord of Freeport, Lucan D'Lere, a centuries-old fallen paladin,
+   rules the evil races in his plans of conquest.
+
+[[98]edit] Gameplay
+
+   Within EverQuest II, each player creates a character to interact in the
+   3-D fictional world of Norrath. Within the game, the character can
+   adventure (complete quests, explore the world, kill monsters and gain
+   treasures and experience) and socialize with other players. The game
+   also has a 'tradeskill' system that allows players to create items for
+   in-game use.
+
+   In the creation of a character, the player may choose the character's
+   [99]race and class. Various classes have specialized abilities that are
+   complementary to their class. (Monks will get mainly melee combat
+   abilities that use their fists or fist weapons, or a Warlock will get
+   mainly spell abilities that do large amounts of spike damage but cost a
+   lot of mana.) EverQuest II enables social interaction with other
+   players through grouping and through the creation of [100]guilds. Like
+   players, guilds can gain experience and levels, partially from players
+   completing special tasks called Heritage quests, but primarily from
+   guild-oriented quests and tasks called "writs," and gaining guild
+   experience by killing epic monsters. Higher guild levels open up
+   special rewards unavailable to non-guilded characters, and cause
+   certain other rewards to cost less. These rewards include housing
+   options, mounts, house items, apparel, and special titles.
+
+   Although EverQuest II focuses on player versus environment (PvE),
+   dedicated [101]player versus player (PvP) servers were added in
+   February 2006.
+   One of the available mounts that can be purchased with status points
+
+[[102]edit] Features
+
+   The Everquest II feature set has expanded since its release in 2004.
+   Here is an overview of the feature set as of January 2009:
+     * Players choose from 19 races and 24 adventure classes. Any race can
+       be any class (with some conditions). Five starting cities are
+       provided, each with its own "newbie" experience.
+     * Each character may advance through 80 levels of experience in his
+       chosen adventure class, and 80 levels in a tradeskill class that is
+       chosen after creation. Characters are customized by earning up to
+       200 "achievement points" during the course of gameplay, which are
+       used to choose achievement abilities (or AAs). Each adventure class
+       has three trees of achievement abilities to invest in.
+     * Every character can have a Tradeskill Class in addition to their
+       Adventuring Class. When crafting items, the player reacts to
+       crafting events by using crafting skills. A secure commission
+       system allows players to sell their crafting skills to other
+       players, or use the common market system to sell finished items.
+     * Heavy focus on quests. More than 6000 quests have been discovered
+       by players as of January 2009.^[103][1] Game rewards are biased
+       toward quests. Much of the game lore is presented through quests,
+       using an interactive dialogue system.
+     * Each adventure class accumulates more than 20 distinct abilities. A
+       single mechanic is used for both melee (Combat Arts) and
+       spellcasting (Spells); both types of classes draw from a Power pool
+       to cast their abilities. Every spell can be upgraded through eight
+       tiers of improvement, with the lowest tier granted automatically
+       upon gaining each adventure level. Spell upgrades are obtained just
+       like equipment upgrades - as loot, quest rewards, or produced
+       through crafting. Bonus effects are triggered when players combine
+       their abilities in specific ways, called a Heroic Opportunity.
+     * No experience loss, corpse runs on death, or lost levels from
+       dying. Characters respawn with their gear intact at specific
+       revival locations, with a minor experience debt to be repaid. Gear
+       is fully functional until its condition runs out after 10
+       consecutive deaths, and is repaired to 100% for a fee.
+     * A mentoring system allows a high-level character to pretend to be a
+       lower-level character, when grouped with another player of lower
+       level. All equipment and abilities of the mentor are scaled down
+       appropriately, and a bonus is granted to the lower-level
+       character's rate of advancement.
+     * Starting at level 20, players can wear any clothing that's allowed
+       by their class in "appearance slots", overriding the appearance of
+       their functional gear. Face and hair customizations can be changed
+       by visiting a Barber Shop. A Dressing Room feature allows players
+       to see what their character would look like wearing equipment that
+       they do not possess.
+     * Each guild has an experience bar and earns guild levels (up to 80).
+       The guild gains experience when its members perform tasks that earn
+       city status. Higher guild levels unlock new items, mounts, houses,
+       guild halls, and other privileges for its members. Guilds get
+       hosted website and forum, and a guild bank with officer controls.
+     * Player housing is accessible to players from level 1. Furniture is
+       stackable and scalable, and in-house pets are available. House
+       styles are unique to each of six cities, with various sizes and
+       layouts available in each. Player houses can be shared and visited
+       at the owner's discretion, are connected to the player market
+       system. A recent expansion of the housing system provides guilds
+       with guild halls.
+     * Player interaction features include integrated Voice Chat, a
+       built-in mail system, and global chat channels. A looking-for-group
+       tool is provided, and looking-for-work for crafters. A guild
+       recruitment tool is integrated into the game. Players can view each
+       others' statistics and leveling history on the EQ2Players web site.
+       Basic features are free, while advanced features require a monthly
+       fee.
+
+[[104]edit] Gameplay differences between EQ2 and the original EverQuest
+
+   Many gameplay choices were made in order to stop old, sometimes
+   undesirable, tactics that emerged in EQ; a major difference is the
+   concept of "locked encounters". Currently a group or a solo player can
+   set an option to lock encounters. When encounters are locked, only the
+   player or group who becomes linked to that encounter is involved, which
+   stops [105]kill stealing. Other players cannot assist in the encounter
+   unless the player who locked it uses a special "/yell" command for
+   help, after which the encounter rewards neither loot nor experience.
+
+   "Trains" (encounters pursuing fleeing players to a zone line, and then
+   attack uninvolved players), a problem in Everquest, are no longer a
+   problem in EQ2. Encounters will not agro on (attack) uninvolved players
+   until they first return to their original location. Encounters
+   returning to their spawn point are also immune to attack until they
+   return there.
+
+   To stop [106]kiting, players in combat lose all their movement speed
+   enhancements except the special "sprint" ability, which costs a
+   considerable amount of power to use, although some classes have speed
+   debuffs that slow the enemy, thus making kiting a viable option.
+   Because certain player classes such as Rangers and Mages have limited
+   effectiveness in close melee range, many of these players have
+   discovered another method of pseudo-kiting by running backwards and
+   firing a missile weapon at the enemy. The enemy lands fewer attacks,
+   but can take significant damage depending on the type of ammunition or
+   missile weapon used, and the skill level of the user.
+
+[[107]edit] Setting
+
+   Darathar, a dragon in the world of EverQuest II, is part the
+   "Prismatic" quest series.
+
+   EverQuest II is set in what is called the "Age of Destiny" on the world
+   of [108]Norrath, 500 years later than the setting of the original
+   EverQuest. The game world has been drastically affected by several
+   cataclysms (see [109]Story, above) since the original EverQuest. The
+   planes have closed, the gods temporarily left, and the moon Luclin has
+   been destroyed (and partially rained onto the face of Norrath).
+   Remnants from the original EQ's Norrath can be found throughout the
+   Shattered Lands.
+
+   Players arrive in one of five tutorial areas: The Queen's Colony, The
+   Outpost of the Overlord, The Nursery in Greater Faydark, Hate's Envy in
+   Darklight Woods, and Timorous Deep in Kunark, and then move to one of
+   five cities, Qeynos or Kelethin (the 'good' cities) or Freeport,
+   Neriak, or Gorowyn (the 'evil' cities). All of the other cities in the
+   world were destroyed, taken over (Ak'anon, Kaladim, and a few others),
+   rendered inaccessible (Halas), or have banished all outsiders (Felwithe
+   and Rivervale) in The Shattering. The original player cities that were
+   present at the game's launch (Qeynos and Freeport) are divided into
+   multiple zones, with the playable races each having their own special
+   section (Village) of these cities. The player cities introduced into
+   the game at later dates (Kelethin and Neriak) are smaller than the
+   original cities, and as such each 'newer' city is completely contained
+   within one zone. Players from Qeynos or Kelethin are not welcome in
+   Freeport or Neriak and vice versa unless they choose to betray their
+   city via the Betrayal Questline. Players are allowed to begin the
+   Betrayal Questline from level 10 onwards.
+
+   The game world features wide geographical and ecological variety.
+
+   In EQ2, players can ride trained [110]griffons on predetermined routes
+   over the Shattered Lands, or acquire a horse, [111]flying carpet,
+   [112]warg, rhino or a floating disk so that they can travel more
+   swiftly throughout much of the game world. "Mariner's Bells" are
+   scattered across the land allowing instant transportation across
+   various areas of the world. With the inception of the Kingdom of Sky
+   expansion, the Ulteran wizard spires teleport you up into Kingdom of
+   Sky, with spires in different zones taking you to different areas of
+   the expansion. With the Echoes of Faydwer expansion, Wardens and Furies
+   (the Druid classes) gained the ability to teleport individuals to one
+   of five druid rings, with two more added in the Rise of Kunark
+   expansion. Likewise, Warlocks and Wizards (the Sorcerer classes) gained
+   the ability to teleport themselves or their groups to one of three
+   wizard spires.
+
+   EverQuest II also includes instanced zonesparallel copies of some zones
+   where characters in one 'instance' of the zone cannot interact with the
+   characters or MOBs of any other 'instance' of that zone.
+
+[[113]edit] Races and classes
+
+[[114]edit] Character races
+
+   Players must choose a 'race' when creating a character. The choice of
+   races include human, ogre, dwarf, wood elf and dark elf (and others
+   which were available in the original EQ) along with new options such as
+   the Kerra (a cat-person similar to the Vah Shir of the original EQ),
+   the Ratonga (a rat-like people) and with the purchase of an expansion,
+   fae and Arasai. The Froglok race was originally locked until a special
+   server-wide quest was completed to make them playable. Some races are
+   restricted to either Qeynos or Freeport, based on their [115]alignment,
+   but can turn traitor and move to the opposing city.
+
+   Races by Starting City
+   (Alignment)
+   Qeynos
+   (Good) Kelethin^2
+   (Good) Freeport
+   (Evil) Neriak^3
+   (Evil) Gorowyn^4
+   (Evil)
+   Barbarian
+   Dwarf
+   Erudite
+   Froglok^1
+   Gnome
+   Half Elf
+   Halfling
+   High Elf
+   Human
+   Kerra
+   Wood Elf Dwarf
+   Fae^2
+   Gnome
+   Half Elf
+   High Elf
+   Wood Elf Barbarian
+   Dark Elf
+   Erudite
+   Gnome
+   Half Elf
+   Human
+   Iksar
+   Kerra
+   Ogre
+   Ratonga
+   Troll Arasai^3
+   Dark Elf
+   Iksar
+   Ogre
+   Ratonga
+   Troll Barbarian
+   Erudite
+   Gnome
+   Half Elf
+   Human
+   Kerra
+   Sarnak^4
+
+   ^1 Introduced on 27 May 2005 with a questline that was initially
+   required to unlock the race.
+   ^2 Introduced with the release of the Expansion, Echoes of Faydwer.
+   ^3 Introduced with Game Update 35. (You must have Echoes of Faydwer to
+   make an Arasai, but you may start in Neriak as another race without
+   it.)
+   ^4Introduced with Rise of Kunark Expansion. Characters created in
+   Timorous Deep are considered evil by other entities in the game, but
+   the city itself is neutral as a mercenary city.
+
+[[116]edit] Adventurer classes
+
+   There are four "[117]archetypes" in EQ2 - Fighter, Scout, Priest and
+   Mage. When EQ2 was launched, a player chose the character's archetype
+   during the initial character creation and then chose a 'class' at level
+   10 and a 'sub-class' at level 20. This system was changed in Live
+   Update 19 in January 2006 so that a character's final class is chosen
+   at creation. While archetype>class>sub-class system is no longer
+   explicitly defined in the live game, it still defines the roles of
+   classes. Broadly, in a group situation, any priest can be a healer, any
+   fighter can be a suitable tank, any mage or scout can deal damage, with
+   the mage classes typically being able to deal more damage than a scout
+   class, but being more fragile. Evil classes, such as the Assassin, are
+   only available in Freeport, Neriak, or Gorowyn, while good classes,
+   such as the Paladin, are available in either Qeynos or Kelethin.
+   Neutral classes, such as the Guardians, are available in all cities.
+   Ivory background means the class is available in all cities, light blue
+   background means Qeynos and Kelethin only, reddish background means
+   Freeport, Neriak, and Gorowyn only.
+   Fighter Warrior   Berserker
+                      Guardian
+           Crusader   Paladin
+                    Shadowknight
+           Brawler      Monk
+                      Bruiser
+   Scout   Bard    Troubador
+                     Dirge
+         Predator    Ranger
+                    Assassin
+          Rogue   Swashbuckler
+                    Brigand
+   Priest Druid     Fury
+                   Warden
+          Cleric  Templar
+                 Inquisitor
+          Shaman   Mystic
+                  Defiler
+   Mage Sorcerer    Wizard
+                    Warlock
+        Summoner   Conjuror
+                  Necromancer
+        Enchanter Illusionist
+                    Coercer
+
+[[118]edit] Betrayal
+
+   Betrayal is a process allowing the player to change from a good or evil
+   alignment to the opposing one, and convert to the good or evil
+   counterpart of their current class. In this manner, one can play a
+   traditionally evil-only race, betray their city of origin in favor of a
+   good-aligned city, and play a good-only class. Naturally, the reverse
+   is also possible-betrayal of a good-aligned city in favor of an evil
+   one in order to access an evil class with a good race.
+
+[[119]edit] Artisan classes
+
+   A character can also undertake a tradeskill profession, completely
+   separate from his/her adventuring profession. The tradeskill
+   professions branch at levels 10 and 20, just as adventuring classes
+   used to.
+
+   The [120]Echoes of Faydwer expansion introduced two secondary
+   tradeskills. These go alongside the primary tradeskills, and a
+   character can switch to the other secondary tradeskill at any time
+   (starting from scratch). Characters do not gain separate experience
+   points for these tradeskills; maximum skill level rises with the
+   primary tradeskill or adventuring level.
+
+                            Tradeskill Class Tree
+                      Archetype Class Subclass Products
+   Artisan Craftsman Carpenter furniture (including altars), strongboxes,
+                               and repair kits
+                         Provisioner food and drink
+     Woodworker bows, arrows, throwing weapons, wooden shields, staves,
+                       totems, and musical instruments
+                     Outfitter Weaponsmith metal weapons
+           Armorsmith chainmail and platemail armor, metal shields
+     Tailor cloth and leather armor, backpacks, thrown-weapon bags, hex
+          dolls, and with the Echoes of Faydwer expansion, cloaks.
+       Scholar Alchemist potions, poisons, and fighter skill upgrades
+                  Jeweler jewelry and scout skill upgrades
+                     Sage priest and mage spell upgrades
+   Secondary Tinkerer Tinkered contraptions, such as automated parachutes,
+          environmental suits, summonable robotic pets, mounts, and
+                          water-breathing devices.
+      Transmuter Breaks certain valuable equipment down into in magical
+    components which can be used to create adornments and tinkered items.
+
+[[121]edit] Voices
+
+   The game uses actual voices for NPCs. The actors used for these parts
+   included [122]Hollywood stars such as [123]Heather Graham (as Queen
+   Antonia Bayle) and [124]Christopher Lee (as Overlord Lucan D'Lere).
+   [125]Actor/[126]gamer [127]Wil Wheaton, [128]Actor [129]Dwight Schultz
+   and [130]Actress/[131]mathematician [132]Danica McKellar are also part
+   of the cast. According to SOE in October 2004, EverQuest II featured
+   130 hours of spoken dialog recorded by 1,700 voice
+   actors.^[[133]citation needed] More dialog has been added since release
+   as part of regular game updates. In September 2005, [134]EverQuest II:
+   Desert Of Flames added player Voice Emotes.
+
+[[135]edit] Music
+
+   The music for the game, over ninety minutes' worth, was composed by
+   [136]Emmy-award winning composer [137]Laura Karpman and recorded by the
+   FILMharmonic Orchestra Prague under her direction. Karpman has said of
+   the music in the game: "Every place has a theme, its own separate,
+   unique feeling - from a quasi-African savanna to a Babylonian city.
+   Every cue in EQ2, with the exception of the attack cues, is like a main
+   title of a movie. A more cinematic experience for the player was one of
+   our goals." [138][1]. Purchasers of the EverQuest II Collector's
+   Edition received a soundtrack CD as part of the package.
+
+   The most recent expansions, Echoes of Faydwer and Rise of Kunark,
+   included many themes from the corresponding zones in the original
+   EverQuest, arranged by [139]Inon Zur.
+
+   With the recent Rise of Kunark expansion came a major update to the
+   combat music. A new system was added with 14 contextual combat themes.
+   The strength of the enemy or enemies and tide of the battle determine
+   the tone of the combat music. The previous combat music consisted of
+   just a few linear pieces.
+
+[[140]edit] Business
+
+   SOE is marketing EverQuest II not as a direct sequel, but as a
+   "parallel universe" to the original EverQuest. It is set in an
+   alternate future of the original game's setting, having diverged at the
+   conclusion of [141]the Planes of Power expansion (the lore is explained
+   in an in-game book). This allows both development teams to pursue
+   whatever direction they want to take without impacting the other, and
+   allows players of the original EverQuest to continue receiving updates
+   without forcing players down a specific path. In that sense, they are
+   two completely separate games bound together by name only. Players of
+   the old EQ will find many familiar places and characters, as well as
+   "heritage items" that are similar in name and function to items known
+   from EQ and can be gained via heritage quests.
+
+   Like the original and other commercial [142]MMORPGs, EQ2 requires a
+   monthly fee (as of January 2008, US$14.99/month) to play the game. A
+   free play period of 30 days are included with the purchase price of the
+   game. Subscribers can opt to pay an additional monthly fee for extended
+   services, such as an online item database or hosting of guild websites.
+   Players can also download and play the game for free as part of a free
+   trial. Prior free trial programs, known as the Trial of the Isle and
+   Play the Fae, allowed players to experience the beginning steps of the
+   game for free before dedicating themselves to a monthly subscription
+   fee. The current free trial allows players full use of the game
+   environment, but it is limited to 14 days and prevents characters from
+   exceeding level 20.
+
+   In Europe, the game is published by [143]KOCH Media.
+   Advertisement of the [144]Pizza Hut and EverQuest II promotion.
+
+   In February 2005, EverQuest II began allowing players to place an order
+   for [145]pizza delivery from within the game, with a simple and easy
+   command typed into the chat bar, "/pizza".^[146][2] This promotion has
+   since ended, but generated significant press for the game.
+
+   In June 2005, SOE introduced [147]Station Exchange to EverQuest II.
+   Station Exchange is an official auction systemonly on designated
+   serversallowing real money to be transferred for in-game money, items
+   or characters.
+
+   In March 2006, SOE announced that it would end its Chinese/Korean
+   operations for EverQuest II, which were being supported in the region
+   by [148]Gamania. The beta period for the game in China/Korea ended on
+   29 March, and on 30 March, all Chinese/Korean accounts were moved to
+   the US servers of the game.
+
+   In July 2007, SOE introduced magazine [149]EQuinox, which is the
+   official magazine of EverQuest II. The release date of this magazine
+   was 9 August 2007.
+
+   In December 2008, SOE introduced Station Cash, a [150]real-money
+   trading (RMT) feature.^[[151]citation needed]
+
+[[152]edit] Expansions and Adventure Packs
+
+          Main article: [153]EverQuest II expansions
+
+                Title                    Type        Released Date
+   [154]The Bloodline Chronicles    Adventure Pack 21 March 2005
+   [155]The Splitpaw Saga           Adventure Pack 28 June 2005
+   [156]Desert of Flames            Expansion      13 September 2005
+   [157]Kingdom of Sky              Expansion      21 February 2006
+   [158]The Fallen Dynasty          Adventure Pack 14 June 2006
+   [159]Echoes of Faydwer           Expansion      14 November 2006
+   [160]Rise of Kunark              Expansion      13 November 2007
+   [161]The Shadow Odyssey^[162][3] Expansion      18 November 2008
+
+   With Everquest II, [163]Sony Online Entertainment introduced the
+   concept of Adventure Packs. Adventure Packs are meant to be smaller
+   "mini-expansions" to the game, adding a plot line with several zones,
+   new creatures and items to the game via digital download. These smaller
+   Adventure Packs come with a smaller fee ranging from [164]US$4.99 to
+   US$7.99. However, recently the development team has decided to release
+   free zones and content instead of making adventure packs. Some recent
+   releases include a new starting city, Neriak, with a new starting race,
+   Arasai;^[165][4] and new high level dungeons The Throne of New
+   Tunaria^[166][5] and the Estate of Unrest.^[167][6]
+
+   Expansions usually cost in the range of US$29.99 to US$39.99 and are
+   shipped in boxes to stores, but can also be downloaded through a
+   digital service. The retail versions often come packaged with a bonus
+   feature such as a creature that the player can put in their in-game
+   house. Expansions generally introduce many new zones with many plot
+   lines, new features, many new creatures and items, new cities, and
+   often come with a boost in the level cap or a new player race. While it
+   may be easier to download the expansions digitally, traditional retail
+   offers more content.
+
+   In May 2007, the website [168]Allakhazam's Magical Realm in conjunction
+   with [169]Online Gaming Radio announced that the next expansion would
+   be [170]Rise of Kunark, with a new playable race (Sarnak), new starting
+   city, and a level cap of 80.^[171][7]
+
+[[172]edit] Alternate versions
+
+     * [173]EverQuest II: East was created for the East Asian market
+       ([174]mainland China, [175]Taiwan, [176]South Korea) but it was
+       terminated as a separate edition on 29 March 2006. EverQuest II:
+       East players were moved to standard servers. The special character
+       models created for the game had already been included in the
+       standard edition as a client-side option since 2005.
+
+[[177]edit] References
+
+    1. [178]^ [179]"EverQuest II Quest List - eq2.fluffy.dk".
+       [180]http://eq2.fluffy.dk/index.php.
+    2. [181]^ [182]"EverQuest II - /pizza".
+       [183]http://everquest2.station.sony.com/pizza/.
+    3. [184]^ [185]"EverQuest II Players - The Shadow Odyssey".
+       [186]http://eq2players.station.sony.com/news_archive_content.vm?id=
+       1851.
+    4. [187]^ [188]"EverQuest II Players - Game Update #35".
+       [189]http://eq2players.station.sony.com/game_updates_details.vm?id=
+       35.
+    5. [190]^ [191]"EverQuest II : Game Update 36 Peek and Screenshots -
+       igxe.com". [192]http://www.igxe.com/news/game-news-1232.html.
+    6. [193]^ [194]"EverQuest II Players - Game Update #32".
+       [195]http://eq2players.station.sony.com/game_updates_details.vm?id=
+       32.
+    7. [196]^ "Tamat and Gethani". [197]"EverQuest II: Rise of Kunark".
+       Allakhazam's Magical Realm.
+       [198]http://eq2.allakhazam.com/news/sdetail9504.html?story=9504.
+       Retrieved on 2007-05-09.
+
+[[199]edit] External links
+
+[[200]edit] SOE websites
+
+     * [201]Official Everquest II website
+     * [202]Station Exchange website
+     * [203]Everquest II's Dynamic Player Community
+     * [204]EQuinox Magazine official website
+
+[[205]edit] Wikis
+
+     * [206]EQ2i - EverQuest II reference at [207]Wikia.com
+
+[[208]edit] News and community websites
+
+     * [209]Online Gaming Radio - Home of EQ2's-day
+     * [210]EQ2-Daily.com Everquest 2 Daily News Site
+     * [211]EQ2 Traders - EverQuest 2 Tradeskill Information
+     * [212]EQ2 Flames - Raiding Community Website
+
+   [213]v  [214]d  [215]e
+   EverQuest [216]video games
+   [217]EverQuest
+   [218]The Ruins of Kunark  [219]The Scars of Velious  [220]The Shadows
+   of Luclin  [221]The Planes of Power  [222]The Legacy of Ykesha
+   [223]Lost Dungeons of Norrath  [224]Gates of Discord  [225]Omens of
+   War  [226]Dragons of Norrath  [227]Depths of Darkhollow  [228]Prophecy
+   of Ro  [229]The Serpent's Spine  [230]The Buried Sea  [231]Secrets of
+   Faydwer  [232]Seeds of Destruction
+   EverQuest II
+   [233]The Bloodline Chronicles  [234]The Splitpaw Saga  [235]Desert of
+   Flames  [236]Kingdom of Sky  [237]The Fallen Dynasty  [238]Echoes of
+   Faydwer  [239]Rise of Kunark  [240]The Shadow Odyssey
+   Spin-offs
+   [241]EverQuest Online Adventures  [242]Champions of Norrath: Realms of
+   EverQuest  [243]Champions: Return to Arms  [244]Lords of EverQuest
+   [245]EverQuest Role-Playing Game  [246]Legends of Norrath
+   Other Articles
+   [247]Mystere incident
+   Retrieved from "[248]http://en.wikipedia.org/wiki/EverQuest_II"
+   [249]Categories: [250]2004 video games | [251]EverQuest games and
+   expansions | [252]Massively multiplayer online role-playing games |
+   [253]Video game sequels | [254]Video games with expansion packs |
+   [255]Windows games
+   Hidden categories: [256]All articles with unsourced statements |
+   [257]Articles with unsourced statements since October 2007 |
+   [258]Articles with unsourced statements since January 2009
+
+Views
+
+     * [259]Article
+     * [260]Discussion
+     * [261]Edit this page
+     * [262]History
+
+Personal tools
+
+     * [263]Log in / create account
+
+Navigation
+
+     * [264]Main page
+     * [265]Contents
+     * [266]Featured content
+     * [267]Current events
+     * [268]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [269]About Wikipedia
+     * [270]Community portal
+     * [271]Recent changes
+     * [272]Contact Wikipedia
+     * [273]Donate to Wikipedia
+     * [274]Help
+
+Toolbox
+
+     * [275]What links here
+     * [276]Related changes
+     * [277]Upload file
+     * [278]Special pages
+     * [279]Printable version
+     * [280]Permanent link
+     * [281]Cite this page
+
+Languages
+
+     * [282]Dansk
+     * [283]Franais
+     *
+     *
+     * [284]Svenska
+     *
+
+   [285]Powered by MediaWiki
+   [286]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 21:47.
+     * All text is available under the terms of the [287]GNU Free
+       Documentation License. (See [288]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [289]Wikimedia
+       Foundation, Inc., a U.S. registered [290]501(c)(3)
+       [291]tax-deductible [292]nonprofit [293]charity.
+     * [294]Privacy policy
+     * [295]About Wikipedia
+     * [296]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EverQuest_II&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EQII&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#searchInput
+   9. file://localhost/wiki/File:EverQuest_II_box_art.jpg
+  10. file://localhost/wiki/Video_game_developer
+  11. file://localhost/wiki/Sony_Online_Entertainment
+  12. file://localhost/wiki/Video_game_publisher
+  13. file://localhost/wiki/Sony_Online_Entertainment
+  14. file://localhost/wiki/United_States
+  15. file://localhost/wiki/Europe
+  16. file://localhost/wiki/Japan
+  17. file://localhost/wiki/Gamania
+  18. file://localhost/wiki/China
+  19. file://localhost/wiki/Taiwan
+  20. file://localhost/wiki/South_Korea
+  21. file://localhost/wiki/Akella
+  22. file://localhost/wiki/Russia
+  23. file://localhost/wiki/Square_Enix
+  24. file://localhost/wiki/Japan
+  25. file://localhost/wiki/UbiSoft
+  26. file://localhost/wiki/Europe
+  27. file://localhost/wiki/Computing_platform
+  28. file://localhost/wiki/Microsoft_Windows
+  29. file://localhost/wiki/Video_game_genres
+  30. file://localhost/wiki/MMORPG
+  31. file://localhost/wiki/Multiplayer
+  32. file://localhost/wiki/Video_game_content_rating_system
+  33. file://localhost/wiki/Digital_media
+  34. file://localhost/wiki/CD
+  35. file://localhost/wiki/DVD
+  36. file://localhost/wiki/Download
+  37. file://localhost/wiki/Operating_System
+  38. file://localhost/wiki/Central_processing_unit
+  39. file://localhost/wiki/Gigahertz
+  40. file://localhost/wiki/Random_Access_Memory
+  41. file://localhost/wiki/Megabyte
+  42. file://localhost/wiki/Hard_Disk
+  43. file://localhost/wiki/Gigabyte
+  44. file://localhost/wiki/Graphics_card
+  45. file://localhost/wiki/DirectX_9
+  46. file://localhost/wiki/Pixel_shader
+  47. file://localhost/wiki/Vertex_shader
+  48. file://localhost/wiki/Texture_memory
+  49. file://localhost/wiki/Sound_card
+  50. file://localhost/wiki/Operating_System
+  51. file://localhost/wiki/Central_processing_unit
+  52. file://localhost/wiki/Gigahertz
+  53. file://localhost/wiki/Random_Access_Memory
+  54. file://localhost/wiki/Gigabyte
+  55. file://localhost/wiki/Hard_Disk
+  56. file://localhost/wiki/Gigabyte
+  57. file://localhost/wiki/Graphics_card
+  58. file://localhost/wiki/DirectX_9
+  59. file://localhost/wiki/Pixel_shader
+  60. file://localhost/wiki/Vertex_shader
+  61. file://localhost/wiki/Texture_memory
+  62. file://localhost/wiki/Sound_card
+  63. file://localhost/wiki/Computer_keyboard
+  64. file://localhost/wiki/Computer_mouse
+  65. file://localhost/wiki/EverQuest
+  66. file://localhost/wiki/Fantasy
+  67. file://localhost/wiki/Massively_multiplayer_online_role-playing_game
+  68. file://localhost/wiki/Sony_Online_Entertainment
+  69. file://localhost/wiki/Gameplay
+  70. file://localhost/wiki/Non-player_character
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Story
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Gameplay
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Features
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Gameplay_differences_between_EQ2_and_the_original_EverQuest
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Setting
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Races_and_classes
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Character_races
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Adventurer_classes
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Betrayal
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Artisan_classes
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Voices
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Music
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Business
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Expansions_and_Adventure_Packs
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Alternate_versions
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#References
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#External_links
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#SOE_websites
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Wikis
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#News_and_community_websites
+  91. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=1
+  92. file://localhost/wiki/Norrath
+  93. file://localhost/wiki/The_Planes_of_Power
+  94. file://localhost/wiki/EverQuest
+  95. file://localhost/w/index.php?title=Faydwer&action=edit&redlink=1
+  96. file://localhost/w/index.php?title=Antonica&action=edit&redlink=1
+  97. file://localhost/w/index.php?title=Luclin&action=edit&redlink=1
+  98. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=2
+  99. file://localhost/wiki/Race_(fantasy)
+ 100. file://localhost/wiki/Clan_(computer_gaming)
+ 101. file://localhost/wiki/Player_versus_player
+ 102. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=3
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-eq2_fluffy-0
+ 104. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=4
+ 105. file://localhost/wiki/Kill_stealing
+ 106. file://localhost/wiki/Kiting_(MMORPG_term)
+ 107. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=5
+ 108. file://localhost/wiki/Norrath
+ 109. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#Story
+ 110. file://localhost/wiki/Griffin
+ 111. file://localhost/wiki/Magic_carpet
+ 112. file://localhost/wiki/Warg
+ 113. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=6
+ 114. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=7
+ 115. file://localhost/wiki/Alignment_(role-playing_games)
+ 116. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=8
+ 117. file://localhost/wiki/Character_class
+ 118. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=9
+ 119. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=10
+ 120. file://localhost/wiki/EverQuest_II:_Echoes_of_Faydwer
+ 121. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=11
+ 122. file://localhost/wiki/Hollywood
+ 123. file://localhost/wiki/Heather_Graham_(actress)
+ 124. file://localhost/wiki/Christopher_Lee
+ 125. file://localhost/wiki/Actor
+ 126. file://localhost/wiki/Gamer
+ 127. file://localhost/wiki/Wil_Wheaton
+ 128. file://localhost/wiki/Actor
+ 129. file://localhost/wiki/Dwight_Schultz
+ 130. file://localhost/wiki/Actress
+ 131. file://localhost/wiki/Mathematician
+ 132. file://localhost/wiki/Danica_McKellar
+ 133. file://localhost/wiki/Wikipedia:Citation_needed
+ 134. file://localhost/wiki/EverQuest_II:_Desert_Of_Flames
+ 135. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=12
+ 136. file://localhost/wiki/Emmy
+ 137. file://localhost/wiki/Laura_Karpman
+ 138. http://www.music4games.net/News_Display.aspx?id=246
+ 139. file://localhost/wiki/Inon_Zur
+ 140. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=13
+ 141. file://localhost/wiki/The_Planes_of_Power
+ 142. file://localhost/wiki/MMORPG
+ 143. file://localhost/w/index.php?title=KOCH_Media&action=edit&redlink=1
+ 144. file://localhost/wiki/Pizza_Hut
+ 145. file://localhost/wiki/Pizza_delivery
+ 146. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-1
+ 147. file://localhost/wiki/Station_Exchange
+ 148. file://localhost/wiki/Gamania
+ 149. file://localhost/w/index.php?title=EQuinox&action=edit&redlink=1
+ 150. file://localhost/wiki/Virtual_economy
+ 151. file://localhost/wiki/Wikipedia:Citation_needed
+ 152. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=14
+ 153. file://localhost/wiki/EverQuest_II_expansions
+ 154. file://localhost/wiki/EverQuest_II:_The_Bloodline_Chronicles
+ 155. file://localhost/wiki/EverQuest_II:_The_Splitpaw_Saga
+ 156. file://localhost/wiki/EverQuest_II:_Desert_of_Flames
+ 157. file://localhost/wiki/EverQuest_II:_Kingdom_of_Sky
+ 158. file://localhost/wiki/EverQuest_II:_The_Fallen_Dynasty
+ 159. file://localhost/wiki/EverQuest_II:_Echoes_of_Faydwer
+ 160. file://localhost/wiki/EverQuest_II:_Rise_of_Kunark
+ 161. file://localhost/wiki/EverQuest_II:_The_Shadow_Odyssey
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-TSO-2
+ 163. file://localhost/wiki/Sony_Online_Entertainment
+ 164. file://localhost/wiki/US$
+ 165. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-GU35-3
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-Throne_preview-4
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-GU32-5
+ 168. file://localhost/w/index.php?title=Allakhazam%27s_Magical_Realm&action=edit&redlink=1
+ 169. http://www.onlinegamingradio.com/
+ 170. file://localhost/wiki/EverQuest_II:_Rise_of_Kunark
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_note-RoKreveal-6
+ 172. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=15
+ 173. file://localhost/wiki/EverQuest_II:_East
+ 174. file://localhost/wiki/Mainland_China
+ 175. file://localhost/wiki/Taiwan
+ 176. file://localhost/wiki/South_Korea
+ 177. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=16
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-eq2_fluffy_0-0
+ 179. http://eq2.fluffy.dk/index.php
+ 180. http://eq2.fluffy.dk/index.php
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-1
+ 182. http://everquest2.station.sony.com/pizza/
+ 183. http://everquest2.station.sony.com/pizza/
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-TSO_2-0
+ 185. http://eq2players.station.sony.com/news_archive_content.vm?id=1851
+ 186. http://eq2players.station.sony.com/news_archive_content.vm?id=1851
+ 187. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-GU35_3-0
+ 188. http://eq2players.station.sony.com/game_updates_details.vm?id=35
+ 189. http://eq2players.station.sony.com/game_updates_details.vm?id=35
+ 190. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-Throne_preview_4-0
+ 191. http://www.igxe.com/news/game-news-1232.html
+ 192. http://www.igxe.com/news/game-news-1232.html
+ 193. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-GU32_5-0
+ 194. http://eq2players.station.sony.com/game_updates_details.vm?id=32
+ 195. http://eq2players.station.sony.com/game_updates_details.vm?id=32
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc661.tmp.html#cite_ref-RoKreveal_6-0
+ 197. http://eq2.allakhazam.com/news/sdetail9504.html?story=9504
+ 198. http://eq2.allakhazam.com/news/sdetail9504.html?story=9504
+ 199. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=17
+ 200. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=18
+ 201. http://everquest2.station.sony.com/
+ 202. http://stationexchange.station.sony.com/
+ 203. http://eq2players.station.sony.com/en/index.vm
+ 204. http://equinox-magazine.com/
+ 205. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=19
+ 206. http://eq2.wikia.com/
+ 207. http://wikia.com/
+ 208. file://localhost/w/index.php?title=EverQuest_II&action=edit&section=20
+ 209. http://www.onlinegamingradio.com/
+ 210. http://www.eq2-daily.com/
+ 211. http://eq2.eqtraders.com/
+ 212. http://www.eq2flames.com/index.php?referrerid=1495
+ 213. file://localhost/wiki/Template:EverQuest
+ 214. file://localhost/wiki/Template_talk:EverQuest
+ 215. http://en.wikipedia.org/w/index.php?title=Template:EverQuest&action=edit
+ 216. file://localhost/wiki/Video_game
+ 217. file://localhost/wiki/EverQuest
+ 218. file://localhost/wiki/EverQuest:_The_Ruins_of_Kunark
+ 219. file://localhost/wiki/EverQuest:_The_Scars_of_Velious
+ 220. file://localhost/wiki/EverQuest:_The_Shadows_of_Luclin
+ 221. file://localhost/wiki/EverQuest:_The_Planes_of_Power
+ 222. file://localhost/wiki/EverQuest:_The_Legacy_of_Ykesha
+ 223. file://localhost/wiki/EverQuest:_Lost_Dungeons_of_Norrath
+ 224. file://localhost/wiki/EverQuest:_Gates_of_Discord
+ 225. file://localhost/wiki/EverQuest:_Omens_of_War
+ 226. file://localhost/wiki/EverQuest:_Dragons_of_Norrath
+ 227. file://localhost/wiki/EverQuest:_Depths_of_Darkhollow
+ 228. file://localhost/wiki/EverQuest:_Prophecy_of_Ro
+ 229. file://localhost/wiki/EverQuest:_The_Serpent%27s_Spine
+ 230. file://localhost/wiki/EverQuest:_The_Buried_Sea
+ 231. file://localhost/wiki/EverQuest:_Secrets_of_Faydwer
+ 232. file://localhost/w/index.php?title=EverQuest:_Seeds_of_Destruction&action=edit&redlink=1
+ 233. file://localhost/wiki/EverQuest_II_expansions#The_Bloodline_Chronicles
+ 234. file://localhost/wiki/EverQuest_II_expansions#The_Splitpaw_Saga
+ 235. file://localhost/wiki/EverQuest_II:_Desert_of_Flames
+ 236. file://localhost/wiki/EverQuest_II:_Kingdom_of_Sky
+ 237. file://localhost/wiki/EverQuest_II_expansions#The_Fallen_Dynasty
+ 238. file://localhost/wiki/EverQuest_II:_Echoes_of_Faydwer
+ 239. file://localhost/wiki/EverQuest_II:_Rise_of_Kunark
+ 240. file://localhost/wiki/EverQuest_II:_The_Shadow_Odyssey
+ 241. file://localhost/wiki/EverQuest_Online_Adventures
+ 242. file://localhost/wiki/Champions_of_Norrath
+ 243. file://localhost/wiki/Champions:_Return_to_Arms
+ 244. file://localhost/wiki/Lords_of_EverQuest
+ 245. file://localhost/wiki/EverQuest_Role-Playing_Game
+ 246. file://localhost/wiki/Legends_of_Norrath
+ 247. file://localhost/wiki/Mystere_incident
+ 248. http://en.wikipedia.org/wiki/EverQuest_II
+ 249. file://localhost/wiki/Special:Categories
+ 250. file://localhost/wiki/Category:2004_video_games
+ 251. file://localhost/wiki/Category:EverQuest_games_and_expansions
+ 252. file://localhost/wiki/Category:Massively_multiplayer_online_role-playing_games
+ 253. file://localhost/wiki/Category:Video_game_sequels
+ 254. file://localhost/wiki/Category:Video_games_with_expansion_packs
+ 255. file://localhost/wiki/Category:Windows_games
+ 256. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 257. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_October_2007
+ 258. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_January_2009
+ 259. file://localhost/wiki/EverQuest_II
+ 260. file://localhost/wiki/Talk:EverQuest_II
+ 261. file://localhost/w/index.php?title=EverQuest_II&action=edit
+ 262. file://localhost/w/index.php?title=EverQuest_II&action=history
+ 263. file://localhost/w/index.php?title=Special:UserLogin&returnto=EverQuest_II
+ 264. file://localhost/wiki/Main_Page
+ 265. file://localhost/wiki/Portal:Contents
+ 266. file://localhost/wiki/Portal:Featured_content
+ 267. file://localhost/wiki/Portal:Current_events
+ 268. file://localhost/wiki/Special:Random
+ 269. file://localhost/wiki/Wikipedia:About
+ 270. file://localhost/wiki/Wikipedia:Community_portal
+ 271. file://localhost/wiki/Special:RecentChanges
+ 272. file://localhost/wiki/Wikipedia:Contact_us
+ 273. http://wikimediafoundation.org/wiki/Donate
+ 274. file://localhost/wiki/Help:Contents
+ 275. file://localhost/wiki/Special:WhatLinksHere/EverQuest_II
+ 276. file://localhost/wiki/Special:RecentChangesLinked/EverQuest_II
+ 277. file://localhost/wiki/Wikipedia:Upload
+ 278. file://localhost/wiki/Special:SpecialPages
+ 279. file://localhost/w/index.php?title=EverQuest_II&printable=yes
+ 280. file://localhost/w/index.php?title=EverQuest_II&oldid=273510814
+ 281. file://localhost/w/index.php?title=Special:Cite&page=EverQuest_II&id=273510814
+ 282. http://da.wikipedia.org/wiki/EverQuest_2
+ 283. http://fr.wikipedia.org/wiki/EverQuest_II
+ 284. http://sv.wikipedia.org/wiki/EverQuest_II
+ 285. http://www.mediawiki.org/
+ 286. http://wikimediafoundation.org/
+ 287. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 288. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 289. http://www.wikimediafoundation.org/
+ 290. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 291. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 292. http://en.wikipedia.org/wiki/Non-profit_organization
+ 293. http://en.wikipedia.org/wiki/Charitable_organization
+ 294. http://wikimediafoundation.org/wiki/Privacy_policy
+ 295. file://localhost/wiki/Wikipedia:About
+ 296. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 297. file://localhost/wiki/File:Eq2_level_60_mount.jpg
+ 298. file://localhost/wiki/File:Eq2_level_60_mount.jpg
+ 299. file://localhost/wiki/File:EQ2_000335.jpg
+ 300. file://localhost/wiki/File:EQ2_000335.jpg
+ 301. file://localhost/wiki/File:EverQuest-Pizza-Hut-promotion.jpg
+ 302. file://localhost/wiki/File:EverQuest-Pizza-Hut-promotion.jpg
+ 303. file://localhost/wiki/Main_Page
+ 304. http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%882
+ 305. http://ru.wikipedia.org/wiki/EverQuest_II
+ 306. http://zh.wikipedia.org/wiki/%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A12

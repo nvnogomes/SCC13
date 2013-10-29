@@ -1,0 +1,300 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Gluconic acid
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E580)
+   Jump to: [7]navigation, [8]search
+                         Gluconic acid
+             [9]Skeletal formula of gluconic acid
+          [10]Ball-and-stick model of gluconic acid
+   [11]IUPAC name
+
+   (2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid
+   Other names                      None
+                          Identifiers
+   [12]CAS number                   526-95-4
+                          Properties
+   [13]Molecular formula            [14]C[6][15]H[12][16]O[7]
+   [17]Molar mass                   196 g/mol
+   Appearance                       colorless crystals
+   [18]Density                       ?
+   [19]Solubility in [20]water      good
+   [21]Solubility in other solvents  ?
+   [22]Acidity (pK[a])              3.86
+                            Hazards
+   Main [23]hazards                 Corrosive (C)
+   [24]Flash point                   ?
+   Except where noted otherwise, data are given for
+   materials in their [25]standard state
+   (at 25 C, 100 kPa)
+   [26]Infobox references
+
+   Gluconic acid is an [27]organic compound with [28]molecular formula
+   C[6]H[12]O[7] and condensed [29]structural [30]formula
+   HOCH[2](CHOH)[4]COOH. In aqueous solution at neutral [31]pH, gluconic
+   acid forms the gluconate ion. The [32]salts of gluconic acid are known
+   as "gluconates". Gluconic acid and gluconate salts occur widely in
+   nature because such species arise from the [33]oxidation of
+   [34]glucose. Gluconate [35]esters can also be formed, such as
+   [36]quinine gluconate which is used for [37]intramuscular injection in
+   the treatment of [38]malaria.
+
+Contents
+
+     * [39]1 Chemical structure
+     * [40]2 Occurrence and uses
+     * [41]3 References
+     * [42]4 External links
+
+[[43]edit] Chemical structure
+
+   The [44]chemical structure of gluconic acid consists of a six-carbon
+   chain with five [45]hydroxyl groups terminating in a carboxylic acid
+   group. In aqueous solution, gluconic acid exists in equilibrium with
+   the cyclic ester [46]Glucono delta lactone.
+
+[[47]edit] Occurrence and uses
+
+   Gluconic acid occurs naturally in [48]fruit, [49]honey, [50]kombucha
+   tea, and [51]wine. As a [52]food additive (E574^[53][1]), it is an
+   [54]acidity regulator. It is also used in cleaning products where it
+   dissolves mineral deposits especially in alkaline solution. The
+   gluconate anion [55]chelates [56]Ca^2+, [57]Fe^2+, [58]Al^3+, and other
+   heavy metals. [59]Calcium gluconate, in the form of a gel, is used to
+   treat burns from [60]hydrofluoric acid.^[61][2]^[62][3]
+
+[[63]edit] References
+
+   This article does not [64]cite any [65]references or sources. Please
+   help [66]improve this article by adding citations to [67]reliable
+   sources. [68]Unverifiable material may be challenged and removed.
+   (September 2007)
+    1. [69]^ [70]Food Standards Agency - Current EU approved additives and
+       their E Numbers
+    2. [71]^ el Saadi MS, Hall AH, Hall PK, Riggs BS, Augenstein WL,
+       Rumack BH (1989). "Hydrofluoric acid dermal exposure". Vet Hum
+       Toxicol 31 (3): 2437. [72]PMID 2741315.
+    3. [73]^ Roblin I, Urban M, Flicoteau D, Martin C, Pradeau D (2006).
+       "Topical treatment of experimental hydrofluoric acid skin burns by
+       2.5% calcium gluconate". J Burn Care Res 27 (6): 88994.
+       [74]doi:10.1097/01.BCR.0000245767.54278.09 (inactive 2008-10-14).
+       [75]PMID 17091088.
+
+[[76]edit] External links
+
+     * [77]Gluconic acid on NIST.gov
+
+   Retrieved from "[78]http://en.wikipedia.org/wiki/Gluconic_acid"
+   [79]Categories: [80]Carboxylic acids | [81]Food additives |
+   [82]Chelating agents | [83]Sugar acids
+   Hidden categories: [84]Pages with DOIs broken since 2008 | [85]Articles
+   lacking sources from September 2007 | [86]All articles lacking sources
+
+Views
+
+     * [87]Article
+     * [88]Discussion
+     * [89]Edit this page
+     * [90]History
+
+Personal tools
+
+     * [91]Log in / create account
+
+Navigation
+
+     * [92]Main page
+     * [93]Contents
+     * [94]Featured content
+     * [95]Current events
+     * [96]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [97]About Wikipedia
+     * [98]Community portal
+     * [99]Recent changes
+     * [100]Contact Wikipedia
+     * [101]Donate to Wikipedia
+     * [102]Help
+
+Toolbox
+
+     * [103]What links here
+     * [104]Related changes
+     * [105]Upload file
+     * [106]Special pages
+     * [107]Printable version
+     * [108]Permanent link
+     * [109]Cite this page
+
+Languages
+
+     * [110]Deutsch
+     * [111]Franais
+     * [112]Italiano
+     * [113]Magyar
+     *
+     * [114]Polski
+     * [115]Portugus
+     *
+     * [116]Svenska
+     * [117]Ting Vit
+
+   [118]Powered by MediaWiki
+   [119]Wikimedia Foundation
+     * This page was last modified on 22 January 2009, at 17:23.
+     * All text is available under the terms of the [120]GNU Free
+       Documentation License. (See [121]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [122]Wikimedia
+       Foundation, Inc., a U.S. registered [123]501(c)(3)
+       [124]tax-deductible [125]nonprofit [126]charity.
+     * [127]Privacy policy
+     * [128]About Wikipedia
+     * [129]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Gluconic_acid&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E580&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#searchInput
+   9. file://localhost/wiki/File:D-Gluconic_acid.png
+  10. file://localhost/wiki/File:D-gluconic-acid-3D-balls.png
+  11. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  12. file://localhost/wiki/CAS_registry_number
+  13. file://localhost/wiki/Chemical_formula
+  14. file://localhost/wiki/Carbon
+  15. file://localhost/wiki/Hydrogen
+  16. file://localhost/wiki/Oxygen
+  17. file://localhost/wiki/Molar_mass
+  18. file://localhost/wiki/Density
+  19. file://localhost/wiki/Solubility
+  20. file://localhost/wiki/Water
+  21. file://localhost/wiki/Solubility
+  22. file://localhost/wiki/Acid_dissociation_constant
+  23. file://localhost/wiki/Worker_safety_and_health
+  24. file://localhost/wiki/Flash_point
+  25. file://localhost/wiki/Standard_state
+  26. file://localhost/wiki/Wikipedia:Chemical_infobox#References
+  27. file://localhost/wiki/Organic_compound
+  28. file://localhost/wiki/Molecular_formula
+  29. file://localhost/wiki/Structural_formula
+  30. file://localhost/wiki/Chemical_formula
+  31. file://localhost/wiki/PH
+  32. file://localhost/wiki/Salt_(chemistry)
+  33. file://localhost/wiki/Oxidation
+  34. file://localhost/wiki/Glucose
+  35. file://localhost/wiki/Ester
+  36. file://localhost/wiki/Quinine#dosing
+  37. file://localhost/wiki/Intramuscular_injection
+  38. file://localhost/wiki/Malaria
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#Chemical_structure
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#Occurrence_and_uses
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#References
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#External_links
+  43. file://localhost/w/index.php?title=Gluconic_acid&action=edit&section=1
+  44. file://localhost/wiki/Chemical_structure
+  45. file://localhost/wiki/Hydroxyl
+  46. file://localhost/wiki/Glucono_delta_lactone
+  47. file://localhost/w/index.php?title=Gluconic_acid&action=edit&section=2
+  48. file://localhost/wiki/Fruit
+  49. file://localhost/wiki/Honey
+  50. file://localhost/wiki/Kombucha
+  51. file://localhost/wiki/Wine
+  52. file://localhost/wiki/Food_additive
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_note-0
+  54. file://localhost/wiki/Acidity_regulator
+  55. file://localhost/wiki/Chelating_agent
+  56. file://localhost/wiki/Calcium
+  57. file://localhost/wiki/Iron
+  58. file://localhost/wiki/Aluminium
+  59. file://localhost/wiki/Calcium_gluconate
+  60. file://localhost/wiki/Hydrofluoric_acid
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_note-pmid2741315-1
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_note-pmid17091088-2
+  63. file://localhost/w/index.php?title=Gluconic_acid&action=edit&section=3
+  64. file://localhost/wiki/Wikipedia:Citing_sources
+  65. file://localhost/wiki/Wikipedia:Verifiability
+  66. http://en.wikipedia.org/w/index.php?title=Gluconic_acid&action=edit
+  67. file://localhost/wiki/Wikipedia:Reliable_sources
+  68. file://localhost/wiki/Wikipedia:Verifiability
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_ref-0
+  70. http://www.food.gov.uk/safereating/chemsafe/additivesbranch/enumberlist
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_ref-pmid2741315_1-0
+  72. http://www.ncbi.nlm.nih.gov/pubmed/2741315
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc608.tmp.html#cite_ref-pmid17091088_2-0
+  74. file://localhost/wiki/Digital_object_identifier
+  75. http://www.ncbi.nlm.nih.gov/pubmed/17091088
+  76. file://localhost/w/index.php?title=Gluconic_acid&action=edit&section=4
+  77. http://webbook.nist.gov/cgi/cbook.cgi?Name=Gluconic+acid&Units=SI
+  78. http://en.wikipedia.org/wiki/Gluconic_acid
+  79. file://localhost/wiki/Special:Categories
+  80. file://localhost/wiki/Category:Carboxylic_acids
+  81. file://localhost/wiki/Category:Food_additives
+  82. file://localhost/wiki/Category:Chelating_agents
+  83. file://localhost/wiki/Category:Sugar_acids
+  84. file://localhost/wiki/Category:Pages_with_DOIs_broken_since_2008
+  85. file://localhost/wiki/Category:Articles_lacking_sources_from_September_2007
+  86. file://localhost/wiki/Category:All_articles_lacking_sources
+  87. file://localhost/wiki/Gluconic_acid
+  88. file://localhost/wiki/Talk:Gluconic_acid
+  89. file://localhost/w/index.php?title=Gluconic_acid&action=edit
+  90. file://localhost/w/index.php?title=Gluconic_acid&action=history
+  91. file://localhost/w/index.php?title=Special:UserLogin&returnto=Gluconic_acid
+  92. file://localhost/wiki/Main_Page
+  93. file://localhost/wiki/Portal:Contents
+  94. file://localhost/wiki/Portal:Featured_content
+  95. file://localhost/wiki/Portal:Current_events
+  96. file://localhost/wiki/Special:Random
+  97. file://localhost/wiki/Wikipedia:About
+  98. file://localhost/wiki/Wikipedia:Community_portal
+  99. file://localhost/wiki/Special:RecentChanges
+ 100. file://localhost/wiki/Wikipedia:Contact_us
+ 101. http://wikimediafoundation.org/wiki/Donate
+ 102. file://localhost/wiki/Help:Contents
+ 103. file://localhost/wiki/Special:WhatLinksHere/Gluconic_acid
+ 104. file://localhost/wiki/Special:RecentChangesLinked/Gluconic_acid
+ 105. file://localhost/wiki/Wikipedia:Upload
+ 106. file://localhost/wiki/Special:SpecialPages
+ 107. file://localhost/w/index.php?title=Gluconic_acid&printable=yes
+ 108. file://localhost/w/index.php?title=Gluconic_acid&oldid=265738562
+ 109. file://localhost/w/index.php?title=Special:Cite&page=Gluconic_acid&id=265738562
+ 110. http://de.wikipedia.org/wiki/Glucons%C3%A4ure
+ 111. http://fr.wikipedia.org/wiki/Acide_gluconique
+ 112. http://it.wikipedia.org/wiki/Acido_gluconico
+ 113. http://hu.wikipedia.org/wiki/Gl%C3%BCkonsav
+ 114. http://pl.wikipedia.org/wiki/Kwas_glukonowy
+ 115. http://pt.wikipedia.org/wiki/Gluconato
+ 116. http://sv.wikipedia.org/wiki/Glukonsyra
+ 117. http://vi.wikipedia.org/wiki/Ax%C3%ADt_gluconic
+ 118. http://www.mediawiki.org/
+ 119. http://wikimediafoundation.org/
+ 120. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 121. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 122. http://www.wikimediafoundation.org/
+ 123. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 124. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 125. http://en.wikipedia.org/wiki/Non-profit_organization
+ 126. http://en.wikipedia.org/wiki/Charitable_organization
+ 127. http://wikimediafoundation.org/wiki/Privacy_policy
+ 128. file://localhost/wiki/Wikipedia:About
+ 129. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 130. file://localhost/wiki/File:Question_book-new.svg
+ 131. file://localhost/wiki/Main_Page
+ 132. http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%B3%E3%83%B3%E9%85%B8
+ 133. http://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%8E%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0

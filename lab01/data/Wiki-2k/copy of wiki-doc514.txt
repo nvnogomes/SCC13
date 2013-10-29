@@ -1,0 +1,2432 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dungeons & Dragons
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dungeon & Dragons)
+   Jump to: [7]navigation, [8]search
+   This article is about the role-playing game. For other uses, see
+   [9]Dungeons & Dragons (disambiguation).
+   "D&D" redirects here. For other uses, see [10]D&D (disambiguation).
+
+   CAPTION: Dungeons & Dragons
+
+   The 4th Edition Dungeons & Dragons logo
+   [11]Designer [12]Gary Gygax and [13]Dave Arneson
+   [14]Publisher [15]TSR, [16]Wizards of the Coast
+   Publication date 1974 (original); 1977 (D&D Basic Set 1st revision);
+   19771979 (AD&D); 1981 (D&D Basic Set 2nd revision); 19831986 (D&D Basic
+   Set 3rd revision); 1989 (AD&D 2nd Edition); 1991 (D&D Rules
+   Cyclopedia); 2000 (D&D 3rd edition); 2003 (D&D v.3.5); 2008 (D&D 4th
+   edition)
+   Years active 1974-present
+   Genre(s) [17]Fantasy
+   System Dungeons & Dragons; [18]d20 System
+   Playing time Varies
+   Random chance [19]Dice rolling
+   [20]Website [21]http://www.wizards.com/dnd
+
+   Dungeons & Dragons (abbreviated as D&D or DnD)^[22][1] is a [23]fantasy
+   [24]role-playing game (RPG) originally designed by [25]Gary Gygax and
+   [26]Dave Arneson, and first published in 1974 by [27]Tactical Studies
+   Rules, Inc. (TSR). The game is currently published by [28]Wizards of
+   the Coast, a subsidiary of [29]Hasbro. It was derived from
+   [30]miniature wargames with a variation of the [31]Chainmail game
+   serving as the initial rule system.^[32][2] D&D's publication is widely
+   regarded as the beginning of modern role-playing games and, by
+   extension, the entire role-playing game industry.^[33][3]
+
+   Players of D&D create [34]characters that embark upon imaginary
+   adventures within a fantasy [35]setting. A [36]Dungeon Master
+   (abbreviated as DM, also known as a Game Master or GM) serves as the
+   game's referee and storyteller, while also maintaining the setting in
+   which the adventures occur. During each game session, the players
+   listen to descriptions of their character's surroundings, as well as
+   additional information and potential choices from the DM, then describe
+   their actions in response. The characters form a party that interacts
+   with the setting's inhabitants (and each other). Together they solve
+   dilemmas, engage in battles and gather treasure and knowledge.^[37][3]
+   In the process the characters earn [38]experience points to become
+   increasingly powerful over a series of sessions. D&D departs from
+   traditional wargaming and assigns each player a specific [39]character
+   to play instead of a [40]military formation. Miniature figures or
+   markers, placed on a grid, are sometimes used to represent these
+   characters.
+
+   The early success of Dungeons & Dragons led to a proliferation of
+   similar game systems, such as [41]Tunnels and Trolls,^[42][4]
+   [43]Traveller and [44]RuneQuest.^[45][5] Despite this competition, D&D
+   dominates the role-playing game industry, enjoying a nearly
+   unassailable market position.^[46][6] In 1977, the game was split into
+   two versions: the simpler Dungeons & Dragons and the more complex
+   [47]Advanced Dungeons & Dragons (abbreviated as AD&D or
+   ADnD).^[48][1]^[49][7] AD&D 2nd Edition was published in 1989. In 2000,
+   the simpler version of the game was discontinued and the complex
+   version was renamed simply Dungeons & Dragons with the release of its
+   3rd edition.^[50][8] Dungeons & Dragons version 3.5 was released in
+   June 2003, with a 4th edition in June 2008.^[51][9]
+
+   As of 2006, Dungeons & Dragons remains the best-known^[52][10] and
+   best-selling^[53][11] role-playing game, with an estimated 20 million
+   people having played the game and more than [54]US$1 billion in book
+   and equipment sales.^[55][12] Dungeons & Dragons is known beyond the
+   game for other [56]D&D-branded products, [57]references in popular
+   culture and some of the [58]controversies that have surrounded it,
+   particularly a [59]moral panic in the 1980s falsely linking it to
+   [60]Satanism and [61]suicide.^[62][13]
+
+Contents
+
+     * [63]1 Play overview
+          + [64]1.1 Game mechanics
+          + [65]1.2 Adventures, campaigns and modules
+          + [66]1.3 Miniature figures
+     * [67]2 Game history
+          + [68]2.1 Sources and influences
+          + [69]2.2 Edition history
+               o [70]2.2.1 Two-pronged strategy
+               o [71]2.2.2 Revised editions
+               o [72]2.2.3 Wizards of the Coast
+          + [73]2.3 Acclaim and influence
+          + [74]2.4 Licensing
+          + [75]2.5 Controversy and notoriety
+     * [76]3 Related products
+     * [77]4 References in popular culture
+     * [78]5 See also
+     * [79]6 Notes
+     * [80]7 References
+          + [81]7.1 Unknown author
+     * [82]8 Further reading
+     * [83]9 External links
+
+[[84]edit] Play overview
+
+   A D&D game session in progress
+
+   Dungeons & Dragons is a structured yet open-ended role-playing game. It
+   is normally played indoors with the participants seated around a
+   table-top. Typically, each player controls only a single character,
+   which represents an individual in a fictional
+   setting.^[85][14]^[86][15] As a group, these [87]player characters
+   (PCs) are often described as a party of adventurers, with each member
+   often having his or her own areas of specialty.^[88][16] During the
+   course of play, each player directs the actions of his or her character
+   and its interactions with the other characters in the
+   game.^[89][17]^[90][18] A game often continues over a series of
+   meetings to complete a single [91]adventure, and longer into a series
+   of related gaming adventures, called a [92]campaign.^[93][19]
+
+   The results of the party's choices and the overall storyline for the
+   game are determined by the [94]Dungeon Master (DM) according to the
+   rules of the game and the DM's interpretation of those rules.^[95][20]
+   The DM selects and describes the various [96]non-player characters
+   (NPCs) the party encounters, the settings in which these interactions
+   occur, and the outcomes of those encounters based on the players'
+   choices and actions.^[97][21]^[98][18] Encounters often take the form
+   of battles with '[99]monsters'a generic term used in D&D to describe
+   potentially hostile beings such as animals or mythical creatures. The
+   game's extensive ruleswhich cover diverse subjects such as social
+   interactions,^[100][22] [101]magic use,^[102][23]
+   [103]combat,^[104][24] and the effect of [105]the environment on
+   PCs^[106][25]help the DM to make these decisions. The Dungeon Master
+   may choose to deviate from the published rules^[107][20] or make up new
+   ones as he or she feels necessary.^[108][26]
+   Release 3.5 of the three core rulebooks
+
+   The most recent versions of the game's rules are detailed in three
+   [109]core rulebooks: The [110]Player's Handbook, the [111]Dungeon
+   Master's Guide and the [112]Monster Manual. A [113]Basic Game boxed set
+   contains abbreviated rules to help beginners learn the game.^[114][27]
+
+   The only items required to play the game are the rulebooks, a character
+   sheet for each player and a number of [115]polyhedral dice. The current
+   editions also assume, but do not require, the use of [116]miniature
+   figures or markers on a gridded surface. Earlier editions did not make
+   this assumption.^[117][28] Many optional accessories are available to
+   enhance the game, such as expansion rulebooks, pre-designed
+   [118]adventures and various [119]campaign settings.^[120][29]
+
+[[121]edit] Game mechanics
+
+          Main article: [122]Dungeons & Dragons game mechanics
+          Main article: [123]Character class (Dungeons & Dragons)
+
+   D&D uses [124]polyhedral [125]dice to resolve random events. These are
+   abbreviated as a 'd' followed by the number of sides. From left, d4,
+   d6, d8, d12, d20 and two d10, the last of which are used together as a
+   d100, d%, or percentile die.
+
+   Before the game begins, each player [126]creates his or her player
+   character and records the details (described below) on a [127]character
+   sheet. First, a player determines his or her character's [128]ability
+   scores,^[129][30] which consist of Strength, Constitution, Dexterity,
+   Intelligence, Wisdom, and Charisma. Each edition of the game has
+   offered differing methods of determining these statistics; as of 4th
+   Edition, players generally assign their ability scores from a list or
+   use points to "buy" them.^[130][31] The player then chooses a [131]race
+   (species) such as Human or Elf, a [132]character class (occupation)
+   such as Fighter or Wizard, an [133]alignment (a moral and ethical
+   outlook which may have a Good or Evil component, a Lawful or Chaotic
+   component, or something in between), and a number of powers, skills and
+   feats to enhance the character's basic abilities.^[134][32] Additional
+   [135]background history, not covered by specific rules, is often also
+   used to further develop the character.^[136][33]
+
+   During the game, players describe their PC's intended actions, such as
+   punching an opponent or picking a lock, and converse with the DM
+   [137]in characterwho then describes the result or response.^[138][34]
+   Trivial actions, such as picking up a letter or opening an unlocked
+   door, are usually automatically successful. The outcomes of more
+   complex or risky actions are determined by rolling dice.^[139][18]
+   Factors contributing to the outcome include the character's ability
+   scores, skills and the difficulty of the task.^[140][35] In
+   circumstances where a character does not have control of an event, such
+   as when a trap or magical effect is triggered or a spell is cast, a
+   [141]saving throw can be used to determine whether the resulting damage
+   is reduced or avoided.^[142][36]^[143][37] In this case the odds of
+   success are influenced by the character's class, levels and (with the
+   3rd edition) ability scores.^[144][36]^[145][38]
+
+   As the game is played, each PC changes over time and generally
+   increases in capability. Characters gain (or sometimes lose)
+   experience, skills^[146][39] and wealth, and may even alter their
+   alignment^[147][40] or add additional character classes.^[148][41] The
+   key way characters progress is by earning [149]experience points
+   (XP/EXP), which happens when they defeat an enemy or accomplish a
+   difficult task.^[150][42] Acquiring enough XP allows a PC to advance a
+   [151]level, which grants the character improved class features,
+   abilities and skills.^[152][43] XP can also be lost in some
+   circumstances, such as encounters with creatures that drain life
+   energy, or by use of certain magical powers that require payment of an
+   XP cost.^[153][44]
+
+   [154]Hit points (HP) are a measure of a character's vitality and health
+   and are determined by the class, level and constitution of each
+   character. They can be temporarily lost when a character sustains
+   wounds in combat or otherwise comes to harm, and loss of HP is the most
+   common way for a character to die in the game.^[155][45] Death can also
+   result from the loss of key ability scores^[156][46] or character
+   levels.^[157][47] When a PC dies, it is often possible for the dead
+   character to be resurrected through magic, although some penalties may
+   be imposed as a result. If resurrection is not possible or not desired,
+   the player may instead create a new PC to resume playing the
+   game.^[158][48]
+
+[[159]edit] Adventures, campaigns and modules
+
+          Main article: [160]Adventure (Dungeons & Dragons)
+
+   A typical Dungeons & Dragons game consists of an 'adventure', which is
+   roughly equivalent to a single story.^[161][49] The DM can either
+   design an adventure on his or her own, or follow one of the many
+   additional [162]pre-made adventures (previously known as "modules")
+   that have been published throughout the history of Dungeons & Dragons.
+   Published adventures typically include a background story,
+   illustrations, maps and goals for PCs to achieve. Some also include
+   location descriptions and handouts. Although a small adventure entitled
+   '[163]Temple of the Frog' was included in the [164]Blackmoor rules
+   supplement in 1975, the first stand-alone D&D module published by TSR
+   was 1978s [165]Steading of the Hill Giant Chief, written by Gygax.
+
+   A linked series of adventures is commonly referred to as a
+   '[166]campaign'.^[167][50] The locations where these adventures occur,
+   such as a city, country, planet or an entire [168]fictional universe,
+   are also sometimes called 'campaigns' but are more correctly referred
+   to as 'worlds' or '[169]campaign settings'.^[170][51] D&D settings are
+   based in various [171]fantasy subgenres and feature varying levels of
+   magic and technology.^[172][52] Popular commercially published
+   [173]campaign settings for Dungeons & Dragons include [174]Greyhawk,
+   [175]Dragonlance, [176]Forgotten Realms, [177]Mystara,
+   [178]Spelljammer, [179]Ravenloft, [180]Dark Sun, [181]Planescape,
+   [182]Birthright and [183]Eberron.^[184][53] Alternatively, DMs may
+   develop their own fictional worlds to use as campaign settings.
+   Several Dungeons & Dragons miniature figures. The grid mat underneath
+   uses one-inch squares.
+
+[[185]edit] Miniature figures
+
+   The [186]wargames from which Dungeons & Dragons evolved used
+   [187]miniature figures to represent combatants. D&D initially continued
+   the use of miniatures in a fashion similar to its direct precursors.
+   The original D&D set of 1974 required the use of the Chainmail
+   miniatures game for combat resolution.^[188][54] By the publication of
+   the 1977 game editions, combat was mostly resolved verbally. Thus
+   miniatures were no longer required for game play, although some players
+   continued to use them as a visual reference.^[189][55]
+
+   In the 1970s, numerous companies began to sell miniature figures
+   specifically for Dungeons & Dragons and similar games. Licensed
+   [190]miniature manufacturers who produced official figures include
+   [191]Grenadier Miniatures (19801983),^[192][56] [193]Citadel Miniatures
+   (19841986),^[194][57] [195]Ral Partha,^[196][58] and TSR
+   itself.^[197][59] Most of these miniatures used the 25 [198]mm scale,
+   with the exception of Ral Parthas 15 mm scale miniatures for the 1st
+   edition Battlesystem.^[199][60]^[200][61]
+
+   Periodically, Dungeons & Dragons has returned to its wargaming roots
+   with supplementary rules systems for miniatures-based wargaming.
+   Supplements such as [201]Battlesystem (1985 & 1989) and a new edition
+   of [202]Chainmail (2001)^[203][62] provided rule systems to handle
+   battles between armies by using miniatures.
+
+   Dungeons and Dragons 3rd Edition (2000) assumes the use of
+   [204]miniatures to represent combat situations in play, an aspect of
+   the game that was further emphasized in the v3.5 revision. The
+   [205]Dungeons & Dragons Miniatures Game (2003) is sold as sets of
+   plastic, randomly assorted, pre-painted miniatures, and can be used as
+   either part of a standard Dungeons & Dragons game or as a stand-alone
+   [206]collectible miniatures game.^[207][63]
+
+[[208]edit] Game history
+
+[[209]edit] Sources and influences
+
+          Main article: [210]Sources and influences on the development of
+          Dungeons & Dragons
+
+   The immediate predecessor of Dungeons & Dragons was a set of medieval
+   miniature rules written by Jeff Perren. These were expanded by
+   [211]Gary Gygax, whose additions included a fantasy supplement, before
+   the game was published as [212]Chainmail. [213]Dave Arneson used
+   Chainmail to run games where players controlled a single character
+   instead of an army, an innovation that inspired D&D.^[214][2] Developed
+   with Arneson's help from his modified version of Chainmail for his
+   Blackmoor campaign,^[215][64] Gygax wrote "The Fantasy Game", the
+   role-playing game (RPG) that became Dungeons & Dragons
+   (D&D).^[216][1]^[217][65]
+
+   Many Dungeons & Dragons elements also appear in hobbies of the mid- to
+   late twentieth century (though these elements also existed previously).
+   Character-based role playing, for example, can be seen in
+   [218]improvisational theatre.^[219][66] Game-world simulations were
+   well-developed in [220]wargaming. Fantasy milieus specifically designed
+   for gaming could be seen in [221]Gloranthas board games among
+   others.^[222][5] Ultimately, however, Dungeons & Dragons represents a
+   unique blending of these elements.
+
+   The theme of D&D was influenced by [223]mythology, [224]pulp fiction,
+   and contemporary fantasy authors of the 1960s and 1970s. The presence
+   of [225]halflings, [226]elves, [227]dwarves, [228]half-elves,
+   [229]orcs, [230]dragons, and the like, often draw comparisons to the
+   work of [231]J.R.R. Tolkien. Gygax maintained that he was influenced
+   very little by [232]The Lord of the Rings (although the owners of that
+   works copyright forced the name changes of hobbit to 'halfling', ent to
+   'treant', and balrog to 'Type VI demon [balor]'), stating that he
+   included these elements as a marketing move to draw on the popularity
+   of the work.^[233][67]^[234][68]
+
+   The magic system, in which wizards memorize spells that are used up
+   once cast (and must be re-memorized the next day), was heavily
+   influenced by the [235]Dying Earth stories and novels of [236]Jack
+   Vance.^[237][69] The original alignment system (which grouped all
+   players and creatures into Law, Neutrality and Chaos) was derived from
+   the novel [238]Three Hearts and Three Lions by [239]Poul
+   Anderson.^[240][70] A troll described in this work also influenced the
+   D&D definition of that monster.^[241][68]
+
+   Other influences include the works of [242]Robert E. Howard, [243]Edgar
+   Rice Burroughs, [244]A. Merritt, [245]H. P. Lovecraft, [246]Fritz
+   Leiber, [247]L. Sprague de Camp, [248]Fletcher Pratt, [249]Roger
+   Zelazny, and [250]Michael Moorcock.^[251][71] Monsters, spells, and
+   magic items used in the game have been inspired by hundreds of
+   individual works ranging from [252]A. E. van Vogts Black Destroyer,
+   [253]Coeurl (the [254]Displacer Beast), [255]Lewis Carrolls
+   [256]Jabberwocky ([257]vorpal sword) to the [258]Book of Genesis (the
+   clerical spell Blade Barrier was inspired by the flaming sword which
+   turned every way at the gates of [259]Eden).^[260][70]
+
+[[261]edit] Edition history
+
+          Main article: [262]Editions of Dungeons & Dragons
+
+   Dungeons & Dragons has gone through several revisions. Parallel
+   versions and inconsistent naming practices can make it difficult to
+   distinguish between the different editions.
+   The original Dungeons & Dragons set.
+
+   The [263]original Dungeons and Dragons, now referred to as OD&D was a
+   small box set of three booklets published in 1974. It was amateurish in
+   production and written from a perspective that assumed the reader was
+   familiar with wargaming. Nevertheless it exploded in popularity, first
+   among wargamers and then expanding to a more general audience of
+   [264]college and [265]high school students. This first set went through
+   many printings and was supplemented with several official additions,
+   such as the original [266]Greyhawk and [267]Blackmoor supplements (both
+   1975)^[268][72], as well as magazine articles in TSRs official
+   publications and countless [269]fanzines.
+
+[[270]edit] Two-pronged strategy
+
+   In 1977, TSR created the first element of a two-pronged strategy that
+   would divide the D&D game for over two decades. A [271]Basic Dungeons &
+   Dragons boxed set was introduced^[272][65] to clean up the presentation
+   of the essential rules, make the system understandable to the general
+   public, and placed in a package that could be stocked in toy stores. In
+   1978 Advanced Dungeons & Dragons (AD&D) was published,^[273][65] which
+   brought together the various published rules, options and corrections,
+   then expanded them into a definitive, unified game for hobbyist gamers.
+   The basic set directed players who exhausted the possibilities of that
+   game to switch to the advanced rules.
+
+   Unfortunately, almost from its inception, differences of design
+   philosophy caused this dual marketing approach to go awry. Gygax, who
+   wrote the advanced game, wanted an expansive game with rulings on any
+   conceivable situation which might come up during play. J. Eric Holmes,
+   the editor of the basic game, preferred a lighter tone with more room
+   for personal improvisation. As a result, the basic game included many
+   rules and concepts which contradicted comparable ones in the advanced
+   game. Confusing matters further, the original D&D boxed set remained in
+   publication until 1979, since it remained a healthy seller for
+   TSR.^[274][5]
+
+   Advanced Dungeons & Dragons was designed to create a tighter, more
+   structured game system than the loose framework of the original
+   game.^[275][7] While seen by many as a revision of D&D,^[276][8] AD&D
+   was at the time declared to be "neither an expansion nor a revision of
+   the old game, it is a new game".^[277][7] The AD&D game was not
+   intended to be directly compatible with D&D and it required some
+   conversion to play between the rule sets.^[278][73] The term Advanced
+   described the more complex rules and did not imply "for higher-level
+   gaming abilities". Between 1977 and 1979, three hardcover rulebooks,
+   commonly referred to as the 'core rulebooks', were released: the
+   [279]Players Handbook (PHB), the [280]Dungeon Masters Guide (DMG), and
+   the [281]Monster Manual (MM). Several supplementary books were
+   published throughout the 1980s, notably [282]Unearthed Arcana (1985)
+   that included a large number of new rules.^[283][65]
+
+[[284]edit] Revised editions
+
+   In 1981 Basic Dungeons & Dragons was revised by Tom Moldvay. However,
+   the rules for the Dungeons & Dragons game continued to diverge and it
+   became a separate and distinct product from TSRs flagship game, AD&D.
+   This game was promoted as a continuation of the original D&D tone,
+   whereas AD&D was an advancement of the mechanics.^[285][7] Although
+   simpler overall than the 'Advanced' game, it included rules for some
+   situations not covered in AD&D. There were five sets: Basic (1977,
+   revised in 1981 and again in 1983), Expert (1981, revised in 1983),
+   Companion (1983), Master (1985), and Immortals (1986, revised in 1991).
+   Each set covered game play for more powerful characters than the
+   previous.^[286][74] The first four sets were later compiled as a single
+   hardcover book, the [287]Dungeons & Dragons Rules Cyclopedia (1991).
+   First edition Advanced Dungeons & Dragons Dungeon Masters Guide.
+
+   Advanced Dungeons & Dragons 2nd Edition, sometimes referred to as AD&D2
+   or 2nd Ed, was published in 1989,^[288][65] again as three core
+   rulebooks; the primary designer was [289]David "Zeb" Cook. The Monster
+   Manual was replaced by the [290]Monstrous Compendium, a loose-leaf
+   binder that was replaced by the hardcover [291]Monstrous Manual in
+   1993. In 1995, the core rulebooks were slightly revised, although still
+   referred to by TSR as the 2nd Edition,^[292][75] and a series of
+   Players Option manuals were released as optional core
+   rulebooks.^[293][65]
+
+   The release of AD&D2 deliberately excluded some aspects of the game
+   that had attracted negative publicity. References to demons and devils,
+   sexually suggestive artwork, and playable, evil-aligned character
+   typessuch as assassins and half-orcswere removed.^[294][76] The edition
+   moved away from a theme of 1960's and 1970's "sword and sorcery"
+   fantasy fiction to a mixture of medieval history and
+   mythology.^[295][77] The rules underwent minor changes, including the
+   addition of non-weapon proficienciesskill-like abilities that
+   originally appeared in 1st Edition supplements. The game's magic spells
+   were divided into schools and spheres.^[296][1] A major difference was
+   the promotion of various game settings beyond that of traditional
+   fantasy. This included blending fantasy with other genres, such as
+   horror (Ravenloft), science fiction (Spelljammer), and apocalyptic
+   (Dark Sun), as well as alternative historical and non-European
+   mythological settings.^[297][78]
+
+[[298]edit] Wizards of the Coast
+
+   In 1997, a near-bankrupt TSR was purchased by [299]Wizards of the
+   Coast. Following three years of development, Dungeons & Dragons 3rd
+   Edition was released in 2000.^[300][79] This game is referred to as
+   D&D3 or 3E and is not to be confused with the 1983 edition of the basic
+   D&D game. The new release folded the Basic and Advanced lines back into
+   a single unified game. It was the largest revision of the D&D rules to
+   date, and also served as the basis for a multi-genre role-playing
+   system designed around 20-sided dice, called the [301]d20
+   System.^[302][80] The 3rd Edition rules were designed to be internally
+   consistent and less restrictive than previous editions of the game,
+   allowing players more flexibility to create the characters they wanted
+   to play.^[303][81] Skills and feats were introduced into the core rules
+   to encourage further customization of characters.^[304][82] The new
+   rules also standardized the mechanics of action resolution and
+   combat.^[305][83]
+
+   In 2003, Dungeons & Dragons v.3.5, also known as Revised 3rd Edition or
+   D&D3.5, was released as a revision of the 3rd Edition rules. This
+   release incorporated hundreds of rule changes, mostly minor, and
+   expanded the core rulebooks.^[306][83]
+
+   In early 2005 Wizards of the Coast's R&D team started to develop
+   Dungeons & Dragons 4th Edition, prompted mainly by the feedback
+   obtained from the D&D playing community and a desire to make the game
+   faster, more intuitive and a better play experience than it was under
+   3rd Edition. The new game was developed through a number of design
+   phases spanning from May 2005 until its release.^[307][84]
+
+   Dungeons & Dragons 4th Edition was announced at [308]Gen Con in August
+   2007, and the initial three core books were released June 6,
+   2008.^[309][9] 4th Edition streamlined the game into a simplified form
+   and introduced numerous rules changes. Many character abilities were
+   restructured into 'Powers'. These altered the spell-using classes by
+   adding abilities that could be used at will, per encounter or per day.
+   Likewise, non-magic-using classes were provided with parallel sets of
+   options. Wizards of the Coast is releasing other supplementary material
+   virtually through their website,^[310][85]^[311][86] including the
+   capability for online play via a virtual 3-D tabletop.^[312][87]
+
+[[313]edit] Acclaim and influence
+
+   Beginning with a [314]French language edition in 1982, Dungeons &
+   Dragons has been translated into many languages besides the original
+   English.^[315][65]^[316][1] By 2004, more than US$1 billion has been
+   spent on Dungeons & Dragons products, and the game has been played by
+   more than 20 million people.^[317][12] As many as 6 million people
+   played the game in 2007.^[318][87]
+
+   The various editions of Dungeons & Dragons have won many [319]Origins
+   Awards, including All Time Best Roleplaying Rules of 1977, Best
+   Roleplaying Rules of 1989 and Best Roleplaying Game of 2000 for the
+   three flagship editions of the game.^[320][88] Both Dungeons & Dragons
+   and Advanced Dungeons & Dragons are Origins Hall of Fame Games
+   inductees as they were deemed sufficiently distinct to merit separate
+   inclusion on different occasions.^[321][89] The independent [322]Games
+   magazine placed Dungeons & Dragons on their Games 100 list from 1980
+   through 1983, then entered the game into the magazines Hall of Fame in
+   1984.^[323][90]^[324][91]
+
+   Dungeons & Dragons was the first modern role-playing game and it
+   established many of the conventions that have dominated the
+   genre.^[325][92] Particularly notable are the use of [326]dice as a
+   [327]game mechanic, [328]character record sheets, use of [329]numerical
+   attributes and gamemaster-centered group dynamics.^[330][93] Within
+   months of Dungeons & Dragonss release, new role-playing game writers
+   and publishers began releasing their own role-playing games, with most
+   of these being in the fantasy genre. Some of the earliest other
+   role-playing games inspired by D&D include [331]Tunnels and Trolls
+   (1975),^[332][4] [333]Empire of the Petal Throne (1975) and
+   [334]Chivalry and Sorcery (1976).^[335][94]
+
+   The role-playing movement initiated by D&D would lead to release of the
+   science fiction game [336]Traveller (1977) and fantasy game
+   [337]RuneQuest (1978), and subsequent game systems such as
+   [338]Chaosiums [339]Call of Cthulhu (1981), [340]Champions (1982),
+   [341]GURPS (1986)^[342][95] and [343]Vampire: The Masquerade
+   (1992).^[344][96]^[345][5] Dungeons & Dragons and the games it
+   influenced also fed back into the genres originminiatures wargameswith
+   combat strategy games like [346]Warhammer Fantasy Battles.^[347][97]
+   D&D also had a large impact on modern [348]video games.^[349][98]
+
+   Director [350]Jon Favreau credits Dungeons & Dragons with giving him
+   "...a really strong background in imagination, storytelling,
+   understanding how to create tone and a sense of balance."^[351][99]
+
+[[352]edit] Licensing
+
+   Further information: [353]Variant Dungeons & Dragons games
+
+   Early in the games history, TSR took no action against small
+   publishers' production of D&D compatible material. This attitude
+   changed in the mid 1980s when TSR revoked these rights (even from
+   publishers they had earlier officially licensed, such as [354]Judges
+   Guild),^[355][100] and took legal action to prevent others from
+   publishing compatible material. This angered many fans and led to
+   resentment by the other gaming companies.^[356][5] TSR itself also ran
+   afoul of intellectual property law in several
+   cases.^[357][101]^[358][102]
+
+   With the launch of Dungeons & Dragonss [359]3rd Edition, Wizards of the
+   Coast made the [360]d20 System available under the [361]Open Game
+   License (OGL) and [362]d20 Trademark License. Under these licenses,
+   authors are free to use the d20 System when writing games and game
+   supplements.^[363][103] The OGL and d20 Trademark License also made
+   possible new games, some based on licensed products like [364]Star
+   Wars, and also new versions of older games, such as [365]Call of
+   Cthulhu.
+
+   During the 2000s, there has been a trend towards recreating older
+   editions of D&D. [366]Necromancer Games, with its slogan "Third Edition
+   Rules, First Edition Feel"^[367][104] and Goodman Games Dungeon Crawl
+   Classics range^[368][105] are both examples of this in material for d20
+   System. Other companies have created complete game systems based on
+   earlier editions of D&D. An example is [369]HackMaster (2001) by
+   [370]Kenzer and Company, a licensed, non-OGL, semi-satirical follow-on
+   to 1st and 2nd Edition.^[371][106] [372]Castles & Crusades (2005), by
+   Troll Lord Games, is a reimagining of early editions by streamlining
+   rules from OGL^[373][107] that was supported by [374]Gary Gygax prior
+   to his death.^[375][108]
+
+   With the release of the fourth edition, Wizards of the Coast has
+   introduced its [376]Game System License, which represents a significant
+   restriction compared with the very open policies embodied by the OGL.
+   In part as a response to this, some publishers (such as [377]Paizo
+   Publishing with its [378]Pathfinder RPG) who previously produced
+   materials in support of the D&D product line, have made the decision to
+   continue supporting the 3rd Edition rules, thereby competing directly
+   with Wizards of the Coast.^[379][109]^[380][110]
+
+[[381]edit] Controversy and notoriety
+
+          Main article: [382]Dungeons & Dragons controversies
+
+   At various times in its history, Dungeons & Dragons has received
+   negative publicity, in particular from some [383]Christian groups, for
+   alleged promotion of such practices as [384]devil worship,
+   [385]witchcraft, [386]suicide, and [387]murder, and for naked
+   [388]breasts in drawings of female humanoids in the original AD&D
+   manuals (mainly monsters such as [389]Harpies, [390]Succubi,
+   etc.).^[391][13]^[392][111] These controversies led TSR to remove many
+   potentially controversial references and artwork when releasing the 2nd
+   Edition of AD&D.^[393][76] Many of these references, including the use
+   of the names [394]devils and [395]demons, were reintroduced in the 3rd
+   edition.^[396][112] The [397]moral panic over the game also led to
+   problems for fans of D&D who faced further social ostracism, unfair
+   treatment and false association with the occult and [398]Satanism,
+   regardless of an individual fans actual religious affiliation and
+   beliefs.^[399][113]
+
+   Dungeons & Dragons has also been the subject of rumors regarding
+   players having difficulty separating fantasy and reality, even leading
+   to [400]psychotic episodes.^[401][114] The most notable of these was
+   the saga of [402]James Dallas Egbert III,^[403][115] which was
+   fictionalized in the novel [404]Mazes and Monsters and later made into
+   a [405]TV movie.^[406][116]^[407][111] The game was also blamed for
+   some of the actions of [408]Chris Pritchard, who was convicted in 1990
+   of murdering his stepfather. Research by various
+   psychologists,^[409][117] the first being that of Armando Simon, have
+   concluded that no harmful effects are related to the playing of
+   D&D.^[410][118]
+
+   The games commercial success was a factor that led to [411]lawsuits
+   regarding distribution of [412]royalties between original creators
+   Gygax and Arneson.^[413][119]^[414][120] Gygax later became embroiled
+   in a political struggle for control of TSR which culminated in a court
+   battle and Gygaxs decision to sell his ownership interest in the
+   company in 1985.^[415][121]
+
+[[416]edit] Related products
+
+          Main article: [417]Dungeons & Dragons related products
+
+   An elaborate example of a D&D game in progress. Among the gaming aids
+   shown are dice, a variety of miniatures and some miniature scenery.
+
+   D&Ds commercial success has led to many other related products,
+   including [418]Dragon Magazine, [419]Dungeon Magazine, an [420]animated
+   television series, a [421]film series, an [422]official role-playing
+   soundtrack and [423]computer games such as the [424]MMORPG
+   [425]Dungeons & Dragons Online: Stormreach. Hobby and toy stores sell
+   [426]dice, [427]miniatures, [428]adventures and other game aids related
+   to D&D and its game offspring.
+
+[[429]edit] References in popular culture
+
+          Main article: [430]Dungeons & Dragons in popular culture
+
+   As the popularity of D&D grew throughout the late 1970s and 1980s, the
+   game was referenced more and more in popular culture. Numerous games,
+   films and cultural references based on D&D or D&D-like fantasies,
+   characters or adventures have been ubiquitous since the end of the
+   1970s. Typically, though by no means exclusively, D&D players are
+   portrayed derogatively as the epitome of [431]geekdom.^[432][122]
+   References to the game are used as shorthand to establish
+   characterization or provide the punch line of a
+   joke.^[433][123]^[434][124] Famous D&D players include professional
+   basketball player [435]Tim Duncan, comedian [436]Stephen Colbert,
+   musician [437]Moby, and actors [438]Vin Diesel, [439]Matthew Lillard,
+   [440]Mike Myers, [441]Patton Oswalt, [442]Wil Wheaton and [443]Robin
+   Williams.^[444][125]^[445][126]^[446][127]^[447][128]^[448][129]^[449][
+   130]
+
+[[450]edit] See also
+
+   [451]Dungeons & Dragons portal
+     * [452]Category:Dungeons & Dragons creatures
+     * [453]Spells of Dungeons & Dragons
+     * [454]D&D Championship Series
+
+[[455]edit] Notes
+
+    1. ^ [456]^a [457]^b [458]^c [459]^d [460]^e Mead, Malcomson; Dungeons
+       & Dragons FAQ
+    2. ^ [461]^a [462]^b Birnbaum; Gary Gygax Interview
+    3. ^ [463]^a [464]^b Williams, Hendricks, Winkler; Gaming as Culture,
+       introduction
+    4. ^ [465]^a [466]^b Schick; Heroic Worlds, pp. 223-244
+    5. ^ [467]^a [468]^b [469]^c [470]^d [471]^e Schick; Heroic Worlds,
+       pp. 17-34
+    6. [472]^ "Frankly, the difference in sales between Wizards and all
+       other producers of roleplaying games is so staggering that even
+       saying there is an 'RPG industry' at all may be generous." (Cook;
+       The Open Game License as I see it)
+    7. ^ [473]^a [474]^b [475]^c [476]^d Gygax; "From the Sorcerer's
+       Scroll" in The Dragon #26
+    8. ^ [477]^a [478]^b Johnson, et al; 30 Years of Adventure, p. 253
+    9. ^ [479]^a [480]^b Slavicsek; Ampersand: Exciting News!
+   10. [481]^ According to a 1999 survey in the [482]United States, 6% of
+       12- to 35-year-olds have played role-playing games. Of those who
+       play regularly, two thirds play D&D. (Dancey; Adventure Game
+       Industry Market Research Summary)
+   11. [483]^ Products branded Dungeons & Dragons made up over fifty
+       percent of the RPG products sold in 2005. (Hite; State of the
+       Industry 2005)
+   12. ^ [484]^a [485]^b Waters; What happened to Dungeons and Dragons?
+   13. ^ [486]^a [487]^b Waldron; Role-Playing Games and the Christian
+       Right
+   14. [488]^ Sometimes, if there are not enough players, one may control
+       multiple characters. The [489]Basic Game suggests, If there are
+       characters left over, some players may play more than one (but they
+       don't have to). (Tweet; Dungeons & Dragons Basic Game).
+   15. [490]^ Waskul, Lust; "Role-Playing and Playing Roles" in Caliber 27
+       (3)
+   16. [491]^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 268
+   17. [492]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 5
+   18. ^ [493]^a [494]^b [495]^c Willaims, Hendriks, Winkler; Gaming as
+       Culture, "The Role-Playing Game and the Game of Role-Playing"
+   19. [496]^ "Encounters are to adventures what adventures are to
+       campaigns" (Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p.
+       129)
+   20. ^ [497]^a [498]^b Cook, Williams, Tweet; Dungeon Master's Guide
+       v3.5., p. 4
+   21. [499]^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 293
+   22. [500]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 98
+   23. [501]^ Gygax; Dungeon Masters Guide p. 114
+   24. [502]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 114
+   25. [503]^ Mohan; Wilderness Survival Guide
+   26. [504]^ Tweet; Dungeons & Dragons Basic game p. 32
+   27. [505]^ As of 2007 there have been two version of the basic game.
+       Both contained a cut down, introductory version of the D&D v.3.5
+       rules, [506]miniatures, [507]dice and dungeon map tiles with a
+       1[508]" grid (Tweet; Dungeons & Dragons Basic Game and Slavicsek,
+       Sernett, Dungeons & Dragons Basic Game
+   28. [509]^ Wizards of the Coast; What is D&D?
+   29. [510]^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 363
+   30. [511]^ While the original game used 3d6 (Gygax, Arneson; Dungeons &
+       Dragons) and this continued as the standard version with some
+       version, though variants have been included (Gygax; Dungeon Masters
+       Guide, p. 11), the standard for 3rd edition is "rolling four
+       six-sided dice, ignoring the lowest die, and totaling the other
+       three" (Tweet, Cook, Williams; Player's Handbook [3.0], p. 4).
+   31. [512]^ Given is the current standard order for ability scores, with
+       the three physical scores before the three mental scores. Before
+       2nd edition (AD&D) they were always ordered: Strength,
+       Intelligence, Wisdom, Dexterity, Constitution, and Charisma.
+   32. [513]^ Heinsoo, Collins, Wyatt; Player's Handbook p. 4
+   33. [514]^ Gygax; Player's Handbook, p. 34
+   34. [515]^ Tweet; Dungeons & Dragons Basic Game p. 24
+   35. [516]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 62
+   36. ^ [517]^a [518]^b Tweet, Cook, Williams; Player's Handbook v3.5, p.
+       136
+   37. [519]^ Generally, when you are subject to an unusual or magical
+       attack, you get a saving throw to avoid or reduce the effect. There
+       is identical language in sections titled Saving Throws in (Tweet
+       2000:119).
+   38. [520]^ Tweet, Cook, Williams; Player's Handbook (3.0), pp. 119120
+   39. [521]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 197
+   40. [522]^ Early editions did not allow or had severe penalties for
+       changing alignment (Gygax; Dungeon Masters Guide, p. 24) but more
+       recent versions are more allowing of change. (Cook, Williams,
+       Tweet; Dungeon Master's Guide v3.5., p. 134)
+   41. [523]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 59
+   42. [524]^ Gygax; Dungeon Masters Guide, p. 84
+   43. [525]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 58
+   44. [526]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 46
+   45. [527]^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 145
+   46. [528]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 289
+   47. [529]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 296
+   48. [530]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 41
+   49. [531]^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 43
+   50. [532]^ A D&D campaign is an organized framework ... to provide a
+       realistic setting for a series of fantastic adventures. (Schend,
+       Pickens, Warty; Rules Cyclopedia, p. 256)
+   51. [533]^ "It is important to distinguish between a campaign and a
+       world, since the terms often seem to be used interchangeably ... A
+       world is a fictional place in which a campaign is set. It's also
+       often called a campaign setting." (Cook, Williams, Tweet; Dungeon
+       Master's Guide v3.5., p. 129)
+   52. [534]^ Williams ; Dungeon Master Option: High Level Campaigns, p.
+       45
+   53. [535]^ Greyhawk, Dragonlance, Forgotten Realms, Mystara,
+       Spelljammer, Ravenloft, Dark Sun and Planescape are the campaign
+       settings given their own chapter in Johnson, et al; 30 Years of
+       Adventure. Eberron was only released in 2004 and, as of 2007, is
+       one of two campaign settings, the other being Forgotten Realms,
+       still actively supported with new releases by Wizards of the Coast.
+   54. [536]^ Johnson, et al; 30 Years of Adventure, p. 23
+   55. [537]^ The first Dungeon Masters Guide gave only a quarter of a
+       page out of a total 240 pages to discussing the option use of
+       miniatures. (Gygax; Dungeon Masters Guide, p. 10)
+   56. [538]^ Pope; Grenadier Models
+   57. [539]^ Scott; Otherworld
+   58. [540]^ Pope; Ral Partha
+   59. [541]^ Pope; TSR
+   60. [542]^ Moore; 15mm Scale Fantasy Figures has a list of the 15 mm
+       Ral Parthat Battlesystem figures.
+   61. [543]^ McCuen; 15mm Battlesystem Paladin 1994 has a photographic
+       example of a 15 mm Ral Partha Battlesystem figure.
+   62. [544]^ Academy of Adventure Gaming Arts & Design; List of Winners
+       (2002)
+   63. [545]^ Tweet; What Are D&D Miniatures?
+   64. [546]^ Kushner; Dungeon Master: The Life and Legacy of Gary Gygax
+   65. ^ [547]^a [548]^b [549]^c [550]^d [551]^e [552]^f [553]^g Wizards
+       of the Coast; The History of TSR
+   66. [554]^ Grigg; Albert Goes Narrative Contracting
+   67. [555]^ Kuntz; "Tolkien in Dungeons & Dragons" in Dragon #13
+   68. ^ [556]^a [557]^b Gygax; "On the Influence of J.R.R. Tolkien on the
+       D&D and AD&D games" in Dragon #95
+   69. [558]^ Gygax; "The Dungeons and Dragons Magic System" in The
+       Strategic Review, Vol. 2, No. 2
+   70. ^ [559]^a [560]^b DeVarque; Literary Sources of D&D
+   71. [561]^ The first seven listed here are the most immediate
+       influences. (Gygax; Dungeon Masters Guide, p. 224)
+   72. [562]^ Schick; Heroic Worlds, pp. 132-153
+   73. [563]^ Schend, Pickens, Warty; Rules Cyclopedia, p. 291
+   74. [564]^ Gygax; "Dungeons & Dragons: What Is It and Where Is It
+       Going" in The Dragon #21
+   75. [565]^ "This is not AD&D 3rd edition" Winter, Steven (in the
+       forward to Cook; Player's Handbook).
+   76. ^ [566]^a [567]^b Ward; "The Games Wizards: Angry Mothers From Heck
+       (And what we do about them)" in Dragon #154
+   77. [568]^ Cook; Player's Handbook (1989), pp. 25-41
+   78. [569]^ Pryor, Herring, Tweet, Richie; Creative Campaigning
+   79. [570]^ "After ... the idea of acquiring TSR began to swim in my
+       mind it took me maybe thirty seconds to decide, Weve got to do a
+       third edition of Dungeons & Dragons." ([571]Adkison, Peter in
+       Johnson, et al; 30 Years of Adventure, p. 250).
+   80. [572]^ Johnson, et al; 30 Years of Adventure, p. 273
+   81. [573]^ Johnson, et al; 30 Years of Adventure, pp. 255-263
+   82. [574]^ "Countdown to 3rd Edition: Feats and Fighters" in Dragon
+       #270
+   83. ^ [575]^a [576]^b Tweet, Cook, Williams; Player's Handbook v3.5, p.
+       4
+   84. [577]^ Carter, et al; Wizards presents races and classes, pp. 6-9
+   85. [578]^ Wizards of the Coast; Dungeons & Dragons Flashes 4-ward at
+       Gen Con
+   86. [579]^ Wizards of the Coast; Wizards of the Coast at Gen Con!
+   87. ^ [580]^a [581]^b Svensson; Dungeons & Dragons reborn
+   88. [582]^ Academy of Adventure Gaming Arts & Design; Archive of List
+       of Origins Award Winners
+   89. [583]^ Academy of Adventure Gaming Arts and Design; Hall of Fame]]
+   90. [584]^ Schick; Heroic Worlds, pp. 414-418
+   91. [585]^ Games Magazine Online; Hall of Fame
+   92. [586]^ "Although we have come a long way since D&D, the essential
+       concept is still the same, and is one that will endure."
+       (Darlington; "A History of Role-Playing Part IX").
+   93. [587]^ Rilstone; Role-Playing Games: An Overview
+   94. [588]^ Fine; Shared Fantasy, pp. 16-19
+   95. [589]^ Darlington; A History of Role-Playing Part V
+   96. [590]^ Darlington; A History of Role-Playing Part VIII
+   97. [591]^ Grady; In Genre
+   98. [592]^ PC Gamer; How Dungeons & Dragons shaped the modern videogame
+   99. [593]^ Boucher; Jon Favreau is the action figure behind 'Iron Man'.
+   100. [594]^ Bledsaw; "From the Sorcerer's Scroll" in Dragon #27
+   101. [595]^ Copyright conflicts with the [596]Tolkien Estate lead to
+       removal of references to [597]Hobbits, [598]Ents and others.
+       (Hallford, Hallford; Swords & Circuitry)
+   102. [599]^ Disputes over licenses led to an agreement for Chaosium to
+       use the [600]Thieves' World license in exchange for allowing TSR to
+       legally publish the [601]Cthulhu and [602]Melnibon mythoi in
+       [603]Deities & Demigods. (Appelcline; Chaosium: 1975Present)
+   103. [604]^ Wizards of the Coast; The d20 System
+   104. [605]^ Necromancer Games; D20 Products with 3rd Edition Rules, 1st
+       Edition Feel
+   105. [606]^ Goodman Games; Dungeon Crawl Classics
+   106. [607]^ Thorn; Review of Hackmaster 4th Edition
+   107. [608]^ "Castles & Crusades is a fantasy RPG, clearly based upon
+       the first edition of AD&D but with streamlined d20-like rules."
+       (Mythmere; Castles & Crusades Players Handbook (4.6 stars))
+   108. [609]^ Gary Gygax was writing an entire line of Castle Zagyg
+       products for Castles & Crusades. (Troll Lord games; Castle Zagyg
+       Product Page)
+   109. [610]^ Paizo Publishing; Paizo Publishing Announces the Pathfinder
+       RPG
+   110. [611]^ Pramas; Green Ronin and Fourth Edition D&D
+   111. ^ [612]^a [613]^b Cardwell; "The Attacks on Role-Playing Games"
+   112. [614]^ Williams, Tweet, Cook; Monster Manual, pp. 41,47)
+   113. [615]^ Gagne; Moral Panics Over Youth Culture and Video Games
+   114. [616]^ Darlington; A History of Role-Playing Part IV
+   115. [617]^ Hately; The Disappearance of James Dallas Egbert III (Part
+       I)
+   116. [618]^ O'Connor; TV: 'Mazes and Monsters,' Fantasy
+   117. [619]^ Svitavsky; "Geek Culture" in The Bulletin of Bibliography
+       58 2
+   118. [620]^ Armando; "Emotional Stability Pertaining to Dungeons and
+       Dragons" in Psychology in the Schools 84 (4)
+   119. [621]^ Judges Guild; "Interview with Dave Arneson" in Pegasus #1
+   120. [622]^ Rausch; Dave Arneson Interview
+   121. [623]^ Gygax; Gygax FAQ
+   122. [624]^ Curell; Dungeons & Dragons-30 Years and Going Strong
+   123. [625]^ Onion; "Bill Gates Grants Self 18 Dexterity, 20 Charisma"
+       in The Onion 31 (21)
+   124. [626]^ Cohen, Keler, Rogers; Anthology of Interest I
+   125. [627]^ Briggs; Duncan's unusual hobby and more unusual request
+   126. [628]^ Diesel contributed the introduction, and both Colbert and
+       Wheaton page personal reflections to Johnson, et al; 30 Years of
+       Adventure
+   127. [629]^ Diesel, Williams, Moby, Lillard, Colbert: Shanafelt; The
+       growing chic of geek
+   128. [630]^ Diesel, Colbert, Lillard: Tonjes; Interview with Charles
+       Ryan on the 2005 Worldwide Dungeons & Dragons Game Day
+   129. [631]^ Oswalt: Leckart; Ratatouille Star Patton Oswalt on Geeks
+       vs. Nerds
+   130. [632]^ Myers: Inside the Actors' Studio; Mike Myers
+
+[[633]edit] References
+
+     * [634]Allston, Aaron (1992). Wrath of the Immortals. [635]TSR.
+       [636]ISBN 1560764120.
+     * Appelcline, Shannon (2006). [637]"Chaosium: 1975Present". A Brief
+       History of Game. [638]RPGnet.
+       [639]http://www.rpg.net/columns/briefhistory/briefhistory3.phtml.
+       Retrieved on 2007-08-13.
+     * Birnbaum, Jon. [640]"Gary Gygax Interview". Game Banshee.
+       [641]http://www.gamebanshee.com/interviews/garygygax1.php.
+       Retrieved on 2007-03-01.
+     * Bledsaw, Bob (July 1979). "From the Sorcerers Scroll: What has
+       Judges Guild done for Dungeons and Dragons". The Dragon #27 (TSR
+       Hobbies) Vol. IV (No. 1): 1011.
+     * Boucher, Geoff (2008-05-05). [642]"Jon Favreau is the action figure
+       behind 'Iron Man'". [643]Los Angeles Times. [644]Los Angeles Times.
+       Archived from [645]the original on 2008-05-17.
+       [646]http://www.webcitation.org/query?url=http%3A%2F%2Fwww.latimes.
+       com%2Fentertainment%2Fla-et-favreau5-2008may05%2C0%2C6653890%2Cfull
+       .story&date=2008-05-17. Retrieved on 2008-05-17.
+     * Briggs, Jerry, "Duncan's unusual hobby and more unusual request",
+       San Antonio Express-News (Texas), 30 November 1997.
+     * Cardwell Jr., Paul (1994). "[647]The Attacks on Role-Playing
+       Games". Skeptical Inquirer 18 (2): 157165.
+       [648]http://www.rpgstudies.net/cardwell/attacks.html. Retrieved on
+       2007-08-04.
+     * Carter, Michele; et al (2007). Wizards Presents Races and Classes.
+       [649]Wizards of the Coast. [650]ISBN 0-7869-4801-7.
+     * [651]Cohen, David X.; [652]Keeler, Ken; [653]Rogers, Eric
+       (writers). (2005-05-05). [654]Futurama, [655]Anthology of Interest
+       I [Television production]. [656]20th Century Fox Television.
+     * [657]Cook, Monte; [658]Williams, Skip; [659]Tweet, Jonathan (2003).
+       [660]Dungeon Masters Guide v.3.5. revised by David Noonan, Rich
+       Redman. [661]Wizards of the Coast. [662]ISBN 0-7869-2889-1.
+     * Cook, Monte. [663]"The Open Game License as I See It, Part II".
+       montecook.com.
+       [664]http://www.montecook.com/cgi-bin/page.cgi?mc_los_155.
+       Retrieved on 2007-03-15.
+     * Currell, Latasha (September 1, 2004). "[665]Dungeons and Dragons30
+       Years and Going Strong". The Golden Gate [X]Press Online (The
+       Journalism Department @ [666]San Francisco State University).
+       [667]http://xpress.sfsu.edu/archives/arts/001575.html. Retrieved on
+       2007-04-03.
+     * Dancey, Ryan S. (February 7, 2000). [668]Adventure Game Industry
+       Market Research Summary (RPGs). V1.0. Wizards of the Coast.
+       [669]http://www.rpg.net/news+reviews/wotcdemo.html. Retrieved on
+       2007-02-23.
+     * Darlington, Steven (August 1998). "[670]A History of Role-Playing
+       Part IV: Part Four: Hell and High Finance". Places to Go, People to
+       Be (Issue 4). [671]http://ptgptb.org/0004/hist4.html. Retrieved on
+       2007-04-03.
+     * Darlington, Steven (November 1998). "[672]A History of Role-Playing
+       Part V: The Power and the Glory". Places to Go, People to Be
+       (Places to Go, People to Be) (5).
+       [673]http://ptgptb.org/0005/hist5.html. Retrieved on 2007-02-28.
+     * Darlington, Steven (June 1999). "[674]A History of Role-Playing
+       Part VIII: Dark Times". Places to Go, People to Be (Places to Go,
+       People to Be) (Issue 8). [675]http://ptgptb.org/0008/hist8.html.
+       Retrieved on 2007-02-28.
+     * Darlington, Steven (August 1999). "[676]A History of Role-Playing
+       Part IX: The End and The Beginning". Places to Go, People to Be
+       (Places to Go, People to Be) (9).
+       [677]http://ptgptb.org/0009/hist9.html. Retrieved on 2007-04-03.
+     * Cook, David (1989b). [678]Players Handbook. TSR. [679]ISBN
+       0-88038-716-5.
+     * Cook, David (1995). [680]Players Handbook (Revised ed.). TSR.
+       [681]ISBN 0-7869-0329-5.
+     * DeVarque, Aardy R.. [682]"Literary Sources of D&D".
+       Rec.games.frp.dnd FAQs.
+       [683]http://www.geocities.com/rgfdfaq/sources.html. Retrieved on
+       2007-02-21.
+     * Fine, Gary Alan (2002). Shared Fantasy: Role Playing Games as
+       Social Worlds. New York: University of Chicago Press. [684]ISBN
+       0226249441.
+     * Gagne, Kenneth A. (April 27, 2001). [685]"Moral Panics Over Youth
+       Culture and Video Games". Worcester Polytechnic Institute.
+       [686]http://www.gamebits.net/other/mqp/#23. Retrieved on
+       2007-08-27.
+     * Grady, RJ (August 4, 2004). [687]"In Genre: THE DUNGEON".
+       [688]RPGnet.
+       [689]http://www.rpg.net/news+reviews/columns/ingenre04aug04.html.
+       Retrieved on 2007-04-05.
+     * Grigg, Robert (June 1620, 2005). "[690]Albert Goes Narrative
+       Contracting". DiGRA 2005 Papers, Vancouver, British Columbia,
+       Canada: Simon Fraser University. Retrieved on
+       [691]2007-[692]08-12.
+     * [693]Gygax, Gary (1979). [694]Dungeon Masters Guide. TSR. [695]ISBN
+       0-935696-02-4.
+     * Gygax, Gary (April 1976). "The Dungeons and Dragons Magic System".
+       The Strategic Review (TSR Hobbies) Vol. II (No. 2).
+     * Gygax, Gary; [696]Arneson, Dave (1974). Dungeons & Dragons
+       (3-Volume Set). [697]TSR.
+     * Gygax, Gary (December 1978). "Dungeons & Dragons: What Is It and
+       Where Is It Going?". [698]The Dragon #21 ([699]TSR) Vol. III (No.
+       8): 2930. [700]ISSN [701]1062-2101.
+     * Gygax, Gary (June 1979). "From the Sorcerers Scroll: D&D, AD&D and
+       Gaming". [702]The Dragon #26 ([703]TSR Hobbies) Vol. III (No. 12):
+       28-30. [704]ISSN [705]1062-2101.
+     * Gygax, Gary. [706]"Gygax FAQ". The Creative World of Gary Gygax.
+       Archived from [707]the original on 1999-01-28.
+       [708]http://web.archive.org/web/19990128161605/http://www.gygax.com
+       /gygaxfaq.html#What%20Happened%20to%20Gygax%20-%20TSR?. Retrieved
+       on 2006-07-04.
+     * Gygax, Gary (1977). [709]Monster Manual. TSR. [710]ISBN
+       0-935696-00-8.
+     * Gygax, Gary (March 1985). "On the influence of J.R.R. Tolkien on
+       the D&D and AD&D games". [711]Dragon #95 (TSR Hobbies, Inc.) Vol.
+       IX (No. 10): 1213. [712]ISSN [713]0279-6848.
+     * Gygax, Gary (1978). [714]Player's Handbook. TSR. [715]ISBN
+       0-935696-01-6.
+     * Hallford, N.; Hallford, J. (2001). Swords & Circuitry: A Designers
+       Guide to Computer Role Playing Games (1st ed.). Thomson Course
+       Technology PTR. p. 39. [716]ISBN 0761532994.
+     * Hately, Shaun (February 1999). "[717]The Disappearance of James
+       Dallas Egbert III (Part I)". Places to Go, People to Be (Issue 6).
+       [718]http://ptgptb.org/0006/egbert.html. Retrieved on 2007-02-21.
+     * [719]Heinsoo, Rob; [720]Collins, Andy; [721]Wyatt, James (2008).
+       [722]Player's Handbook. [723]Wizards of the Coast. [724]ISBN
+       978-0-7869-4867-3.
+     * Hite, Kenneth (March 30, 2006). [725]"State of the Industry 2005:
+       Another Such Victory Will Destroy Us". GamingReport.com.
+       [726]http://www.gamingreport.com/modules.php?op=modload&name=Sectio
+       ns&file=index&req=printpage&artid=186. Retrieved on 2007-02-21.
+     * Johnson, Harold; et al (2004). [727]30 Years of Adventure: A
+       Celebration of Dungeons & Dragons. [728]Wizards of the Coast.
+       [729]ISBN 0-7869-3498-0.
+     * [730]Kuntz, Rob (April 1978). "Tolkien in Dungeons & Dragons".
+       [731]The Dragon #13 (TSR Hobbies, Inc.) Vol. II (No. 7).
+     * Kushner, David. [732]"Dungeon Master: The Life and Legacy of Gary
+       Gygax". Wired.com.
+       [733]http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gyga
+       x. Retrieved on 2008-10-16.
+     * Leckart, Steven (June 26, 2007). "[734]Ratatouille Star Patton
+       Oswalt on Geeks vs. Nerds". Wired 15 (07).
+       [735]http://www.wired.com/entertainment/hollywood/magazine/15-07/pl
+       _screen.
+     * McCuen, Mike (2002). [736]"15mm Battlesystem Paladin 1994". Small
+       Obsessions. [737]http://games.necrosys.com/gal_paladin.shtml.
+       Retrieved on 2007-03-17.
+     * Mead, Lawrence; Malcomson, Ian (2003). [738]"Dungeons & Dragons
+       FAQ". [739]Wizards of the Coast.
+       [740]http://www.wizards.com/dnd/DnDArchives_FAQ.asp. Retrieved on
+       2008-10-03.
+     * [741]Mentzer, Frank (1984). Dungeons & Dragons (Set 3: Companion
+       Rules). TSR. [742]ISBN 0880383402.
+     * Mentzer, Frank (1986). Dungeons & Dragons (Set 5: Immortal Rules).
+       [743]TSR. [744]ISBN 0880383410.
+     * Mohan, Kim (1986). Wilderness Survival Guide. [745]TSR. [746]ISBN
+       088038-291-0.
+     * Moore, Jeff. [747]"15mm Scale Fantasy Figures". Humberside Wargames
+       Society. [748]http://www.barr.karoo.net/hws/dbx/fantfigs.htm.
+       Retrieved on 2007-03-17.
+     * Mythmere. [749]"Castles & Crusades Players Handbook (4.6 stars)".
+       Mythmeres Wondrous Resource.
+       [750]http://mythmere.tripod.com/reviewph.html. Retrieved on
+       2007-03-19.
+     * O'Connor, John (December 28, 1982). [751]"TV: 'Mazes and Monsters,'
+       Fantasy". New York Times.
+       [752]http://query.nytimes.com/gst/fullpage.html?res=9E01EEDA1438F93
+       BA15751C1A964948260. Retrieved on 2007-08-04.
+     * Pope, Thomas (March 25, 2004). [753]"Grenadier Models, Advanced
+       Dungeons and Dragons". The Stuff of Legends.
+       [754]http://www.cs.cmu.edu/~tpope/sol/grenadier/advanced_dnd.html.
+       Retrieved on 2007-02-21.
+     * Pope, Thomas (February 27, 2000). [755]"Ral Partha". The Stuff of
+       Legends.
+       [756]http://www.cs.cmu.edu/~tpope/sol/ral-partha/index.html.
+       Retrieved on 2007-02-28.
+     * Pope, Thomas (November 5, 1999). [757]"TSR". The Stuff of Legends.
+       [758]http://www.cs.cmu.edu/~tpope/sol/tsr/adnd.html. Retrieved on
+       2007-02-28.
+     * Pramas, Chris (2008-07-14). [759]"Green Ronin and Fourth Edition
+       D&D". Green Ronin.
+       [760]http://greenronin.com/2008/07/green_ronin_and_4e.php.
+       Retrieved on 2008-11-20.
+     * Pryor, Tony; Herring, Tony; Tweet, Jonathan; Richie, Norm (1993).
+       Creative Campaigning. TSR. [761]ISBN 1560765615.
+     * Rausch, Allen (August 19, 2004). [762]"Dave Arneson Interview".
+       [763]GameSpy.
+       [764]http://pc.gamespy.com/articles/540/540395p1.html. Retrieved on
+       2007-02-23.
+     * Rilstone, Andrew (1994). [765]"Role-Playing Games: An Overview".
+       The Oracle. [766]http://www.rpg.net/oracle/essays/rpgoverview.html.
+       Retrieved on 2007-04-04.
+     * Roberts, Tara (September 13, 2005). "[767]D&D players defy
+       stereotypes". The Argonaut ([768]University of Idaho).
+       [769]http://www.uiargonaut.com/content/view/360/38/. Retrieved on
+       2007-04-03.
+     * Schend, Steven E.; Jon Pickens, Dori Warty (Editors) (1991).
+       [770]Rules Cyclopedia. TSR. [771]ISBN 1-56076-085-0.
+     * Schick, Lawrence (1991). Heroic Worlds: A History and Guide to
+       Role-Playing Games. [772]Amherst, New York: [773]Prometheus Books.
+       [774]ISBN 0-87975-653-3.
+     * Scott, Richard. [775]"Otherworld, The Citadel AD&D Miniatures
+       Range". Otherworld Miniatures. [776]http://otherworld.me.uk/.
+       Retrieved on 2007-02-21.
+     * Shanafelt, Steve (November 2, 2005). "[777]The growing chic of
+       geek: How turning 30 made Dungeons & Dragons feel young again".
+       Mountain Xpress 12 (14).
+       [778]http://www.mountainx.com/features/2005/1102dandd.php.
+       Retrieved on 2007-08-04.
+     * Simon, Armando (October 1987). "Emotional Stability Pertaining to
+       Dungeons and Dragons". Psychology in the Schools 84 (4): 329332.
+     * Slavicsek, Bill (October 19, 2007). [779]"Ampersand: Exciting
+       News!". [780]Wizards of the Coast.
+       [781]http://www.wizards.com/default.asp?x=dnd/dramp/20071019.
+       Retrieved on October 22, 2007.
+     * Slavicsek, Bill; Mathew Sernett (2006) (boxed set). [782]Dungeons &
+       Dragons Basic Game. Wizards of the Coast. [783]ISBN 0-1869-3944-3.
+     * [784]Slavicsek, Bill; [785]Baker, Richard (2005). Dungeons &
+       Dragons [786]for Dummies. [787]Wiley Publishing. [788]ISBN
+       0-7645-8459-6.
+     * Svensson, Peter (2008-07-21). [789]"Dungeons & Dragons reborn".
+       Associated Press.
+       [790]http://www.buffalonews.com/185/story/396318.html. Retrieved on
+       2008-11-17.
+     * Svitavsky, William (June 2001). "[791]Geek Culture: An Annotated
+       Interdisciplinary Bibliography". The Bulletin of Bibliography 58
+       (2): 101-108.
+       [792]http://reconstruction.eserver.org/011/GeekCulture.htm.
+       Retrieved on 2008-11-25.
+     * Thorn, Mike (June 9, 2006). [793]"Review of Hackmaster 4th
+       Edition". [794]RPGnet.
+       [795]http://www.rpg.net/reviews/archive/12/12222.phtml. Retrieved
+       on 2007-03-19.
+     * Tonjes, Wayne (October 19, 2005). [796]"Interview with Charles Ryan
+       on the 2005 Worldwide Dungeons & Dragons Game Day". Gaming Report.
+       [797]http://www.gamingreport.com/modules.php?op=modload&name=Sectio
+       ns&file=index&req=printpage&artid=166. Retrieved on 2007-08-04.
+     * Tweet, Jonathan (2004) (boxed set). [798]Dungeons & Dragons Basic
+       Game. Wizards of the Coast. [799]ISBN 0-7869-3409-3.
+     * Tweet, Jonathan; Cook, Monte; Williams, Skip (2000). [800]Player's
+       Handbook. Wizards of the Coast. [801]ISBN 0-7869-1550-1.
+     * Tweet, Jonathan; Cook, Monte; Williams, Skip (2003). [802]Players
+       Handbook v.3.5. revised by [803]Collins, Andy. [804]Wizards of the
+       Coast. [805]ISBN 0-7869-2886-7.
+     * Tweet, Jonathan (May 20, 2004). [806]"What Are D&D Miniatures?".
+       [807]Wizards of the Coast.
+       [808]http://www.wizards.com/default.asp?x=dnd/mi/20040520b.
+       Retrieved on 2007-02-28.
+     * Waldron, David (Spring 2005). "[809]Role-Playing Games and the
+       Christian Right: Community Formation in Response to a Moral Panic".
+       The Journal of Religion and Popular Culture (Department of
+       Religious Studies and Anthropology, [810]The University of
+       Saskatchewan) Vol. IX.
+       [811]http://www.usask.ca/relst/jrpc/art9-roleplaying.html.
+       Retrieved on February 27, 2007.
+     * [812]Ward, James M (February 1990). "The Games Wizards: Angry
+       Mothers From Heck (And what we do about them)". [813]Dragon
+       Magazine #154 Vol. XIV (No. 9): 9. [814]ISSN [815]0279-6848.
+     * Waskul, Dennis; Lust, Matt (2004). "[816]Role-Playing and Playing
+       Roles: The Person, Player, and Persona in Fantasy Role-Playing"
+       (PDF). Caliber 27 (3): 222-256.
+       [817]doi:[818]10.1525/si.2004.27.3.333.
+       [819]http://www.colorado.edu/ibs/pb/thornberry/socy5031/pdfs/waskul
+       _lust_role_playing.pdf. Retrieved on December 23, 2008.
+     * Waters, Darren (April 26, 2004). [820]"What happened to Dungeons
+       and Dragons?". BBC News Online.
+       [821]http://news.bbc.co.uk/2/hi/uk_news/magazine/3655627.stm.
+       Retrieved on February 21, 2007.
+     * Williams, J. P.; Hendricks, S. Q.; Winkler, W. K. (2006). Gaming as
+       Culture, Essays on Reality, Identity and Experience in Fantasy
+       Games. McFarland & Company: [822]Oxford University Press. [823]ISBN
+       0-7864-2436-2.
+     * Williams, Skip (1995). Dungeon Master Option: High Level Campaigns.
+       TSR. [824]ISBN 0-7869-0168-3.
+     * Williams, Skip; Tweet, Jonathan; Cook, Monte (2000). [825]Monster
+       Manual. Wizards of the Coast. [826]ISBN 0-7869-1552-8.
+
+[[827]edit] Unknown author
+
+     * [828]"Archive of List of Origins Award Winners". Academy of
+       Adventure Gaming Arts and Design. 2006.
+       [829]http://www.originsgames.com/aagad/awards/archive. Retrieved on
+       2007-02-22. select year on right of page.
+     * [830]"Hall of Fame". Academy of Adventure Gaming Arts and Design.
+       2006. [831]http://www.originsgames.com/aagad/awards/hall-of-fame.
+       Retrieved on 2007-07-06.
+     * [832]"List of Winners". Academy of Adventure Gaming Arts & Design.
+       2001. [833]http://www.originsgames.com/awards/2001. Retrieved on
+       2007-09-01.
+     * [834]"Hall of Fame". Games Magazine Online. 2007.
+       [835]http://gamesmagazine-online.com/gameslinks/hallofame.html.
+       Retrieved on 2007-08-13.
+     * [836]"Dungeon Crawl Classics". [837]Goodman Games.
+       [838]http://www.goodmangames.com/DCCpreview.php. Retrieved on
+       2007-03-20.
+     * [839]"D20 Products with 3rd Edition Rules, 1st Edition Feel".
+       Necromancer Games. 2007. [840]http://www.necromancergames.com/.
+       Retrieved on 2007-08-21.
+     * [841]"Paizo Publishing Announces the Pathfinder RPG". [842]Paizo
+       Publishing. 2008-03-18.
+       [843]http://paizo.com/paizo/news/v5748eaic9l3h. Retrieved on
+       2008-11-21.
+     * [844]"How Dungeon & Dragons shaped the modern videogame". [845]PC
+       Gamer. [846]Future Publishing Limited. February 8, 2007.
+       [847]http://www.computerandvideogames.com/article.php?id=157343&sit
+       e=pcg. Retrieved on 2007-04-03.
+     * [848]"Castle Zagyg Product Page". Troll Lord Games.
+       [849]http://www.trolllord.com/newsite/zagyg/index.html. Retrieved
+       on 2007-03-19.
+     * [850]"The d20 System". [851]Wizards of the Coast.
+       [852]http://www.wizards.com/default.asp?x=d20/welcome. Retrieved on
+       2007-08-14.
+     * [853]"Dungeons & Dragons Flashes 4-ward at Gen Con" (PDF). Wizards
+       of the Coast. August 16, 2007.
+       [854]http://www.wizards.com/company/downloads/WotC_4E_Announcement.
+       pdf. Retrieved on 2007-08-19.
+     * [855]"The History of TSR". [856]Wizards of the Coast. Archived from
+       [857]the original on 2008-10-04.
+       [858]http://www.webcitation.org/query?url=http%3A%2F%2Fwww.wizards.
+       com%2Fdnd%2FDnDArchives_History.asp&date=2008-10-04. Retrieved on
+       2005-08-20.
+     * [859]"What Is D&D?". [860]Wizards of the Coast.
+       [861]http://www.wizards.com/default.asp?x=dnd/whatisdnd. Retrieved
+       on 2007-02-21.
+     * [862]"Wizards of the Coast at Gen Con!". Wizards of the Coast.
+       2007.
+       [863]http://www.wizards.com/default.asp?x=welcome/conventions/genco
+       n07. Retrieved on 2007-08-18.
+     * "Mike Myers". Inside the Actors' Studio. 2001-02-04. No. 9, season
+       7.
+     * "Countdown to 3rd Edition: Feats and Fighters". [864]Dragon #270
+       ([865]Wizards of the Coast) Vol. XXIV (No. 11): 3031. April 2000.
+       [866]ISSN [867]1062-2101.
+     * "[868]Bill Gates Grants Self 18 Dexterity, 20 Charisma". [869]The
+       Onion (Onion) 31 (21). June 18, 1997.
+       [870]http://www.theonion.com/content/node/29743. Retrieved on
+       2007-04-03.
+     * "[871]Interview with Dave Arneson". Pegasus ([872]Judges Guild)
+       (Issue 1). April/May 1981.
+       [873]http://www.judgesguild.net/guildhall/pegasus/pegasus_01/interv
+       iew.shtml. Retrieved on 2007-02-23.
+
+[[874]edit] Further reading
+
+     * Bebergal, Peter (November 15, 2004). "[875]How 'Dungeons' Changed
+       the World". [876]The Boston Globe (The New York Times Company).
+       [877]http://www.boston.com/news/globe/editorial_opinion/oped/articl
+       es/2004/11/15/dungeons_and_dragons_we_love_you/. Retrieved on
+       January 4, 2008.
+     * Edwards, Ron. [878]"A Hard Look at Dungeons and Dragons". [879]The
+       Forge. [880]http://www.indie-rpgs.com/articles/20/. Retrieved on
+       2007-02-23. an essay on the early history of the D&D hobby.
+     * Fannon, Sean Patrick. The Fantasy Roleplaying Gamers Bible, 2nd
+       Edition. Obsidian Studios, 1999. [881]ISBN 0-9674429-0-7
+     * Gygax, Gary. Roleplaying Mastery. New York, NY: Perigee, 1987.
+       [882]ISBN 0-399-51293-4
+     * Gygax, Gary. Master of the Game. New York, NY: Perigee, 1989.
+       [883]ISBN 0-399-51533-X
+     * Miller, John J. [884]I Was a Teenage Half-Orc, National Review
+       Online, October 15, 2004.
+     * Miller, John J. [885]"Dungeons & Dragons In a Digital World, Wall
+       Street Journal, July 1, 2008.
+     * Pulsipher, Lew (1983). "Introduction to Dungeons & Dragons, Parts
+       I-V". The Best of [886]White Dwarf ([887]Games Workshop) (Articles
+       Volume II): 1018.
+     * Slavicsek, Bill; Richard Baker (2006). Dungeon Master For Dummies.
+       Wiley Publishing. [888]ISBN 0-471-78330-7.
+     * Wagner, James (March 29, 2000). [889]"Opening the dungeon".
+       [890]Salon.
+       [891]http://archive.salon.com/tech/feature/2000/03/29/open_dungeon/
+       index.html. an article about the conflict over the proprietary or
+       open-source nature of Dungeons & Dragons
+     * [892]Studies about fantasy roleplaying gamesa list of academic
+       articles about RPGs
+     * [893]Gamespys 30th Anniversary of Dungeons & Dragons special
+
+[[894]edit] External links
+
+   Listen to this article ([895]info/dl)
+   (Submit) Play sound
+   [896]Spoken Wikipedia
+   This audio file was created from a revision dated [897]2008-[898]11-22,
+   and does not reflect subsequent edits to the article. ([899]Audio help)
+   [900]More spoken articles
+   [901]This is a spoken version of the article. Click here to listen.
+   [902]Sister project [903]Wikimedia Commons has media related to:
+   [904]Dungeons & Dragons
+   [905]Sister project [906]Wikibooks has more on the topic of
+   [907]Dungeons & Dragons
+   [908]Sister project Look up [909]dungeons & dragons in
+   [910]Wiktionary, the free dictionary.
+     * [911]Dungeons & Dragons official site
+     * [912]Dungeons & Dragons at the [913]Open Directory Project
+     * [914]The Hypertext d20 SRD: D&D rules online.
+     * [915]D&D Wiki: A Wiki dedicated to 3.5/4e and Modern DnD.
+     * [916]TSR Archive: Product catalogue for TSR and others.
+     * [917]The Acaeum: Site with detailed information on all 1st edition
+       Dungeons & Dragons items produced by TSR up through roughly 1989.
+
+   [918]v  [919]d  [920]e
+   Dungeons & Dragons Basics
+   General
+   [921]Controversies  [922]Editions  [923]Game mechanics  [924]Popular
+   culture  [925]Rulebooks  [926]Sources and influences  [927]Campaign
+   settings  [928]Related products
+           Gameplay
+   [929]Game mechanics  [930]Magic  [931]Alignment  [932]Character
+   classes  [933]Character races  [934]Magic items  [935]Monsters
+           Creators
+   [936]Gary Gygax  [937]Dave Arneson  [938]Ed Greenwood  [939]Margaret
+   Weis  [940]Tracy Hickman
+           Companies
+   [941]TSR, Inc.  [942]Wizards of the Coast
+           Media
+   [943]Cartoon  [944]2000 film  [945]2005 film  [946]Album
+   [947]Miniatures Game  [948]Video games
+           Licenses
+   [949]System Reference Document  [950]Open Game License  [951]Game
+   System License
+   [952]Featured article
+
+   Retrieved from "[953]http://en.wikipedia.org/wiki/Dungeons_%26_Dragons"
+   [954]Categories: [955]Spoken articles | [956]Featured articles |
+   [957]Dungeons & Dragons | [958]Origins Award winners | [959]1974
+   introductions | [960]Wizards of the Coast games
+
+Views
+
+     * [961]Article
+     * [962]Discussion
+     * [963]Edit this page
+     * [964]History
+
+Personal tools
+
+     * [965]Log in / create account
+
+Navigation
+
+     * [966]Main page
+     * [967]Contents
+     * [968]Featured content
+     * [969]Current events
+     * [970]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [971]About Wikipedia
+     * [972]Community portal
+     * [973]Recent changes
+     * [974]Contact Wikipedia
+     * [975]Donate to Wikipedia
+     * [976]Help
+
+Toolbox
+
+     * [977]What links here
+     * [978]Related changes
+     * [979]Upload file
+     * [980]Special pages
+     * [981]Printable version
+     * [982]Permanent link
+     * [983]Cite this page
+
+Languages
+
+     * [984]Brezhoneg
+     * [985]Catal
+     * [986]esky
+     * [987]Cymraeg
+     * [988]Dansk
+     * [989]Deutsch
+     * [990]Espaol
+     * [991]Esperanto
+     * [992]Franais
+     * [993]Galego
+     *
+     * [994]Hrvatski
+     * [995]Bahasa Indonesia
+     * [996]Italiano
+     *
+     * [997]Latina
+     * [998]Magyar
+     * [999]Nederlands
+     *
+     * [1000]Norsk (bokml)
+     * [1001]Norsk (nynorsk)
+     * [1002]Polski
+     * [1003]Portugus
+     *
+     * [1004]Scots
+     * [1005]Simple English
+     * [1006]/ Srpski
+     * [1007]Suomi
+     * [1008]Svenska
+     * [1009]Trke
+     *
+
+   [1010]Powered by MediaWiki
+   [1011]Wikimedia Foundation
+     * This page was last modified on 25 February 2009, at 18:05.
+     * All text is available under the terms of the [1012]GNU Free
+       Documentation License. (See [1013]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [1014]Wikimedia
+       Foundation, Inc., a U.S. registered [1015]501(c)(3)
+       [1016]tax-deductible [1017]nonprofit [1018]charity.
+     * [1019]Privacy policy
+     * [1020]About Wikipedia
+     * [1021]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dungeons_%26_Dragons&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dungeon_%26_Dragons&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#searchInput
+   9. file://localhost/wiki/Dungeons_%26_Dragons_(disambiguation)
+  10. file://localhost/wiki/D%26D_(disambiguation)
+  11. file://localhost/wiki/Game_designer
+  12. file://localhost/wiki/Gary_Gygax
+  13. file://localhost/wiki/Dave_Arneson
+  14. file://localhost/wiki/Game_publisher
+  15. file://localhost/wiki/TSR,_Inc.
+  16. file://localhost/wiki/Wizards_of_the_Coast
+  17. file://localhost/wiki/Fantasy
+  18. file://localhost/wiki/D20_System
+  19. file://localhost/wiki/Dice
+  20. file://localhost/wiki/Website
+  21. http://www.wizards.com/dnd
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-D.26Dfaq-0
+  23. file://localhost/wiki/Fantasy
+  24. file://localhost/wiki/Role-playing_game
+  25. file://localhost/wiki/Gary_Gygax
+  26. file://localhost/wiki/Dave_Arneson
+  27. file://localhost/wiki/TSR,_Inc.
+  28. file://localhost/wiki/Wizards_of_the_Coast
+  29. file://localhost/wiki/Hasbro
+  30. file://localhost/wiki/Miniature_wargaming
+  31. file://localhost/wiki/Chainmail_(game)
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Banshee_Gygax-1
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-culture_intro-2
+  34. file://localhost/wiki/Player_character
+  35. file://localhost/wiki/Setting_(literature)
+  36. file://localhost/wiki/Dungeon_Master
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-culture_intro-2
+  38. file://localhost/wiki/Experience_points
+  39. file://localhost/wiki/Fictional_character
+  40. file://localhost/wiki/Military_formation
+  41. file://localhost/wiki/Tunnels_and_Trolls
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.223-244-3
+  43. file://localhost/wiki/Traveller_(role-playing_game)
+  44. file://localhost/wiki/RuneQuest
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.17-34-4
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-5
+  47. file://localhost/wiki/Editions_of_Dungeons_%26_Dragons#Advanced_Dungeons_.26_Dragons
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-D.26Dfaq-0
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_26_Gygax-6
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-30Y_p.253-7
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-excitingnews-8
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-9
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-10
+  54. file://localhost/wiki/United_States_dollar
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-waters-11
+  56. file://localhost/wiki/Dungeons_%26_Dragons_related_products
+  57. file://localhost/wiki/Dungeons_%26_Dragons_in_popular_culture
+  58. file://localhost/wiki/Dungeons_%26_Dragons_controversies
+  59. file://localhost/wiki/Moral_panic
+  60. file://localhost/wiki/Satanism
+  61. file://localhost/wiki/Suicide
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Moral_Panic-12
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Play_overview
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Game_mechanics
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Adventures.2C_campaigns_and_modules
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Miniature_figures
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Game_history
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Sources_and_influences
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Edition_history
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Two-pronged_strategy
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Revised_editions
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Wizards_of_the_Coast
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Acclaim_and_influence
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Licensing
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Controversy_and_notoriety
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Related_products
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#References_in_popular_culture
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#See_also
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Notes
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#References
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Unknown_author
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#Further_reading
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#External_links
+  84. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=1
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-13
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-14
+  87. file://localhost/wiki/Player_characters
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-15
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-16
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Culture_chapter-17
+  91. file://localhost/wiki/Adventure_(Dungeons_%26_Dragons)
+  92. file://localhost/wiki/Campaign_(role-playing_games)
+  93. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-18
+  94. file://localhost/wiki/Dungeon_Master
+  95. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-DMG_3.5_p.4-19
+  96. file://localhost/wiki/Non-player_character
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-20
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Culture_chapter-17
+  99. file://localhost/wiki/Monster
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-21
+ 101. file://localhost/wiki/Spells_of_Dungeons_%26_Dragons
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-22
+ 103. file://localhost/wiki/Combat
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-23
+ 105. file://localhost/wiki/Environment_(biophysical)
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-24
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-DMG_3.5_p.4-19
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-25
+ 109. file://localhost/wiki/Dungeons_%26_Dragons_manuals
+ 110. file://localhost/wiki/Player%27s_Handbook
+ 111. file://localhost/wiki/Dungeon_Master%27s_Guide
+ 112. file://localhost/wiki/Monster_Manual
+ 113. file://localhost/wiki/Dungeons_%26_Dragons_Basic_Game
+ 114. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-26
+ 115. file://localhost/wiki/Dice#non-cubical_dice
+ 116. file://localhost/wiki/Miniature_figure_(gaming)
+ 117. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-27
+ 118. file://localhost/wiki/Adventure_(Dungeons_%26_Dragons)
+ 119. file://localhost/wiki/Dungeons_%26_Dragons_campaign_settings
+ 120. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-28
+ 121. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=2
+ 122. file://localhost/wiki/Dungeons_%26_Dragons_game_mechanics
+ 123. file://localhost/wiki/Character_class_(Dungeons_%26_Dragons)
+ 124. file://localhost/wiki/Polyhedron
+ 125. file://localhost/wiki/Dice
+ 126. file://localhost/wiki/Character_creation
+ 127. file://localhost/wiki/Character_sheet
+ 128. file://localhost/wiki/Game_mechanics_(Dungeons_%26_Dragons)#ability_scores
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-29
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-30
+ 131. file://localhost/wiki/Race_(fantasy)
+ 132. file://localhost/wiki/Character_class_(Dungeons_%26_Dragons)
+ 133. file://localhost/wiki/Alignment_(Dungeons_%26_Dragons)
+ 134. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-31
+ 135. file://localhost/wiki/Back-story
+ 136. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-gygax1978-32
+ 137. file://localhost/wiki/In_character
+ 138. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-33
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Culture_chapter-17
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-34
+ 141. file://localhost/wiki/Saving_throw
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-PHB_p.136-35
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-36
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-PHB_p.136-35
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-37
+ 146. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-38
+ 147. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-39
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-40
+ 149. file://localhost/wiki/Experience_points
+ 150. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-41
+ 151. file://localhost/wiki/Experience_point#Level-based_progression
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-42
+ 153. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-43
+ 154. file://localhost/wiki/Hit_point
+ 155. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-44
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-45
+ 157. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-46
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-47
+ 159. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=3
+ 160. file://localhost/wiki/Adventure_(Dungeons_%26_Dragons)
+ 161. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-48
+ 162. file://localhost/wiki/Adventure_(Dungeons_%26_Dragons)
+ 163. file://localhost/wiki/Temple_of_the_Frog
+ 164. file://localhost/wiki/Blackmoor_(supplement)
+ 165. file://localhost/wiki/Steading_of_the_Hill_Giant_Chief
+ 166. file://localhost/wiki/Campaign_(role-playing_games)
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-49
+ 168. file://localhost/wiki/Fictional_universe
+ 169. file://localhost/wiki/Campaign_setting
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-50
+ 171. file://localhost/wiki/Fantasy_subgenres
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-51
+ 173. file://localhost/wiki/Dungeons_%26_Dragons_campaign_settings
+ 174. file://localhost/wiki/Greyhawk
+ 175. file://localhost/wiki/Dragonlance
+ 176. file://localhost/wiki/Forgotten_Realms
+ 177. file://localhost/wiki/Mystara
+ 178. file://localhost/wiki/Spelljammer
+ 179. file://localhost/wiki/Ravenloft
+ 180. file://localhost/wiki/Dark_Sun
+ 181. file://localhost/wiki/Planescape
+ 182. file://localhost/wiki/Birthright_(campaign_setting)
+ 183. file://localhost/wiki/Eberron
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-52
+ 185. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=4
+ 186. file://localhost/wiki/Wargaming
+ 187. file://localhost/wiki/Miniature_figure_(gaming)
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-53
+ 189. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-54
+ 190. file://localhost/wiki/Miniature_figure#Manufacturers
+ 191. file://localhost/wiki/Grenadier_Miniatures
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-55
+ 193. file://localhost/wiki/Citadel_Miniatures
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-56
+ 195. file://localhost/wiki/Ral_Partha
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-57
+ 197. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-58
+ 198. file://localhost/wiki/Millimetre
+ 199. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-59
+ 200. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-60
+ 201. file://localhost/wiki/Battlesystem
+ 202. file://localhost/wiki/Chainmail_(game)
+ 203. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-61
+ 204. file://localhost/wiki/Miniature_figure
+ 205. file://localhost/wiki/Dungeons_%26_Dragons_Miniatures_Game
+ 206. file://localhost/wiki/Collectible_miniatures_game
+ 207. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-62
+ 208. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=5
+ 209. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=6
+ 210. file://localhost/wiki/Sources_and_influences_on_the_development_of_Dungeons_%26_Dragons
+ 211. file://localhost/wiki/Gary_Gygax
+ 212. file://localhost/wiki/Chainmail_(game)
+ 213. file://localhost/wiki/Dave_Arneson
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Banshee_Gygax-1
+ 215. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Wired-63
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-D.26Dfaq-0
+ 217. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 218. file://localhost/wiki/Improvisational_theatre
+ 219. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-65
+ 220. file://localhost/wiki/Wargaming
+ 221. file://localhost/wiki/Glorantha
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.17-34-4
+ 223. file://localhost/wiki/Mythology
+ 224. file://localhost/wiki/Pulp_magazine
+ 225. file://localhost/wiki/Halflings
+ 226. file://localhost/wiki/Elf_(Dungeons_%26_Dragons)
+ 227. file://localhost/wiki/Dwarf_(Dungeons_%26_Dragons)
+ 228. file://localhost/wiki/Half-elf_(Dungeons_%26_Dragons)
+ 229. file://localhost/wiki/Orc_(Dungeons_%26_Dragons)
+ 230. file://localhost/wiki/Dragon_(Dungeons_%26_Dragons)
+ 231. file://localhost/wiki/Tolkien
+ 232. file://localhost/wiki/The_Lord_of_the_Rings
+ 233. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-66
+ 234. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon95-67
+ 235. file://localhost/wiki/Dying_Earth_series
+ 236. file://localhost/wiki/Jack_Vance
+ 237. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-68
+ 238. file://localhost/wiki/Three_Hearts_and_Three_Lions
+ 239. file://localhost/wiki/Poul_Anderson
+ 240. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-lit_source-69
+ 241. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon95-67
+ 242. file://localhost/wiki/Robert_E._Howard
+ 243. file://localhost/wiki/Edgar_Rice_Burroughs
+ 244. file://localhost/wiki/A._Merritt
+ 245. file://localhost/wiki/H._P._Lovecraft
+ 246. file://localhost/wiki/Fritz_Leiber
+ 247. file://localhost/wiki/L._Sprague_de_Camp
+ 248. file://localhost/wiki/Fletcher_Pratt
+ 249. file://localhost/wiki/Roger_Zelazny
+ 250. file://localhost/wiki/Michael_Moorcock
+ 251. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-70
+ 252. file://localhost/wiki/Van_vogt
+ 253. file://localhost/wiki/Coeurl
+ 254. file://localhost/wiki/Displacer_Beast
+ 255. file://localhost/wiki/Lewis_Carroll
+ 256. file://localhost/wiki/Jabberwocky
+ 257. file://localhost/wiki/Vorpal
+ 258. file://localhost/wiki/Book_of_Genesis
+ 259. file://localhost/wiki/Garden_of_Eden
+ 260. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-lit_source-69
+ 261. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=7
+ 262. file://localhost/wiki/Editions_of_Dungeons_%26_Dragons
+ 263. file://localhost/wiki/Dungeons_%26_Dragons_(1974)
+ 264. file://localhost/wiki/College
+ 265. file://localhost/wiki/High_school
+ 266. file://localhost/wiki/Greyhawk_(supplement)
+ 267. file://localhost/wiki/Blackmoor_(supplement)
+ 268. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-71
+ 269. file://localhost/wiki/Fanzine
+ 270. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=8
+ 271. file://localhost/wiki/Dungeons_%26_Dragons_Basic_Set
+ 272. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 273. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 274. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.17-34-4
+ 275. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_26_Gygax-6
+ 276. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-30Y_p.253-7
+ 277. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_26_Gygax-6
+ 278. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-72
+ 279. file://localhost/wiki/Player%27s_Handbook
+ 280. file://localhost/wiki/Dungeon_Master%27s_Guide
+ 281. file://localhost/wiki/Monster_Manual
+ 282. file://localhost/wiki/Unearthed_Arcana
+ 283. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 284. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=9
+ 285. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_26_Gygax-6
+ 286. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-73
+ 287. file://localhost/wiki/Dungeons_%26_Dragons_Rules_Cyclopedia
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 289. file://localhost/wiki/David_%22Zeb%22_Cook
+ 290. file://localhost/wiki/Monstrous_Compendium
+ 291. file://localhost/wiki/Monstrous_Manual
+ 292. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-74
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 294. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_154-75
+ 295. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-76
+ 296. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-D.26Dfaq-0
+ 297. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-77
+ 298. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=10
+ 299. file://localhost/wiki/Wizards_of_the_Coast
+ 300. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-78
+ 301. file://localhost/wiki/D20_System
+ 302. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-79
+ 303. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-80
+ 304. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-81
+ 305. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-PHB_p.4-82
+ 306. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-PHB_p.4-82
+ 307. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-83
+ 308. file://localhost/wiki/Gen_Con
+ 309. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-excitingnews-8
+ 310. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-4-ward_at_Gen_Con-84
+ 311. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-85
+ 312. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-svensson-86
+ 313. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=11
+ 314. file://localhost/wiki/French_language
+ 315. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-history-64
+ 316. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-D.26Dfaq-0
+ 317. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-waters-11
+ 318. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-svensson-86
+ 319. file://localhost/wiki/Origins_Award
+ 320. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-87
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-88
+ 322. file://localhost/wiki/Games_(magazine)
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-89
+ 324. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-90
+ 325. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-91
+ 326. file://localhost/wiki/Dice
+ 327. file://localhost/wiki/Game_mechanic
+ 328. file://localhost/wiki/Character_sheet
+ 329. file://localhost/wiki/Statistic_(role-playing_games)
+ 330. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-92
+ 331. file://localhost/wiki/Tunnels_and_Trolls
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.223-244-3
+ 333. file://localhost/wiki/T%C3%A9kumel
+ 334. file://localhost/wiki/Chivalry_and_Sorcery
+ 335. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-93
+ 336. file://localhost/wiki/Traveller_(roleplaying_game)
+ 337. file://localhost/wiki/RuneQuest
+ 338. file://localhost/wiki/Chaosium
+ 339. file://localhost/wiki/Call_of_Cthulhu_(role-playing_game)
+ 340. file://localhost/wiki/Champions_(roleplaying_game)
+ 341. file://localhost/wiki/GURPS
+ 342. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-94
+ 343. file://localhost/wiki/Vampire:_The_Masquerade
+ 344. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-95
+ 345. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.17-34-4
+ 346. file://localhost/wiki/Warhammer_Fantasy_Battles
+ 347. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-96
+ 348. file://localhost/wiki/Video_games
+ 349. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-97
+ 350. file://localhost/wiki/Jon_Favreau
+ 351. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-98
+ 352. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=12
+ 353. file://localhost/wiki/Variant_Dungeons_%26_Dragons_games
+ 354. file://localhost/wiki/Judges_Guild
+ 355. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-99
+ 356. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Schick_p.17-34-4
+ 357. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-100
+ 358. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-101
+ 359. file://localhost/wiki/Editions_of_Dungeons_%26_Dragons
+ 360. file://localhost/wiki/D20_System
+ 361. file://localhost/wiki/Open_Game_License
+ 362. file://localhost/wiki/D20_System#Trademark_License
+ 363. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-102
+ 364. file://localhost/wiki/Star_Wars_Roleplaying_Game_(Wizards_of_the_Coast)
+ 365. file://localhost/wiki/Call_of_Cthulhu_(role-playing_game)#d20_Call_of_Cthulhu
+ 366. file://localhost/wiki/Necromancer_Games
+ 367. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-103
+ 368. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-104
+ 369. file://localhost/wiki/HackMaster
+ 370. file://localhost/wiki/Kenzer_and_Company
+ 371. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-105
+ 372. file://localhost/wiki/Castles_%26_Crusades
+ 373. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-106
+ 374. file://localhost/wiki/Gary_Gygax
+ 375. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-107
+ 376. file://localhost/wiki/Game_System_License
+ 377. file://localhost/wiki/Paizo_Publishing
+ 378. file://localhost/wiki/Pathfinder_RPG
+ 379. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-108
+ 380. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-109
+ 381. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=13
+ 382. file://localhost/wiki/Dungeons_%26_Dragons_controversies
+ 383. file://localhost/wiki/Christian
+ 384. file://localhost/wiki/Satanism#Devil_worship
+ 385. file://localhost/wiki/Witchcraft
+ 386. file://localhost/wiki/Suicide
+ 387. file://localhost/wiki/Murder
+ 388. file://localhost/wiki/Breast
+ 389. file://localhost/wiki/Harpy_(Dungeons_%26_Dragons)
+ 390. file://localhost/wiki/Succubus_(Dungeons_%26_Dragons)
+ 391. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Moral_Panic-12
+ 392. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-attacks-110
+ 393. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-Dragon_154-75
+ 394. file://localhost/wiki/Devil_(Dungeons_%26_Dragons)
+ 395. file://localhost/wiki/Demon_(Dungeons_%26_Dragons)
+ 396. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-111
+ 397. file://localhost/wiki/Moral_panic
+ 398. file://localhost/wiki/Satanism
+ 399. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-112
+ 400. file://localhost/wiki/Psychotic
+ 401. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-113
+ 402. file://localhost/wiki/Steam_tunnel_incident
+ 403. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-114
+ 404. file://localhost/wiki/Mazes_and_Monsters_(novel)
+ 405. file://localhost/wiki/Mazes_and_Monsters
+ 406. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-115
+ 407. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-attacks-110
+ 408. file://localhost/wiki/Chris_Pritchard
+ 409. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-116
+ 410. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-117
+ 411. file://localhost/wiki/Lawsuits
+ 412. file://localhost/wiki/Royalties
+ 413. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-118
+ 414. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-119
+ 415. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-120
+ 416. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=14
+ 417. file://localhost/wiki/Dungeons_%26_Dragons_related_products
+ 418. file://localhost/wiki/Dragon_(magazine)
+ 419. file://localhost/wiki/Dungeon_(magazine)
+ 420. file://localhost/wiki/Dungeons_%26_Dragons_(TV_series)
+ 421. file://localhost/wiki/Dungeons_%26_Dragons_(film)
+ 422. file://localhost/wiki/Dungeons_and_Dragons_(album)
+ 423. file://localhost/wiki/List_of_Dungeons_%26_Dragons_computer_and_video_games
+ 424. file://localhost/wiki/MMORPG
+ 425. file://localhost/wiki/Dungeons_%26_Dragons_Online:_Stormreach
+ 426. file://localhost/wiki/Dice#non-cubical_dice
+ 427. file://localhost/wiki/Miniature_figure_(gaming)
+ 428. file://localhost/wiki/Adventure_(Dungeons_%26_Dragons)
+ 429. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=15
+ 430. file://localhost/wiki/Dungeons_%26_Dragons_in_popular_culture
+ 431. file://localhost/wiki/Geek
+ 432. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-121
+ 433. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-122
+ 434. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-123
+ 435. file://localhost/wiki/Tim_Duncan
+ 436. file://localhost/wiki/Stephen_Colbert
+ 437. file://localhost/wiki/Moby
+ 438. file://localhost/wiki/Vin_Diesel
+ 439. file://localhost/wiki/Matthew_Lillard
+ 440. file://localhost/wiki/Mike_Myers_(actor)
+ 441. file://localhost/wiki/Patton_Oswalt
+ 442. file://localhost/wiki/Wil_Wheaton
+ 443. file://localhost/wiki/Robin_Williams
+ 444. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-124
+ 445. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-125
+ 446. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-126
+ 447. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-127
+ 448. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-128
+ 449. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_note-129
+ 450. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=16
+ 451. file://localhost/wiki/Portal:Dungeons_%26_Dragons
+ 452. file://localhost/wiki/Category:Dungeons_%26_Dragons_creatures
+ 453. file://localhost/wiki/Spells_of_Dungeons_%26_Dragons
+ 454. file://localhost/wiki/D%26D_Championship_Series
+ 455. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=17
+ 456. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-D.26Dfaq_0-0
+ 457. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-D.26Dfaq_0-1
+ 458. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-D.26Dfaq_0-2
+ 459. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-D.26Dfaq_0-3
+ 460. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-D.26Dfaq_0-4
+ 461. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Banshee_Gygax_1-0
+ 462. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Banshee_Gygax_1-1
+ 463. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-culture_intro_2-0
+ 464. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-culture_intro_2-1
+ 465. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.223-244_3-0
+ 466. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.223-244_3-1
+ 467. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.17-34_4-0
+ 468. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.17-34_4-1
+ 469. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.17-34_4-2
+ 470. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.17-34_4-3
+ 471. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Schick_p.17-34_4-4
+ 472. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-5
+ 473. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_26_Gygax_6-0
+ 474. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_26_Gygax_6-1
+ 475. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_26_Gygax_6-2
+ 476. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_26_Gygax_6-3
+ 477. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-30Y_p.253_7-0
+ 478. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-30Y_p.253_7-1
+ 479. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-excitingnews_8-0
+ 480. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-excitingnews_8-1
+ 481. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-9
+ 482. file://localhost/wiki/United_States
+ 483. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-10
+ 484. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-waters_11-0
+ 485. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-waters_11-1
+ 486. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Moral_Panic_12-0
+ 487. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Moral_Panic_12-1
+ 488. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-13
+ 489. file://localhost/wiki/Dungeons_%26_Dragons_Basic_Game
+ 490. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-14
+ 491. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-15
+ 492. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-16
+ 493. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Culture_chapter_17-0
+ 494. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Culture_chapter_17-1
+ 495. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Culture_chapter_17-2
+ 496. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-18
+ 497. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-DMG_3.5_p.4_19-0
+ 498. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-DMG_3.5_p.4_19-1
+ 499. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-20
+ 500. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-21
+ 501. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-22
+ 502. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-23
+ 503. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-24
+ 504. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-25
+ 505. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-26
+ 506. file://localhost/wiki/Miniature_figures
+ 507. file://localhost/wiki/Dice#Standard_variations
+ 508. file://localhost/wiki/Inch
+ 509. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-27
+ 510. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-28
+ 511. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-29
+ 512. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-30
+ 513. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-31
+ 514. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-gygax1978_32-0
+ 515. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-33
+ 516. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-34
+ 517. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-PHB_p.136_35-0
+ 518. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-PHB_p.136_35-1
+ 519. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-36
+ 520. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-37
+ 521. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-38
+ 522. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-39
+ 523. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-40
+ 524. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-41
+ 525. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-42
+ 526. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-43
+ 527. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-44
+ 528. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-45
+ 529. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-46
+ 530. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-47
+ 531. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-48
+ 532. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-49
+ 533. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-50
+ 534. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-51
+ 535. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-52
+ 536. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-53
+ 537. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-54
+ 538. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-55
+ 539. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-56
+ 540. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-57
+ 541. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-58
+ 542. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-59
+ 543. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-60
+ 544. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-61
+ 545. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-62
+ 546. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Wired_63-0
+ 547. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-0
+ 548. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-1
+ 549. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-2
+ 550. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-3
+ 551. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-4
+ 552. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-5
+ 553. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-history_64-6
+ 554. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-65
+ 555. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-66
+ 556. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon95_67-0
+ 557. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon95_67-1
+ 558. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-68
+ 559. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-lit_source_69-0
+ 560. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-lit_source_69-1
+ 561. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-70
+ 562. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-71
+ 563. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-72
+ 564. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-73
+ 565. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-74
+ 566. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_154_75-0
+ 567. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-Dragon_154_75-1
+ 568. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-76
+ 569. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-77
+ 570. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-78
+ 571. file://localhost/wiki/Peter_Adkison
+ 572. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-79
+ 573. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-80
+ 574. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-81
+ 575. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-PHB_p.4_82-0
+ 576. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-PHB_p.4_82-1
+ 577. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-83
+ 578. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-4-ward_at_Gen_Con_84-0
+ 579. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-85
+ 580. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-svensson_86-0
+ 581. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-svensson_86-1
+ 582. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-87
+ 583. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-88
+ 584. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-89
+ 585. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-90
+ 586. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-91
+ 587. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-92
+ 588. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-93
+ 589. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-94
+ 590. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-95
+ 591. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-96
+ 592. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-97
+ 593. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-98
+ 594. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-99
+ 595. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-100
+ 596. file://localhost/wiki/Tolkien_Estate
+ 597. file://localhost/wiki/Hobbit
+ 598. file://localhost/wiki/Ent
+ 599. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-101
+ 600. file://localhost/wiki/Thieves%27_World
+ 601. file://localhost/wiki/Cthulhu_Mythos
+ 602. file://localhost/wiki/Melnibon%C3%A9
+ 603. file://localhost/wiki/Deities_%26_Demigods
+ 604. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-102
+ 605. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-103
+ 606. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-104
+ 607. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-105
+ 608. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-106
+ 609. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-107
+ 610. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-108
+ 611. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-109
+ 612. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-attacks_110-0
+ 613. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-attacks_110-1
+ 614. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-111
+ 615. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-112
+ 616. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-113
+ 617. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-114
+ 618. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-115
+ 619. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-116
+ 620. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-117
+ 621. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-118
+ 622. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-119
+ 623. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-120
+ 624. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-121
+ 625. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-122
+ 626. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-123
+ 627. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-124
+ 628. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-125
+ 629. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-126
+ 630. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-127
+ 631. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-128
+ 632. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc514.tmp.html#cite_ref-129
+ 633. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=18
+ 634. file://localhost/wiki/Aaron_Allston
+ 635. file://localhost/wiki/TSR,_Inc.
+ 636. file://localhost/wiki/Special:BookSources/1560764120
+ 637. http://www.rpg.net/columns/briefhistory/briefhistory3.phtml
+ 638. file://localhost/wiki/RPGnet
+ 639. http://www.rpg.net/columns/briefhistory/briefhistory3.phtml
+ 640. http://www.gamebanshee.com/interviews/garygygax1.php
+ 641. http://www.gamebanshee.com/interviews/garygygax1.php
+ 642. http://www.webcitation.org/query?url=http%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fla-et-favreau5-2008may05%2C0%2C6653890%2Cfull.story&date=2008-05-17
+ 643. file://localhost/wiki/Los_Angeles_Times
+ 644. file://localhost/wiki/Los_Angeles_Times
+ 645. http://www.latimes.com/entertainment/la-et-favreau5-2008may05,0,6653890,full.story
+ 646. http://www.webcitation.org/query?url=http%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fla-et-favreau5-2008may05%2C0%2C6653890%2Cfull.story&date=2008-05-17
+ 647. http://www.rpgstudies.net/cardwell/attacks.html
+ 648. http://www.rpgstudies.net/cardwell/attacks.html
+ 649. file://localhost/wiki/Wizards_of_the_Coast
+ 650. file://localhost/wiki/Special:BookSources/0786948017
+ 651. file://localhost/wiki/David_X._Cohen
+ 652. file://localhost/wiki/Ken_Keeler
+ 653. file://localhost/wiki/Eric_Rogers
+ 654. file://localhost/wiki/Futurama
+ 655. file://localhost/wiki/Anthology_of_Interest_I#Act_3
+ 656. file://localhost/wiki/20th_Century_Fox_Television
+ 657. file://localhost/wiki/Monte_Cook
+ 658. file://localhost/wiki/Skip_Williams
+ 659. file://localhost/wiki/Jonathan_Tweet
+ 660. file://localhost/wiki/Dungeon_Master%27s_Guide
+ 661. file://localhost/wiki/Wizards_of_the_Coast
+ 662. file://localhost/wiki/Special:BookSources/0786928891
+ 663. http://www.montecook.com/cgi-bin/page.cgi?mc_los_155
+ 664. http://www.montecook.com/cgi-bin/page.cgi?mc_los_155
+ 665. http://xpress.sfsu.edu/archives/arts/001575.html
+ 666. file://localhost/wiki/San_Francisco_State_University
+ 667. http://xpress.sfsu.edu/archives/arts/001575.html
+ 668. http://www.rpg.net/news+reviews/wotcdemo.html
+ 669. http://www.rpg.net/news+reviews/wotcdemo.html
+ 670. http://ptgptb.org/0004/hist4.html
+ 671. http://ptgptb.org/0004/hist4.html
+ 672. http://ptgptb.org/0005/hist5.html
+ 673. http://ptgptb.org/0005/hist5.html
+ 674. http://ptgptb.org/0008/hist8.html
+ 675. http://ptgptb.org/0008/hist8.html
+ 676. http://ptgptb.org/0009/hist9.html
+ 677. http://ptgptb.org/0009/hist9.html
+ 678. file://localhost/wiki/Player%27s_Handbook
+ 679. file://localhost/wiki/Special:BookSources/0880387165
+ 680. file://localhost/wiki/Player%27s_Handbook
+ 681. file://localhost/wiki/Special:BookSources/0786903295
+ 682. http://www.geocities.com/rgfdfaq/sources.html
+ 683. http://www.geocities.com/rgfdfaq/sources.html
+ 684. file://localhost/wiki/Special:BookSources/0226249441
+ 685. http://www.gamebits.net/other/mqp/#23
+ 686. http://www.gamebits.net/other/mqp/#23
+ 687. http://www.rpg.net/news+reviews/columns/ingenre04aug04.html
+ 688. file://localhost/wiki/RPGnet
+ 689. http://www.rpg.net/news+reviews/columns/ingenre04aug04.html
+ 690. http://hdl.handle.net/1892/1547
+ 691. file://localhost/wiki/2007
+ 692. file://localhost/wiki/August_12
+ 693. file://localhost/wiki/Gary_Gygax
+ 694. file://localhost/wiki/Dungeon_Masters_Guide
+ 695. file://localhost/wiki/Special:BookSources/0935696024
+ 696. file://localhost/wiki/Dave_Arneson
+ 697. file://localhost/wiki/TSR,_Inc.
+ 698. file://localhost/wiki/Dragon_(magazine)
+ 699. file://localhost/wiki/TSR,_Inc.
+ 700. file://localhost/wiki/International_Standard_Serial_Number
+ 701. http://worldcat.org/issn/1062-2101
+ 702. file://localhost/wiki/Dragon_(magazine)
+ 703. file://localhost/wiki/TSR,_Inc.
+ 704. file://localhost/wiki/International_Standard_Serial_Number
+ 705. http://worldcat.org/issn/1062-2101
+ 706. http://web.archive.org/web/19990128161605/http://www.gygax.com/gygaxfaq.html#What%20Happened%20to%20Gygax%20-%20TSR?
+ 707. http://www.gygax.com/gygaxfaq.html#What%20Happened%20to%20Gygax%20-%20TSR?
+ 708. http://web.archive.org/web/19990128161605/http://www.gygax.com/gygaxfaq.html#What%20Happened%20to%20Gygax%20-%20TSR
+ 709. file://localhost/wiki/Monster_Manual
+ 710. file://localhost/wiki/Special:BookSources/0935696008
+ 711. file://localhost/wiki/Dragon_(magazine)
+ 712. file://localhost/wiki/International_Standard_Serial_Number
+ 713. http://worldcat.org/issn/0279-6848
+ 714. file://localhost/wiki/Player%27s_Handbook
+ 715. file://localhost/wiki/Special:BookSources/0935696016
+ 716. file://localhost/wiki/Special:BookSources/0761532994
+ 717. http://ptgptb.org/0006/egbert.html
+ 718. http://ptgptb.org/0006/egbert.html
+ 719. file://localhost/wiki/Rob_Heinsoo
+ 720. file://localhost/wiki/Andy_Collins
+ 721. file://localhost/wiki/James_Wyatt_(game_designer)
+ 722. file://localhost/wiki/Player%27s_Handbook
+ 723. file://localhost/wiki/Wizards_of_the_Coast
+ 724. file://localhost/wiki/Special:BookSources/9780786948673
+ 725. http://www.gamingreport.com/modules.php?op=modload&name=Sections&file=index&req=printpage&artid=186
+ 726. http://www.gamingreport.com/modules.php?op=modload&name=Sections&file=index&req=printpage&artid=186
+ 727. file://localhost/wiki/30_Years_of_Adventure:_A_Celebration_of_Dungeons_%26_Dragons
+ 728. file://localhost/wiki/Wizards_of_the_Coast
+ 729. file://localhost/wiki/Special:BookSources/0786934980
+ 730. file://localhost/wiki/Robert_J._Kuntz
+ 731. file://localhost/wiki/Dragon_(magazine)
+ 732. http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax
+ 733. http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax
+ 734. http://www.wired.com/entertainment/hollywood/magazine/15-07/pl_screen
+ 735. http://www.wired.com/entertainment/hollywood/magazine/15-07/pl_screen
+ 736. http://games.necrosys.com/gal_paladin.shtml
+ 737. http://games.necrosys.com/gal_paladin.shtml
+ 738. http://www.wizards.com/dnd/DnDArchives_FAQ.asp
+ 739. file://localhost/wiki/Wizards_of_the_Coast
+ 740. http://www.wizards.com/dnd/DnDArchives_FAQ.asp
+ 741. file://localhost/wiki/Frank_Mentzer
+ 742. file://localhost/wiki/Special:BookSources/0880383402
+ 743. file://localhost/wiki/TSR,_Inc.
+ 744. file://localhost/wiki/Special:BookSources/0880383410
+ 745. file://localhost/wiki/TSR,_Inc.
+ 746. file://localhost/wiki/Special:BookSources/0880382910
+ 747. http://www.barr.karoo.net/hws/dbx/fantfigs.htm
+ 748. http://www.barr.karoo.net/hws/dbx/fantfigs.htm
+ 749. http://mythmere.tripod.com/reviewph.html
+ 750. http://mythmere.tripod.com/reviewph.html
+ 751. http://query.nytimes.com/gst/fullpage.html?res=9E01EEDA1438F93BA15751C1A964948260
+ 752. http://query.nytimes.com/gst/fullpage.html?res=9E01EEDA1438F93BA15751C1A964948260
+ 753. http://www.cs.cmu.edu/~tpope/sol/grenadier/advanced_dnd.html
+ 754. http://www.cs.cmu.edu/~tpope/sol/grenadier/advanced_dnd.html
+ 755. http://www.cs.cmu.edu/~tpope/sol/ral-partha/index.html
+ 756. http://www.cs.cmu.edu/~tpope/sol/ral-partha/index.html
+ 757. http://www.cs.cmu.edu/~tpope/sol/tsr/adnd.html
+ 758. http://www.cs.cmu.edu/~tpope/sol/tsr/adnd.html
+ 759. http://greenronin.com/2008/07/green_ronin_and_4e.php
+ 760. http://greenronin.com/2008/07/green_ronin_and_4e.php
+ 761. file://localhost/wiki/Special:BookSources/1560765615
+ 762. http://pc.gamespy.com/articles/540/540395p1.html
+ 763. file://localhost/wiki/GameSpy
+ 764. http://pc.gamespy.com/articles/540/540395p1.html
+ 765. http://www.rpg.net/oracle/essays/rpgoverview.html
+ 766. http://www.rpg.net/oracle/essays/rpgoverview.html
+ 767. http://www.uiargonaut.com/content/view/360/38/
+ 768. file://localhost/wiki/University_of_Idaho
+ 769. http://www.uiargonaut.com/content/view/360/38/
+ 770. file://localhost/wiki/Dungeons_%26_Dragons_Rules_Cyclopedia
+ 771. file://localhost/wiki/Special:BookSources/1560760850
+ 772. file://localhost/wiki/Amherst,_New_York
+ 773. file://localhost/wiki/Prometheus_Books
+ 774. file://localhost/wiki/Special:BookSources/0879756533
+ 775. http://otherworld.me.uk/
+ 776. http://otherworld.me.uk/
+ 777. http://www.mountainx.com/features/2005/1102dandd.php
+ 778. http://www.mountainx.com/features/2005/1102dandd.php
+ 779. http://www.wizards.com/default.asp?x=dnd/dramp/20071019
+ 780. file://localhost/wiki/Wizards_of_the_Coast
+ 781. http://www.wizards.com/default.asp?x=dnd/dramp/20071019
+ 782. file://localhost/wiki/Dungeons_%26_Dragons_Basic_Game
+ 783. file://localhost/wiki/Special:BookSources/0186939443
+ 784. file://localhost/wiki/Bill_Slavicsek
+ 785. file://localhost/wiki/Richard_Baker_(game_designer)
+ 786. file://localhost/wiki/...for_Dummies
+ 787. file://localhost/wiki/John_Wiley_%26_Sons
+ 788. file://localhost/wiki/Special:BookSources/0764584596
+ 789. http://www.buffalonews.com/185/story/396318.html
+ 790. http://www.buffalonews.com/185/story/396318.html
+ 791. http://reconstruction.eserver.org/011/GeekCulture.htm
+ 792. http://reconstruction.eserver.org/011/GeekCulture.htm
+ 793. http://www.rpg.net/reviews/archive/12/12222.phtml
+ 794. file://localhost/wiki/RPGnet
+ 795. http://www.rpg.net/reviews/archive/12/12222.phtml
+ 796. http://www.gamingreport.com/modules.php?op=modload&name=Sections&file=index&req=printpage&artid=166
+ 797. http://www.gamingreport.com/modules.php?op=modload&name=Sections&file=index&req=printpage&artid=166
+ 798. file://localhost/wiki/Dungeons_%26_Dragons_Basic_Game
+ 799. file://localhost/wiki/Special:BookSources/0786934093
+ 800. file://localhost/wiki/Player%27s_Handbook
+ 801. file://localhost/wiki/Special:BookSources/0786915501
+ 802. file://localhost/wiki/Player%27s_Handbook
+ 803. file://localhost/wiki/Andy_Collins_(game_designer)
+ 804. file://localhost/wiki/Wizards_of_the_Coast
+ 805. file://localhost/wiki/Special:BookSources/0786928867
+ 806. http://www.wizards.com/default.asp?x=dnd/mi/20040520b
+ 807. file://localhost/wiki/Wizards_of_the_Coast
+ 808. http://www.wizards.com/default.asp?x=dnd/mi/20040520b
+ 809. http://www.usask.ca/relst/jrpc/art9-roleplaying.html
+ 810. file://localhost/wiki/University_of_Saskatchewan
+ 811. http://www.usask.ca/relst/jrpc/art9-roleplaying.html
+ 812. file://localhost/wiki/Jim_Ward_(game_designer)
+ 813. file://localhost/wiki/Dragon_(magazine)
+ 814. file://localhost/wiki/International_Standard_Serial_Number
+ 815. http://worldcat.org/issn/0279-6848
+ 816. http://www.colorado.edu/ibs/pb/thornberry/socy5031/pdfs/waskul_lust_role_playing.pdf
+ 817. file://localhost/wiki/Digital_object_identifier
+ 818. http://dx.doi.org/10.1525%2Fsi.2004.27.3.333
+ 819. http://www.colorado.edu/ibs/pb/thornberry/socy5031/pdfs/waskul_lust_role_playing.pdf
+ 820. http://news.bbc.co.uk/2/hi/uk_news/magazine/3655627.stm
+ 821. http://news.bbc.co.uk/2/hi/uk_news/magazine/3655627.stm
+ 822. file://localhost/wiki/Oxford_University_Press
+ 823. file://localhost/wiki/Special:BookSources/0786424362
+ 824. file://localhost/wiki/Special:BookSources/0786901683
+ 825. file://localhost/wiki/Monster_Manual
+ 826. file://localhost/wiki/Special:BookSources/0786915528
+ 827. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=19
+ 828. http://www.originsgames.com/aagad/awards/archive
+ 829. http://www.originsgames.com/aagad/awards/archive
+ 830. http://www.originsgames.com/aagad/awards/hall-of-fame
+ 831. http://www.originsgames.com/aagad/awards/hall-of-fame
+ 832. http://www.originsgames.com/awards/2001
+ 833. http://www.originsgames.com/awards/2001
+ 834. http://gamesmagazine-online.com/gameslinks/hallofame.html
+ 835. http://gamesmagazine-online.com/gameslinks/hallofame.html
+ 836. http://www.goodmangames.com/DCCpreview.php
+ 837. file://localhost/wiki/Goodman_Games
+ 838. http://www.goodmangames.com/DCCpreview.php
+ 839. http://www.necromancergames.com/
+ 840. http://www.necromancergames.com/
+ 841. http://paizo.com/paizo/news/v5748eaic9l3h
+ 842. file://localhost/wiki/Paizo_Publishing
+ 843. http://paizo.com/paizo/news/v5748eaic9l3h
+ 844. http://www.computerandvideogames.com/article.php?id=157343&site=pcg
+ 845. file://localhost/wiki/PC_Gamer
+ 846. file://localhost/wiki/Future_Publishing
+ 847. http://www.computerandvideogames.com/article.php?id=157343&site=pcg
+ 848. http://www.trolllord.com/newsite/zagyg/index.html
+ 849. http://www.trolllord.com/newsite/zagyg/index.html
+ 850. http://www.wizards.com/default.asp?x=d20/welcome
+ 851. file://localhost/wiki/Wizards_of_the_Coast
+ 852. http://www.wizards.com/default.asp?x=d20/welcome
+ 853. http://www.wizards.com/company/downloads/WotC_4E_Announcement.pdf
+ 854. http://www.wizards.com/company/downloads/WotC_4E_Announcement.pdf
+ 855. http://www.webcitation.org/query?url=http%3A%2F%2Fwww.wizards.com%2Fdnd%2FDnDArchives_History.asp&date=2008-10-04
+ 856. file://localhost/wiki/Wizards_of_the_Coast
+ 857. http://www.wizards.com/dnd/DnDArchives_History.asp
+ 858. http://www.webcitation.org/query?url=http%3A%2F%2Fwww.wizards.com%2Fdnd%2FDnDArchives_History.asp&date=2008-10-04
+ 859. http://www.wizards.com/default.asp?x=dnd/whatisdnd
+ 860. file://localhost/wiki/Wizards_of_the_Coast
+ 861. http://www.wizards.com/default.asp?x=dnd/whatisdnd
+ 862. http://www.wizards.com/default.asp?x=welcome/conventions/gencon07
+ 863. http://www.wizards.com/default.asp?x=welcome/conventions/gencon07
+ 864. file://localhost/wiki/Dragon_(magazine)
+ 865. file://localhost/wiki/Wizards_of_the_Coast
+ 866. file://localhost/wiki/International_Standard_Serial_Number
+ 867. http://worldcat.org/issn/1062-2101
+ 868. http://www.theonion.com/content/node/29743
+ 869. file://localhost/wiki/The_Onion
+ 870. http://www.theonion.com/content/node/29743
+ 871. http://www.judgesguild.net/guildhall/pegasus/pegasus_01/interview.shtml
+ 872. file://localhost/wiki/Judges_Guild
+ 873. http://www.judgesguild.net/guildhall/pegasus/pegasus_01/interview.shtml
+ 874. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=20
+ 875. http://www.boston.com/news/globe/editorial_opinion/oped/articles/2004/11/15/dungeons_and_dragons_we_love_you/
+ 876. file://localhost/wiki/The_Boston_Globe
+ 877. http://www.boston.com/news/globe/editorial_opinion/oped/articles/2004/11/15/dungeons_and_dragons_we_love_you/
+ 878. http://www.indie-rpgs.com/articles/20/
+ 879. file://localhost/wiki/Indie_role-playing_game#The_Forge
+ 880. http://www.indie-rpgs.com/articles/20/
+ 881. file://localhost/wiki/Special:BookSources/0967442907
+ 882. file://localhost/wiki/Special:BookSources/0399512934
+ 883. file://localhost/wiki/Special:BookSources/039951533X
+ 884. http://article.nationalreview.com/?q=ZmYzZDFmNWI5MTg1N2FmY2E4MTdlMWU5YzBjZjI1ODM=
+ 885. http://online.wsj.com/public/article/SB121487030020517745.html?mod=2_1578_middlebox
+ 886. file://localhost/wiki/White_Dwarf_(magazine)
+ 887. file://localhost/wiki/Games_Workshop
+ 888. file://localhost/wiki/Special:BookSources/0471783307
+ 889. http://archive.salon.com/tech/feature/2000/03/29/open_dungeon/index.html
+ 890. file://localhost/wiki/Salon.com
+ 891. http://archive.salon.com/tech/feature/2000/03/29/open_dungeon/index.html
+ 892. http://www.rpgstudies.net/
+ 893. http://pc.gamespy.com/articles/538/538848p1.html?fromint=1
+ 894. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit&section=21
+ 895. file://localhost/wiki/File:Dungeons_and_dragons_recording1.ogg
+ 896. file://localhost/wiki/File:Sound-icon.svg
+ 897. file://localhost/wiki/2008
+ 898. file://localhost/wiki/November_22
+ 899. file://localhost/wiki/Wikipedia:Media_help
+ 900. file://localhost/wiki/Wikipedia:Spoken_articles
+ 901. file://localhost/wiki/File:Dungeons_and_dragons_recording1.ogg
+ 902. http://commons.wikimedia.org/wiki/Special:Search/Dungeons_%26_Dragons
+ 903. file://localhost/wiki/Wikimedia_Commons
+ 904. http://commons.wikimedia.org/wiki/Special:Search/Dungeons_%26_Dragons
+ 905. http://en.wikibooks.org/wiki/Special:Search/Dungeons_%26_Dragons
+ 906. file://localhost/wiki/Wikibooks
+ 907. http://en.wikibooks.org/wiki/Special:Search/Dungeons_%26_Dragons
+ 908. http://en.wiktionary.org/wiki/Special:Search/Dungeons_%26_Dragons
+ 909. http://en.wiktionary.org/wiki/Special:Search/dungeons_%26_dragons
+ 910. file://localhost/wiki/Wiktionary
+ 911. http://www.wizards.com/dnd
+ 912. http://www.dmoz.org/Games/Roleplaying/Genres/Fantasy/Dungeons_&_Dragons/
+ 913. file://localhost/wiki/Open_Directory_Project
+ 914. http://www.d20srd.org/
+ 915. http://www.dandwiki.com/
+ 916. http://home.flash.net/~brenfrow/
+ 917. http://www.acaeum.com/
+ 918. file://localhost/wiki/Template:D%26D_basics
+ 919. file://localhost/wiki/Template_talk:D%26D_basics
+ 920. http://en.wikipedia.org/w/index.php?title=Template:D%26D_basics&action=edit
+ 921. file://localhost/wiki/Dungeons_%26_Dragons_controversies
+ 922. file://localhost/wiki/Editions_of_Dungeons_%26_Dragons
+ 923. file://localhost/wiki/Dungeons_%26_Dragons_game_mechanics
+ 924. file://localhost/wiki/Dungeons_%26_Dragons_in_popular_culture
+ 925. file://localhost/wiki/Dungeons_%26_Dragons_rulebooks
+ 926. file://localhost/wiki/Sources_and_influences_on_the_development_of_Dungeons_%26_Dragons
+ 927. file://localhost/wiki/Dungeons_%26_Dragons_campaign_settings
+ 928. file://localhost/wiki/Dungeons_%26_Dragons_related_products
+ 929. file://localhost/wiki/Dungeons_%26_Dragons_game_mechanics
+ 930. file://localhost/wiki/Magic_of_Dungeons_%26_Dragons
+ 931. file://localhost/wiki/Alignment_(Dungeons_%26_Dragons)
+ 932. file://localhost/wiki/Character_class_(Dungeons_%26_Dragons)
+ 933. file://localhost/wiki/Character_race_(Dungeons_%26_Dragons)
+ 934. file://localhost/wiki/Magic_item_(Dungeons_%26_Dragons)
+ 935. file://localhost/wiki/Lists_of_Dungeons_%26_Dragons_monsters
+ 936. file://localhost/wiki/Gary_Gygax
+ 937. file://localhost/wiki/Dave_Arneson
+ 938. file://localhost/wiki/Ed_Greenwood
+ 939. file://localhost/wiki/Margaret_Weis
+ 940. file://localhost/wiki/Tracy_Hickman
+ 941. file://localhost/wiki/TSR,_Inc.
+ 942. file://localhost/wiki/Wizards_of_the_Coast
+ 943. file://localhost/wiki/Dungeons_%26_Dragons_(TV_series)
+ 944. file://localhost/wiki/Dungeons_%26_Dragons_(film)
+ 945. file://localhost/wiki/Dungeons_%26_Dragons_2:_Wrath_of_the_Dragon_God
+ 946. file://localhost/wiki/Dungeons_%26_Dragons_(album)
+ 947. file://localhost/wiki/Dungeons_%26_Dragons_Miniatures_Game
+ 948. file://localhost/wiki/List_of_Dungeons_%26_Dragons_video_games
+ 949. file://localhost/wiki/System_Reference_Document
+ 950. file://localhost/wiki/Open_Game_License
+ 951. file://localhost/wiki/Game_System_License
+ 952. file://localhost/wiki/Wikipedia:Featured_articles
+ 953. http://en.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 954. file://localhost/wiki/Special:Categories
+ 955. file://localhost/wiki/Category:Spoken_articles
+ 956. file://localhost/wiki/Category:Featured_articles
+ 957. file://localhost/wiki/Category:Dungeons_%26_Dragons
+ 958. file://localhost/wiki/Category:Origins_Award_winners
+ 959. file://localhost/wiki/Category:1974_introductions
+ 960. file://localhost/wiki/Category:Wizards_of_the_Coast_games
+ 961. file://localhost/wiki/Dungeons_%26_Dragons
+ 962. file://localhost/wiki/Talk:Dungeons_%26_Dragons
+ 963. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=edit
+ 964. file://localhost/w/index.php?title=Dungeons_%26_Dragons&action=history
+ 965. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dungeons_%26_Dragons
+ 966. file://localhost/wiki/Main_Page
+ 967. file://localhost/wiki/Portal:Contents
+ 968. file://localhost/wiki/Portal:Featured_content
+ 969. file://localhost/wiki/Portal:Current_events
+ 970. file://localhost/wiki/Special:Random
+ 971. file://localhost/wiki/Wikipedia:About
+ 972. file://localhost/wiki/Wikipedia:Community_portal
+ 973. file://localhost/wiki/Special:RecentChanges
+ 974. file://localhost/wiki/Wikipedia:Contact_us
+ 975. http://wikimediafoundation.org/wiki/Donate
+ 976. file://localhost/wiki/Help:Contents
+ 977. file://localhost/wiki/Special:WhatLinksHere/Dungeons_%26_Dragons
+ 978. file://localhost/wiki/Special:RecentChangesLinked/Dungeons_%26_Dragons
+ 979. file://localhost/wiki/Wikipedia:Upload
+ 980. file://localhost/wiki/Special:SpecialPages
+ 981. file://localhost/w/index.php?title=Dungeons_%26_Dragons&printable=yes
+ 982. file://localhost/w/index.php?title=Dungeons_%26_Dragons&oldid=273233764
+ 983. file://localhost/w/index.php?title=Special:Cite&page=Dungeons_%26_Dragons&id=273233764
+ 984. http://br.wikipedia.org/wiki/Kevio%C3%B9_hag_erevent
+ 985. http://ca.wikipedia.org/wiki/Dungeons_%26_Dragons_(joc_de_rol)
+ 986. http://cs.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 987. http://cy.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 988. http://da.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 989. http://de.wikipedia.org/wiki/Dungeons_and_Dragons
+ 990. http://es.wikipedia.org/wiki/Dungeons_%26_Dragons_(juego_de_rol)
+ 991. http://eo.wikipedia.org/wiki/Drakoj_kaj_Galerioj
+ 992. http://fr.wikipedia.org/wiki/Donjons_et_dragons
+ 993. http://gl.wikipedia.org/wiki/Dungeons_%26_Dragons_(xogo_de_rol)
+ 994. http://hr.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 995. http://id.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 996. http://it.wikipedia.org/wiki/Dungeons_%26_Dragons
+ 997. http://la.wikipedia.org/wiki/Ludus_Catacumbarum_et_Catobleparum
+ 998. http://hu.wikipedia.org/wiki/Dungeons_and_Dragons
+ 999. http://nl.wikipedia.org/wiki/Dungeons_%26_Dragons_(RPG)
+1000. http://no.wikipedia.org/wiki/Dungeons_%26_Dragons
+1001. http://nn.wikipedia.org/wiki/Dungeons_%26_Dragons
+1002. http://pl.wikipedia.org/wiki/Dungeons_%26_Dragons
+1003. http://pt.wikipedia.org/wiki/Dungeons_%26_Dragons
+1004. http://sco.wikipedia.org/wiki/Dunnys_%26_Dragons
+1005. http://simple.wikipedia.org/wiki/Dungeons_%26_Dragons
+1006. http://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D1%83%D0%BC%D0%B8_%D0%B8_%D0%B7%D0%BC%D0%B0%D1%98%D0%B5%D0%B2%D0%B8
+1007. http://fi.wikipedia.org/wiki/Dungeons_%26_Dragons
+1008. http://sv.wikipedia.org/wiki/Dungeons_%26_Dragons
+1009. http://tr.wikipedia.org/wiki/Zindanlar_ve_Ejderhalar
+1010. http://www.mediawiki.org/
+1011. http://wikimediafoundation.org/
+1012. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+1013. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+1014. http://www.wikimediafoundation.org/
+1015. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+1016. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+1017. http://en.wikipedia.org/wiki/Non-profit_organization
+1018. http://en.wikipedia.org/wiki/Charitable_organization
+1019. http://wikimediafoundation.org/wiki/Privacy_policy
+1020. file://localhost/wiki/Wikipedia:About
+1021. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+1022. file://localhost/wiki/File:Newdndlogo.jpg
+1023. file://localhost/wiki/File:Dungeons_and_Dragons_game.jpg
+1024. file://localhost/wiki/File:Dungeons_and_Dragons_game.jpg
+1025. file://localhost/wiki/File:Dnd_v3_5_rulesbooks.png
+1026. file://localhost/wiki/File:Dnd_v3_5_rulesbooks.png
+1027. file://localhost/wiki/File:DnD_Dice_Set.jpg
+1028. file://localhost/wiki/File:DnD_Dice_Set.jpg
+1029. file://localhost/wiki/File:Dungeons_%26_Dragons_Miniatures_2.jpg
+1030. file://localhost/wiki/File:Dungeons_%26_Dragons_Miniatures_2.jpg
+1031. file://localhost/wiki/File:D%26d_Box1st.jpg
+1032. file://localhost/wiki/File:D%26d_Box1st.jpg
+1033. file://localhost/wiki/File:DungeonMasterGuide4Cover.jpg
+1034. file://localhost/wiki/File:DungeonMasterGuide4Cover.jpg
+1035. file://localhost/wiki/File:D%26D_Game_1.jpg
+1036. file://localhost/wiki/File:D%26D_Game_1.jpg
+1037. file://localhost/wiki/File:Icosahedron.svg
+1038. file://localhost/wiki/File:Icosahedron.svg
+1039. file://localhost/wiki/Main_Page
+1040. http://ko.wikipedia.org/wiki/%EB%8D%98%EC%A0%84_%EC%95%A4_%EB%93%9C%EB%9E%98%EA%B3%A4
+1041. http://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%95%D7%9B%D7%99%D7%9D_%D7%95%D7%93%D7%A8%D7%A7%D7%95%D7%A0%D7%99%D7%9D
+1042. http://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BA%26%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA
+1043. http://ru.wikipedia.org/wiki/Dungeons_%26_Dragons
+1044. http://zh.wikipedia.org/wiki/%E9%BE%99%E4%B8%8E%E5%9C%B0%E4%B8%8B%E5%9F%8E

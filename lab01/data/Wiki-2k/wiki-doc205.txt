@@ -1,0 +1,517 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Donkey pronoun
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Donkey anaphor)
+   Jump to: [7]navigation, [8]search
+
+   A donkey pronoun is a pronoun that is [9]bound in [10]semantics but not
+   [11]syntax.^[12][1]^[13][2] Some writers prefer the term donkey
+   anaphora, since it is the [14]referential aspects and [15]discourse or
+   [16]syntactic context that are of interest to researchers (see
+   [17]anaphora). The terms d-type or e-type pronoun are also used,
+   [18]mutually exclusively, dependent on theoretical approach to
+   [19]interpretation. A sentence containing a donkey pronoun is sometimes
+   called a [20]donkey sentence.
+
+   The term donkey pronoun was coined from a [21]counterexample provided
+   by [22]Peter Geach (1962) to [23]Richard Montague's proposal for a
+   generalized formal representation of [24]quantification in [25]natural
+   language. The example was reused by [26]David Lewis (1975), [27]Gareth
+   Evans (1977) and many others, and is still quoted in recent
+   publications. The original donkey sentence is as follows.
+     * Every farmer who owns a donkey beats it. [28]Peter Geach, Reference
+       and Generality
+
+   This sentence is significant because it represents a class of
+   well-formed natural language sentences that defy straight-forward
+   attempts to generate their [29]formal language equivalents. The
+   difficulty is with understanding how English speakers [30]parse the
+   scope of quantification in such sentences.^[31][3] Additionally, the
+   [32]indefinite article 'a' is normally understood as an [33]existential
+   quantifier, but the most natural reading of the donkey sentence
+   requires it to be understood as a nested [34]universal quantifier.
+   There are other features of the sentence that require careful
+   consideration for adequate description.
+
+   The donkey pronoun in the example sentence is the word it.
+
+   There is nothing "wrong" with donkey sentences. They are grammatically
+   "correct", they are well-formed, their syntax is regular. They are also
+   logically meaningful, they have well-defined [35]truth conditions,
+   their semantics is unambiguous. It is precisely this that makes them
+   interesting. The difficulty is with explaining how syntactic elements
+   give rise to the semantic result; and in a way that generalizes
+   consistently with all other language use. Then, for example, we could
+   program a computer to accurately translate natural language forms into
+   [36]logical form.^[37][4] The question is, how are natural language
+   users, apparently effortlessly, agreeing on the meaning of sentences
+   like these?
+
+   There may be several equivalent ways of describing this process. In
+   fact, [38]Hans Kamp (1981) and [39]Irene Heim (1982) independently
+   proposed very similar accounts in different terminology, which they
+   called [40]discourse representation theory (DRT) and [41]file change
+   semantics (FCS) respectively.
+
+   In 2007, Adrian Brasoveanu published studies of donkey pronoun analogs
+   in [42]Hindi, and analysis of complex and [43]modal versions of donkey
+   pronouns in English.
+
+Contents
+
+     * [44]1 Discourse Representation Theory
+     * [45]2 See also
+     * [46]3 Notes
+     * [47]4 External links
+     * [48]5 Literature
+
+[[49]edit] Discourse Representation Theory
+
+   Donkey sentences became a major force in advancing [50]semantic
+   research in the 1980s, with the introduction of [51]discourse
+   representation theory (DRT). During that time, an effort was made to
+   settle the inconsistencies which arose from the attempts to translate
+   donkey sentences into [52]first-order logic.
+
+   Donkey sentences present the following problem, when represented in
+   first-order logic: The systematic translation of every existential
+   expression in the sentence into existential quantifiers produces an
+   incorrect representation of the sentence, since it leaves a free
+   occurrence of the variable y in BEAT(x.y):
+
+          \forall x\, (\text{FARMER} (x) \and \exists y \,(
+          \text{DONKEY}(y) \and \text{OWNS}(x,y)) \rightarrow
+          \text{BEAT}(x,y))
+
+   Trying to extend the scope of existential quantifier also does not
+   solve the problem:
+
+          \forall x \,\exists y\, (\text{FARMER} (x) \and \text{DONKEY}(y)
+          \and \text{OWNS}(x,y) \rightarrow \text{BEAT}(x,y))
+
+   In this case, the logical translation fails to give correct truth
+   conditions to donkey sentences: Imagine a situation where there is a
+   farmer owning a donkey and a pig, and not beating any of them. The
+   formula will be true in that situation, because for each farmer we need
+   to find at least one object that either is not a donkey owned by this
+   farmer, or is beaten by the farmer. Hence, if this object denotes the
+   pig, the sentence will be true in that situation.
+
+   A correct translation into first-order logic for the donkey sentence
+   seems to be:
+
+          \forall x\, \forall y\, (\text{FARMER} (x) \and \text{DONKEY}(y)
+          \and \text{OWNS}(x,y) \rightarrow \text{BEAT}(x,y))
+
+   Unfortunately, this translation leads to a serious problem of
+   inconsistency. Indefinites must sometimes be interpreted as existential
+   quantifiers, and other times as universal quantifiers, without any
+   apparent regularity.
+
+   The solution that [53]DRT provides for the donkey sentence problem can
+   be roughly outlined as follows: The common semantic function of
+   non-anaphoric [54]noun phrases is the introduction of a new
+   [55]discourse referent, which is in turn available for the binding of
+   anaphoric expressions. No quantifiers are introduced into the
+   representation, thus overcoming the scope problem that the logical
+   translations had.
+
+[[56]edit] See also
+
+     * [57]Epsilon calculus
+     * [58]Generic antecedent
+     * [59]Lambda calculus
+     * [60]Montague grammar
+     * [61]Singular they
+
+[[62]edit] Notes
+
+    1. [63]^ Emar Maier describes donkey pronouns as "bound but not
+       [64]c-commanded" in a [65]Linguist List [66]review of Paul D.
+       Elbourne's Situations and Individuals ([67]MIT Press, 2006).
+    2. [68]^ Barker and Shan define a donkey pronoun as "a pronoun that
+       lies outside the restrictor of a [69]quantifier or the
+       [70]antecedent of a [71]conditional, yet [72]covaries with some
+       [73]quantificational element inside it, usually an [74]indefinite."
+       Chris Barker and Chung-chieh Shan, [75]'Donkey Anaphora is Simply
+       Binding', colloquium presentation, Frankfurt, 2007.
+    3. [76]^ Lewis describes this as his motivation for considering the
+       issue in the introduction to Papers in Philosophical Logic, a
+       collection of reprints of his articles. "There was no satisfactory
+       way to assign relative scopes to quantifier phrases." ([77]CUP,
+       1998: 2.)
+    4. [78]^ Alistair Knott, [79]'An Algorithmic Framework for Specifying
+       the Semantics of Discourse Relations', Computational Intelligence
+       16 (2000).
+
+[[80]edit] External links
+
+     * [81]The Handbook of Philosophical Logic
+     * [82]Discourse Representation Theory
+     * [83]Introduction to Discourse Representation Theory
+     * [84]SEP Entry
+     * [85]Archive of CSI 5386 Donkey Sentence Discussion
+     * Barker, Chris. [86]'A Presuppositional Account of Proportional
+       Ambiguity'. In Proceedings of Semantic and Linguistic Theory (SALT)
+       3. Ithaca, New York: [87]Cornell University, 1993. Pages 118.
+     * Brasoveanu, Adrian. [88]'Donkey Pluralities: Plural Information
+       States vs. Non-Atomic Individuals'. In Proceedings of Sinn und
+       Bedeutung 11. Edited by E. Puig-Waldmller. Barcelona: [89]Pompeu
+       Fabra University, 2007. Pages 106120.
+     * [90]Evans, Gareth. 'Pronouns, Quantifiers, and Relative Clauses
+       (I)'. Canadian Journal of Philosophy 7 (1977): 467536.
+     * Geurts, Bart. [91]'Donkey Business'. [92]Linguistics and Philosophy
+       25 (2002): 129156.
+     * Huang, C-T James. [93]'Logical Form'. Chapter 3 in Government and
+       Binding Theory and the Minimalist Program: Principles and
+       Parameters in Syntactic Theory edited by Gert Webelhuth. Oxford and
+       Cambridge: [94]Blackwell Publishing, 1995. Pages 127177.
+     * [95]Kamp, Hans. [96]'A Theory of Truth and Semantic
+       Representation'. In J. Groenendijk and others (eds.). Formal
+       Methods in the Study of Language. Amsterdam: Mathematics Center,
+       1981.
+     * Kitagawa, Yoshihishi. [97]'Copying Variables'. Chapter 2 in
+       Functional Structure(s), Form and Interpretation: Perspectives from
+       East Asian Languages. Edited by Yen-hui Audrey Li and others.
+       [98]Routledge, 2003. Pages 2864.
+     * [99]Lewis, David. [100]'Adverbs of Quantification'. In Formal
+       Semantics of Natural Language. Edited by Edward L Keenan.
+       Cambridge: [101]Cambridge University Press, 1975. Pages 315.
+     * [102]Montague, Richard. [103]'The Proper Treatment of
+       Quantification in Ordinary English'. In KJJ Hintikka and others
+       (eds). Proceedings of the 1970 Stanford Workshop on Grammar and
+       Semantics. Dordrecht: Reidel, 1973. Pages 212242.
+
+[[104]edit] Literature
+
+     * Abbott, Barbara. [105]'Donkey Demonstratives'. [106]Natural
+       Language Semantics 10 (2002): 285298.
+     * Barker, Chris. 'Individuation and Quantification'. [107]Linguistic
+       Inquiry 30 (1999): 683691.
+     * Barker, Chris. 'Presuppositions for Proportional Quantifiers'.
+       [108]Natural Language Semantics 4 (1996): 237259.
+     * Brasoveanu, Adrian. Structured Nominal and Modal Reference.
+       [109]Rutgers University PhD [110]dissertation, 2007.
+     * Burgess, John P. 'E Pluribus Unum: Plural Logic and Set Theory',
+       Philosophia Mathematica 12 (2004): 193221.
+     * Cheng, Lisa LS and C-T James Huang. [111]'Two Types of Donkey
+       Sentences'. [112]Natural Language Semantics 4 (1996): 121163.
+     * Cohen, Ariel. Think Generic! Stanford, California: [113]CSLI
+       Publications, 1999.
+     * Conway, L. and S. Crain. 'Donkey Anaphora in Child Grammar'. In
+       Proceedings of the North East Linguistics Society (NELS) 25.
+       [114]University of Massachusetts Amherst, 1995.
+     * [115]Evans, Gareth. 'Pronouns'. [116]Linguistic Inquiry 11 (1980):
+       337362.
+     * [117]Geach Peter. Reference and Generality: An Examination of Some
+       Medieval and Modern Theories. Ithaca, New York: [118]Cornell
+       University Press, 1962.
+     * Geurts, Bart. Presuppositions and Pronouns. Oxford: [119]Elsevier,
+       1999.
+     * Harman, Gilbert. 'Anaphoric Pronouns as Bound Variables: Syntax or
+       Semantics?' [120]Language 52 (1976): 7881.
+     * [121]Heim, Irene. [122]'E-Type Pronouns and Donkey Anaphora'.
+       [123]Linguistics and Philosophy 13 (1990): 137177.
+     * [124]Heim, Irene. The Semantics of Definite and Indefinite Noun
+       Phrases. [125]University of Massachusetts Amherst PhD
+       [126]dissertation, 1982.
+     * Just, MA. 'Comprehending Quantified Sentences: The Relation between
+       Sentencepicture and Semantic Memory Verification'. [127]Cognitive
+       Psychology 6 (1974): 216236.
+     * Just, MA and PA Carpenter. 'Comprehension of Negation with
+       Quantification'. Journal of Verbal Learning and Verbal Behavior 10
+       (1971): 244253.
+     * Kanazawa, Makoto. [128]'Singular Donkey Pronouns Are Semantically
+       Singular'. [129]Linguistics and Philosophy 24 (2001): 383403.
+     * Kanazawa, Makoto. 'Weak vs. Strong Readings of Donkey Sentences and
+       Monotonicity Inference in a Dynamic Setting'. [130]Linguistics and
+       Philosophy 17 (1994): 109158.
+     * Krifka, Manfred. 'Pragmatic Strengthening in Plural Predications
+       and Donkey Sentences'. In Proceedings from Semantics and Linguistic
+       Theory (SALT) 6. Ithaca, New York: [131]Cornell University, 1996.
+       Pages 136153.
+     * Lappin, Shalom. 'An Intensional Parametric Semantics for Vague
+       Quantifiers'. [132]Linguistics and Philosophy 23 (2000): 599620.
+     * Lappin, Shalom Lappin and Nissim Francez. 'E-type Pronouns, i-Sums,
+       and Donkey Anaphora'. [133]Linguistics and Philosophy 17 (1994):
+       391428.
+     * Lappin, Shalom. 'Donkey Pronouns Unbound'. [134]Theoretical
+       Linguistics 15 (1989): 263286.
+     * [135]Lewis, David. Parts of Classes, Oxford: [136]Blackwell
+       Publishing, 1991.
+     * [137]Lewis, David. 'General Semantics'. Synthese 22 (1970): 1827.
+     * [138]Partee, Barbara H. 'Opacity, Coreference, and Pronouns'.
+       Synthese 21 (1970): 359385.
+     * [139]Montague, Richard. 'Universal Grammar'. Theoria 26 (1970):
+       373398.
+     * [140]Neale, Stephen. Descriptions. Cambridge: [141]MIT Press, 1990.
+     * [142]Neale, Stephen. 'Descriptive Pronouns and Donkey Anaphora'.
+       [143]Journal of Philosophy 87 (1990): 113-150.
+     * [144]Quine, Willard Van Orman. Word and Object. Cambridge,
+       Massachusetts: [145]MIT Press, 1970.
+     * Rooij, Robert van. [146]'Free Choice Counterfactual Donkeys'.
+       [147]Journal of Semantics 23 (2006): 383402.
+     * Yoon, Y-E. Weak and Strong Interpretations of Quantifiers and
+       Definite NPs in English and Korean. [148]University of Texas at
+       Austin PhD [149]dissertation, 1994.
+
+     * Kamp, Hans. and Reyle, U. 1993. From Discourse to Logic. Kluwer,
+       Dordrecht.
+     * Kadmon, N. 2001. Formal Pragmatics: Semantics, Pragmatics,
+       Presupposition, and Focus. Oxford: Blackwell Publishers.
+
+   Retrieved from "[150]http://en.wikipedia.org/wiki/Donkey_pronoun"
+   [151]Categories: [152]Pronouns | [153]Quantification
+
+Views
+
+     * [154]Article
+     * [155]Discussion
+     * [156]Edit this page
+     * [157]History
+
+Personal tools
+
+     * [158]Log in / create account
+
+Navigation
+
+     * [159]Main page
+     * [160]Contents
+     * [161]Featured content
+     * [162]Current events
+     * [163]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [164]About Wikipedia
+     * [165]Community portal
+     * [166]Recent changes
+     * [167]Contact Wikipedia
+     * [168]Donate to Wikipedia
+     * [169]Help
+
+Toolbox
+
+     * [170]What links here
+     * [171]Related changes
+     * [172]Upload file
+     * [173]Special pages
+     * [174]Printable version
+     * [175]Permanent link
+     * [176]Cite this page
+
+   [177]Powered by MediaWiki
+   [178]Wikimedia Foundation
+     * This page was last modified on 8 February 2009, at 13:31.
+     * All text is available under the terms of the [179]GNU Free
+       Documentation License. (See [180]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [181]Wikimedia
+       Foundation, Inc., a U.S. registered [182]501(c)(3)
+       [183]tax-deductible [184]nonprofit [185]charity.
+     * [186]Privacy policy
+     * [187]About Wikipedia
+     * [188]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Donkey_pronoun&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Donkey_anaphor&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#searchInput
+   9. file://localhost/wiki/Free_variables_and_bound_variables
+  10. file://localhost/wiki/Semantics
+  11. file://localhost/wiki/Syntax
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_note-0
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_note-1
+  14. file://localhost/wiki/Reference
+  15. file://localhost/wiki/Discourse
+  16. file://localhost/wiki/Syntax
+  17. file://localhost/wiki/Anaphora_(linguistics)
+  18. file://localhost/wiki/Mutual_exclusivity
+  19. file://localhost/wiki/Interpretation
+  20. file://localhost/wiki/Donkey_sentence
+  21. file://localhost/wiki/Counterexample
+  22. file://localhost/wiki/Peter_Geach
+  23. file://localhost/wiki/Richard_Montague
+  24. file://localhost/wiki/Quantification
+  25. file://localhost/wiki/Natural_language
+  26. file://localhost/wiki/David_Kellogg_Lewis
+  27. file://localhost/wiki/Gareth_Evans_(philosopher)
+  28. file://localhost/wiki/Peter_Geach
+  29. file://localhost/wiki/Formal_language
+  30. file://localhost/wiki/Parsing
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_note-2
+  32. file://localhost/wiki/Indefinite_article
+  33. file://localhost/wiki/Existential_quantifier
+  34. file://localhost/wiki/Universal_quantifier
+  35. file://localhost/wiki/Truth_conditions
+  36. file://localhost/wiki/Logical_form
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_note-3
+  38. file://localhost/wiki/Hans_Kamp
+  39. file://localhost/wiki/Irene_Heim
+  40. file://localhost/wiki/Discourse_representation_theory
+  41. file://localhost/w/index.php?title=File_change_semantics&action=edit&redlink=1
+  42. file://localhost/wiki/Hindi
+  43. file://localhost/wiki/Modal_logic
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#Discourse_Representation_Theory
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#See_also
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#Notes
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#External_links
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#Literature
+  49. file://localhost/w/index.php?title=Donkey_pronoun&action=edit&section=1
+  50. file://localhost/wiki/Semantics
+  51. file://localhost/wiki/Discourse_representation_theory
+  52. file://localhost/wiki/First-order_logic
+  53. file://localhost/wiki/Discourse_representation_theory
+  54. file://localhost/wiki/Noun_phrase
+  55. file://localhost/w/index.php?title=Discourse_referent&action=edit&redlink=1
+  56. file://localhost/w/index.php?title=Donkey_pronoun&action=edit&section=2
+  57. file://localhost/wiki/Epsilon_calculus
+  58. file://localhost/wiki/Generic_antecedent
+  59. file://localhost/wiki/Lambda_calculus
+  60. file://localhost/wiki/Montague_grammar
+  61. file://localhost/wiki/Singular_they
+  62. file://localhost/w/index.php?title=Donkey_pronoun&action=edit&section=3
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_ref-0
+  64. file://localhost/wiki/C-command
+  65. file://localhost/wiki/Linguist_List
+  66. http://www.linguistlist.org/issues/17/17-3393.html
+  67. file://localhost/wiki/MIT_Press
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_ref-1
+  69. file://localhost/wiki/Quantification
+  70. file://localhost/wiki/Antecedent
+  71. file://localhost/wiki/Conditional
+  72. file://localhost/wiki/Covariance
+  73. file://localhost/wiki/Quantification
+  74. file://localhost/wiki/Indefinite
+  75. http://www.semanticsarchive.net/Archive/2Y2ODI4Z/barker-shan-donkeys.pdf
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_ref-2
+  77. file://localhost/wiki/Cambridge_University_Press
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc205.tmp.html#cite_ref-3
+  79. http://www.cs.otago.ac.nz/staffpriv/alik/papers/cirevision.pdf
+  80. file://localhost/w/index.php?title=Donkey_pronoun&action=edit&section=4
+  81. http://www.ims.uni-stuttgart.de/~hans/hpl-drt.pdf
+  82. http://homepages.cwi.nl/~jve/papers/05/drt/drt.pdf
+  83. http://www.alta.asn.au/events/altss_w2003_proc/public_lectures/knott/knott.html
+  84. http://plato.stanford.edu/entries/discourse-representation-theory/
+  85. http://www.csi.uottawa.ca/~kbarker/teach/5386/donkey.html
+  86. http://books.google.com.au/books?id=ZIqGqn98OOMC&pg=PA303&lpg=PA303&dq=%22a+presuppositional+account+of+proportional+ambiguity%22&source=web&ots=0CAAK5sHZ8&sig=2DamB3jw3NRit9ebKBHXd7S2kwE&hl=en
+  87. file://localhost/wiki/Cornell_University
+  88. http://semanticsarchive.net/Archive/2FlYTZjO/donkey_pluralities_aug2007.html
+  89. file://localhost/wiki/Pompeu_Fabra_University
+  90. file://localhost/wiki/Gareth_Evans
+  91. http://www.ru.nl/ncs/bart/papers/donkeys.pdf
+  92. http://www.springer.com/linguistics/semantics/journal/10988
+  93. http://books.google.com.au/books?id=EHuiqtSwgv8C&pg=PR6&lpg=PR6&dq=logical+form+james+huang+university&source=web&ots=ApZYb_mjwz&sig=Y_HCVE4B51WqrsZkpPjXDKFTcOY&hl=en
+  94. file://localhost/wiki/Blackwell_Publishing
+  95. file://localhost/wiki/Hans_Kamp
+  96. http://books.google.com.au/books?hl=en&lr=&id=clYhtZ3RdTIC&oi=fnd&pg=PA1&dq=hans+kamp&ots=VpW0df39DM&sig=t_IQKL__NvUhJay3INoH7Bjdjlc
+  97. http://books.google.com.au/books?id=GA1Mr2xx5rUC&pg=PA54&lpg=PA54&dq=%22donkey+pronoun%22&source=web&ots=C19MpQ4-44&sig=o5tUkGAsG1pfOK6aRTZVKs28Z5s&hl=en
+  98. file://localhost/wiki/Routledge
+  99. file://localhost/wiki/David_Kellogg_Lewis
+ 100. http://books.google.com.au/books?id=Iqx80pAilKcC&pg=PA97&dq=%22adverbs+of+quantification%22+%22cast+of+characters%22&sig=XUVYIRzLEjd-nPAi_2wq-J1DcdA
+ 101. file://localhost/wiki/Cambridge_University_Press
+ 102. file://localhost/wiki/Richard_Montague
+ 103. http://semantics.uchicago.edu/kennedy/classes/s08/semantics2/montague73.pdf
+ 104. file://localhost/w/index.php?title=Donkey_pronoun&action=edit&section=5
+ 105. http://www.springerlink.com/content/h341505636560743/
+ 106. file://localhost/wiki/Natural_Language_Semantics
+ 107. file://localhost/wiki/Linguistic_Inquiry
+ 108. file://localhost/wiki/Natural_Language_Semantics
+ 109. file://localhost/wiki/Rutgers_University
+ 110. file://localhost/wiki/Dissertation
+ 111. http://www.springerlink.com/content/gh791025x82x6766/
+ 112. file://localhost/wiki/Natural_Language_Semantics
+ 113. file://localhost/wiki/Center_for_the_Study_of_Language_and_Information
+ 114. file://localhost/wiki/University_of_Massachusetts_Amherst
+ 115. file://localhost/wiki/Gareth_Evans_(philosopher)
+ 116. file://localhost/wiki/Linguistic_Inquiry
+ 117. file://localhost/wiki/Peter_Geach
+ 118. file://localhost/wiki/Cornell_University#Press
+ 119. file://localhost/wiki/Elsevier
+ 120. file://localhost/wiki/Language_(journal)
+ 121. file://localhost/wiki/Irene_Heim
+ 122. http://www.springerlink.com/content/u533354617l67818/
+ 123. http://www.springer.com/linguistics/semantics/journal/10988
+ 124. file://localhost/wiki/Irene_Heim
+ 125. file://localhost/wiki/University_of_Massachusetts_Amherst
+ 126. file://localhost/wiki/Dissertation
+ 127. file://localhost/wiki/Cognitive_Psychology
+ 128. http://www.springerlink.com/content/h1145h642pr81r5r/
+ 129. http://www.springer.com/linguistics/semantics/journal/10988
+ 130. http://www.springer.com/linguistics/semantics/journal/10988
+ 131. file://localhost/wiki/Cornell_University
+ 132. http://www.springer.com/linguistics/semantics/journal/10988
+ 133. http://www.springer.com/linguistics/semantics/journal/10988
+ 134. file://localhost/wiki/Theoretical_Linguistics_(journal)
+ 135. file://localhost/wiki/David_Kellogg_Lewis
+ 136. file://localhost/wiki/Blackwell_Publishing
+ 137. file://localhost/wiki/David_Kellogg_Lewis
+ 138. file://localhost/wiki/Barbara_Partee
+ 139. file://localhost/wiki/Richard_Montague
+ 140. file://localhost/wiki/Stephen_Neale
+ 141. file://localhost/wiki/MIT_Press
+ 142. file://localhost/wiki/Stephen_Neale
+ 143. file://localhost/wiki/Journal_of_Philosophy
+ 144. file://localhost/wiki/Willard_Van_Orman_Quine
+ 145. file://localhost/wiki/MIT_Press
+ 146. http://jos.oxfordjournals.org/cgi/content/abstract/23/4/383
+ 147. file://localhost/wiki/Journal_of_Semantics
+ 148. file://localhost/wiki/University_of_Texas_at_Austin
+ 149. file://localhost/wiki/Dissertation
+ 150. http://en.wikipedia.org/wiki/Donkey_pronoun
+ 151. file://localhost/wiki/Special:Categories
+ 152. file://localhost/wiki/Category:Pronouns
+ 153. file://localhost/wiki/Category:Quantification
+ 154. file://localhost/wiki/Donkey_pronoun
+ 155. file://localhost/wiki/Talk:Donkey_pronoun
+ 156. file://localhost/w/index.php?title=Donkey_pronoun&action=edit
+ 157. file://localhost/w/index.php?title=Donkey_pronoun&action=history
+ 158. file://localhost/w/index.php?title=Special:UserLogin&returnto=Donkey_pronoun
+ 159. file://localhost/wiki/Main_Page
+ 160. file://localhost/wiki/Portal:Contents
+ 161. file://localhost/wiki/Portal:Featured_content
+ 162. file://localhost/wiki/Portal:Current_events
+ 163. file://localhost/wiki/Special:Random
+ 164. file://localhost/wiki/Wikipedia:About
+ 165. file://localhost/wiki/Wikipedia:Community_portal
+ 166. file://localhost/wiki/Special:RecentChanges
+ 167. file://localhost/wiki/Wikipedia:Contact_us
+ 168. http://wikimediafoundation.org/wiki/Donate
+ 169. file://localhost/wiki/Help:Contents
+ 170. file://localhost/wiki/Special:WhatLinksHere/Donkey_pronoun
+ 171. file://localhost/wiki/Special:RecentChangesLinked/Donkey_pronoun
+ 172. file://localhost/wiki/Wikipedia:Upload
+ 173. file://localhost/wiki/Special:SpecialPages
+ 174. file://localhost/w/index.php?title=Donkey_pronoun&printable=yes
+ 175. file://localhost/w/index.php?title=Donkey_pronoun&oldid=269323104
+ 176. file://localhost/w/index.php?title=Special:Cite&page=Donkey_pronoun&id=269323104
+ 177. http://www.mediawiki.org/
+ 178. http://wikimediafoundation.org/
+ 179. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 180. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 181. http://www.wikimediafoundation.org/
+ 182. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 183. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 184. http://en.wikipedia.org/wiki/Non-profit_organization
+ 185. http://en.wikipedia.org/wiki/Charitable_organization
+ 186. http://wikimediafoundation.org/wiki/Privacy_policy
+ 187. file://localhost/wiki/Wikipedia:About
+ 188. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 189. file://localhost/wiki/Main_Page

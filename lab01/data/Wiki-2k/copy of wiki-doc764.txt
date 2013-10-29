@@ -1,0 +1,754 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Easter egg (media)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Easter egg (DVD))
+   Jump to: [7]navigation, [8]search
+   This article is missing [9]citations or needs [10]footnotes. Please
+   help add [11]inline citations to guard against copyright violations and
+   factual inaccuracies. (February 2008)
+   This article is about hidden messages (for example, in computer
+   software). For a similar phenomenon, see [12]Intertextuality.
+   [13]Hidden messages
+
+   [14]Subliminal messages
+   Audio
+     * [15]Backmasking
+     * [16]Reverse speech
+     * [17]Spectrogram
+
+   Numeric
+     * [18]Numerology
+     * [19]Theomatics
+     * [20]Bible code
+     * [21]Cryptography
+
+   Visual
+     * [22]Fnord
+     * [23]Paranoiac-critical method
+     * [24]Pareidolia
+     * [25]Psychorama
+     * [26]Sacred geometry
+     * [27]Steganography
+
+   See also:
+     * [28]Anagram
+     * [29]Apophenia
+     * Easter egg (media)
+     * [30]Clustering illusion
+     * [31]Observer-expectancy effect
+     * [32]Pattern recognition (psychology)
+     * [33]Paradox
+     * [34]Palindrome
+     * [35]Unconscious mind
+
+   [36]v  [37]d  [38]e
+
+   A virtual Easter egg is an intentional [39]hidden message, [40]in-joke
+   or feature in an object such as a [41]movie, [42]book, [43]CD, [44]DVD,
+   [45]computer program, [46]web page or [47]video game. The term draws a
+   parallel with the custom of the [48]Easter egg hunt observed in many
+   [49]Western nations, but actually is derived by the practice of the
+   last Russian imperial family's tradition of giving elaborately jeweled
+   egg-shaped creations by [50]Faberg which usually contained hidden gifts
+   themselves.^[51][1]
+
+   This practice is similar in some respects to hidden signature motifs
+   such as [52]Diego Rivera including himself in his murals, [53]Alfred
+   Hitchcock's legendary [54]cameo appearances, and various "[55]Hidden
+   Mickeys" that can be found throughout [56]Disneyland. An early example
+   of these kind of "Easter eggs" is [57]Al Hirschfeld's "Nina".
+
+   [58]Atari's [59]Adventure, released in 1979, contained what was thought
+   to be the first video game "Easter egg", the name of the programmer
+   ([60]Warren Robinett). However, evidence of earlier Easter eggs has
+   since surfaced. Several cartridges for the [61]Fairchild Channel F
+   include previously unknown Easter eggs, programmed by Michael Glass and
+   Brad Reid-Selth, that are believed to predate Robinett's
+   work.^[62][2]^[63][3]
+
+Contents
+
+     * [64]1 Computer-related Easter eggs
+          + [65]1.1 Software-based
+          + [66]1.2 Non-software
+     * [67]2 Chip and PCB-based Easter eggs
+     * [68]3 Easter eggs on DVDs
+     * [69]4 Security concerns
+     * [70]5 In fiction
+     * [71]6 See also
+     * [72]7 Notes
+     * [73]8 External links
+
+[[74]edit] Computer-related Easter eggs
+
+[[75]edit] Software-based
+
+   Easter eggs are messages, videos, graphics, sound effects, or an
+   unusual change in program behavior that sometimes occur in a software
+   program in response to some undocumented set of commands, mouse clicks,
+   keystrokes or other stimuli intended as a joke or to display program
+   credits.
+
+   They are often located in the "About" box of a software. For example,
+   two easter eggs exist in the "About" box of Adobe Photoshop 7: an
+   alternative "Liquid Sky" splash screen and the ability to speed up
+   credits to view funny quotations.^[[76]citation needed]
+
+   An early use of the term Easter egg was to describe a message hidden in
+   the [77]object code of a program as a joke, intended to be found by
+   persons disassembling or browsing the code.^[[78]citation needed]
+
+   Easter eggs found in some [79]Unix [80]operating systems caused them to
+   respond to the command "[81]make love" with "not war?" and "why" with
+   "why not" (a reference to [82]The Prisoner in [83]Berkeley Unix 1977).
+   The TOPS-10 operating system (for the DEC PDP-10 computer) had the
+   "make love" hack before 1971; it included a short, thoughtful pause
+   before the response. This same behavior occurred on the [84]RSTS/E
+   operating system where the command "make" was used to invoke the
+   [85]TECO editor, and TECO would also provide this response.
+   [86]Screenshot of [87]Stickies (version 1.0.4 for [88]Mac OS 9) Easter
+   egg. The Easter Egg is shown by typing Antler! and then, typing
+   [89]Return
+
+   The largest Easter egg is purported to be in the Atari 400/800 version
+   of [90]Pitfall II: Lost Caverns, which contains an entire game that was
+   more complex and challenging than the original Pitfall
+   II.^[[91]citation needed]
+
+   Many [92]personal computers have much more elaborate eggs hidden in
+   [93]ROM, including lists of the developers' names, political
+   exhortations, snatches of music, and (in one case) images of the entire
+   development team. Easter eggs in the 1997 version of [94]Microsoft
+   Office include a hidden [95]flight simulator^[96][4]^[97][5] in
+   [98]Microsoft Excel and a [99]pinball game^[100][6] in [101]Word (see
+   [102]Easter eggs in Microsoft products).
+
+   The [103]Palm operating system has elaborately hidden animations and
+   other surprises.^[[104]citation needed] The Debian GNU/Linux package
+   tool [105]apt-get has an Easter egg involving an [106]ASCII cow when
+   variants on "apt-get moo" are typed into the shell.^[[107]citation
+   needed]
+
+   An Easter Egg is found on all^[[108]citation needed] Microsoft Windows
+   Operating Systems prior to XP. In the 3D Text [109]screen saver,
+   entering the text "volcano" will display the names of all the known
+   volcanoes that exist in the world. Microsoft removed this Easter Egg in
+   [110]XP but added others. One which continues till Windows XP is to
+   simultaneously hold the [111]Alt, [112]shift, and the number 2 keys in
+   the [113]Solitaire game to produce a forced win.^[114][7]
+
+   An early version of Microsoft Excel contained a hidden [115]Doom-like
+   action game called "The Hall of Tortured Souls".^[[116]citation needed]
+   Windows 3.1 has a hidden developer credits page, which can be accessed
+   by following a sequence of right-clicking and entering code words which
+   is passed around by word-of-mouth.^[[117]citation needed]
+
+   The tradition of easter eggs remains strong,^[[118]citation needed]
+   including in more recent system software. For example, every version of
+   [119]HP Integrity Virtual Machines added new easter eggs, including the
+   ability to translate the output of guest operating systems in
+   "Gnomish", a "legacy mode" paying tribute to discontinued HP products,
+   or a hidden hpvmtunes command that is supposed to be similar to
+   [120]iTunes.^[[121]citation needed] These easter eggs were never
+   removed, because they all have been engineered to have an actual
+   purpose. The legacy mode, for example, can be used to intercept system
+   errors, and the hpvmtunes command can be used to collect and analyze
+   performance data.^[[122]citation needed]
+
+   Several computer based lighting control desks are known to have Easter
+   Egg games built in. For instance, the Zero88 FatFrog lighting desk has
+   a copy of the Frogger game installed. This is accessible by having an
+   external monitor and keyboard plugged in, and hitting the F1 and F3
+   keys simultaneously.^[[123]citation needed]
+
+[[124]edit] Non-software
+
+   While computer-related Easter eggs are often found in [125]software,
+   occasionally they exist in [126]hardware or [127]firmware of certain
+   devices. On some [128]PCs, the [129]BIOS [130]ROM contains Easter eggs.
+   Notable examples include several early [131]Apple Macintosh models
+   which had pictures of the development team in the ROM (accessible by
+   pressing the programmer's switch and jumping to a specific memory
+   address, or other equally obscure means), and some errant 1993 AMI
+   [132]BIOS that on [133]13 November proceeded to play "Happy Birthday"
+   via the PC speaker over and over again instead of booting. Similarly,
+   the [134]Radio Shack [135]Color Computer 3's ROM contained code which
+   would display the likenesses of three [136]Microware developers on a
+   <ctrl><alt><reset> keypress sequence - a hard reset which would discard
+   any information currently in the dynamic memory.^[137][8]
+
+   Perhaps the most famous example of a hardware Easter egg is in the
+   [138]HP ScanJet 5P, where the device will play the [139]Ode to Joy or
+   [140]Fr Elise by varying the [141]stepper motor speed if users power
+   the device up with the scan button depressed. This is achieved through
+   software intervention.^[[142]citation needed]
+
+   Another Easter egg is found in the [143]Kurzweil K2x musical keyboard
+   series ([144]K2500, [145]K2600 and others): if users type "Pong" while
+   in search mode they can play the game [146]Pong.^[[147]citation needed]
+
+   The EEPROM of Nagra smart cards for the [148]Dish Network
+   [149]satellite television system contain the phrase "NipPEr Is a buTt
+   liCkeR". Nipper was a hacker who broke old security routines on the
+   cards, and this text is included as a fallback to old security
+   routines, where the phrase was hashed against an input text to verify
+   the card.^[[150]citation needed]
+
+   Several [151]oscilloscopes have contained Easter eggs. One example is
+   the HP 54622D, known to have an [152]Asteroids clone (and even to save
+   high scores in [153]NV-RAM).^[154][9]
+
+[[155]edit] Chip and PCB-based Easter eggs
+
+          Main article: [156]Chip art
+
+   Many [157]integrated circuit (chip) designers have included [158]hidden
+   artwork, including assorted images, phrases, developer initials, logos,
+   and so on. This artwork, like the rest of the chip, is reproduced in
+   each copy by [159]lithography and [160]etching. These are visible only
+   when the chip package is opened and examined under magnification, so
+   they are, in a sense, more of an "[161]inside joke" than most of the
+   Easter eggs included in software.^[[162]citation needed]
+
+   Originally, the Easter eggs served a useful purpose as well. Not unlike
+   [163]cartographers who may insert [164]trap streets or nonexistent
+   [165]landscape features as a [166]copyright infringement detection aid,
+   IC designers may also build non-functional circuits on their chips to
+   help them catch infringers. Easter eggs, however benign, if directly
+   copied by the [167]defendant, could be used in [168]mask work
+   infringement litigation. Changes to the copyright laws (in the USA, the
+   [169]Semiconductor Chip Protection Act of 1984, and similar laws in
+   other countries) now grant automatic exclusive rights to [170]mask
+   works, and the Easter egg no longer serves any practical use.
+
+   [171]Western Digital's [172]MyBook Pro has several words on the metal
+   band that wraps around 3 sides in [173]Morse Code.^[174][10] The code
+   reads:
+PERSONALRELIABLEINNOVATIVESIMPLE
+INNOVATIVEPERSONALDESIGNRELIABLE
+INNOVATIVEDESIGNPERSONALDESIGN
+SIMPLEINNOVATIVE
+
+   Most [175]Bungie product boxes have anagrams on the
+   bottom.^[[176]citation needed]
+
+   The [177]Commodore [178]Amiga models 500, 600 and 1200 each featured
+   Easter eggs, in the form of titles of songs by [179]The B-52's etched
+   on the [180]motherboards. The 500 says "[181]Rock Lobster", the 600
+   says "[182]June Bug", and the 1200 says "[183]Channel Z". The
+   [184]Amiga OS software includes a variety of hidden messages as
+   well.^[185][11]
+
+   Several models of [186]S3 Trio 64v+ graphics cards have lyrics of songs
+   by [187]The Beatles printed faintly along the edge of the
+   card.^[[188]citation needed]
+
+   The circuit board under the bottom most plate of HP LaserJet 1100
+   printer has the following text printed on it: "This Product is
+   Dedicated in Memory of our Good Friend Ming-Zen Kuo".^[[189]citation
+   needed]
+
+[[190]edit] Easter eggs on DVDs
+
+   Easter eggs are also found on movie [191]DVDs. In some cases, an extra
+   click to the right or left, or going up in the menu instead of going
+   down to select a choice will bring up a hidden feature, including
+   [192]concept art, humorous [193]outtakes, or [194]deleted
+   scenes.^[195][12]
+
+[[196]edit] Security concerns
+
+   Because of the increase in [197]malware, many companies and government
+   offices forbid the use of software containing Easter eggs for security
+   reasons. With the rise of [198]cybercrime and the prevalence of the
+   Easter egg's "cousin", the [199]logic bomb, there is now concern that
+   if the programmer could slip in undocumented code, then the software
+   cannot be trusted. This is of particular concern in offices where
+   personal or confidential information is stored, making it sensitive to
+   theft and [200]ransom. For this reason, many developers have stopped
+   the practice of adding Easter eggs to their software. Microsoft, who
+   has in the past created some of the largest and most elaborate Easter
+   eggs such as the ones in [201]Microsoft Office, no longer allows Easter
+   eggs in their software as part of their [202]Trustworthy Computing
+   initiative.^[203][13]
+
+[[204]edit] In fiction
+
+   A DVD easter egg is a plot point in "[205]Blink", a 2007 episode of the
+   science fiction series [206]Doctor Who. Appropriately enough, the
+   actual video footage used for the easter egg is included as an easter
+   egg with the episode on its DVD box set release.^[207][14]
+
+[[208]edit] See also
+
+     * [209]Hidden track
+     * [210]Undocumented feature
+     * [211]Easter eggs in Microsoft products
+     * [212]The Book of Mozilla
+
+[[213]edit] Notes
+
+    1. [214]^ [215]Hidden DVD Easter Eggs
+    2. [216]^ [217]The Very First Easter Egg (Was Not Adventure)
+    3. [218]^ [219]Channel F
+    4. [220]^ [221]"Excel 97 Flight to Credits". The Easter Egg Archive.
+       [222]http://eeggs.com/items/718.html.
+    5. [223]^ [224]"Excel 97 Flight Simulator For later versions of
+       Microsoft Excel". The Easter Egg Archive.
+       [225]http://eeggs.com/items/29841.html.
+    6. [226]^ [227]"Pinball in Word 97". The Easter Egg Archive.
+       [228]http://eeggs.com/items/763.html.
+    7. [229]^ David Hoye (March 13, 2003), [230]'Easter egg' hunts can
+       turn up surprises" (subscription required). [231]The Sacramento
+       Bee.
+    8. [232]^ [233]TRS-80 CoCo Wiki on the "3 Mugateers" ROM bitmap.
+    9. [234]^ [235]"HP 54622D Easter Eggs". The Easter Egg Archive.
+       [236]http://www.eeggs.com/items/34063.html.
+   10. [237]^ [238]Morse Code explanation on official Western Digital My
+       Book Webpage.
+   11. [239]^ [240]AmigaOS Easter Eggs from the Amiga History Guide
+   12. [241]^ [242]""DVD Easter Eggs - Hidden Features on DVDs"". DVD
+       Easter Eggs. [243]http://www.dvdeastereggs.com/faq.php. Retrieved
+       on March 22 2008.
+   13. [244]^ Larry Osterman ([245]October 21, [246]2005). [247]"Why no
+       Easter Eggs?". Larry Osterman's WebLog. MSDN Blogs.
+       [248]http://blogs.msdn.com/larryosterman/archive/2005/10/21/483608.
+       aspx. Retrieved on 2006-07-29.
+   14. [249]^ [250]""Doctor Who Series 3 Boxset Blink Easter Egg  Freema
+       Agyeman Forums"".
+       [251]http://freemaagyeman.com/forums/topic/doctor-who-series-three-
+       boxset-blink-easter-egg. Retrieved on March 22 2008.
+
+[[252]edit] External links
+
+     * [253]Easter eggs and the Trusted Computing Base Network World
+       article outlining the concern over Easter eggs
+     * [254]Chip Fun: Microchip-based Easter eggs From the National Museum
+       of American History; photos by Integrated Circuit Engineering Corp.
+     * [255]Lee's PeeknPoke Issue 5 PDF retro game magazine with
+       [256]Atari 2600 hidden Easter egg feature
+     * [257]Software Tips and Tricks Details on Easter eggs found in
+       operating systems and applications.
+     * [258]Egg Heaven Gives details on virtual Easter eggs in software,
+       games and other popular media products.
+     * [259]Hidden DVD Easter Eggs Comprehensive listing of Easter eggs on
+       domestic and foreign DVDs
+     * [260]The Easter Egg Archive large archive of all kinds of Easter
+       eggs.
+
+   Retrieved from "[261]http://en.wikipedia.org/wiki/Easter_egg_(media)"
+   [262]Categories: [263]Computer humor | [264]In-jokes | [265]Software
+   anomalies
+   Hidden categories: [266]Articles with unsourced statements since
+   February 2008 | [267]All articles with unsourced statements |
+   [268]Articles with unsourced statements since February 2009
+
+Views
+
+     * [269]Article
+     * [270]Discussion
+     * [271]Edit this page
+     * [272]History
+
+Personal tools
+
+     * [273]Log in / create account
+
+Navigation
+
+     * [274]Main page
+     * [275]Contents
+     * [276]Featured content
+     * [277]Current events
+     * [278]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [279]About Wikipedia
+     * [280]Community portal
+     * [281]Recent changes
+     * [282]Contact Wikipedia
+     * [283]Donate to Wikipedia
+     * [284]Help
+
+Toolbox
+
+     * [285]What links here
+     * [286]Related changes
+     * [287]Upload file
+     * [288]Special pages
+     * [289]Printable version
+     * [290]Permanent link
+     * [291]Cite this page
+
+Languages
+
+     * [292]Catal
+     * [293]esky
+     * [294]Dansk
+     * [295]Deutsch
+     * [296]Espaol
+     * [297]Franais
+     *
+     * [298]Italiano
+     *
+     * [299]Magyar
+     * [300]Nederlands
+     *
+     * [301]Polski
+     * [302]Portugus
+     *
+     * [303]Slovenina
+     * [304]Svenska
+     *
+
+   [305]Powered by MediaWiki
+   [306]Wikimedia Foundation
+     * This page was last modified on 20 February 2009, at 05:29.
+     * All text is available under the terms of the [307]GNU Free
+       Documentation License. (See [308]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [309]Wikimedia
+       Foundation, Inc., a U.S. registered [310]501(c)(3)
+       [311]tax-deductible [312]nonprofit [313]charity.
+     * [314]Privacy policy
+     * [315]About Wikipedia
+     * [316]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Easter_egg_(media)&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Easter_egg_(DVD)&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:Footnotes
+  11. file://localhost/wiki/Wikipedia:Inline_citations
+  12. file://localhost/wiki/Intertextuality
+  13. file://localhost/wiki/Hidden_message
+  14. file://localhost/wiki/Subliminal_message
+  15. file://localhost/wiki/Backmasking
+  16. file://localhost/wiki/Reverse_speech
+  17. file://localhost/wiki/Spectrogram#Spectrogram.23Creating_sound_from_a_spectrogram
+  18. file://localhost/wiki/Numerology
+  19. file://localhost/wiki/Theomatics
+  20. file://localhost/wiki/Bible_code
+  21. file://localhost/wiki/Cryptography
+  22. file://localhost/wiki/Fnord
+  23. file://localhost/wiki/Paranoiac-critical_method
+  24. file://localhost/wiki/Pareidolia
+  25. file://localhost/wiki/Psychorama
+  26. file://localhost/wiki/Sacred_geometry
+  27. file://localhost/wiki/Steganography
+  28. file://localhost/wiki/Anagram
+  29. file://localhost/wiki/Apophenia
+  30. file://localhost/wiki/Clustering_illusion
+  31. file://localhost/wiki/Observer-expectancy_effect
+  32. file://localhost/wiki/Pattern_recognition_(psychology)
+  33. file://localhost/wiki/Paradox
+  34. file://localhost/wiki/Palindrome
+  35. file://localhost/wiki/Unconscious_mind
+  36. file://localhost/wiki/Template:Hidden_messages
+  37. file://localhost/wiki/Template_talk:Hidden_messages
+  38. http://en.wikipedia.org/w/index.php?title=Template:Hidden_messages&action=edit
+  39. file://localhost/wiki/Hidden_message
+  40. file://localhost/wiki/In-joke
+  41. file://localhost/wiki/Film
+  42. file://localhost/wiki/Book
+  43. file://localhost/wiki/Compact_disc
+  44. file://localhost/wiki/DVD
+  45. file://localhost/wiki/Computer_program
+  46. file://localhost/wiki/Web_page
+  47. file://localhost/wiki/Video_game
+  48. file://localhost/wiki/Easter_egg_hunt
+  49. file://localhost/wiki/Western_world
+  50. file://localhost/wiki/Faberg%C3%A9
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-0
+  52. file://localhost/wiki/Diego_Rivera
+  53. file://localhost/wiki/Alfred_Hitchcock
+  54. file://localhost/wiki/List_of_Hitchcock_cameo_appearances
+  55. file://localhost/wiki/Hidden_Mickeys
+  56. file://localhost/wiki/Disneyland
+  57. file://localhost/wiki/Al_Hirschfeld#Nina
+  58. file://localhost/wiki/Atari
+  59. file://localhost/wiki/Adventure_(Atari_2600)
+  60. file://localhost/wiki/Warren_Robinett
+  61. file://localhost/wiki/Fairchild_Channel_F
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-1
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-2
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Computer-related_Easter_eggs
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Software-based
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Non-software
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Chip_and_PCB-based_Easter_eggs
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Easter_eggs_on_DVDs
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Security_concerns
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#In_fiction
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#See_also
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#Notes
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#External_links
+  74. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=1
+  75. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=2
+  76. file://localhost/wiki/Wikipedia:Citation_needed
+  77. file://localhost/wiki/Object_code
+  78. file://localhost/wiki/Wikipedia:Citation_needed
+  79. file://localhost/wiki/Unix
+  80. file://localhost/wiki/Operating_system
+  81. file://localhost/wiki/Make_(software)
+  82. file://localhost/wiki/The_Prisoner
+  83. file://localhost/wiki/BSD
+  84. file://localhost/wiki/RSTS/E
+  85. file://localhost/wiki/Text_Editor_and_Corrector
+  86. file://localhost/wiki/Screenshot
+  87. file://localhost/wiki/Stickies
+  88. file://localhost/wiki/Mac_OS_9
+  89. file://localhost/wiki/Enter_key
+  90. file://localhost/wiki/Pitfall_II:_Lost_Caverns
+  91. file://localhost/wiki/Wikipedia:Citation_needed
+  92. file://localhost/wiki/Personal_computers
+  93. file://localhost/wiki/Read-only_memory
+  94. file://localhost/wiki/Microsoft_Office
+  95. file://localhost/wiki/Flight_simulator
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-3
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-4
+  98. file://localhost/wiki/Microsoft_Excel
+  99. file://localhost/wiki/Pinball
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-5
+ 101. file://localhost/wiki/Microsoft_Word
+ 102. file://localhost/wiki/Easter_eggs_in_Microsoft_products
+ 103. file://localhost/wiki/Palm_OS
+ 104. file://localhost/wiki/Wikipedia:Citation_needed
+ 105. file://localhost/wiki/Apt-get
+ 106. file://localhost/wiki/ASCII
+ 107. file://localhost/wiki/Wikipedia:Citation_needed
+ 108. file://localhost/wiki/Wikipedia:Citation_needed
+ 109. file://localhost/wiki/Screen_saver
+ 110. file://localhost/wiki/Windows_XP
+ 111. file://localhost/wiki/Alt_key
+ 112. file://localhost/wiki/Shift_key
+ 113. file://localhost/wiki/Solitaire
+ 114. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-6
+ 115. file://localhost/wiki/Doom_(video_game)
+ 116. file://localhost/wiki/Wikipedia:Citation_needed
+ 117. file://localhost/wiki/Wikipedia:Citation_needed
+ 118. file://localhost/wiki/Wikipedia:Citation_needed
+ 119. file://localhost/wiki/HP_Integrity_Virtual_Machines
+ 120. file://localhost/wiki/ITunes
+ 121. file://localhost/wiki/Wikipedia:Citation_needed
+ 122. file://localhost/wiki/Wikipedia:Citation_needed
+ 123. file://localhost/wiki/Wikipedia:Citation_needed
+ 124. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=3
+ 125. file://localhost/wiki/Software
+ 126. file://localhost/wiki/Hardware
+ 127. file://localhost/wiki/Firmware
+ 128. file://localhost/wiki/Personal_computer
+ 129. file://localhost/wiki/BIOS
+ 130. file://localhost/wiki/Read-only_memory
+ 131. file://localhost/wiki/Apple_Macintosh
+ 132. file://localhost/wiki/BIOS
+ 133. file://localhost/wiki/November_13
+ 134. file://localhost/wiki/Radio_Shack
+ 135. file://localhost/wiki/Color_Computer
+ 136. file://localhost/wiki/Microware
+ 137. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-7
+ 138. file://localhost/wiki/Hewlett-Packard
+ 139. file://localhost/wiki/Ode_to_Joy
+ 140. file://localhost/wiki/F%C3%BCr_Elise
+ 141. file://localhost/wiki/Stepper_motor
+ 142. file://localhost/wiki/Wikipedia:Citation_needed
+ 143. file://localhost/wiki/Kurzweil_Music_Systems
+ 144. file://localhost/w/index.php?title=Kurzweil_K2500&action=edit&redlink=1
+ 145. file://localhost/w/index.php?title=Kurzweil_K2600&action=edit&redlink=1
+ 146. file://localhost/wiki/Pong
+ 147. file://localhost/wiki/Wikipedia:Citation_needed
+ 148. file://localhost/wiki/Dish_Network
+ 149. file://localhost/wiki/Satellite_television
+ 150. file://localhost/wiki/Wikipedia:Citation_needed
+ 151. file://localhost/wiki/Oscilloscope
+ 152. file://localhost/wiki/Asteroids_(video_game)
+ 153. file://localhost/wiki/NV-RAM
+ 154. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-8
+ 155. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=4
+ 156. file://localhost/wiki/Chip_art
+ 157. file://localhost/wiki/Integrated_circuit
+ 158. file://localhost/wiki/Chip_art
+ 159. file://localhost/wiki/Lithography
+ 160. file://localhost/wiki/Etching
+ 161. file://localhost/wiki/In-joke
+ 162. file://localhost/wiki/Wikipedia:Citation_needed
+ 163. file://localhost/wiki/Cartography
+ 164. file://localhost/wiki/Trap_street
+ 165. file://localhost/wiki/Landscape
+ 166. file://localhost/wiki/Copyright_infringement
+ 167. file://localhost/wiki/Defendant
+ 168. file://localhost/wiki/Mask_work
+ 169. file://localhost/wiki/Semiconductor_Chip_Protection_Act_of_1984
+ 170. file://localhost/wiki/Mask_work
+ 171. file://localhost/wiki/Western_Digital
+ 172. file://localhost/wiki/MyBook
+ 173. file://localhost/wiki/Morse_Code
+ 174. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-9
+ 175. file://localhost/wiki/Bungie
+ 176. file://localhost/wiki/Wikipedia:Citation_needed
+ 177. file://localhost/wiki/Commodore_International
+ 178. file://localhost/wiki/Amiga
+ 179. file://localhost/wiki/The_B-52%27s
+ 180. file://localhost/wiki/Motherboard
+ 181. file://localhost/wiki/Rock_Lobster_(song)
+ 182. file://localhost/w/index.php?title=June_Bug_(song)&action=edit&redlink=1
+ 183. file://localhost/wiki/Channel_Z_(song)
+ 184. file://localhost/wiki/Amiga_OS
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-10
+ 186. file://localhost/wiki/S3_Trio
+ 187. file://localhost/wiki/The_Beatles
+ 188. file://localhost/wiki/Wikipedia:Citation_needed
+ 189. file://localhost/wiki/Wikipedia:Citation_needed
+ 190. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=5
+ 191. file://localhost/wiki/DVD
+ 192. file://localhost/wiki/Concept_art
+ 193. file://localhost/wiki/Outtakes
+ 194. file://localhost/wiki/Deleted_scenes
+ 195. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-11
+ 196. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=6
+ 197. file://localhost/wiki/Malware
+ 198. file://localhost/wiki/Cybercrime
+ 199. file://localhost/wiki/Logic_bomb
+ 200. file://localhost/wiki/Ransom
+ 201. file://localhost/wiki/Microsoft_Office
+ 202. file://localhost/wiki/Trustworthy_Computing
+ 203. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-12
+ 204. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=7
+ 205. file://localhost/wiki/Blink_(Doctor_Who)
+ 206. file://localhost/wiki/Doctor_Who
+ 207. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_note-13
+ 208. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=8
+ 209. file://localhost/wiki/Hidden_track
+ 210. file://localhost/wiki/Undocumented_feature
+ 211. file://localhost/wiki/Easter_eggs_in_Microsoft_products
+ 212. file://localhost/wiki/The_Book_of_Mozilla
+ 213. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=9
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-0
+ 215. http://www.hiddendvdeastereggs.com/
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-1
+ 217. http://atariage.com/forums/index.php?showtopic=59087
+ 218. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-2
+ 219. http://www.atariage.com/forums/index.php?showtopic=59248&st=50
+ 220. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-3
+ 221. http://eeggs.com/items/718.html
+ 222. http://eeggs.com/items/718.html
+ 223. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-4
+ 224. http://eeggs.com/items/29841.html
+ 225. http://eeggs.com/items/29841.html
+ 226. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-5
+ 227. http://eeggs.com/items/763.html
+ 228. http://eeggs.com/items/763.html
+ 229. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-6
+ 230. http://nl.newsbank.com/nl-search/we/Archives?p_product=SB&p_theme=sb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F9C5967DFAD25DD&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM
+ 231. file://localhost/wiki/The_Sacramento_Bee
+ 232. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-7
+ 233. http://www.coco25.com/wiki/index.php/CoCo3_Easter_Egg
+ 234. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-8
+ 235. http://www.eeggs.com/items/34063.html
+ 236. http://www.eeggs.com/items/34063.html
+ 237. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-9
+ 238. http://www.crackthewdcode.com/
+ 239. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-10
+ 240. http://www.amigahistory.co.uk/messages.html
+ 241. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-11
+ 242. http://www.dvdeastereggs.com/faq.php
+ 243. http://www.dvdeastereggs.com/faq.php
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-12
+ 245. file://localhost/wiki/October_21
+ 246. file://localhost/wiki/2005
+ 247. http://blogs.msdn.com/larryosterman/archive/2005/10/21/483608.aspx
+ 248. http://blogs.msdn.com/larryosterman/archive/2005/10/21/483608.aspx
+ 249. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc764.tmp.html#cite_ref-13
+ 250. http://freemaagyeman.com/forums/topic/doctor-who-series-three-boxset-blink-easter-egg
+ 251. http://freemaagyeman.com/forums/topic/doctor-who-series-three-boxset-blink-easter-egg
+ 252. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit&section=10
+ 253. http://www.networkworld.com/newsletters/sec/0327sec1.html
+ 254. http://smithsonianchips.si.edu/chipfun/graff.htm
+ 255. http://peeknpoke.gazaxian.com/downloads/PeeknPoke_issue5.pdf
+ 256. file://localhost/wiki/Atari_2600
+ 257. http://www.softwaretipsandtricks.com/eastereggs/
+ 258. http://www.eggheaven.com/
+ 259. http://www.hiddendvdeastereggs.com/
+ 260. http://www.eeggs.com/
+ 261. http://en.wikipedia.org/wiki/Easter_egg_(media)
+ 262. file://localhost/wiki/Special:Categories
+ 263. file://localhost/wiki/Category:Computer_humor
+ 264. file://localhost/wiki/Category:In-jokes
+ 265. file://localhost/wiki/Category:Software_anomalies
+ 266. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2008
+ 267. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 268. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2009
+ 269. file://localhost/wiki/Easter_egg_(media)
+ 270. file://localhost/wiki/Talk:Easter_egg_(media)
+ 271. file://localhost/w/index.php?title=Easter_egg_(media)&action=edit
+ 272. file://localhost/w/index.php?title=Easter_egg_(media)&action=history
+ 273. file://localhost/w/index.php?title=Special:UserLogin&returnto=Easter_egg_(media)
+ 274. file://localhost/wiki/Main_Page
+ 275. file://localhost/wiki/Portal:Contents
+ 276. file://localhost/wiki/Portal:Featured_content
+ 277. file://localhost/wiki/Portal:Current_events
+ 278. file://localhost/wiki/Special:Random
+ 279. file://localhost/wiki/Wikipedia:About
+ 280. file://localhost/wiki/Wikipedia:Community_portal
+ 281. file://localhost/wiki/Special:RecentChanges
+ 282. file://localhost/wiki/Wikipedia:Contact_us
+ 283. http://wikimediafoundation.org/wiki/Donate
+ 284. file://localhost/wiki/Help:Contents
+ 285. file://localhost/wiki/Special:WhatLinksHere/Easter_egg_(media)
+ 286. file://localhost/wiki/Special:RecentChangesLinked/Easter_egg_(media)
+ 287. file://localhost/wiki/Wikipedia:Upload
+ 288. file://localhost/wiki/Special:SpecialPages
+ 289. file://localhost/w/index.php?title=Easter_egg_(media)&printable=yes
+ 290. file://localhost/w/index.php?title=Easter_egg_(media)&oldid=272008001
+ 291. file://localhost/w/index.php?title=Special:Cite&page=Easter_egg_(media)&id=272008001
+ 292. http://ca.wikipedia.org/wiki/Ou_de_pasqua_(virtual)
+ 293. http://cs.wikipedia.org/wiki/Velikono%C4%8Dn%C3%AD_vaj%C3%AD%C4%8Dko_(virtu%C3%A1ln%C3%AD)
+ 294. http://da.wikipedia.org/wiki/Easter_egg
+ 295. http://de.wikipedia.org/wiki/Easter_Egg
+ 296. http://es.wikipedia.org/wiki/Huevo_de_pascua_(virtual)
+ 297. http://fr.wikipedia.org/wiki/Easter_egg
+ 298. http://it.wikipedia.org/wiki/Easter_egg
+ 299. http://hu.wikipedia.org/wiki/Easter_egg
+ 300. http://nl.wikipedia.org/wiki/Easter_egg
+ 301. http://pl.wikipedia.org/wiki/Easter_Eggs
+ 302. http://pt.wikipedia.org/wiki/Ovo_de_p%C3%A1scoa_(virtual)
+ 303. http://sk.wikipedia.org/wiki/Easter_Egg
+ 304. http://sv.wikipedia.org/wiki/P%C3%A5sk%C3%A4gg_(programvara)
+ 305. http://www.mediawiki.org/
+ 306. http://wikimediafoundation.org/
+ 307. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 308. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 309. http://www.wikimediafoundation.org/
+ 310. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 311. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 312. http://en.wikipedia.org/wiki/Non-profit_organization
+ 313. http://en.wikipedia.org/wiki/Charitable_organization
+ 314. http://wikimediafoundation.org/wiki/Privacy_policy
+ 315. file://localhost/wiki/Wikipedia:About
+ 316. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 317. file://localhost/wiki/File:Ambox_content.png
+ 318. file://localhost/wiki/File:Stickies_v.1.0.4_Easter_Egg.png
+ 319. file://localhost/wiki/File:Stickies_v.1.0.4_Easter_Egg.png
+ 320. file://localhost/wiki/Main_Page
+ 321. http://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%ED%84%B0_%EC%97%90%EA%B7%B8
+ 322. http://he.wikipedia.org/wiki/%D7%91%D7%99%D7%A6%D7%AA_%D7%A4%D7%A1%D7%97%D7%90_(%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D)
+ 323. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B0_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)
+ 324. http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B9%D1%86%D0%BE_(%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5)
+ 325. http://zh.wikipedia.org/wiki/%E5%BD%A9%E8%9B%8B_(%E8%A6%96%E8%A6%BA)

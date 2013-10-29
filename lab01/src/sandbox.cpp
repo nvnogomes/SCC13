@@ -1,9 +1,14 @@
 #include <cmath>
 #include <cstdlib>
 #include <iostream>
-#include <pthread.h>
 #include <sstream>
 #include <string>
+#include <dirent.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <vector>
 
 #include "Indexer.h"
 #include "Aggregator.h"
@@ -28,15 +33,50 @@ const std::string FILES[] = {
 
 
 /**
+ * @brief list_data_directory
+ * @param directory
+ * @return
+ */
+std::vector<std::string> list_data_directory(std::string directory) {
+    DIR *search_directory;
+    struct dirent *entry;
+    std::vector<std::string> file_list;
+
+    search_directory = opendir( directory.c_str() );
+
+    if( search_directory == NULL ) {
+        std::cerr << "Error: Cannot open directory: " << directory.c_str() << std::endl;
+        exit(1);
+    }
+
+    while( (entry = readdir( search_directory )) ){
+
+        if( entry->d_type == DT_REG ){
+            std::string fname = entry->d_name;
+            if( fname.find( ".txt" ) != std::string::npos) {
+
+                file_list.push_back( directory + entry->d_name );
+            }
+        }
+    }
+    closedir( search_directory );
+
+    return file_list;
+}
+
+
+
+
+/**
  * index all the Eça files
  *
  * @brief run_index
  * @param files
  */
-void run_index() {
+void run_index(std::vector<std::string> files) {
 
-    for (int index = 0; index < FILE_COUNT; ++index) {
-        Indexer i( FILES[index] );
+    for (unsigned int index = 0; index < files.size(); ++index) {
+        Indexer i( files[index] );
         i.run();
         i.save();
     }
@@ -120,7 +160,8 @@ void testindexes() {
 int main(int argc, char** argv) {
     std::cout << "Running sandbox..." << std::endl;
 
-    run_index();
+    std::vector<std::string> files = list_data_directory( DATA_SET_2 );
+    run_index( files );
     run_merge();
     run_aggregator();
 

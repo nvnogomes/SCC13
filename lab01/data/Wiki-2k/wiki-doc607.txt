@@ -1,0 +1,684 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Potassium chloride
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E508)
+   Jump to: [7]navigation, [8]search
+   Potassium chloride
+   Other names [9]Sylvite
+   Muriate of potash
+   Identifiers
+   [10]CAS number 7447-40-7
+   [11]RTECS number TS8050000
+   [12]ChemSpider ID [13]4707
+   Properties
+   [14]Molecular formula KCl
+   [15]Molar mass 74.55 g/mol
+   Appearance white crystalline solid
+   [16]Density 1.987 g/cm^3
+   [17]Melting point
+
+   775 C
+   [18]Boiling point
+
+   ca. 1500 C
+   [19]Solubility in [20]water 28.1 g/100 ml (0 C)
+   34.0 g/100 ml (20 C)
+   56.7 g/100 ml (100 C);
+   Hazards
+   [21]MSDS [22]ICSC 1450
+   EU Index Not listed
+   [23]Flash point Non-flammable
+   [24]LD[50] 2600 mg/kg (oral/rat), 142 mg/kg (intravenous/rat)^[25][1]
+   Related compounds
+   Other [26]anions [27]Potassium fluoride
+   [28]Potassium bromide
+   [29]Potassium iodide
+   Other [30]cations [31]Lithium chloride
+   [32]Sodium chloride
+   [33]Rubidium chloride
+   [34]Caesium chloride
+   Except where noted otherwise, data are given for
+   materials in their [35]standard state
+   (at 25 C, 100 kPa)
+   [36]Infobox references
+
+   The [37]chemical compound potassium chloride (KCl) is a [38]metal
+   [39]halide [40]salt composed of [41]potassium and [42]chlorine. In its
+   pure state it is [43]odorless. It has a white or [44]colorless
+   [45]vitreous [46]crystal, with a [47]crystal structure that cleaves
+   easily in three directions. Potassium chloride crystals are
+   face-centered cubic. Potassium chloride is occasionally known as
+   "[48]muriate of potash," particularly when used as a fertilizer.
+   [49]Potash varies in color from pink or red to white depending on the
+   [50]mining and recovery process used. [51]White potash, sometimes
+   referred to as soluble potash, is usually higher in analysis and is
+   used primarily for making [52]liquid starter fertilizers. KCl is used
+   in [53]medicine, scientific applications, [54]food processing and in
+   judicial [55]execution through [56]lethal injection. It occurs
+   naturally as the [57]mineral [58]sylvite and in combination with
+   [59]sodium chloride as [60]sylvinite.
+
+Contents
+
+     * [61]1 Chemical properties
+     * [62]2 Production
+     * [63]3 Uses
+     * [64]4 Biological and medical properties
+     * [65]5 Physical properties
+     * [66]6 Precautions
+     * [67]7 References
+
+[[68]edit] Chemical properties
+
+   Potassium chloride can react as a source of [69]chloride [70]ion. As
+   with any other [71]soluble ionic chloride, it will precipitate
+   insoluble chloride [72]salts when added to a [73]solution of an
+   appropriate metal ion:
+
+          KCl([74]aq) + [75]AgNO[3](aq) [76]AgCl([77]s) + KNO[3](aq)
+
+   Although potassium is more [78]electropositive than [79]sodium, KCl can
+   be reduced to the metal by reaction with metallic sodium at 850 C
+   because the potassium is removed by distillation (see [80]Le
+   Chatelier's principle):
+
+          KCl(l) + Na(l) NaCl(l) + K(g)
+
+   This method is the main method for producing metallic potassium.
+   [81]Electrolysis (used for sodium) fails because of the high solubility
+   of potassium in molten KCl.
+
+   As with other compounds containing potassium, KCl in powdered form
+   gives a lilac [82]flame test result.
+
+[[83]edit] Production
+
+   Potassium chloride occurs naturally as [84]sylvite, and it can be
+   extracted from [85]sylvinite. It is also extracted from [86]salt water
+   and can be manufactured by crystallization from [87]solution,
+   [88]flotation or [89]electrostatic separation from suitable minerals.
+   It is a by-product of the making of [90]nitric acid from [91]potassium
+   nitrate and [92]hydrochloric acid.
+
+[[93]edit] Uses
+
+   The majority of the potassium chloride produced is used for making
+   [94]fertilizer, since the growth of many [95]plants is limited by their
+   potassium intake. As a chemical [96]feedstock it is used for the
+   [97]manufacture of [98]potassium hydroxide and potassium metal. It is
+   also used in medicine, [99]scientific applications, food processing,
+   and as a sodium-free substitute for [100]table salt (sodium chloride).
+
+   Potassium chloride is also used as the third of a three drug
+   combination in [101]lethal injection. Additionally, KCl is used to
+   terminate the life of the unborn fetus in induced abortion procedures
+   by lethal injection to the heart, which induces cardiac
+   arrest.^[102][2]
+
+   It is sometimes used in [103]water as a completion fluid in
+   [104]petroleum and [105]natural gas operations, as well as being an
+   alternative to sodium chloride in household [106]water softener units.
+   KCl is useful as a [107]beta radiation source for calibration of
+   [108]radiation monitoring equipment because natural potassium contains
+   0.0118% of the [109]isotope ^40K. One [110]kilogram of KCl yields 16350
+   [111]becquerels of [112]radiation consisting of 89.28% beta and 10.72%
+   [113]gamma with 1.46083 MeV. Potassium chloride makes up 70% of
+   [114]Ace Hardware's [115]pet and vegetation-friendly "Ice Melt" though
+   inferior in melting quality to calcium chloride (0 [116]F v. 25 F). It
+   is also used in various brands of bottled water, as well as in bulk
+   quantities for [117]fossil fuel [118]drilling purposes.
+
+   Potassium chloride was once used as a fire extinguishing agent, used in
+   portable and wheeled fire extinguishers. Known as Super-K dry chemical,
+   it was more effective than sodium bicarbonate-based dry chemicals and
+   was compatible with protein foam. This agent fell out of favor with the
+   introduction of potassium bicarbonate (Purple-K) dry chemical in the
+   late 60s, which was much less corrosive and more effective. Rated for B
+   and C fires.
+
+   Potassium chloride is also an optical crystal with a wide transmission
+   range from 210 nm to 20 m. It was often used in the infrared spectrum
+   range and it is still used some time.
+
+   KCl crystal is hygroscopic and cheap. This limits its application to
+   protected environment or for short term uses (prototyping). Exposed to
+   free air KCl optics will "rot".
+   Today other crystals much more tough like [119]ZnSe has overcome KCl
+   (for the IR spectral range).
+
+   Optical data:
+   Transmission range: 210 nm to 20 m
+   [120]Transmittivity = 92% @ 450 nm and rises linearly to 94% @ 16 m
+   Refractive Index = 1.456 @ 10 m
+   Reflection Loss = 6.8% @ 10 m (two surfaces)
+   dN/dT (expansion coefficient)= 33.210^6/C
+   dL/dT (refractive index gradient)= 4010^6/C
+   Coefficient of absorption: 0.001 cm^1
+   Thermal conductivity = 0.036 W/(cmK):
+   Damage threshold (Newman & Novak): 4 GW/cm^2 or 2 J/cm^2 (0.5 or 1 ns
+   pulse rate)
+   Damage threshold (Kovalev & Faizullov)= 4.2 J/cm^2 (1.7 ns pulse rate)
+
+   Potassium chloride has also been used to create heat packs which employ
+   exothermic chemical reactions ^[121][3], but these are no longer being
+   created due to cheaper and more efficient methods such as the oxidation
+   of metals ('Hot Hands', one time use products) or the crystallization
+   of sodium acetate (multiple use products).
+
+[[122]edit] Biological and medical properties
+
+   Potassium is vital in the [123]human body and oral potassium chloride
+   is the common means to replenish it, although it can also be diluted
+   and given [124]intravenously (of course, in concentrations much lower
+   than those used in executions). It can be used as a [125]salt
+   substitute for [126]food, but due to its weak, bitter, unsalty
+   [127]flavor, it is usually mixed with regular salt (sodium chloride),
+   for this purpose to improve the [128]taste (for example, in Morton Lite
+   Salt^[129][4]). Medically it is used in the treatment of
+   [130]hypokalemia and associated conditions, for [131]digitalis
+   [132]poisoning, and as an [133]electrolyte replenisher. Brand names
+   include K-Dur, Klor-Con, Micro-K, and Kaon Cl. Side effects can include
+   [134]gastrointestinal discomfort including [135]nausea and
+   [136]vomiting, [137]diarrhea and [138]bleeding of the digestive tract.
+   [139]Overdoses cause [140]hyperkalemia which can lead to
+   [141]paresthesia, [142]cardiac conduction blocks, [143]fibrillation,
+   [144]arrhythmias, and [145]sclerosis.
+
+   Dr. [146]Jack Kevorkian's [147]thanatron machine injected a lethal dose
+   of potassium chloride into the patient, which caused the heart to stop
+   functioning, after a [148]sodium thiopental-induced coma was achieved.
+   A similar device, the [149]German 'Perfusor', also uses potassium
+   chloride as a suicide aid.^[150][5]
+
+[[151]edit] Physical properties
+
+   Potassium chloride has a crystalline structure like many other salts.
+   Its structure is face-centered cubic. Its [152]lattice constant is
+   roughly 630 [153]picometers.
+
+   In [154]chemistry and [155]physics it is a very commonly used as a
+   standard, for example as a [156]calibration standard solution in
+   measuring [157]electrical conductivity of (ionic) solutions, since
+   carefully prepared KCl solutions have well-reproducible and
+   well-repeatable measurable properties.
+   Solubility of KCl in various solvents
+   (g KCl / 100 g of solvent at 25 C)
+   [158]H[2]O                 36
+   [159]Liquid ammonia        0.04
+   [160]Liquid sulfur dioxide 0.041
+   [161]Methanol              0.53
+   [162]Formic acid           19.2
+   [163]Sulfolane             0.004
+   [164]Acetonitrile          0.0024
+   [165]Acetone               0.000091
+   [166]Formamide             6.2
+   [167]Acetamide             2.45
+   [168]Dimethylformamide     0.0170.05
+   Reference:
+   Burgess, J. Metal Ions in Solution
+   (Ellis Horwood, New York, 1978)
+   [169]ISBN 0-85312-027-7
+
+[[170]edit] Precautions
+
+   Orally, KCl is toxic in excess; the [171]LD[50] is around 2500
+   [172]mg/kg (meaning that a lethal dose for 50% of people weighing 75 kg
+   (165 [173]lb) is about 190 g (6.7 [174]ounces), or about 38 teaspoons).
+   [175]Table salt is about as toxic. Intravenously this is reduced to
+   just over 100 mg/kg, but of more concern are its severe effects on the
+   cardiac [176]muscles; high doses can cause [177]cardiac arrest and
+   rapid [178]death, ergo its aforementioned use as the third and final
+   drug delivered in the lethal injection process.
+
+[[179]edit] References
+
+    1. [180]^ Material Safety Data Sheet - Potassium Chloride,
+       SigmaAldrich, July 2001
+    2. [181]^ Spielman B (1995). "Certainty and agnosticism about lethal
+       injection in late abortion". J Clin Ethics 6 (3): 2702. [182]PMID
+       8605391.
+    3. [183]^ [184]http://www.freepatentsonline.com/3874504.html
+    4. [185]^ [186]"Lite Salt Mixture". Morton Solt.
+       [187]http://www.mortonsalt.com/products/foodsalts/Lite_Salt.htm.
+       Retrieved on 2008-04-25.
+    5. [188]^ Boyes, Roger (2008-03-29). [189]"Death for hire - suicide
+       machine lets you push final button". [190]The Times.
+       [191]http://www.timesonline.co.uk/tol/news/world/europe/article3641
+       866.ece. Retrieved on 2008-04-25.
+
+     * Handbook of Chemistry and Physics, 71st edition, CRC Press, Ann
+       Arbor, Michigan, 1990.
+     * N. N. Greenwood, A. Earnshaw, Chemistry of the Elements, Pergamon
+       Press, 1984. [192]ISBN 0-08-022057-6
+     * "Sigma Material Safety Data Sheet - Potassium Chloride", Valid
+       7/2001.
+
+   [193]v  [194]d  [195]e
+     [196]Potassium compounds
+   [197]KBr  [198]KBrO[3]  [199]KCN  [200]KCNO  KCl  [201]KClO[3]
+   [202]KClO[4]  [203]KF  [204]KH  [205]KHCO[2]  [206]KHF[2]
+   [207]KHSO[3]  [208]KHSO[4]  [209]KH[2]AsO[4]  [210]KI  [211]KIO[3]
+   [212]KIO[4]  [213]KMnO[4]  [214]KNO[2]  [215]KNO[3]  [216]KOCN
+   [217]KOH  [218]KO[2]  [219]KPF[6]  [220]KSCN  [221]K[2]CO[3]
+   [222]K[2]CrO[4]  [223]K[2]Cr[2]O[7]  [224]K[2]FeO[4]  [225]K[2]MnO[4]
+   [226]K[2]O  [227]K[2]O[2]  [228]K[2]PtCl[4]  [229]K[2]PtCl[6]
+   [230]K[2]S  [231]K[2]SO[3]  [232]K[2]SO[4]  [233]K[2]SO[5]
+   [234]K[2]S[2]O[5]  [235]K[2]S[2]O[7]  [236]K[2]S[2]O[8]
+   [237]K[2]SiO[3]  [238]K[3][Fe(CN)[6]]  [239]K[3][Fe(C[2]O[4])[3]]
+   [240]K[4][Fe(CN)[6]]  [241]K[3]PO[4]  [242]K[4]MnO[4]
+   [243]K[4]Mo[2]Cl[8]
+   Retrieved from "[244]http://en.wikipedia.org/wiki/Potassium_chloride"
+   [245]Categories: [246]Chlorides | [247]Dietary minerals | [248]Lethal
+   injection components | [249]Metal halides | [250]Potassium compounds |
+   [251]Edible salt | [252]Fertilizers
+
+Views
+
+     * [253]Article
+     * [254]Discussion
+     * [255]Edit this page
+     * [256]History
+
+Personal tools
+
+     * [257]Log in / create account
+
+Navigation
+
+     * [258]Main page
+     * [259]Contents
+     * [260]Featured content
+     * [261]Current events
+     * [262]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [263]About Wikipedia
+     * [264]Community portal
+     * [265]Recent changes
+     * [266]Contact Wikipedia
+     * [267]Donate to Wikipedia
+     * [268]Help
+
+Toolbox
+
+     * [269]What links here
+     * [270]Related changes
+     * [271]Upload file
+     * [272]Special pages
+     * [273]Printable version
+     * [274]Permanent link
+     * [275]Cite this page
+
+Languages
+
+     *
+     * [276]Bosanski
+     *
+     * [277]Catal
+     * [278]esky
+     * [279]Deutsch
+     * [280]Espaol
+     *
+     * [281]Franais
+     * [282]Galego
+     * [283]Italiano
+     *
+     * [284]Latvieu
+     * [285]Lietuvi
+     * [286]Magyar
+     * [287]Nederlands
+     *
+     * [288]Norsk (bokml)
+     * [289]Polski
+     * [290]Portugus
+     *
+     * [291]/ Srpski
+     * [292]Suomi
+     * [293]Svenska
+     * [294]Trke
+     *
+     *
+
+   [295]Powered by MediaWiki
+   [296]Wikimedia Foundation
+     * This page was last modified on 24 February 2009, at 03:19.
+     * All text is available under the terms of the [297]GNU Free
+       Documentation License. (See [298]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [299]Wikimedia
+       Foundation, Inc., a U.S. registered [300]501(c)(3)
+       [301]tax-deductible [302]nonprofit [303]charity.
+     * [304]Privacy policy
+     * [305]About Wikipedia
+     * [306]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Potassium_chloride&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E508&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#searchInput
+   9. file://localhost/wiki/Sylvite
+  10. file://localhost/wiki/CAS_registry_number
+  11. file://localhost/wiki/RTECS
+  12. file://localhost/wiki/ChemSpider
+  13. http://www.chemspider.com/4707
+  14. file://localhost/wiki/Chemical_formula
+  15. file://localhost/wiki/Molar_mass
+  16. file://localhost/wiki/Density
+  17. file://localhost/wiki/Melting_point
+  18. file://localhost/wiki/Boiling_point
+  19. file://localhost/wiki/Solubility
+  20. file://localhost/wiki/Water
+  21. file://localhost/wiki/MSDS
+  22. http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc14/icsc1450.htm
+  23. file://localhost/wiki/Flash_point
+  24. file://localhost/wiki/Median_lethal_dose
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_note-0
+  26. file://localhost/wiki/Ion
+  27. file://localhost/wiki/Potassium_fluoride
+  28. file://localhost/wiki/Potassium_bromide
+  29. file://localhost/wiki/Potassium_iodide
+  30. file://localhost/wiki/Ion
+  31. file://localhost/wiki/Lithium_chloride
+  32. file://localhost/wiki/Sodium_chloride
+  33. file://localhost/wiki/Rubidium_chloride
+  34. file://localhost/wiki/Caesium_chloride
+  35. file://localhost/wiki/Standard_state
+  36. file://localhost/wiki/Wikipedia:Chemical_infobox#References
+  37. file://localhost/wiki/Chemical_compound
+  38. file://localhost/wiki/Metal
+  39. file://localhost/wiki/Halide
+  40. file://localhost/wiki/Salt_(chemistry)
+  41. file://localhost/wiki/Potassium
+  42. file://localhost/wiki/Chlorine
+  43. file://localhost/wiki/Odor
+  44. file://localhost/wiki/Color
+  45. file://localhost/wiki/Vitreous
+  46. file://localhost/wiki/Crystal
+  47. file://localhost/wiki/Crystal_structure
+  48. file://localhost/wiki/Muriate
+  49. file://localhost/wiki/Potash
+  50. file://localhost/wiki/Mining
+  51. file://localhost/w/index.php?title=White_potash&action=edit&redlink=1
+  52. file://localhost/w/index.php?title=Liquid_starter_fertilizer&action=edit&redlink=1
+  53. file://localhost/wiki/Medicine
+  54. file://localhost/wiki/Food_preservation
+  55. file://localhost/wiki/Execution_(legal)
+  56. file://localhost/wiki/Lethal_injection
+  57. file://localhost/wiki/Mineral
+  58. file://localhost/wiki/Sylvite
+  59. file://localhost/wiki/Sodium_chloride
+  60. file://localhost/wiki/Sylvinite
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Chemical_properties
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Production
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Uses
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Biological_and_medical_properties
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Physical_properties
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#Precautions
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#References
+  68. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=1
+  69. file://localhost/wiki/Chloride
+  70. file://localhost/wiki/Ion
+  71. file://localhost/wiki/Solubility
+  72. file://localhost/wiki/Salt
+  73. file://localhost/wiki/Solution
+  74. file://localhost/wiki/Aqueous
+  75. file://localhost/wiki/Silver_nitrate
+  76. file://localhost/wiki/Silver(I)_chloride
+  77. file://localhost/wiki/Solid
+  78. file://localhost/wiki/Electropositive
+  79. file://localhost/wiki/Sodium
+  80. file://localhost/wiki/Le_Chatelier%27s_principle
+  81. file://localhost/wiki/Electrolysis
+  82. file://localhost/wiki/Flame_test
+  83. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=2
+  84. file://localhost/wiki/Sylvite
+  85. file://localhost/wiki/Sylvinite
+  86. file://localhost/wiki/Brine
+  87. file://localhost/wiki/Solution
+  88. file://localhost/wiki/Flotation_process
+  89. file://localhost/wiki/Electrostatic
+  90. file://localhost/wiki/Nitric_acid
+  91. file://localhost/wiki/Potassium_nitrate
+  92. file://localhost/wiki/Hydrochloric_acid
+  93. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=3
+  94. file://localhost/wiki/Fertilizer
+  95. file://localhost/wiki/Plant
+  96. file://localhost/wiki/Feedstock
+  97. file://localhost/wiki/Manufacture
+  98. file://localhost/wiki/Potassium_hydroxide
+  99. file://localhost/wiki/Science
+ 100. file://localhost/wiki/Edible_salt
+ 101. file://localhost/wiki/Lethal_injection
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_note-1
+ 103. file://localhost/wiki/Water
+ 104. file://localhost/wiki/Petroleum
+ 105. file://localhost/wiki/Natural_gas
+ 106. file://localhost/wiki/Water_softener
+ 107. file://localhost/wiki/Beta_radiation
+ 108. file://localhost/wiki/Radiation_monitoring_equipment
+ 109. file://localhost/wiki/Isotope
+ 110. file://localhost/wiki/Kilogram
+ 111. file://localhost/wiki/Becquerel
+ 112. file://localhost/wiki/Radiation
+ 113. file://localhost/wiki/Gamma_ray
+ 114. file://localhost/wiki/Ace_Hardware
+ 115. file://localhost/wiki/Pet
+ 116. file://localhost/wiki/%C2%B0F
+ 117. file://localhost/wiki/Fossil_fuel
+ 118. file://localhost/wiki/Drilling
+ 119. file://localhost/wiki/Zinc_selenide
+ 120. file://localhost/w/index.php?title=Transmittivity&action=edit&redlink=1
+ 121. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_note-2
+ 122. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=4
+ 123. file://localhost/wiki/Human_body
+ 124. file://localhost/wiki/Intravenous_therapy
+ 125. file://localhost/wiki/Salt_substitute
+ 126. file://localhost/wiki/Food
+ 127. file://localhost/wiki/Flavor
+ 128. file://localhost/wiki/Taste
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_note-3
+ 130. file://localhost/wiki/Hypokalemia
+ 131. file://localhost/wiki/Digitalis
+ 132. file://localhost/wiki/Poison
+ 133. file://localhost/wiki/Electrolyte
+ 134. file://localhost/wiki/Gastrointestinal_tract
+ 135. file://localhost/wiki/Nausea
+ 136. file://localhost/wiki/Vomiting
+ 137. file://localhost/wiki/Diarrhea
+ 138. file://localhost/wiki/Bleeding
+ 139. file://localhost/wiki/Overdose
+ 140. file://localhost/wiki/Hyperkalemia
+ 141. file://localhost/wiki/Paresthesia
+ 142. file://localhost/wiki/Heart
+ 143. file://localhost/wiki/Fibrillation
+ 144. file://localhost/wiki/Cardiac_arrhythmia
+ 145. file://localhost/wiki/Sclerosis
+ 146. file://localhost/wiki/Jack_Kevorkian
+ 147. file://localhost/wiki/Thanatron
+ 148. file://localhost/wiki/Sodium_thiopental
+ 149. file://localhost/wiki/Germany
+ 150. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_note-4
+ 151. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=5
+ 152. file://localhost/wiki/Crystal_structure
+ 153. file://localhost/wiki/Picometer
+ 154. file://localhost/wiki/Chemistry
+ 155. file://localhost/wiki/Physics
+ 156. file://localhost/wiki/Calibration
+ 157. file://localhost/wiki/Electrical_conductivity
+ 158. file://localhost/wiki/Water_(molecule)
+ 159. file://localhost/wiki/Ammonia
+ 160. file://localhost/wiki/Sulfur_dioxide
+ 161. file://localhost/wiki/Methanol
+ 162. file://localhost/wiki/Formic_acid
+ 163. file://localhost/wiki/Sulfolane
+ 164. file://localhost/wiki/Acetonitrile
+ 165. file://localhost/wiki/Acetone
+ 166. file://localhost/wiki/Formamide
+ 167. file://localhost/wiki/Acetamide
+ 168. file://localhost/wiki/Dimethylformamide
+ 169. file://localhost/wiki/Special:BookSources/0853120277
+ 170. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=6
+ 171. file://localhost/wiki/LD50
+ 172. file://localhost/wiki/Milligram
+ 173. file://localhost/wiki/Pound_(mass)
+ 174. file://localhost/wiki/Ounce
+ 175. file://localhost/wiki/Sodium_chloride
+ 176. file://localhost/wiki/Muscle
+ 177. file://localhost/wiki/Cardiac_arrest
+ 178. file://localhost/wiki/Death
+ 179. file://localhost/w/index.php?title=Potassium_chloride&action=edit&section=7
+ 180. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_ref-0
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_ref-1
+ 182. http://www.ncbi.nlm.nih.gov/pubmed/8605391
+ 183. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_ref-2
+ 184. http://www.freepatentsonline.com/3874504.html
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_ref-3
+ 186. http://www.mortonsalt.com/products/foodsalts/Lite_Salt.htm
+ 187. http://www.mortonsalt.com/products/foodsalts/Lite_Salt.htm
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc607.tmp.html#cite_ref-4
+ 189. http://www.timesonline.co.uk/tol/news/world/europe/article3641866.ece
+ 190. file://localhost/wiki/The_Times
+ 191. http://www.timesonline.co.uk/tol/news/world/europe/article3641866.ece
+ 192. file://localhost/wiki/Special:BookSources/0080220576
+ 193. file://localhost/wiki/Template:Potassium_compounds
+ 194. file://localhost/w/index.php?title=Template_talk:Potassium_compounds&action=edit&redlink=1
+ 195. http://en.wikipedia.org/w/index.php?title=Template:Potassium_compounds&action=edit
+ 196. file://localhost/wiki/Potassium
+ 197. file://localhost/wiki/Potassium_bromide
+ 198. file://localhost/wiki/Potassium_bromate
+ 199. file://localhost/wiki/Potassium_cyanide
+ 200. file://localhost/wiki/Potassium_fulminate
+ 201. file://localhost/wiki/Potassium_chlorate
+ 202. file://localhost/wiki/Potassium_perchlorate
+ 203. file://localhost/wiki/Potassium_fluoride
+ 204. file://localhost/wiki/Potassium_hydride
+ 205. file://localhost/wiki/Potassium_formate
+ 206. file://localhost/wiki/Potassium_bifluoride
+ 207. file://localhost/wiki/Potassium_bisulfite
+ 208. file://localhost/wiki/Potassium_bisulfate
+ 209. file://localhost/wiki/Potassium_arsenate
+ 210. file://localhost/wiki/Potassium_iodide
+ 211. file://localhost/wiki/Potassium_iodate
+ 212. file://localhost/wiki/Potassium_periodate
+ 213. file://localhost/wiki/Potassium_permanganate
+ 214. file://localhost/wiki/Potassium_nitrite
+ 215. file://localhost/wiki/Potassium_nitrate
+ 216. file://localhost/wiki/Potassium_cyanate
+ 217. file://localhost/wiki/Potassium_hydroxide
+ 218. file://localhost/wiki/Potassium_superoxide
+ 219. file://localhost/wiki/Potassium_hexafluorophosphate
+ 220. file://localhost/wiki/Potassium_thiocyanate
+ 221. file://localhost/wiki/Potassium_carbonate
+ 222. file://localhost/wiki/Potassium_chromate
+ 223. file://localhost/wiki/Potassium_dichromate
+ 224. file://localhost/wiki/Potassium_ferrate
+ 225. file://localhost/wiki/Potassium_manganate
+ 226. file://localhost/wiki/Potassium_oxide
+ 227. file://localhost/wiki/Potassium_peroxide
+ 228. file://localhost/wiki/Potassium_tetrachloroplatinate
+ 229. file://localhost/wiki/Potassium_hexachloroplatinate
+ 230. file://localhost/wiki/Potassium_sulfide
+ 231. file://localhost/wiki/Potassium_sulfite
+ 232. file://localhost/wiki/Potassium_sulfate
+ 233. file://localhost/wiki/Potassium_peroxymonosulfate
+ 234. file://localhost/wiki/Potassium_metabisulfite
+ 235. file://localhost/wiki/Potassium_pyrosulfate
+ 236. file://localhost/wiki/Potassium_persulfate
+ 237. file://localhost/wiki/Potassium_silicate
+ 238. file://localhost/wiki/Potassium_ferricyanide
+ 239. file://localhost/wiki/Potassium_ferrioxalate
+ 240. file://localhost/wiki/Potassium_ferrocyanide
+ 241. file://localhost/wiki/Potassium_phosphate
+ 242. file://localhost/wiki/Potassium_manganite
+ 243. file://localhost/wiki/Potassium_octachlorodimolybdate
+ 244. http://en.wikipedia.org/wiki/Potassium_chloride
+ 245. file://localhost/wiki/Special:Categories
+ 246. file://localhost/wiki/Category:Chlorides
+ 247. file://localhost/wiki/Category:Dietary_minerals
+ 248. file://localhost/wiki/Category:Lethal_injection_components
+ 249. file://localhost/wiki/Category:Metal_halides
+ 250. file://localhost/wiki/Category:Potassium_compounds
+ 251. file://localhost/wiki/Category:Edible_salt
+ 252. file://localhost/wiki/Category:Fertilizers
+ 253. file://localhost/wiki/Potassium_chloride
+ 254. file://localhost/wiki/Talk:Potassium_chloride
+ 255. file://localhost/w/index.php?title=Potassium_chloride&action=edit
+ 256. file://localhost/w/index.php?title=Potassium_chloride&action=history
+ 257. file://localhost/w/index.php?title=Special:UserLogin&returnto=Potassium_chloride
+ 258. file://localhost/wiki/Main_Page
+ 259. file://localhost/wiki/Portal:Contents
+ 260. file://localhost/wiki/Portal:Featured_content
+ 261. file://localhost/wiki/Portal:Current_events
+ 262. file://localhost/wiki/Special:Random
+ 263. file://localhost/wiki/Wikipedia:About
+ 264. file://localhost/wiki/Wikipedia:Community_portal
+ 265. file://localhost/wiki/Special:RecentChanges
+ 266. file://localhost/wiki/Wikipedia:Contact_us
+ 267. http://wikimediafoundation.org/wiki/Donate
+ 268. file://localhost/wiki/Help:Contents
+ 269. file://localhost/wiki/Special:WhatLinksHere/Potassium_chloride
+ 270. file://localhost/wiki/Special:RecentChangesLinked/Potassium_chloride
+ 271. file://localhost/wiki/Wikipedia:Upload
+ 272. file://localhost/wiki/Special:SpecialPages
+ 273. file://localhost/w/index.php?title=Potassium_chloride&printable=yes
+ 274. file://localhost/w/index.php?title=Potassium_chloride&oldid=272880410
+ 275. file://localhost/w/index.php?title=Special:Cite&page=Potassium_chloride&id=272880410
+ 276. http://bs.wikipedia.org/wiki/Kalijum_hlorid
+ 277. http://ca.wikipedia.org/wiki/Clorur_de_potassi
+ 278. http://cs.wikipedia.org/wiki/Chlorid_draseln%C3%BD
+ 279. http://de.wikipedia.org/wiki/Kaliumchlorid
+ 280. http://es.wikipedia.org/wiki/Cloruro_de_potasio
+ 281. http://fr.wikipedia.org/wiki/Chlorure_de_potassium
+ 282. http://gl.wikipedia.org/wiki/Cloruro_de_potasio
+ 283. http://it.wikipedia.org/wiki/Cloruro_di_potassio
+ 284. http://lv.wikipedia.org/wiki/K%C4%81lija_hlor%C4%ABds
+ 285. http://lt.wikipedia.org/wiki/Kalio_chloridas
+ 286. http://hu.wikipedia.org/wiki/K%C3%A1lium-klorid
+ 287. http://nl.wikipedia.org/wiki/Kaliumchloride
+ 288. http://no.wikipedia.org/wiki/Kaliumklorid
+ 289. http://pl.wikipedia.org/wiki/Chlorek_potasu
+ 290. http://pt.wikipedia.org/wiki/Cloreto_de_pot%C3%A1ssio
+ 291. http://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%98%D1%83%D0%BC_%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4
+ 292. http://fi.wikipedia.org/wiki/Kaliumkloridi
+ 293. http://sv.wikipedia.org/wiki/Kaliumklorid
+ 294. http://tr.wikipedia.org/wiki/Potasyum_klor%C3%BCr
+ 295. http://www.mediawiki.org/
+ 296. http://wikimediafoundation.org/
+ 297. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 298. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 299. http://www.wikimediafoundation.org/
+ 300. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 301. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 302. http://en.wikipedia.org/wiki/Non-profit_organization
+ 303. http://en.wikipedia.org/wiki/Charitable_organization
+ 304. http://wikimediafoundation.org/wiki/Privacy_policy
+ 305. file://localhost/wiki/Wikipedia:About
+ 306. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 307. file://localhost/wiki/File:Potassium_chloride.jpg
+ 308. file://localhost/wiki/File:Potassium-chloride-3D-ionic.png
+ 309. file://localhost/wiki/Main_Page
+ 310. http://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%88%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D8%A8%D9%88%D8%AA%D8%A7%D8%B3%D9%8A%D9%88%D9%85
+ 311. http://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2_%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4
+ 312. http://fa.wikipedia.org/wiki/%D9%BE%D8%AA%D8%A7%D8%B3%DB%8C%D9%85_%DA%A9%D9%84%D8%B1%DB%8C%D8%AF
+ 313. http://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%9C%D7%92%D7%9F_%D7%9B%D7%9C%D7%95%D7%A8%D7%99
+ 314. http://ja.wikipedia.org/wiki/%E5%A1%A9%E5%8C%96%E3%82%AB%E3%83%AA%E3%82%A6%E3%83%A0
+ 315. http://ru.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80%D0%B8%D0%B4_%D0%BA%D0%B0%D0%BB%D0%B8%D1%8F
+ 316. http://uk.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80%D0%B8%D0%B4_%D0%BA%D0%B0%D0%BB%D1%96%D1%8E
+ 317. http://zh.wikipedia.org/wiki/%E6%B0%AF%E5%8C%96%E9%92%BE

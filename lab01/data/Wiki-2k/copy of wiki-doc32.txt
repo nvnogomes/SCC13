@@ -1,0 +1,424 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Divisor
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Divides)
+   Jump to: [7]navigation, [8]search
+   For the second operand of a division, see [9]Division (mathematics).
+   For divisors in algebraic geometry, see [10]Divisor (algebraic
+   geometry).
+
+   In [11]mathematics, a divisor of an [12]integer n, also called a factor
+   of n, is an integer which evenly divides n without leaving a
+   [13]remainder.
+
+Contents
+
+     * [14]1 Explanation
+     * [15]2 Further notions and facts
+     * [16]3 Divisibility of numbers
+     * [17]4 Generalization
+     * [18]5 See also
+     * [19]6 Notes
+     * [20]7 References
+     * [21]8 External links
+
+[[22]edit] Explanation
+
+   For example, 7 is a divisor of 42 because 42/7 = 6. We also say 42 is
+   divisible by 7 or 42 is a [23]multiple of 7 or 7 divides 42 or 7 is a
+   factor of 42 and we usually write 7 | 42 (a [24]vertical bar between
+   the two numbers). For example, the positive divisors of 42 are 1, 2, 3,
+   6, 7, 14, 21, 42.
+
+   In general, we say m|n (read: m divides n) for non-zero integers m and
+   n [25]iff there exists an integer k such that n = km. Thus, divisors
+   can be [26]negative as well as positive, although often we restrict our
+   attention to positive divisors. (For example, there are six divisors of
+   four, 1, 2, 4, 1, 2, 4, but one would usually mention only the positive
+   ones, 1, 2, and 4.)
+
+   1 and 1 divide (are divisors of) every integer, every integer (and its
+   negation) is a divisor of itself, and every integer is a divisor of 0,
+   except by convention 0 itself (see also [27]division by zero). Numbers
+   divisible by 2 are called [28]even and numbers not divisible by 2 are
+   called [29]odd.
+
+   A divisor of n that is not 1, 1, n or n (which are trivial divisors) is
+   known as a non-trivial divisor; numbers with non-trivial divisors are
+   known as [30]composite numbers, while [31]prime numbers have no
+   non-trivial divisors.
+
+   The name comes from the [32]arithmetic operation of [33]division: if
+   a/b = c then a is the [34]dividend, b the divisor, and c the
+   [35]quotient.
+
+   There are [36]properties which allow one to recognize certain divisors
+   of a number from the number's digits.
+
+   For example, the [37]set A = { 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60
+   } of all positive divisors of 60, partially ordered by
+   [38]divisibility, has the [39]Hasse diagram:
+
+[[40]edit] Further notions and facts
+
+   [41]Sister project The [42]Wikibook [43]The Book of Mathematical Proofs
+   has a page on the topic of
+   [44]Proofs of properties of divisibility
+
+   Some elementary rules:
+     * If a | b and a | c, then a | (b + c), in fact, a | (mb + nc) for
+       all integers m, n.
+     * If a | b and b | c, then a | c. ([45]transitive relation)
+     * If a | b and b | a, then a = b or a = b.
+
+   The following property is important:
+     * If a | bc, and [46]gcd(a,b) = 1, then a | c. ([47]Euclid's lemma)
+
+   A positive divisor of n which is different from n is called a proper
+   divisor (or [48]aliquot part) of n. (A number which does not evenly
+   divide n, but leaves a remainder, is called an [49]aliquant part of n.)
+
+   An integer n > 1 whose only proper divisor is 1 is called a [50]prime
+   number. Equivalently, one would say that a prime number is one which
+   has exactly two factors: 1 and itself.
+
+   Any positive divisor of n is a product of [51]prime divisors of f
+   raised to some power. This is a consequence of the [52]Fundamental
+   theorem of arithmetic.
+
+   If a number equals the sum of its proper divisors, it is said to be a
+   [53]perfect number. Numbers less than the sum of their proper divisors
+   are said to be [54]abundant; while numbers greater than that sum are
+   said to be [55]deficient.
+
+   The total number of positive divisors of n is a [56]multiplicative
+   function d(n) (e.g. d(42) = 8 = 222 = d(2)d(3)d(7)). The sum of the
+   positive divisors of n is another multiplicative function (n) (e.g.
+   (42) = 96 = 348 = (2)(3)(7)). Both of these functions are examples of
+   [57]divisor functions.
+
+   If the [58]prime factorization of n is given by
+
+          n = p_1^{\nu_1} \, p_2^{\nu_2} \cdots p_k^{\nu_k}
+
+   then the number of positive divisors of n is
+
+          d(n) = (\nu_1 + 1) (\nu_2 + 1) \cdots (\nu_k + 1),
+
+   and each of the divisors has the form
+
+          p_1^{\mu_1} \, p_2^{\mu_2} \cdots p_k^{\mu_k}
+
+   where 0 \le \mu_i \le \nu_i for each 0 \le i \le k.
+
+   One can show ^[59][1] that
+
+          d(1)+d(2)+ \cdots +d(n) = n \ln n + (2 \gamma -1) n +
+          O(\sqrt{n}).
+
+   One interpretation of this result is that a randomly chosen positive
+   integer n has an expected number of divisors of about lnn.
+
+[[60]edit] Divisibility of numbers
+
+   The relation of divisibility turns the set N of [61]non-negative
+   integers into a [62]partially ordered set, in fact into a [63]complete
+   distributive lattice. The largest element of this lattice is 0 and the
+   smallest one is 1. The meet operation ^ is given by the [64]greatest
+   common divisor and the join operation v by the [65]least common
+   multiple. This lattice is isomorphic to the [66]dual of the [67]lattice
+   of subgroups of the infinite [68]cyclic group [69]Z.
+
+[[70]edit] Generalization
+
+   One can talk about the concept of divisibility in any [71]integral
+   domain. Please see that article for the definitions in that setting.
+
+[[72]edit] See also
+
+     * [73]Table of prime factors A table of prime factors for 1-1000
+     * [74]Table of divisors A table of prime and non-prime divisors for
+       1-1000
+     * [75]Arithmetic functions
+     * [76]Divisibility rule
+     * [77]Fraction (mathematics)
+     * [78]Divisor function
+     * [79]Aliquot
+
+[[80]edit] Notes
+
+    1. [81]^ [82]Hardy, G. H.; E. M. Wright (April 17, 1980). An
+       Introduction to the Theory of Numbers. Oxford University Press.
+       pp. 264. [83]ISBN 0-19-853171-0.
+
+[[84]edit] References
+
+     * [85]Richard K. Guy, [86]Unsolved Problems in Number Theory (3rd
+       ed), [87]Springer Verlag, 2004 [88]ISBN 0-387-20860-7; section B.
+
+[[89]edit] External links
+
+     * [90]Online Number Factorizer Instantly factors numbers up to 17
+       digits long
+     * [91]Factoring Calculator -- Factoring calculator that displays the
+       prime factors and the prime and non-prime divisors of a given
+       number.
+     * [92]downloadable factor program for factoring up to 18 digit
+       numbers
+
+   Retrieved from "[93]http://en.wikipedia.org/wiki/Divisor"
+   [94]Categories: [95]Elementary number theory | [96]Division
+
+Views
+
+     * [97]Article
+     * [98]Discussion
+     * [99]Edit this page
+     * [100]History
+
+Personal tools
+
+     * [101]Log in / create account
+
+Navigation
+
+     * [102]Main page
+     * [103]Contents
+     * [104]Featured content
+     * [105]Current events
+     * [106]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [107]About Wikipedia
+     * [108]Community portal
+     * [109]Recent changes
+     * [110]Contact Wikipedia
+     * [111]Donate to Wikipedia
+     * [112]Help
+
+Toolbox
+
+     * [113]What links here
+     * [114]Related changes
+     * [115]Upload file
+     * [116]Special pages
+     * [117]Printable version
+     * [118]Permanent link
+     * [119]Cite this page
+
+Languages
+
+     *
+     * [120]Catal
+     * [121]esky
+     * [122]Dansk
+     * [123]Deutsch
+     *
+     * [124]Espaol
+     * [125]Esperanto
+     *
+     * [126]Franais
+     *
+     * [127]Italiano
+     *
+     * [128]Latvieu
+     * [129]Nederlands
+     *
+     * [130]Polski
+     * [131]Portugus
+     *
+     * [132]Simple English
+     * [133]Slovenina
+     * [134]/ Srpski
+     * [135]Svenska
+     *
+     * [136]Ting Vit
+     *
+     *
+
+   [137]Powered by MediaWiki
+   [138]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 00:41.
+     * All text is available under the terms of the [139]GNU Free
+       Documentation License. (See [140]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [141]Wikimedia
+       Foundation, Inc., a U.S. registered [142]501(c)(3)
+       [143]tax-deductible [144]nonprofit [145]charity.
+     * [146]Privacy policy
+     * [147]About Wikipedia
+     * [148]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Divisor&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Divides&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#searchInput
+   9. file://localhost/wiki/Division_(mathematics)
+  10. file://localhost/wiki/Divisor_(algebraic_geometry)
+  11. file://localhost/wiki/Mathematics
+  12. file://localhost/wiki/Integer
+  13. file://localhost/wiki/Remainder
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#Explanation
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#Further_notions_and_facts
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#Divisibility_of_numbers
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#Generalization
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#See_also
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#Notes
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#References
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#External_links
+  22. file://localhost/w/index.php?title=Divisor&action=edit&section=1
+  23. file://localhost/wiki/Multiple_(mathematics)
+  24. file://localhost/wiki/Vertical_bar
+  25. file://localhost/wiki/If_and_only_if
+  26. file://localhost/wiki/Negative_and_non-negative_numbers
+  27. file://localhost/wiki/Division_by_zero
+  28. file://localhost/wiki/Even_and_odd_numbers
+  29. file://localhost/wiki/Even_and_odd_numbers
+  30. file://localhost/wiki/Composite_numbers
+  31. file://localhost/wiki/Prime_numbers
+  32. file://localhost/wiki/Arithmetic
+  33. file://localhost/wiki/Division_(mathematics)
+  34. file://localhost/wiki/Division_(mathematics)
+  35. file://localhost/wiki/Quotient
+  36. file://localhost/wiki/Divisibility_rule
+  37. file://localhost/wiki/Set_(mathematics)
+  38. file://localhost/wiki/Divisibility
+  39. file://localhost/wiki/Hasse_diagram
+  40. file://localhost/w/index.php?title=Divisor&action=edit&section=2
+  41. http://en.wikibooks.org/wiki/Special:Search/Divisor
+  42. file://localhost/wiki/Wikibooks
+  43. http://en.wikibooks.org/wiki/The_Book_of_Mathematical_Proofs
+  44. http://en.wikibooks.org/wiki/The_Book_of_Mathematical_Proofs/Number_Theory/Basic_Results_(Divisibility)
+  45. file://localhost/wiki/Transitive_relation
+  46. file://localhost/wiki/Greatest_common_divisor
+  47. file://localhost/wiki/Euclid%27s_lemma
+  48. file://localhost/wiki/Aliquot
+  49. file://localhost/wiki/Aliquant
+  50. file://localhost/wiki/Prime_number
+  51. file://localhost/wiki/Prime_factor
+  52. file://localhost/wiki/Fundamental_theorem_of_arithmetic
+  53. file://localhost/wiki/Perfect_number
+  54. file://localhost/wiki/Abundant_number
+  55. file://localhost/wiki/Deficient_number
+  56. file://localhost/wiki/Multiplicative_function
+  57. file://localhost/wiki/Divisor_function
+  58. file://localhost/wiki/Prime_factorization
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#cite_note-0
+  60. file://localhost/w/index.php?title=Divisor&action=edit&section=3
+  61. file://localhost/wiki/Negative_and_non-negative_numbers
+  62. file://localhost/wiki/Partially_ordered_set
+  63. file://localhost/wiki/Lattice_(order)
+  64. file://localhost/wiki/Greatest_common_divisor
+  65. file://localhost/wiki/Least_common_multiple
+  66. file://localhost/wiki/Duality_(order_theory)
+  67. file://localhost/wiki/Lattice_of_subgroups
+  68. file://localhost/wiki/Cyclic_group
+  69. file://localhost/wiki/Integer
+  70. file://localhost/w/index.php?title=Divisor&action=edit&section=4
+  71. file://localhost/wiki/Integral_domain
+  72. file://localhost/w/index.php?title=Divisor&action=edit&section=5
+  73. file://localhost/wiki/Table_of_prime_factors
+  74. file://localhost/wiki/Table_of_divisors
+  75. file://localhost/wiki/Arithmetic_functions
+  76. file://localhost/wiki/Divisibility_rule
+  77. file://localhost/wiki/Fraction_(mathematics)
+  78. file://localhost/wiki/Divisor_function
+  79. file://localhost/wiki/Aliquot
+  80. file://localhost/w/index.php?title=Divisor&action=edit&section=6
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc32.tmp.html#cite_ref-0
+  82. file://localhost/wiki/G._H._Hardy
+  83. file://localhost/wiki/Special:BookSources/0198531710
+  84. file://localhost/w/index.php?title=Divisor&action=edit&section=7
+  85. file://localhost/wiki/Richard_K._Guy
+  86. file://localhost/wiki/Unsolved_Problems_in_Number_Theory
+  87. file://localhost/wiki/Springer_Verlag
+  88. file://localhost/wiki/Special:BookSources/0387208607
+  89. file://localhost/w/index.php?title=Divisor&action=edit&section=8
+  90. http://www.numberempire.com/numberfactorizer.php
+  91. http://www.farfarfar.com/math/calculators/factoring/
+  92. http://users.adelphia.net/~j.mccranie/downloads.html
+  93. http://en.wikipedia.org/wiki/Divisor
+  94. file://localhost/wiki/Special:Categories
+  95. file://localhost/wiki/Category:Elementary_number_theory
+  96. file://localhost/wiki/Category:Division
+  97. file://localhost/wiki/Divisor
+  98. file://localhost/wiki/Talk:Divisor
+  99. file://localhost/w/index.php?title=Divisor&action=edit
+ 100. file://localhost/w/index.php?title=Divisor&action=history
+ 101. file://localhost/w/index.php?title=Special:UserLogin&returnto=Divisor
+ 102. file://localhost/wiki/Main_Page
+ 103. file://localhost/wiki/Portal:Contents
+ 104. file://localhost/wiki/Portal:Featured_content
+ 105. file://localhost/wiki/Portal:Current_events
+ 106. file://localhost/wiki/Special:Random
+ 107. file://localhost/wiki/Wikipedia:About
+ 108. file://localhost/wiki/Wikipedia:Community_portal
+ 109. file://localhost/wiki/Special:RecentChanges
+ 110. file://localhost/wiki/Wikipedia:Contact_us
+ 111. http://wikimediafoundation.org/wiki/Donate
+ 112. file://localhost/wiki/Help:Contents
+ 113. file://localhost/wiki/Special:WhatLinksHere/Divisor
+ 114. file://localhost/wiki/Special:RecentChangesLinked/Divisor
+ 115. file://localhost/wiki/Wikipedia:Upload
+ 116. file://localhost/wiki/Special:SpecialPages
+ 117. file://localhost/w/index.php?title=Divisor&printable=yes
+ 118. file://localhost/w/index.php?title=Divisor&oldid=273318136
+ 119. file://localhost/w/index.php?title=Special:Cite&page=Divisor&id=273318136
+ 120. http://ca.wikipedia.org/wiki/Divisor
+ 121. http://cs.wikipedia.org/wiki/D%C4%9Blitelnost
+ 122. http://da.wikipedia.org/wiki/Divisor
+ 123. http://de.wikipedia.org/wiki/Teilbarkeit
+ 124. http://es.wikipedia.org/wiki/Factor_propio
+ 125. http://eo.wikipedia.org/wiki/Divizoro
+ 126. http://fr.wikipedia.org/wiki/Facteur_(math%C3%A9matiques)
+ 127. http://it.wikipedia.org/wiki/Divisore
+ 128. http://lv.wikipedia.org/wiki/Dal%C4%ABt%C4%81js
+ 129. http://nl.wikipedia.org/wiki/Deelbaar
+ 130. http://pl.wikipedia.org/wiki/Dzielnik
+ 131. http://pt.wikipedia.org/wiki/Divisor
+ 132. http://simple.wikipedia.org/wiki/Divisor
+ 133. http://sl.wikipedia.org/wiki/Delitelj
+ 134. http://sr.wikipedia.org/wiki/%D0%94%D0%B5%D1%99%D0%B8%D0%B2%D0%BE%D1%81%D1%82
+ 135. http://sv.wikipedia.org/wiki/Delbarhet
+ 136. http://vi.wikipedia.org/wiki/Chia_h%E1%BA%BFt
+ 137. http://www.mediawiki.org/
+ 138. http://wikimediafoundation.org/
+ 139. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 140. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 141. http://www.wikimediafoundation.org/
+ 142. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 143. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 144. http://en.wikipedia.org/wiki/Non-profit_organization
+ 145. http://en.wikipedia.org/wiki/Charitable_organization
+ 146. http://wikimediafoundation.org/wiki/Privacy_policy
+ 147. file://localhost/wiki/Wikipedia:About
+ 148. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 149. file://localhost/wiki/File:Lattice_of_the_divisibility_of_60.svg
+ 150. file://localhost/wiki/Main_Page
+ 151. http://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%B3%D9%85_(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA)
+ 152. http://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%B9%CF%81%CE%AD%CF%84%CE%B7%CF%82
+ 153. http://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%B3%D9%88%D9%85%E2%80%8C%D8%B9%D9%84%DB%8C%D9%87
+ 154. http://ko.wikipedia.org/wiki/%EC%95%BD%EC%88%98
+ 155. http://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%9C%D7%A7
+ 156. http://ja.wikipedia.org/wiki/%E7%B4%84%E6%95%B0
+ 157. http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C
+ 158. http://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A3
+ 159. http://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C
+ 160. http://zh.wikipedia.org/wiki/%E5%9B%A0%E6%95%B8

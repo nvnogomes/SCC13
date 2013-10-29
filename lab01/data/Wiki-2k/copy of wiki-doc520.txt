@@ -1,0 +1,1616 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Neopets
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Duocorn)
+   Jump to: [7]navigation, [8]search
+   For the company of Neopets, see [9]Neopets, Inc..
+   Neopets
+   Screenshot of the Neopets homepage on 10 September, 2008.
+   [10]Developer(s) Neopets, Inc.
+   [11]Publisher(s) [12]Neopets Inc.; [13]Viacom Inc
+   [14]Designer(s) [15]Adam Powell
+   [16]Platform(s) [17]Cross-platform
+   Release date(s) 15 November 1999
+   [18]Genre(s) [19]Fantasy, [20]Digital pet
+   Mode(s) [21]Single-player with [22]multiplayer interaction.
+   [23]Media [24]Web browser
+   System requirements [25]Web browser with [26]Adobe Flash Player plugin.
+   [27]Adobe Shockwave and [28]3D Life Player (both optional)
+   Input methods [29]Keyboard, [30]mouse
+
+   Neopets (originally NeoPets) is a [31]virtual pet [32]website launched
+   by [33]Adam Powell and Donna Williams on 15 November 1999.^[34][1] Six
+   months after the web site was launched, Adam Powell and Donna Williams
+   successfully sold a majority share to a consortium of investors led by
+   [35]Doug Dohring. On 20 June 2005, [36]Viacom bought Neopets, Inc. for
+   $160 million ([37]USD).^[38][2]
+
+   Neopets is based around the virtual pets that inhabit the [39]virtual
+   world of Neopia. Visitors can create an account and take care of up to
+   four virtual pets, buying them food, toys, clothes, and other
+   accessories using a virtual currency called Neopoints. Neopoints can be
+   earned through playing games, investing in the game's [40]stock market,
+   trading, and winning contests. Users can explore the world of Neopia
+   with their Neopets and interact with each other through the NeoBoards,
+   NeoMail, guilds, and Key Quest.
+
+   Neopets also operates a [41]pay-to-play version known as [42]Neopets
+   Premium, which offers additional features and benefits for a monthly
+   fee of $7.99 ([43]USD). Neopets, Inc. produces and sells a wide variety
+   of Neopets merchandise, such as plushies, stickers, notebooks, three
+   video games and a [44]trading card game. While the site has been
+   praised for being "gentle" and educational, several issues such as
+   immersive advertising and gambling-based games have garnered criticism.
+
+Contents
+
+     * [45]1 History
+     * [46]2 Gameplay
+     * [47]3 Site content
+          + [48]3.1 Games
+          + [49]3.2 Exclusive content
+     * [50]4 Community
+     * [51]5 Immersive advertising
+     * [52]6 Reception
+     * [53]7 Merchandise
+     * [54]8 References
+     * [55]9 External links
+
+[[56]edit] History
+
+          See also: [57]Neopets, Inc.
+
+   Neopets was conceived by Adam Powell while studying at the
+   [58]University of Nottingham in 1997. Powell left and started UK-based
+   advertising company Shout! Advertising in 1996, which grew to be the
+   third largest click-through program on the Internet by 1999. He also
+   co-founded Netmagic, an online banner advertising design and sales firm
+   and Powlex Ltd., a web site design firm.^[59][3] Donna Williams was a
+   marketing manager for Shout! Advertising from September 1997 to July
+   1999 responsible for internet advertising, sales and services, graphic
+   and web design.^[60][3] He and Williams started creating the site in
+   September 1999 and launched it two months later on 15 November
+   1999.^[61][1] Powell was responsible for the programming and database,
+   and Williams the web design and art. The site grew by [62]word of mouth
+   and by [63]Christmas of 1999, they received 600,000 [64]page views
+   daily and sought investment to cover the high cost of running the
+   site.^[65][4] The same month, [66]Doug Dohring was introduced to the
+   creators of the site^[67][5] and, along with other investors, bought a
+   majority share in January of the following year.^[68][4] [69]Neopets,
+   Inc. was created in February 2000 and began business in April. The
+   website made profit from the first paying customers for an advertising
+   method trademarked as "[70]immersive advertising",^[71][5] touted as
+   "an evolutionary step forward in the traditional marketing practice of
+   [72]product placement" in television and film.^[73][6]
+
+   [74]Media conglomerate [75]Viacom bought [76]Neopets, Inc. on 20 June
+   2005 for $160 million^[77][2] and planned to focus more on [78]banner
+   ads instead of immersive advertising.^[79][7] On the first day of the
+   [80]2006 FIFA World Cup, the Altador Cup started as an annual
+   international online gaming event^[81][8] and had 10.4 million
+   participants the first year.^[82][9] The entire Neopets site was
+   revamped on 27 April 2007, referred to as Neopets 2.0 in the Neopets
+   FAQ.^[83][10] On 17 July 2007, the NC Mall was launched^[84][11] in a
+   partnership with Korean gaming company [85]Nexon Corporation.^[86][12]
+   The next day, Viacom announced on their website that by the end of
+   2008, Neopets would be changing their company name, not the site name
+   itself, to NeoStudios, "which will focus on developing new virtual
+   world gaming experiences online, while continuing to grow and evolve
+   the existing ones." ^[87][13]
+
+   As of June 17th, 2008, NeoStudios was renamed, [88]Nickelodeon Kids &
+   Family Virtual Worlds Group and Kyra Reppen was officially announced as
+   both Senior Vice President (SVP) and General Manager (GM) of the
+   Virtual Worlds Group by Steve Youngwood, Nickelodeon Kids and Family
+   Group's Executive Vice President of Digital Media. ^[89][14] As head of
+   the Nickelodeon Kids and Family Virtual Worlds Group, Reppen oversees
+   strategy, creative development and management of new and existing
+   virtual worlds and casual massive multiplayer online games (MMOGs) for
+   the company, including Neopets.^[90][15] Other initiatives spearheaded
+   by [91]Nickelodeon Kids & Family Virtual Worlds Group include
+   partnering with the Nick.com on Nickelodeon's online playground for
+   kids, Nicktropolis([92]http://www.nicktropolis.com) and creating new
+   virtual world destinations. The group focuses on the building the
+   company's current properties with projects like World of Neopia
+   (working title), [93]Petpet Park ^[94][16] and of the expansion of
+   Nicktropolis with a premium layer. It will also develop original
+   properties like the recently announced Monkey World.^[95][17]
+
+   After the changes in ownership, the site still retained its [96]British
+   English spellings.^[97][4] To date, since August 2003, the site has
+   been translated into ten other written languages: [98]Japanese,
+   [99]Traditional and [100]Simplified [101]Chinese, Spanish, German,
+   Italian, [102]Korean, Portuguese, [103]Dutch and French.^[104][18]
+   However, Neopets announced on 1 January 2009 that the Italian,
+   Japanese, and Korean areas of the site would no longer be updated.
+   ^[105][19]
+
+[[106]edit] Gameplay
+
+   Neopets is set in the themed lands of the fictional world of Neopia,
+   which has its own calendar and timezone running concurrent with the
+   real-world [107]Pacific Time.^[108][20] It also has its own
+   [109]economy and stock market based around the Neopoint. Players earn
+   Neopoints through various means including playing games and selling
+   items. Once earned, they can be invested or used to buy various goods
+   and services.^[110][21]
+   A customizable Neohome
+
+   Users are free to choose their own path in the world of Neopia, from
+   collecting things to battling against other users. Visitors can create
+   a free [111]account. A user then creates a Neopet and chooses its
+   unique name, physical characteristics, and personality^[112][22] and
+   may own up to four per account. A newly created pet comes with randomly
+   rolled [113]stats used for battling in the Battledome. Players need to
+   feed and care for their Neopets when they grow hungry or get sick,
+   although they will not die if they are neglected.^[114][23] New users
+   start out with a newbie pack of various items that introduce a basic
+   feature of the site, such as food for feeding a pet. They can get more
+   items for their Neopets by earning Neopoints, the site's currency,
+   through various activities including playing games and selling items.
+   Some items will change the appearance and even species of a Neopet.
+
+   Users can interact with their Neopets by reading books to them, caring
+   for them, and playing with them. This will make their mood better. They
+   can train their Neopets to be fighters in the Battledome against other
+   player's Neopets or [115]non-player characters. Wearable items, such as
+   certain clothing, can be used to customize a Neopet. Players can build
+   a customizable Neohome for their Neopets, furnish them, and buy
+   extensions that reflect the socioeconomic quality of the house.
+
+   Players can collect certain virtual items and display them in a gallery
+   or album. In addition to items, players can also collect trophies,
+   [116]avatars, and [117]site themes, although there is no function to
+   display the latter two.
+
+   Users found breaking the rules set in the Terms and Conditions may have
+   their account suspended, a temporarily blocked, or permanently
+   "frozen".
+
+[[118]edit] Site content
+
+   The content of the site is updated almost on a daily basis with the
+   addition of new games and items, weekly content, and other
+   things.^[119][24] In addition to the site content updated by Neopets,
+   players also contribute [120]user-generated content to the
+   site.^[121][25] Player contributions come in the form of prescreened
+   submissions and readily editable content that is automatically
+   filtered, such as the site's weekly electronic newspaper The Neopian
+   Times and their own [122]user lookup, respectively.^[123][26]
+
+[[124]edit] Games
+
+   There are many active games from which users can earn Neopoints and
+   awards. Before 22 November 2006 the games were divided into three
+   categories: Puzzle, Action, and Luck/Chance. After that date the Games
+   Room was reconfigured and now games are divided into many more
+   categories.^[125][27] Various games and activities include [126]Flash
+   and [127]Shockwave games, [128]PHP games, 3D Life Player games,
+   contests and spotlights, and quests to retrieve items.
+
+   Neopoints can be earned from playing games, most of which have a set
+   maximum of earnings or playtime. Players may also earn trophies for
+   their trophy cabinet from games if they score high enough for the
+   [129]Hi-Score Tables, which are reset on the first day of each month.
+   Challenges may be made against other players or random players in a
+   "World Challenge" for a prize piece for certain Flash games. A monthly
+   competition also exists for multiplayer PHP games with four week-long
+   elimination rounds.
+
+   Neopets offers several different contests and spotlights, where winners
+   are chosen by judges on the Neopets staff or voted on by members of the
+   Neopets community. Contests include several formats, such as writing a
+   story, making a short animated film or drawing a picture of their
+   Neopet. Spotlights showcase what users have done with customizable
+   content. Winners also receive a trophy and a reward, which varies with
+   the contest or spotlight.
+
+   In Australia, a cross-promotion with [130]McDonald's where McDonald's
+   promoted Neopets plushies in their Happy Meals and Neopets featured
+   McDonald's-related content led to a controversy with Neopets'
+   luck/chance games in October 2004. A story on the Australian
+   [131]tabloid television show [132]Today Tonight featured a
+   nine-year-old boy who claimed that the site requires one to [133]gamble
+   in order to receive enough Neopoints to feed one's Neopet or else it
+   would be sent to the Pound.^[134][28] While this is factually incorrect
+   (gambling is not required, nor are pets ever sent to an orphanage if
+   they are not fed), it is true that the website has a number of games of
+   chance that are directly based on real-life games such as
+   [135]blackjack and lottery [136]scratchcards. In 2004, Neopets
+   prohibited users under the age of 13 from playing most games that
+   involve gambling because of the boy mentioned above.^[137][4]
+
+[[138]edit] Exclusive content
+
+   Certain features on Neopets require a user to pay some amount of real
+   money and include Neopets Premium, Neopets Mobile, and some features of
+   the NC Mall. Neopets Premium and Mobile both allow access to areas of
+   the site otherwise restricted. Purchase of NeoCash allows use of the NC
+   Mall to purchase items to customize a user's Neopet or Neohome, but
+   users can sample clothing and furniture before purchase and can win
+   free NeoCash on some occasions, including a daily NeoCash giveaway
+   called the Qasalan Expellibox, a free 50 NC giveaway from the Advent
+   Calendar on 19 December 2008, and a free 50 NC from finding all the
+   Halloween goodie bags hidden around the site in Halloween of 2008.
+
+   Neopets Premium is an extended version of the site, for which members
+   pay for monthly or yearly subscriptions. With Premium membership,
+   external ads are removed and certain benefits are added, like extra
+   Neopoints, Premium only forums, own Premium emails and access to
+   [139]beta versions of games. Neopets Mobile is a simpler version of the
+   site using a web-to-wireless application developed by
+   In-Fusio.^[140][29] Initially released to [141]Cingular/AT&T, it allows
+   access from a [142]mobile phone where users get exclusive access to
+   Lutari Island and other exclusive content.^[143][29]
+
+   The NC Mall allows players to buy items used mainly for customizing
+   their Neopets or Neohomes using Neocash. Players must purchase Neocash
+   with real money through [144]PayPal. Customers in the United States can
+   also buy Neocash cards at [145]Target stores, the Target website, and
+   at selected [146]Wal-mart stores.^[147][30] The Mall was created
+   through a partnership with [148]Nexon,^[149][12] which also handles the
+   sale of [150]NX Cash used in the analogous "Cash Shop" of
+   [151]MapleStory. It was initially released for beta on 28 June 2007 and
+   then fully released to players in the United States on 17
+   July.^[152][11] Two months later, it expanded to English users in other
+   countries.^[153][31] Most Neocash purchased items remain with the buyer
+   permanently, but could not be transferred or sold to other players
+   until recently, when the gift box was introduced. A few items have
+   expiration times, after which they disappear from the buyer's accounts.
+
+   In February 2008, Neopets announced Key Quest, a feature that will
+   engage users by having them buy Neopets merchandise at Target and other
+   stores, using a virtual code to redeem tokens for their user
+   accounts.^[154][32]
+
+[[155]edit] Community
+
+   Screenshot of NeoBoards homepage. This screenshot was taken on July 3,
+   2007.
+
+   Neopets has a community in which users can chat with and contact each
+   other. Users may request other users to be "Neofriends" or block other
+   users from contacting them. Players are represented by small icons
+   known as [156]avatars that are provided by the website, as players
+   cannot upload their own. To comply with [157]COPPA, players under 13
+   years of age cannot access any of the site's communication features
+   without sending in parental consent.^[158][33] The main features
+   include:
+     * NeoMail, a personal in-game communication system like regular
+       [159]email. Players can write messages to other players and
+       restrict who can contact them through NeoMail. However, players
+       cannot send messages to another player who is under the age of 13
+       unless that player has parental permission.
+
+     * NeoBoards, public [160]discussion boards for on-topic discussions.
+       Users can enter their own "neoHTML", a restricted form of
+       [161]BBCode, to customize their own posts and signatures, which are
+       also used in guilds.
+
+     * Guilds, groups of users with similar interests and their own
+       message board. Public guilds can be found through guild listings
+       and anyone can join whenever they want, whereas private guilds are
+       unlisted and invitation-only. Players are only allowed to be a
+       member of one guild.
+
+   Discussions through these features are restricted and may not involve
+   topics such as dating and romance or controversial topics like politics
+   and religion. Continuous [162]moderation is performed by paid Neopets
+   staff members,^[163][33] and users can help moderate the site by
+   reporting messages they believe are inappropriate or
+   offensive.^[164][33] Messages are also automatically [165]filtered to
+   prevent users from posting messages with profanity or lewd
+   content,^[166][33] although filters cannot catch everything.
+
+[[167]edit] Immersive advertising
+
+   Immersive advertising is a trademarked term for the way Neopets
+   displayed advertisements to generate profit after [168]Doug Dohring
+   bought the site.^[169][4] Instead of running [170]pop-up and
+   [171]banner ads, immersive ads integrate advertisements into the site's
+   content in interactive forms, including games and items. Players can
+   earn Neopoints from them by doing things such as playing
+   [172]advergames and taking part in online marketing surveys.^[173][34]
+   Prior to the arrival of the NC Mall, it contributed to 60% of the
+   revenue from the site^[174][23] with paying [175]Fortune 1000 companies
+   including [176]Disney, [177]General Mills, and
+   [178]McDonald's.^[179][34]
+
+   It was a contentious issue with the site with regard to the [180]ethics
+   of marketing to children. Half a million of the 25 million users were
+   under the age of eight in 2005 and children under eight have difficulty
+   recognizing ads.^[181][4]^[182][35]^[183][34] It draws criticism from
+   parents, psychologists, and consumer advocates who argue that children
+   may not know that they are trying to be sold something, as it blurs the
+   line between site content and advertisement. A psychology professor at
+   Georgetown University stated, "It's self marketing, selling to kids
+   that don't know they are seeing anything".^[184][35] Dohring responded
+   to such criticism:
+
+     "Over 60 percent of our audience is 13 and over, so it is not like
+     we are dealing with four- to six-year-olds that may not quite
+     understand the difference between content and advertising. And of
+     the 40 percent of our users who are 12 or under, the ages start at
+     around seven or eight years old and go up from there. The
+     preschoolers are not really our audience, because you have to be a
+     pretty fluid reader to navigate the site."^[185][36]
+
+   Others criticised the functionality of the site. Susan Linn, another
+   psychologist and author of Consuming Kids: The Hostile Takeover of
+   Childhood said, "The whole purpose of this site at this point is to
+   keep kids in front of products".^[186][35] [187]Kalle Lasn,
+   editor-in-chief and co-founder of [188]Adbusters magazine, said the
+   site was "encouraging kids to spend hours in front of the screen and at
+   the same time recruiting them into consumer culture", which was "the
+   most insidious mind-fuck ever".^[189][4] Neopets executives have stated
+   in 2004 and 2006 that paid content comprised less than 1% of the site's
+   total content.^[190][34]^[191][35] Children are not required to play or
+   use sponsor games and items.^[192][37]^[193][4]
+
+   Consumer advocates also argue that immersive ads should be clearly
+   labelled as advertisements. Dohring has said, "We're not trying to be
+   subliminal or deceive the user. We label all the immersive ad campaigns
+   as paid advertisements."^[194][34]
+
+[[195]edit] Reception
+
+   Neopets has been compared to the antecedent virtual pet fad
+   [196]Tamagotchi and the [197]Pokmon franchise. It has been described as
+   an online cross of Pokmon and Tamagotchi.^[198][5]^[199][37] The
+   website maintains high "stickiness" rankings, which is a measure of the
+   amount of time a user spends on the site. Neopets has been praised for
+   having educational content, such as word games and an [200]HTML
+   guide.^[201][38] Its popularity spawned real world plushies, a
+   magazine, book series, cereal, and [202]merchandise in other media as
+   well.^[203][23]^[204][21]^[205][39]
+
+   A press release from Neopets in 2001 stated that Neopets.com led in
+   [206]site "stickiness" in May and June, with the average user spending
+   117 minutes a week.^[207][40] Neopets also led in the average number of
+   hours spent per user per month in December 2003 with an average of 4
+   hours and 47 minutes.^[208][21] A 2004 article stated that
+   [209]Nielsen//NetRatings reported that people were spending around
+   three hours a month on Neopets, more than any other site in its Nielsen
+   category.^[210][41] By May 2005, a Neopets-affiliated video game
+   producer cited about 35 million unique users, 11 million unique IP
+   addresses per month, and 4 billion web page views per month. This
+   producer also described 20% of the users as 18 or older, with the
+   median of the remaining 80% at about 14.^[211][42] Neopets was
+   consistently ranked among the top ten "stickiest" sites by both
+   Nielsen//NetRatings and [212]comScore Media Metrix in 2005 and
+   2006.^[213][43]^[214][44] According to Nielsen//NetRatings, in 2007,
+   Neopets lost about 15% of its audience over the previous
+   year.^[215][45] In February 2008, comScore ranked it as the stickiest
+   kids entertainment site with the average user spending 2 hours and 45
+   minutes.^[216][46]^[217][47]
+
+   Most of the users are female, higher than in other [218]massively
+   multiplayer online games (MMOGs) but equivalent to
+   social-networking-driven communities.^[219][48] Cuteness is one of the
+   main factors.^[220][48]^[221][35] Open-endedness is another. Lucy
+   Bradshaw, a vice president of [222]Electronic Arts, said, "Games that
+   have a tendency to satisfy on more than one dimension have a tendency
+   to have a broader appeal and attract girls".^[223][49]
+
+[[224]edit] Merchandise
+
+   Viacom produces a range of merchandise, including [225]plushies,
+   stickers, books, cereals, Neocash cards for the Nc Mall and [226]video
+   games. The merchandise retails at mainstream outlets such as
+   [227]Wal-Mart, [228]Target, and [229]Limited Too. There are also
+   exclusively online retailers involved, such as [230]Zazzle. Each
+   merchandise has a prize code which can be redeemed at the site for an
+   in-game reward. Neopets had planned to "bring the online and offline
+   worlds together in ways that have never been done before".^[231][50] An
+   investment banker at [232]Allen & Company in New York said Neopets was
+   the only online media he had seen "that might have the ability to
+   capture market share in the offline world".^[233][23] Neopets signed a
+   licensing deal with [234]Viacom Consumer Products in 2001 to get the
+   right developers and publishers for their offline content.^[235][51] A
+   deal with [236]Thinkway Toys produced the first merchandise brought to
+   an international market.^[237][52] Offline products expanded in 2005
+   with film and video game deals.^[238][23] In February 2008, offline
+   products were further expanded when it was announced that [239]Jakks
+   Pacific and [240]Enterplay would produce a new line of merchandise,
+   including new plushies and trading cards, to tie into Key
+   Quest.^[241][32]
+
+   [242]Wizards of the Coast released the [243]Neopets Trading Card Game
+   in September 2003 based on the online characters and setting. In 2004,
+   the cards were promoted in three of General Mills "Big G"
+   cereals^[244][53] and ten [245]Simon Property Group malls.^[246][54]
+   The TCG received two different nominations for "Toy of the Year" and
+   two other recognitions.^[247][55]
+
+   Neopets: The Official Magazine, published by [248]Beckett Media, was a
+   bi-monthly magazine released in September 2003.^[249][56] The magazine
+   was sold through a subscription service and in stores, with back issues
+   available for order on the magazine web site. The magazine's features
+   included Neopet games, stories, guides to the Flash games on the
+   Neopets site, news on upcoming site events and merchandise, and
+   drawings for readers. It also regularly offered games tied to the site
+   that allowed the reader to receive a prize on the Neopets site. After
+   26 issues, Beckett sent a notice to subscribers announcing that the
+   January 2008 issue would be the final issue of the magazine and that
+   Beckett would replace the issues remaining in the subscription with
+   their new magazine Beckett Plushie Pals, which would still include some
+   Neopets news, but also news related to various other companies,
+   including [250]Ganz Webkinz, [251]Disney's Club Penguin, [252]TY Beanie
+   Babies, and Kookeys.
+
+   Neopets signed a deal with [253]Warner Bros. Pictures in March 2005 to
+   produce films. The unreleased first film was announced to be written by
+   Rob Lieber and produced by Dylan Sellers and [254]John A. Davis in
+   February 2006 by [255]Variety.^[256][57]
+
+   In November 2005, Sony Computer Entertainment America Inc. released
+   [257]Neopets: The Darkest Faerie, for the [258]PlayStation 2. A second
+   game, [259]Neopets: Petpet Adventures: The Wand of Wishing, was
+   released 14 March 14 2006 for the [260]PlayStation Portable.
+
+   A very popular form of merchandise for Neopets was their set of toys in
+   2005 at McDonald's, which brought many people in to Neopets. A second
+   release of Neopet toys occurred at McDonald's because of the success of
+   the last promotion.^[261][58] These toys have been released in
+   countries such as Australia, USA, Singapore, and the U.K. In September
+   2008, Neopets toys came to [262]Burger King in the United States and
+   Canada. There were complaints in the U.S. when some Burger Kings were
+   not supplied with the proper Kids Meal bags (with virtual prize codes).
+
+   [263]Neopets Puzzle Adventure, a video game developed by [264]Infinite
+   Interactive and published by [265]Capcom, was made available for
+   [266]Windows PC, the [267]Nintendo DS and [268]Wii on November 25,
+   2008. The game is similar to the video game [269]Puzzle Quest:
+   Challenge of the Warlords.^[270][59]
+
+   Neocash Cards are sold in many stores around the US and come at
+   different prices (e.g. $10 and $25). They are used at the NC Mall
+   (released in July 2007) which is a large shop full of clothes, neohome
+   items and other stuffs for your Neopet; many of these items are
+   animated and very popular. The different prices amount to different
+   quantities of Neocash, for example $10 gives 1000 Neocash. Also, if
+   your Neopets account is over a specific age such as 48 months+ you are
+   able to have access to the Elite Boutique, which is located in the NC
+   Mall and suppose to sell NC items that under 48 months cannot see or
+   purchase.
+
+[[271]edit] References
+
+    1. ^ [272]^a [273]^b [274]"Neopets - About Us".
+       [275]http://www.neopets.com/aboutus.phtml. Retrieved on 2007-04-27.
+       "The site was launched on November 15 1999."
+    2. ^ [276]^a [277]^b [278]"Viacom agrees to buy Neopets". Reuters.
+       2005-06-20.
+       [279]http://infotech.indiatimes.com/articleshow/1147093.cms.
+       Retrieved on 2007-04-27. "Viacom Inc has agreed to buy children's
+       web company Neopets, Inc in a deal valued at $160 million, the
+       media reported on Sunday."
+    3. ^ [280]^a [281]^b [282]"Neopets Press Kit: Biography".
+       [283]Neopets, Inc.. Archived from [284]the original on 2007-07-02.
+       [285]http://web.archive.org/web/20070702084923/http://info.neopets.
+       com/presskit/press09a.html. Retrieved on 2008-06-09.
+    4. ^ [286]^a [287]^b [288]^c [289]^d [290]^e [291]^f [292]^g [293]^h
+       [294]Kushner, David (December 2005). "[295]The Neopets Addiction".
+       [296]Wired (13.12).
+       [297]http://www.wired.com/wired/archive/13.12/neopets.html.
+       Retrieved on 2007-09-09.
+    5. ^ [298]^a [299]^b [300]^c Weintraub, Arlene (2001-12-12).
+       [301]"Real Profits from an Imaginary World". BusinessWeek Online.
+       The McGraw-Hill Companies Inc..
+       [302]http://www.businessweek.com/technology/content/dec2001/tc20011
+       212_9434.htm. Retrieved on 2007-08-08.
+    6. [303]^ [304]"Immersive Advertising". Archived from [305]the
+       original on 2005-04-19.
+       [306]http://web.archive.org/web/20050419030507/http://demo.neopets.
+       com/aboutus/page06.html. Retrieved on 2008-06-09.
+    7. [307]^ Myerhoff, Matt (2005-07-04). "[308]Viacom adopts NeoPets and
+       their millions of owners". [309]Los Angeles Business Journal.
+       [310]http://findarticles.com/p/articles/mi_m5072/is_27_27/ai_n14811
+       960. Retrieved on 2008-06-13.
+    8. [311]^ [312]25 Million Neopets(R) Members Around the World Ready to
+       Vie for International Glory in First Annual Altador Cup(TM) Virtual
+       'Sports' Event.. [313]Press release. 2006-06-07.
+       [314]http://www.accessmylibrary.com/coms2/summary_0286-15535950_ITM
+       . Retrieved on 2008-06-24.
+    9. [315]^ Indiantelevision.com Team (2007-06-04). [316]"Nick US to
+       introduce viewers to the virtual world of Neopets". Indian
+       Television Dot Com Pvt Ltd.
+       [317]http://www.indiantelevision.com/headlines/y2k7/june/june44.php
+       . Retrieved on 2008-06-24.
+   10. [318]^ [319]"Neopets New Features for the week of April 24th".
+       [320]Neopets, Inc..
+       [321]http://www.neopets.com/nf.phtml?nf_date=2007-04-23. Retrieved
+       on 2007-09-26.
+   11. ^ [322]^a [323]^b [324]"New Features".
+       [325]http://www.neopets.com/nf.phtml?nf_date=2007-07-16. Retrieved
+       on 2007-08-08. "The NC Mall is now officially open!"
+   12. ^ [326]^a [327]^b Olson, Ryan (2007-06-20). [328]"Neopets to Sell
+       Premium Items". [329]Red Herring. Paradigm Communications.
+       [330]http://www.paradigmshiftpr.com/neopetstosell.htm. Retrieved on
+       2007-09-08.
+   13. [331]^ [332]Viacom (2007-07-18). [333]MTV Networks' Nickelodeon
+       Kids and Family Group Commits $100 Million to Its Online Casual
+       Games Business. [334]Press release.
+       [335]http://www.viacom.com/NEWS/NewsText.aspx?RID=1027518.
+       Retrieved on 2007-07-18. "Neopets inc. (www.neopets.com) will be
+       transformed into Neostudios, which will focus on developing new
+       virtual world gaming experiences online, while continuing to grow
+       and evolve the existing ones. The first of these will launch at the
+       end of 2008 with a goal to launch a new one every other year."
+   14. [336]^ [337]Newswire (2008-06-17). [338]Nickelodeon Kids and Family
+       Group Forms New Games and Virtual Worlds Divisions. [339]Press
+       release.
+       [340]http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.sto
+       ry&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01
+       :33+PM. Retrieved on 2009-02-23. "The Virtual Worlds Group will
+       manage all company virtual world initiatives for kids, tweens,
+       teens and families, including the original youth-oriented virtual
+       community of Neopets ([341]http://www.neopets.com),"
+   15. [342]^ [343]Newswire (2008-06-17). [344]Nickelodeon Kids and Family
+       Group Forms New Games and Virtual Worlds Divisions. [345]Press
+       release.
+       [346]http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.sto
+       ry&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01
+       :33+PM. Retrieved on 2009-02-23. "The Virtual Worlds Group will
+       manage all company virtual world initiatives for kids, tweens,
+       teens and families, including the original youth-oriented virtual
+       community of Neopets ([347]http://www.neopets.com),"
+   16. [348]^ [349]Neopets.com (2008-09-04). [350]Neopets Petpet Park
+       Celebration. [351]Press release.
+       [352]http://www.neopets.com/petpetpark/celebration.phtml. Retrieved
+       on 2009-02-23. "Welcome! We're beta testing Petpet Park right
+       now,"
+   17. [353]^ [354]Newswire (2008-06-17). [355]Nickelodeon Kids and Family
+       Group Forms New Games and Virtual Worlds Divisions. [356]Press
+       release.
+       [357]http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.sto
+       ry&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01
+       :33+PM. Retrieved on 2009-02-23. "The Virtual Worlds Group will
+       manage all company virtual world initiatives for kids, tweens,
+       teens and families, including the original youth-oriented virtual
+       community of Neopets ([358]http://www.neopets.com),"
+   18. [359]^ [360]"Global Expansion". Neopets Press Kit. [361]Neopets,
+       Inc.. Archived from [362]the original on 2007-07-02.
+       [363]http://web.archive.org/web/20070702084854/http://info.neopets.
+       com/presskit/press05.html. Retrieved on 2008-06-09.
+   19. [364]^ [365]"Jellyneo". Neopets Fansite. Archived from [366]the
+       original on 2009-01-01.
+       [367]http://www.jellyneo.net/index.php?comments=3708. Retrieved on
+       2009-01-07.
+   20. [368]^ [369]"The Neopian Times, Issue 185, Editorial".
+       [370]http://www.neopets.com/ntimes/index.phtml?section=editorial&is
+       sue=285. Retrieved on 2007-09-24.
+   21. ^ [371]^a [372]^b [373]^c Myers, Jack (2004-03-18).
+       [374]"Neopets.com Fulfills Promise of Immersive Advertising" (PDF).
+       Jack Myers Report. JACK MYERS, LLC.
+       [375]http://www.mediavillage.com/pdf/2004/03-18-04.pdf. Retrieved
+       on 2007-09-10.
+   22. [376]^ M. Baybak & Co. Inc. (2000-12-05). [377]"NeoPets.com
+       Launches Dramatic New Form of Internet Advertising, Results Far".
+       [378]Business Wire.
+       [379]http://www.commercialalert.org/issues/culture/neopets/neopetsc
+       om-launches-dramatic-new-form-of-internet-advertising-results-far.
+       Retrieved on 2007-09-10.
+   23. ^ [380]^a [381]^b [382]^c [383]^d [384]^e Wingfield, Nick
+       (2005-02-22). "[385]Web's Addictive Neopets Are Ready for Big
+       Career Leap". [386]Wall Street Journal.
+       [387]http://www.commercialalert.org/news/featured-in/2005/02/webs-a
+       ddictive-neopets-are-ready-for-big-career-leap. Retrieved on
+       2007-09-04.
+   24. [388]^ [389]"New Features on Neopets".
+       [390]http://www.neopets.com/nf.phtml. Retrieved on 2007-10-30.
+   25. [391]^ [392]"Frequently Asked Questions". Neopets Press Kit.
+       [393]Neopets, Inc.. Archived from [394]the original on 2007-07-01.
+       [395]http://web.archive.org/web/20070701120250/http://info.neopets.
+       com/presskit/faqs.html. Retrieved on 2008-06-09.
+   26. [396]^ [397]"Neopets Company Information". Neopets Press Kit.
+       [398]Neopets Inc.. Archived from [399]the original on 2007-07-04.
+       [400]http://web.archive.org/web/20070704061455/http://info.neopets.
+       com/presskit/compback.html. Retrieved on 2008-06-09.
+   27. [401]^ [402]"New Features on Neopets". 2006-11-21.
+       [403]http://www.neopets.com/nf.phtml?nf_date=2006-11-20. Retrieved
+       on 2007-05-06.
+   28. [404]^ Wenn, Rohan (2004-10-14). [405]"Parents not McHappy over
+       pokie toy" (PDF). [406]Today Tonight. [407]Gambler's Help Southern.
+       [408]http://www.ghsouthern.org.au/gurublog/neopetstodaytonight.pdf.
+       Retrieved on 2007-09-10.
+   29. ^ [409]^a [410]^b [411]Cingular Wireless (2006-06-27).
+       [412]Neopets.com Goes Mobile with Groundbreaking Web-To-Wireless
+       Application, Exclusive Launch with Cingular Wireless. [413]Press
+       release.
+       [414]http://att.centralcast.net/cingularnewsarchive/Release.aspx?ID
+       =3977. Retrieved on 2007-09-25.
+   30. [415]^ [416]"Neocash Cards". Neopets.
+       [417]http://ncmall.neopets.com/mall/splash.phtml. Retrieved on
+       2008-05-30.
+   31. [418]^ [419]"Neopets - New Features". [420]Neopets, Inc..
+       2007-09-18.
+       [421]http://www.neopets.com/nf.phtml?nf_date=2007-09-17. Retrieved
+       on 2008-06-29.
+   32. ^ [422]^a [423]^b [424]"Nickelodeon, Viacom to launch slew of
+       products based on Neopets". Indian Television Dot Com Pvt Ltd.
+       2008-02-04.
+       [425]http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php.
+       Retrieved on 2008-06-05.
+   33. ^ [426]^a [427]^b [428]^c [429]^d Rosen, Craig (2005-04-14).
+       "[430]It's a Whole Neo World; Neopets.com is a Raging Success. But
+       Some Find It Inappropriate and Even Scary". [431]Los Angeles Times.
+       [432]http://www.commercialalert.org/issues/culture/neopets/its-a-wh
+       ole-neo-world-neopetscom-is-a-raging-success-but-some-find-it-inapp
+       ropriate-and-even-scary. Retrieved on 2007-09-06.
+   34. ^ [433]^a [434]^b [435]^c [436]^d [437]^e Daren, Fonda
+       (2004-06-28). "[438]Pitching It To Kids". [439]Time.com ([440]Time
+       Inc.).
+       [441]http://www.time.com/time/magazine/article/0,9171,994512-1,00.h
+       tml. Retrieved on 2008-03-26.
+   35. ^ [442]^a [443]^b [444]^c [445]^d [446]^e Pace, Gina (2006-02-09).
+       [447]"Kids And Neopets: Who's Getting Fed?". [448]CBS Broadcasting
+       Inc..
+       [449]http://www.cbsnews.com/stories/2006/02/07/national/main1293944
+       .shtml. Retrieved on 2008-06-09.
+   36. [450]^ Fehrenbacher, Karen (2005-07-31). [451]"Q&A: Doug Dohring".
+       Redherring.com. [452]RedHerring.
+       [453]http://www.redherring.com/Home/12995. Retrieved on
+       2008-06-13.
+   37. ^ [454]^a [455]^b Headon, Martin (2002-10-31). [456]"Pet Hates".
+       [457]Guardian Unlimited.
+       [458]http://www.guardian.co.uk/computergames/story/0,11500,822595,0
+       0.html. Retrieved on 2007-09-03.
+   38. [459]^ Christine Boese. [460]"CNN.com - NeoPets invade the Internet
+       world - Jan. 7, 2003". Cnn.com.
+       [461]http://www.cnn.com/2003/SHOWBIZ/01/06/hln.hot.buzz.neopets/ind
+       ex.html. Retrieved on 2008-11-24.
+   39. [462]^ Afan, Emily Clair (2007-07-01). [463]"Neopets get animated
+       on Nick". Brunico Communications Ltd.
+       [464]http://www.kidscreen.com/articles/daily/20070601/neo.html?.
+       Retrieved on 2007-09-10.
+   40. [465]^ [466]"NeoPets.com Continues Stickiness Leadership".
+       [467]http://info.neopets.com/presskit/articles/archive/yahoo4.html.
+       Retrieved on 2007-09-10.
+   41. [468]^ Eckstein, Sandra (2004-05-13). [469]"The next generation of
+       toys play with interactivity". Seattle Post-Intelligencer.
+       [470]http://seattlepi.nwsource.com/lifestyle/173035_interactivetoys
+       .html. Retrieved on 2006-08-04.
+   42. [471]^ [472]Gamespot interview, see "Neopets: The Darkest Faerie
+       Developer Interview 1" video
+   43. [473]^ Hefflinger, Mark (2005-06-17). [474]"MTV Acquires "Virtual
+       Pet" Youth Online Community NeoPets". [475]Digital Media Wire,
+       Inc..
+       [476]http://www.dmwmedia.com/news/2005/06/17/mtv-acquires-virtual-p
+       et-youth-online-community-neopets. Retrieved on 2007-09-10.
+   44. [477]^ Gaudiosi, John (2006-11-10). [478]"MTVN, Nexon team to grow
+       Neopets site". Nielsen Business Media, Inc..
+       [479]http://www.hollywoodreporter.com/hr/content_display/business/n
+       ews/e3ia52li9aIs4NtvdkBDAfRNQ%3D%3D. Retrieved on 2007-09-10.
+   45. [480]^ Shields, Mike (2007-09-10). [481]"Buyers See Some Order in
+       MTVN's Varied Web Plays". [482]Mediaweek.com. [483]Nielsen Business
+       Media.
+       [484]http://www.mediaweek.com/mw/news/cabletv/article_display.jsp?v
+       nu_content_id=1003637077. Retrieved on 2008-06-12.
+   46. [485]^ Indiantelevision.com Team (2008-02-04). [486]"Nickelodeon,
+       Viacom to launch slew of products based on Neopets".
+       Indiantelevision.com's Kidology. Indian Television Dot Com Pvt Ltd.
+       [487]http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php.
+       Retrieved on 2008-06-12.
+   47. [488]^ Nickelodeon (2008-02-14). [489]Neopets(R), the Leading
+       Virtual World for Tweens, Showcases New Collectible Plush Toys, Fun
+       Paks and Trading Cards at Toy Fair 2008. [490]Press release.
+       [491]http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/w
+       ww/story/02-14-2008/0004756436&EDATE=. Retrieved on 2008-06-12.
+   48. ^ [492]^a [493]^b [494]"ANALYSIS: Here Come the Girls".
+       [495]Next-Gen.biz. [496]Future Network USA. 2008-05-19.
+       [497]http://www.next-gen.biz/index.php?option=com_content&task=view
+       &id=10559&Itemid=2. Retrieved on 2008-06-17.
+   49. [498]^ Ha, K. Oanh (2004-09-14). [499]"Neopets site for children
+       stirs controversy.". [500]San Jose Mercury News.
+       [501]http://www.accessmylibrary.com/coms2/summary_0286-8571511_ITM.
+       Retrieved on 2008-06-17.
+   50. [502]^ [503]"NeoPets Trading Card Game". Raving Toy Maniac.
+       2003-02-04. [504]http://www.toymania.com/news/messages/3011.shtml.
+       Retrieved on 2008-06-18.
+   51. [505]^ Keough, Christopher (2001-12-17). "[506]Pets Go Mainstream".
+       [507]Los Angeles Business Journal.
+       [508]http://findarticles.com/p/articles/mi_m5072/is_51_23/ai_812264
+       14. Retrieved on 2008-06-18.
+   52. [509]^ [510]Thinkway Toys and NeoPets, Inc. Announce Licensing
+       Agreement.. [511]Press release. 2002-07-17.
+       [512]http://www.accessmylibrary.com/coms2/summary_0286-25658682_ITM
+       . Retrieved on 2008-06-20.
+   53. [513]^ [514]"Wizards' Neopets in cereal deal". [515]Reed Business
+       Information. 2004-03-04.
+       [516]http://www.playthings.com/article/CA401171.html. Retrieved on
+       2008-06-22.
+   54. [517]^ [518]"Neopets 10-City Mall Tour Brings Online World and
+       Popular Trading Card Game to Life across the Country.". 2004-06-29.
+       [519]http://www.accessmylibrary.com/coms2/summary_0286-21800051_ITM
+       . Retrieved on 2008-06-22.
+   55. [520]^ [521]Business Wire (2004-01-19). [522]Neopets Trading Card
+       Game: Excitement Continues with All-New Card Set. [523]Press
+       release.
+       [524]http://findarticles.com/p/articles/mi_m0EIN/is_2004_Jan_19/ai_
+       112317211. Retrieved on 2008-06-12. "Toy Wishes magazine recognized
+       the Neopets TCG as a "Holiday All-Star," and the game received "Toy
+       of the Year" nominations from the Toy Industry Association and
+       Kidzworld.com. In addition, the Neopets TCG was selected as an
+       "Editor's Pick" by Playthings magazine."
+   56. [525]^ [526]"Neopets News". Neopets. 2003-09-11.
+       [527]http://www.neopets.com/nf.phtml?nf_date=2003-09-08. Retrieved
+       on 2008-06-12.
+   57. [528]^ McClintock, Pamela (2006-02-06). [529]"WB taps NeoPets pic
+       scribe". [530]variety.com.
+       [531]http://www.variety.com/article/VR1117937505.html?categoryid=13
+       &cs=1. Retrieved on 2008-06-18.
+   58. [532]^ [533]"Neopets Plush at McDonald's". 2005-07-08.
+       [534]http://www.toymania.com/news/messages/6928.shtml. Retrieved on
+       2007-05-08.
+   59. [535]^ [536]"Gamespot First Look". [537]gamespot.com. 2008-06-04.
+       [538]http://www.gamespot.com/ds/puzzle/neopets/news.html?sid=619204
+       5. Retrieved on 2008-11-07.
+
+[[539]edit] External links
+
+   [540]Sister project [541]Wikinews has related news: [542]Neopets to
+   become TV series
+     * [543]Official Neopets Website
+     * [544]Neopets Jr.
+     * [545]Beckett Official Neopets Magazine
+     * [546]Neopets guide at StrategyWiki
+
+   [547]v  [548]d  [549]e
+   Neopets
+   Neopets.com
+   Neopets [550]Neopets, Inc.
+   Merchandise
+   [551]Trading Card Game [552]The Darkest Faerie [553]Petpet Adventures:
+   The Wand of Wishing [554]Codestone Quest
+   [555]v  [556]d  [557]e
+   [558]MTV Networks (a division of [559]Viacom [560]Inc.)
+   Channels in North America
+   [561]CMT  [562]CMT (Canada) (10% with [563]Corus Entertainment)
+   [564]CMT Pure Country  [565]Comedy Central  [566]Logo  [567]Palladia
+   [568]MTV  [569]MTV2  [570]MTV Hits  [571]MTV Jams  [572]MTV Tr3s
+   [573]mtvU  [574]Nickelodeon/[575]Nick-at-Nite/[576]Nick Jr.  [577]MTV
+   News  [578]Nicktoons Network  [579]Noggin  [580]The N  [581]Nick GAS
+   [582]Spike  [583]TV Land  [584]TV Land Canada (19.9% with
+   [585]CTVglobemedia)  [586]VH1  [587]VH1 Classic  [588]VH1 Soul
+   [589]MTV Networks Latin America
+   [590]MTV Latin America  [591]Nickelodeon Latin America  [592]VH1 Latin
+   America
+   Brazil: [593]MTV Brazil (30% with [594]Abril)  [595]Nickelodeon Brazil
+   [596]VH1 Brazil
+   [597]MTV Networks Europe
+   see [598]Template:MTV Networks Europe
+   [599]MTV Networks Asia Pacific
+   [600]MTV Asia  [601]MTV Australia  [602]MTV India  [603]MTV Japan
+   [604]MTV New Zealand  [605]MTV Pakistan  [606]MTV Philippines  [607]MTV
+   Thailand  [608]MTV Arabia  [609]MTV Taiwan  [610]MTV China   [611]MTV
+   Indonesia    [612]Nickelodeon Pakistan  [613]Nickelodeon Arabia
+   [614]Nickelodeon Australia (licensed to [615]XYZnetworks)
+   [616]Nickelodeon (Japan)  [617]Nickelodeon South East Asia
+   [618]Nickelodeon India  [619]Nickelodeon New Zealand  [620]Nick Jr.
+   Australia (licensed to [621]XYZnetworks)   [622]TMF Australia  [623]VH1
+   Australia  [624]VH1 Thailand  [625]VH1 India   [626]VH1 Pakistan
+   Internet services
+   [627]Atom Entertainment  [628]AfterEllen.com  [629]College Publisher
+   [630]GameTrailers  [631]iFilm  [632]MTV Overdrive  Neopets
+   [633]Quizilla  [634]TurboNick  [635]VSPOT  [636]Xfire
+   Other units
+   [637]CMT Films  [638]Comedy Central Records  [639]Harmonix Music
+   Systems  [640]MTV International
+   Defunct channels
+   [641]Box Comedy  [642]Ha!  [643]MTV Chi  [644]MTV Classic  [645]MTV
+   Desi  [646]MTV Flux   [647]MTV K  [648]MTVX  [649]Nick-at-Nite UK
+   [650]Noggin UK  [651]VH1 Germany  [652]VH1 Mega Hits  [653]VH1 Uno
+   [654]VH2
+   Retrieved from "[655]http://en.wikipedia.org/wiki/Neopets"
+   [656]Categories: [657]Internet properties established in 1999 |
+   [658]1990s fads | [659]Children's websites | [660]Entertainment
+   websites | [661]Internet forums | [662]Neopets | [663]Toys of the 1990s
+   | [664]Virtual pets
+
+Views
+
+     * [665]Article
+     * [666]Discussion
+     * [667]Edit this page
+     * [668]History
+
+Personal tools
+
+     * [669]Log in / create account
+
+Navigation
+
+     * [670]Main page
+     * [671]Contents
+     * [672]Featured content
+     * [673]Current events
+     * [674]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [675]About Wikipedia
+     * [676]Community portal
+     * [677]Recent changes
+     * [678]Contact Wikipedia
+     * [679]Donate to Wikipedia
+     * [680]Help
+
+Toolbox
+
+     * [681]What links here
+     * [682]Related changes
+     * [683]Upload file
+     * [684]Special pages
+     * [685]Printable version
+     * [686]Permanent link
+     * [687]Cite this page
+
+Languages
+
+     * [688]Deutsch
+     * [689]Espaol
+     * [690]Franais
+     *
+     * [691]Italiano
+     *
+     * [692]Nederlands
+     *
+     * [693]Norsk (bokml)
+     * [694]Polski
+     * [695]Portugus
+     * [696]Simple English
+     * [697]Slovenina
+     * [698]Suomi
+     * [699]Svenska
+     *
+     *
+
+   [700]Powered by MediaWiki
+   [701]Wikimedia Foundation
+     * This page was last modified on 24 February 2009, at 14:02.
+     * All text is available under the terms of the [702]GNU Free
+       Documentation License. (See [703]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [704]Wikimedia
+       Foundation, Inc., a U.S. registered [705]501(c)(3)
+       [706]tax-deductible [707]nonprofit [708]charity.
+     * [709]Privacy policy
+     * [710]About Wikipedia
+     * [711]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Neopets&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Duocorn&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#searchInput
+   9. file://localhost/wiki/Neopets,_Inc.
+  10. file://localhost/wiki/Video_game_developer
+  11. file://localhost/wiki/Video_game_publisher
+  12. file://localhost/wiki/Neopets,_Inc.
+  13. file://localhost/wiki/Viacom
+  14. file://localhost/wiki/Game_designer
+  15. file://localhost/wiki/Adam_Powell_(game_designer)
+  16. file://localhost/wiki/Computing_platform
+  17. file://localhost/wiki/Cross-platform
+  18. file://localhost/wiki/Video_game_genres
+  19. file://localhost/wiki/Fantasy
+  20. file://localhost/wiki/Digital_pet
+  21. file://localhost/wiki/Single-player
+  22. file://localhost/wiki/Multiplayer
+  23. file://localhost/wiki/Digital_media
+  24. file://localhost/wiki/Web_browser
+  25. file://localhost/wiki/Web_browser
+  26. file://localhost/wiki/Adobe_Flash
+  27. file://localhost/wiki/Adobe_Shockwave
+  28. file://localhost/w/index.php?title=3D_Life_Player&action=edit&redlink=1
+  29. file://localhost/wiki/Computer_keyboard
+  30. file://localhost/wiki/Mouse_(computing)
+  31. file://localhost/wiki/Digital_pet
+  32. file://localhost/wiki/Website
+  33. file://localhost/wiki/Adam_Powell_(game_designer)
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-about-0
+  35. file://localhost/wiki/Doug_Dohring
+  36. file://localhost/wiki/Viacom
+  37. file://localhost/wiki/United_States_dollar
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Viacom_buys_Neopets-1
+  39. file://localhost/wiki/Virtual_world
+  40. file://localhost/wiki/Stock_market
+  41. file://localhost/wiki/Pay-to-play
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Exclusive_content
+  43. file://localhost/wiki/United_States_dollar
+  44. file://localhost/wiki/Neopets_Trading_Card_Game
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#History
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Gameplay
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Site_content
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Games
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Exclusive_content
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Community
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Immersive_advertising
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Reception
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Merchandise
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#References
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#External_links
+  56. file://localhost/w/index.php?title=Neopets&action=edit&section=1
+  57. file://localhost/wiki/Neopets,_Inc.
+  58. file://localhost/wiki/University_of_Nottingham
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-PressRelease-2
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-PressRelease-2
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-about-0
+  62. file://localhost/wiki/Word_of_mouth
+  63. file://localhost/wiki/Christmas
+  64. file://localhost/wiki/Page_view
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+  66. file://localhost/wiki/Doug_Dohring
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Weintraub-4
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+  69. file://localhost/wiki/Neopets,_Inc.
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#Immersive_advertising
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Weintraub-4
+  72. file://localhost/wiki/Product_placement
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-5
+  74. file://localhost/wiki/Media_conglomerate
+  75. file://localhost/wiki/Viacom
+  76. file://localhost/wiki/Neopets,_Inc.
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Viacom_buys_Neopets-1
+  78. file://localhost/wiki/Banner_ad
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-6
+  80. file://localhost/wiki/2006_FIFA_World_Cup
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-7
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-8
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-9
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-NC_Mall-10
+  85. file://localhost/wiki/Nexon_Corporation
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Nexon-11
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-12
+  88. file://localhost/wiki/Nickelodeon_Kids_%26_Family_Virtual_Worlds_Group
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-13
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-14
+  91. file://localhost/wiki/Nickelodeon_Kids_%26_Family_Virtual_Worlds_Group
+  92. http://www.nicktropolis.com/
+  93. file://localhost/wiki/Petpet_Park
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-15
+  95. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-16
+  96. file://localhost/wiki/British_English
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+  98. file://localhost/wiki/Japanese_writing_system
+  99. file://localhost/wiki/Traditional_Chinese
+ 100. file://localhost/wiki/Simplified_Chinese
+ 101. file://localhost/wiki/Written_Chinese
+ 102. file://localhost/wiki/Hangul
+ 103. file://localhost/wiki/Dutch_language
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-17
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-18
+ 106. file://localhost/w/index.php?title=Neopets&action=edit&section=2
+ 107. file://localhost/wiki/Pacific_Time_Zone
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-19
+ 109. file://localhost/wiki/Economy
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Myers-20
+ 111. file://localhost/wiki/User_(computing)
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Baybak-21
+ 113. file://localhost/wiki/Statistic_(role-playing_games)
+ 114. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wingfield-22
+ 115. file://localhost/wiki/Non-player_character
+ 116. file://localhost/wiki/Avatar_(computing)
+ 117. file://localhost/wiki/Theme_(computing)
+ 118. file://localhost/w/index.php?title=Neopets&action=edit&section=3
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-23
+ 120. file://localhost/wiki/User-generated_content
+ 121. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-NeopetsFAQ-24
+ 122. file://localhost/wiki/User_page
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-25
+ 124. file://localhost/w/index.php?title=Neopets&action=edit&section=4
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Game_revamp-26
+ 126. file://localhost/wiki/Adobe_Flash
+ 127. file://localhost/wiki/Adobe_Shockwave
+ 128. file://localhost/wiki/PHP
+ 129. file://localhost/wiki/Hi-Score
+ 130. file://localhost/wiki/McDonald%27s
+ 131. file://localhost/wiki/Tabloid_television
+ 132. file://localhost/wiki/Today_Tonight
+ 133. file://localhost/wiki/Gamble
+ 134. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wenn-27
+ 135. file://localhost/wiki/Blackjack
+ 136. file://localhost/wiki/Scratchcard
+ 137. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+ 138. file://localhost/w/index.php?title=Neopets&action=edit&section=5
+ 139. file://localhost/wiki/Development_stage
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Mobile-28
+ 141. file://localhost/wiki/AT%26T_Mobility
+ 142. file://localhost/wiki/Mobile_phone
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Mobile-28
+ 144. file://localhost/wiki/PayPal
+ 145. file://localhost/wiki/Target_Corporation
+ 146. file://localhost/wiki/Wal-mart
+ 147. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-29
+ 148. file://localhost/wiki/Nexon_Corporation
+ 149. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Nexon-11
+ 150. file://localhost/wiki/Nexon_Corporation#NEXON_Cash
+ 151. file://localhost/wiki/MapleStory
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-NC_Mall-10
+ 153. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-30
+ 154. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-KeyQuest-31
+ 155. file://localhost/w/index.php?title=Neopets&action=edit&section=6
+ 156. file://localhost/wiki/Avatar_(computing)
+ 157. file://localhost/wiki/Children%27s_Online_Privacy_Protection_Act
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Rosen-32
+ 159. file://localhost/wiki/Email
+ 160. file://localhost/wiki/Internet_forum
+ 161. file://localhost/wiki/BBCode
+ 162. file://localhost/wiki/Forum_moderator
+ 163. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Rosen-32
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Rosen-32
+ 165. file://localhost/wiki/Wordfilter
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Rosen-32
+ 167. file://localhost/w/index.php?title=Neopets&action=edit&section=7
+ 168. file://localhost/wiki/Doug_Dohring
+ 169. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+ 170. file://localhost/wiki/Pop-up_ad
+ 171. file://localhost/wiki/Banner_ad
+ 172. file://localhost/wiki/Advergames
+ 173. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Fonda-33
+ 174. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wingfield-22
+ 175. file://localhost/wiki/Fortune_1000
+ 176. file://localhost/wiki/The_Walt_Disney_Company
+ 177. file://localhost/wiki/General_Mills
+ 178. file://localhost/wiki/McDonald%27s
+ 179. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Fonda-33
+ 180. file://localhost/wiki/Marketing_ethics#market_audience
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+ 182. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Pace-34
+ 183. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Fonda-33
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Pace-34
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-35
+ 186. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Pace-34
+ 187. file://localhost/wiki/Kalle_Lasn
+ 188. file://localhost/wiki/Adbusters
+ 189. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+ 190. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Fonda-33
+ 191. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Pace-34
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Headon-36
+ 193. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Kushner-3
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Fonda-33
+ 195. file://localhost/w/index.php?title=Neopets&action=edit&section=8
+ 196. file://localhost/wiki/Tamagotchi
+ 197. file://localhost/wiki/Pok%C3%A9mon
+ 198. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Weintraub-4
+ 199. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Headon-36
+ 200. file://localhost/wiki/HTML
+ 201. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-37
+ 202. file://localhost/wiki/Neopets,_Inc.#Merchandise
+ 203. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wingfield-22
+ 204. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Myers-20
+ 205. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-38
+ 206. file://localhost/wiki/Sticky_content
+ 207. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-39
+ 208. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Myers-20
+ 209. file://localhost/wiki/Nielsen_Ratings
+ 210. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-40
+ 211. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-41
+ 212. file://localhost/wiki/ComScore
+ 213. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-42
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Gaudiosi-43
+ 215. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-44
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-45
+ 217. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-46
+ 218. file://localhost/wiki/Massively_multiplayer_online_game
+ 219. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-NextGen-47
+ 220. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-NextGen-47
+ 221. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Pace-34
+ 222. file://localhost/wiki/Electronic_Arts
+ 223. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-48
+ 224. file://localhost/w/index.php?title=Neopets&action=edit&section=9
+ 225. file://localhost/wiki/Plush_toy
+ 226. file://localhost/wiki/Video_game
+ 227. file://localhost/wiki/Wal-Mart
+ 228. file://localhost/wiki/Target_Corporation
+ 229. file://localhost/wiki/Limited_Too
+ 230. file://localhost/wiki/Zazzle
+ 231. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-49
+ 232. file://localhost/wiki/Allen_%26_Company
+ 233. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wingfield-22
+ 234. file://localhost/w/index.php?title=Viacom_Consumer_Products&action=edit&redlink=1
+ 235. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-50
+ 236. file://localhost/w/index.php?title=Thinkway_Toys&action=edit&redlink=1
+ 237. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-51
+ 238. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-Wingfield-22
+ 239. file://localhost/wiki/Jakks_Pacific
+ 240. file://localhost/w/index.php?title=Enterplay&action=edit&redlink=1
+ 241. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-KeyQuest-31
+ 242. file://localhost/wiki/Wizards_of_the_Coast
+ 243. file://localhost/wiki/Neopets_Trading_Card_Game
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-52
+ 245. file://localhost/wiki/Simon_Property_Group
+ 246. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-53
+ 247. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-54
+ 248. file://localhost/wiki/Beckett_Media
+ 249. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-55
+ 250. file://localhost/wiki/Webkinz
+ 251. file://localhost/wiki/Disney%27s_Club_Penguin
+ 252. file://localhost/wiki/TY_Beanie_Babies
+ 253. file://localhost/wiki/Warner_Bros._Pictures
+ 254. file://localhost/wiki/John_A._Davis
+ 255. file://localhost/wiki/Variety_magazine
+ 256. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-56
+ 257. file://localhost/wiki/Neopets:_The_Darkest_Faerie
+ 258. file://localhost/wiki/PlayStation_2
+ 259. file://localhost/wiki/Neopets:_Petpet_Adventures:_The_Wand_of_Wishing
+ 260. file://localhost/wiki/PlayStation_Portable
+ 261. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-57
+ 262. file://localhost/wiki/Burger_King
+ 263. file://localhost/wiki/Neopets_Puzzle_Adventure
+ 264. file://localhost/wiki/Infinite_Interactive
+ 265. file://localhost/wiki/Capcom
+ 266. file://localhost/wiki/Microsoft_Windows
+ 267. file://localhost/wiki/Nintendo_DS
+ 268. file://localhost/wiki/Wii
+ 269. file://localhost/wiki/Puzzle_Quest:_Challenge_of_the_Warlords
+ 270. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_note-58
+ 271. file://localhost/w/index.php?title=Neopets&action=edit&section=10
+ 272. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-about_0-0
+ 273. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-about_0-1
+ 274. http://www.neopets.com/aboutus.phtml
+ 275. http://www.neopets.com/aboutus.phtml
+ 276. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Viacom_buys_Neopets_1-0
+ 277. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Viacom_buys_Neopets_1-1
+ 278. http://infotech.indiatimes.com/articleshow/1147093.cms
+ 279. http://infotech.indiatimes.com/articleshow/1147093.cms
+ 280. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-PressRelease_2-0
+ 281. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-PressRelease_2-1
+ 282. http://web.archive.org/web/20070702084923/http://info.neopets.com/presskit/press09a.html
+ 283. file://localhost/wiki/Neopets,_Inc.
+ 284. http://info.neopets.com/presskit/press09a.html
+ 285. http://web.archive.org/web/20070702084923/http://info.neopets.com/presskit/press09a.html
+ 286. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-0
+ 287. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-1
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-2
+ 289. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-3
+ 290. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-4
+ 291. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-5
+ 292. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-6
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Kushner_3-7
+ 294. file://localhost/wiki/David_Kushner
+ 295. http://www.wired.com/wired/archive/13.12/neopets.html
+ 296. file://localhost/wiki/Wired_(magazine)
+ 297. http://www.wired.com/wired/archive/13.12/neopets.html
+ 298. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Weintraub_4-0
+ 299. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Weintraub_4-1
+ 300. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Weintraub_4-2
+ 301. http://www.businessweek.com/technology/content/dec2001/tc20011212_9434.htm
+ 302. http://www.businessweek.com/technology/content/dec2001/tc20011212_9434.htm
+ 303. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-5
+ 304. http://web.archive.org/web/20050419030507/http://demo.neopets.com/aboutus/page06.html
+ 305. http://demo.neopets.com/aboutus/page06.html
+ 306. http://web.archive.org/web/20050419030507/http://demo.neopets.com/aboutus/page06.html
+ 307. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-6
+ 308. http://findarticles.com/p/articles/mi_m5072/is_27_27/ai_n14811960
+ 309. file://localhost/wiki/Los_Angeles_Business_Journal
+ 310. http://findarticles.com/p/articles/mi_m5072/is_27_27/ai_n14811960
+ 311. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-7
+ 312. http://www.accessmylibrary.com/coms2/summary_0286-15535950_ITM
+ 313. file://localhost/wiki/News_release
+ 314. http://www.accessmylibrary.com/coms2/summary_0286-15535950_ITM
+ 315. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-8
+ 316. http://www.indiantelevision.com/headlines/y2k7/june/june44.php
+ 317. http://www.indiantelevision.com/headlines/y2k7/june/june44.php
+ 318. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-9
+ 319. http://www.neopets.com/nf.phtml?nf_date=2007-04-23
+ 320. file://localhost/wiki/Neopets,_Inc.
+ 321. http://www.neopets.com/nf.phtml?nf_date=2007-04-23
+ 322. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-NC_Mall_10-0
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-NC_Mall_10-1
+ 324. http://www.neopets.com/nf.phtml?nf_date=2007-07-16
+ 325. http://www.neopets.com/nf.phtml?nf_date=2007-07-16
+ 326. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Nexon_11-0
+ 327. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Nexon_11-1
+ 328. http://www.paradigmshiftpr.com/neopetstosell.htm
+ 329. file://localhost/wiki/Red_Herring_(magazine)
+ 330. http://www.paradigmshiftpr.com/neopetstosell.htm
+ 331. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-12
+ 332. file://localhost/wiki/Viacom
+ 333. http://www.viacom.com/NEWS/NewsText.aspx?RID=1027518
+ 334. file://localhost/wiki/News_release
+ 335. http://www.viacom.com/NEWS/NewsText.aspx?RID=1027518
+ 336. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-13
+ 337. file://localhost/wiki/Newswire
+ 338. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 339. file://localhost/wiki/News_release
+ 340. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 341. http://www.neopets.com/
+ 342. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-14
+ 343. file://localhost/wiki/Newswire
+ 344. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 345. file://localhost/wiki/News_release
+ 346. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 347. http://www.neopets.com/
+ 348. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-15
+ 349. file://localhost/wiki/Neopets.com
+ 350. http://www.neopets.com/petpetpark/celebration.phtml
+ 351. file://localhost/wiki/News_release
+ 352. http://www.neopets.com/petpetpark/celebration.phtml
+ 353. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-16
+ 354. file://localhost/wiki/Newswire
+ 355. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 356. file://localhost/wiki/News_release
+ 357. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=AUSASCPR.story&STORY=/www/story/06-17-2008/0004834105&EDATE=TUE+Jun+17+2008,+01:33+PM
+ 358. http://www.neopets.com/
+ 359. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-17
+ 360. http://web.archive.org/web/20070702084854/http://info.neopets.com/presskit/press05.html
+ 361. file://localhost/wiki/Neopets,_Inc.
+ 362. http://info.neopets.com/presskit/press05.html
+ 363. http://web.archive.org/web/20070702084854/http://info.neopets.com/presskit/press05.html
+ 364. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-18
+ 365. http://www.jellyneo.net/index.php?comments=3708
+ 366. http://www.jellyneo.net/index.php?comments=3708
+ 367. http://www.jellyneo.net/index.php?comments=3708
+ 368. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-19
+ 369. http://www.neopets.com/ntimes/index.phtml?section=editorial&issue=285
+ 370. http://www.neopets.com/ntimes/index.phtml?section=editorial&issue=285
+ 371. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Myers_20-0
+ 372. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Myers_20-1
+ 373. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Myers_20-2
+ 374. http://www.mediavillage.com/pdf/2004/03-18-04.pdf
+ 375. http://www.mediavillage.com/pdf/2004/03-18-04.pdf
+ 376. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Baybak_21-0
+ 377. http://www.commercialalert.org/issues/culture/neopets/neopetscom-launches-dramatic-new-form-of-internet-advertising-results-far
+ 378. file://localhost/wiki/Business_Wire
+ 379. http://www.commercialalert.org/issues/culture/neopets/neopetscom-launches-dramatic-new-form-of-internet-advertising-results-far
+ 380. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wingfield_22-0
+ 381. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wingfield_22-1
+ 382. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wingfield_22-2
+ 383. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wingfield_22-3
+ 384. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wingfield_22-4
+ 385. http://www.commercialalert.org/news/featured-in/2005/02/webs-addictive-neopets-are-ready-for-big-career-leap
+ 386. file://localhost/wiki/Wall_Street_Journal
+ 387. http://www.commercialalert.org/news/featured-in/2005/02/webs-addictive-neopets-are-ready-for-big-career-leap
+ 388. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-23
+ 389. http://www.neopets.com/nf.phtml
+ 390. http://www.neopets.com/nf.phtml
+ 391. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-NeopetsFAQ_24-0
+ 392. http://web.archive.org/web/20070701120250/http://info.neopets.com/presskit/faqs.html
+ 393. file://localhost/wiki/Neopets,_Inc.
+ 394. http://info.neopets.com/presskit/faqs.html
+ 395. http://web.archive.org/web/20070701120250/http://info.neopets.com/presskit/faqs.html
+ 396. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-25
+ 397. http://web.archive.org/web/20070704061455/http://info.neopets.com/presskit/compback.html
+ 398. file://localhost/wiki/Neopets_Inc.
+ 399. http://info.neopets.com/presskit/compback.html
+ 400. http://web.archive.org/web/20070704061455/http://info.neopets.com/presskit/compback.html
+ 401. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Game_revamp_26-0
+ 402. http://www.neopets.com/nf.phtml?nf_date=2006-11-20
+ 403. http://www.neopets.com/nf.phtml?nf_date=2006-11-20
+ 404. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Wenn_27-0
+ 405. http://www.ghsouthern.org.au/gurublog/neopetstodaytonight.pdf
+ 406. file://localhost/wiki/Today_Tonight
+ 407. file://localhost/wiki/Gambler%27s_Help
+ 408. http://www.ghsouthern.org.au/gurublog/neopetstodaytonight.pdf
+ 409. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Mobile_28-0
+ 410. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Mobile_28-1
+ 411. file://localhost/wiki/Cingular_Wireless
+ 412. http://att.centralcast.net/cingularnewsarchive/Release.aspx?ID=3977
+ 413. file://localhost/wiki/News_release
+ 414. http://att.centralcast.net/cingularnewsarchive/Release.aspx?ID=3977
+ 415. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-29
+ 416. http://ncmall.neopets.com/mall/splash.phtml
+ 417. http://ncmall.neopets.com/mall/splash.phtml
+ 418. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-30
+ 419. http://www.neopets.com/nf.phtml?nf_date=2007-09-17
+ 420. file://localhost/wiki/Neopets,_Inc.
+ 421. http://www.neopets.com/nf.phtml?nf_date=2007-09-17
+ 422. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-KeyQuest_31-0
+ 423. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-KeyQuest_31-1
+ 424. http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php
+ 425. http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php
+ 426. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Rosen_32-0
+ 427. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Rosen_32-1
+ 428. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Rosen_32-2
+ 429. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Rosen_32-3
+ 430. http://www.commercialalert.org/issues/culture/neopets/its-a-whole-neo-world-neopetscom-is-a-raging-success-but-some-find-it-inappropriate-and-even-scary
+ 431. file://localhost/wiki/Los_Angeles_Times
+ 432. http://www.commercialalert.org/issues/culture/neopets/its-a-whole-neo-world-neopetscom-is-a-raging-success-but-some-find-it-inappropriate-and-even-scary
+ 433. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Fonda_33-0
+ 434. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Fonda_33-1
+ 435. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Fonda_33-2
+ 436. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Fonda_33-3
+ 437. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Fonda_33-4
+ 438. http://www.time.com/time/magazine/article/0,9171,994512-1,00.html
+ 439. file://localhost/wiki/Time_(magazine)
+ 440. file://localhost/wiki/Time_Inc.
+ 441. http://www.time.com/time/magazine/article/0,9171,994512-1,00.html
+ 442. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Pace_34-0
+ 443. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Pace_34-1
+ 444. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Pace_34-2
+ 445. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Pace_34-3
+ 446. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Pace_34-4
+ 447. http://www.cbsnews.com/stories/2006/02/07/national/main1293944.shtml
+ 448. file://localhost/wiki/CBS
+ 449. http://www.cbsnews.com/stories/2006/02/07/national/main1293944.shtml
+ 450. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-35
+ 451. http://www.redherring.com/Home/12995
+ 452. file://localhost/wiki/Red_Herring_(magazine)
+ 453. http://www.redherring.com/Home/12995
+ 454. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Headon_36-0
+ 455. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Headon_36-1
+ 456. http://www.guardian.co.uk/computergames/story/0,11500,822595,00.html
+ 457. file://localhost/wiki/Guardian_Unlimited
+ 458. http://www.guardian.co.uk/computergames/story/0,11500,822595,00.html
+ 459. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-37
+ 460. http://www.cnn.com/2003/SHOWBIZ/01/06/hln.hot.buzz.neopets/index.html
+ 461. http://www.cnn.com/2003/SHOWBIZ/01/06/hln.hot.buzz.neopets/index.html
+ 462. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-38
+ 463. http://www.kidscreen.com/articles/daily/20070601/neo.html?
+ 464. http://www.kidscreen.com/articles/daily/20070601/neo.html
+ 465. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-39
+ 466. http://info.neopets.com/presskit/articles/archive/yahoo4.html
+ 467. http://info.neopets.com/presskit/articles/archive/yahoo4.html
+ 468. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-40
+ 469. http://seattlepi.nwsource.com/lifestyle/173035_interactivetoys.html
+ 470. http://seattlepi.nwsource.com/lifestyle/173035_interactivetoys.html
+ 471. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-41
+ 472. http://www.gamespot.com/ps2/adventure/neopets/media.html
+ 473. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-42
+ 474. http://www.dmwmedia.com/news/2005/06/17/mtv-acquires-virtual-pet-youth-online-community-neopets
+ 475. file://localhost/wiki/Digital_Media_Wire
+ 476. http://www.dmwmedia.com/news/2005/06/17/mtv-acquires-virtual-pet-youth-online-community-neopets
+ 477. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-Gaudiosi_43-0
+ 478. http://www.hollywoodreporter.com/hr/content_display/business/news/e3ia52li9aIs4NtvdkBDAfRNQ%3D%3D
+ 479. http://www.hollywoodreporter.com/hr/content_display/business/news/e3ia52li9aIs4NtvdkBDAfRNQ%3D%3D
+ 480. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-44
+ 481. http://www.mediaweek.com/mw/news/cabletv/article_display.jsp?vnu_content_id=1003637077
+ 482. file://localhost/wiki/MediaWeek
+ 483. file://localhost/wiki/Nielsen_Company
+ 484. http://www.mediaweek.com/mw/news/cabletv/article_display.jsp?vnu_content_id=1003637077
+ 485. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-45
+ 486. http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php
+ 487. http://www.indiantelevision.com/headlines/y2k8/feb/feb176.php
+ 488. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-46
+ 489. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/02-14-2008/0004756436&EDATE=
+ 490. file://localhost/wiki/News_release
+ 491. http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/02-14-2008/0004756436&EDATE=
+ 492. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-NextGen_47-0
+ 493. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-NextGen_47-1
+ 494. http://www.next-gen.biz/index.php?option=com_content&task=view&id=10559&Itemid=2
+ 495. file://localhost/wiki/Next-Gen.biz
+ 496. file://localhost/wiki/Future_US
+ 497. http://www.next-gen.biz/index.php?option=com_content&task=view&id=10559&Itemid=2
+ 498. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-48
+ 499. http://www.accessmylibrary.com/coms2/summary_0286-8571511_ITM
+ 500. file://localhost/wiki/San_Jose_Mercury_News
+ 501. http://www.accessmylibrary.com/coms2/summary_0286-8571511_ITM
+ 502. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-49
+ 503. http://www.toymania.com/news/messages/3011.shtml
+ 504. http://www.toymania.com/news/messages/3011.shtml
+ 505. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-50
+ 506. http://findarticles.com/p/articles/mi_m5072/is_51_23/ai_81226414
+ 507. file://localhost/wiki/Los_Angeles_Business_Journal
+ 508. http://findarticles.com/p/articles/mi_m5072/is_51_23/ai_81226414
+ 509. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-51
+ 510. http://www.accessmylibrary.com/coms2/summary_0286-25658682_ITM
+ 511. file://localhost/wiki/News_release
+ 512. http://www.accessmylibrary.com/coms2/summary_0286-25658682_ITM
+ 513. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-52
+ 514. http://www.playthings.com/article/CA401171.html
+ 515. file://localhost/wiki/Reed_Business_Information
+ 516. http://www.playthings.com/article/CA401171.html
+ 517. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-53
+ 518. http://www.accessmylibrary.com/coms2/summary_0286-21800051_ITM
+ 519. http://www.accessmylibrary.com/coms2/summary_0286-21800051_ITM
+ 520. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-54
+ 521. file://localhost/wiki/Business_Wire
+ 522. http://findarticles.com/p/articles/mi_m0EIN/is_2004_Jan_19/ai_112317211
+ 523. file://localhost/wiki/News_release
+ 524. http://findarticles.com/p/articles/mi_m0EIN/is_2004_Jan_19/ai_112317211
+ 525. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-55
+ 526. http://www.neopets.com/nf.phtml?nf_date=2003-09-08
+ 527. http://www.neopets.com/nf.phtml?nf_date=2003-09-08
+ 528. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-56
+ 529. http://www.variety.com/article/VR1117937505.html?categoryid=13&cs=1
+ 530. file://localhost/wiki/Variety.com
+ 531. http://www.variety.com/article/VR1117937505.html?categoryid=13&cs=1
+ 532. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-57
+ 533. http://www.toymania.com/news/messages/6928.shtml
+ 534. http://www.toymania.com/news/messages/6928.shtml
+ 535. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc520.tmp.html#cite_ref-58
+ 536. http://www.gamespot.com/ds/puzzle/neopets/news.html?sid=6192045
+ 537. file://localhost/wiki/Gamespot.com
+ 538. http://www.gamespot.com/ds/puzzle/neopets/news.html?sid=6192045
+ 539. file://localhost/w/index.php?title=Neopets&action=edit&section=11
+ 540. http://en.wikinews.org/wiki/Special:Search/Neopets
+ 541. file://localhost/wiki/Wikinews
+ 542. http://en.wikinews.org/wiki/Wikinews_Entertainment_Shorts:_June_2,_2007
+ 543. http://www.neopets.com/
+ 544. http://www.neopets.com/mini/index.phtml
+ 545. http://www.beckett.com/beckettneopets/default.osi
+ 546. http://strategywiki.org/wiki/Neopets
+ 547. file://localhost/wiki/Template:Neopets
+ 548. file://localhost/w/index.php?title=Template_talk:Neopets&action=edit&redlink=1
+ 549. http://en.wikipedia.org/w/index.php?title=Template:Neopets&action=edit
+ 550. file://localhost/wiki/Neopets,_Inc.
+ 551. file://localhost/wiki/Neopets_Trading_Card_Game
+ 552. file://localhost/wiki/Neopets:_The_Darkest_Faerie
+ 553. file://localhost/wiki/Neopets:_Petpet_Adventures:_The_Wand_of_Wishing
+ 554. file://localhost/wiki/Neopets:_Codestone_Quest
+ 555. file://localhost/wiki/Template:MTV_Networks
+ 556. file://localhost/w/index.php?title=Template_talk:MTV_Networks&action=edit&redlink=1
+ 557. http://en.wikipedia.org/w/index.php?title=Template:MTV_Networks&action=edit
+ 558. file://localhost/wiki/MTV_Networks
+ 559. file://localhost/wiki/Viacom
+ 560. file://localhost/wiki/Template:Viacom
+ 561. file://localhost/wiki/Country_Music_Television
+ 562. file://localhost/wiki/CMT_(Canada)
+ 563. file://localhost/wiki/Corus_Entertainment
+ 564. file://localhost/wiki/CMT_Pure_Country
+ 565. file://localhost/wiki/Comedy_Central
+ 566. file://localhost/wiki/Logo_(TV_channel)
+ 567. file://localhost/wiki/Palladia
+ 568. file://localhost/wiki/MTV
+ 569. file://localhost/wiki/MTV2
+ 570. file://localhost/wiki/MTV_Hits
+ 571. file://localhost/wiki/MTV_Jams
+ 572. file://localhost/wiki/MTV_Tr3%CC%81s
+ 573. file://localhost/wiki/MtvU
+ 574. file://localhost/wiki/Nickelodeon_(TV_channel)
+ 575. file://localhost/wiki/Nick_at_Nite
+ 576. file://localhost/wiki/Nick_Jr.
+ 577. file://localhost/wiki/MTV_News
+ 578. file://localhost/wiki/Nicktoons_Network
+ 579. file://localhost/wiki/Noggin_(TV_channel)
+ 580. file://localhost/wiki/The_N
+ 581. file://localhost/wiki/Nickelodeon_Games_and_Sports_for_Kids
+ 582. file://localhost/wiki/Spike_(TV_channel)
+ 583. file://localhost/wiki/TV_Land
+ 584. file://localhost/wiki/TV_Land_Canada
+ 585. file://localhost/wiki/CTVglobemedia
+ 586. file://localhost/wiki/VH1
+ 587. file://localhost/wiki/VH1_Classic
+ 588. file://localhost/wiki/VH1_Soul
+ 589. file://localhost/wiki/MTV_Networks_Latin_America
+ 590. file://localhost/wiki/MTV_Latin_America
+ 591. file://localhost/wiki/Nickelodeon_Latin_America
+ 592. file://localhost/wiki/VH1_Latin_America
+ 593. file://localhost/wiki/MTV_Brazil
+ 594. file://localhost/wiki/Grupo_Abril
+ 595. file://localhost/wiki/Nickelodeon_Brazil
+ 596. file://localhost/wiki/VH1_Brazil
+ 597. file://localhost/wiki/MTV_Networks_Europe
+ 598. file://localhost/wiki/Template:MTV_Networks_Europe
+ 599. file://localhost/wiki/MTV_Networks_Asia_Pacific
+ 600. file://localhost/wiki/MTV_Southeast_Asia
+ 601. file://localhost/wiki/MTV_Australia
+ 602. file://localhost/wiki/MTV_India
+ 603. file://localhost/wiki/MTV_Japan
+ 604. file://localhost/wiki/MTV_New_Zealand
+ 605. file://localhost/wiki/MTV_Pakistan
+ 606. file://localhost/wiki/MTV_Philippines
+ 607. file://localhost/wiki/MTV_Thailand
+ 608. file://localhost/wiki/MTV_Arabia
+ 609. file://localhost/w/index.php?title=MTV_Taiwan&action=edit&redlink=1
+ 610. file://localhost/w/index.php?title=MTV_China&action=edit&redlink=1
+ 611. file://localhost/w/index.php?title=MTV_Indonesia&action=edit&redlink=1
+ 612. file://localhost/wiki/Nickelodeon_Pakistan
+ 613. file://localhost/wiki/Nickelodeon_Arabia
+ 614. file://localhost/wiki/Nickelodeon_Australia
+ 615. file://localhost/wiki/XYZnetworks
+ 616. file://localhost/wiki/Nickelodeon_(Japan)
+ 617. file://localhost/wiki/Nickelodeon_South_East_Asia
+ 618. file://localhost/wiki/Nickelodeon_India
+ 619. file://localhost/wiki/Nickelodeon_New_Zealand
+ 620. file://localhost/wiki/Nick_Jr._Australia
+ 621. file://localhost/wiki/XYZnetworks
+ 622. file://localhost/wiki/TMF_Australia
+ 623. file://localhost/wiki/VH1_Australia
+ 624. file://localhost/w/index.php?title=VH1_Thailand&action=edit&redlink=1
+ 625. file://localhost/w/index.php?title=VH1_India&action=edit&redlink=1
+ 626. file://localhost/w/index.php?title=VH1_Pakistan&action=edit&redlink=1
+ 627. file://localhost/wiki/Atom_Entertainment
+ 628. file://localhost/wiki/AfterEllen.com
+ 629. file://localhost/wiki/College_Publisher
+ 630. file://localhost/wiki/GameTrailers
+ 631. file://localhost/wiki/IFilm
+ 632. file://localhost/wiki/MTV_Overdrive
+ 633. file://localhost/wiki/Quizilla
+ 634. file://localhost/wiki/TurboNick
+ 635. file://localhost/wiki/VSPOT
+ 636. file://localhost/wiki/Xfire
+ 637. file://localhost/wiki/CMT_Films
+ 638. file://localhost/wiki/Comedy_Central_Records
+ 639. file://localhost/wiki/Harmonix_Music_Systems
+ 640. file://localhost/wiki/MTV_International
+ 641. file://localhost/wiki/Box_Comedy
+ 642. file://localhost/wiki/Ha!
+ 643. file://localhost/wiki/MTV_Chi
+ 644. file://localhost/wiki/MTV_Classic
+ 645. file://localhost/wiki/MTV_Desi
+ 646. file://localhost/wiki/MTV_Flux
+ 647. file://localhost/wiki/MTV_K
+ 648. file://localhost/wiki/MTVX
+ 649. file://localhost/wiki/Nick_at_Nite_UK
+ 650. file://localhost/wiki/Noggin_(British_TV_channel)
+ 651. file://localhost/w/index.php?title=VH1_Germany&action=edit&redlink=1
+ 652. file://localhost/wiki/VH1_Mega_Hits
+ 653. file://localhost/wiki/VH1_Uno
+ 654. file://localhost/wiki/VH2
+ 655. http://en.wikipedia.org/wiki/Neopets
+ 656. file://localhost/wiki/Special:Categories
+ 657. file://localhost/wiki/Category:Internet_properties_established_in_1999
+ 658. file://localhost/wiki/Category:1990s_fads
+ 659. file://localhost/wiki/Category:Children%27s_websites
+ 660. file://localhost/wiki/Category:Entertainment_websites
+ 661. file://localhost/wiki/Category:Internet_forums
+ 662. file://localhost/wiki/Category:Neopets
+ 663. file://localhost/wiki/Category:Toys_of_the_1990s
+ 664. file://localhost/wiki/Category:Virtual_pets
+ 665. file://localhost/wiki/Neopets
+ 666. file://localhost/wiki/Talk:Neopets
+ 667. file://localhost/w/index.php?title=Neopets&action=edit
+ 668. file://localhost/w/index.php?title=Neopets&action=history
+ 669. file://localhost/w/index.php?title=Special:UserLogin&returnto=Neopets
+ 670. file://localhost/wiki/Main_Page
+ 671. file://localhost/wiki/Portal:Contents
+ 672. file://localhost/wiki/Portal:Featured_content
+ 673. file://localhost/wiki/Portal:Current_events
+ 674. file://localhost/wiki/Special:Random
+ 675. file://localhost/wiki/Wikipedia:About
+ 676. file://localhost/wiki/Wikipedia:Community_portal
+ 677. file://localhost/wiki/Special:RecentChanges
+ 678. file://localhost/wiki/Wikipedia:Contact_us
+ 679. http://wikimediafoundation.org/wiki/Donate
+ 680. file://localhost/wiki/Help:Contents
+ 681. file://localhost/wiki/Special:WhatLinksHere/Neopets
+ 682. file://localhost/wiki/Special:RecentChangesLinked/Neopets
+ 683. file://localhost/wiki/Wikipedia:Upload
+ 684. file://localhost/wiki/Special:SpecialPages
+ 685. file://localhost/w/index.php?title=Neopets&printable=yes
+ 686. file://localhost/w/index.php?title=Neopets&oldid=272959938
+ 687. file://localhost/w/index.php?title=Special:Cite&page=Neopets&id=272959938
+ 688. http://de.wikipedia.org/wiki/Neopets
+ 689. http://es.wikipedia.org/wiki/Neopets
+ 690. http://fr.wikipedia.org/wiki/Neopets
+ 691. http://it.wikipedia.org/wiki/Neopets
+ 692. http://nl.wikipedia.org/wiki/Neopets
+ 693. http://no.wikipedia.org/wiki/Neopets
+ 694. http://pl.wikipedia.org/wiki/Neopets
+ 695. http://pt.wikipedia.org/wiki/Neopets
+ 696. http://simple.wikipedia.org/wiki/Neopets
+ 697. http://sl.wikipedia.org/wiki/Neopets
+ 698. http://fi.wikipedia.org/wiki/Neopets
+ 699. http://sv.wikipedia.org/wiki/Neopets
+ 700. http://www.mediawiki.org/
+ 701. http://wikimediafoundation.org/
+ 702. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 703. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 704. http://www.wikimediafoundation.org/
+ 705. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 706. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 707. http://en.wikipedia.org/wiki/Non-profit_organization
+ 708. http://en.wikipedia.org/wiki/Charitable_organization
+ 709. http://wikimediafoundation.org/wiki/Privacy_policy
+ 710. file://localhost/wiki/Wikipedia:About
+ 711. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 712. file://localhost/wiki/File:Neopets.svg
+ 713. file://localhost/wiki/File:Neopets-homepage.png
+ 714. file://localhost/wiki/File:Neohome.jpg
+ 715. file://localhost/wiki/File:Neohome.jpg
+ 716. file://localhost/wiki/File:Neopetsplotboard.PNG
+ 717. file://localhost/wiki/File:Neopetsplotboard.PNG
+ 718. file://localhost/wiki/Main_Page
+ 719. http://zh-classical.wikipedia.org/wiki/%E5%B0%BC%E5%A5%A7%E5%AF%B5%E7%89%A9
+ 720. http://he.wikipedia.org/wiki/Neopets
+ 721. http://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%83%9A%E3%83%83%E3%83%88
+ 722. http://zh-yue.wikipedia.org/wiki/Neopets
+ 723. http://zh.wikipedia.org/wiki/%E5%B0%BC%E5%A5%A7%E5%AF%B5%E7%89%A9

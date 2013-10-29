@@ -1,0 +1,208 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EIA Class 2 dielectric
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   The [8]EIA Class 2 dielectric materials are [9]ceramic [10]dielectric
+   materials used in ceramic [11]capacitors. In comparison with the
+   [12]EIA Class 1 dielectrics they tend to have severe temperature drift,
+   high dependence of capacitance on applied voltage, high voltage
+   coefficient of dissipation factor, high frequency coefficient of
+   dissipation, and problems with aging due to gradual change of crystal
+   structure. Aging causes gradual exponential loss of [13]capacitance and
+   decrease of [14]dissipation factor.
+
+   The EIA Class 2 dielectrics in general are usually based on formulas
+   with high content of [15]barium titanate (BT), possibly mixed with
+   other dielectric [16]electroceramics. Due to its [17]piezoelectric
+   properties, they are subject to [18]microphonics. Other oxides added
+   can be the same as used for Class 1 ceramics.
+
+   EIA X7R is designed for capacitors with capacity ranging typically
+   between 3300 p[19]F to 0.33 F ([20]SMT: 100 pF to 10 F), 10% tolerance.
+   Good for non-critical coupling, filtering, transient voltage
+   suppression, and timing applications. Has high [21]dielectric constant.
+   It is an EIA Class 2 dielectric. Its tolerance over a temperature range
+   of -55 to +125 C is 15%.
+
+   Other commonly used materials are Y5P (2B4 in IEC specs), Y5U, and Z5U
+   (2E5).
+
+   Y5P and Y5V are other such class 2 ceramics, with temperature range of
+   -30 to +85 C and wide capacitance change with temperature of 10% or
+   +22/-82%. Usually used for capacitances between 150 pF and 2 nF (SMT:
+   10 nF and 10 F).
+
+   Z5U (EIA) or 2E6 ([22]IEC code) typical for 2.2 nF to 2.2 F, 20%. Good
+   for bypass, coupling applications. Low price and small size, poor
+   temperature stability.
+
+   The EIA three-character code is derived from the low and high
+   temperature limit, and the range of capacitance change.
+   Low
+   temperature High
+   temperature Capacitance
+   change range
+               X: -55 C   4: +65 C  A: 1.0%
+               Y: -30 C   5: +85 C  B: 1.5%
+               Z: +10 C   6: +105 C C: 2.2%
+                          7: +125 C D: 3.3%
+                          8: +150 C E: 4.7%
+                          9: +200 C F: 7.5%
+                                    P: 10%
+                                    R: 15%
+                                    S: 22%
+                                    T: +22% -33%
+                                    U: +22% -56%
+                                    V: +22% -82%
+
+[[23]edit] See also
+
+     * [24]EIA Class 1 dielectric
+     * [25]EIA Standards
+     * [26]Ceramic Capacitors
+     * [27]Various oxides for the use of electronic parts
+
+    This [28]electronics-related article is a [29]stub. You can [30]help
+   Wikipedia by [31]expanding it.
+   Retrieved from
+   "[32]http://en.wikipedia.org/wiki/EIA_Class_2_dielectric"
+   [33]Categories: [34]Ceramic materials | [35]Capacitors |
+   [36]Electronics stubs
+
+Views
+
+     * [37]Article
+     * [38]Discussion
+     * [39]Edit this page
+     * [40]History
+
+Personal tools
+
+     * [41]Log in / create account
+
+Navigation
+
+     * [42]Main page
+     * [43]Contents
+     * [44]Featured content
+     * [45]Current events
+     * [46]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [47]About Wikipedia
+     * [48]Community portal
+     * [49]Recent changes
+     * [50]Contact Wikipedia
+     * [51]Donate to Wikipedia
+     * [52]Help
+
+Toolbox
+
+     * [53]What links here
+     * [54]Related changes
+     * [55]Upload file
+     * [56]Special pages
+     * [57]Printable version
+     * [58]Permanent link
+     * [59]Cite this page
+
+   [60]Powered by MediaWiki
+   [61]Wikimedia Foundation
+     * This page was last modified on 12 September 2008, at 06:46.
+     * All text is available under the terms of the [62]GNU Free
+       Documentation License. (See [63]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [64]Wikimedia
+       Foundation, Inc., a U.S. registered [65]501(c)(3)
+       [66]tax-deductible [67]nonprofit [68]charity.
+     * [69]Privacy policy
+     * [70]About Wikipedia
+     * [71]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EIA_Class_2_dielectric&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc643.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc643.tmp.html#searchInput
+   8. file://localhost/wiki/Electronic_Industries_Alliance
+   9. file://localhost/wiki/Ceramic
+  10. file://localhost/wiki/Dielectric
+  11. file://localhost/wiki/Practical_capacitor
+  12. file://localhost/wiki/EIA_Class_1_dielectric
+  13. file://localhost/wiki/Capacitance
+  14. file://localhost/wiki/Dissipation_factor
+  15. file://localhost/wiki/Barium_titanate
+  16. file://localhost/wiki/Electroceramics
+  17. file://localhost/wiki/Piezoelectric
+  18. file://localhost/wiki/Microphonics
+  19. file://localhost/wiki/Farad
+  20. file://localhost/wiki/Surface-mount_technology
+  21. file://localhost/wiki/Dielectric_constant
+  22. file://localhost/wiki/International_Electrotechnical_Commission
+  23. file://localhost/w/index.php?title=EIA_Class_2_dielectric&action=edit&section=1
+  24. file://localhost/wiki/EIA_Class_1_dielectric
+  25. file://localhost/wiki/EIA_Standards
+  26. http://my.execpc.com/~endlr/ceramic.html
+  27. http://www.kyoritsu-kcm.co.jp/english/electronic/electronic_04.html
+  28. file://localhost/wiki/Electronics
+  29. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  30. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  31. http://en.wikipedia.org/w/index.php?stub&title=EIA_Class_2_dielectric&action=edit
+  32. http://en.wikipedia.org/wiki/EIA_Class_2_dielectric
+  33. file://localhost/wiki/Special:Categories
+  34. file://localhost/wiki/Category:Ceramic_materials
+  35. file://localhost/wiki/Category:Capacitors
+  36. file://localhost/wiki/Category:Electronics_stubs
+  37. file://localhost/wiki/EIA_Class_2_dielectric
+  38. file://localhost/w/index.php?title=Talk:EIA_Class_2_dielectric&action=edit&redlink=1
+  39. file://localhost/w/index.php?title=EIA_Class_2_dielectric&action=edit
+  40. file://localhost/w/index.php?title=EIA_Class_2_dielectric&action=history
+  41. file://localhost/w/index.php?title=Special:UserLogin&returnto=EIA_Class_2_dielectric
+  42. file://localhost/wiki/Main_Page
+  43. file://localhost/wiki/Portal:Contents
+  44. file://localhost/wiki/Portal:Featured_content
+  45. file://localhost/wiki/Portal:Current_events
+  46. file://localhost/wiki/Special:Random
+  47. file://localhost/wiki/Wikipedia:About
+  48. file://localhost/wiki/Wikipedia:Community_portal
+  49. file://localhost/wiki/Special:RecentChanges
+  50. file://localhost/wiki/Wikipedia:Contact_us
+  51. http://wikimediafoundation.org/wiki/Donate
+  52. file://localhost/wiki/Help:Contents
+  53. file://localhost/wiki/Special:WhatLinksHere/EIA_Class_2_dielectric
+  54. file://localhost/wiki/Special:RecentChangesLinked/EIA_Class_2_dielectric
+  55. file://localhost/wiki/Wikipedia:Upload
+  56. file://localhost/wiki/Special:SpecialPages
+  57. file://localhost/w/index.php?title=EIA_Class_2_dielectric&printable=yes
+  58. file://localhost/w/index.php?title=EIA_Class_2_dielectric&oldid=237884169
+  59. file://localhost/w/index.php?title=Special:Cite&page=EIA_Class_2_dielectric&id=237884169
+  60. http://www.mediawiki.org/
+  61. http://wikimediafoundation.org/
+  62. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  63. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  64. http://www.wikimediafoundation.org/
+  65. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  66. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  67. http://en.wikipedia.org/wiki/Non-profit_organization
+  68. http://en.wikipedia.org/wiki/Charitable_organization
+  69. http://wikimediafoundation.org/wiki/Privacy_policy
+  70. file://localhost/wiki/Wikipedia:About
+  71. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  72. file://localhost/wiki/File:Nuvola_apps_ksim.png
+  73. file://localhost/wiki/Main_Page

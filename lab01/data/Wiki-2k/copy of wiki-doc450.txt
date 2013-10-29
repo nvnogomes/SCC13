@@ -1,0 +1,657 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dubai Internet City
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dubai TECOM)
+   Jump to: [7]navigation, [8]search
+   This article may require [9]cleanup to meet Wikipedia's [10]quality
+   standards. Please [11]improve this article if you can. (October 2008)
+
+   CAPTION: Dubai Internet City
+
+     [12]Type   Free Economic Zone
+     Founded    Dubai Holding
+   Headquarters Dubai,  [13]United Arab Emirates
+   The Microsoft sign at the entrance of the Dubai Microsoft campus, Dubai
+   Internet City.
+   The [14]Sony Ericsson building at Dubai Internet City
+
+   Dubai Internet City (DIC; [15]Arabic: ) is an information
+   [16]technology park created by the Government of [17]Dubai as a
+   [18]free economic zone and a strategic base for companies targeting
+   regional emerging markets. The economic rules of DIC allow companies to
+   avail themselves of a number of ownership, taxation and custom related
+   benefits which are guaranteed by law for a period of 50
+   years^[[19]citation needed]. One model of operation includes 100%
+   [20]foreign ownership, similar to those prevailing in other designated
+   economic zones in the [21]United Arab Emirates^[[22]citation needed].
+   These freedoms have led many global [23]information technology firms,
+   such as [24]Microsoft, [25]IBM, [26]Oracle Corporation, [27]Sun
+   Microsystems, [28]Cisco, [29]HP, [30]Nokia and [31]Siemens, [32]Nera
+   Telecom, as well as UAE based companies such as [33]i-mate, [34]Acette,
+   to move their regional base to the DIC. DIC is located adjacent to
+   other industrial clusters such as [35]Dubai Media City and [36]Dubai
+   Knowledge Village.
+
+   DIC presently has over one and half million square feet of prime
+   commercial office space, in which over 850 companies with over 10,000
+   workers are based^[[37]citation needed]. In March 2008, DIC announced a
+   rent hike of 25% for leases signed after June 2008. The government
+   imposes a rent cap of 5% on private landlords, but exempts its own
+   projects from the law. It is claimed that the rent is still below the
+   market rate, but this is in a city that proudly boasts that it will
+   soon have the most expensive office rents in the world^[[38]citation
+   needed].
+
+Contents
+
+     * [39]1 Connectivity
+     * [40]2 History
+     * [41]3 Economics
+     * [42]4 Location
+     * [43]5 References
+     * [44]6 See also
+     * [45]7 External links
+
+[[46]edit] Connectivity
+
+   On 13 April 2008, [47]du (EITC) announced that all of its traffic would
+   be routed via the UAE's censorship proxy which blocks access to any
+   content deemed 'inappropriate'. du had been previously blocking VOIP
+   services.^[48][1]
+
+   While Dubai Internet City sells itself as a business-friendly
+   environment with excellent connectivity, the reality is one of a
+   heavily censored internet known to block content believed to be in
+   disagreement with moral, social and cultural ideals of the UAE. In
+   addition to webpage censorship, it is speculated that a variety of
+   popular social networking services are blocked.
+
+   The UAE proxy can be bypassed by various methods including by setting
+   up a [49]VPN to connect securely to a server in another country to
+   reduce the amount of [50]Internet censorship, with the advantage that
+   UAE authorities cannot 'snoop' on the traffic.^[[51]citation needed]
+   While the UAE may block access to the web sites companies providing VPN
+   services, it is possible^[[52]citation needed] to arrange overseas
+   accounts. Such options may^[[53]weasel words] be a necessity for many
+   companies in the free zones to stay in business.
+
+   Around 11.15 AM on January 30, 2008, a ship's anchor apparently severed
+   fibre optic cables between Palermo, Italy, and Alexandria, Egypt.
+   Providers across the Middle East and as far as India and Pakistan were
+   heavily affected with a significant slowdown of communications
+   reported. The UAE telecommunications company and Dubai Internet City's
+   internet service provider [54]du was one of the worst hit, having been
+   completely inoperational for several hours. Since du has a monopoly in
+   the Free Zones, customers had no alternative connectivity during the
+   outage^[[55]citation needed].
+
+[[56]edit] History
+
+   Dubai Internet City, a member of Dubai Holding subsidiary TECOM
+   Investments, opened its doors in October 2000.
+
+   Dubai Internet City (DIC) provides a knowledge economy ecosystem
+   designed to facilitate the business development of Internet and
+   Communications Technology (ICT) companies. It is the Middle East's
+   biggest ICT infrastructure, built inside a free trade zone.
+
+   DIC is a strategic base for companies targeting emerging markets in a
+   vast region extending from the Middle East to the Indian subcontinent,
+   and from Africa to the CIS countries, covering 2 billion people with a
+   GDP of $6.7 trillion. Within a short span of time, a dynamic
+   international community of ICT companies has established itself in
+   Dubai Internet City.
+
+   The global ICT giants like [57]Microsoft, [58]Oracle Corporation,
+   [59]HP, [60]IBM, [61]Dell, [62]Siemens, [63]Canon, [64]Logica, [65]Sony
+   Ericsson, [66]Schlumberger^[[67]citation needed] and [68]Cisco, as well
+   as many small and medium enterprises and entrepreneurial ventures are
+   based in DIC. The ICT cluster in Dubai Internet City comprises
+   companies from sectors like software development, business services,
+   e-commerce, consultancy and sales and marketing.
+
+   The cluster environment of DIC provides most elements of the value
+   chain for an ICT business. In addition, it has developed programmes
+   that can be leveraged by the ICT community to explore and expand
+   channel and business development opportunities.
+
+[[69]edit] Economics
+
+   Dubai Internet City, like the whole of Dubai, has seen rapid growth,
+   with the Emirate's GDP rising at double digit rates. However, since
+   2003 inflation has climbed rapidly too, making real GDP growth
+   significantly lower. The latest official government figures (2006)
+   state inflation of 9.6%. By spring 2008, the level is somewhere over
+   10%, and approaching 20% according to the estimates of some
+   international banks.^[[70]citation needed]
+
+   The government has implemented price controls on rent rises as well as
+   fuel and basic commodities such as rice, but these cannot be viewed as
+   effective long term anti-inflation measures in a market economy. The
+   UAE has continued to reiterate the commitment to pegging its currency
+   to a continually weakening dollar, which rules out significant interest
+   rate rises - the accepted inflation-fighting tool in developed
+   countries. Federal Reserve interest rate cuts of 1.25% in January 2008
+   have been mirrored by the UAE Central Bank, which is certain to fuel
+   inflation further and weaken the currency.
+
+   In March 2008, DIC announced a rental increase to 180 [71]AED per
+   square foot - a 25% rise (the government's rent cap on private
+   landlords is 5% for 2008). The DIC statement accompanying the release
+   said "operating costs have shot up recently due to economic growth in
+   the region". It made no mention of the decision by the UAE government
+   in November 2007 to hike federal government employees salaries by a
+   whopping 70%. With the increase, the rent at DIC is still a little
+   below the prevailing market rate, although this is in a city that it is
+   claimed will soon dislodge London as having the most expensive office
+   rents in the world.
+
+   With the government continuing to resist de-pegging the currency from
+   the US [72]Dollar while excluding itself from the rent cap laws in
+   order to fund the (largely Emirati) government workers' large salary
+   increases, there seems now to be no prospect that the UAE will address
+   inflation and restore the long-term competitiveness of its economy.
+   With only 1 year leases available, investors must take a significant
+   leap of faith that their business plans adequately factor in the
+   relentlessly spiralling costs as well as the reduced incomes with the
+   weakening Dollar-pegged Dirham.
+
+[[73]edit] Location
+
+   Dubai Internet City is about 25 kilometers south of downtown Dubai
+   city, on Sheikh Zayed Road between [74]Dubai and [75]Abu Dhabi. It is
+   located adjacent to [76]Dubai Marina, [77]Jumeirah Beach Residence and
+   the well-known [78]Palm Jumeirah, areas which are rapidly becoming
+   three of the most exclusive (and expensive) residential areas of Dubai.
+   DIC is less than 1 km from the sea coast and is near several five star
+   hotels.
+
+[[79]edit] References
+
+    1. [80]^ [81]"du to filter web content". [82]Gulf News. 2008-04-14.
+       [83]http://archive.gulfnews.com/articles/08/04/14/10205529.html.
+       Retrieved on 2008-04-14.
+
+[[84]edit] See also
+
+     * [85]Dubai Media City
+     * [86]Dubai Studio City
+     * [87]Dubai Holding
+     * [88]SmartCity
+     * [89]Ras Al Khaimah IT Park
+
+[[90]edit] External links
+
+     * [91]Dubai Internet City Official website
+     * [92]Dubai Internet City image gallery
+     * [93]Dubai Holding Official website
+     * [94]Dubai Internet City article
+     * [95]Dubai set to have the most expensive office rents in the world
+
+   [96]v  [97]d  [98]e
+   [99]Dubai topics
+
+   History  Geography  Government  Culture
+   [100]History
+   [101]Trucial Oman  [102]Al Maktoum dynasty  [103]Bani Yas
+   Geography
+   [104]Deira  [105]Bur Dubai  [106]Dubai Creek  [107]Deira Corniche
+   Government
+   [108]Mohammed bin Rashid Al Maktoum  [109]Dubai Police Force
+   [110]Dubai Municipality
+   [111]Education
+   [112]American University in Dubai  [113]Dubai Men's College  [114]Dubai
+   Women's College  [115]Birla Institute of Technology and Science
+   [116]Zayed University  [117]SP Jain Institute of Management and
+   Research  [118]Mahatma Gandhi University  [119]Our Own English High
+   School  [120]The Indian High School  [121]Dubai Modern High School
+   [122]Dubai British School  [123]English College Dubai
+   [124]International School of Choueifat  [125]American School of Dubai
+   [126]Dubai American Academy
+   Religion
+   [127]Grand Mosque  [128]Hindu Temple  [129]St. Mary's Catholic Church
+   [130]St. Francis of Assisi Catholic Church
+
+   Towns  Buildings  Places  Structures
+   Towns
+   [131]Dubai  [132]Hatta  [133]Al Aweer  [134]Lehbab  [135]Al Shindagha
+   Buildings
+   [136]Burj Al Arab  [137]Emirates Towers  [138]Dubai World Trade Centre
+   [139]Chelsea Tower  [140]Dusit Dubai  [141]21st Century Tower
+   [142]Etisalat Tower 1  [143]Etisalat Tower 2  [144]more
+   Parks
+   [145]Mushrif Park  [146]Safa Park
+   Real estate
+   [147]Palm Islands  [148]The World  [149]Dubai Marina  [150]Dubai
+   Waterfront  [151]Business Bay  [152]Dubailand  [153]Bawadi
+   [154]Arabian Ranches  [155]Dubai World Central  [156]Dubai Festival
+   City  [157]Jumeirah Beach Residence
+   Bridges and
+   tunnels
+   [158]Al Shindagha Tunnel  [159]Al Maktoum Bridge  [160]Floating Bridge
+   [161]Al Garhoud Bridge  [162]Business Bay Crossing  [163]Sheikh Rashid
+   bin Saeed Crossing
+
+   [164]Economy  Trade  Commerce
+   Trade and
+   commerce
+   [165]Emaar  [166]Nakheel  [167]Dubai Holding  [168]ARY Group
+   [169]Al-Ghurair Group  [170]Ashai Group International  [171]Etisalat
+   [172]Du  [173]Dubai Ports World  [174]Art  [175]Dubai Gold Souk /
+   [176]Spice Souk
+   Ports
+   [177]Port Rashid  [178]Jebel Ali  [179]Al Hamriya Port  [180]Port Saeed
+   [181]Free zones
+   [182]Jebel Ali  Dubai Internet City  [183]Dubai Media City  [184]Dubai
+   Knowledge Village  [185]Dubai Healthcare City  [186]Dubai Studio City
+   [187]Dubai International Financial Centre
+   Shopping malls
+   [188]Mall of the Emirates  [189]BurJuman  [190]Ibn Battuta Mall
+   [191]Dubai Mall  [192]Lamcy Plaza  [193]Deira City Centre
+
+   [194]Transport
+   Transport
+   [195]Dubai International Airport  [196]Abra  [197]Dubai Metro ([198]Red
+   Line [199]Green Line)  [200]Palm Jumeirah Monorail  [201]Emirates
+   Airlines  [202]Sheikh Zayed Road  [203]Emirates Road  [204]Al Maktoum
+   International Airport
+   [205]Routes
+   [206]E 11  [207]E 311  [208]E 44  [209]E 66  [210]E 77  [211]E 611
+   [212]D 94  [213]D 92  [214]D 89  [215]D 85  [216]D 75  [217]D 73
+   [218]D 90
+
+   Sister cities
+   [219]Detroit  [220]Geneva  [221]Shanghai  [222]Casablanca
+   [223]Frankfurt  [224]Guangzhou  [225]Osaka  [226]Beirut  [227]Dundee
+   [228]Gold Coast  [229]Moscow  [230]Istanbul  [231]Damascus
+   [232]Barcelona
+
+   [233]Coordinates: [234]250542N 550936E / 25.095N 55.160E / 25.095;
+   55.160
+   Retrieved from "[235]http://en.wikipedia.org/wiki/Dubai_Internet_City"
+   [236]Categories: [237]2000 establishments | [238]Buildings and
+   structures in Dubai | [239]Economy of Dubai | [240]Geography of Dubai |
+   [241]History of Dubai | [242]Government-owned companies in the United
+   Arab Emirates | [243]Science and technology in the United Arab Emirates
+   | [244]Internet by country | [245]Science parks | [246]Special Economic
+   Zones
+   Hidden categories: [247]Cleanup from October 2008 | [248]All pages
+   needing cleanup | [249]Articles containing Arabic language text |
+   [250]All articles with unsourced statements | [251]Articles with
+   unsourced statements since October 2008 | [252]Articles with unsourced
+   statements since August 2008 | [253]Articles with specifically-marked
+   weasel-worded phrases
+
+Views
+
+     * [254]Article
+     * [255]Discussion
+     * [256]Edit this page
+     * [257]History
+
+Personal tools
+
+     * [258]Log in / create account
+
+Navigation
+
+     * [259]Main page
+     * [260]Contents
+     * [261]Featured content
+     * [262]Current events
+     * [263]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [264]About Wikipedia
+     * [265]Community portal
+     * [266]Recent changes
+     * [267]Contact Wikipedia
+     * [268]Donate to Wikipedia
+     * [269]Help
+
+Toolbox
+
+     * [270]What links here
+     * [271]Related changes
+     * [272]Upload file
+     * [273]Special pages
+     * [274]Printable version
+     * [275]Permanent link
+     * [276]Cite this page
+
+Languages
+
+     *
+     * [277]Catal
+     * [278]Deutsch
+     * [279]Esperanto
+     * [280]Bahasa Indonesia
+     * [281]Trke
+
+   [282]Powered by MediaWiki
+   [283]Wikimedia Foundation
+     * This page was last modified on 26 January 2009, at 08:16.
+     * All text is available under the terms of the [284]GNU Free
+       Documentation License. (See [285]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [286]Wikimedia
+       Foundation, Inc., a U.S. registered [287]501(c)(3)
+       [288]tax-deductible [289]nonprofit [290]charity.
+     * [291]Privacy policy
+     * [292]About Wikipedia
+     * [293]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dubai_Internet_City&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dubai_TECOM&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Cleanup
+  10. file://localhost/wiki/Wikipedia:Manual_of_Style
+  11. http://en.wikipedia.org/w/index.php?title=Dubai_Internet_City&action=edit
+  12. file://localhost/wiki/Category:Types_of_companies
+  13. file://localhost/wiki/United_Arab_Emirates
+  14. file://localhost/wiki/Sony_Ericsson
+  15. file://localhost/wiki/Arabic_language
+  16. file://localhost/wiki/Technology_park
+  17. file://localhost/wiki/Dubai
+  18. file://localhost/wiki/Free_economic_zone
+  19. file://localhost/wiki/Wikipedia:Citation_needed
+  20. file://localhost/wiki/Foreign_ownership
+  21. file://localhost/wiki/United_Arab_Emirates
+  22. file://localhost/wiki/Wikipedia:Citation_needed
+  23. file://localhost/wiki/Information_technology
+  24. file://localhost/wiki/Microsoft
+  25. file://localhost/wiki/IBM
+  26. file://localhost/wiki/Oracle_Corporation
+  27. file://localhost/wiki/Sun_Microsystems
+  28. file://localhost/wiki/Cisco
+  29. file://localhost/wiki/HP
+  30. file://localhost/wiki/Nokia
+  31. file://localhost/wiki/Siemens_AG
+  32. file://localhost/w/index.php?title=Nera_Telecom&action=edit&redlink=1
+  33. file://localhost/wiki/I-mate
+  34. file://localhost/wiki/Acette
+  35. file://localhost/wiki/Dubai_Media_City
+  36. file://localhost/wiki/Dubai_Knowledge_Village
+  37. file://localhost/wiki/Wikipedia:Citation_needed
+  38. file://localhost/wiki/Wikipedia:Citation_needed
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#Connectivity
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#History
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#Economics
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#Location
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#References
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#See_also
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#External_links
+  46. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=1
+  47. file://localhost/wiki/Du_(telco)
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#cite_note-0
+  49. file://localhost/wiki/VPN
+  50. file://localhost/wiki/Internet_censorship
+  51. file://localhost/wiki/Wikipedia:Citation_needed
+  52. file://localhost/wiki/Wikipedia:Citation_needed
+  53. file://localhost/wiki/Wikipedia:Avoid_weasel_words
+  54. file://localhost/wiki/Du_(telco)
+  55. file://localhost/wiki/Wikipedia:Citation_needed
+  56. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=2
+  57. file://localhost/wiki/Microsoft
+  58. file://localhost/wiki/Oracle_Corporation
+  59. file://localhost/wiki/HP
+  60. file://localhost/wiki/IBM
+  61. file://localhost/wiki/Dell
+  62. file://localhost/wiki/Siemens
+  63. file://localhost/wiki/Canon_(company)
+  64. file://localhost/wiki/Logica
+  65. file://localhost/wiki/Sony_Ericsson
+  66. file://localhost/wiki/Schlumberger
+  67. file://localhost/wiki/Wikipedia:Citation_needed
+  68. file://localhost/wiki/Cisco
+  69. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=3
+  70. file://localhost/wiki/Wikipedia:Citation_needed
+  71. file://localhost/wiki/AED
+  72. file://localhost/wiki/Dollar
+  73. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=4
+  74. file://localhost/wiki/Dubai
+  75. file://localhost/wiki/Abu_Dhabi
+  76. file://localhost/wiki/Dubai_Marina
+  77. file://localhost/wiki/Jumeirah_Beach_Residence
+  78. file://localhost/wiki/Palm_Jumeirah
+  79. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=5
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc450.tmp.html#cite_ref-0
+  81. http://archive.gulfnews.com/articles/08/04/14/10205529.html
+  82. file://localhost/wiki/Gulf_News
+  83. http://archive.gulfnews.com/articles/08/04/14/10205529.html
+  84. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=6
+  85. file://localhost/wiki/Dubai_Media_City
+  86. file://localhost/wiki/Dubai_Studio_City
+  87. file://localhost/wiki/Dubai_Holding
+  88. file://localhost/wiki/SmartCity
+  89. file://localhost/wiki/Ras_Al_Khaimah_IT_Park
+  90. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit&section=7
+  91. http://www.dubaiinternetcity.com/
+  92. http://tecom.ae/press_centre/images/
+  93. http://www.dubaiholding.com/
+  94. http://www.articleworld.org/Dubai_Internet_City
+  95. http://www.ameinfo.com/144317.html
+  96. file://localhost/wiki/Template:Dubai_topics
+  97. file://localhost/wiki/Template_talk:Dubai_topics
+  98. http://en.wikipedia.org/w/index.php?title=Template:Dubai_topics&action=edit
+  99. file://localhost/wiki/Dubai
+ 100. file://localhost/wiki/History_of_Dubai
+ 101. file://localhost/wiki/Trucial_Oman
+ 102. file://localhost/wiki/Al_Maktoum
+ 103. file://localhost/wiki/Bani_Yas
+ 104. file://localhost/wiki/Deira,_Dubai
+ 105. file://localhost/wiki/Bur_Dubai
+ 106. file://localhost/wiki/Dubai_Creek
+ 107. file://localhost/wiki/Deira_Corniche
+ 108. file://localhost/wiki/Mohammed_bin_Rashid_Al_Maktoum
+ 109. file://localhost/wiki/Dubai_Police_Force
+ 110. file://localhost/wiki/Dubai_Municipality
+ 111. file://localhost/wiki/Education_in_Dubai
+ 112. file://localhost/wiki/American_University_in_Dubai
+ 113. file://localhost/wiki/Dubai_Men%27s_College
+ 114. file://localhost/wiki/Dubai_Women%27s_College
+ 115. file://localhost/wiki/Birla_Institute_of_Technology_and_Science
+ 116. file://localhost/wiki/Zayed_University
+ 117. file://localhost/wiki/SPJIMR
+ 118. file://localhost/wiki/Mahatma_Gandhi_University
+ 119. file://localhost/wiki/Our_Own_English_High_School
+ 120. file://localhost/wiki/The_Indian_High_School,_Dubai
+ 121. file://localhost/wiki/Dubai_Modern_High_School
+ 122. file://localhost/wiki/Dubai_British_School
+ 123. file://localhost/wiki/English_College_Dubai
+ 124. file://localhost/wiki/International_School_of_Choueifat
+ 125. file://localhost/wiki/American_School_of_Dubai
+ 126. file://localhost/wiki/Dubai_American_Academy
+ 127. file://localhost/wiki/Grand_Mosque_(Dubai)
+ 128. file://localhost/wiki/Hindu_Temple,_Dubai
+ 129. file://localhost/wiki/St._Mary%27s_Catholic_Church,_Dubai
+ 130. file://localhost/wiki/St._Francis_of_Assisi_Catholic_Church,_Jebel_Ali
+ 131. file://localhost/wiki/Dubai
+ 132. file://localhost/wiki/Hatta,_United_Arab_Emirates
+ 133. file://localhost/wiki/Al_Aweer
+ 134. file://localhost/wiki/Lehbab
+ 135. file://localhost/wiki/Al_Shindagha
+ 136. file://localhost/wiki/Burj_Al_Arab
+ 137. file://localhost/wiki/Emirates_Towers
+ 138. file://localhost/wiki/Dubai_World_Trade_Centre
+ 139. file://localhost/wiki/Chelsea_Tower
+ 140. file://localhost/wiki/Dusit_Dubai
+ 141. file://localhost/wiki/21st_Century_Tower
+ 142. file://localhost/wiki/Etisalat_Tower_1
+ 143. file://localhost/wiki/Etisalat_Tower_2
+ 144. file://localhost/wiki/List_of_tallest_buildings_in_Dubai
+ 145. file://localhost/wiki/Mushrif_Park
+ 146. file://localhost/wiki/Safa_Park
+ 147. file://localhost/wiki/Palm_Islands
+ 148. file://localhost/wiki/The_World_(archipelago)
+ 149. file://localhost/wiki/Dubai_Marina
+ 150. file://localhost/wiki/Dubai_Waterfront
+ 151. file://localhost/wiki/Business_Bay
+ 152. file://localhost/wiki/Dubailand
+ 153. file://localhost/wiki/Bawadi
+ 154. file://localhost/wiki/Arabian_Ranches
+ 155. file://localhost/wiki/Dubai_World_Central
+ 156. file://localhost/wiki/Dubai_Festival_City
+ 157. file://localhost/wiki/Jumeirah_Beach_Residence
+ 158. file://localhost/wiki/Al_Shindagha_Tunnel
+ 159. file://localhost/wiki/Al_Maktoum_Bridge
+ 160. file://localhost/wiki/Floating_Bridge,_Dubai
+ 161. file://localhost/wiki/Al_Garhoud_Bridge
+ 162. file://localhost/wiki/Business_Bay_Crossing
+ 163. file://localhost/wiki/Sheikh_Rashid_bin_Saeed_Crossing
+ 164. file://localhost/wiki/Economy_of_Dubai
+ 165. file://localhost/wiki/Emaar
+ 166. file://localhost/wiki/Nakheel
+ 167. file://localhost/wiki/Dubai_Holding
+ 168. file://localhost/wiki/ARY_Group
+ 169. file://localhost/wiki/Al-Ghurair_Group
+ 170. file://localhost/wiki/Ashai_Group_International
+ 171. file://localhost/wiki/Etisalat
+ 172. file://localhost/wiki/Du_(telco)
+ 173. file://localhost/wiki/DP_World
+ 174. file://localhost/wiki/Art_in_Dubai
+ 175. file://localhost/wiki/Dubai_Gold_Souk
+ 176. file://localhost/wiki/Dubai_Spice_Souk
+ 177. file://localhost/wiki/Port_Rashid
+ 178. file://localhost/wiki/Jebel_Ali
+ 179. file://localhost/wiki/Al_Hamriya_Port
+ 180. file://localhost/wiki/Port_Saeed
+ 181. file://localhost/wiki/Free_economic_zone
+ 182. file://localhost/wiki/Jebel_Ali_Free_Zone
+ 183. file://localhost/wiki/Dubai_Media_City
+ 184. file://localhost/wiki/Dubai_Knowledge_Village
+ 185. file://localhost/wiki/Dubai_Healthcare_City
+ 186. file://localhost/wiki/Dubai_Studio_City
+ 187. file://localhost/wiki/Dubai_International_Financial_Centre
+ 188. file://localhost/wiki/Mall_of_the_Emirates
+ 189. file://localhost/wiki/BurJuman
+ 190. file://localhost/wiki/Ibn_Battuta_Mall
+ 191. file://localhost/wiki/Dubai_Mall
+ 192. file://localhost/wiki/Lamcy_Plaza
+ 193. file://localhost/wiki/Deira_City_Centre
+ 194. file://localhost/wiki/Transportation_in_Dubai
+ 195. file://localhost/wiki/Dubai_International_Airport
+ 196. file://localhost/wiki/Abra_(boat)
+ 197. file://localhost/wiki/Dubai_Metro
+ 198. file://localhost/wiki/Red_Line_(Dubai_Metro)
+ 199. file://localhost/wiki/Green_Line_(Dubai_Metro)
+ 200. file://localhost/wiki/Palm_Jumeirah_Monorail
+ 201. file://localhost/wiki/Emirates_Airlines
+ 202. file://localhost/wiki/Sheikh_Zayed_Road
+ 203. file://localhost/wiki/Emirates_Road
+ 204. file://localhost/wiki/Al_Maktoum_International_Airport
+ 205. file://localhost/wiki/Dubai_route_numbering_system
+ 206. file://localhost/wiki/E_11
+ 207. file://localhost/wiki/E_311
+ 208. file://localhost/wiki/E_44
+ 209. file://localhost/wiki/E_66
+ 210. file://localhost/wiki/E_77
+ 211. file://localhost/wiki/E_611
+ 212. file://localhost/wiki/D_94
+ 213. file://localhost/wiki/D_92
+ 214. file://localhost/wiki/D_89
+ 215. file://localhost/wiki/D_85
+ 216. file://localhost/wiki/D_75
+ 217. file://localhost/wiki/D_73
+ 218. file://localhost/wiki/D_90
+ 219. file://localhost/wiki/Detroit
+ 220. file://localhost/wiki/Geneva
+ 221. file://localhost/wiki/Shanghai
+ 222. file://localhost/wiki/Casablanca
+ 223. file://localhost/wiki/Frankfurt
+ 224. file://localhost/wiki/Guangzhou
+ 225. file://localhost/wiki/Osaka
+ 226. file://localhost/wiki/Beirut
+ 227. file://localhost/wiki/Dundee
+ 228. file://localhost/wiki/Gold_Coast,_Queensland
+ 229. file://localhost/wiki/Moscow
+ 230. file://localhost/wiki/Istanbul
+ 231. file://localhost/wiki/Damascus
+ 232. file://localhost/wiki/Barcelona
+ 233. file://localhost/wiki/Geographic_coordinate_system
+ 234. http://stable.toolserver.org/geohack/geohack.php?pagename=Dubai_Internet_City&params=25.095_N_55.160_E_type:city
+ 235. http://en.wikipedia.org/wiki/Dubai_Internet_City
+ 236. file://localhost/wiki/Special:Categories
+ 237. file://localhost/wiki/Category:2000_establishments
+ 238. file://localhost/wiki/Category:Buildings_and_structures_in_Dubai
+ 239. file://localhost/wiki/Category:Economy_of_Dubai
+ 240. file://localhost/wiki/Category:Geography_of_Dubai
+ 241. file://localhost/wiki/Category:History_of_Dubai
+ 242. file://localhost/wiki/Category:Government-owned_companies_in_the_United_Arab_Emirates
+ 243. file://localhost/wiki/Category:Science_and_technology_in_the_United_Arab_Emirates
+ 244. file://localhost/wiki/Category:Internet_by_country
+ 245. file://localhost/wiki/Category:Science_parks
+ 246. file://localhost/wiki/Category:Special_Economic_Zones
+ 247. file://localhost/wiki/Category:Cleanup_from_October_2008
+ 248. file://localhost/wiki/Category:All_pages_needing_cleanup
+ 249. file://localhost/wiki/Category:Articles_containing_Arabic_language_text
+ 250. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 251. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_October_2008
+ 252. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_August_2008
+ 253. file://localhost/wiki/Category:Articles_with_specifically-marked_weasel-worded_phrases
+ 254. file://localhost/wiki/Dubai_Internet_City
+ 255. file://localhost/wiki/Talk:Dubai_Internet_City
+ 256. file://localhost/w/index.php?title=Dubai_Internet_City&action=edit
+ 257. file://localhost/w/index.php?title=Dubai_Internet_City&action=history
+ 258. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dubai_Internet_City
+ 259. file://localhost/wiki/Main_Page
+ 260. file://localhost/wiki/Portal:Contents
+ 261. file://localhost/wiki/Portal:Featured_content
+ 262. file://localhost/wiki/Portal:Current_events
+ 263. file://localhost/wiki/Special:Random
+ 264. file://localhost/wiki/Wikipedia:About
+ 265. file://localhost/wiki/Wikipedia:Community_portal
+ 266. file://localhost/wiki/Special:RecentChanges
+ 267. file://localhost/wiki/Wikipedia:Contact_us
+ 268. http://wikimediafoundation.org/wiki/Donate
+ 269. file://localhost/wiki/Help:Contents
+ 270. file://localhost/wiki/Special:WhatLinksHere/Dubai_Internet_City
+ 271. file://localhost/wiki/Special:RecentChangesLinked/Dubai_Internet_City
+ 272. file://localhost/wiki/Wikipedia:Upload
+ 273. file://localhost/wiki/Special:SpecialPages
+ 274. file://localhost/w/index.php?title=Dubai_Internet_City&printable=yes
+ 275. file://localhost/w/index.php?title=Dubai_Internet_City&oldid=266485850
+ 276. file://localhost/w/index.php?title=Special:Cite&page=Dubai_Internet_City&id=266485850
+ 277. http://ca.wikipedia.org/wiki/Dubai_Internet_City
+ 278. http://de.wikipedia.org/wiki/Dubai_Internet_City
+ 279. http://eo.wikipedia.org/wiki/Dubaja_Interreturbo
+ 280. http://id.wikipedia.org/wiki/Dubai_Internet_City
+ 281. http://tr.wikipedia.org/wiki/Dubai_Internet_%C5%9Eehri
+ 282. http://www.mediawiki.org/
+ 283. http://wikimediafoundation.org/
+ 284. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 285. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 286. http://www.wikimediafoundation.org/
+ 287. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 288. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 289. http://en.wikipedia.org/wiki/Non-profit_organization
+ 290. http://en.wikipedia.org/wiki/Charitable_organization
+ 291. http://wikimediafoundation.org/wiki/Privacy_policy
+ 292. file://localhost/wiki/Wikipedia:About
+ 293. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 294. file://localhost/wiki/File:Ambox_style.png
+ 295. file://localhost/wiki/File:Flag_of_the_United_Arab_Emirates.svg
+ 296. file://localhost/wiki/File:Microsoft_Dubai.jpg
+ 297. file://localhost/wiki/File:Microsoft_Dubai.jpg
+ 298. file://localhost/wiki/File:DIC_1.jpg
+ 299. file://localhost/wiki/File:DIC_1.jpg
+ 300. file://localhost/wiki/Main_Page
+ 301. http://ar.wikipedia.org/wiki/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AF%D8%A8%D9%8A_%D9%84%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA

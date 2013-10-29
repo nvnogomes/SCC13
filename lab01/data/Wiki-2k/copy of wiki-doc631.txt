@@ -1,0 +1,247 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EEsof
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   Please help [8]improve this article or section by expanding it. Further
+   information might be found on the [9]talk page. (January 2008)
+
+   EEsof was founded in 1983 by an entrepreneur, [10]Charles J. ("Chuck")
+   Abronson, and a former [11]Compact Software employee, [12]Bill
+   Childs^[13][1] ^[14][2] ^[15][3]. Its [16]EDA products included high
+   frequency circuit simulators such as Touchstone and Libra. Although the
+   Touchstone simulator itself is obsolete^[17][4], its [18]eponymous file
+   format lives on. EEsof was acquired by [19]Hewlett-Packard in 1993
+   ^[20][5] and later spun out as part of [21]Agilent Technologies in 1999
+   thus becoming Agilent EEsof EDA^[22][6].
+
+   After the merger of HP and EEsof, the EEsof products were combined with
+   the HP simulator, Microwave Design System (MDS). MDS was first marketed
+   in 1985 but the project actually predated EEsof: It evolved from a
+   project by Les Besser when he was with HP^[23][7]. The Touchstone UI
+   was a textual netlist, whereas MDS had the first schematic capture UI
+   in RF EDA.
+
+   The HP and EEsof harmonic balance simulators also had parallel lives
+   before the merger. HP funded an employee Ken Kundert to do a PhD at UC
+   Berkeley PhD. For his thesis he developed Spectra, the first harmonic
+   balance prototype. Since Berkeley has an open policy to all of its
+   research work, EEsof was able to learn about the project and actually
+   released a product before HP was able to commercialise it in MDS.
+   (Libra was a play on the Latin word libra for balance or scales). Ken
+   left HP to join Cadence shortly after receiving his PhD to develop
+   Spectre and SpectreRF.
+
+   Current products are [24]Advanced Design System (ADS) RF EDA software,
+   [25]GoldenGate RFIC Simulator, [26]IC-CAP (pronounced "icecap" or
+   "eye-cee-cap") device modeling software and systems,
+   [27]Electromagnetic Professional (EMPro), [28]Momentum,
+   [29]Electromagnetic Design System (EMDS), [30]Genesys, [31]SystemVue,
+   [32]RF Design Environment (RFDE), and [33]Antenna Modeling Design
+   System (AMDS). The SystemVue and Genesys products were added as a
+   result of the acquisition of [34]Eagleware-[35]Elanix in 2005
+   ^[36][8]^[37][9]. In turn Eagleware-Elanix was a result of the merger
+   of Eagleware and Elanix^[38][10]. Eagleware itself was founded in 1985
+   by [39]Randy Rhea ^[40][11].
+
+[[41]edit] References
+
+    1. [42]^ [43]Charles J. Abronson bio at CAP Wireless
+    2. [44]^ [45]History of EEsof at Microwaves 101
+    3. [46]^ [47]History of Compact at Microwaves 101
+    4. [48]^ It was replaced by [49]E8881 ADS Linear Simulator
+    5. [50]^ [51]"Hewlett-Packard to acquire EEsof", Mobile Phone News,
+       Sept 13, 1993
+    6. [52]^ [53]Agilent EEsof EDA home page
+    7. [54]^ Ironically, Besser went on to found [55]Compact Software
+       which spawned both EEsof (via Bill Childs) and rival Ansoft's
+       circuit simulator (via its acquisition of Compact Software). For
+       more on this thread, please see the article on [56]Compact Software
+    8. [57]^ [58]"Agilent Technologies completes acquisition of
+       Eagleware-Elanix"
+    9. [59]^ [60]"Microwave Journal Speaks with Todd Cutler, Senior
+       Manager, Agilent EEsof EDA"
+   10. [61]^ [62]"Interview with Todd Cutler, CEO Eagleware-Elanix," by
+       Jack Horgan, EDA Cafe
+   11. [63]^ [64]History of CIRCUIT BUSTERS, Star, SUPERSTAR, and
+       Eagleware at Microwaves 101
+
+[[65]edit] Trademark Notice
+
+   Touchstone and EEsof are registered trademarks of [66]Agilent
+   Technologies, Inc.
+   Retrieved from "[67]http://en.wikipedia.org/wiki/EEsof"
+   [68]Category: [69]Electronic design automation companies
+   Hidden categories: [70]Articles to be expanded since January 2008 |
+   [71]All articles to be expanded
+
+Views
+
+     * [72]Article
+     * [73]Discussion
+     * [74]Edit this page
+     * [75]History
+
+Personal tools
+
+     * [76]Log in / create account
+
+Navigation
+
+     * [77]Main page
+     * [78]Contents
+     * [79]Featured content
+     * [80]Current events
+     * [81]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [82]About Wikipedia
+     * [83]Community portal
+     * [84]Recent changes
+     * [85]Contact Wikipedia
+     * [86]Donate to Wikipedia
+     * [87]Help
+
+Toolbox
+
+     * [88]What links here
+     * [89]Related changes
+     * [90]Upload file
+     * [91]Special pages
+     * [92]Printable version
+     * [93]Permanent link
+     * [94]Cite this page
+
+   [95]Powered by MediaWiki
+   [96]Wikimedia Foundation
+     * This page was last modified on 16 February 2009, at 07:37.
+     * All text is available under the terms of the [97]GNU Free
+       Documentation License. (See [98]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [99]Wikimedia
+       Foundation, Inc., a U.S. registered [100]501(c)(3)
+       [101]tax-deductible [102]nonprofit [103]charity.
+     * [104]Privacy policy
+     * [105]About Wikipedia
+     * [106]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EEsof&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#searchInput
+   8. http://en.wikipedia.org/w/index.php?title=EEsof&action=edit
+   9. file://localhost/w/index.php?title=Talk:EEsof&action=edit&redlink=1
+  10. file://localhost/w/index.php?title=Charles_Abronson&action=edit&redlink=1
+  11. file://localhost/wiki/Compact_Software
+  12. file://localhost/w/index.php?title=William_Childs&action=edit&redlink=1
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-0
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-1
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-2
+  16. file://localhost/wiki/Electronic_design_automation
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-3
+  18. file://localhost/wiki/Touchstone_File
+  19. file://localhost/wiki/Hewlett-Packard
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-4
+  21. file://localhost/wiki/Agilent_Technologies
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-5
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-6
+  24. file://localhost/wiki/Advanced_Design_System
+  25. file://localhost/w/index.php?title=GoldenGate&action=edit&redlink=1
+  26. file://localhost/w/index.php?title=IC-CAP&action=edit&redlink=1
+  27. file://localhost/w/index.php?title=Electromagnetic_Professional&action=edit&redlink=1
+  28. file://localhost/wiki/Momentum_(electromagnetic_simulator)
+  29. file://localhost/wiki/Electromagnetic_Design_System
+  30. file://localhost/w/index.php?title=Genesys_(EDA_product_line)&action=edit&redlink=1
+  31. file://localhost/w/index.php?title=SystemVue&action=edit&redlink=1
+  32. file://localhost/w/index.php?title=RF_Design_Environment&action=edit&redlink=1
+  33. file://localhost/w/index.php?title=Antenna_Modeling_Design_System&action=edit&redlink=1
+  34. file://localhost/w/index.php?title=Eagleware&action=edit&redlink=1
+  35. file://localhost/w/index.php?title=Elanix&action=edit&redlink=1
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-7
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-8
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-9
+  39. file://localhost/w/index.php?title=Randy_Rhea&action=edit&redlink=1
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_note-10
+  41. file://localhost/w/index.php?title=EEsof&action=edit&section=1
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-0
+  43. http://capwireless.com/About_Us/Staff_bios.html
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-1
+  45. http://www.microwaves101.com/encyclopedia/historyCAD.cfm#touchstone
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-2
+  47. http://www.microwaves101.com/encyclopedia/historyCAD.cfm#compact
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-3
+  49. http://eesof.tm.agilent.com/products/e8881a-new.html
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-4
+  51. http://findarticles.com/p/articles/mi_m3457/is_n36_v11/ai_14396893
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-5
+  53. http://www.agilent.com/find/eesof
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-6
+  55. file://localhost/wiki/Compact_Software
+  56. file://localhost/wiki/Compact_Software
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-7
+  58. http://www.agilent.com/about/newsroom/presrel/2005/18aug-ep05088.html
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-8
+  60. http://www.mwjournal.com/article.asp?HH_ID=AR_4880
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-9
+  62. http://www10.edacafe.com/nbc/articles/view_weekly.php?articleid=209180
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc631.tmp.html#cite_ref-10
+  64. http://www.microwaves101.com/encyclopedia/historyCAD.cfm#superstar
+  65. file://localhost/w/index.php?title=EEsof&action=edit&section=2
+  66. file://localhost/wiki/Agilent_Technologies
+  67. http://en.wikipedia.org/wiki/EEsof
+  68. file://localhost/wiki/Special:Categories
+  69. file://localhost/wiki/Category:Electronic_design_automation_companies
+  70. file://localhost/wiki/Category:Articles_to_be_expanded_since_January_2008
+  71. file://localhost/wiki/Category:All_articles_to_be_expanded
+  72. file://localhost/wiki/EEsof
+  73. file://localhost/w/index.php?title=Talk:EEsof&action=edit&redlink=1
+  74. file://localhost/w/index.php?title=EEsof&action=edit
+  75. file://localhost/w/index.php?title=EEsof&action=history
+  76. file://localhost/w/index.php?title=Special:UserLogin&returnto=EEsof
+  77. file://localhost/wiki/Main_Page
+  78. file://localhost/wiki/Portal:Contents
+  79. file://localhost/wiki/Portal:Featured_content
+  80. file://localhost/wiki/Portal:Current_events
+  81. file://localhost/wiki/Special:Random
+  82. file://localhost/wiki/Wikipedia:About
+  83. file://localhost/wiki/Wikipedia:Community_portal
+  84. file://localhost/wiki/Special:RecentChanges
+  85. file://localhost/wiki/Wikipedia:Contact_us
+  86. http://wikimediafoundation.org/wiki/Donate
+  87. file://localhost/wiki/Help:Contents
+  88. file://localhost/wiki/Special:WhatLinksHere/EEsof
+  89. file://localhost/wiki/Special:RecentChangesLinked/EEsof
+  90. file://localhost/wiki/Wikipedia:Upload
+  91. file://localhost/wiki/Special:SpecialPages
+  92. file://localhost/w/index.php?title=EEsof&printable=yes
+  93. file://localhost/w/index.php?title=EEsof&oldid=271072215
+  94. file://localhost/w/index.php?title=Special:Cite&page=EEsof&id=271072215
+  95. http://www.mediawiki.org/
+  96. http://wikimediafoundation.org/
+  97. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  98. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  99. http://www.wikimediafoundation.org/
+ 100. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 101. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 102. http://en.wikipedia.org/wiki/Non-profit_organization
+ 103. http://en.wikipedia.org/wiki/Charitable_organization
+ 104. http://wikimediafoundation.org/wiki/Privacy_policy
+ 105. file://localhost/wiki/Wikipedia:About
+ 106. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 107. file://localhost/wiki/File:Wiki_letter_w.svg
+ 108. file://localhost/wiki/Main_Page

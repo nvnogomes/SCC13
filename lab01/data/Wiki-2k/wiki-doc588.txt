@@ -1,0 +1,326 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dysprosium(III) chloride
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dysprosium chloride)
+   Jump to: [7]navigation, [8]search
+   Dysprosium(III) chloride
+   [9]Dysprosium(III) chloride hexahydrate
+   [10]IUPAC name
+
+   Dysprosium(III) chloride
+   Dysprosium trichloride
+   Identifiers
+   [11]CAS number 10025-74-8
+   Properties
+   [12]Molecular formula DyCl[3]
+   [13]Molar mass 268.86 g/mol (anhydrous)
+   Appearance white solid
+   [14]Density 3.67 g/cm, solid
+   [15]Melting point
+
+   647 C (anhydrous)
+   [16]Boiling point
+
+   1530 C
+   [17]Solubility in [18]water Soluble
+   Structure
+   [19]Crystal structure [20]AlCl[3] structure
+   [21]Coordination
+   geometry [22]Octahedral
+   Hazards
+   [23]EU classification not listed
+   [24]Flash point non flammable
+   Related compounds
+   Other [25]anions [26]Dysprosium(III) fluoride
+   [27]Dysprosium(III) bromide
+   [28]Dysprosium(III) iodide
+   Other [29]cations [30]Terbium(III) chloride
+   [31]Dysprosium(II) chloride
+   [32]Holmium(III) chloride
+   Except where noted otherwise, data are given for
+   materials in their [33]standard state
+   (at 25 C, 100 kPa)
+   [34]Infobox references
+
+   Dysprosium(III) chloride (DyCl[3]), also known as dysprosium
+   trichloride, is a compound of [35]dysprosium and [36]chlorine. It is a
+   white to yellow solid which rapidly absorbs water on exposure to moist
+   air to form a hexa[37]hydrate, DyCl[3].6H[2]O. Simple rapid heating of
+   the hydrate causes partial [38]hydrolysis^[39][1] to an oxychloride,
+   DyOCl.
+
+Contents
+
+     * [40]1 Chemical properties
+     * [41]2 Preparation
+     * [42]3 Uses
+     * [43]4 Precautions
+     * [44]5 References
+
+[[45]edit] Chemical properties
+
+   Dysprosium(III) chloride is a moderately strong [46]Lewis acid, which
+   ranks as "hard" according to the [47]HSAB concept. Aqueous solutions of
+   dysprosium chloride can be used to prepare insoluble dysprosium(III)
+   compounds, for example [48]dysprosium(III) fluoride:
+
+          DyCl[3]([49]aq) + 3 [50]NaF([51]aq) [52]DyF[3]([53]s) + 3
+          [54]NaCl([55]aq)
+
+[[56]edit] Preparation
+
+   Dysprosium(III) chloride can be prepared as a yellow aqueous solution
+   by reaction of either dysprosium metal or [57]dysprosium(III) carbonate
+   and [58]hydrochloric acid.
+
+          2 [59]Dy([60]s) + 6 [61]HCl([62]aq) 2 DyCl[3]([63]aq) + 3
+          [64]H[2]([65]g)
+
+          [66]Dy[2](CO[3])[3]([67]s) + 6 [68]HCl([69]aq) 2 DyCl[3]([70]aq)
+          + 3 [71]CO[2]([72]g) + 3 [73]H[2]O([74]l)
+
+   [75]Anhydrous DyCl[3] can be made by dehydration of the hydrate either
+   by slowly heating to 400 C with 4-6 equivalents of [76]ammonium
+   chloride under high vacuum.^[77][1]^[78][2] The anhydrous [79]halide
+   may alternatively be prepared from dysprosium metal and [80]hydrogen
+   chloride^[81][3]. It is usually purified by high temperature
+   sublimation under high vacuum.^[82][1]
+
+[[83]edit] Uses
+
+   Dysprosium(III) chloride can be used as a starting point for the
+   preparation of other [84]dysprosium [85]salts. Dysprosium metal is
+   produced when a molten mixture of DyCl[3] in [86]eutectic
+   [87]LiCl-[88]KCl is [89]electrolysed. The reduction occurs via Dy^2+,
+   at a [90]tungsten [91]cathode.^[92][4]
+
+[[93]edit] Precautions
+
+   [94]Dysprosium compounds are believed to be of low to moderate
+   [95]toxicity, although their toxicity has not been investigated in
+   detail.
+
+[[96]edit] References
+
+    1. ^ [97]^a [98]^b [99]^c F. T. Edelmann, P. Poremba, in: Synthetic
+       Methods of Organometallic and Inorganic Chemistry, (W. A. Herrmann,
+       ed.), Vol. 6, Georg Thieme Verlag, Stuttgart, 1997.
+    2. [100]^ M. D. Taylor, P. C. Carter, J. Inorg. Nucl. Chem. 24, 387
+       (1962); J. Kutscher, A. Schneider, Inorg. Nucl. Chem. Lett. 7, 815
+       (1971).
+    3. [101]^ L. F. Druding, J. D. Corbett, J. Am. Chem. Soc. 83, 2462
+       (1961); J. D. Corbett, Rev. Chim. Minerale 10, 239 (1973).
+    4. [102]^ Y. Castrillejo, M. R. Bermejo, A. I. Barrado, R. Pardo, E.
+       Barrado, A. M. Martinez, Electrochimica Acta, 50, 2047-2057 (2005).
+
+   Retrieved from
+   "[103]http://en.wikipedia.org/wiki/Dysprosium(III)_chloride"
+   [104]Categories: [105]Dysprosium compounds | [106]Chlorides |
+   [107]Metal halides
+
+Views
+
+     * [108]Article
+     * [109]Discussion
+     * [110]Edit this page
+     * [111]History
+
+Personal tools
+
+     * [112]Log in / create account
+
+Navigation
+
+     * [113]Main page
+     * [114]Contents
+     * [115]Featured content
+     * [116]Current events
+     * [117]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [118]About Wikipedia
+     * [119]Community portal
+     * [120]Recent changes
+     * [121]Contact Wikipedia
+     * [122]Donate to Wikipedia
+     * [123]Help
+
+Toolbox
+
+     * [124]What links here
+     * [125]Related changes
+     * [126]Upload file
+     * [127]Special pages
+     * [128]Printable version
+     * [129]Permanent link
+     * [130]Cite this page
+
+   [131]Powered by MediaWiki
+   [132]Wikimedia Foundation
+     * This page was last modified on 22 January 2009, at 17:37.
+     * All text is available under the terms of the [133]GNU Free
+       Documentation License. (See [134]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [135]Wikimedia
+       Foundation, Inc., a U.S. registered [136]501(c)(3)
+       [137]tax-deductible [138]nonprofit [139]charity.
+     * [140]Privacy policy
+     * [141]About Wikipedia
+     * [142]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dysprosium(III)_chloride&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dysprosium_chloride&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#searchInput
+   9. file://localhost/wiki/File:Dysprosium(III)_chloride.jpg
+  10. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  11. file://localhost/wiki/CAS_registry_number
+  12. file://localhost/wiki/Chemical_formula
+  13. file://localhost/wiki/Molar_mass
+  14. file://localhost/wiki/Density
+  15. file://localhost/wiki/Melting_point
+  16. file://localhost/wiki/Boiling_point
+  17. file://localhost/wiki/Solubility
+  18. file://localhost/wiki/Water
+  19. file://localhost/wiki/Crystal_structure
+  20. file://localhost/wiki/Aluminium_chloride#Structure
+  21. file://localhost/wiki/Coordination_geometry
+  22. file://localhost/wiki/Octahedron
+  23. file://localhost/wiki/Directive_67/548/EEC
+  24. file://localhost/wiki/Flash_point
+  25. file://localhost/wiki/Ion
+  26. file://localhost/w/index.php?title=Dysprosium(III)_fluoride&action=edit&redlink=1
+  27. file://localhost/w/index.php?title=Dysprosium(III)_bromide&action=edit&redlink=1
+  28. file://localhost/w/index.php?title=Dysprosium(III)_iodide&action=edit&redlink=1
+  29. file://localhost/wiki/Ion
+  30. file://localhost/wiki/Terbium(III)_chloride
+  31. file://localhost/w/index.php?title=Dysprosium(II)_chloride&action=edit&redlink=1
+  32. file://localhost/wiki/Holmium(III)_chloride
+  33. file://localhost/wiki/Standard_state
+  34. file://localhost/wiki/Wikipedia:Chemical_infobox#References
+  35. file://localhost/wiki/Dysprosium
+  36. file://localhost/wiki/Chlorine
+  37. file://localhost/wiki/Hydrate
+  38. file://localhost/wiki/Hydrolysis
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-Edel-0
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#Chemical_properties
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#Preparation
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#Uses
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#Precautions
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#References
+  45. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit&section=1
+  46. file://localhost/wiki/Lewis_acid
+  47. file://localhost/wiki/HSAB_concept
+  48. file://localhost/w/index.php?title=Dysprosium(III)_fluoride&action=edit&redlink=1
+  49. file://localhost/wiki/Aqueous
+  50. file://localhost/wiki/Sodium_fluoride
+  51. file://localhost/wiki/Aqueous
+  52. file://localhost/w/index.php?title=Dysprosium(III)_fluoride&action=edit&redlink=1
+  53. file://localhost/wiki/Solid
+  54. file://localhost/wiki/Sodium_chloride
+  55. file://localhost/wiki/Aqueous
+  56. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit&section=2
+  57. file://localhost/w/index.php?title=Dysprosium(III)_carbonate&action=edit&redlink=1
+  58. file://localhost/wiki/Hydrochloric_acid
+  59. file://localhost/wiki/Dysprosium
+  60. file://localhost/wiki/Solid
+  61. file://localhost/wiki/Hydrochloric_acid
+  62. file://localhost/wiki/Aqueous
+  63. file://localhost/wiki/Aqueous
+  64. file://localhost/wiki/Hydrogen
+  65. file://localhost/wiki/Gas
+  66. file://localhost/w/index.php?title=Dysprosium(III)_carbonate&action=edit&redlink=1
+  67. file://localhost/wiki/Solid
+  68. file://localhost/wiki/Hydrochloric_acid
+  69. file://localhost/wiki/Aqueous
+  70. file://localhost/wiki/Aqueous
+  71. file://localhost/wiki/Carbon_dioxide
+  72. file://localhost/wiki/Gas
+  73. file://localhost/wiki/Water
+  74. file://localhost/wiki/Liquid
+  75. file://localhost/wiki/Anhydrous
+  76. file://localhost/wiki/Ammonium_chloride
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-Edel-0
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-1
+  79. file://localhost/wiki/Halide
+  80. file://localhost/wiki/Hydrogen_chloride
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-2
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-Edel-0
+  83. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit&section=3
+  84. file://localhost/wiki/Dysprosium
+  85. file://localhost/wiki/Salt
+  86. file://localhost/wiki/Eutectic
+  87. file://localhost/wiki/Lithium_chloride
+  88. file://localhost/wiki/Potassium_chloride
+  89. file://localhost/wiki/Electrolysis
+  90. file://localhost/wiki/Tungsten
+  91. file://localhost/wiki/Electrode
+  92. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_note-3
+  93. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit&section=4
+  94. file://localhost/wiki/Dysprosium
+  95. file://localhost/wiki/Toxicity
+  96. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit&section=5
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-Edel_0-0
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-Edel_0-1
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-Edel_0-2
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-1
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-2
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc588.tmp.html#cite_ref-3
+ 103. http://en.wikipedia.org/wiki/Dysprosium(III)_chloride
+ 104. file://localhost/wiki/Special:Categories
+ 105. file://localhost/wiki/Category:Dysprosium_compounds
+ 106. file://localhost/wiki/Category:Chlorides
+ 107. file://localhost/wiki/Category:Metal_halides
+ 108. file://localhost/wiki/Dysprosium(III)_chloride
+ 109. file://localhost/wiki/Talk:Dysprosium(III)_chloride
+ 110. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=edit
+ 111. file://localhost/w/index.php?title=Dysprosium(III)_chloride&action=history
+ 112. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dysprosium(III)_chloride
+ 113. file://localhost/wiki/Main_Page
+ 114. file://localhost/wiki/Portal:Contents
+ 115. file://localhost/wiki/Portal:Featured_content
+ 116. file://localhost/wiki/Portal:Current_events
+ 117. file://localhost/wiki/Special:Random
+ 118. file://localhost/wiki/Wikipedia:About
+ 119. file://localhost/wiki/Wikipedia:Community_portal
+ 120. file://localhost/wiki/Special:RecentChanges
+ 121. file://localhost/wiki/Wikipedia:Contact_us
+ 122. http://wikimediafoundation.org/wiki/Donate
+ 123. file://localhost/wiki/Help:Contents
+ 124. file://localhost/wiki/Special:WhatLinksHere/Dysprosium(III)_chloride
+ 125. file://localhost/wiki/Special:RecentChangesLinked/Dysprosium(III)_chloride
+ 126. file://localhost/wiki/Wikipedia:Upload
+ 127. file://localhost/wiki/Special:SpecialPages
+ 128. file://localhost/w/index.php?title=Dysprosium(III)_chloride&printable=yes
+ 129. file://localhost/w/index.php?title=Dysprosium(III)_chloride&oldid=265741154
+ 130. file://localhost/w/index.php?title=Special:Cite&page=Dysprosium(III)_chloride&id=265741154
+ 131. http://www.mediawiki.org/
+ 132. http://wikimediafoundation.org/
+ 133. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 134. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 135. http://www.wikimediafoundation.org/
+ 136. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 137. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 138. http://en.wikipedia.org/wiki/Non-profit_organization
+ 139. http://en.wikipedia.org/wiki/Charitable_organization
+ 140. http://wikimediafoundation.org/wiki/Privacy_policy
+ 141. file://localhost/wiki/Wikipedia:About
+ 142. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 143. file://localhost/wiki/Main_Page

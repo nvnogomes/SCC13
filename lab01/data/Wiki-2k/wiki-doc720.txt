@@ -1,0 +1,316 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Earth 2150: The Moon Project
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Earth2150: The Moon Project)
+   Jump to: [7]navigation, [8]search
+   Earth 2150: The Moon Project
+   [9]Developer(s) [10]TopWare Interactive
+   [11]Publisher(s) [12]1C Company
+   [13]Platform(s) [14]Microsoft Windows
+   Release date(s) [15]2000
+   [16]Genre(s) [17]Strategy
+   Mode(s) [18]Single player
+   [19]Rating(s) [20]ESRB: T (Teen)
+   [21]USK: 12+
+   [22]OFLC: M15+
+   [23]Media [24]CD-ROM
+   System requirements 32 [25]MB [26]RAM, 4X CD-ROM drive, [27]DirectX
+   7.0, [28]Windows 95
+   Input methods [29]Keyboard, [30]mouse
+
+   Earth 2150: The Moon Project is a sequel to the [31]real time strategy
+   game [32]Earth 2150. While the game is in fact a stand-alone game, many
+   consider it an [33]expansion pack because it does little more than
+   provide new missions, and weapons. The story takes place alongside the
+   original game's story. The Moon Project was released in [34]2001 by
+   [35]Strategic Simulations, Inc.
+
+Contents
+
+     * [36]1 Story
+     * [37]2 Gameplay
+     * [38]3 The Factions
+     * [39]4 The game
+     * [40]5 External links
+
+[[41]edit] Story
+
+   Earth's final war is in full swing. The United Civilized States,
+   Eurasian Dynasty, and the Lunar Corporation fight over what is left of
+   the worlds resources in order to escape the blue planet before it is
+   destroyed. Meanwhile, on the Moon, the Lunar Corporation discovers the
+   remnants of an alien tunnel system. In it, they find the plans for an
+   orbital super weapon, with the power to attack the Earth from the Moon.
+   While beginning the process of building the weapon, code named
+   "Sunlight", a United Civilized States army appears ready to try and
+   stop them. It's up to the player to decide how it will play out, and
+   who will win.
+
+[[42]edit] Gameplay
+
+   The Moon Project is a war strategy game. What sets it apart from other
+   games in the genre, is the full three dimensional play. You can rotate
+   the camera to view the battlefield from just about any angle. It also
+   includes an [43]experience system for your units, indicated by a green
+   and black line under the unit's health bar. Higher levels means higher
+   damage, health, and armor. You must mine resources in order to build
+   units and structures, and must create power plants to keep your
+   structures working. The game includes a 10 level campaign for each
+   faction, and multiplayer support is provided.
+
+[[44]edit] The Factions
+
+   The game includes three playable factions. Each has its own unique
+   style and army.
+
+   United Civilized States: UCS for short, consists of the American
+   continents. Their society relies heavily on machinery and [45]robotics,
+   and is ruled by an [46]Artificial Intelligence. Machines do all tasks
+   for the people and as a result the population is lazy and hedonistic.
+   Their army consists of [47]Mecha without human pilots. When playing as
+   the UCS, the player takes the role of a commander working for the
+   President but more directly to GOLAN and another AI called Neo. The UCS
+   has long been at war with the Eurasian Dynasty. The main weapon of the
+   UCS is the [48]Plasma Cannon and the larger Heavy Plasma Cannons. While
+   very powerful, shields can stop plasma before it can make it to the
+   hull of target vehicles.
+
+   Eurasion Dynasty: ED for short, controls Europe and Asia. They are
+   ruled by a descendent of [49]Genghis Khan and seem to follow old Soviet
+   ideology. They are somewhat primitive (by 22nd Century standards) at
+   first, relying on 21st century vehicles and weapons, such as tanks and
+   helicopters. They do however have some advanced technology in the form
+   of the [50]Laser cannon and the [51]Ion cannon. The ED dual 120 cannons
+   are very powerful and can also punch through shields, a very useful
+   property in the end game.
+
+   Lunar Corporation: LC for short, are descendants of lunar colonists.
+   Since 2084, they severed contact with the Earth when it became apparent
+   that a full-scale nuclear war was about to occur. Since then they have
+   lived peacefully on the Moon. Because of their isolation from the wars
+   of Earth, their society has evolved into a pacifist form. The
+   technologies of the LC are far more advanced than that of the other two
+   factions. The main weapon platform of the LC is the hovercraft. Not
+   having been at war for many years; the LC military machine is almost
+   non-existent. They catch on quickly however, and build some of the more
+   exotic weapons of the game including the [52]Electro-cannon, which
+   emits an electrical pulse to destroy targets, and the [53]Sonic cannon,
+   which emits a moderately powerful radial effect that damages all
+   enemies around it. Another thing to note is that the LC is comprised
+   mostly of females.
+
+[[54]edit] The game
+
+   The game plays nearly the same as [55]Earth 2150 with a few key
+   differences:
+
+   1. Both LC and UCS campaigns take place on the Moon, with the exception
+   of the first UCS level.
+
+   2. Several new vehicles and weapons have been added to the game
+   including mobile transports, Artillery, antimissile systems which fire
+   automatically in order to take down incoming enemy missiles and
+   "Anti-air" weapons (ED: AA Gun, UCS: AA Plasma Cannon, LC: AA Rocket
+   Launcher), which do incredible amounts of damage to aircraft.
+
+   3. The ED campaign introduces an "Advancement system" which allows you
+   to gain rank (and a [56]cut-scene) upon earning a certain amount of
+   points, which are received when objectives are met in missions.
+
+   4. The shield system has been changed to even out the defense
+   capabilities of the 3 factions. The power of the shields has been
+   halved.
+
+   5. The campaign no longer revolves around sending resources to your
+   home base for the construction of an evacuation fleet. Instead, all the
+   resources on the map are added to your home base funds when you
+   successfully destroy all enemy units in the mission and return to your
+   base. Unlike the first game, which required careful conservation of
+   resources to complete a mission and the game, funds are nearly
+   unlimited on each mission.
+
+[[57]edit] External links
+
+     * [58]The Moon Project
+
+   [59]v  [60]d  [61]e
+   Earth [62]video games
+   [63]Earth 2140 ([64]Mission Pack 1 & 2)  [65]Earth 2150  Earth 2150:
+   The Moon Project  [66]Earth 2150: Lost Souls  [67]Earth 2160
+   Retrieved from
+   "[68]http://en.wikipedia.org/wiki/Earth_2150:_The_Moon_Project"
+   [69]Categories: [70]2001 video games | [71]Real-time strategy video
+   games | [72]Windows games
+
+Views
+
+     * [73]Article
+     * [74]Discussion
+     * [75]Edit this page
+     * [76]History
+
+Personal tools
+
+     * [77]Log in / create account
+
+Navigation
+
+     * [78]Main page
+     * [79]Contents
+     * [80]Featured content
+     * [81]Current events
+     * [82]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [83]About Wikipedia
+     * [84]Community portal
+     * [85]Recent changes
+     * [86]Contact Wikipedia
+     * [87]Donate to Wikipedia
+     * [88]Help
+
+Toolbox
+
+     * [89]What links here
+     * [90]Related changes
+     * [91]Upload file
+     * [92]Special pages
+     * [93]Printable version
+     * [94]Permanent link
+     * [95]Cite this page
+
+   [96]Powered by MediaWiki
+   [97]Wikimedia Foundation
+     * This page was last modified on 22 August 2008, at 12:06.
+     * All text is available under the terms of the [98]GNU Free
+       Documentation License. (See [99]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [100]Wikimedia
+       Foundation, Inc., a U.S. registered [101]501(c)(3)
+       [102]tax-deductible [103]nonprofit [104]charity.
+     * [105]Privacy policy
+     * [106]About Wikipedia
+     * [107]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Earth2150:_The_Moon_Project&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#searchInput
+   9. file://localhost/wiki/Video_game_developer
+  10. file://localhost/wiki/Zuxxez_Entertainment
+  11. file://localhost/wiki/Video_game_publisher
+  12. file://localhost/wiki/1C_Company
+  13. file://localhost/wiki/Computing_platform
+  14. file://localhost/wiki/Microsoft_Windows
+  15. file://localhost/wiki/2000_in_video_gaming
+  16. file://localhost/wiki/Video_game_genres
+  17. file://localhost/wiki/Strategy_game
+  18. file://localhost/wiki/Single_player
+  19. file://localhost/wiki/Video_game_content_rating_system
+  20. file://localhost/wiki/Entertainment_Software_Rating_Board
+  21. file://localhost/wiki/Unterhaltungssoftware_Selbstkontrolle
+  22. file://localhost/wiki/Office_of_Film_and_Literature_Classification_(Australia)
+  23. file://localhost/wiki/Digital_media
+  24. file://localhost/wiki/CD-ROM
+  25. file://localhost/wiki/Megabyte
+  26. file://localhost/wiki/Random_access_memory
+  27. file://localhost/wiki/DirectX
+  28. file://localhost/wiki/Windows_95
+  29. file://localhost/wiki/Computer_keyboard
+  30. file://localhost/wiki/Mouse_(computing)
+  31. file://localhost/wiki/Real_time_strategy
+  32. file://localhost/wiki/Earth_2150
+  33. file://localhost/wiki/Expansion_pack
+  34. file://localhost/wiki/2001
+  35. file://localhost/wiki/Strategic_Simulations,_Inc.
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#Story
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#Gameplay
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#The_Factions
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#The_game
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc720.tmp.html#External_links
+  41. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit&section=1
+  42. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit&section=2
+  43. file://localhost/wiki/Experience_points
+  44. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit&section=3
+  45. file://localhost/wiki/Robotics
+  46. file://localhost/wiki/Artificial_Intelligence
+  47. file://localhost/wiki/Mecha
+  48. file://localhost/wiki/Plasma_(physics)
+  49. file://localhost/wiki/Genghis_Khan
+  50. file://localhost/wiki/Laser
+  51. file://localhost/wiki/Ion
+  52. file://localhost/w/index.php?title=Electro-cannon&action=edit&redlink=1
+  53. file://localhost/wiki/Sonic
+  54. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit&section=4
+  55. file://localhost/wiki/Earth_2150
+  56. file://localhost/wiki/Cut-scene
+  57. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit&section=5
+  58. http://www.moon-project.com/
+  59. file://localhost/wiki/Template:Earth_series
+  60. file://localhost/wiki/Template_talk:Earth_series
+  61. http://en.wikipedia.org/w/index.php?title=Template:Earth_series&action=edit
+  62. file://localhost/wiki/Video_game
+  63. file://localhost/wiki/Earth_2140
+  64. file://localhost/wiki/Earth_2140#Expansion_packs
+  65. file://localhost/wiki/Earth_2150
+  66. file://localhost/wiki/Earth_2150:_Lost_Souls
+  67. file://localhost/wiki/Earth_2160
+  68. http://en.wikipedia.org/wiki/Earth_2150:_The_Moon_Project
+  69. file://localhost/wiki/Special:Categories
+  70. file://localhost/wiki/Category:2001_video_games
+  71. file://localhost/wiki/Category:Real-time_strategy_video_games
+  72. file://localhost/wiki/Category:Windows_games
+  73. file://localhost/wiki/Earth_2150:_The_Moon_Project
+  74. file://localhost/wiki/Talk:Earth_2150:_The_Moon_Project
+  75. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=edit
+  76. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&action=history
+  77. file://localhost/w/index.php?title=Special:UserLogin&returnto=Earth_2150:_The_Moon_Project
+  78. file://localhost/wiki/Main_Page
+  79. file://localhost/wiki/Portal:Contents
+  80. file://localhost/wiki/Portal:Featured_content
+  81. file://localhost/wiki/Portal:Current_events
+  82. file://localhost/wiki/Special:Random
+  83. file://localhost/wiki/Wikipedia:About
+  84. file://localhost/wiki/Wikipedia:Community_portal
+  85. file://localhost/wiki/Special:RecentChanges
+  86. file://localhost/wiki/Wikipedia:Contact_us
+  87. http://wikimediafoundation.org/wiki/Donate
+  88. file://localhost/wiki/Help:Contents
+  89. file://localhost/wiki/Special:WhatLinksHere/Earth_2150:_The_Moon_Project
+  90. file://localhost/wiki/Special:RecentChangesLinked/Earth_2150:_The_Moon_Project
+  91. file://localhost/wiki/Wikipedia:Upload
+  92. file://localhost/wiki/Special:SpecialPages
+  93. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&printable=yes
+  94. file://localhost/w/index.php?title=Earth_2150:_The_Moon_Project&oldid=233521849
+  95. file://localhost/w/index.php?title=Special:Cite&page=Earth_2150:_The_Moon_Project&id=233521849
+  96. http://www.mediawiki.org/
+  97. http://wikimediafoundation.org/
+  98. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  99. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 100. http://www.wikimediafoundation.org/
+ 101. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 102. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 103. http://en.wikipedia.org/wiki/Non-profit_organization
+ 104. http://en.wikipedia.org/wiki/Charitable_organization
+ 105. http://wikimediafoundation.org/wiki/Privacy_policy
+ 106. file://localhost/wiki/Wikipedia:About
+ 107. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 108. file://localhost/wiki/File:Earth2150MP_BA_Gamershell.jpg
+ 109. file://localhost/wiki/Main_Page

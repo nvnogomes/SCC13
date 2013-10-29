@@ -1,0 +1,38 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Document-based question
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Document Based Query)
+   Jump to: [7]navigation, [8]search
+   This article does not [9]cite any [10]references or sources. Please
+   help [11]improve this article by adding citations to [12]reliable
+   sources. [13]Unverifiable material may be challenged and removed.
+   (December 2008)
+   This article is part of the
+   [14]Advanced Placement Program series.
+   [15]General exam structure
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Document-based_question&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Document_Based_Query&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc97.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc97.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:Verifiability
+  11. http://en.wikipedia.org/w/index.php?title=Document-based_question&action=edit
+  12. file://localhost/wiki/Wikipedia:Reliable_sources
+  13. file://localhost/wiki/Wikipedia:Verifiability
+  14. file://localhost/wiki/Advanced_Placement_Program
+  15. file://localhost/wiki/Advanced_Placement_Exams
+
+   Hidden links:
+  16. file://localhost/wiki/File:Question_book-new.svg

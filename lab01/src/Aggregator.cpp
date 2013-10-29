@@ -39,11 +39,15 @@ Aggregator::~Aggregator(){}
 
 
 /**
+ * Ready for thread reference.
+ *  Add pointer to function.
+ *  Remove function from header.
+ *
  * @brief merge
  * @param file
  * @return
  */
-void *merge(void *file) {
+void Aggregator::merge(void *file) {
 
     struct Files *f = (struct Files *) file;
 
@@ -90,22 +94,14 @@ void Aggregator::merge_cycle(std::vector<std::string> file_list) {
         is_odd = true;
     }
 
-    int num_threads = files_left / 2;
-    int thread_counter = 0;
-    pthread_t thread[ num_threads ];
-
     for(int i = 0; i < files_left; i+= 2) {
         struct Files indexes;
         indexes.base = file_list[i];
         indexes.append = file_list[i+1];
-        pthread_create(&thread[thread_counter], NULL, merge, (void*)&indexes);
-        files_remaining.push_back(file_list[i]);
-        thread_counter++;
-    }
 
-    void *status;
-    for(int i = 0; i < num_threads; i++) {
-        pthread_join(thread[i], &status);
+        this->merge( (void*) &indexes);
+
+        files_remaining.push_back(file_list[i]);
     }
 
     if( is_odd ) {
@@ -132,8 +128,6 @@ std::vector<std::string> Aggregator::list_directory() {
     DIR *search_directory;
     struct dirent *entry;
     std::vector<std::string> list;
-
-    list.push_back( this->directory_ +""+ GLOBAL_INDEX_FILE );
 
     search_directory = opendir( this->directory_.c_str() );
 
@@ -173,13 +167,14 @@ void Aggregator::cleanup_directory(std::vector<std::string> files) {
 
     std::vector<std::string>::iterator it = files.begin();
 
-    std::cout << it->c_str() << " " << ((std::string)GLOBAL_INDEX_FILE).c_str() << std::endl;
-//    rename( files[0].c_str(), ((std::string)GLOBAL_INDEX_FILE).c_str() );
+    std::string old_name = this->directory_ +""+ *it;
+    std::string new_name = this->directory_ +""+ (std::string)GLOBAL_INDEX_FILE;
+    rename( old_name.c_str(), new_name.c_str() );
 
     it++;
-//    for(; it != files.end(); it++) {
-//        remove( it->c_str() );
-//    }
+    for(; it != files.end(); it++) {
+        remove( it->c_str() );
+    }
 
 }
 

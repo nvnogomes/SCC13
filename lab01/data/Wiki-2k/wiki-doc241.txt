@@ -1,0 +1,248 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Doron Zeilberger
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   Photograph of Doron Zeilberger wearing a T-shirt with a
+   [8]Hypergeometric identity at its forefront.
+
+   Doron Zeilberger ( , born [9]July 2, [10]1950 in [11]Israel) is an
+   [12]Israeli mathematician, known for his work in [13]combinatorics.
+
+   He is a Board of Governors Professor of Mathematics at [14]Rutgers
+   University.^[15][1] He received his doctorate from the [16]Weizmann
+   Institute of Science in [17]1976, under the direction of [18]Harry Dym.
+
+   Zeilberger has made numerous important contributions to combinatorics,
+   [19]hypergeometric identities, and [20]q-series. Zeilberger gave the
+   first proof of the [21]alternating sign matrix conjecture, noteworthy
+   not only for its mathematical content, but also for the fact that
+   Zeilberger recruited nearly a hundred volunteer checkers to
+   "pre-referee" the paper. Together with [22]Herbert Wilf, Zeilberger was
+   awarded the [23]American Mathematical Society's [24]Leroy P. Steele
+   Prize for Seminal Contributions to Research in [25]1998 for their
+   development of [26]WZ theory, which has revolutionized the field of
+   hypergeometric summation. In 2004, Zeilberger was awarded the [27]Euler
+   Medal; the [28]citation refers to him as "a champion of using computers
+   and algorithms to do mathematics quickly and efficiently."
+
+   Zeilberger considers himself a [29]ultrafinitist^[30][2]. He is also
+   known for crediting his computer "[31]Shalosh B. Ekhad" as a co-author
+   ("Shalosh" and "Ekhad" mean "Three" and "One" in Hebrew respectively,
+   referring to the [32]AT&T [33]3B1 model), and for his provocative
+   [34]opinions, some of which are:
+     * [35]"People who believe that applied math is bad math are bad
+       mathematicians"
+     * [36]"Guess what? Programming is even more fun than proving, and,
+       more importantly it gives as much, if not more, insight and
+       understanding"
+     * [37]"Frank Quinn's rigor is not as rigorous as he thinks"
+     * [38]"Still like that old-time blackboard talk"
+
+[[39]edit] References
+
+    1. [40]^ [41]Rutgers Focus, 15 December 2000
+    2. [42]^ [[43]An Enquiry Concerning Human (and Computer!)
+       (Mathematical) Understanding
+
+[[44]edit] External links
+
+     * [45]Doron Zeilberger's homepage
+     * [46]Biography from [47]ScienceWorld
+     * [48]Eric W. Weisstein, [49]Zeilberger's Algorithm at [50]MathWorld.
+     * [51]Eric W. Weisstein, [52]Wilf-Zeilberger Pair at [53]MathWorld.
+     * [54]Eric W. Weisstein, [55]Alternating Sign Matrix Conjecture at
+       [56]MathWorld.
+     * [57]Eric W. Weisstein, [58]Refined Alternating Sign Matrix
+       Conjecture at [59]MathWorld.
+     * [60]Eric W. Weisstein, [61]Zeilberger-Bressoud Theorem at
+       [62]MathWorld.
+     * [63]Doron Zeilberger at the [64]Mathematics Genealogy Project
+
+   Retrieved from "[65]http://en.wikipedia.org/wiki/Doron_Zeilberger"
+   [66]Categories: [67]1950 births | [68]Living people | [69]Israeli
+   mathematicians | [70]Jewish scientists | [71]20th-century
+   mathematicians | [72]21st-century mathematicians | [73]Combinatorists |
+   [74]Rutgers University faculty
+
+Views
+
+     * [75]Article
+     * [76]Discussion
+     * [77]Edit this page
+     * [78]History
+
+Personal tools
+
+     * [79]Log in / create account
+
+Navigation
+
+     * [80]Main page
+     * [81]Contents
+     * [82]Featured content
+     * [83]Current events
+     * [84]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [85]About Wikipedia
+     * [86]Community portal
+     * [87]Recent changes
+     * [88]Contact Wikipedia
+     * [89]Donate to Wikipedia
+     * [90]Help
+
+Toolbox
+
+     * [91]What links here
+     * [92]Related changes
+     * [93]Upload file
+     * [94]Special pages
+     * [95]Printable version
+     * [96]Permanent link
+     * [97]Cite this page
+
+Languages
+
+     * [98]Deutsch
+     * [99]Franais
+
+   [100]Powered by MediaWiki
+   [101]Wikimedia Foundation
+     * This page was last modified on 7 February 2009, at 23:50.
+     * All text is available under the terms of the [102]GNU Free
+       Documentation License. (See [103]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [104]Wikimedia
+       Foundation, Inc., a U.S. registered [105]501(c)(3)
+       [106]tax-deductible [107]nonprofit [108]charity.
+     * [109]Privacy policy
+     * [110]About Wikipedia
+     * [111]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Doron_Zeilberger&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#searchInput
+   8. file://localhost/wiki/Hypergeometric_identity
+   9. file://localhost/wiki/July_2
+  10. file://localhost/wiki/1950
+  11. file://localhost/wiki/Israel
+  12. file://localhost/wiki/Israelis
+  13. file://localhost/wiki/Combinatorics
+  14. file://localhost/wiki/Rutgers_University
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#cite_note-0
+  16. file://localhost/wiki/Weizmann_Institute_of_Science
+  17. file://localhost/wiki/1976
+  18. file://localhost/wiki/Harry_Dym
+  19. file://localhost/wiki/Hypergeometric_identities
+  20. file://localhost/wiki/Q-series
+  21. file://localhost/wiki/Alternating_sign_matrix_conjecture
+  22. file://localhost/wiki/Herbert_Wilf
+  23. file://localhost/wiki/American_Mathematical_Society
+  24. file://localhost/wiki/Leroy_P._Steele_Prize
+  25. file://localhost/wiki/1998
+  26. file://localhost/wiki/WZ_theory
+  27. file://localhost/wiki/Euler_Medal
+  28. http://www.math.rutgers.edu/~zeilberg/EulerMedalCitation.html
+  29. file://localhost/wiki/Ultrafinitism
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#cite_note-1
+  31. http://www.math.rutgers.edu/~zeilberg/ekhad.html
+  32. file://localhost/wiki/AT%26T
+  33. file://localhost/wiki/3b1
+  34. http://www.math.rutgers.edu/~zeilberg/OPINIONS.html
+  35. http://www.math.rutgers.edu/~zeilberg/Opinion2.html
+  36. http://www.math.rutgers.edu/~zeilberg/Opinion37.html
+  37. http://www.math.rutgers.edu/~zeilberg/Opinion53.html
+  38. http://www.math.rutgers.edu/~zeilberg/Opinion60.html
+  39. file://localhost/w/index.php?title=Doron_Zeilberger&action=edit&section=1
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#cite_ref-0
+  41. http://ur.rutgers.edu/focus/article/At%20the%20board/396/
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc241.tmp.html#cite_ref-1
+  43. http://www.math.rutgers.edu/~zeilberg/mamarim/mamarimhtml/enquiry.html
+  44. file://localhost/w/index.php?title=Doron_Zeilberger&action=edit&section=2
+  45. http://www.math.rutgers.edu/~zeilberg/
+  46. http://scienceworld.wolfram.com/biography/Zeilberger.html
+  47. file://localhost/wiki/ScienceWorld
+  48. file://localhost/wiki/Eric_W._Weisstein
+  49. http://mathworld.wolfram.com/ZeilbergersAlgorithm.html
+  50. file://localhost/wiki/MathWorld
+  51. file://localhost/wiki/Eric_W._Weisstein
+  52. http://mathworld.wolfram.com/Wilf-ZeilbergerPair.html
+  53. file://localhost/wiki/MathWorld
+  54. file://localhost/wiki/Eric_W._Weisstein
+  55. http://mathworld.wolfram.com/AlternatingSignMatrixConjecture.html
+  56. file://localhost/wiki/MathWorld
+  57. file://localhost/wiki/Eric_W._Weisstein
+  58. http://mathworld.wolfram.com/RefinedAlternatingSignMatrixConjecture.html
+  59. file://localhost/wiki/MathWorld
+  60. file://localhost/wiki/Eric_W._Weisstein
+  61. http://mathworld.wolfram.com/Zeilberger-BressoudTheorem.html
+  62. file://localhost/wiki/MathWorld
+  63. http://genealogy.math.ndsu.nodak.edu/id.php?id=19205
+  64. file://localhost/wiki/Mathematics_Genealogy_Project
+  65. http://en.wikipedia.org/wiki/Doron_Zeilberger
+  66. file://localhost/wiki/Special:Categories
+  67. file://localhost/wiki/Category:1950_births
+  68. file://localhost/wiki/Category:Living_people
+  69. file://localhost/wiki/Category:Israeli_mathematicians
+  70. file://localhost/wiki/Category:Jewish_scientists
+  71. file://localhost/wiki/Category:20th-century_mathematicians
+  72. file://localhost/wiki/Category:21st-century_mathematicians
+  73. file://localhost/wiki/Category:Combinatorists
+  74. file://localhost/wiki/Category:Rutgers_University_faculty
+  75. file://localhost/wiki/Doron_Zeilberger
+  76. file://localhost/wiki/Talk:Doron_Zeilberger
+  77. file://localhost/w/index.php?title=Doron_Zeilberger&action=edit
+  78. file://localhost/w/index.php?title=Doron_Zeilberger&action=history
+  79. file://localhost/w/index.php?title=Special:UserLogin&returnto=Doron_Zeilberger
+  80. file://localhost/wiki/Main_Page
+  81. file://localhost/wiki/Portal:Contents
+  82. file://localhost/wiki/Portal:Featured_content
+  83. file://localhost/wiki/Portal:Current_events
+  84. file://localhost/wiki/Special:Random
+  85. file://localhost/wiki/Wikipedia:About
+  86. file://localhost/wiki/Wikipedia:Community_portal
+  87. file://localhost/wiki/Special:RecentChanges
+  88. file://localhost/wiki/Wikipedia:Contact_us
+  89. http://wikimediafoundation.org/wiki/Donate
+  90. file://localhost/wiki/Help:Contents
+  91. file://localhost/wiki/Special:WhatLinksHere/Doron_Zeilberger
+  92. file://localhost/wiki/Special:RecentChangesLinked/Doron_Zeilberger
+  93. file://localhost/wiki/Wikipedia:Upload
+  94. file://localhost/wiki/Special:SpecialPages
+  95. file://localhost/w/index.php?title=Doron_Zeilberger&printable=yes
+  96. file://localhost/w/index.php?title=Doron_Zeilberger&oldid=269222683
+  97. file://localhost/w/index.php?title=Special:Cite&page=Doron_Zeilberger&id=269222683
+  98. http://de.wikipedia.org/wiki/Doron_Zeilberger
+  99. http://fr.wikipedia.org/wiki/Doron_Zeilberger
+ 100. http://www.mediawiki.org/
+ 101. http://wikimediafoundation.org/
+ 102. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 103. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 104. http://www.wikimediafoundation.org/
+ 105. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 106. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 107. http://en.wikipedia.org/wiki/Non-profit_organization
+ 108. http://en.wikipedia.org/wiki/Charitable_organization
+ 109. http://wikimediafoundation.org/wiki/Privacy_policy
+ 110. file://localhost/wiki/Wikipedia:About
+ 111. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 112. file://localhost/wiki/File:Zeilberger.jpg
+ 113. file://localhost/wiki/File:Zeilberger.jpg
+ 114. file://localhost/wiki/Main_Page

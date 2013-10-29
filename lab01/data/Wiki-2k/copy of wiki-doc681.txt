@@ -1,0 +1,237 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+E-operad
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]E infinity operad)
+   Jump to: [7]navigation, [8]search
+   The correct title of this article is E[]-operad. It features
+   [9]superscript or [10]subscript characters that are substituted or
+   omitted because of [11]technical limitations.
+
+   In the theory of [12]operads in [13]algebra and [14]algebraic topology,
+   an E[]-operad is a parameter space for a multiplication map that is
+   [15]associative and [16]commutative "up to all higher [17]homotopies.
+   (An operad that describes a multiplication that is associative but not
+   necessarily commutative "up to homotopy" is called an [18]A[]-operad.)
+
+Contents
+
+     * [19]1 Definition
+     * [20]2 E[n]-operads and n-fold loop spaces
+     * [21]3 Examples
+     * [22]4 See also
+     * [23]5 References
+
+[[24]edit] Definition
+
+   For the definition, it is necessary to work in the category of operads
+   with an action of the symmetric group. An operad A is said to be an
+   E[]-operad if all of its spaces E(n) are contractible; some authors
+   also require the action of the symmetric group [n] on E(n) to be free.
+   In other [25]categories than topological spaces, the notion of
+   contractibility has to be replaced by suitable analogs, such as
+   [26]acyclicity in the category of [27]chain complexes.
+
+[[28]edit] E[n]-operads and n-fold loop spaces
+
+   The letter E in the terminology stands for "everything" (meaning
+   associative and commutative), and the infinity symbols says that
+   commutativity is required up to "all" higher homotopies. More
+   generally, there is a weaker notion of E[n]-operad (n N), parametrizing
+   multiplications that are commutative only up to a certain level of
+   homotopies. In particular,
+     * E[1]-spaces are [29]A[]-spaces;
+     * E[2]-spaces are homotopy commutative A[]-spaces.
+
+   The importance of E[n]- and E[]-operads in topology stems from the fact
+   that iterated [30]loop spaces, that is, spaces of continuous maps from
+   an n-dimensional sphere to another space X starting and ending at a
+   fixed base point, constitute algebras over an E[n]-operad. (One says
+   they are E[n]-spaces.) Conversely, any connected E[n]-space X is an
+   n-fold loop space on some other space (called B^nX, the n-fold
+   [31]classifying space of X).
+
+[[32]edit] Examples
+
+   The most obvious, if not particularly useful, example of an E[]-operad
+   is the commutative operad c given by c(n) = *, a point, for all n. Note
+   that according to some authors, this is not really an []-operad because
+   the [n]-action is not free. This operad describes strictly associative
+   and commutative multiplications. By definition, any other E[]-operad
+   has a map to c which is a homotopy equivalence.
+
+   The operad of little n-cubes or little n-disks is an example of an
+   E[n]-operad that acts naturally on n-fold loop spaces.
+
+[[33]edit] See also
+
+     * [34]operad
+     * [35]A-infinity operad
+     * [36]loop space
+
+[[37]edit] References
+
+     * Stasheff, Jim (June/July 2004). "[38]What Is...an Operad?"
+       ([39]PDF). [40]Notices of the American Mathematical Society 51 (6):
+       pp.630631. [41]http://www.ams.org/notices/200406/what-is.pdf.
+       Retrieved on 2008-01-17.
+
+     * J. P. May (1972). [42]The Geometry of Iterated Loop Spaces.
+       Springer-Verlag.
+       [43]http://www.math.uchicago.edu/~may/BOOKSMaster.html.
+
+     * Martin Markl, Steve Shnider, Jim Stasheff (2002). [44]Operads in
+       Algebra, Topology and Physics. American Mathematical Society.
+       [45]http://www.ams.org/bookstore?fn=20&arg1=survseries&item=SURV-96
+       .
+
+   Retrieved from "[46]http://en.wikipedia.org/wiki/E%E2%88%9E-operad"
+   [47]Categories: [48]Abstract algebra | [49]Algebraic topology
+
+Views
+
+     * [50]Article
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * [54]Log in / create account
+
+Navigation
+
+     * [55]Main page
+     * [56]Contents
+     * [57]Featured content
+     * [58]Current events
+     * [59]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [60]About Wikipedia
+     * [61]Community portal
+     * [62]Recent changes
+     * [63]Contact Wikipedia
+     * [64]Donate to Wikipedia
+     * [65]Help
+
+Toolbox
+
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Printable version
+     * [71]Permanent link
+     * [72]Cite this page
+
+   [73]Powered by MediaWiki
+   [74]Wikimedia Foundation
+     * This page was last modified on 10 June 2008, at 14:37.
+     * All text is available under the terms of the [75]GNU Free
+       Documentation License. (See [76]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [77]Wikimedia
+       Foundation, Inc., a U.S. registered [78]501(c)(3)
+       [79]tax-deductible [80]nonprofit [81]charity.
+     * [82]Privacy policy
+     * [83]About Wikipedia
+     * [84]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=E%E2%88%9E-operad&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=E_infinity_operad&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#searchInput
+   9. file://localhost/wiki/Superscript
+  10. file://localhost/wiki/Subscript
+  11. file://localhost/wiki/Wikipedia:Naming_conventions_(technical_restrictions)#Subscripts_and_superscripts
+  12. file://localhost/wiki/Operads
+  13. file://localhost/wiki/Algebra
+  14. file://localhost/wiki/Algebraic_topology
+  15. file://localhost/wiki/Associative
+  16. file://localhost/wiki/Commutative
+  17. file://localhost/wiki/Homotopy
+  18. file://localhost/wiki/A-infinity_operad
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#Definition
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#En-operads_and_n-fold_loop_spaces
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#Examples
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#See_also
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc681.tmp.html#References
+  24. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit&section=1
+  25. file://localhost/wiki/Category
+  26. file://localhost/wiki/Acyclic
+  27. file://localhost/wiki/Chain_complexes
+  28. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit&section=2
+  29. file://localhost/wiki/A-infinity_operad
+  30. file://localhost/wiki/Loop_space
+  31. file://localhost/wiki/Classifying_space
+  32. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit&section=3
+  33. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit&section=4
+  34. file://localhost/wiki/Operad
+  35. file://localhost/wiki/A-infinity_operad
+  36. file://localhost/wiki/Loop_space
+  37. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit&section=5
+  38. http://www.ams.org/notices/200406/what-is.pdf
+  39. file://localhost/wiki/PDF
+  40. file://localhost/wiki/Notices_of_the_American_Mathematical_Society
+  41. http://www.ams.org/notices/200406/what-is.pdf
+  42. http://www.math.uchicago.edu/~may/BOOKSMaster.html
+  43. http://www.math.uchicago.edu/~may/BOOKSMaster.html
+  44. http://www.ams.org/bookstore?fn=20&arg1=survseries&item=SURV-96
+  45. http://www.ams.org/bookstore?fn=20&arg1=survseries&item=SURV-96
+  46. http://en.wikipedia.org/wiki/E%E2%88%9E-operad
+  47. file://localhost/wiki/Special:Categories
+  48. file://localhost/wiki/Category:Abstract_algebra
+  49. file://localhost/wiki/Category:Algebraic_topology
+  50. file://localhost/wiki/E%E2%88%9E-operad
+  51. file://localhost/w/index.php?title=Talk:E%E2%88%9E-operad&action=edit&redlink=1
+  52. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=edit
+  53. file://localhost/w/index.php?title=E%E2%88%9E-operad&action=history
+  54. file://localhost/w/index.php?title=Special:UserLogin&returnto=E%E2%88%9E-operad
+  55. file://localhost/wiki/Main_Page
+  56. file://localhost/wiki/Portal:Contents
+  57. file://localhost/wiki/Portal:Featured_content
+  58. file://localhost/wiki/Portal:Current_events
+  59. file://localhost/wiki/Special:Random
+  60. file://localhost/wiki/Wikipedia:About
+  61. file://localhost/wiki/Wikipedia:Community_portal
+  62. file://localhost/wiki/Special:RecentChanges
+  63. file://localhost/wiki/Wikipedia:Contact_us
+  64. http://wikimediafoundation.org/wiki/Donate
+  65. file://localhost/wiki/Help:Contents
+  66. file://localhost/wiki/Special:WhatLinksHere/E%E2%88%9E-operad
+  67. file://localhost/wiki/Special:RecentChangesLinked/E%E2%88%9E-operad
+  68. file://localhost/wiki/Wikipedia:Upload
+  69. file://localhost/wiki/Special:SpecialPages
+  70. file://localhost/w/index.php?title=E%E2%88%9E-operad&printable=yes
+  71. file://localhost/w/index.php?title=E%E2%88%9E-operad&oldid=218405860
+  72. file://localhost/w/index.php?title=Special:Cite&page=E%E2%88%9E-operad&id=218405860
+  73. http://www.mediawiki.org/
+  74. http://wikimediafoundation.org/
+  75. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  76. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  77. http://www.wikimediafoundation.org/
+  78. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  79. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  80. http://en.wikipedia.org/wiki/Non-profit_organization
+  81. http://en.wikipedia.org/wiki/Charitable_organization
+  82. http://wikimediafoundation.org/wiki/Privacy_policy
+  83. file://localhost/wiki/Wikipedia:About
+  84. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  85. file://localhost/wiki/Main_Page

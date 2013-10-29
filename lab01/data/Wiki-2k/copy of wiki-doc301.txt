@@ -1,0 +1,345 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Downregulation and upregulation
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Down-regulate)
+   Jump to: [7]navigation, [8]search
+
+   Downregulation is the process by which a [9]cell decreases the quantity
+   of a cellular component, such as RNA or protein, in response to an
+   external variable. An increase of a cellular component is called
+   upregulation.
+
+   An example of downregulation is the cellular decrease in the number of
+   [10]receptors to a molecule, such as a [11]hormone or
+   [12]neurotransmitter, which reduces the cell's sensitivity to the
+   molecule. This phenomenon is an example of a locally acting
+   [13]negative feedback mechanism.
+
+   An example of upregulation is the increased number of [14]cytochrome
+   P450 enzymes in liver cells when xenobiotic molecules, such as
+   [15]dioxin, are detected, which results in degradation of the
+   molecules.
+
+Contents
+
+     * [16]1 Receptor downregulation
+          + [17]1.1 Mechanism
+          + [18]1.2 Cases
+          + [19]1.3 Reversal
+     * [20]2 See also
+     * [21]3 References
+     * [22]4 External links
+
+[[23]edit] Receptor downregulation
+
+[[24]edit] Mechanism
+
+   The process of downregulation occurs when there are elevated levels of
+   the hormone [25]insulin in the blood. When insulin binds to its
+   receptors on the surface of a cell, the hormone receptor complex
+   undergoes [26]endocytosis and is subsequently attacked by intracellular
+   [27]lysosomal [28]enzymes. The internalization of the insulin molecules
+   provides a pathway for degradation of the hormone as well as for
+   regulation of the number of sites that are available for binding on the
+   cells surface. At high plasma concentrations, the number of surface
+   receptors for insulin is gradually reduced by the accelerated rate of
+   receptor internalization and degradation brought about by increased
+   hormonal binding. The rate of [29]synthesis of new receptors within the
+   [30]endoplasmic reticulum and their insertion in the plasma membrane do
+   not keep pace with their rate of destruction. Over time, this
+   self-induced loss of target cell receptors for insulin reduces the
+   target cells sensitivity to the elevated hormone concentration. The
+   process of decreasing the number of receptor sites is virtually the
+   same for all hormones; it varies only in the receptor hormone complex.
+
+[[31]edit] Cases
+
+   This process is illustrated by the insulin receptor sites on [32]target
+   cells in a person with type 2 [33]diabetes. Due to the elevated levels
+   of blood [34]glucose in an overweight individual, the [35]-cells
+   ([36]islets of Langerhans) in the [37]pancreas must release more
+   insulin than normal to meet the demand and return the blood to
+   [38]homeostatic levels. The near-constant increase in blood insulin
+   levels results from an effort to match the increase in blood glucose,
+   which will cause receptor sites on the liver cells to downregulate and
+   decrease the number of receptors for insulin, increasing the subjects
+   resistance by decreasing sensitivity to this hormone. There is also a
+   hepatic decrease in sensitivity to [39]insulin. This can be seen in the
+   continuing [40]gluconeogenesis in the liver even when blood glucose
+   levels are elevated. This is the more common process of [41]insulin
+   resistance, which leads to adult-onset diabetes.
+
+   Another example can be seen in [42]diabetes insipidus, in which the
+   kidneys become insensitive to [43]arginine vasopressin.
+
+[[44]edit] Reversal
+
+   The process of downregulation can be counteracted in the above example.
+   A person with type 2 diabetes can increase their sensitivity to insulin
+   through proper diet and regular exercise, resulting in weight loss;
+   some individuals may even return to their pre-diabetic state by
+   following such a regimen.
+
+[[45]edit] See also
+
+     * [46]Regulation of gene expression
+     * [47]Desensitization (medicine)
+
+[[48]edit] References
+
+   Sherwood, L. (2004). Human Physiology From Cells to Systems, 5th Ed (p.
+   680). Belmont, CA: Brooks/Cole-Thomson Learning
+
+   Wilmore, J., Costill, D. (2004). Physiology of Sport and Exercise, 3rd
+   Ed (p. 164). Champaign, IL: Human Kinetics
+
+[[49]edit] External links
+
+     * [50]MeSH [51]Down-Regulation
+
+    This [52]biochemistry article is a [53]stub. You can help Wikipedia by
+   [54]expanding it.
+   [55]v  [56]d  [57]e
+   [58]Molecular Biology
+   [59]Central Dogma
+   [60]DNA Replication ([61]DNA), [62]Transcription ([63]RNA) -
+   [64]Translation ([65]protein)
+   [66]gene regulation
+   [67]Epigenetic  [68]genetic  [69]post-transcriptional
+   [70]post-translational regulation
+   other key concepts
+   [71]mitosis  [72]cell signalling  [73]Post-transcriptional modification
+   and [74]Post-translational modification  [75]Dry Lab/[76]Wet lab
+   [77]Development  [78]History of molecular biology
+   genetic elements
+   [79]Promoter ([80]Pribnow box, [81]TATA box)  [82]Operon ([83]gal
+   operon, [84]lac operon, [85]trp operon)  [86]Terminator  [87]Enhancer
+   [88]Repressor ([89]lac repressor, [90]trp repressor)  [91]Silencer
+   [92]Histone methylation
+   Techniques
+   [93]Cell culture  [94]model organisms (such as [95]C57BL/6 mice)
+   [96]Nucleic acid methods  [97]Protein methods
+   High-throughput ([98]-omics)Techniques
+   [99]DNA microarray  [100]Mass spectrometry  [101]Lab-on-a-chip
+   Linked Life science disciplines
+   [102]Cell Biology  [103]Biochemistry  [104]Computational Biology
+   Glossary
+   [105]gene expression terms  [106]Academic rank
+   Retrieved from
+   "[107]http://en.wikipedia.org/wiki/Downregulation_and_upregulation"
+   [108]Category: [109]Biochemistry stubs
+
+Views
+
+     * [110]Article
+     * [111]Discussion
+     * [112]Edit this page
+     * [113]History
+
+Personal tools
+
+     * [114]Log in / create account
+
+Navigation
+
+     * [115]Main page
+     * [116]Contents
+     * [117]Featured content
+     * [118]Current events
+     * [119]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [120]About Wikipedia
+     * [121]Community portal
+     * [122]Recent changes
+     * [123]Contact Wikipedia
+     * [124]Donate to Wikipedia
+     * [125]Help
+
+Toolbox
+
+     * [126]What links here
+     * [127]Related changes
+     * [128]Upload file
+     * [129]Special pages
+     * [130]Printable version
+     * [131]Permanent link
+     * [132]Cite this page
+
+Languages
+
+     * [133]Italiano
+
+   [134]Powered by MediaWiki
+   [135]Wikimedia Foundation
+     * This page was last modified on 19 February 2009, at 18:14.
+     * All text is available under the terms of the [136]GNU Free
+       Documentation License. (See [137]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [138]Wikimedia
+       Foundation, Inc., a U.S. registered [139]501(c)(3)
+       [140]tax-deductible [141]nonprofit [142]charity.
+     * [143]Privacy policy
+     * [144]About Wikipedia
+     * [145]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Downregulation_and_upregulation&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Down-regulate&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#searchInput
+   9. file://localhost/wiki/Cell_(biology)
+  10. file://localhost/wiki/Receptor_(biochemistry)
+  11. file://localhost/wiki/Hormone
+  12. file://localhost/wiki/Neurotransmitter
+  13. file://localhost/wiki/Negative_feedback
+  14. file://localhost/wiki/Cytochrome_P450
+  15. file://localhost/wiki/Dioxin
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#Receptor_downregulation
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#Mechanism
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#Cases
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#Reversal
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#See_also
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#References
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc301.tmp.html#External_links
+  23. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=1
+  24. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=2
+  25. file://localhost/wiki/Insulin
+  26. file://localhost/wiki/Endocytosis
+  27. file://localhost/wiki/Lysosomal
+  28. file://localhost/wiki/Enzymes
+  29. file://localhost/wiki/Synthesis
+  30. file://localhost/wiki/Endoplasmic_reticulum
+  31. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=3
+  32. file://localhost/wiki/Target_cell
+  33. file://localhost/wiki/Diabetes
+  34. file://localhost/wiki/Glucose
+  35. file://localhost/wiki/Beta_cell
+  36. file://localhost/wiki/Islets_of_Langerhans
+  37. file://localhost/wiki/Pancreas
+  38. file://localhost/wiki/Homeostatic
+  39. file://localhost/wiki/Insulin
+  40. file://localhost/wiki/Gluconeogenesis
+  41. file://localhost/wiki/Insulin_resistance
+  42. file://localhost/wiki/Diabetes_insipidus
+  43. file://localhost/wiki/Arginine_vasopressin
+  44. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=4
+  45. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=5
+  46. file://localhost/wiki/Regulation_of_gene_expression
+  47. file://localhost/wiki/Desensitization_(medicine)
+  48. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=6
+  49. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit&section=7
+  50. file://localhost/wiki/Medical_Subject_Headings
+  51. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?mode=&term=Down-Regulation
+  52. file://localhost/wiki/Biochemistry
+  53. file://localhost/wiki/Wikipedia:Stub
+  54. http://en.wikipedia.org/w/index.php?stub&title=Downregulation_and_upregulation&action=edit
+  55. file://localhost/wiki/Template:Molecular_Biology
+  56. file://localhost/wiki/Template_talk:Molecular_Biology
+  57. http://en.wikipedia.org/w/index.php?title=Template:Molecular_Biology&action=edit
+  58. file://localhost/wiki/Molecular_Biology
+  59. file://localhost/wiki/Central_dogma_of_molecular_biology
+  60. file://localhost/wiki/DNA_Replication
+  61. file://localhost/wiki/DNA
+  62. file://localhost/wiki/Transcription_(genetics)
+  63. file://localhost/wiki/RNA
+  64. file://localhost/wiki/Translation_(biology)
+  65. file://localhost/wiki/Protein
+  66. file://localhost/wiki/Regulation_of_gene_expression
+  67. file://localhost/wiki/Epigenetics
+  68. file://localhost/wiki/Gene_regulation
+  69. file://localhost/wiki/Post-transcriptional_regulation
+  70. file://localhost/wiki/Post-translational_regulation
+  71. file://localhost/wiki/Mitosis
+  72. file://localhost/wiki/Cell_signalling
+  73. file://localhost/wiki/Post-transcriptional_modification
+  74. file://localhost/wiki/Post-translational_modification
+  75. file://localhost/wiki/Dry_Lab
+  76. file://localhost/wiki/Wet_lab
+  77. file://localhost/wiki/Developmental_biology
+  78. file://localhost/wiki/History_of_molecular_biology
+  79. file://localhost/wiki/Promoter
+  80. file://localhost/wiki/Pribnow_box
+  81. file://localhost/wiki/TATA_box
+  82. file://localhost/wiki/Operon
+  83. file://localhost/wiki/Gal_operon
+  84. file://localhost/wiki/Lac_operon
+  85. file://localhost/wiki/Trp_operon
+  86. file://localhost/wiki/Terminator_(genetics)
+  87. file://localhost/wiki/Enhancer_(genetics)
+  88. file://localhost/wiki/Repressor
+  89. file://localhost/wiki/Lac_repressor
+  90. file://localhost/wiki/Trp_repressor
+  91. file://localhost/wiki/Silencer_(DNA)
+  92. file://localhost/wiki/Histone_methylation
+  93. file://localhost/wiki/Cell_culture
+  94. file://localhost/wiki/Model_organisms
+  95. file://localhost/wiki/C57BL/6
+  96. file://localhost/wiki/Nucleic_acid_methods
+  97. file://localhost/wiki/Protein_methods
+  98. file://localhost/wiki/-omics
+  99. file://localhost/wiki/DNA_microarray
+ 100. file://localhost/wiki/Mass_spectrometry
+ 101. file://localhost/wiki/Lab-on-a-chip
+ 102. file://localhost/wiki/Cell_Biology
+ 103. file://localhost/wiki/Biochemistry
+ 104. file://localhost/wiki/Computational_Biology
+ 105. file://localhost/wiki/Glossary_of_gene_expression_terms
+ 106. file://localhost/wiki/Academic_rank
+ 107. http://en.wikipedia.org/wiki/Downregulation_and_upregulation
+ 108. file://localhost/wiki/Special:Categories
+ 109. file://localhost/wiki/Category:Biochemistry_stubs
+ 110. file://localhost/wiki/Downregulation_and_upregulation
+ 111. file://localhost/wiki/Talk:Downregulation_and_upregulation
+ 112. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=edit
+ 113. file://localhost/w/index.php?title=Downregulation_and_upregulation&action=history
+ 114. file://localhost/w/index.php?title=Special:UserLogin&returnto=Downregulation_and_upregulation
+ 115. file://localhost/wiki/Main_Page
+ 116. file://localhost/wiki/Portal:Contents
+ 117. file://localhost/wiki/Portal:Featured_content
+ 118. file://localhost/wiki/Portal:Current_events
+ 119. file://localhost/wiki/Special:Random
+ 120. file://localhost/wiki/Wikipedia:About
+ 121. file://localhost/wiki/Wikipedia:Community_portal
+ 122. file://localhost/wiki/Special:RecentChanges
+ 123. file://localhost/wiki/Wikipedia:Contact_us
+ 124. http://wikimediafoundation.org/wiki/Donate
+ 125. file://localhost/wiki/Help:Contents
+ 126. file://localhost/wiki/Special:WhatLinksHere/Downregulation_and_upregulation
+ 127. file://localhost/wiki/Special:RecentChangesLinked/Downregulation_and_upregulation
+ 128. file://localhost/wiki/Wikipedia:Upload
+ 129. file://localhost/wiki/Special:SpecialPages
+ 130. file://localhost/w/index.php?title=Downregulation_and_upregulation&printable=yes
+ 131. file://localhost/w/index.php?title=Downregulation_and_upregulation&oldid=271877602
+ 132. file://localhost/w/index.php?title=Special:Cite&page=Downregulation_and_upregulation&id=271877602
+ 133. http://it.wikipedia.org/wiki/Sottoregolazione
+ 134. http://www.mediawiki.org/
+ 135. http://wikimediafoundation.org/
+ 136. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 137. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 138. http://www.wikimediafoundation.org/
+ 139. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 140. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 141. http://en.wikipedia.org/wiki/Non-profit_organization
+ 142. http://en.wikipedia.org/wiki/Charitable_organization
+ 143. http://wikimediafoundation.org/wiki/Privacy_policy
+ 144. file://localhost/wiki/Wikipedia:About
+ 145. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 146. file://localhost/wiki/File:AlphaHelixSection.svg
+ 147. file://localhost/wiki/Main_Page

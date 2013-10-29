@@ -1,0 +1,219 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Hidden file and hidden directory
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dot-file)
+   Jump to: [7]navigation, [8]search
+   This article needs additional [9]citations for [10]verification. Please
+   help [11]improve this article by adding [12]reliable references.
+   Unsourced material may be [13]challenged and removed. (June 2007)
+
+   A hidden directory or hidden file on a computer is a [14]directory
+   (folder) or [15]file which is not shown to the [16]user by default.
+   Hidden directories are most often used to hide important [17]operating
+   system-related files and user preferences. Unfortunately, this
+   functionality can also be used by [18]malicious programs to hide their
+   presence from unaware users.
+
+Contents
+
+     * [19]1 Unix and Unix-like
+     * [20]2 DOS
+     * [21]3 Microsoft Windows
+     * [22]4 External links
+
+[[23]edit] Unix and Unix-like
+
+   In [24]Unix-like operating systems, hidden files' and directories'
+   [25]names are prepended with [26]period (e.g. /home/user/.config). They
+   are sometimes called dotfiles. How to show or hide them depends on the
+   [27]file manager in use (e.g. [28]mc shows them by default) or with
+   [29]ls the [30]flag -a can be used (ls -a).
+
+[[31]edit] DOS
+
+   In MS-DOS and other DOS systems, files and folders can be made hidden
+   or visible by toggling their Hidden [32]File attribute using attrib
+   command.
+
+[[33]edit] Microsoft Windows
+
+   In Microsoft Windows, hiding is similar to that of DOS - items can be
+   made hidden or visible by toggling Hidden attribute, using attrib or
+   [34]Windows Explorer.
+
+[[35]edit] External links
+
+     * [36]Hidden files in Unix-like operating systems
+     * [37]Hidden Files On Windows
+     * [38]Microsoft DOS attrib command
+
+     This Software which runs on [39]Microsoft windows article is a
+   [40]stub. You can help by [41]expanding it.
+     This [42]Unix-related article is a [43]stub. You can help by
+   [44]expanding it.
+   Retrieved from
+   "[45]http://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory"
+   [46]Categories: [47]Windows software stubs | [48]Unix stubs
+   Hidden category: [49]Articles needing additional references from June
+   2007
+
+Views
+
+     * [50]Article
+     * [51]Discussion
+     * [52]Edit this page
+     * [53]History
+
+Personal tools
+
+     * [54]Log in / create account
+
+Navigation
+
+     * [55]Main page
+     * [56]Contents
+     * [57]Featured content
+     * [58]Current events
+     * [59]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [60]About Wikipedia
+     * [61]Community portal
+     * [62]Recent changes
+     * [63]Contact Wikipedia
+     * [64]Donate to Wikipedia
+     * [65]Help
+
+Toolbox
+
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Printable version
+     * [71]Permanent link
+     * [72]Cite this page
+
+Languages
+
+     * [73]Deutsch
+     * [74]Franais
+     * [75]Nederlands
+
+   [76]Powered by MediaWiki
+   [77]Wikimedia Foundation
+     * This page was last modified on 10 January 2009, at 06:39.
+     * All text is available under the terms of the [78]GNU Free
+       Documentation License. (See [79]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [80]Wikimedia
+       Foundation, Inc., a U.S. registered [81]501(c)(3)
+       [82]tax-deductible [83]nonprofit [84]charity.
+     * [85]Privacy policy
+     * [86]About Wikipedia
+     * [87]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Hidden_file_and_hidden_directory&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dot-file&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Citing_sources
+  10. file://localhost/wiki/Wikipedia:Verifiability
+  11. http://en.wikipedia.org/w/index.php?title=Hidden_file_and_hidden_directory&action=edit
+  12. file://localhost/wiki/Wikipedia:Reliable_sources
+  13. file://localhost/wiki/Template:Fact
+  14. file://localhost/wiki/File_directory
+  15. file://localhost/wiki/File
+  16. file://localhost/wiki/User
+  17. file://localhost/wiki/Operating_system
+  18. file://localhost/wiki/Malware
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#Unix_and_Unix-like
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#DOS
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#Microsoft_Windows
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc260.tmp.html#External_links
+  23. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=edit&section=1
+  24. file://localhost/wiki/Unix-like
+  25. file://localhost/wiki/Filename
+  26. file://localhost/wiki/Full_stop
+  27. file://localhost/wiki/File_manager
+  28. file://localhost/wiki/Midnight_Commander
+  29. file://localhost/wiki/Ls
+  30. file://localhost/wiki/Command-line_argument
+  31. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=edit&section=2
+  32. file://localhost/wiki/File_attribute
+  33. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=edit&section=3
+  34. file://localhost/wiki/Windows_Explorer
+  35. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=edit&section=4
+  36. http://www.bellevuelinux.org/hidden_file.html
+  37. http://www.webhero.org/System/hidden_files.htm
+  38. http://www.computerhope.com/attribhl.htm
+  39. file://localhost/wiki/Microsoft_windows
+  40. file://localhost/wiki/Wikipedia:Stub
+  41. http://en.wikipedia.org/w/index.php?title=Hidden_file_and_hidden_directory&action=edit
+  42. file://localhost/wiki/Unix
+  43. file://localhost/wiki/Wikipedia:Stub
+  44. http://en.wikipedia.org/w/index.php?title=Hidden_file_and_hidden_directory&action=edit
+  45. http://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory
+  46. file://localhost/wiki/Special:Categories
+  47. file://localhost/wiki/Category:Windows_software_stubs
+  48. file://localhost/wiki/Category:Unix_stubs
+  49. file://localhost/wiki/Category:Articles_needing_additional_references_from_June_2007
+  50. file://localhost/wiki/Hidden_file_and_hidden_directory
+  51. file://localhost/wiki/Talk:Hidden_file_and_hidden_directory
+  52. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=edit
+  53. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&action=history
+  54. file://localhost/w/index.php?title=Special:UserLogin&returnto=Hidden_file_and_hidden_directory
+  55. file://localhost/wiki/Main_Page
+  56. file://localhost/wiki/Portal:Contents
+  57. file://localhost/wiki/Portal:Featured_content
+  58. file://localhost/wiki/Portal:Current_events
+  59. file://localhost/wiki/Special:Random
+  60. file://localhost/wiki/Wikipedia:About
+  61. file://localhost/wiki/Wikipedia:Community_portal
+  62. file://localhost/wiki/Special:RecentChanges
+  63. file://localhost/wiki/Wikipedia:Contact_us
+  64. http://wikimediafoundation.org/wiki/Donate
+  65. file://localhost/wiki/Help:Contents
+  66. file://localhost/wiki/Special:WhatLinksHere/Hidden_file_and_hidden_directory
+  67. file://localhost/wiki/Special:RecentChangesLinked/Hidden_file_and_hidden_directory
+  68. file://localhost/wiki/Wikipedia:Upload
+  69. file://localhost/wiki/Special:SpecialPages
+  70. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&printable=yes
+  71. file://localhost/w/index.php?title=Hidden_file_and_hidden_directory&oldid=263132168
+  72. file://localhost/w/index.php?title=Special:Cite&page=Hidden_file_and_hidden_directory&id=263132168
+  73. http://de.wikipedia.org/wiki/Versteckte_Datei
+  74. http://fr.wikipedia.org/wiki/Fichier_et_r%C3%A9pertoire_cach%C3%A9
+  75. http://nl.wikipedia.org/wiki/Verborgen_bestand
+  76. http://www.mediawiki.org/
+  77. http://wikimediafoundation.org/
+  78. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  79. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  80. http://www.wikimediafoundation.org/
+  81. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  82. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  83. http://en.wikipedia.org/wiki/Non-profit_organization
+  84. http://en.wikipedia.org/wiki/Charitable_organization
+  85. http://wikimediafoundation.org/wiki/Privacy_policy
+  86. file://localhost/wiki/Wikipedia:About
+  87. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  88. file://localhost/wiki/File:Question_book-new.svg
+  89. file://localhost/wiki/File:Win-like-userbox.svg
+  90. file://localhost/wiki/File:Poundexclam.svg
+  91. file://localhost/wiki/Main_Page

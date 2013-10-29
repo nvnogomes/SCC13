@@ -1,0 +1,1177 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Doxycycline
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Doxycycline calcium)
+   Jump to: [7]navigation, [8]search
+
+   Doxycycline
+
+                                                Systematic ([9]IUPAC) name
+   (4S,4aR,5S,5aR,6R,12aS)-4-(dimethylamino)-3,5,10,12,12a-pentahydroxy-6-
+   methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide
+                                                               Identifiers
+                                               [10]CAS number [11]564-25-0
+                              [12]ATC code [13]J01[14]AA02 [15]A01[16]AB22
+                                                     [17]PubChem [18]11256
+                                                [19]DrugBank [20]APRD00597
+                                               [21]ChemSpider [22]10482106
+                                                             Chemical data
+                           [23]Formula [24]C[22][25]H[24][26]N[2][27]O[8]^
+                                               [28]Mol. mass 444.435 g/mol
+                                                      Pharmacokinetic data
+                                                  [29]Bioavailability 100%
+                                                    [30]Metabolism hepatic
+                                                 [31]Half life 18-22 hours
+                                                [32]Excretion urine, feces
+                                                Therapeutic considerations
+                                                        [33]Pregnancy cat.
+
+                                                                 D([34]US)
+                                                          [35]Legal status
+
+                                         [36]POM([37]UK) [38]-only([39]US)
+                          [40]Routes oral, [41]periodontal, [42]iv, [43]im
+
+   Doxycycline ([44]INN) (pronounced [45]/dkssaklin/) is a member of the
+   [46]tetracycline antibiotics group and is commonly used to treat a
+   variety of [47]infections. Doxycycline is a semi-synthetic tetracycline
+   invented and clinically developed in the early 1960s by [48]Pfizer Inc.
+   and marketed under the brand name Vibramycin. Vibramycin received FDA
+   approval in 1967, becoming Pfizer's first once-a-day broad-spectrum
+   antibiotic. Other brand names include Monodox, Microdox, Periostat,
+   Vibra-Tabs, Doryx, Vibrox, Adoxa, Doxyhexal and Atridox (topical
+   doxycycline hyclate for [49]Periodontitis).
+
+Contents
+
+     * [50]1 Indicated uses
+          + [51]1.1 Antiprotozoal
+          + [52]1.2 Antibacterial
+          + [53]1.3 Anthelmintic
+     * [54]2 Cautions and side effects
+     * [55]3 Experimental applications
+     * [56]4 References
+     * [57]5 External links
+
+[[58]edit] Indicated uses
+
+          Main article: [59]tetracycline antibiotics
+
+   Further information: [60]oxytetracycline
+
+   As well as the general indications for all members of the
+   [61]tetracycline antibiotics group, Doxycycline is frequently used to
+   treat chronic [62]prostatitis, [63]sinusitis, [64]syphilis,
+   [65]chlamydia, [66]pelvic inflammatory disease,^[67][1]^[68][2]
+   [69]acne and [70]rosacea.^[71][3]^[72][4]
+   Generic 100 mg doxycycline capsules
+
+[[73]edit] Antiprotozoal
+
+   It is used in prophylaxis against [74]malaria.
+
+   It should not be used alone for initial treatment of malaria, even when
+   the parasite is doxycyline-sensitive, because the antimalarial effect
+   of doxycyline is delayed. This delay is related to its mechanism of
+   action. Its mechanism of action against malaria is to specifically
+   impair the progeny of the [75]apicoplast genes resulting in their
+   abnormal cell division.^[76][5]
+
+   It can be used in a treatment plan in combination with other agents,
+   such as [77]quinine.^[78][6]
+
+[[79]edit] Antibacterial
+
+   It is used in the treatment and [80]prophylaxis of [81]Bacillus
+   anthracis ([82]anthrax)
+
+   It is also effective against [83]Yersinia pestis (the infectious agent
+   of bubonic plague) and is prescribed for the treatment of [84]Lyme
+   disease,^[85][7]^[86][8]^[87][9], [88]ehrlichiosis^[89][10]^[90][11]
+   and [91]Rocky Mountain spotted fever. In fact, because doxycycline is
+   one of the few medications shown to be effective in treating Rocky
+   Mountain spotted fever (with the next best alternative being
+   chloramphenicol), doxycycline is indicated even in use in children for
+   this illness. Otherwise, doxycycline is not indicated in the use in
+   children under the age of 8 years. Doxycycline, like other antibiotics,
+   will not work for colds, flu, or other viral infections.
+
+   When bacteriologic testing indicates appropriate susceptibility to the
+   drug, doxycycline may be used to treat and prevent:
+     * [92]Escherichia coli
+     * [93]Enterobacter aerogenes (formerly Aerobacter aerogenes)
+     * [94]Lyme Disease, aka Lyme Borelliosis Complex (B. burgdorferi)
+     * [95]folliculitis
+     * [96]Acne
+     * [97]Shigella species
+     * [98]Acinetobacter species (formerly Mima species and Herellea
+       species)
+     * [99]Respiratory tract infections caused by [100]Haemophilus
+       influenzae
+     * Respiratory tract and [101]urinary tract infections
+     * Upper respiratory infections caused by [102]Streptococcus
+       pneumoniae (formerly Diplococcus pneumoniae)
+     * [103]Methicillin-resistant Staphylococcus aureus (MRSA) infections
+
+[[104]edit] Anthelmintic
+
+   [105]Elephantiasis is a disease caused by a [106]nematode (worm)
+   [107]Wuchereria bancrofti. It causes swollen limbs and genitals
+   ([108]Filariasis) and affects over 120 million people in the world.
+   Previous anti-nematode treatments have been limited by poor levels of
+   effectiveness, drug side effects and high costs. Doxycycline was shown
+   in 2003 to kill the symbiotic [109]Wolbachia bacteria upon which the
+   nematodes are dependent.^[110][12] Field trials in 2005 showed that
+   Doxycycline almost completely eliminates blood-borne filaria when given
+   for an 8 week course.^[111][13]^[112][14]
+
+[[113]edit] Cautions and side effects
+
+   Cautions and side effects are similar to other members of the
+   [114]tetracycline antibiotic group. However the 10% risk of
+   [115]photosensitivity skin reactions is of particular importance for
+   those intending long-term use for malaria prophylaxis because it can
+   cause permanent sensitive and thin skin.
+
+   Reports of [116]GERD have been cited with the use of doxycycline.
+
+   Unlike some other members of the tetracycline group, it may be used in
+   those with renal impairment.
+
+   Previously, it was believed that doxycycline impairs the effectiveness
+   of many types of [117]hormonal contraception due to [118]CYP450
+   induction. Recent research has shown no significant loss of
+   effectiveness in oral contraceptives while using most [119]tetracycline
+   antibiotic (including doxycycline), although many physicians still
+   recommend the use of barrier contraception for people taking the drug
+   to prevent unwanted pregnancy.^[120][15]^[121][16]^[122][17]
+
+   It should be taken with a full glass of water and patients should be
+   upright for at least 30 minutes after administration to prevent
+   irritation of the esophagus and stomach. Also, there is a slim risk of
+   liver damage during prolonged use of the drug.^[123][18] It is also
+   recommended that it be taken with a small meal of a non-dairy nature if
+   upset stomach, nausea, or fatigue occurs.
+
+   Doxycycline is not approved for use in children under the age of 8
+   years for two reasons: 1) it can cause permanent yellowing or graying
+   of the teeth, and 2), according to CDC patient information on
+   doxycycline, it can inhibit bone growth in premature infants during the
+   time the medication is taken; this last effect disappears when the
+   doxycycline treatment is over. Specific exceptions are made for
+   potentially fatal illnesses where the benefits outweigh the risks and
+   there are few or no other alternatives, such as with Rocky Mountain
+   spotted fever and anthrax. It should also not be used in pregnant and
+   nursing women, as the drug can cause damage to a fetus and nursing
+   child.
+
+[[124]edit] Experimental applications
+
+   At subantimicrobial doses, doxycycline is an inhibitor of [125]matrix
+   metalloproteinases, and has been used in various experimental systems
+   for this purpose; such as for recalcitrant [126]recurrent corneal
+   erosions.^[127][19] Doxycycline has been used successfully in the
+   treatment of one patient with [128]lymphangioleiomyomatosis, an
+   otherwise progressive and fatal disease.^[129][20] Doxycyline has also
+   been shown to attenuate cardiac hypertrophy (in mice), a deadly
+   consequence of prolonged hypertension.^[130][21]
+
+   Doxycycline is also used in "Tet-on" and "Tet-off" [131]tetracycline
+   controlled transcriptional activation to regulate [132]transgene
+   expression in organisms and [133]cell cultures.
+
+   Other experimental applications include:
+     * [134]Vancomycin-resistant enterococcus (VRE)^[135][22]
+     * Infected animal bite wounds ([136]Pasteurella multocida,
+       [137]Pasteurella pneumotropica)^[138][23]
+     * [139]Rheumatoid arthritis^[140][24]^[141][25] and [142]reactive
+       arthritis.
+     * Chronic inflammatory [143]lung diseases ([144]panbronchiolitis,
+       [145]asthma, [146]cystic fibrosis,
+       [147]bronchitis)^[148][26]^[149][27]
+     * [150]Sarcoidosis^[151][28]^[152][29]
+     * Prevention of aortic aneurysm in people with [153]Marfan Syndrome.
+     * [154]Multiple sclerosis^[155][30]
+     * Meibomian Gland Dysfunction
+     * Treatment of [156]filariasis and [157]onchocerciasis due to
+       [158]filariae and [159]onchocercae generally harbouring
+       endosybiotic [160]Wolbachia bacteria. Doxycycline kills the
+       bacteria, and (by removal of the endosymbiotes) the nematodes.
+
+[[161]edit] References
+
+    1. [162]^ Sweet RL, Schachter J, Landers DV, Ohm-Smith M, Robbie MO
+       (1988). "Treatment of hospitalized patients with acute pelvic
+       inflammatory disease: comparison of cefotetan plus doxycycline and
+       ana doxycycline". Am. J. Obstet. Gynecol. 158 (3 Pt 2): 73641.
+       [163]PMID 3162653.
+    2. [164]^ Gjnnaess H, Holten E (1978). "Doxycycline (Vibramycin) in
+       pelvic inflammatory disease". Acta Obstet Gynecol Scand 57 (2):
+       1379. [165]PMID 345730.
+    3. [166]^ Mtt M, Kari O, Tervahartiala T, et al (2006). "Tear fluid
+       levels of MMP-8 are elevated in ocular rosacea--treatment effect of
+       oral doxycycline". Graefes Arch. Clin. Exp. Ophthalmol. 244 (8):
+       95762. [167]doi:[168]10.1007/s00417-005-0212-3. [169]PMID
+       16411105.
+    4. [170]^ Quarterman MJ, Johnson DW, Abele DC, Lesher JL, Hull DS,
+       Davis LS (1997). "Ocular rosacea. Signs, symptoms, and tear studies
+       before and after treatment with doxycycline". Arch Dermatol 133
+       (1): 4954. [171]doi:[172]10.1001/archderm.133.1.49. [173]PMID
+       9006372.
+    5. [174]^ Dahl EL, Shock JL, Shenai BR, Gut J, DeRisi JL, Rosenthal PJ
+       (2006). "Tetracyclines specifically target the apicoplast of the
+       malaria parasite Plasmodium falciparum". Antimicrob. Agents
+       Chemother. 50 (9): 312431. [175]doi:[176]10.1128/AAC.00394-06.
+       [177]PMID 16940111.
+    6. [178]^ Lalloo DG, Shingadia D, Pasvol G, et al (February 2007).
+       "[179]UK malaria treatment guidelines". J. Infect. 54 (2): 11121.
+       [180]doi:[181]10.1016/j.jinf.2006.12.003. [182]PMID 17215045.
+       [183]http://linkinghub.elsevier.com/retrieve/pii/S0163-4453(06)0041
+       6-6.
+    7. [184]^ Nadelman RB, Luger SW, Frank E, Wisniewski M, Collins JJ,
+       Wormser GP (1992). "Comparison of cefuroxime axetil and doxycycline
+       in the treatment of early Lyme disease". Ann. Intern. Med. 117 (4):
+       27380. [185]doi:[186]10.1001/archinte.117.2.273. [187]PMID
+       1637021.
+    8. [188]^ Nadelman RB, Nowakowski J, Fish D, et al (2001).
+       "[189]Prophylaxis with single-dose doxycycline for the prevention
+       of Lyme disease after an Ixodes scapularis tick bite". N. Engl. J.
+       Med. 345 (2): 7984. [190]doi:[191]10.1056/NEJM200107123450201.
+       [192]PMID 11450675.
+       [193]http://content.nejm.org/cgi/content/full/345/2/79.
+    9. [194]^ Karlsson M, Hammers-Berggren S, Lindquist L, Stiernstedt G,
+       Svenungsson B (1994). "Comparison of intravenous penicillin G and
+       oral doxycycline for treatment of Lyme neuroborreliosis". Neurology
+       44 (7): 12037. [195]PMID 8035916.
+   10. [196]^ Weinstein RS (1996). "Human ehrlichiosis". Am Fam Physician
+       54 (6): 19716. [197]PMID 8900357.
+   11. [198]^ Karlsson U, Bjersdorff A, Massung RF, Christensson B (2001).
+       "Human granulocytic ehrlichiosis--a clinical case in Scandinavia".
+       Scand. J. Infect. Dis. 33 (1): 734.
+       [199]doi:[200]10.1080/003655401750064130. [201]PMID 11234985.
+   12. [202]^ Hoerauf A, Mand S, Fischer K, et al (2003). "Doxycycline as
+       a novel strategy against bancroftian filariasis-depletion of
+       Wolbachia endosymbionts from Wuchereria bancrofti and stop of
+       microfilaria production". Med. Microbiol. Immunol. 192 (4): 2116.
+       [203]doi:[204]10.1007/s00430-002-0174-6. [205]PMID 12684759.
+   13. [206]^ Taylor MJ, Makunde WH, McGarry HF, Turner JD, Mand S,
+       Hoerauf A (2005). "Macrofilaricidal activity after doxycycline
+       treatment of Wuchereria bancrofti: a double-blind, randomised
+       placebo-controlled trial". Lancet 365 (9477): 211621.
+       [207]doi:[208]10.1016/S0140-6736(05)66591-9. [209]PMID 15964448.
+   14. [210]^ Outland, Katrina (2005 Volume 13). [211]"New Treatment for
+       Elephantitis: Antibiotics". The Journal of Young Investigators.
+       [212]http://www.jyi.org/news/nb.php?id=361.
+   15. [213]^ Archer JS, Archer DF (2002). "Oral contraceptive efficacy
+       and antibiotic interaction: a myth debunked". J. Am. Acad.
+       Dermatol. 46 (6): 91723. [214]doi:[215]10.1067/mjd.2002.120448.
+       [216]PMID 12063491.
+   16. [217]^ Drno B, Bettoli V, Ochsendorf F, Layton A, Mobacken H,
+       Degreef H (2004). "[218]European recommendations on the use of oral
+       antibiotics for acne". Eur J Dermatol 14 (6): 3919. [219]PMID
+       15564203.
+       [220]http://www.john-libbey-eurotext.fr/en/revues/medecine/ejd/e-do
+       cs/00/04/07/1B/article.md?type=text.html.
+   17. [221]^ DeRossi SS, Hersh EV (2002). "Antibiotics and oral
+       contraceptives". Dent. Clin. North Am. 46 (4): 65364.
+       [222]doi:[223]10.1016/S0011-8532(02)00017-4. [224]PMID 12436822.
+   18. [225]^ Center for Drug Evaluation and Research (November-December
+       2004). [226]"European recommendations on the use of oral
+       antibiotics for acne". [227]Food and Drug Administration.
+       [228]http://www.jle.com/en/revues/medecine/ejd/e-docs/00/04/07/1B/a
+       rticle.md?type=text.html. Retrieved on 2008-01-31.
+   19. [229]^ Dursun D, Kim MC, Solomon A, Pflugfelder SC (2001).
+       "Treatment of recalcitrant recurrent corneal erosions with
+       inhibitors of matrix metalloproteinase-9, doxycycline and
+       corticosteroids". Am. J. Ophthalmol. 132 (1): 813.
+       [230]doi:[231]10.1016/S0002-9394(01)00913-8. [232]PMID 11438047.
+   20. [233]^ Moses MA, Harper J, Folkman J (2006). "Doxycycline treatment
+       for lymphangioleiomyomatosis with urinary monitoring for MMPs". N.
+       Engl. J. Med. 354 (24): 26212. [234]doi:[235]10.1056/NEJMc053410.
+       [236]PMID 16775248.
+   21. [237]^ Errami M, Galindo CL, Tassa AT, Dimaio JM, Hill JA, Garner
+       HR (2007). "Doxycycline attenuates isoproterenol- and transverse
+       aortic banding- induced cardiac hypertrophy in mice". J Pharmacol
+       Exp Ther 324: 1196. [238]doi:[239]10.1124/jpet.107.133975.
+       [240]PMID 18089841.
+   22. [241]^ Saraiva IH, Jones RN, Erwin M, Sader HS (1997). "[Evaluation
+       of antimicrobial sensitivity of 87 clinical isolates of
+       vancomycin-resistant enterococci]" (in Portuguese). Rev Assoc Med
+       Bras 43 (3): 21722. [242]doi:[243]10.1590/S0104-42301997000300009.
+       [244]PMID 9497549.
+   23. [245]^ Dibb WL, Digranes A (1981). "Characteristics of 20 human
+       Pasteurella isolates from animal bite wounds". Acta Pathol
+       Microbiol Scand [B] 89 (3): 13741. [246]PMID 7315339.
+   24. [247]^ Sreekanth VR, Handa R, Wali JP, Aggarwal P, Dwivedi SN
+       (2000). "Doxycycline in the treatment of rheumatoid arthritis--a
+       pilot study". J Assoc Physicians India 48 (8): 8047. [248]PMID
+       11273473.
+   25. [249]^ Nordstrm D, Lindy O, Lauhio A, Sorsa T, Santavirta S,
+       Konttinen YT (1998). "Anti-collagenolytic mechanism of action of
+       doxycycline treatment in rheumatoid arthritis". Rheumatol. Int. 17
+       (5): 17580. [250]doi:[251]10.1007/s002960050030. [252]PMID
+       9542777.
+   26. [253]^ Raza M, Ballering JG, Hayden JM, Robbins RA, Hoyt JC (2006).
+       "Doxycycline decreases monocyte chemoattractant protein-1 in human
+       lung epithelial cells". Exp. Lung Res. 32 (1-2): 1526.
+       [254]doi:[255]10.1080/01902140600691399. [256]PMID 16809218.
+   27. [257]^ Chodosh S, Tuck J, Pizzuto D (1988). "Comparative trials of
+       doxycycline versus amoxicillin, cephalexin and enoxacin in
+       bacterial infections in chronic bronchitis and asthma". Scand J
+       Infect Dis Suppl 53: 228. [258]PMID 3047855.
+   28. [259]^ Bachelez H, Senet P, Cadranel J, Kaoukhov A, Dubertret L
+       (2001). "[260]The use of tetracyclines for the treatment of
+       sarcoidosis". Arch Dermatol 137 (1): 6973. [261]PMID 11176663.
+       [262]http://archderm.ama-assn.org/cgi/content/full/137/1/69.
+   29. [263]^ El Sayed F, Dhaybi R, Ammoury A (2006). "Subcutaneous
+       nodular sarcoidosis and systemic involvement successfully treated
+       with doxycycline". J Med Liban 54 (1): 424. [264]PMID 17044634.
+   30. [265]^ [266]"Antibiotics 'could help slow MS'". BBC News.
+       2007-12-11. [267]http://news.bbc.co.uk/2/hi/health/7136088.stm.
+       Retrieved on 2008-01-31.
+
+[[268]edit] External links
+
+     * [269]PATIENT INFORMATION LEAFLET
+
+   [270]v  [271]d  [272]e
+   [273]Stomatological preparations ([274]A01)
+   [275]Caries [276]prophylactic agents
+   [277]Sodium fluoride - [278]Sodium monofluorophosphate - [279]Olaflur -
+   [280]Stannous fluoride
+   [281]Anti-infectives and [282]antiseptics
+   [283]Hydrogen peroxide - [284]Chlorhexidine - [285]Amphotericin B -
+   [286]Polynoxylin - [287]Domiphen - [288]Oxyquinoline - [289]Neomycin -
+   [290]Miconazole - [291]Natamycin - [292]Hexetidine - [293]Tetracycline
+   - [294]Benzoxonium chloride - [295]Tibezonium iodide - [296]Mepartricin
+   - [297]Metronidazole - [298]Clotrimazole - [299]Sodium perborate -
+   [300]Chlortetracycline - Doxycycline - [301]Minocycline - [302]Eugenol
+   [303]Corticosteroids ([304]Glucocorticoids)
+   [305]Triamcinolone - [306]Dexamethasone - [307]Hydrocortisone
+   Other
+   [308]Epinephrine/[309]Adrenalone - [310]Benzydamine -
+   [311]Acetylsalicylic acid - [312]Amlexanox
+   [313]v  [314]d  [315]e
+   [316]Antibacterials: [317]protein synthesis inhibitors ([318]J01A,
+   [319]J01B, [320]J01F, [321]J01G)
+   [322]30S
+   [323]Tetracycline antibiotics
+   ([324]tRNA binding)
+   Tetracyclines
+   Doxycycline #  [325]Chlortetracycline  [326]Clomocycline
+   [327]Demeclocycline  [328]Lymecycline  [329]Meclocycline
+   [330]Metacycline  [331]Minocycline  [332]Oxytetracycline
+   [333]Penimepicycline  [334]Rolitetracycline  [335]Tetracycline
+   [336]Glycylcyclines
+   [337]Tigecycline
+   [338]50S
+   [339]Amphenicols ([340]translocation)
+   [341]Chloramphenicol #   [342]Azidamfenicol  [343]Thiamphenicol
+   [344]Florfenicol
+   MLS ([345]transpeptidation)
+   [346]Macrolides
+   [347]Erythromycin #   [348]Azithromycin #   [349]Spiramycin
+   [350]Midecamycin  [351]Oleandomycin  [352]Roxithromycin
+   [353]Josamycin  [354]Troleandomycin  [355]Clarithromycin
+   [356]Miocamycin  [357]Rokitamycin  [358]Dirithromycin
+   [359]Flurithromycin  [360]Telithromycin  [361]Cethromycin
+   [362]Lincosamides
+   [363]Clindamycin #   [364]Lincomycin
+   [365]Streptogramins
+   [366]Pristinamycin  [367]Quinupristin/dalfopristin
+   [368]Oxazolidinone
+   ([369]initiation inhibitors)
+   [370]Linezolid
+   30S and 50S
+   [371]Aminoglycosides
+   -mycin ([372]Streptomyces)
+   [373]Streptomycin
+
+   [374]Neomycin ([375]Framycetin, [376]Paromomycin, [377]Ribostamycin)
+
+   [378]Kanamycin ([379]Amikacin, [380]Arbekacin, [381]Bekanamycin,
+   [382]Dibekacin, [383]Tobramycin)
+
+   [384]Spectinomycin #  [385]Hygromycin B
+   [386]Paromomycin
+   -micin ([387]Micromonospora)
+   [388]Gentamicin # ([389]Netilmicin, [390]Sisomicin, [391]Isepamicin)
+   [392]Verdamicin
+   [393]Astromicin
+   Other
+   [394]Steroid antibacterials ([395]EF-G)
+   [396]Fusidic acid
+   # = [397]WHO-EM
+   [398]v  [399]d  [400]e
+   [401]Antiparasitics  [402]antiprotozoal agents ([403]P01)
+   [404]Bikont:
+   [405]Chromalveolate:
+   [406]Apicomplexa
+   [407]Conoidasida/
+   ([408]Coccidiostats)
+   [409]Cryptosporidiosis
+   [410]thiazole ([411]Nitazoxanide)
+   [412]Isosporiasis
+   [413]Co-trimoxazole #
+   [414]Toxoplasmosis
+   [415]Pyrimethamine [416]Sulfadiazine
+   [417]Aconoidasida
+   [418]Malaria
+   [419]Hemozoin
+   inhibitors
+   [420]Qs: [421]Aminoquinolines
+   [422]4-Aminoquinoline ([423]Amodiaquine #, [424]Chloroquine #,
+   [425]Hydroxychloroquine) [426]8-Aminoquinoline ([427]Primaquine #,
+   [428]Pamaquine)
+   [429]Qs: [430]Methanolquinolines
+   [431]Mefloquine # [432]Quinine # [433]Quinidine
+   Other
+   [434]Halofantrine [435]amyl alcohol ([436]Lumefantrine #)
+   [437]Antifolates
+   [438]DRIs
+   diaminopyridines ([439]Pyrimethamine #) [440]biguanides ([441]Proguanil
+   #, [442]Cycloguanil)
+   [443]DSIs
+   [444]Sulfadoxine #
+   [445]PfATP6 inhibitor
+   [446]Artemisinin ([447]Artemether #, [448]Artesunate #, [449]Artenimol,
+   [450]Arteether/Artemotil)
+   Other
+   [451]aminoacridine ([452]Quinacrine) [453]ubiquinone analogue
+   ([454]Atovaquone) [455]tetracycline (Doxycycline #)
+   Combinations
+   [456]Coartem [457]Lapdap [458]CDA
+   [459]Babesiosis
+   [460]Clindamycin
+   [461]Bikont:
+   [462]Excavata
+   [463]Flagellate
+   [464]Leishmaniasis
+   [465]Amphotericin B #  [466]Pentavalent antimonials ([467]Meglumine
+   antimoniate #, [468]Sodium stibogluconate)  [469]Pentamidine #
+   [470]Miltefosine  [471]Paromomycin
+   [472]Trypanosomiasis
+   [473]African trypanosomiasis: [474]Eflornithine #  [475]Melarsoprol #
+   [476]Pentamidine #  [477]Suramin #
+   [478]Chagas disease: [479]Benznidazole #  [480]Nifurtimox #
+   [481]Giardiasis
+   [482]nitrofuran ([483]Furazolidone)  [484]azole ([485]Metronidazole #,
+   [486]Albendazole, [487]Tinidazole)  [488]thiazole ([489]Nitazoxanide)
+   [490]aminoacridine ([491]Quinacrine)
+   [492]Trichomoniasis
+   [493]Metronidazole #
+   [494]Amoeboid
+   [495]PAM
+   [496]Amphotericin B
+   [497]Unikont:
+   [498]Amoebiasis/
+   [499]entamebiasis
+   [500]Hydroxyquinoline derivatives
+   Cl ([501]Chlorquinaldol)  Br ([502]Tilbroquinol, [503]Broxyquinoline)
+   I ([504]Diiodohydroxyquinoline)  I,Cl ([505]Clioquinol)
+   related: [506]Chiniofon
+   [507]Nitroimidazole derivatives
+   [508]Metronidazole #  [509]Tinidazole  [510]Ornidazole
+   [511]Nimorazole  [512]Secnidazole  [513]Azanidazole  [514]Propenidazole
+   [515]Dichloroacetamide derivatives
+   [516]Diloxanide #  [517]Clefamide  [518]Etofamide  [519]Teclozan
+   [520]Arsenic compounds
+   [521]Arsthinol  [522]Difetarsone  [523]Glycobiarsol
+   Other
+   [524]isoquinoline ([525]Emetine/[526]Dehydroemetine)
+   [527]phenanthroline ([528]Phanquinone)  [529]aminoacridine
+   ([530]Mepacrine)  [531]ubiquinone analogue,[532]naphthalene
+   ([533]Atovaquone)  [534]quinazoline ([535]Trimetrexate)  [536]thiazole
+   ([537]Tenonitrozole)  [538]sesquiterpene ([539]Fumagillin)
+   [540]aminoglycoside ([541]Paromomycin)
+   # = [542]WHO-EM
+   Retrieved from "[543]http://en.wikipedia.org/wiki/Doxycycline"
+   [544]Categories: [545]Tetracycline antibiotics | [546]Antimalarial
+   agents | [547]World Health Organization essential medicines
+
+Views
+
+     * [548]Article
+     * [549]Discussion
+     * [550]Edit this page
+     * [551]History
+
+Personal tools
+
+     * [552]Log in / create account
+
+Navigation
+
+     * [553]Main page
+     * [554]Contents
+     * [555]Featured content
+     * [556]Current events
+     * [557]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [558]About Wikipedia
+     * [559]Community portal
+     * [560]Recent changes
+     * [561]Contact Wikipedia
+     * [562]Donate to Wikipedia
+     * [563]Help
+
+Toolbox
+
+     * [564]What links here
+     * [565]Related changes
+     * [566]Upload file
+     * [567]Special pages
+     * [568]Printable version
+     * [569]Permanent link
+     * [570]Cite this page
+
+Languages
+
+     * [571]Bn-lm-g
+     * [572]esky
+     * [573]Deutsch
+     * [574]Espaol
+     *
+     * [575]Franais
+     * [576]Italiano
+     * [577]Nederlands
+     *
+     * [578]Polski
+     * [579]Portugus
+     *
+     * [580]/ Srpski
+     * [581]Suomi
+     *
+     * [582]Trke
+     *
+
+   [583]Powered by MediaWiki
+   [584]Wikimedia Foundation
+     * This page was last modified on 11 February 2009, at 05:43.
+     * All text is available under the terms of the [585]GNU Free
+       Documentation License. (See [586]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [587]Wikimedia
+       Foundation, Inc., a U.S. registered [588]501(c)(3)
+       [589]tax-deductible [590]nonprofit [591]charity.
+     * [592]Privacy policy
+     * [593]About Wikipedia
+     * [594]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Doxycycline&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Doxycycline_calcium&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#searchInput
+   9. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  10. file://localhost/wiki/CAS_registry_number
+  11. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?term=564-25-0&rn=1
+  12. file://localhost/wiki/Anatomical_Therapeutic_Chemical_Classification_System
+  13. file://localhost/wiki/ATC_code_J01
+  14. http://www.whocc.no/atcddd/indexdatabase/index.php?query=J01AA02
+  15. file://localhost/wiki/ATC_code_A01
+  16. http://www.whocc.no/atcddd/indexdatabase/index.php?query=A01AB22
+  17. file://localhost/wiki/PubChem
+  18. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11256
+  19. file://localhost/wiki/DrugBank
+  20. http://www.drugbank.ca/cgi-bin/show_drug.cgi?CARD=APRD00597
+  21. file://localhost/wiki/ChemSpider
+  22. http://www.chemspider.com/Chemical-Structure.10482106
+  23. file://localhost/wiki/Chemical_formula
+  24. file://localhost/wiki/Carbon
+  25. file://localhost/wiki/Hydrogen
+  26. file://localhost/wiki/Nitrogen
+  27. file://localhost/wiki/Oxygen
+  28. file://localhost/wiki/Molecular_mass
+  29. file://localhost/wiki/Bioavailability
+  30. file://localhost/wiki/Drug_metabolism
+  31. file://localhost/wiki/Biological_half-life
+  32. file://localhost/wiki/Excretion
+  33. file://localhost/wiki/Pregnancy_category
+  34. file://localhost/wiki/United_States
+  35. file://localhost/wiki/Regulation_of_therapeutic_goods
+  36. file://localhost/wiki/Prescription_drug
+  37. file://localhost/wiki/United_Kingdom
+  38. file://localhost/wiki/Prescription_drug
+  39. file://localhost/wiki/United_States
+  40. file://localhost/wiki/Route_of_administration
+  41. file://localhost/wiki/Periodontal
+  42. file://localhost/wiki/Intravenous
+  43. file://localhost/wiki/Intramuscular
+  44. file://localhost/wiki/International_Nonproprietary_Name
+  45. file://localhost/wiki/Wikipedia:IPA_for_English
+  46. file://localhost/wiki/Tetracycline_antibiotics
+  47. file://localhost/wiki/Infection
+  48. file://localhost/wiki/Pfizer
+  49. file://localhost/wiki/Periodontitis
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Indicated_uses
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Antiprotozoal
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Antibacterial
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Anthelmintic
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Cautions_and_side_effects
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#Experimental_applications
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#References
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#External_links
+  58. file://localhost/w/index.php?title=Doxycycline&action=edit&section=1
+  59. file://localhost/wiki/Tetracycline_antibiotics
+  60. file://localhost/wiki/Oxytetracycline
+  61. file://localhost/wiki/Tetracycline_antibiotics
+  62. file://localhost/wiki/Prostatitis
+  63. file://localhost/wiki/Sinusitis
+  64. file://localhost/wiki/Syphilis
+  65. file://localhost/wiki/Chlamydia_infection
+  66. file://localhost/wiki/Pelvic_inflammatory_disease
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid3162653-0
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid345730-1
+  69. file://localhost/wiki/Acne_vulgaris
+  70. file://localhost/wiki/Rosacea
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid16411105-2
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid9006372-3
+  73. file://localhost/w/index.php?title=Doxycycline&action=edit&section=2
+  74. file://localhost/wiki/Malaria
+  75. file://localhost/wiki/Apicoplast
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid16940111-4
+  77. file://localhost/wiki/Quinine
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid17215045-5
+  79. file://localhost/w/index.php?title=Doxycycline&action=edit&section=3
+  80. file://localhost/wiki/Prophylaxis
+  81. file://localhost/wiki/Bacillus_anthracis
+  82. file://localhost/wiki/Anthrax
+  83. file://localhost/wiki/Yersinia_pestis
+  84. file://localhost/wiki/Lyme_disease
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid1637021-6
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid11450675-7
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-8
+  88. file://localhost/wiki/Ehrlichiosis
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid8900357-9
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid11234985-10
+  91. file://localhost/wiki/Rocky_Mountain_spotted_fever
+  92. file://localhost/wiki/Escherichia_coli
+  93. file://localhost/wiki/Enterobacter_aerogenes
+  94. file://localhost/wiki/Lyme_Disease
+  95. file://localhost/wiki/Folliculitis
+  96. file://localhost/wiki/Acne
+  97. file://localhost/wiki/Shigella
+  98. file://localhost/wiki/Acinetobacter
+  99. file://localhost/wiki/Respiratory_tract_infections
+ 100. file://localhost/wiki/Haemophilus_influenzae
+ 101. file://localhost/wiki/UTI
+ 102. file://localhost/wiki/Streptococcus_pneumoniae
+ 103. file://localhost/wiki/MRSA
+ 104. file://localhost/w/index.php?title=Doxycycline&action=edit&section=4
+ 105. file://localhost/wiki/Elephantiasis
+ 106. file://localhost/wiki/Nematode
+ 107. file://localhost/wiki/Wuchereria_bancrofti
+ 108. file://localhost/wiki/Filariasis
+ 109. file://localhost/wiki/Wolbachia
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid12684759-11
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid15964448-12
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-JYI2005-Outland-13
+ 113. file://localhost/w/index.php?title=Doxycycline&action=edit&section=5
+ 114. file://localhost/wiki/Tetracycline_antibiotics
+ 115. file://localhost/wiki/Photodermatitis
+ 116. file://localhost/wiki/Gastroesophageal_reflux_disease
+ 117. file://localhost/wiki/Hormonal_contraception
+ 118. file://localhost/wiki/Cytochrome_P450
+ 119. file://localhost/wiki/Tetracycline_antibiotics
+ 120. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid12063491-14
+ 121. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid15564203-15
+ 122. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid12436822-16
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-17
+ 124. file://localhost/w/index.php?title=Doxycycline&action=edit&section=6
+ 125. file://localhost/wiki/Matrix_metalloproteinase
+ 126. file://localhost/wiki/Recurrent_corneal_erosion
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid11438047-18
+ 128. file://localhost/wiki/Lymphangioleiomyomatosis
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid16775248-19
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid18089841-20
+ 131. file://localhost/wiki/Tetracycline_controlled_transcriptional_activation
+ 132. file://localhost/wiki/Transgene
+ 133. file://localhost/wiki/Cell_culture
+ 134. file://localhost/wiki/Vancomycin-resistant_enterococcus
+ 135. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid9497549-21
+ 136. file://localhost/wiki/Pasteurella_multocida
+ 137. file://localhost/w/index.php?title=Pasteurella_pneumotropica&action=edit&redlink=1
+ 138. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid7315339-22
+ 139. file://localhost/wiki/Rheumatoid_arthritis
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid11273473-23
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid9542777-24
+ 142. file://localhost/wiki/Reactive_arthritis
+ 143. file://localhost/wiki/Lung_disease
+ 144. file://localhost/wiki/Panbronchiolitis
+ 145. file://localhost/wiki/Asthma
+ 146. file://localhost/wiki/Cystic_fibrosis
+ 147. file://localhost/wiki/Bronchitis
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid16809218-25
+ 149. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid3047855-26
+ 150. file://localhost/wiki/Sarcoidosis
+ 151. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid11176663-27
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-pmid17044634-28
+ 153. file://localhost/wiki/Marfan_Syndrome
+ 154. file://localhost/wiki/Multiple_sclerosis
+ 155. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_note-29
+ 156. file://localhost/wiki/Filariasis
+ 157. file://localhost/wiki/Onchocerciasis
+ 158. file://localhost/wiki/Filaria
+ 159. file://localhost/wiki/Onchocerca
+ 160. file://localhost/wiki/Wolbachia
+ 161. file://localhost/w/index.php?title=Doxycycline&action=edit&section=7
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid3162653_0-0
+ 163. http://www.ncbi.nlm.nih.gov/pubmed/3162653
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid345730_1-0
+ 165. http://www.ncbi.nlm.nih.gov/pubmed/345730
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid16411105_2-0
+ 167. file://localhost/wiki/Digital_object_identifier
+ 168. http://dx.doi.org/10.1007%2Fs00417-005-0212-3
+ 169. http://www.ncbi.nlm.nih.gov/pubmed/16411105
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid9006372_3-0
+ 171. file://localhost/wiki/Digital_object_identifier
+ 172. http://dx.doi.org/10.1001%2Farchderm.133.1.49
+ 173. http://www.ncbi.nlm.nih.gov/pubmed/9006372
+ 174. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid16940111_4-0
+ 175. file://localhost/wiki/Digital_object_identifier
+ 176. http://dx.doi.org/10.1128%2FAAC.00394-06
+ 177. http://www.ncbi.nlm.nih.gov/pubmed/16940111
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid17215045_5-0
+ 179. http://linkinghub.elsevier.com/retrieve/pii/S0163-4453(06)00416-6
+ 180. file://localhost/wiki/Digital_object_identifier
+ 181. http://dx.doi.org/10.1016%2Fj.jinf.2006.12.003
+ 182. http://www.ncbi.nlm.nih.gov/pubmed/17215045
+ 183. http://linkinghub.elsevier.com/retrieve/pii/S0163-4453(06)00416-6
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid1637021_6-0
+ 185. file://localhost/wiki/Digital_object_identifier
+ 186. http://dx.doi.org/10.1001%2Farchinte.117.2.273
+ 187. http://www.ncbi.nlm.nih.gov/pubmed/1637021
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid11450675_7-0
+ 189. http://content.nejm.org/cgi/content/full/345/2/79
+ 190. file://localhost/wiki/Digital_object_identifier
+ 191. http://dx.doi.org/10.1056%2FNEJM200107123450201
+ 192. http://www.ncbi.nlm.nih.gov/pubmed/11450675
+ 193. http://content.nejm.org/cgi/content/full/345/2/79
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-8
+ 195. http://www.ncbi.nlm.nih.gov/pubmed/8035916
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid8900357_9-0
+ 197. http://www.ncbi.nlm.nih.gov/pubmed/8900357
+ 198. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid11234985_10-0
+ 199. file://localhost/wiki/Digital_object_identifier
+ 200. http://dx.doi.org/10.1080%2F003655401750064130
+ 201. http://www.ncbi.nlm.nih.gov/pubmed/11234985
+ 202. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid12684759_11-0
+ 203. file://localhost/wiki/Digital_object_identifier
+ 204. http://dx.doi.org/10.1007%2Fs00430-002-0174-6
+ 205. http://www.ncbi.nlm.nih.gov/pubmed/12684759
+ 206. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid15964448_12-0
+ 207. file://localhost/wiki/Digital_object_identifier
+ 208. http://dx.doi.org/10.1016%2FS0140-6736%2805%2966591-9
+ 209. http://www.ncbi.nlm.nih.gov/pubmed/15964448
+ 210. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-JYI2005-Outland_13-0
+ 211. http://www.jyi.org/news/nb.php?id=361
+ 212. http://www.jyi.org/news/nb.php?id=361
+ 213. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid12063491_14-0
+ 214. file://localhost/wiki/Digital_object_identifier
+ 215. http://dx.doi.org/10.1067%2Fmjd.2002.120448
+ 216. http://www.ncbi.nlm.nih.gov/pubmed/12063491
+ 217. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid15564203_15-0
+ 218. http://www.john-libbey-eurotext.fr/en/revues/medecine/ejd/e-docs/00/04/07/1B/article.md?type=text.html
+ 219. http://www.ncbi.nlm.nih.gov/pubmed/15564203
+ 220. http://www.john-libbey-eurotext.fr/en/revues/medecine/ejd/e-docs/00/04/07/1B/article.md?type=text.html
+ 221. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid12436822_16-0
+ 222. file://localhost/wiki/Digital_object_identifier
+ 223. http://dx.doi.org/10.1016%2FS0011-8532%2802%2900017-4
+ 224. http://www.ncbi.nlm.nih.gov/pubmed/12436822
+ 225. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-17
+ 226. http://www.jle.com/en/revues/medecine/ejd/e-docs/00/04/07/1B/article.md?type=text.html
+ 227. file://localhost/wiki/Food_and_Drug_Administration
+ 228. http://www.jle.com/en/revues/medecine/ejd/e-docs/00/04/07/1B/article.md?type=text.html
+ 229. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid11438047_18-0
+ 230. file://localhost/wiki/Digital_object_identifier
+ 231. http://dx.doi.org/10.1016%2FS0002-9394%2801%2900913-8
+ 232. http://www.ncbi.nlm.nih.gov/pubmed/11438047
+ 233. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid16775248_19-0
+ 234. file://localhost/wiki/Digital_object_identifier
+ 235. http://dx.doi.org/10.1056%2FNEJMc053410
+ 236. http://www.ncbi.nlm.nih.gov/pubmed/16775248
+ 237. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid18089841_20-0
+ 238. file://localhost/wiki/Digital_object_identifier
+ 239. http://dx.doi.org/10.1124%2Fjpet.107.133975
+ 240. http://www.ncbi.nlm.nih.gov/pubmed/18089841
+ 241. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid9497549_21-0
+ 242. file://localhost/wiki/Digital_object_identifier
+ 243. http://dx.doi.org/10.1590%2FS0104-42301997000300009
+ 244. http://www.ncbi.nlm.nih.gov/pubmed/9497549
+ 245. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid7315339_22-0
+ 246. http://www.ncbi.nlm.nih.gov/pubmed/7315339
+ 247. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid11273473_23-0
+ 248. http://www.ncbi.nlm.nih.gov/pubmed/11273473
+ 249. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid9542777_24-0
+ 250. file://localhost/wiki/Digital_object_identifier
+ 251. http://dx.doi.org/10.1007%2Fs002960050030
+ 252. http://www.ncbi.nlm.nih.gov/pubmed/9542777
+ 253. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid16809218_25-0
+ 254. file://localhost/wiki/Digital_object_identifier
+ 255. http://dx.doi.org/10.1080%2F01902140600691399
+ 256. http://www.ncbi.nlm.nih.gov/pubmed/16809218
+ 257. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid3047855_26-0
+ 258. http://www.ncbi.nlm.nih.gov/pubmed/3047855
+ 259. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid11176663_27-0
+ 260. http://archderm.ama-assn.org/cgi/content/full/137/1/69
+ 261. http://www.ncbi.nlm.nih.gov/pubmed/11176663
+ 262. http://archderm.ama-assn.org/cgi/content/full/137/1/69
+ 263. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-pmid17044634_28-0
+ 264. http://www.ncbi.nlm.nih.gov/pubmed/17044634
+ 265. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc318.tmp.html#cite_ref-29
+ 266. http://news.bbc.co.uk/2/hi/health/7136088.stm
+ 267. http://news.bbc.co.uk/2/hi/health/7136088.stm
+ 268. file://localhost/w/index.php?title=Doxycycline&action=edit&section=8
+ 269. http://emc.medicines.org.uk/emc/assets/c/html/displaydoc.asp?documentid=9025
+ 270. file://localhost/wiki/Template:Stomatological_preparations
+ 271. file://localhost/w/index.php?title=Template_talk:Stomatological_preparations&action=edit&redlink=1
+ 272. http://en.wikipedia.org/w/index.php?title=Template:Stomatological_preparations&action=edit
+ 273. file://localhost/wiki/Stomatological
+ 274. file://localhost/wiki/ATC_code_A01
+ 275. file://localhost/wiki/Caries
+ 276. file://localhost/wiki/Prophylactic
+ 277. file://localhost/wiki/Sodium_fluoride
+ 278. file://localhost/wiki/Sodium_monofluorophosphate
+ 279. file://localhost/wiki/Olaflur
+ 280. file://localhost/wiki/Tin(II)_fluoride
+ 281. file://localhost/wiki/Anti-infectives
+ 282. file://localhost/wiki/Antiseptic
+ 283. file://localhost/wiki/Hydrogen_peroxide
+ 284. file://localhost/wiki/Chlorhexidine_gluconate
+ 285. file://localhost/wiki/Amphotericin_B
+ 286. file://localhost/wiki/Polynoxylin
+ 287. file://localhost/wiki/Domiphen
+ 288. file://localhost/wiki/Oxyquinoline
+ 289. file://localhost/wiki/Neomycin
+ 290. file://localhost/wiki/Miconazole
+ 291. file://localhost/wiki/Natamycin
+ 292. file://localhost/wiki/Hexetidine
+ 293. file://localhost/wiki/Tetracycline
+ 294. file://localhost/wiki/Benzoxonium_chloride
+ 295. file://localhost/wiki/Tibezonium_iodide
+ 296. file://localhost/wiki/Mepartricin
+ 297. file://localhost/wiki/Metronidazole
+ 298. file://localhost/wiki/Clotrimazole
+ 299. file://localhost/wiki/Sodium_perborate
+ 300. file://localhost/wiki/Chlortetracycline
+ 301. file://localhost/wiki/Minocycline
+ 302. file://localhost/wiki/Eugenol
+ 303. file://localhost/wiki/Corticosteroid
+ 304. file://localhost/wiki/Glucocorticoid
+ 305. file://localhost/wiki/Triamcinolone
+ 306. file://localhost/wiki/Dexamethasone
+ 307. file://localhost/wiki/Cortisol
+ 308. file://localhost/wiki/Epinephrine
+ 309. file://localhost/wiki/Adrenalone
+ 310. file://localhost/wiki/Benzydamine
+ 311. file://localhost/wiki/Aspirin
+ 312. file://localhost/wiki/Amlexanox
+ 313. file://localhost/wiki/Template:Protein_synthesis_inhibitor_antibiotics
+ 314. file://localhost/wiki/Template_talk:Protein_synthesis_inhibitor_antibiotics
+ 315. http://en.wikipedia.org/w/index.php?title=Template:Protein_synthesis_inhibitor_antibiotics&action=edit
+ 316. file://localhost/wiki/Antibiotic
+ 317. file://localhost/wiki/Protein_synthesis_inhibitor
+ 318. file://localhost/wiki/ATC_code_J01#J01A_Tetracyclines
+ 319. file://localhost/wiki/ATC_code_J01#J01B_Amphenicols
+ 320. file://localhost/wiki/ATC_code_J01#J01F_Macrolides.2C_lincosamides_and_streptogramins
+ 321. file://localhost/wiki/ATC_code_J01#J01G_Aminoglycoside_antibacterials
+ 322. file://localhost/wiki/30S
+ 323. file://localhost/wiki/Tetracycline_antibiotics
+ 324. file://localhost/wiki/Transfer_RNA
+ 325. file://localhost/wiki/Chlortetracycline
+ 326. file://localhost/wiki/Clomocycline
+ 327. file://localhost/wiki/Demeclocycline
+ 328. file://localhost/wiki/Lymecycline
+ 329. file://localhost/wiki/Meclocycline
+ 330. file://localhost/wiki/Metacycline
+ 331. file://localhost/wiki/Minocycline
+ 332. file://localhost/wiki/Oxytetracycline
+ 333. file://localhost/wiki/Penimepicycline
+ 334. file://localhost/wiki/Rolitetracycline
+ 335. file://localhost/wiki/Tetracycline
+ 336. file://localhost/wiki/Glycylcycline
+ 337. file://localhost/wiki/Tigecycline
+ 338. file://localhost/wiki/50S
+ 339. file://localhost/wiki/Amphenicol
+ 340. file://localhost/wiki/Protein_targeting
+ 341. file://localhost/wiki/Chloramphenicol
+ 342. file://localhost/wiki/Azidamfenicol
+ 343. file://localhost/wiki/Thiamphenicol
+ 344. file://localhost/wiki/Florfenicol
+ 345. file://localhost/wiki/Transpeptidation
+ 346. file://localhost/wiki/Macrolide
+ 347. file://localhost/wiki/Erythromycin
+ 348. file://localhost/wiki/Azithromycin
+ 349. file://localhost/wiki/Spiramycin
+ 350. file://localhost/wiki/Midecamycin
+ 351. file://localhost/wiki/Oleandomycin
+ 352. file://localhost/wiki/Roxithromycin
+ 353. file://localhost/wiki/Josamycin
+ 354. file://localhost/wiki/Troleandomycin
+ 355. file://localhost/wiki/Clarithromycin
+ 356. file://localhost/wiki/Miocamycin
+ 357. file://localhost/wiki/Rokitamycin
+ 358. file://localhost/wiki/Dirithromycin
+ 359. file://localhost/wiki/Flurithromycin
+ 360. file://localhost/wiki/Telithromycin
+ 361. file://localhost/wiki/Cethromycin
+ 362. file://localhost/wiki/Lincosamides
+ 363. file://localhost/wiki/Clindamycin
+ 364. file://localhost/wiki/Lincomycin
+ 365. file://localhost/wiki/Streptogramin
+ 366. file://localhost/wiki/Pristinamycin
+ 367. file://localhost/wiki/Quinupristin/dalfopristin
+ 368. file://localhost/wiki/Oxazolidinone
+ 369. file://localhost/wiki/Prokaryotic_translation#Initiation
+ 370. file://localhost/wiki/Linezolid
+ 371. file://localhost/wiki/Aminoglycoside
+ 372. file://localhost/wiki/Streptomyces
+ 373. file://localhost/wiki/Streptomycin
+ 374. file://localhost/wiki/Neomycin
+ 375. file://localhost/wiki/Framycetin
+ 376. file://localhost/wiki/Paromomycin
+ 377. file://localhost/wiki/Ribostamycin
+ 378. file://localhost/wiki/Kanamycin
+ 379. file://localhost/wiki/Amikacin
+ 380. file://localhost/wiki/Arbekacin
+ 381. file://localhost/wiki/Bekanamycin
+ 382. file://localhost/wiki/Dibekacin
+ 383. file://localhost/wiki/Tobramycin
+ 384. file://localhost/wiki/Spectinomycin
+ 385. file://localhost/wiki/Hygromycin_B
+ 386. file://localhost/wiki/Paromomycin_sulfate
+ 387. file://localhost/wiki/Micromonospora
+ 388. file://localhost/wiki/Gentamicin
+ 389. file://localhost/wiki/Netilmicin
+ 390. file://localhost/wiki/Sisomicin
+ 391. file://localhost/wiki/Isepamicin
+ 392. file://localhost/wiki/Verdamicin
+ 393. file://localhost/wiki/Astromicin
+ 394. file://localhost/wiki/Steroid
+ 395. file://localhost/wiki/EF-G
+ 396. file://localhost/wiki/Fusidic_acid
+ 397. file://localhost/wiki/List_of_World_Health_Organization_Essential_Medicines
+ 398. file://localhost/wiki/Template:Antiprotozoal_agent
+ 399. file://localhost/wiki/Template_talk:Antiprotozoal_agent
+ 400. http://en.wikipedia.org/w/index.php?title=Template:Antiprotozoal_agent&action=edit
+ 401. file://localhost/wiki/Antiparasitic
+ 402. file://localhost/wiki/Antiprotozoal_agent
+ 403. file://localhost/wiki/ATC_code_P01
+ 404. file://localhost/wiki/Bikont
+ 405. file://localhost/wiki/Chromalveolate
+ 406. file://localhost/wiki/Apicomplexa
+ 407. file://localhost/wiki/Conoidasida
+ 408. file://localhost/wiki/Coccidiostat
+ 409. file://localhost/wiki/Cryptosporidiosis#Treatment
+ 410. file://localhost/wiki/Thiazole
+ 411. file://localhost/wiki/Nitazoxanide
+ 412. file://localhost/wiki/Isosporiasis#Treatment
+ 413. file://localhost/wiki/Co-trimoxazole
+ 414. file://localhost/wiki/Toxoplasmosis#Treatment
+ 415. file://localhost/wiki/Pyrimethamine
+ 416. file://localhost/wiki/Sulfadiazine
+ 417. file://localhost/wiki/Aconoidasida
+ 418. file://localhost/wiki/Antimalarial_drug
+ 419. file://localhost/wiki/Hemozoin#Inhibitors
+ 420. file://localhost/wiki/Quinoline
+ 421. file://localhost/wiki/Aminoquinoline
+ 422. file://localhost/wiki/4-Aminoquinoline
+ 423. file://localhost/wiki/Amodiaquine
+ 424. file://localhost/wiki/Chloroquine
+ 425. file://localhost/wiki/Hydroxychloroquine
+ 426. file://localhost/wiki/8-Aminoquinoline
+ 427. file://localhost/wiki/Primaquine
+ 428. file://localhost/wiki/Pamaquine
+ 429. file://localhost/wiki/Quinoline
+ 430. file://localhost/wiki/4-Methanolquinoline
+ 431. file://localhost/wiki/Mefloquine
+ 432. file://localhost/wiki/Quinine
+ 433. file://localhost/wiki/Quinidine
+ 434. file://localhost/wiki/Halofantrine
+ 435. file://localhost/wiki/Amyl_alcohol
+ 436. file://localhost/wiki/Lumefantrine
+ 437. file://localhost/wiki/Antifolate
+ 438. file://localhost/wiki/Dihydrofolate_reductase_inhibitor
+ 439. file://localhost/wiki/Pyrimethamine
+ 440. file://localhost/wiki/Biguanide
+ 441. file://localhost/wiki/Proguanil
+ 442. file://localhost/wiki/Cycloguanil
+ 443. file://localhost/wiki/Dihydropteroate_synthetase_inhibitor
+ 444. file://localhost/wiki/Sulfadoxine
+ 445. file://localhost/wiki/PfATP6
+ 446. file://localhost/wiki/Artemisinin
+ 447. file://localhost/wiki/Artemether
+ 448. file://localhost/wiki/Artesunate
+ 449. file://localhost/wiki/Artenimol
+ 450. file://localhost/wiki/Artemotil
+ 451. file://localhost/wiki/Aminoacridine
+ 452. file://localhost/wiki/Quinacrine
+ 453. file://localhost/wiki/Ubiquinone
+ 454. file://localhost/wiki/Atovaquone
+ 455. file://localhost/wiki/Tetracycline
+ 456. file://localhost/wiki/Coartem
+ 457. file://localhost/wiki/Lapdap
+ 458. file://localhost/wiki/Chlorproguanil_hydrochloride-dapsone-artesunate
+ 459. file://localhost/wiki/Babesiosis#Treatment
+ 460. file://localhost/wiki/Clindamycin
+ 461. file://localhost/wiki/Bikont
+ 462. file://localhost/wiki/Excavata
+ 463. file://localhost/wiki/Flagellate
+ 464. file://localhost/wiki/Leishmaniasis#Treatment
+ 465. file://localhost/wiki/Amphotericin_B
+ 466. file://localhost/wiki/Pentavalent_antimonial
+ 467. file://localhost/wiki/Meglumine_antimoniate
+ 468. file://localhost/wiki/Sodium_stibogluconate
+ 469. file://localhost/wiki/Pentamidine
+ 470. file://localhost/wiki/Miltefosine
+ 471. file://localhost/wiki/Paromomycin_sulfate
+ 472. file://localhost/wiki/Trypanocidal_agent
+ 473. file://localhost/wiki/African_trypanosomiasis#Treatment
+ 474. file://localhost/wiki/Eflornithine
+ 475. file://localhost/wiki/Melarsoprol
+ 476. file://localhost/wiki/Pentamidine
+ 477. file://localhost/wiki/Suramin
+ 478. file://localhost/wiki/Chagas_disease#Treatment
+ 479. file://localhost/wiki/Benznidazole
+ 480. file://localhost/wiki/Nifurtimox
+ 481. file://localhost/wiki/Giardiasis#Treatment
+ 482. file://localhost/wiki/Nitrofuran
+ 483. file://localhost/wiki/Furazolidone
+ 484. file://localhost/wiki/Azole
+ 485. file://localhost/wiki/Metronidazole
+ 486. file://localhost/wiki/Albendazole
+ 487. file://localhost/wiki/Tinidazole
+ 488. file://localhost/wiki/Thiazole
+ 489. file://localhost/wiki/Nitazoxanide
+ 490. file://localhost/wiki/Aminoacridine
+ 491. file://localhost/wiki/Quinacrine
+ 492. file://localhost/wiki/Antitrichomonal_agent
+ 493. file://localhost/wiki/Metronidazole
+ 494. file://localhost/wiki/Amoeboid
+ 495. file://localhost/wiki/Primary_amoebic_meningoencephalitis#Treatment
+ 496. file://localhost/wiki/Amphotericin_B
+ 497. file://localhost/wiki/Unikont
+ 498. file://localhost/wiki/Amebicide
+ 499. file://localhost/wiki/Entamebiasis
+ 500. file://localhost/wiki/8-Hydroxyquinoline
+ 501. file://localhost/wiki/Chlorquinaldol
+ 502. file://localhost/wiki/Tilbroquinol
+ 503. file://localhost/wiki/Broxyquinoline
+ 504. file://localhost/wiki/Diiodohydroxyquinoline
+ 505. file://localhost/wiki/Clioquinol
+ 506. file://localhost/wiki/Chiniofon
+ 507. file://localhost/wiki/Nitroimidazole
+ 508. file://localhost/wiki/Metronidazole
+ 509. file://localhost/wiki/Tinidazole
+ 510. file://localhost/wiki/Ornidazole
+ 511. file://localhost/wiki/Nimorazole
+ 512. file://localhost/wiki/Secnidazole
+ 513. file://localhost/wiki/Azanidazole
+ 514. file://localhost/wiki/Propenidazole
+ 515. file://localhost/wiki/Dichloroacetamide
+ 516. file://localhost/wiki/Diloxanide_furoate
+ 517. file://localhost/wiki/Clefamide
+ 518. file://localhost/wiki/Etofamide
+ 519. file://localhost/wiki/Teclozan
+ 520. file://localhost/wiki/Arsenic
+ 521. file://localhost/wiki/Arsthinol
+ 522. file://localhost/wiki/Difetarsone
+ 523. file://localhost/wiki/Glycobiarsol
+ 524. file://localhost/wiki/Isoquinoline
+ 525. file://localhost/wiki/Emetine
+ 526. file://localhost/wiki/Dehydroemetine
+ 527. file://localhost/wiki/Phenanthroline
+ 528. file://localhost/wiki/Phanquinone
+ 529. file://localhost/wiki/Aminoacridine
+ 530. file://localhost/wiki/Mepacrine
+ 531. file://localhost/wiki/Ubiquinone
+ 532. file://localhost/wiki/Naphthalene
+ 533. file://localhost/wiki/Atovaquone
+ 534. file://localhost/wiki/Quinazoline
+ 535. file://localhost/wiki/Trimetrexate
+ 536. file://localhost/wiki/Thiazole
+ 537. file://localhost/wiki/Tenonitrozole
+ 538. file://localhost/wiki/Sesquiterpene
+ 539. file://localhost/wiki/Fumagillin
+ 540. file://localhost/wiki/Aminoglycoside
+ 541. file://localhost/wiki/Paromomycin_sulfate
+ 542. file://localhost/wiki/List_of_World_Health_Organization_Essential_Medicines
+ 543. http://en.wikipedia.org/wiki/Doxycycline
+ 544. file://localhost/wiki/Special:Categories
+ 545. file://localhost/wiki/Category:Tetracycline_antibiotics
+ 546. file://localhost/wiki/Category:Antimalarial_agents
+ 547. file://localhost/wiki/Category:World_Health_Organization_essential_medicines
+ 548. file://localhost/wiki/Doxycycline
+ 549. file://localhost/wiki/Talk:Doxycycline
+ 550. file://localhost/w/index.php?title=Doxycycline&action=edit
+ 551. file://localhost/w/index.php?title=Doxycycline&action=history
+ 552. file://localhost/w/index.php?title=Special:UserLogin&returnto=Doxycycline
+ 553. file://localhost/wiki/Main_Page
+ 554. file://localhost/wiki/Portal:Contents
+ 555. file://localhost/wiki/Portal:Featured_content
+ 556. file://localhost/wiki/Portal:Current_events
+ 557. file://localhost/wiki/Special:Random
+ 558. file://localhost/wiki/Wikipedia:About
+ 559. file://localhost/wiki/Wikipedia:Community_portal
+ 560. file://localhost/wiki/Special:RecentChanges
+ 561. file://localhost/wiki/Wikipedia:Contact_us
+ 562. http://wikimediafoundation.org/wiki/Donate
+ 563. file://localhost/wiki/Help:Contents
+ 564. file://localhost/wiki/Special:WhatLinksHere/Doxycycline
+ 565. file://localhost/wiki/Special:RecentChangesLinked/Doxycycline
+ 566. file://localhost/wiki/Wikipedia:Upload
+ 567. file://localhost/wiki/Special:SpecialPages
+ 568. file://localhost/w/index.php?title=Doxycycline&printable=yes
+ 569. file://localhost/w/index.php?title=Doxycycline&oldid=269945039
+ 570. file://localhost/w/index.php?title=Special:Cite&page=Doxycycline&id=269945039
+ 571. http://zh-min-nan.wikipedia.org/wiki/Doxycycline
+ 572. http://cs.wikipedia.org/wiki/Doxycyklin
+ 573. http://de.wikipedia.org/wiki/Doxycyclin
+ 574. http://es.wikipedia.org/wiki/Doxiciclina
+ 575. http://fr.wikipedia.org/wiki/Doxycycline
+ 576. http://it.wikipedia.org/wiki/Doxiciclina
+ 577. http://nl.wikipedia.org/wiki/Doxycycline
+ 578. http://pl.wikipedia.org/wiki/Doksycyklina
+ 579. http://pt.wikipedia.org/wiki/Doxiciclina
+ 580. http://sr.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%81%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%B8%D0%BD
+ 581. http://fi.wikipedia.org/wiki/Doksisykliini
+ 582. http://tr.wikipedia.org/wiki/Doksisiklin
+ 583. http://www.mediawiki.org/
+ 584. http://wikimediafoundation.org/
+ 585. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 586. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 587. http://www.wikimediafoundation.org/
+ 588. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 589. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 590. http://en.wikipedia.org/wiki/Non-profit_organization
+ 591. http://en.wikipedia.org/wiki/Charitable_organization
+ 592. http://wikimediafoundation.org/wiki/Privacy_policy
+ 593. file://localhost/wiki/Wikipedia:About
+ 594. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 595. file://localhost/wiki/File:Doxycyclin.png
+ 596. file://localhost/wiki/File:Doxycycline_100mg_capsules.jpg
+ 597. file://localhost/wiki/File:Doxycycline_100mg_capsules.jpg
+ 598. file://localhost/wiki/Main_Page
+ 599. http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C_%D8%B3%D8%A7%DB%8C%DA%A9%D9%84%DB%8C%D9%86
+ 600. http://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AD%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3
+ 601. http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%81%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%B8%D0%BD
+ 602. http://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%99
+ 603. http://zh.wikipedia.org/wiki/%E5%9B%9B%E7%92%B0%E9%BB%B4%E7%B4%A0

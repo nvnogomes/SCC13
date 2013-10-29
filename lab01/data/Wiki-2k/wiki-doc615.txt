@@ -1,0 +1,2547 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Electronic Arts
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EA Best Hits)
+   Jump to: [7]navigation, [8]search
+   For Electronic Arts' sports label, see [9]EA Sports.
+
+   CAPTION: Electronic Arts
+
+   [10]Electronic Arts logo
+   [11]Type [12]Public ([13]NASDAQ: [14]ERTS)
+   Founded 1982
+   Headquarters [15]Redwood City, California, [16]United States
+   Key people [17]John Riccitiello, CEO
+   Frank Gibeau, President, EA Games Label
+   [18]Peter Moore, President, EA SPORTS
+   Kathy Vrabeck, President, EA Casual Entertainment
+   Rod Humble, Executive Vice President, The Sims Label
+   [19]Larry Probst, chairman of the board and former CEO (1991-2007)
+   [20]Trip Hawkins, founder and former CEO (1982-1991)
+   [21]Industry [22]Interactive entertainment
+   [23]Market cap $11 billion [24]USD (2008)^[25][1]
+   [26]Revenue $4.665 billion [27]USD (2008)^[28][2]
+   [29]Net income -$454 million [30]USD (2008)
+   [31]Employees 7,900 (2007)^[32][3]
+   [33]Website [34]www.ea.com
+
+   Electronic Arts (EA) ([35]NASDAQ: [36]ERTS) is an international
+   [37]developer, marketer, [38]publisher and distributor of [39]video
+   games. Established in 1982 by [40]Trip Hawkins, the company was a
+   pioneer of the early [41]home computer games industry and was notable
+   for promoting the designers and programmers responsible for its games.
+   Originally, EA was a home computing game publisher. In the late 1980s,
+   the company began developing games in-house and supported consoles by
+   the early 1990s. EA later grew via acquisition of several successful
+   developers. By the early 2000s, EA had become one of the world's
+   largest third-party publishers. Also partly developed by out of
+   Cincinnati, Ohio by Drew Fischer. In 2007 EA ranked 8th on the list of
+   largest software companies in the world.^[42][4] In May 2008, the
+   company reported net annual revenue of [43]US$4.02 billion in fiscal
+   year 2008.^[44][2] Currently, EA's most successful products are sports
+   games published under its [45]EA Sports label, games based on popular
+   movie licenses such as Harry Potter and games from long-running
+   franchises like [46]Need for Speed, [47]Medal of Honor, [48]The Sims,
+   [49]Battlefield and the later games in the [50]Burnout and [51]Command
+   & Conquer series.
+
+Contents
+
+     * [52]1 History
+          + [53]1.1 1982-1991
+               o [54]1.1.1 Early sales strategy
+               o [55]1.1.2 Name change
+               o [56]1.1.3 Sharing credit
+               o [57]1.1.4 Hawkins exits
+          + [58]1.2 1991-2007
+               o [59]1.2.1 Exclusive licenses
+               o [60]1.2.2 Development strategy
+          + [61]1.3 2007
+               o [62]1.3.1 City-state label model
+               o [63]1.3.2 Mac games
+               o [64]1.3.3 Acquisitions
+          + [65]1.4 2008-present
+               o [66]1.4.1 Acquisitions
+               o [67]1.4.2 Casual & Sims label merger
+               o [68]1.4.3 Label architecture and studios
+               o [69]1.4.4 Downsizing
+     * [70]2 Criticism
+          + [71]2.1 Studio acquisition and management practices
+          + [72]2.2 Employment policy
+          + [73]2.3 Game quality
+          + [74]2.4 Editing of Wikipedia
+          + [75]2.5 Anti-trust lawsuit
+          + [76]2.6 EULA Agreements and DRM
+     * [77]3 Notable games published
+     * [78]4 Logos
+          + [79]4.1 1982 to 1999
+          + [80]4.2 1999 to present
+          + [81]4.3 In-game logo introductions
+          + [82]4.4 Slogans
+     * [83]5 Studios and subsidiaries
+          + [84]5.1 Current studios
+          + [85]5.2 Former studios
+     * [86]6 See also
+     * [87]7 References
+     * [88]8 Further reading
+     * [89]9 External links
+
+[[90]edit] History
+
+   This article needs additional [91]citations for [92]verification.
+   Please help [93]improve this article by adding [94]reliable references.
+   Unsourced material may be [95]challenged and removed. (July 2008)
+   Electronic Arts' original corporate logo, 19821999.
+
+[[96]edit] 1982-1991
+
+   In February 1982, Trip Hawkins arranged a meeting with [97]Don
+   Valentine of [98]Sequoia Capital^[99][5] to discuss financing his new
+   venture, Amazin' Software. Valentine encouraged Hawkins to leave
+   [100]Apple Inc., in which Hawkins served as Director of Product
+   Marketing, and allowed Hawkins use of [101]Sequoia Capital's spare
+   office space to start the company. On 28 May 1982, Trip Hawkins
+   incorporated and established the company with a personal investment of
+   an estimated [102]US$200,000. Seven months later in December 1982,
+   Hawkins secured US$2 million of [103]venture capital from [104]Sequoia
+   Capital, [105]Kleiner Perkins Caufield & Byers, and [106]Sevin Rosen
+   Funds.
+
+   For more than seven months, Hawkins had refined his Electronic Arts
+   [107]business plan. With aid from his first employee (with whom he
+   worked in marketing at Apple), [108]Rich Melmon, the original plan was
+   written, mostly by Hawkins, on an [109]Apple II in Sequoia Capital's
+   office in August 1982. During that time, Hawkins also employed two of
+   his former staff from Apple, [110]Dave Evans and [111]Pat Marriott, as
+   [112]producers. The business plan was again refined in September and
+   reissued on 8 October 1982.
+
+   Between September and November, employee headcount rose to 11,
+   including Tim Mott, [113]Bing Gordon, [114]David Maynard, and Steve
+   Hayes. Having outgrown the office space provided by Sequoia Capital,
+   the company relocated to a [115]San Mateo office that overlooked the
+   [116]San Francisco Airport landing path. Headcount rose rapidly in
+   1983, including [117]Don Daglow, [118]Richard Hilleman, Stewart Bonn,
+   David Gardner, and Nancy Fong.
+
+[[119]edit] Early sales strategy
+
+   Hawkins was determined to sell directly to buyers. Combined with the
+   fact that Hawkins was pioneering new game brands, this made sales
+   growth more challenging. Retailers wanted to buy known brands from
+   existing distribution partners. Despite this, revenue was $5 million in
+   the first year and $11 million the next.^[[120]citation needed] Former
+   CEO [121]Larry Probst arrived as VP of Sales in late 1984 and helped
+   the company sustain growth into $18 million in its third full year.
+   Teaming with the existing sales staff that included [122]Nancy Smith,
+   David Klein, and David Gardner, Probst built the largest sales force of
+   any American game publisher.^[[123]citation needed] This policy of
+   dealing directly with retailers gave EA higher margins and better
+   market awareness, key advantages the company would leverage to leapfrog
+   its early competitors.
+
+   In December 1986 David Gardner and Mark Lewis moved to the UK to open a
+   European headquarters. Up until that point publishing of Electronic
+   Arts Games, and the conversion of many of their games to [124]compact
+   cassette versions in Europe was handled by [125]Ariolasoft. A small
+   company in [126]Wales was already called Electronic Arts, and until
+   1997 Electronic Arts in the UK was known legally as EOA, a name derived
+   from its square/circle/triangle logo. The Welsh company ceased trading
+   in 1997 and Electronic Arts acquired the rights to the
+   name.^[[127]citation needed]
+
+[[128]edit] Name change
+
+   Most of the early employees of the company disliked the Amazin'
+   Software name that Hawkins had originally chosen when he incorporated
+   the company.^[[129]citation needed] While at Apple, Hawkins had enjoyed
+   company offsite meetings at [130]Pajaro Dunes and organized such a
+   planning offsite for EA in October 1982. Following a long business day
+   at the offsite, the dozen employees and advisers who were present
+   agreed that they would stay up that night and see if they could agree
+   unanimously on a new name for the company.^[[131]citation needed]
+
+   Hawkins had developed the ideas of treating software as an art form and
+   calling the developers, "software artists." Hence, the latest version
+   of the business plan had suggested the name "SoftArt". However, Hawkins
+   and Melmon knew the founders of [132]Software Arts, the creators of
+   [133]VisiCalc, and thought their permission should be obtained. But
+   [134]Dan Bricklin did not want the name used because it sounded too
+   similar (perhaps "[135]confusingly similar") to Software Arts. However,
+   the name concept was liked by all the attendees. Hawkins had also
+   recently read a best-selling book about the film studio, [136]United
+   Artists, and liked the reputation that company had created. Early
+   advisers Andy Berlin, Jeff Goodby, and Rich Silverstein (who would soon
+   form their own ad agency Goodby, Silverstein & Partners) were also fans
+   of that approach, and the discussion was led by Hawkins and Berlin.
+   Hawkins said everyone had a vote but they would lose it if they went to
+   sleep.^[[137]citation needed]
+
+   Hawkins liked the word "electronic", and various employees had
+   considered the phrases "Electronic Artists" and "Electronic Arts".
+   Other candidates included Gordon's suggestion of "Blue Light", a
+   reference from the movie "Tron".^[[138]citation needed]
+
+   When Gordon and others pushed for "Electronic Artists", in tribute to
+   the [139]film company [140]United Artists, Steve Hayes opposed, saying,
+   "We're not the artists, they are..." meaning that the developers whose
+   games EA would publish were the artists. This statement from Hayes
+   immediately tilted sentiment towards Electronic Arts and the name was
+   unanimously endorsed.^[[141]citation needed]
+
+[[142]edit] Sharing credit
+
+   [143]Pinball Construction Set was an enormous hit for EA. The original
+   version for the [144]Apple II by [145]Bill Budge was quickly
+   [146]ported to other popular [147]home systems of the era.
+
+   A novel approach to giving credit to its developers was one of EA's
+   trademarks in its early days. This characterization was even further
+   reinforced with EA's packaging of most of their games in the "album
+   cover" pioneered by EA because Hawkins thought that a record album
+   style would both save costs and convey an artistic feeling.^[148][6] EA
+   routinely referred to their developers as "artists" and gave them photo
+   credits in their games and numerous full-page [149]magazine ads. EA
+   also shared lavish profits with their developers, which added to their
+   industry appeal. Because of this novel treatment, EA was able to easily
+   attract the best developers.^[[150]citation needed]
+
+   The square "album cover" boxes (such as the covers for 1983's
+   [151]M.U.L.E. and [152]Pinball Construction Set) were a popular
+   packaging concept by Electronic Arts, which wanted to represent their
+   [153]developers as "[154]rock stars".^[155][6]
+
+[[156]edit] Hawkins exits
+
+   After a very successful run on home computers, Electronic Arts later
+   branched out and produced console games as well. Eventually Trip
+   Hawkins left EA to found the now defunct [157]3DO company.
+
+[[158]edit] 1991-2007
+
+   EA is currently headquartered in the [159]Redwood Shores neighborhood
+   of [160]Redwood City, [161]California. Following the departure of Trip
+   Hawkins, [162]Larry Probst took over the reins and led the company to
+   its current size and stature.^[[163]citation needed]
+   Welcome sign at EA headquarters in Redwood Shores
+
+   Probst considered himself a man of principle and has refused to follow
+   the M-rated example set by [164]Take-Two Interactive, whose violent
+   [165]Grand Theft Auto franchise became the dominant brand in many key
+   demographics from 2000 through 2003.^[[166]citation needed] As a
+   result, Probst was heavily criticized by Wall Street analysts, who
+   believe that because of this policy, EA's stock price is lower than it
+   should be.^[[167]citation needed] In late March 2005, Electronic Arts
+   issued its first ever mid-quarter profit warning blaming hardware
+   shortages and lower than expected fourth quarter sales.^[[168]citation
+   needed]
+
+   Not that M-rated games are new to EA: in 1999 EA approved its first
+   M-rated game, [169]System Shock II for the PC. Probst later changed his
+   overall stance on M-rated games, and now EA has several titles that
+   compete in the M-rated, adult game arena.
+
+   In 2004, EA made a multimillion dollar donation to fund the development
+   of game production curriculum at [170]the University of Southern
+   California's Interactive Media Division. In addition to the funds, EA
+   staff members have been actively teaching and lecturing at the
+   school.^[[171]citation needed]
+
+   On 1 February 2006, Electronic Arts announced that it would cut
+   worldwide staff by 5 percent.^[172][7]
+
+   On 20 June 2006 EA purchased [173]Mythic Entertainment, currently
+   working on [174]Warhammer Online. ^[175][8]
+
+[[176]edit] Exclusive licenses
+
+   After Sega's [177]ESPN NFL 2K5 successfully grabbed market share away
+   from EA's dominant Madden NFL series during the 2004 holiday season, EA
+   responded by making several large sports licensing deals which include
+   an exclusive agreement with the [178]NFL, and in January 2005, a
+   15-year deal with [179]ESPN, much as with Take-Two Interactive's
+   exclusive licensing deal with [180]Major League Baseball.^[181][9] The
+   ESPN deal gave EA exclusive first rights to all ESPN content for sports
+   simulation games. On 11 April 2005, EA announced a similar, 6-year
+   licensing deal with the [182]Collegiate Licensing Company (CLC) for
+   exclusive rights to [183]college football content.^[184][10]
+
+[[185]edit] Development strategy
+
+   Much of EA's success, both in terms of sales and with regards to its
+   stock market valuation, is due to its strategy of platform-agnostic
+   development and the creation of strong multi-year franchises. EA was
+   the first publisher to release yearly updates of its sports
+   franchisesMadden, FIFA, NHL, NBA Live, Tiger Woods, etc.with updated
+   player rosters and small graphical and gameplay tweaks.^[186][11]
+   Recognizing the risk of franchise fatigue among consumers, EA announced
+   in 2006 that it would concentrate more of its effort on creating new
+   original [187]intellectual property.^[188][12]
+
+[[189]edit] 2007
+
+   In February 2007, Probst stepped down from the CEO job while remaining
+   on the Board of Directors. His handpicked successor is [190]John
+   Riccitiello, who had worked at EA for several years previously,
+   departed for a while, and then returned.^[[191]citation needed]
+   Riccitiello previously worked for [192]Elevation Partners, [193]Sara
+   Lee and [194]Pepsico.
+
+[[195]edit] City-state label model
+
+   In June 2007, new CEO John Riccitiello announced that EA would
+   reorganize itself into four labels, each with responsibility for its
+   own product development and publishing (the city-state model). The goal
+   of the reorganization was to empower the labels to operate more
+   autonomously, streamline decision-making, increase creativity and
+   quality, and get games into the market faster.^[196][13] This
+   reorganization came after years of consolidation and acquisition by EA
+   of smaller studios, which some in the industry blamed for a decrease in
+   quality of EA titles. In 2008, at the DICE Summit, Riccitiello called
+   the earlier approach of "buy and assimilate" a mistake, often stripping
+   smaller studios of its creative talent. Riccitiello said that the
+   city-state model allows independent developers to remain autonomous to
+   a large extent, and cited Maxis and Bioware as examples of studios
+   thriving under the new structure.^[197][14]^[198][15]
+
+[[199]edit] Mac games
+
+   Also, in 2007, EA announced that it would be bringing some of its major
+   titles to the [200]Macintosh. EA has released [201]Battlefield 2142,
+   [202]Command & Conquer: Tiberium Wars, [203]Harry Potter and the Order
+   of the Phoenix, [204]Madden NFL 08, [205]Need for Speed: Carbon and
+   [206]Spore for the Mac. All of the new games have been developed for
+   the Macintosh using Cider, a technology developed by TransGaming that
+   enables [207]Intel-based Macs to run Windows games inside a translation
+   layer running on Mac OS X. They are not playable on PowerPC-based
+   Macs.^[208][16]
+
+[[209]edit] Acquisitions
+
+   In October 2007, EA purchased [210]Super Computer International, a long
+   standing industry provider of game server hosting for development
+   studios, who were currently developing the new [211]PlayLinc software.
+   A week later they then purchased VG Holding Corp, the parent company of
+   [212]BioWare and [213]Pandemic Studios.^[214][17]
+
+[[215]edit] 2008-present
+
+[[216]edit] Acquisitions
+
+   It was revealed in February 2008 that Electronic Arts had made a
+   takeover bid for rival game company [217]Take-Two Interactive. After
+   its initial offer of $25 per share, all cash stock transaction offer
+   was rejected by the Take-Two board, EA revised it to $26 per share, a
+   64% premium over the previous day's closing price and made the offer
+   known to the public.^[218][18] Rumours had been floating around the
+   internet prior to the offer about Take-Two possibly being bought over
+   by a bigger company, albeit with [219]Viacom as the potential
+   bidder.^[220][19]^[221][20]
+
+   In May 2008, EA announced that it will purchase the assets of Hands-On
+   Mobile Korea, a South Korean mobile game developer and publisher. The
+   company will become EA Mobile Korea.^[222][21]
+
+   In September 2008, EA dropped its buyout offer of Take-Two. No reason
+   was given.^[223][22]
+
+[[224]edit] Casual & Sims label merger
+
+   As of Nov 6, 2008 it was confirmed that Electronic Arts is closing
+   their Casual Label & merging it with their [225]Hasbro partnership with
+   [226]The Sims Label.^[227][23] EA also confirmed the departure of Kathy
+   Vrabeck, who was given the position as former president of the EA
+   Casual Division in May 2007. EA made this statement about the merger
+
+     "Weve learned a lot about casual entertainment in the past two
+     years, and found that casual gaming defies a single genre and
+     demographic. With the departure of Kathy Vrabeck, EA is reorganizing
+     to integrate casual games development and marketing into other
+     divisions of our business. We are merging our Casual Studios, Hasbro
+     partnership, and Casual marketing organization with The Sims Label
+     to be a new Sims and Casual Label, where there is a deep
+     compatibility in the product design, marketing and demographics."
+     "In the days and weeks ahead, we will make further announcements on
+     the reporting structure for the other businesses in the Casual Label
+     including EA Mobile, Pogo, Media Sales and Online Casual
+     Initiatives. Those businesses remain growth priorities for EA and
+     deserve strong support in a group that will compliment their
+     objectives."^[228][24]
+
+   This statement comes a week after EA announced it was laying off 6%
+   about 600 of their staff positions & had a $310 million net loss for
+   the quarter.^[229][25]
+
+[[230]edit] Label architecture and studios
+
+   The following are the four Electronic Arts labels, with the studios
+   that fall under each label ^[231][26]
+     * EA Games -- Home to the largest number of studio and development
+       teams, this label is responsible for action-adventure, role
+       playing, racing and combat games, marketed under the EA brand. In
+       addition to traditional packaged-goods games, EA Games also
+       develops massively-multiplayer online role-playing games. Led by
+       Frank Gibeau.
+          + EA Redwood Shores
+          + [232]EA Los Angeles
+          + [233]EA Montreal
+          + [234]BioWare
+          + [235]EA Digital Illusions CE
+          + [236]Pandemic Studios
+          + [237]EA Black Box
+          + [238]Maxis
+          + [239]EA Phenomic
+          + [240]Criterion Games
+          + [241]Mythic Entertainment
+     * [242]EA Sports -- Publishes all the realistic, casual, and
+       freestyle sports-based titles from EA, including FIFA Soccer,
+       [243]Madden NFL, Fight Night, NBA Live, NCAA Football, [244]NCAA
+       March Madness, Tiger Woods PGA Tour, NHL Hockey, NASCAR and Rugby.
+       Led by [245]Peter Moore.
+          + EA Tiburon (Florida)
+          + EA Canada (Vancouver)
+          + EA Sports Big (San Francisco)
+     * EA Casual Entertainment -- Creates and publishes casual games for
+       gamers and non-traditional gamers. Includes EA's Pogo online
+       service [246]Pogo.com (online games site, with numerous EA brand
+       tie-ins), EA Hasbro, and [247]EA Mobile (mobile phone and iPod
+       games, previously [248]JAMDAT). Led by Kathy Vrabeck.
+     * "[249]The Sims" Label -- develops and markets life-simulation games
+       and online communities, including those with "Sims" titles. Led by
+       Rod Humble.
+
+[[250]edit] Downsizing
+
+   Due to the [251]2008 Economic Crisis, Electronic Arts had a poorer than
+   expected 2008 holiday season, moving it in February 2009 to cut
+   approximately 1100 jobs, which it said represented about 11% of its
+   workforce. It will also close 12 facilities, yet to be identified.
+   Riccitiello, in a conference call with reporters, stated that their
+   poor performance in the fourth quarter wasn't due entirely to the poor
+   economy, but also to the fact that they didn't release any blockbuster
+   titles in the quarter. In the quarter ending December 31, 2008, the
+   company lost [252]USD$641 million.^[253][27]^[254][28]
+
+[[255]edit] Criticism
+
+[[256]edit] Studio acquisition and management practices
+
+          See also: [257]List of acquisitions by Electronic Arts
+
+   During its period of fastest growth, EA was often criticized for buying
+   smaller development studios primarily for their intellectual property
+   assets, and then producing drastically changed games of their
+   franchises. For example, [258]Origin-produced [259]Ultima VIII: Pagan
+   and [260]Ultima IX: Ascension were developed quickly under EA's
+   ownership, over the protests of Ultima creator [261]Richard
+   Garriott,^[262][29] and these two are considered by many^[263][30] as
+   not up to the standard of the rest of the series.^[264][31]^[265][32]
+
+   In early 2008, current CEO John Riccitiello stated that this practice
+   by EA was wrong and that the company now gives acquired studios greater
+   autonomy without "meddling" in their corporate culture.^[266][14]
+
+   In 2008, [267]John D. Carmack of [268]id Software said that EA is no
+   longer The Evil Empire. id decided to go with EA Partners, despite
+   having a poor opinion of the publisher's past record. "I'll admit that,
+   if you asked me years ago, I still had thoughts that EA was the Evil
+   Empire, the company that crushes the small studios...I'd have been
+   surprised, if you told me a year ago that we'd end up with EA as a
+   publisher.", he said. "When we went out and talked to people,
+   especially EA Partners people like Valve, we got almost uniformly
+   positive responses from them." Like other EA Partners, such as
+   Harmonix/MTV Games, Carmack stressed that EA Partners deal "isn't
+   really a publishing arrangement. Instead, they really offer a menu of
+   services--Valve takes one set of things, [269]Crytek takes a different
+   set, and we're probably taking a third set". ^[270][33]
+
+   EA was criticized for shutting down some of its acquired studios after
+   they released poorly performing games (for instance, Origin).^[271][34]
+   Though, in some of the cases, the shutdown was merely a reformation of
+   teams working at different small studios into a single
+   studio.^[272][35]^[273][36] The historical pattern of poor sales and
+   ratings of the first game shipped after acquisition suggests EA's
+   control and direction as being primarily responsible for the game's
+   failure rather than the studio. In the past, [274]Magic Carpet 2 was
+   rushed to completion over the objections of designer [275]Peter
+   Molyneux and it shipped during the holiday season with several major
+   bugs. Studios such as Origin and [276]Bullfrog Productions had
+   previously produced games attracting a unsignificant fanbase. Many fans
+   also became annoyed that their favorite developers were closed down,
+   but some developers, for example the EALA studio, have stated that they
+   try to carry on the legacy of the old studio (Westwood Studios). Once
+   EA received criticism from labor groups for its dismissals of large
+   groups of employees during the closure of a studio. However, later, it
+   was confirmed that layoffs were not heavily confined to one team or
+   another, countering early rumors that the teams were specifically
+   targeted -- countering the implication that the under performance of
+   certain games might have been the catalyst.^[277][37]
+
+   EA was once criticized for the acquisition of 19.9 percent of shares of
+   its competitor [278]Ubisoft, a move that many felt would lead to a
+   hostile takeover but has never materialized as such. However, Ubisoft
+   CEO Guillemot later indicated that a merger with EA was a possibility.
+   "The first option for us is to manage our own company and grow it. The
+   second option is to work with the movie industry, and the third is to
+   merge," he said.^[279][38]
+
+   EA was criticized in the media for its attempted [280]hostile takeover
+   of [281]Take Two Interactive.^[282][39]
+
+[[283]edit] Employment policy
+
+   In 2004, Electronic Arts was criticized for employees working
+   extraordinarily long hoursup to 100 hours per week and not just at
+   "crunch" times leading up to the scheduled releases of products. The
+   publication of the [284]EA Spouse blog, with criticisms such as "The
+   current mandatory hours are 9 a.m. to 10 p.m.seven days a weekwith the
+   occasional Saturday evening off for good behaviour (at 6:30
+   p.m.)".^[285][40] The company has since settled a [286]class action
+   lawsuit brought by [287]game artists to compensate for "unpaid
+   overtime".^[288][41] The class was awarded $15.6 million. As a result,
+   many of the lower-level developers (artists, programmers, producers,
+   and designers) are now working at an hourly rate. A similar suit
+   brought by [289]programmers was settled for $14.9 million.^[290][42]
+
+   Since these criticisms first aired, it's been reported that EA has
+   taken steps to positively address "work-life balance" concerns by
+   focusing on long-term project planning, compensation, and communication
+   with employees. These efforts accelerated with the arrival of John
+   Riccitiello as CEO in February 2007. In December 2007, an internal EA
+   employee survey showed a 13% increase in employee morale and a 21% jump
+   in management recognition over a three year period.^[291][43]
+
+   In May 2008, 'EA_Spouse' blog author Erin Hoffman, speaking to
+   videogame industry news site [292]Gamasutra, stated that EA has made
+   significant progress. Hoffman said that "I think EA is tremendously
+   reformed, having made some real strong efforts to get the right people
+   into their human resources department," and "I've been hearing from
+   people who have gotten overtime pay there and I think that makes a
+   great deal of difference. In fact, I've actually recommended to a few
+   people I know to apply for jobs there."^[293][44]
+
+[[294]edit] Game quality
+
+   For 2006, the games review aggregation site [295]Metacritic gives the
+   average of EA games as 72.0 (out of 100); 2.5 points behind
+   [296]Nintendo (74.5) but ahead of the other first-party publishers
+   Microsoft (71.6) and Sony (71.2). The closest third-party publisher is
+   [297]Take-Two Interactive (publishing as 2K Games and Rockstar Games)
+   at 70.3. The remaining top 10^[298][45] publishers ([299]Sega,
+   [300]Konami, [301]THQ, [302]Ubisoft, [303]Activision) all rate in the
+   mid 60s. Since 2005 EA has published three games, [304]Battlefield 2,
+   [305]Crysis, and [306]Rock Band, that received Universal Acclaim
+   (Metacritic score 90 or greater).
+
+   EA's aggregate review performance had shown a downward trend in quality
+   over recent years and was expected to affect market shares during
+   competitive seasons. Pacific Crest Securities analyst Evan Wilson had
+   said, "Poor reviews and quality are beginning to tarnish the EA brand.
+   According to our ongoing survey of GameRankings.com aggregated review
+   data, Electronic Arts' overall game quality continues to
+   fall...Although market share has not declined dramatically to date, in
+   years such as 2007, which promises to have tremendous competition, it
+   seems likely if quality does not improve."^[307][46]^[308][47]
+
+   EA had also received criticism for developing games that lack
+   innovation vis--vis the number of gaming titles produced under the EA
+   brand that show a history of yearly updates, particularly in their
+   sporting franchises. These typically retail as new games at full market
+   price and feature only updated team rosters in addition to incremental
+   changes to game mechanics, the user interface, and graphics. One
+   critique compared EA to companies like Ubisoft and concluded that EA's
+   innovation in new and old IPs, "Crawls along at a snail's
+   pace.",^[309][48] while even the company's own CEO, John Riccitiello,
+   acknowledged the lack of innovation seen in the industry generally,
+   saying, "We're boring people to death and making games that are harder
+   and harder to play. For the most part, the industry has been
+   rinse-and-repeat. There's been lots of product that looked like last
+   year's product, that looked a lot like the year before." EA has
+   announced that it is turning its attention to creating new game IPs in
+   order to stem this trend, with recently acquired and critically
+   acclaimed studios Bioware and Pandemic would be contributing to this
+   process..^[310][49]^[311][50]
+
+[[312]edit] Editing of Wikipedia
+
+   On August 15, 2007 it was revealed that somebody with an [313]IP
+   address linked to EA had made changes to its [314]Wikipedia
+   entry.^[315][51]^[316][52] The changes made included erasing [317]Trip
+   Hawkins as founder of the company and adding a paragraph emphasizing
+   the work of former CEO, [318]Larry Probst, attempts to remove
+   information regarding the infamous [319]EA Spouse scandal, which
+   involved the poor treatment of workers and several paragraphs under
+   criticism were removed. ^[320][51]
+
+   An EA spokesperson told GamesIndustry.biz that "EA sometimes updates
+   websites with info about the company, games and employees. For example,
+   EA has sent a correction to Yahoo Finance when they had misspelled the
+   name of an EA executive." While not specifically addressing the
+   changes, EA's spokesperson explained that "Many companies routinely
+   post updates on websites like Wikipedia to ensure accuracy of their own
+   corporate information." ^[321][53]
+
+[[322]edit] Anti-trust lawsuit
+
+   On June 5, 2008, a lawsuit was filed in [323]Oakland, California
+   alleging Electronic Arts is breaking United States anti-trust laws by
+   signing exclusive contracts with the NFL Players Association, the NCAA
+   and Arena Football League, to use players' names, likenesses and team
+   logos. This keeps other companies from being able to sign the same
+   agreements. The suit further accuses EA of raising the price of games
+   associated with these licenses as a result of this action.^[324][54]
+   However, in an interview with GameTap, Peter Moore claims it was the
+   NFL that sought the deal. "To be clear, the NFL was the entity that
+   wanted the exclusive relationship. EA bid, as did a number of other
+   companies, for the exclusive relationship," Moore explained. "It wasn't
+   on our behest that this went exclusive... We bid and we were very
+   fortunate and lucky and delighted to be the winning licensee."
+   ^[325][55]
+
+[[326]edit] EULA Agreements and DRM
+
+   In the September 2008 release of EA's game [327]Spore it was revealed
+   that the [328]DRM scheme included a program called [329]SecuROM and a
+   lifetime machine-activation limit of three (3) instances. A huge public
+   outcry over this DRM scheme broke out over the internet and swarmed
+   Amazon.com with one-star ratings and critical reviews of the game in
+   order to get EA to "pay attention to their consumers".^[330][56] This
+   DRM scheme, which was intended to hinder the efforts of pirates to
+   illegally use and distribute EA software, instead mainly affected
+   paying customers, as the game itself was pirated well before
+   release.^[331][57] On September 13, 2008, it was announced that Spore
+   was the most pirated game ever with over half a million illegal
+   downloads within the first week of release.^[332][58] In response to
+   customer reaction, EA officially announced its release of upcoming
+   [333]Command & Conquer: Red Alert 3 would increase the installation
+   limit to 5 rather than 3.^[334][59] Many customers were still
+   unsatisfied, claiming they were still renting the game at full price.
+
+   On September 22, 2008, a global class action law suit was filed against
+   EA regarding the DRM in Spore, complaining about EA not disclosing the
+   existence of SecuROM from the game manual, and addresses how SecuROM
+   runs with the nature of a [335]rootkit, including how it remains on the
+   [336]hard drive even after Spore is
+   uninstalled.^[337][60]^[338][61]^[339][62] On October 14, 2008, a
+   similar class action lawsuit was filed against EA for the inclusion of
+   DRM software in the free demo version of the Creature
+   Creator.^[340][63]
+
+[[341]edit] Notable games published
+
+          See also: [342]List of Electronic Arts games
+
+   Some of the most notable and popular games of video game history have
+   been published by EA, and many of these are listed below. Though EA
+   published these titles, they did not always develop them; some were
+   developed by independent game development studios. EA developed their
+   first game in 1987.
+     * [343]Pinball Construction Set (1983) by [344]Bill Budge^[345][64]
+     * [346]Archon (1983) and [347]Archon II: Adept (1984) by [348]Free
+       Fall Associates
+     * [349]M.U.L.E. (1983) by [350]Dani Bunten and [351]Ozark Softscape
+     * [352]One on One: Dr. J vs. Larry Bird (1983) by [353]Eric Hammond
+     * [354]Music Construction Set (1984) by [355]Will Harvey
+     * [356]The Seven Cities of Gold (1984) by [357]Dani Bunten and
+       [358]Ozark Softscape
+     * [359]The Bard's Tale (1985) by [360]Interplay Productions
+     * [361]Mail Order Monsters (1985) by [362]Paul Reiche III, [363]Evan
+       Robinson and [364]Nicky Robinson
+     * [365]Racing Destruction Set (1985) by [366]Rick Koenig
+     * [367]Starflight (1986) by Binary Systems
+     * [368]Skate or Die! (1987), EA's first internally-developed title
+     * [369]Populous (1989) by [370]Bullfrog which EA acquired in 1995
+     * [371]Desert Strike: Return to the Gulf (1992) by EA's High Score
+       Production group
+     * [372]FIFA series (1993current)
+     * [373]Need for Speed series (1994present) (first installment was
+       made by EA in collaboration with [374]Road & Track)
+     * [375]Ultima Online (1997) by [376]Origin Systems
+     * [377]Command & Conquer series (titles from 1999present) by
+       [378]Westwood Studios (earlier titles released by [379]Virgin
+       Interactive)
+     * [380]Dungeon Keeper 2 by [381]Bullfrog Productions
+     * [382]SimCity series (titles from 1999current) by [383]Maxis
+       (earlier titles released by other publishers)
+     * [384]Medal of Honor series (1999present)
+     * [385]SSX series (20002008)
+     * [386]James Bond series (19992005)
+     * [387]The Sims series (2000) by EA's [388]Maxis studio
+     * [389]Burnout series (2001present)
+     * [390]Battlefield series (2002present) by [391]Digital Illusions CE
+     * [392]Madden NFL series (1989present)
+     * [393]NCAA Football series (1993present)
+     * [394]Crysis series (2007-present) by [395]Crytek
+     * [396]Rock Band series (2007-present) by [397]Harmonix
+     * [398]Spore (2008) by EA's [399]Maxis studio
+     * [400]Dead Space (2008)
+     * [401]Mirror's Edge (2008)
+     * [402]EA Skate (2007)
+     * [403]Skate 2 (2009)
+
+   Electronic Arts also published a number of non-game titles. The most
+   popular of these was closely related to the video game industry and was
+   actually used by several of their developers. [404]Deluxe Paint
+   premiered on the [405]Amiga in 1985 and was later ported to other
+   systems. The last version in the line, Deluxe Paint V, was released in
+   1994. Other non-game titles include [406]Music Construction Set (and
+   [407]Deluxe Music Construction Set), [408]Deluxe Paint Animation and
+   [409]Instant Music. EA also published a black and white animation tool
+   called Studio/1, and a series of Paint titles on the Macintosh:
+   Studio/8 and Studio/32 (1990).
+
+[[410]edit] Logos
+
+   The Electronic Arts logo has undergone few changes in the company's
+   history.
+
+                 The classic Electronic Arts logo, 19821999.
+
+   Current Electronic Arts logo used since 1999.
+
+   The original EASN and EA Sports logos.
+
+[[411]edit] 1982 to 1999
+
+   EA's classic Square/Circle/Triangle corporate logo, adopted shortly
+   after its founding and phased out in 1999, was devised by [412]Barry
+   Deutsch of [413]Steinhilber Deutsch and Gard design firm. The three
+   shapes were meant to stand for the "basic alphabet of graphic design."
+   The shapes were rasterized to connote technology.^[[414]citation
+   needed]
+
+   Many customers mistook the square/circle/triangle logo for a stylized
+   "EOA." Though they thought the "E" stood for "Electronic" and "A" for
+   "Arts," they had no idea what the "O" could stand for, except perhaps
+   the o in "Electronic." An early [415]newsletter of EA, Farther, even
+   jokingly discussed the topic in one issue, claiming that the square and
+   triangle indeed stood for "E" and "A", but that the circle was merely
+   "a [416]Nerf ball that got stuck in a floppy drive and has been popping
+   up on our splash screens ever since."^[[417]citation needed] Other
+   customers saw the logo as a stylized "ECA".
+
+   Nancy Fong and Bing Gordon came up with the idea to hide the three
+   shapes on the cover of every game, borrowing the idea from the
+   [418]urban legends concerning the placement of the bunny symbols on the
+   covers of [419]Playboy magazine.^[[420]citation needed] Finding the
+   logo's hidden placement on early EA titles was a ritual for employees
+   whenever a new cover was displayed outside Fong's
+   cubicle.^[[421]citation needed]
+
+   In December of 1986 David Gardner and Mark Lewis moved to the UK to
+   open a European headquarters. Up until that point publishing of
+   Electronic Arts Games, and the conversion of many of their games to
+   [422]compact cassette versions in [423]Europe was handled by
+   [424]Ariolasoft.
+
+[[425]edit] 1999 to present
+
+   The current EA logo was derived from the logo used by sub-brand [426]EA
+   Sports. It was first used, in a different form, in 1992, when
+   Electronic Arts introduced the "EASN" brand (later changed to "EA
+   Sports" due to legal difficulties with [427]ESPN^[[428]citation
+   needed]). The logo was modified and adopted company-wide around 1999.
+
+[[429]edit] In-game logo introductions
+
+     * late-1990s to 2001: Originally an explosion sound effect
+       accompanying the letters for "Electronic Arts" flying into
+       formation, followed by an electronic voice. The sound effects have
+       changed in certain games (sounds of the letters whipping past, for
+       example)
+     * 1999 to 2003: An outlined circle flips and forms the modern EA
+       Games logo. Accompanied by a synthesized ping sound.
+     * 2002 to 2004: EA Games logo appearing on screen, accompanied by the
+       voice "EA Games, *whisper* challenge everything".
+     * 2005: Silver EA logo appearing then fading away
+     * 2006 to present: The logo is different with every game, taking on
+       certain visual aspects of the game it is presented with. However
+       the EA letters always remain the same and the logo always remains a
+       circle.
+
+[[430]edit] Slogans
+
+     * "We see farther." Founding tag line
+     * "EA Games, challenge everything."
+     * "EA Sports, it's in the game." a shortened version of their
+       original slogan "If it's in the game, it's in the game.". "EA
+       Sports, it's in the game" is spoken by Andrew Anthony, a journalist
+       for [431]The Guardian and [432]The Observer.^[433][65]
+
+[[434]edit] Studios and subsidiaries
+
+   EA headquarters
+
+[[435]edit] Current studios
+
+     * [436]Criterion Games in [437]Guildford, United Kingdom
+     * [438]EA Digital Illusions CE in [439]Stockholm, Sweden
+     * [440]EA Black Box in [441]Vancouver, British Columbia
+     * [442]EA Canada in [443]Burnaby, British Columbia
+     * EA China in [444]Shanghai, China
+     * EA Turkey in [445]stanbul,Turkey
+     * EA Turkey in [446]Ankara,Turkey
+     * [447]EA Los Angeles in [448]Los Angeles, California
+     * [449]EA Montreal in [450]Montreal, Quebec
+     * EA Casual Entertainment
+     * [451]Mythic Entertainment (Formerly EA Mythic) in [452]Fairfax,
+       Virginia
+     * EA North Carolina in Morrisville,North Carolina
+     * EA Korea in [453]Seoul, South Korea
+     * EA Byrnest in [454]Mount Sinai, New York
+     * EA Redwood Shores in [455]Redwood City, California
+     * EA Freestyle in [456]San Francisco, California (Formerly EA Sports
+       Big)
+     * EA Singapore [457][1]
+     * EA UK [458][2] in Guildford, Surrey
+     * EA India, Noida
+     * [459]Maxis in [460]Emeryville, California
+     * [461]EA Phenomic in [462]Ingelheim, Germany
+     * [463]EA Tiburon in [464]Maitland, Florida
+     * [465]EA Salt Lake in [466]Bountiful, Utah (Formerly [467]Headgate
+       Studios)
+     * [468]EIS (European Integration Studio) in [469]Madrid, Spain
+     * [470]EA Mobile in [471]Bucharest, Romania
+     * EA Mobile in [472]Hyderabad, India
+     * [473]EA Studio in [474]Bucharest, Romania, from 2008
+     * EA Atlanta in [475]Atlanta, Georgia, as of October 2007
+     * [476]BioWare in [477]Edmonton, Alberta, Canada and [478]Austin,
+       Texas, as of January 2008
+     * [479]Pandemic Studios in [480]Los Angeles, California and
+       [481]Brisbane, Queensland, Australia, as of January 2008
+
+[[482]edit] Former studios
+
+     * Original HQ in [483]San Mateo, California moved to Redwood City in
+       1998
+     * [484]Origin Systems in [485]Austin, Texas acquired in 1992, closed
+       in 2004
+     * [486]Bullfrog Productions in [487]Surrey, England acquired in 1995,
+       merged with EA UK and effectively closed in 2001
+     * EA Baltimore in [488]Baltimore, [489]Maryland established in 1996
+       as part of Origin, closed in 2000
+     * EA Seattle in [490]Seattle, Washington formerly Manley &
+       Associates, acquired in 1996, closed in 2002
+     * [491]Maxis in [492]Walnut Creek, California acquired in 1997, moved
+       in 2004 to Redwood City
+     * [493]Westwood Studios in [494]Las Vegas, Nevada acquired in 1998,
+       shut down in 2003
+     * EA Pacific (known for a time as Westwood Pacific) in [495]Irvine,
+       California formerly part of Virgin Interactive, acquired with
+       Westwood in 1998, closed in 2003
+     * [496]Kesmai (known also as GameStorm); acquired in 1999, closed in
+       2001.
+     * [497]DICE Canada in [498]London, Ontario (created [499]Battlefield
+       2: Special Forces expansion, Battlefield Vietnam, and all BF2
+       patches). Acquired DICE fully 2 October 2006; closed DICE Canada
+       studio hours later.
+     * EA Japan in [500]Tokyo, Japan closed due to consolidation; moved
+       under EA Partners model
+     * [501]EA UK in [502]Chertsey, United Kingdom moved to EA UK in
+       Guildford
+     * EA Chicago in [503]Chicago, Illinois. Formerly [504]NuFX, Acquired
+       in 2004, closed November 06 2007 due to failure to meet profit
+       targets.[505][3]
+
+[[506]edit] See also
+
+     * [507]List of Electronic Arts games
+     * [508]History of computer and video game companies
+
+[[509]edit] References
+
+    1. [510]^ [511]"Company Profile for Electronic Arts Inc (ERTS)".
+       [512]http://zenobank.com/index.php?symbol=ERTS&page=quotesearch.
+       Retrieved on 2008-10-01.
+    2. ^ [513]^a [514]^b [515]EA Reports Fourth Quarter And Fiscal Year
+       2008 Results ([516]PDF) from [517]Thomson Reuters
+    3. [518]^ [519]Electronic Arts 2007 Proxy Statement and Annual Report
+       ([520]PDF) from [521]Thomson Reuters
+    4. [522]^ Software Top 100: [523]"The World's Largest Software
+       Companies"
+    5. [524]^ [525]Electronic Arts entry from [526]Sequoia Capital
+    6. ^ [527]^a [528]^b [529]The History of the Pinball Construction Set:
+       Launching Millions of Creative Possibilities from [530]Gamasutra
+    7. [531]^ [532]Electronic Arts cuts staff by 5 percent from
+       [533]GameSpot
+    8. [534]^ [535]Electronic Arts To Acquire Mythic Entertainment from
+       [536]Gamasutra
+    9. [537]^ [538]Big Deal: EA and NFL ink exclusive licensing agreement
+       from [539]GameSpot
+   10. [540]^ [541]All Madden, all the time from [542]ESPN
+   11. [543]^ [544]EA Puts it "In the Game" from [545]GameSpy
+   12. [546]^ [547]EA moves towards new IPs from [548]Gamesindustry.biz
+   13. [549]^ [550]EA Announces New Company Structure from [551]Gamasutra
+       (June 18, 2007)
+   14. ^ [552]^a [553]^b [554]EA's CEO: How I Learned To Acquire
+       Developers And Not *** Them Up from [555]Wired Blogs
+   15. [556]^ [557]A Company Looks to Its Creative Side to Regain What It
+       Had Lost from [558]The New York Times
+   16. [559]^ [560]EA ships four Mac games from [561]MacWorld
+   17. [562]^ [563]EA - Action, Fantasy, Sports, and Strategy
+       Videogames^[[564]dead link]
+   18. [565]^ Brian Crecente (February 24 2008). [566]"Top: EA Makes Offer
+       to Buy Take 2". Kotaku.
+       [567]http://kotaku.com/360123/ea-makes-offer-to-buy-take-2.
+       Retrieved on 2008-09-17.
+   19. [568]^ Michael McWhertor (December 20 2007). [569]"Take-two
+       Interactive: Analyst "Convinced" That Take-Two Will Be Swallowed".
+       Kotaku.
+       [570]http://kotaku.com/336364/analyst-convinced-that-take+two-will-
+       be-swallowed. Retrieved on 2008-09-17.
+   20. [571]^ Luke Plunkett (February 6 2008). [572]"Rumor: Viacom To Buy
+       Take-Two?". Kotaku.
+       [573]http://kotaku.com/353561/viacom-to-buy-take+two. Retrieved on
+       2008-09-17.
+   21. [574]^ [575]Electronic Arts to acquire Korean mobile developer,
+       Associated Press, 22 May 2008
+   22. [576]^ [577]"Electronic Arts drops buyout bid for rival". [578]CTV
+       News.
+       [579]http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080914/e
+       lectronicarts_buyout_090814/20080914?hub=SciTech. Retrieved on
+       2008-09-14.
+   23. [580]^
+       [581]http://kotaku.com/5078340/electronic-arts-ditches-casual-label
+       -merges-it-with-the-sims
+   24. [582]^
+       [583]http://kotaku.com/5071439/electronic-arts-lays-off-six-hundred
+   25. [584]^
+       [585]http://kotaku.com/5071454/ea-loses-310-million-sees-weakness-a
+       t-retail-in-october
+   26. [586]^ [587]EDGAR Online via Yahoo! Finance, Electronic Arts FY
+       2008 10K Filing
+   27. [588]^ Wolverton, Troy (02-03-2009). [589]"Electronic Arts has
+       lousy quarter; slashes 1,100 jobs". [590]Contra Costa Times.
+       [591]http://www.contracostatimes.com/technology/ci_11618727.
+       Retrieved on 05-02-2009.
+   28. [592]^ The Associated Press (02-04-2009). [593]"EA loss widens
+       after weak holiday season". [594]The Orlando Sentinel.
+       [595]http://www.orlandosentinel.com/business/orl-earnings0409feb04,
+       0,7016950.story. Retrieved on 05-02-2009.
+   29. [596]^ [597]"The Conquest of Origin", page 2 from [598]The Escapist
+   30. [599]^ [600]Many believe Ultima IX was unfairly maligned because of
+       rushed development schedule
+   31. [601]^ [602]Ultima VIII received poorly by fans from [603]GameFAQs
+   32. [604]^ [605]Ultima IX received poorly by fans from [606]GameFAQs
+   33. [607]^
+       [608]http://ve3d.ign.com/articles/news/39962/John-Carmack-EA-No-Lon
+       ger-The-Evil-Empire
+   34. [609]^ Funky Zealot ([610]2004-[611]02-25). [612]"EA to Shut Down
+       Origin Systems". GamePro.
+       [613]http://www.gamepro.com.au/index.php/id;476539124;fp;4;fpid;4.
+       Retrieved on [614]2008-[615]09-17.
+   35. [616]^ Robert Matei ([617]2006-[618]10-17). [619]"EA Closes Down
+       Warrington Studio - Another development studio shut down".
+       Softpedia.
+       [620]http://news.softpedia.com/news/EA-Closes-Down-Warrington-Studi
+       o-38110.shtml. Retrieved on [621]2008-[622]09-17.
+   36. [623]^ Brendan Sinclair ([624]2006-[625]10-06). [626]"EA shuts down
+       DICE Canada". GameSpot.
+       [627]http://www.gamespot.com/news/6159448.html. Retrieved on
+       2008-09-17.
+   37. [628]^ Christian Nutt ([629]2005-[630]01-26). [631]"Layoffs and
+       Restructuring at EA LA". 1UP.com.
+       [632]http://www.1up.com/do/newsStory?cId=3137918. Retrieved on
+       2008-09-17.
+   38. [633]^ Ross Miller ([634]2007-[635]05-29). [636]"Ubisoft president
+       'still considering' EA acquisition". Joystiq.
+       [637]http://www.joystiq.com/2007/05/29/ubisoft-president-still-cons
+       idering-ea-acquisition/. Retrieved on [638]2008-[639]09-17.
+   39. [640]^ John "JCal" Callaham ([641]2009-[642]01-29). [643]"EA
+       Attempts Hostile Takeover of Take Two Interactive".
+       firingsquad.com.
+       [644]http://www.firingsquad.com/news/newsarticle.asp?searchid=19716
+       . Retrieved on 2009-09-29.
+   40. [645]^ [646]The original ea_spouse blog entry at [647]LiveJournal
+   41. [648]^ [649]"Employees readying class-action lawsuit against EA"
+       from [650]GameSpot
+   42. [651]^ [652]"Programmers Win EA Overtime Settlement, EA_Spouse
+       Revealed" from [653]Gamasutra
+   43. [654]^ [655]"'Big corporation' does a turnaround" from [656]The
+       Vancouver Sun
+   44. [657]^ [658]"'EA_Spouse' Hoffman: Quality Of Life Still Issue,
+       Despite EA Improvement" from [659]Gamasutra
+   45. [660]^ [661]Top 10 publishers according to Game Develop magazine
+   46. [662]^ [663]Analyst: EA brand tarnished
+   47. [664]^ [665]EA brand "tarnished" according to analyst
+   48. [666]^ [667]EA innovation crawls along at "snail's pace".
+   49. [668]^ [669]EA CEO John Riccitiello: More innovation is needed in
+       videogames
+   50. [670]^
+       [671]http://www.gamesindustry.biz/articles/ea-completes-bioware-pan
+       demic-deal Bioware/Pandemic deal goes through.
+   51. ^ [672]^a [673]^b [674]"EA staffer plays history revisionist on
+       Wikipedia" from Joystiq.com
+   52. [675]^ [676]"EA Staffer Attempts to Alter Wiki History" from
+       ShackNews.com
+   53. [677]^ [678]"EA responds to Wikipedia revision controversy" article
+       from GamesIndustry.biz
+   54. [679]^ [680]Anti-trust lawsuit over exclusive license contracts
+   55. [681]^ Ben Kuchera ([682]2008-[683]06-12). [684]"Lawsuit flags EA
+       for illegal procedure on football monopoly". Arstechnica.
+       [685]http://arstechnica.com/news.ars/post/20080612-lawsuit-flags-ea
+       -for-illegal-procedure-on-football-monopoly.html. Retrieved on
+       [686]2008-[687]09-17.
+   56. [688]^ [689]"Copyright row dogs Spore release". BBC News.
+       [690]2008-[691]09-10.
+       [692]http://news.bbc.co.uk/1/hi/technology/7604405.stm. Retrieved
+       on [693]2008-[694]09-17.
+   57. [695]^ [696]"Spore's Piracy Problem". Forbes.com.
+       [697]2008-[698]09-12.
+       [699]http://www.forbes.com/technology/2008/09/12/spore-drm-piracy-t
+       ech-security-cx_ag_mji_0912spore.html. Retrieved on
+       [700]2008-[701]11-18.
+   58. [702]^ Ernesto ([703]2008-[704]09-13). [705]"Spore: Most Pirated
+       Game Ever Thanks to DRM". TorrentFreak.
+       [706]http://torrentfreak.com/spore-most-pirated-game-ever-thanks-to
+       -drm-080913/. Retrieved on [707]2008-[708]09-17.
+   59. [709]^ [710]So what's the deal with copy protection in Red Alert 3?
+   60. [711]^ [712]A copy of the Spore complaint filed ([713]PDF) from
+       CourtHouseNews.com
+   61. [714]^ Faylor, Chris ([715]2008-[716]09-24). [717]"Spore DRM
+       Prompts $5M Class Action Lawsuit". ShackNews.
+       [718]http://www.shacknews.com/onearticle.x/54887. Retrieved on
+       [719]2008-[720]09-24.
+   62. [721]^ Fahey, Mike ([722]2008-[723]09-24). [724]"Class Action
+       Lawsuit Arises Over Spore DRM". Kotaku.
+       [725]http://kotaku.com/5054175/class-action-lawsuit-arises-over-spo
+       re-drm. Retrieved on [726]2008-[727]09-24.
+   63. [728]^ [729]"Spore Creature Creator Demo prompts class action".
+       [730]http://docs.justia.com/cases/federal/district-courts/californi
+       a/candce/3:2008cv04733/208019/1/.
+   64. [731]^ In 2008, Pinball Construction Set was awarded at the 59th
+       Annual [732]Technology & Engineering Emmy Awards for "User
+       Generated Content/Game Modification": [733]2008 Tech Emmy Winners
+       from Kotaku.com
+   65. [734]^ [735]Andrew Anthonyb biography from [736]The Internet Movie
+       Database
+
+[[737]edit] Further reading
+
+     * [738]"Player 4 Stage 4: But is it Arts?", a history of the early
+       Electronic Arts
+     * [739]Innovation: Does Size Matter? from Gamespot.com
+     * [740]Original "EA_spouse" blog on workers of EA
+     * [741]Aftermath of "EA_spouse" blog
+     * [742]"Game makers see workplace changes" from News.com
+     * [743]What's The 'Coolest Job Ever'? Electronic Arts' Summer Interns
+       Tell Their Story
+     * [744]Article on interning at EA on ITworld.com
+     * [745]The Escapist Article on EA's relationship towards Origin :
+       Varney, Allen. [746]"The Conquest Of Origin, Origin created worlds,
+       EA shipped games, EA won.".
+       [747]http://www.escapistmagazine.com/issue/14/4. Retrieved on
+       2006-09-25.
+     * [748]EA Sports Sponsors Iran
+
+[[749]edit] External links
+
+     * [750]Electronic Arts' official website
+     * [751]Electronic Arts at the [752]Open Directory Project
+     * [753]Electronic Arts profile on [754]MobyGames
+     * [755]MobileGamesDB profile on MobileGamesDB (Open mobile game
+       database)
+
+   Business data
+
+     * [756]Electronic Arts, Inc. at [757]Google Finance
+     * [758]Electronic Arts, Inc. at [759]Yahoo Finance
+     * [760]Electronic Arts, Inc. at [761]Hoover's
+     * [762]Electronic Arts, Inc. at [763]Reuters
+     * [764]Electronic Arts, Inc. [765]SEC filings at [766]EDGAR Online
+     * [767]Electronic Arts, Inc. [768]SEC filings at the [769]Securities
+       and Exchange Commission
+
+   [770]Companies portal
+   [771]v  [772]d  [773]e
+   Major [774]information technology companies
+   [775]Cellular hardware
+   [776]Alcatel-Lucent  [777]Apple  [778]Audiovox  [779]HTC  [780]Kyocera
+   [781]LG  [782]Motorola  [783]Nokia  [784]Palm  [785]Qualcomm  [786]RIM
+   [787]Samsung  [788]Sanyo  [789]Sony Ericsson
+   [790]Conglomerates
+   [791]Bull  [792]GE  [793]HCL  [794]Hitachi  [795]LG  [796]NCR
+   [797]Panasonic (JVC, Matsushita)  [798]Philips  [799]Samsung
+   [800]Siemens (Infineon, Qimonda)  [801]Sony  [802]Thomson
+   [803]Toshiba  [804]Vivendi  [805]Wipro Infotech  [806]Yamaha
+   [807]3G Networks
+   [808]3Com  [809]Alcatel-Lucent  [810]Allied Telesis  [811]Avaya
+   [812]Ericsson  [813]Huawei  [814]Nokia Siemens  [815]ZTE
+   [816]Dot-coms
+   [817]Amazon  [818]AOL  [819]eBay  [820]Expedia  [821]Google
+   [822]IAC/InterActiveCorp  [823]Monster Worldwide  [824]Yahoo!
+   [825]Semiconductors (General)
+   [826]AMD  [827]Analog Devices  [828]ATI Technologies  [829]Fairchild
+   [830]Freescale  [831]Infineon  [832]Intel  [833]Micron  [834]National
+   Semiconductor  [835]NVIDIA  [836]NXP  [837]Renesas  [838]ROHM
+   [839]Skyworks  [840]STMicroelectronics  [841]Texas Instruments
+   [842]TSMC
+   [843]Electronics manufacturers
+   [844]Celestica  [845]Elcoteq  [846]Emerson  [847]Flextronics
+   [848]Foxconn  [849]Jabil  [850]Kimball  [851]Plexus  [852]Quanta
+   [853]Sanmina-SCI  [854]SMTC
+   [855]IT [856]services
+   [857]Accenture  [858]ACS  [859]Atos Origin  [860]Avanade
+   [861]BearingPoint  [862]Booz Allen Hamilton  [863]BT  [864]Capgemini
+   [865]CGI  [866]Cognizant  [867]CSC  [868]Deloitte  [869]EDS  [870]First
+   Data  [871]Fujitsu  [872]Getronics  [873]HCL Technologies  [874]IBM
+   Global Services  [875]Indra  [876]Infosys  [877]Keane  [878]Lanlogic
+   [879]Logica  [880]Neusoft  [881]PA  [882]Perot  [883]SAIC
+   [884]Sapient  [885]Satyam  [886]Steria  [887]Syntel  [888]TCS
+   [889]Tech Mahindra  [890]ThoughtWorks  [891]Tieto  [892]Titan
+   [893]Unisys  [894]Virtusa  [895]Wipro  [896]Xansa
+   [897]Network hardware
+   [898]Brocade   [899]Cisco Systems  [900]Juniper Networks
+   [901]Display / [902]DTV
+   [903]BenQ  [904]Sharp  [905]Sony  [906]Trident Microsystems
+   [907]ViewSonic
+   [908]Software
+   [909]Adobe  [910]CA  [911]Compuware  [912]Corel  [913]IBM
+   [914]Idealab  [915]Intuit  [916]Microsoft  [917]Oracle  [918]PTC
+   [919]Red Hat  [920]SAP  [921]Sun Microsystems
+   [922]Gaming
+   [923]Activision Blizzard  [924]Namco Bandai Games  [925]Capcom
+   [926]Codemasters  EA  [927]Infogrames  [928]Nintendo  [929]Sega
+   [930]Sony Computer Entertainment  [931]Take-Two Interactive  [932]Valve
+   Corporation
+   [933]Computer and server systems
+   [934]Acer  [935]Apple  [936]Asus  [937]Dell  [938]Hewlett-Packard
+   [939]Hitachi   [940]IBM  [941]Lenovo  [942]NEC  [943]Panasonic
+   [944]Sony  [945]Sun   [946]Toshiba
+   [947]Security
+   [948]AVG Technologies  [949]ESET  [950]F-Secure  [951]Kaspersky Lab
+   [952]McAfee  [953]SOFTWIN  [954]Sophos  [955]Symantec  [956]Trend Micro
+   [957]v  [958]d  [959]e
+   Companies of the [960]NASDAQ-100 index (As of January 20, 2009)
+
+   [961]Activision Blizzard  [962]Adobe  [963]Akamai Technologies
+   [964]Altera  [965]Amazon.com  [966]Amgen  [967]Apollo Group
+   [968]Apple  [969]Applied Materials  [970]Autodesk  [971]Automatic Data
+   Processing  [972]Baidu  [973]Bed Bath & Beyond  [974]Biogen Idec
+   [975]Broadcom  [976]C. H. Robinson Worldwide  [977]CA, Inc.
+   [978]Celgene  [979]Cephalon  [980]Check Point  [981]Cintas  [982]Cisco
+   [983]Citrix  [984]Cognizant Technology Solutions  [985]Comcast
+   [986]Costco  [987]Dell  [988]DENTSPLY International  [989]Dish Network
+   Corporation  [990]eBay  Electronic Arts  [991]Expedia  [992]Expeditors
+   International  [993]Express Scripts  [994]Fastenal  [995]First Solar
+   [996]Fiserv  [997]Flextronics  [998]FLIR Systems  [999]Foster Wheeler
+   [1000]Garmin  [1001]Genzyme  [1002]Gilead Sciences  [1003]Google
+   [1004]Hansen Natural  [1005]Henry Schein  [1006]Hologic
+   [1007]IAC/InterActiveCorp  [1008]Illumina  [1009]Infosys  [1010]Intel
+   [1011]Intuit  [1012]Intuitive Surgical  [1013]J.B. Hunt  [1014]Joy
+   Global  [1015]Juniper Networks  [1016]KLA-Tencor  [1017]Lam Research
+   [1018]Liberty Global  [1019]Liberty Media  [1020]Life Technologies
+   [1021]Linear Technology  [1022]Logitech  [1023]Marvell  [1024]Maxim
+   Integrated Products  [1025]Microchip Technology  [1026]Microsoft
+   [1027]Millicom International Cellular  [1028]NetApp  [1029]News
+   Corporation  [1030]NII  [1031]Nvidia  [1032]O'Reilly Automotive
+   [1033]Oracle  [1034]PACCAR  [1035]Patterson Companies  [1036]Paychex
+   [1037]Pharmaceutical Product Development  [1038]Qualcomm
+   [1039]Research In Motion  [1040]Ross Stores  [1041]Ryanair
+   [1042]Seagate  [1043]Sears  [1044]Sigma-Aldrich  [1045]Staples
+   [1046]Starbucks  [1047]Steel Dynamics  [1048]Stericycle  [1049]Sun
+   Microsystems  [1050]Symantec  [1051]Teva Pharmaceutical Industries
+   [1052]The DirecTV Group  [1053]Urban Outfitters  [1054]VeriSign
+   [1055]Vertex Pharmaceuticals  [1056]Warner Chilcott  [1057]Wynn
+   Resorts  [1058]Xilinx  [1059]Yahoo!
+   [1060]v  [1061]d  [1062]e
+   [1063]Sim video games
+   [1064]The Sims series
+   [1065]The Sims
+   [1066]Livin' Large  [1067]House Party  [1068]Hot Date  [1069]Vacation
+   [1070]Unleashed  [1071]Superstar  [1072]Makin' Magic
+   [1073]The Sims 2
+   [1074]University  [1075]Nightlife  [1076]Open for Business  [1077]Pets
+   [1078]Seasons  [1079]Bon Voyage  [1080]FreeTime  [1081]Apartment Life
+   [1082]Stuff packs
+   The Sims 3
+   [1083]The Sims 3
+   [1084]The Sims Stories
+   [1085]Life Stories  [1086]Pet Stories  [1087]Castaway Stories
+   [1088]MySims
+   [1089]MySims Kingdom  [1090]MySims Party  [1091]MySims Racing
+   Console
+   [1092]The Sims  [1093]The Sims: Bustin' Out  [1094]The Urbz  [1095]The
+   Sims 2  [1096]The Sims 2: Pets  [1097]The Sims 2: Castaway  [1098]The
+   Sims 2: Apartment Pets
+   Online
+   [1099]The Sims Online (EA Land)  [1100]The Sims Carnival
+   [1101]SimCity series
+   [1102]SimCity  [1103]SimCity 2000  [1104]SimCity 3000  [1105]SimCity
+   64  [1106]SimCity 4 ([1107]Rush Hour)  [1108]SimCity DS  [1109]SimCity
+   Societies ([1110]Destinations)  [1111]SimCity DS 2  [1112]SimCity
+   Creator  [1113]SimCity iPhone
+   [1114]Spore
+   [1115]Spore Creatures  [1116]Spore Origins  [1117]Spore Creature
+   Creator  [1118]Development of Spore
+   [1119]Other Sim games
+   [1120]SimEarth  [1121]SimAnt  [1122]SimLife  [1123]SimFarm
+   [1124]SimRefinery  [1125]SimTower  [1126]SimHealth  [1127]SimIsle
+   [1128]SimTown  [1129]SimPark  [1130]SimGolf  [1131]SimTunes
+   [1132]SimSafari  [1133]SimCopter  [1134]Streets of SimCity
+   [1135]SimsVille  [1136]SimTheme Park (Theme Park World)
+   [1137]SimCoaster (Theme Park Inc.)  [1138]Sid Meier's SimGolf
+   [1139]SimMars  [1140]SimAnimals
+   Related subjects
+   Electronic Arts  [1141]Maxis  [1142]Simlish  [1143]Will Wright
+   Retrieved from "[1144]http://en.wikipedia.org/wiki/Electronic_Arts"
+   [1145]Categories: [1146]Companies listed on NASDAQ | [1147]Companies in
+   the NASDAQ-100 Index | [1148]Academy of Interactive Arts & Sciences
+   members | [1149]Companies established in 1982 | [1150]Companies based
+   in San Mateo County, California | [1151]Electronic Arts |
+   [1152]Entertainment Software Association | [1153]Home computer software
+   companies | [1154]International Game Developers Association members |
+   [1155]United States video game companies | [1156]Video game developers
+   | [1157]Video game publishers
+   Hidden categories: [1158]All articles with dead external links |
+   [1159]Articles with dead external links since September 2008 |
+   [1160]Articles needing additional references from July 2008 | [1161]All
+   articles with unsourced statements | [1162]Articles with unsourced
+   statements since August 2007 | [1163]Articles with unsourced statements
+   since December 2008 | [1164]Portal:Companies/Total
+
+Views
+
+     * [1165]Article
+     * [1166]Discussion
+     * [1167]Edit this page
+     * [1168]History
+
+Personal tools
+
+     * [1169]Log in / create account
+
+Navigation
+
+     * [1170]Main page
+     * [1171]Contents
+     * [1172]Featured content
+     * [1173]Current events
+     * [1174]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [1175]About Wikipedia
+     * [1176]Community portal
+     * [1177]Recent changes
+     * [1178]Contact Wikipedia
+     * [1179]Donate to Wikipedia
+     * [1180]Help
+
+Toolbox
+
+     * [1181]What links here
+     * [1182]Related changes
+     * [1183]Upload file
+     * [1184]Special pages
+     * [1185]Printable version
+     * [1186]Permanent link
+     * [1187]Cite this page
+
+Languages
+
+     *
+     * [1188]Catal
+     * [1189]esky
+     * [1190]Dansk
+     * [1191]Deutsch
+     * [1192]Espaol
+     * [1193]Euskara
+     *
+     * [1194]Franais
+     * [1195]Galego
+     *
+     * [1196]Hrvatski
+     * [1197]Bahasa Indonesia
+     * [1198]slenska
+     * [1199]Italiano
+     *
+     * [1200]Lietuvi
+     * [1201]Magyar
+     * [1202]Bahasa Melayu
+     * [1203]Nederlands
+     *
+     * [1204]Norsk (bokml)
+     * [1205]Polski
+     * [1206]Portugus
+     * [1207]Romn
+     *
+     * [1208]Simple English
+     * [1209]Slovenina
+     * [1210]/ Srpski
+     * [1211]Suomi
+     * [1212]Svenska
+     * [1213]Trke
+     *
+
+   [1214]Powered by MediaWiki
+   [1215]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 21:11.
+     * All text is available under the terms of the [1216]GNU Free
+       Documentation License. (See [1217]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [1218]Wikimedia
+       Foundation, Inc., a U.S. registered [1219]501(c)(3)
+       [1220]tax-deductible [1221]nonprofit [1222]charity.
+     * [1223]Privacy policy
+     * [1224]About Wikipedia
+     * [1225]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Electronic_Arts&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EA_Best_Hits&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#searchInput
+   9. file://localhost/wiki/EA_Sports
+  10. file://localhost/wiki/File:Ealogo.svg
+  11. file://localhost/wiki/Category:Types_of_companies
+  12. file://localhost/wiki/Public_company
+  13. file://localhost/wiki/NASDAQ
+  14. http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ERTS&selected=ERTS
+  15. file://localhost/wiki/Redwood_City,_California
+  16. file://localhost/wiki/United_States
+  17. file://localhost/wiki/John_Riccitiello
+  18. file://localhost/wiki/Peter_Moore_(business)
+  19. file://localhost/wiki/Larry_Probst
+  20. file://localhost/wiki/Trip_Hawkins
+  21. file://localhost/wiki/Industry
+  22. file://localhost/wiki/Video_game_industry
+  23. file://localhost/wiki/Market_capitalization
+  24. file://localhost/wiki/United_States_dollar
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-zenobank-0
+  26. file://localhost/wiki/Revenue
+  27. file://localhost/wiki/United_States_dollar
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Q4_report-1
+  29. file://localhost/wiki/Net_income
+  30. file://localhost/wiki/United_States_dollar
+  31. file://localhost/wiki/Employment
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-2
+  33. file://localhost/wiki/Website
+  34. http://www.ea.com/
+  35. file://localhost/wiki/NASDAQ
+  36. http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ERTS&selected=ERTS
+  37. file://localhost/wiki/Video_game_developer
+  38. file://localhost/wiki/Video_game_publisher
+  39. file://localhost/wiki/Video_game
+  40. file://localhost/wiki/Trip_Hawkins
+  41. file://localhost/wiki/Home_computer
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-3
+  43. file://localhost/wiki/United_States_dollar
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Q4_report-1
+  45. file://localhost/wiki/EA_Sports
+  46. file://localhost/wiki/Need_for_Speed_series
+  47. file://localhost/wiki/Medal_of_Honor_series
+  48. file://localhost/wiki/The_Sims_(series)
+  49. file://localhost/wiki/Battlefield_series
+  50. file://localhost/wiki/Burnout_(video_game)
+  51. file://localhost/wiki/Command_%26_Conquer_series
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#History
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#1982-1991
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Early_sales_strategy
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Name_change
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Sharing_credit
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Hawkins_exits
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#1991-2007
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Exclusive_licenses
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Development_strategy
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#2007
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#City-state_label_model
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Mac_games
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Acquisitions
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#2008-present
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Acquisitions_2
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Casual_.26_Sims_label_merger
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Label_architecture_and_studios
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Downsizing
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Criticism
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Studio_acquisition_and_management_practices
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Employment_policy
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Game_quality
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Editing_of_Wikipedia
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Anti-trust_lawsuit
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#EULA_Agreements_and_DRM
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Notable_games_published
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Logos
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#1982_to_1999
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#1999_to_present
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#In-game_logo_introductions
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Slogans
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Studios_and_subsidiaries
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Current_studios
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Former_studios
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#See_also
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#References
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#Further_reading
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#External_links
+  90. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=1
+  91. file://localhost/wiki/Wikipedia:Citing_sources
+  92. file://localhost/wiki/Wikipedia:Verifiability
+  93. http://en.wikipedia.org/w/index.php?title=Electronic_Arts&action=edit
+  94. file://localhost/wiki/Wikipedia:Reliable_sources
+  95. file://localhost/wiki/Template:Fact
+  96. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=2
+  97. file://localhost/wiki/Don_Valentine
+  98. file://localhost/wiki/Sequoia_Capital
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-4
+ 100. file://localhost/wiki/Apple_Inc.
+ 101. file://localhost/wiki/Sequoia_Capital
+ 102. file://localhost/wiki/United_States_dollar
+ 103. file://localhost/wiki/Venture_capital
+ 104. file://localhost/wiki/Sequoia_Capital
+ 105. file://localhost/wiki/Kleiner_Perkins_Caufield_%26_Byers
+ 106. file://localhost/wiki/Sevin_Rosen_Funds
+ 107. file://localhost/wiki/Business_plan
+ 108. file://localhost/w/index.php?title=Rich_Melmon&action=edit&redlink=1
+ 109. file://localhost/wiki/Apple_II
+ 110. file://localhost/wiki/Dave_Evans
+ 111. file://localhost/w/index.php?title=Pat_Marriott&action=edit&redlink=1
+ 112. file://localhost/wiki/Game_producer
+ 113. file://localhost/wiki/Bing_Gordon
+ 114. file://localhost/wiki/David_Maynard
+ 115. file://localhost/wiki/San_Mateo,_California
+ 116. file://localhost/wiki/San_Francisco_International_Airport
+ 117. file://localhost/wiki/Don_Daglow
+ 118. file://localhost/wiki/Richard_Hilleman
+ 119. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=3
+ 120. file://localhost/wiki/Wikipedia:Citation_needed
+ 121. file://localhost/wiki/Larry_Probst
+ 122. file://localhost/w/index.php?title=Nancy_Smith&action=edit&redlink=1
+ 123. file://localhost/wiki/Wikipedia:Citation_needed
+ 124. file://localhost/wiki/Compact_cassette
+ 125. file://localhost/wiki/Ariolasoft
+ 126. file://localhost/wiki/Wales
+ 127. file://localhost/wiki/Wikipedia:Citation_needed
+ 128. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=4
+ 129. file://localhost/wiki/Wikipedia:Citation_needed
+ 130. file://localhost/wiki/Pajaro,_California
+ 131. file://localhost/wiki/Wikipedia:Citation_needed
+ 132. file://localhost/wiki/Software_Arts
+ 133. file://localhost/wiki/VisiCalc
+ 134. file://localhost/wiki/Dan_Bricklin
+ 135. file://localhost/wiki/Confusingly_similar
+ 136. file://localhost/wiki/United_Artists
+ 137. file://localhost/wiki/Wikipedia:Citation_needed
+ 138. file://localhost/wiki/Wikipedia:Citation_needed
+ 139. file://localhost/w/index.php?title=Film_company&action=edit&redlink=1
+ 140. file://localhost/wiki/United_Artists
+ 141. file://localhost/wiki/Wikipedia:Citation_needed
+ 142. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=5
+ 143. file://localhost/wiki/Pinball_Construction_Set
+ 144. file://localhost/wiki/Apple_II_family
+ 145. file://localhost/wiki/Bill_Budge
+ 146. file://localhost/wiki/Porting
+ 147. file://localhost/wiki/Home_computer
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-gamasutra_pinball-5
+ 149. file://localhost/wiki/Magazine
+ 150. file://localhost/wiki/Wikipedia:Citation_needed
+ 151. file://localhost/wiki/M.U.L.E.
+ 152. file://localhost/wiki/Pinball_Construction_Set
+ 153. file://localhost/wiki/Video_game_developer
+ 154. file://localhost/wiki/Rock_music
+ 155. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-gamasutra_pinball-5
+ 156. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=6
+ 157. file://localhost/wiki/The_3DO_Company
+ 158. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=7
+ 159. file://localhost/wiki/Redwood_Shores,_California
+ 160. file://localhost/wiki/Redwood_City,_California
+ 161. file://localhost/wiki/California
+ 162. file://localhost/wiki/Larry_Probst
+ 163. file://localhost/wiki/Wikipedia:Citation_needed
+ 164. file://localhost/wiki/Take-Two_Interactive
+ 165. file://localhost/wiki/Grand_Theft_Auto_(series)
+ 166. file://localhost/wiki/Wikipedia:Citation_needed
+ 167. file://localhost/wiki/Wikipedia:Citation_needed
+ 168. file://localhost/wiki/Wikipedia:Citation_needed
+ 169. file://localhost/wiki/System_Shock_II
+ 170. file://localhost/wiki/USC_Interactive_Media_Division
+ 171. file://localhost/wiki/Wikipedia:Citation_needed
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-6
+ 173. file://localhost/wiki/Mythic_Entertainment
+ 174. file://localhost/wiki/Warhammer_Online
+ 175. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-7
+ 176. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=8
+ 177. file://localhost/wiki/ESPN_NFL_Football
+ 178. file://localhost/wiki/National_Football_League
+ 179. file://localhost/wiki/ESPN
+ 180. file://localhost/wiki/Major_League_Baseball
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-8
+ 182. file://localhost/wiki/Collegiate_Licensing_Company
+ 183. file://localhost/wiki/College_football
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-9
+ 185. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=9
+ 186. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-10
+ 187. file://localhost/wiki/Intellectual_property
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-11
+ 189. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=10
+ 190. file://localhost/wiki/John_Riccitiello
+ 191. file://localhost/wiki/Wikipedia:Citation_needed
+ 192. file://localhost/wiki/Elevation_Partners
+ 193. file://localhost/wiki/Sara_Lee_(corporation)
+ 194. file://localhost/wiki/Pepsico
+ 195. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=11
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-12
+ 197. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-aquiringdev-wired-13
+ 198. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-14
+ 199. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=12
+ 200. file://localhost/wiki/Macintosh
+ 201. file://localhost/wiki/Battlefield_2142
+ 202. file://localhost/wiki/Command_%26_Conquer:_Tiberium_Wars
+ 203. file://localhost/wiki/Harry_Potter_and_the_Order_of_the_Phoenix
+ 204. file://localhost/wiki/Madden_NFL_08
+ 205. file://localhost/wiki/Need_for_Speed:_Carbon
+ 206. file://localhost/wiki/Spore_(2008_video_game)
+ 207. file://localhost/wiki/Intel
+ 208. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-15
+ 209. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=13
+ 210. file://localhost/wiki/Super_Computer_International
+ 211. file://localhost/wiki/Playlinc
+ 212. file://localhost/wiki/BioWare
+ 213. file://localhost/wiki/Pandemic_Studios
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-16
+ 215. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=14
+ 216. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=15
+ 217. file://localhost/wiki/Take-Two_Interactive
+ 218. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-17
+ 219. file://localhost/wiki/Viacom
+ 220. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-18
+ 221. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-19
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Hands_On_Korea_acquisition-20
+ 223. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-21
+ 224. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=16
+ 225. file://localhost/wiki/Hasbro
+ 226. file://localhost/wiki/The_Sims
+ 227. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-22
+ 228. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-23
+ 229. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-24
+ 230. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=17
+ 231. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-25
+ 232. file://localhost/wiki/EA_Los_Angeles
+ 233. file://localhost/wiki/EA_Montreal
+ 234. file://localhost/wiki/BioWare
+ 235. file://localhost/wiki/EA_Digital_Illusions_CE
+ 236. file://localhost/wiki/Pandemic_Studios
+ 237. file://localhost/wiki/EA_Black_Box
+ 238. file://localhost/wiki/Maxis
+ 239. file://localhost/wiki/EA_Phenomic
+ 240. file://localhost/wiki/Criterion_Games
+ 241. file://localhost/wiki/Mythic_Entertainment
+ 242. file://localhost/wiki/EA_Sports
+ 243. file://localhost/wiki/Madden_NFL
+ 244. file://localhost/wiki/NCAA_March_Madness
+ 245. file://localhost/wiki/Peter_Moore_(business)
+ 246. file://localhost/wiki/Pogo.com
+ 247. file://localhost/wiki/EA_Mobile
+ 248. file://localhost/wiki/JAMDAT
+ 249. file://localhost/wiki/The_Sims
+ 250. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=18
+ 251. file://localhost/wiki/Late_2000s_recession
+ 252. file://localhost/wiki/United_States_dollar
+ 253. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-26
+ 254. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-27
+ 255. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=19
+ 256. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=20
+ 257. file://localhost/wiki/List_of_acquisitions_by_Electronic_Arts
+ 258. file://localhost/wiki/Origin_Systems
+ 259. file://localhost/wiki/Ultima_VIII
+ 260. file://localhost/wiki/Ultima_IX
+ 261. file://localhost/wiki/Richard_Garriott
+ 262. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Ultima_VII_and_IX_rushed_into_production-28
+ 263. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-gamespy-pc-29
+ 264. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-30
+ 265. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-31
+ 266. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-aquiringdev-wired-13
+ 267. file://localhost/wiki/John_D._Carmack
+ 268. file://localhost/wiki/Id_Software
+ 269. file://localhost/wiki/Crytek
+ 270. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-32
+ 271. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-33
+ 272. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-34
+ 273. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-35
+ 274. file://localhost/wiki/Magic_Carpet_2
+ 275. file://localhost/wiki/Peter_Molyneux
+ 276. file://localhost/wiki/Bullfrog_Productions
+ 277. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-36
+ 278. file://localhost/wiki/Ubisoft
+ 279. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Ubisoft_president_.27still_considering.27_EA_acquisition-37
+ 280. file://localhost/wiki/Hostile_takeover
+ 281. file://localhost/wiki/Take_Two_Interactive
+ 282. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-38
+ 283. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=21
+ 284. file://localhost/wiki/EA_Spouse
+ 285. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-39
+ 286. file://localhost/wiki/Class_action
+ 287. file://localhost/wiki/Game_artist
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-40
+ 289. file://localhost/wiki/Game_programmer
+ 290. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-41
+ 291. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-42
+ 292. file://localhost/wiki/Gamasutra
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-43
+ 294. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=22
+ 295. file://localhost/wiki/Metacritic
+ 296. file://localhost/wiki/Nintendo
+ 297. file://localhost/wiki/Take-Two_Interactive
+ 298. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Games_Publishers-44
+ 299. file://localhost/wiki/Sega
+ 300. file://localhost/wiki/Konami
+ 301. file://localhost/wiki/THQ
+ 302. file://localhost/wiki/Ubisoft
+ 303. file://localhost/wiki/Activision
+ 304. file://localhost/wiki/Battlefield_2
+ 305. file://localhost/wiki/Crysis
+ 306. file://localhost/wiki/Rock_Band
+ 307. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-Analyst:_EA_brand_tarnished-45
+ 308. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_brand_.27tarnished.27_according_to_analyst-46
+ 309. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_innovation_crawls_along_at_snail.27s_pace.-47
+ 310. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_CEO_John_Riccitiello:_More_innovation_is_needed_in_videogames-48
+ 311. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-49
+ 312. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=23
+ 313. file://localhost/wiki/IP_address
+ 314. file://localhost/wiki/Wikipedia
+ 315. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_Revisionist_History-50
+ 316. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_Staffer_Attempts_to_alter_Wiki_History-51
+ 317. file://localhost/wiki/Trip_Hawkins
+ 318. file://localhost/wiki/Larry_Probst
+ 319. file://localhost/wiki/EA_Spouse
+ 320. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_Revisionist_History-50
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-EA_responds_to_Wikipedia_revision_controversy-52
+ 322. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=24
+ 323. file://localhost/wiki/Oakland,_California
+ 324. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-53
+ 325. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-54
+ 326. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=25
+ 327. file://localhost/wiki/Spore_(2008_video_game)
+ 328. file://localhost/wiki/Digital_Rights_Management
+ 329. file://localhost/wiki/SecuROM
+ 330. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-55
+ 331. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-56
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-57
+ 333. file://localhost/wiki/Command_%26_Conquer:_Red_Alert_3
+ 334. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-58
+ 335. file://localhost/wiki/Rootkit
+ 336. file://localhost/wiki/Hard_drive
+ 337. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-59
+ 338. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-60
+ 339. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-61
+ 340. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-62
+ 341. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=26
+ 342. file://localhost/wiki/List_of_Electronic_Arts_games
+ 343. file://localhost/wiki/Pinball_Construction_Set
+ 344. file://localhost/wiki/Bill_Budge
+ 345. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-63
+ 346. file://localhost/wiki/Archon_(computer_game)
+ 347. file://localhost/wiki/Archon_II:_Adept
+ 348. file://localhost/wiki/Free_Fall_Associates
+ 349. file://localhost/wiki/M.U.L.E.
+ 350. file://localhost/wiki/Dani_Bunten
+ 351. file://localhost/wiki/Ozark_Softscape
+ 352. file://localhost/wiki/One_on_One:_Dr._J_vs._Larry_Bird
+ 353. file://localhost/w/index.php?title=Eric_Hammond&action=edit&redlink=1
+ 354. file://localhost/wiki/Music_Construction_Set
+ 355. file://localhost/wiki/Will_Harvey
+ 356. file://localhost/wiki/The_Seven_Cities_of_Gold_(game)
+ 357. file://localhost/wiki/Dani_Bunten
+ 358. file://localhost/wiki/Ozark_Softscape
+ 359. file://localhost/wiki/Bard%27s_Tale_(1985)
+ 360. file://localhost/wiki/Interplay_Entertainment
+ 361. file://localhost/wiki/Mail_Order_Monsters
+ 362. file://localhost/wiki/Paul_Reiche_III
+ 363. file://localhost/w/index.php?title=Evan_Robinson&action=edit&redlink=1
+ 364. file://localhost/wiki/Nicky_Robinson_(game_programmer)
+ 365. file://localhost/wiki/Racing_Destruction_Set
+ 366. file://localhost/w/index.php?title=Rick_Koenig&action=edit&redlink=1
+ 367. file://localhost/wiki/Starflight
+ 368. file://localhost/wiki/Skate_or_Die!
+ 369. file://localhost/wiki/Populous
+ 370. file://localhost/wiki/Bullfrog_Productions
+ 371. file://localhost/wiki/Desert_Strike:_Return_to_the_Gulf
+ 372. file://localhost/wiki/FIFA_series
+ 373. file://localhost/wiki/Need_for_Speed_series
+ 374. file://localhost/wiki/Road_%26_Track
+ 375. file://localhost/wiki/Ultima_Online
+ 376. file://localhost/wiki/Origin_Systems
+ 377. file://localhost/wiki/Command_%26_Conquer
+ 378. file://localhost/wiki/Westwood_Studios
+ 379. file://localhost/wiki/Virgin_Interactive
+ 380. file://localhost/wiki/Dungeon_Keeper_2
+ 381. file://localhost/wiki/Bullfrog_Productions
+ 382. file://localhost/wiki/SimCity
+ 383. file://localhost/wiki/Maxis
+ 384. file://localhost/wiki/Medal_of_Honor_(computer_game)
+ 385. file://localhost/wiki/SSX_(series)
+ 386. file://localhost/wiki/James_Bond_games
+ 387. file://localhost/wiki/The_Sims
+ 388. file://localhost/wiki/Maxis
+ 389. file://localhost/wiki/Burnout_(series)
+ 390. file://localhost/wiki/Battlefield_(video_game_series)
+ 391. file://localhost/wiki/Digital_Illusions_CE
+ 392. file://localhost/wiki/Madden_NFL
+ 393. file://localhost/wiki/NCAA_Football_series
+ 394. file://localhost/wiki/Crysis
+ 395. file://localhost/wiki/Crytek
+ 396. file://localhost/wiki/Rock_Band
+ 397. file://localhost/wiki/Harmonix
+ 398. file://localhost/wiki/Spore_(2008_video_game)
+ 399. file://localhost/wiki/Maxis
+ 400. file://localhost/wiki/Dead_Space_(video_game)
+ 401. file://localhost/wiki/Mirror%27s_Edge
+ 402. file://localhost/wiki/EA_Skate
+ 403. file://localhost/wiki/Skate_2
+ 404. file://localhost/wiki/Deluxe_Paint
+ 405. file://localhost/wiki/Amiga
+ 406. file://localhost/wiki/Music_Construction_Set
+ 407. file://localhost/wiki/Deluxe_Music_Construction_Set
+ 408. file://localhost/wiki/Deluxe_Paint_Animation
+ 409. file://localhost/wiki/Instant_Music_(software)
+ 410. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=27
+ 411. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=28
+ 412. file://localhost/w/index.php?title=Barry_Deutsch&action=edit&redlink=1
+ 413. file://localhost/w/index.php?title=Steinhilber_Deutsch_and_Gard&action=edit&redlink=1
+ 414. file://localhost/wiki/Wikipedia:Citation_needed
+ 415. file://localhost/wiki/Newsletter
+ 416. file://localhost/wiki/Nerf
+ 417. file://localhost/wiki/Wikipedia:Citation_needed
+ 418. file://localhost/wiki/Urban_legend
+ 419. file://localhost/wiki/Playboy
+ 420. file://localhost/wiki/Wikipedia:Citation_needed
+ 421. file://localhost/wiki/Wikipedia:Citation_needed
+ 422. file://localhost/wiki/Compact_cassette
+ 423. file://localhost/wiki/Europe
+ 424. file://localhost/wiki/Ariolasoft
+ 425. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=29
+ 426. file://localhost/wiki/EA_Sports
+ 427. file://localhost/wiki/ESPN
+ 428. file://localhost/wiki/Wikipedia:Citation_needed
+ 429. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=30
+ 430. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=31
+ 431. file://localhost/wiki/The_Guardian
+ 432. file://localhost/wiki/The_Observer
+ 433. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_note-64
+ 434. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=32
+ 435. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=33
+ 436. file://localhost/wiki/Criterion_Games
+ 437. file://localhost/wiki/Guildford
+ 438. file://localhost/wiki/EA_Digital_Illusions_CE
+ 439. file://localhost/wiki/Stockholm
+ 440. file://localhost/wiki/EA_Canada
+ 441. file://localhost/wiki/Vancouver
+ 442. file://localhost/wiki/EA_Canada
+ 443. file://localhost/wiki/Burnaby,_British_Columbia
+ 444. file://localhost/wiki/Shanghai
+ 445. file://localhost/wiki/%C4%B0stanbul
+ 446. file://localhost/wiki/Ankara
+ 447. file://localhost/wiki/EA_Los_Angeles
+ 448. file://localhost/wiki/Los_Angeles
+ 449. file://localhost/wiki/EA_Montreal
+ 450. file://localhost/wiki/Montreal,_Quebec
+ 451. file://localhost/wiki/Mythic_Entertainment
+ 452. file://localhost/wiki/Fairfax,_Virginia
+ 453. file://localhost/wiki/Seoul
+ 454. file://localhost/wiki/Mount_Sinai,_New_York
+ 455. file://localhost/wiki/Redwood_City,_California
+ 456. file://localhost/wiki/San_Francisco,_California
+ 457. http://www.ea.com.sg/
+ 458. http://www.eagames.co.uk/
+ 459. file://localhost/wiki/Maxis
+ 460. file://localhost/wiki/Emeryville,_California
+ 461. file://localhost/wiki/EA_Phenomic
+ 462. file://localhost/wiki/Ingelheim_am_Rhein
+ 463. file://localhost/wiki/EA_Tiburon
+ 464. file://localhost/wiki/Maitland,_Florida
+ 465. file://localhost/wiki/EA_Salt_Lake
+ 466. file://localhost/wiki/Bountiful,_Utah
+ 467. file://localhost/wiki/Headgate_Studios
+ 468. file://localhost/wiki/EIS_(European_Integration_Studio)
+ 469. file://localhost/wiki/Madrid
+ 470. file://localhost/wiki/EA_Mobile
+ 471. file://localhost/wiki/Bucharest,_Romania
+ 472. file://localhost/wiki/Hyderabad,_India
+ 473. file://localhost/w/index.php?title=EA_Studio&action=edit&redlink=1
+ 474. file://localhost/wiki/Bucharest,_Romania
+ 475. file://localhost/wiki/Atlanta,_Georgia
+ 476. file://localhost/wiki/BioWare
+ 477. file://localhost/wiki/Edmonton
+ 478. file://localhost/wiki/Austin,_Texas
+ 479. file://localhost/wiki/Pandemic_Studios
+ 480. file://localhost/wiki/Los_Angeles
+ 481. file://localhost/wiki/Brisbane
+ 482. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=34
+ 483. file://localhost/wiki/San_Mateo,_California
+ 484. file://localhost/wiki/Origin_Systems
+ 485. file://localhost/wiki/Austin,_Texas
+ 486. file://localhost/wiki/Bullfrog_Productions
+ 487. file://localhost/wiki/Surrey
+ 488. file://localhost/wiki/Baltimore,_Maryland
+ 489. file://localhost/wiki/Maryland
+ 490. file://localhost/wiki/Seattle
+ 491. file://localhost/wiki/Maxis
+ 492. file://localhost/wiki/Walnut_Creek,_California
+ 493. file://localhost/wiki/Westwood_Studios
+ 494. file://localhost/wiki/Las_Vegas,_Nevada
+ 495. file://localhost/wiki/Irvine,_California
+ 496. file://localhost/wiki/Kesmai
+ 497. file://localhost/wiki/EA_Digital_Illusions_CE
+ 498. file://localhost/wiki/London,_Ontario
+ 499. file://localhost/wiki/Battlefield_2#Battlefield_2:_Special_Forces
+ 500. file://localhost/wiki/Tokyo
+ 501. file://localhost/wiki/EA_UK
+ 502. file://localhost/wiki/Chertsey
+ 503. file://localhost/wiki/Chicago
+ 504. file://localhost/wiki/NuFX
+ 505. http://kotaku.com/gaming/breaking/ea-confirms-ea-chicago-is-closing-319516.php
+ 506. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=35
+ 507. file://localhost/wiki/List_of_Electronic_Arts_games
+ 508. file://localhost/wiki/History_of_computer_and_video_game_companies
+ 509. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=36
+ 510. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-zenobank_0-0
+ 511. http://zenobank.com/index.php?symbol=ERTS&page=quotesearch
+ 512. http://zenobank.com/index.php?symbol=ERTS&page=quotesearch
+ 513. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Q4_report_1-0
+ 514. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Q4_report_1-1
+ 515. http://media.corporate-ir.net/media_files/IROL/88/88189/Q4Release.pdf
+ 516. file://localhost/wiki/Portable_Document_Format
+ 517. file://localhost/wiki/Thomson_Reuters
+ 518. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-2
+ 519. http://library.corporate-ir.net/library/88/881/88189/items/250822/2007AnnualReport.pdf
+ 520. file://localhost/wiki/Portable_Document_Format
+ 521. file://localhost/wiki/Thomson_Reuters
+ 522. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-3
+ 523. http://www.softwaretop100.org/
+ 524. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-4
+ 525. http://www.sequoiacap.com/company/electronic-arts/
+ 526. file://localhost/wiki/Sequoia_Capital
+ 527. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-gamasutra_pinball_5-0
+ 528. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-gamasutra_pinball_5-1
+ 529. http://www.gamasutra.com/view/feature/3923/the_history_of_the_pinball_.php
+ 530. file://localhost/wiki/Gamasutra
+ 531. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-6
+ 532. http://videogames.yahoo.com/newsarticle?eid=434699&page=0
+ 533. file://localhost/wiki/GameSpot
+ 534. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-7
+ 535. http://www.gamasutra.com/php-bin/news_index.php?story=9786
+ 536. file://localhost/wiki/Gamasutra
+ 537. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-8
+ 538. http://www.gamespot.com/news/2004/12/13/news_6114977.html
+ 539. file://localhost/wiki/GameSpot
+ 540. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-9
+ 541. http://sports.espn.go.com/espn/sportsbusiness/news/story?id=1945691
+ 542. file://localhost/wiki/ESPN
+ 543. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-10
+ 544. http://archive.gamespy.com/articles/july03/25smartest/index11.shtml
+ 545. file://localhost/wiki/GameSpy
+ 546. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-11
+ 547. http://www.gamesindustry.biz/content_page.php?aid=21443
+ 548. file://localhost/wiki/Gamesindustry.biz
+ 549. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-12
+ 550. http://www.gamasutra.com/php-bin/news_index.php?story=14374
+ 551. file://localhost/wiki/Gamasutra
+ 552. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-aquiringdev-wired_13-0
+ 553. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-aquiringdev-wired_13-1
+ 554. http://blog.wired.com/games/2008/02/riccitiello.html
+ 555. file://localhost/wiki/Wired_News
+ 556. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-14
+ 557. http://www.nytimes.com/2008/02/19/arts/television/19game.html?_r=1&oref=slogin
+ 558. file://localhost/wiki/The_New_York_Times
+ 559. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-15
+ 560. http://news.yahoo.com/s/macworld/20070818/tc_macworld/eaships20070817;_ylt=Apf7ti22.rDTILX1Gm8aoEIK77EF
+ 561. file://localhost/wiki/MacWorld
+ 562. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-16
+ 563. http://www.ea.com/article.jsp?id=bio1011
+ 564. file://localhost/wiki/Wikipedia:Dead_external_links
+ 565. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-17
+ 566. http://kotaku.com/360123/ea-makes-offer-to-buy-take-2
+ 567. http://kotaku.com/360123/ea-makes-offer-to-buy-take-2
+ 568. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-18
+ 569. http://kotaku.com/336364/analyst-convinced-that-take+two-will-be-swallowed
+ 570. http://kotaku.com/336364/analyst-convinced-that-take+two-will-be-swallowed
+ 571. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-19
+ 572. http://kotaku.com/353561/viacom-to-buy-take+two
+ 573. http://kotaku.com/353561/viacom-to-buy-take+two
+ 574. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Hands_On_Korea_acquisition_20-0
+ 575. http://money.cnn.com/news/newsfeeds/articles/apwire/26e40ecc2d9261c03387d24c9c46e41f.htm
+ 576. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-21
+ 577. http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080914/electronicarts_buyout_090814/20080914?hub=SciTech
+ 578. file://localhost/wiki/CTV_News
+ 579. http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080914/electronicarts_buyout_090814/20080914?hub=SciTech
+ 580. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-22
+ 581. http://kotaku.com/5078340/electronic-arts-ditches-casual-label-merges-it-with-the-sims
+ 582. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-23
+ 583. http://kotaku.com/5071439/electronic-arts-lays-off-six-hundred
+ 584. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-24
+ 585. http://kotaku.com/5071454/ea-loses-310-million-sees-weakness-at-retail-in-october
+ 586. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-25
+ 587. http://yahoo.brand.edgar-online.com/displayfilinginfo.aspx?FilingID=5960135-11435-63788&type=sect&dcn=0000891618-08-000290
+ 588. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-26
+ 589. http://www.contracostatimes.com/technology/ci_11618727
+ 590. file://localhost/wiki/Contra_Costa_Times
+ 591. http://www.contracostatimes.com/technology/ci_11618727
+ 592. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-27
+ 593. http://www.orlandosentinel.com/business/orl-earnings0409feb04,0,7016950.story
+ 594. file://localhost/wiki/The_Orlando_Sentinel
+ 595. http://www.orlandosentinel.com/business/orl-earnings0409feb04,0,7016950.story
+ 596. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Ultima_VII_and_IX_rushed_into_production_28-0
+ 597. http://www.escapistmagazine.com/articles/view/issues/issue_14/87-The-Conquest-of-Origin.3
+ 598. file://localhost/wiki/The_Escapist_(magazine)
+ 599. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-gamespy-pc_29-0
+ 600. http://pc.gamespy.com/pc/tabula-rasa/512497p2.html
+ 601. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-30
+ 602. http://www.gamefaqs.com/computer/doswin/review/R90704.html
+ 603. file://localhost/wiki/GameFAQs
+ 604. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-31
+ 605. http://www.gamefaqs.com/computer/doswin/review/R33325.html
+ 606. file://localhost/wiki/GameFAQs
+ 607. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-32
+ 608. http://ve3d.ign.com/articles/news/39962/John-Carmack-EA-No-Longer-The-Evil-Empire
+ 609. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-33
+ 610. file://localhost/wiki/2004
+ 611. file://localhost/wiki/February_25
+ 612. http://www.gamepro.com.au/index.php/id;476539124;fp;4;fpid;4
+ 613. http://www.gamepro.com.au/index.php/id;476539124;fp;4;fpid;4
+ 614. file://localhost/wiki/2008
+ 615. file://localhost/wiki/September_17
+ 616. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-34
+ 617. file://localhost/wiki/2006
+ 618. file://localhost/wiki/October_17
+ 619. http://news.softpedia.com/news/EA-Closes-Down-Warrington-Studio-38110.shtml
+ 620. http://news.softpedia.com/news/EA-Closes-Down-Warrington-Studio-38110.shtml
+ 621. file://localhost/wiki/2008
+ 622. file://localhost/wiki/September_17
+ 623. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-35
+ 624. file://localhost/wiki/2006
+ 625. file://localhost/wiki/October_6
+ 626. http://www.gamespot.com/news/6159448.html
+ 627. http://www.gamespot.com/news/6159448.html
+ 628. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-36
+ 629. file://localhost/wiki/2005
+ 630. file://localhost/wiki/January_26
+ 631. http://www.1up.com/do/newsStory?cId=3137918
+ 632. http://www.1up.com/do/newsStory?cId=3137918
+ 633. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Ubisoft_president_.27still_considering.27_EA_acquisition_37-0
+ 634. file://localhost/wiki/2007
+ 635. file://localhost/wiki/May_29
+ 636. http://www.joystiq.com/2007/05/29/ubisoft-president-still-considering-ea-acquisition/
+ 637. http://www.joystiq.com/2007/05/29/ubisoft-president-still-considering-ea-acquisition/
+ 638. file://localhost/wiki/2008
+ 639. file://localhost/wiki/September_17
+ 640. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-38
+ 641. file://localhost/wiki/2009
+ 642. file://localhost/wiki/January_29
+ 643. http://www.firingsquad.com/news/newsarticle.asp?searchid=19716
+ 644. http://www.firingsquad.com/news/newsarticle.asp?searchid=19716
+ 645. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-39
+ 646. http://ea-spouse.livejournal.com/274.html
+ 647. file://localhost/wiki/LiveJournal
+ 648. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-40
+ 649. http://www.gamespot.com/news/2004/11/11/news_6112998.html
+ 650. file://localhost/wiki/GameSpot
+ 651. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-41
+ 652. http://www.gamasutra.com/php-bin/news_index.php?story=9051
+ 653. file://localhost/wiki/Gamasutra
+ 654. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-42
+ 655. http://www.canada.com/vancouversun/story.html?id=fac8e0f4-c0e7-47e5-a236-7cdc586e4ab4&k=64455
+ 656. file://localhost/wiki/The_Vancouver_Sun
+ 657. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-43
+ 658. http://www.gamasutra.com/php-bin/news_index.php?story=18621
+ 659. file://localhost/wiki/Gamasutra
+ 660. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Games_Publishers_44-0
+ 661. file://localhost/wiki/Game_publisher
+ 662. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-Analyst:_EA_brand_tarnished_45-0
+ 663. http://www.gamespot.com/news/6162530.html
+ 664. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_brand_.27tarnished.27_according_to_analyst_46-0
+ 665. http://arstechnica.com/news.ars/post/20061201-8339.html
+ 666. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_innovation_crawls_along_at_snail.27s_pace._47-0
+ 667. http://www.gamesindustry.biz/content_page.php?aid=27521
+ 668. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_CEO_John_Riccitiello:_More_innovation_is_needed_in_videogames_48-0
+ 669. http://www.gamesindustry.biz/content_page.php?aid=26508
+ 670. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-49
+ 671. http://www.gamesindustry.biz/articles/ea-completes-bioware-pandemic-deal
+ 672. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_Revisionist_History_50-0
+ 673. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_Revisionist_History_50-1
+ 674. http://www.joystiq.com/2007/08/16/ea-staffer-plays-history-revisionist-on-wikipedia/
+ 675. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_Staffer_Attempts_to_alter_Wiki_History_51-0
+ 676. http://www.shacknews.com/onearticle.x/48482
+ 677. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-EA_responds_to_Wikipedia_revision_controversy_52-0
+ 678. http://www.gamesindustry.biz/content_page.php?aid=27751
+ 679. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-53
+ 680. http://www.aolcdn.com/tmz_documents/0611_nfl_ea_wm.pdf
+ 681. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-54
+ 682. file://localhost/wiki/2008
+ 683. file://localhost/wiki/June_12
+ 684. http://arstechnica.com/news.ars/post/20080612-lawsuit-flags-ea-for-illegal-procedure-on-football-monopoly.html
+ 685. http://arstechnica.com/news.ars/post/20080612-lawsuit-flags-ea-for-illegal-procedure-on-football-monopoly.html
+ 686. file://localhost/wiki/2008
+ 687. file://localhost/wiki/September_17
+ 688. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-55
+ 689. http://news.bbc.co.uk/1/hi/technology/7604405.stm
+ 690. file://localhost/wiki/2008
+ 691. file://localhost/wiki/September_10
+ 692. http://news.bbc.co.uk/1/hi/technology/7604405.stm
+ 693. file://localhost/wiki/2008
+ 694. file://localhost/wiki/September_17
+ 695. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-56
+ 696. http://www.forbes.com/technology/2008/09/12/spore-drm-piracy-tech-security-cx_ag_mji_0912spore.html
+ 697. file://localhost/wiki/2008
+ 698. file://localhost/wiki/September_12
+ 699. http://www.forbes.com/technology/2008/09/12/spore-drm-piracy-tech-security-cx_ag_mji_0912spore.html
+ 700. file://localhost/wiki/2008
+ 701. file://localhost/wiki/November_18
+ 702. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-57
+ 703. file://localhost/wiki/2008
+ 704. file://localhost/wiki/September_13
+ 705. http://torrentfreak.com/spore-most-pirated-game-ever-thanks-to-drm-080913/
+ 706. http://torrentfreak.com/spore-most-pirated-game-ever-thanks-to-drm-080913/
+ 707. file://localhost/wiki/2008
+ 708. file://localhost/wiki/September_17
+ 709. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-58
+ 710. http://forums.ea.com/mboards/thread.jspa?threadID=430797&tstart=0
+ 711. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-59
+ 712. http://www.courthousenews.com/2008/09/23/Spore.pdf
+ 713. file://localhost/wiki/Portable_Document_Format
+ 714. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-60
+ 715. file://localhost/wiki/2008
+ 716. file://localhost/wiki/September_24
+ 717. http://www.shacknews.com/onearticle.x/54887
+ 718. http://www.shacknews.com/onearticle.x/54887
+ 719. file://localhost/wiki/2008
+ 720. file://localhost/wiki/September_24
+ 721. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-61
+ 722. file://localhost/wiki/2008
+ 723. file://localhost/wiki/September_24
+ 724. http://kotaku.com/5054175/class-action-lawsuit-arises-over-spore-drm
+ 725. http://kotaku.com/5054175/class-action-lawsuit-arises-over-spore-drm
+ 726. file://localhost/wiki/2008
+ 727. file://localhost/wiki/September_24
+ 728. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-62
+ 729. http://docs.justia.com/cases/federal/district-courts/california/candce/3:2008cv04733/208019/1/
+ 730. http://docs.justia.com/cases/federal/district-courts/california/candce/3:2008cv04733/208019/1/
+ 731. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-63
+ 732. file://localhost/wiki/Technology_%26_Engineering_Emmy_Award
+ 733. http://kotaku.com/342028/2008-tech-emmy-winners
+ 734. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc615.tmp.html#cite_ref-64
+ 735. http://www.imdb.com/name/nm0371684/bio
+ 736. file://localhost/wiki/The_Internet_Movie_Database
+ 737. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=37
+ 738. http://www.emuunlim.com/doteaters/play4sta4.htm
+ 739. http://www.gamespot.com/news/6141548.html
+ 740. http://www.livejournal.com/users/ea_spouse/274.html
+ 741. http://www.livejournal.com/users/ea_spouse/
+ 742. http://news.com.com/Game+makers+see+workplace+changes/2100-1043_3-5604624.html?tag=nefd.top
+ 743. http://www.mtv.com/news/articles/1540701/20060912/index.jhtml
+ 744. http://www.itworld.com/Career/3729/CIO030100_intern_content/
+ 745. file://localhost/wiki/The_Escapist_(magazine)
+ 746. http://www.escapistmagazine.com/issue/14/4
+ 747. http://www.escapistmagazine.com/issue/14/4
+ 748. http://ve3d.ign.com/articles/news/161/EA-Sports-Sponsors-Iran
+ 749. file://localhost/w/index.php?title=Electronic_Arts&action=edit&section=38
+ 750. http://www.ea.com/
+ 751. http://www.dmoz.org/Games/Video_Games/Developers_and_Publishers/E/Electronic_Arts//
+ 752. file://localhost/wiki/Open_Directory_Project
+ 753. http://www.mobygames.com/company/electronic-arts-inc
+ 754. file://localhost/wiki/MobyGames
+ 755. http://www.mobilegamesdb.com/developer/2/ea-mobile/
+ 756. http://finance.google.com/finance?q=ERTS
+ 757. file://localhost/wiki/Google_Finance
+ 758. http://finance.yahoo.com/q?s=ERTS
+ 759. file://localhost/wiki/Yahoo!
+ 760. http://www.hoovers.com//--ID__14059--/free-co-factsheet.xhtml
+ 761. file://localhost/wiki/Hoover%27s
+ 762. http://www.investor.reuters.wallst.com/stocks/company-profile.asp?ticker=ERTS
+ 763. file://localhost/wiki/Reuters
+ 764. http://google.brand.edgar-online.com/?sym=ERTS
+ 765. file://localhost/wiki/SEC_filings
+ 766. file://localhost/wiki/EDGAR
+ 767. http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=712515
+ 768. file://localhost/wiki/SEC_filings
+ 769. file://localhost/wiki/United_States_Securities_and_Exchange_Commission
+ 770. file://localhost/wiki/Portal:Companies
+ 771. file://localhost/wiki/Template:IT_giants
+ 772. file://localhost/wiki/Template_talk:IT_giants
+ 773. http://en.wikipedia.org/w/index.php?title=Template:IT_giants&action=edit
+ 774. file://localhost/wiki/Information_technology
+ 775. file://localhost/wiki/Cellular_network
+ 776. file://localhost/wiki/Alcatel-Lucent
+ 777. file://localhost/wiki/Apple_Inc.
+ 778. file://localhost/wiki/Audiovox
+ 779. file://localhost/wiki/HTC_Corporation
+ 780. file://localhost/wiki/Kyocera_Corporation
+ 781. file://localhost/wiki/LG_Electronics
+ 782. file://localhost/wiki/Motorola
+ 783. file://localhost/wiki/Nokia
+ 784. file://localhost/wiki/Palm,_Inc.
+ 785. file://localhost/wiki/Qualcomm
+ 786. file://localhost/wiki/Research_In_Motion
+ 787. file://localhost/wiki/Samsung_Telecommunications
+ 788. file://localhost/wiki/Sanyo
+ 789. file://localhost/wiki/Sony_Ericsson
+ 790. file://localhost/wiki/Conglomerate_(company)
+ 791. file://localhost/wiki/Groupe_Bull
+ 792. file://localhost/wiki/General_Electric
+ 793. file://localhost/wiki/Hindustan_Computers_Limited
+ 794. file://localhost/wiki/Hitachi,_Ltd.
+ 795. file://localhost/wiki/LG_Group
+ 796. file://localhost/wiki/NCR_Corporation
+ 797. file://localhost/wiki/Panasonic_Corporation
+ 798. file://localhost/wiki/Philips
+ 799. file://localhost/wiki/Samsung_Electronics
+ 800. file://localhost/wiki/Siemens
+ 801. file://localhost/wiki/Sony
+ 802. file://localhost/wiki/Thomson_SA
+ 803. file://localhost/wiki/Toshiba
+ 804. file://localhost/wiki/Vivendi
+ 805. file://localhost/wiki/Wipro_Infotech
+ 806. file://localhost/wiki/Yamaha_Corporation
+ 807. file://localhost/wiki/3G
+ 808. file://localhost/wiki/3Com
+ 809. file://localhost/wiki/Alcatel-Lucent
+ 810. file://localhost/wiki/Allied_Telesis
+ 811. file://localhost/wiki/Avaya
+ 812. file://localhost/wiki/Ericsson
+ 813. file://localhost/wiki/Huawei
+ 814. file://localhost/wiki/Nokia_Siemens_Networks
+ 815. file://localhost/wiki/ZTE
+ 816. file://localhost/wiki/Dot-com_company
+ 817. file://localhost/wiki/Amazon.com
+ 818. file://localhost/wiki/AOL
+ 819. file://localhost/wiki/EBay
+ 820. file://localhost/wiki/Expedia,_Inc.
+ 821. file://localhost/wiki/Google
+ 822. file://localhost/wiki/IAC/InterActiveCorp
+ 823. file://localhost/wiki/Monster_Worldwide
+ 824. file://localhost/wiki/Yahoo!
+ 825. file://localhost/wiki/Semiconductor
+ 826. file://localhost/wiki/Advanced_Micro_Devices
+ 827. file://localhost/wiki/Analog_Devices
+ 828. file://localhost/wiki/ATI_Technologies
+ 829. file://localhost/wiki/Fairchild_Semiconductor
+ 830. file://localhost/wiki/Freescale
+ 831. file://localhost/wiki/Infineon_Technologies
+ 832. file://localhost/wiki/Intel
+ 833. file://localhost/wiki/Micron_Technology
+ 834. file://localhost/wiki/National_Semiconductor
+ 835. file://localhost/wiki/Nvidia
+ 836. file://localhost/wiki/NXP_Semiconductors
+ 837. file://localhost/wiki/Renesas_Technology
+ 838. file://localhost/wiki/Rohm
+ 839. file://localhost/wiki/Skyworks_Solutions
+ 840. file://localhost/wiki/STMicroelectronics
+ 841. file://localhost/wiki/Texas_Instruments
+ 842. file://localhost/wiki/TSMC
+ 843. file://localhost/wiki/Electronics_manufacturing_services
+ 844. file://localhost/wiki/Celestica
+ 845. file://localhost/wiki/Elcoteq
+ 846. file://localhost/wiki/Emerson_Electric
+ 847. file://localhost/wiki/Flextronics
+ 848. file://localhost/wiki/Foxconn
+ 849. file://localhost/wiki/Jabil_Circuit
+ 850. file://localhost/wiki/Kimball_International
+ 851. file://localhost/wiki/Plexus_Corporation
+ 852. file://localhost/wiki/Quanta_Computer
+ 853. file://localhost/wiki/Sanmina-SCI_Corporation
+ 854. file://localhost/wiki/SMTC_Corporation
+ 855. file://localhost/wiki/Information_technology
+ 856. file://localhost/wiki/Information_technology_consulting
+ 857. file://localhost/wiki/Accenture
+ 858. file://localhost/wiki/Affiliated_Computer_Services
+ 859. file://localhost/wiki/Atos_Origin
+ 860. file://localhost/wiki/Avanade
+ 861. file://localhost/wiki/BearingPoint
+ 862. file://localhost/wiki/Booz_Allen_Hamilton
+ 863. file://localhost/wiki/BT_Group
+ 864. file://localhost/wiki/Capgemini
+ 865. file://localhost/wiki/CGI_Group
+ 866. file://localhost/wiki/Cognizant_Technology_Solutions
+ 867. file://localhost/wiki/Computer_Sciences_Corporation
+ 868. file://localhost/wiki/Deloitte_Touche_Tohmatsu
+ 869. file://localhost/wiki/Electronic_Data_Systems
+ 870. file://localhost/wiki/First_Data
+ 871. file://localhost/wiki/Fujitsu
+ 872. file://localhost/wiki/Getronics
+ 873. file://localhost/wiki/HCL_Technologies
+ 874. file://localhost/wiki/IBM_Global_Services
+ 875. file://localhost/wiki/Indra_Sistemas
+ 876. file://localhost/wiki/Infosys
+ 877. file://localhost/wiki/Keane_(company)
+ 878. file://localhost/w/index.php?title=Lanlogic&action=edit&redlink=1
+ 879. file://localhost/wiki/Logica
+ 880. file://localhost/wiki/Neusoft_Group
+ 881. file://localhost/wiki/PA_Consulting_Group
+ 882. file://localhost/wiki/Perot_Systems
+ 883. file://localhost/wiki/Science_Applications_International_Corporation
+ 884. file://localhost/wiki/Sapient_(company)
+ 885. file://localhost/wiki/Satyam_Computer_Services_Ltd.
+ 886. file://localhost/wiki/Steria
+ 887. file://localhost/wiki/Syntel
+ 888. file://localhost/wiki/Tata_Consultancy_Services
+ 889. file://localhost/wiki/Tech_Mahindra
+ 890. file://localhost/wiki/ThoughtWorks
+ 891. file://localhost/wiki/Tieto
+ 892. file://localhost/wiki/Titan_Corp.
+ 893. file://localhost/wiki/Unisys
+ 894. file://localhost/wiki/Virtusa
+ 895. file://localhost/wiki/Wipro_Technologies
+ 896. file://localhost/wiki/Xansa
+ 897. file://localhost/wiki/Computer_networking_device
+ 898. file://localhost/wiki/Brocade_Communications_Systems
+ 899. file://localhost/wiki/Cisco_Systems
+ 900. file://localhost/wiki/Juniper_Networks
+ 901. file://localhost/wiki/Visual_display_unit
+ 902. file://localhost/wiki/Digital_television
+ 903. file://localhost/wiki/BenQ
+ 904. file://localhost/wiki/Sharp_Corporation
+ 905. file://localhost/wiki/Sony
+ 906. file://localhost/wiki/Trident_Microsystems
+ 907. file://localhost/wiki/ViewSonic
+ 908. file://localhost/wiki/Computer_software
+ 909. file://localhost/wiki/Adobe_Systems
+ 910. file://localhost/wiki/CA,_Inc.
+ 911. file://localhost/wiki/Compuware
+ 912. file://localhost/wiki/Corel_Corporation
+ 913. file://localhost/wiki/IBM
+ 914. file://localhost/wiki/Idealab
+ 915. file://localhost/wiki/Intuit
+ 916. file://localhost/wiki/Microsoft
+ 917. file://localhost/wiki/Oracle_Corporation
+ 918. file://localhost/wiki/Parametric_Technology_Corporation
+ 919. file://localhost/wiki/Red_Hat
+ 920. file://localhost/wiki/SAP_AG
+ 921. file://localhost/wiki/Sun_Microsystems
+ 922. file://localhost/wiki/Video_game
+ 923. file://localhost/wiki/Activision_Blizzard
+ 924. file://localhost/wiki/Namco_Bandai_Games
+ 925. file://localhost/wiki/Capcom
+ 926. file://localhost/wiki/Codemasters
+ 927. file://localhost/wiki/Infogrames
+ 928. file://localhost/wiki/Nintendo
+ 929. file://localhost/wiki/Sega
+ 930. file://localhost/wiki/Sony_Computer_Entertainment
+ 931. file://localhost/wiki/Take-Two_Interactive
+ 932. file://localhost/wiki/Valve_Corporation
+ 933. file://localhost/wiki/Computers
+ 934. file://localhost/wiki/Acer_Inc.
+ 935. file://localhost/wiki/Apple_Inc.
+ 936. file://localhost/wiki/Asus
+ 937. file://localhost/wiki/Dell
+ 938. file://localhost/wiki/Hewlett-Packard
+ 939. file://localhost/wiki/Hitachi
+ 940. file://localhost/wiki/IBM
+ 941. file://localhost/wiki/Lenovo
+ 942. file://localhost/wiki/NEC
+ 943. file://localhost/wiki/Panasonic
+ 944. file://localhost/wiki/Sony
+ 945. file://localhost/wiki/Sun_Microsystems
+ 946. file://localhost/wiki/Toshiba
+ 947. file://localhost/wiki/Computer_security
+ 948. file://localhost/wiki/AVG_Technologies
+ 949. file://localhost/wiki/ESET
+ 950. file://localhost/wiki/F-Secure
+ 951. file://localhost/wiki/Kaspersky_Lab
+ 952. file://localhost/wiki/McAfee
+ 953. file://localhost/wiki/SOFTWIN
+ 954. file://localhost/wiki/Sophos
+ 955. file://localhost/wiki/Symantec
+ 956. file://localhost/wiki/Trend_Micro
+ 957. file://localhost/wiki/Template:NASDAQ-100
+ 958. file://localhost/wiki/Template_talk:NASDAQ-100
+ 959. http://en.wikipedia.org/w/index.php?title=Template:NASDAQ-100&action=edit
+ 960. file://localhost/wiki/NASDAQ-100
+ 961. file://localhost/wiki/Activision_Blizzard
+ 962. file://localhost/wiki/Adobe_Systems
+ 963. file://localhost/wiki/Akamai_Technologies
+ 964. file://localhost/wiki/Altera
+ 965. file://localhost/wiki/Amazon.com
+ 966. file://localhost/wiki/Amgen
+ 967. file://localhost/wiki/Apollo_Group
+ 968. file://localhost/wiki/Apple_Inc.
+ 969. file://localhost/wiki/Applied_Materials
+ 970. file://localhost/wiki/Autodesk
+ 971. file://localhost/wiki/Automatic_Data_Processing
+ 972. file://localhost/wiki/Baidu
+ 973. file://localhost/wiki/Bed_Bath_%26_Beyond
+ 974. file://localhost/wiki/Biogen_Idec
+ 975. file://localhost/wiki/Broadcom
+ 976. file://localhost/wiki/C._H._Robinson_Worldwide
+ 977. file://localhost/wiki/CA,_Inc.
+ 978. file://localhost/wiki/Celgene
+ 979. file://localhost/wiki/Cephalon
+ 980. file://localhost/wiki/Check_Point
+ 981. file://localhost/wiki/Cintas
+ 982. file://localhost/wiki/Cisco_Systems
+ 983. file://localhost/wiki/Citrix_Systems
+ 984. file://localhost/wiki/Cognizant_Technology_Solutions
+ 985. file://localhost/wiki/Comcast
+ 986. file://localhost/wiki/Costco
+ 987. file://localhost/wiki/Dell
+ 988. file://localhost/w/index.php?title=DENTSPLY_International&action=edit&redlink=1
+ 989. file://localhost/wiki/Dish_Network_Corporation
+ 990. file://localhost/wiki/EBay
+ 991. file://localhost/wiki/Expedia,_Inc.
+ 992. file://localhost/wiki/Expeditors_International
+ 993. file://localhost/wiki/Express_Scripts
+ 994. file://localhost/wiki/Fastenal
+ 995. file://localhost/wiki/First_Solar
+ 996. file://localhost/wiki/Fiserv
+ 997. file://localhost/wiki/Flextronics
+ 998. file://localhost/wiki/FLIR_Systems
+ 999. file://localhost/wiki/Foster_Wheeler_Corporation
+1000. file://localhost/wiki/Garmin
+1001. file://localhost/wiki/Genzyme
+1002. file://localhost/wiki/Gilead_Sciences
+1003. file://localhost/wiki/Google
+1004. file://localhost/wiki/Hansen_Natural
+1005. file://localhost/wiki/Henry_Schein
+1006. file://localhost/wiki/Hologic
+1007. file://localhost/wiki/IAC/InterActiveCorp
+1008. file://localhost/wiki/Illumina_(company)
+1009. file://localhost/wiki/Infosys
+1010. file://localhost/wiki/Intel_Corporation
+1011. file://localhost/wiki/Intuit
+1012. file://localhost/wiki/Intuitive_Surgical
+1013. file://localhost/wiki/J.B._Hunt
+1014. file://localhost/w/index.php?title=Joy_Global&action=edit&redlink=1
+1015. file://localhost/wiki/Juniper_Networks
+1016. file://localhost/wiki/KLA_Tencor
+1017. file://localhost/wiki/Lam_Research
+1018. file://localhost/wiki/Liberty_Global
+1019. file://localhost/wiki/Liberty_Media
+1020. file://localhost/wiki/Life_Technologies
+1021. file://localhost/wiki/Linear_Technology
+1022. file://localhost/wiki/Logitech
+1023. file://localhost/wiki/Marvell_Technology_Group
+1024. file://localhost/wiki/Maxim_Integrated_Products
+1025. file://localhost/wiki/Microchip_Technology
+1026. file://localhost/wiki/Microsoft
+1027. file://localhost/wiki/Millicom
+1028. file://localhost/wiki/NetApp
+1029. file://localhost/wiki/News_Corporation
+1030. file://localhost/wiki/NII_Holdings
+1031. file://localhost/wiki/Nvidia
+1032. file://localhost/wiki/O%27Reilly_Auto_Parts
+1033. file://localhost/wiki/Oracle_Corporation
+1034. file://localhost/wiki/PACCAR
+1035. file://localhost/w/index.php?title=Patterson_Dental&action=edit&redlink=1
+1036. file://localhost/wiki/Paychex
+1037. file://localhost/w/index.php?title=Pharmaceutical_Product_Development&action=edit&redlink=1
+1038. file://localhost/wiki/Qualcomm
+1039. file://localhost/wiki/Research_In_Motion
+1040. file://localhost/wiki/Ross_Stores
+1041. file://localhost/wiki/Ryanair
+1042. file://localhost/wiki/Seagate_Technology
+1043. file://localhost/wiki/Sears_Holdings_Corporation
+1044. file://localhost/wiki/Sigma-Aldrich
+1045. file://localhost/wiki/Staples_Inc.
+1046. file://localhost/wiki/Starbucks
+1047. file://localhost/wiki/Steel_Dynamics
+1048. file://localhost/wiki/Stericycle
+1049. file://localhost/wiki/Sun_Microsystems
+1050. file://localhost/wiki/Symantec
+1051. file://localhost/wiki/Teva_Pharmaceutical_Industries
+1052. file://localhost/wiki/The_DirecTV_Group
+1053. file://localhost/wiki/Urban_Outfitters
+1054. file://localhost/wiki/VeriSign
+1055. file://localhost/wiki/Vertex_Pharmaceuticals
+1056. file://localhost/wiki/Warner_Chilcott
+1057. file://localhost/wiki/Wynn_Resorts
+1058. file://localhost/wiki/Xilinx
+1059. file://localhost/wiki/Yahoo!
+1060. file://localhost/wiki/Template:Sim_series
+1061. file://localhost/wiki/Template_talk:Sim_series
+1062. http://en.wikipedia.org/w/index.php?title=Template:Sim_series&action=edit
+1063. file://localhost/wiki/List_of_Sim_games
+1064. file://localhost/wiki/The_Sims_(series)
+1065. file://localhost/wiki/The_Sims
+1066. file://localhost/wiki/The_Sims:_Livin%27_Large
+1067. file://localhost/wiki/The_Sims#The_Sims:_House_Party
+1068. file://localhost/wiki/The_Sims:_Hot_Date
+1069. file://localhost/wiki/The_Sims#The_Sims:_Vacation
+1070. file://localhost/wiki/The_Sims#The_Sims:_Unleashed
+1071. file://localhost/wiki/The_Sims#The_Sims:_Superstar
+1072. file://localhost/wiki/The_Sims#The_Sims:_Makin.27_Magic
+1073. file://localhost/wiki/The_Sims_2
+1074. file://localhost/wiki/The_Sims_2:_University
+1075. file://localhost/wiki/The_Sims_2:_Nightlife
+1076. file://localhost/wiki/The_Sims_2:_Open_for_Business
+1077. file://localhost/wiki/The_Sims_2:_Pets
+1078. file://localhost/wiki/The_Sims_2:_Seasons
+1079. file://localhost/wiki/The_Sims_2:_Bon_Voyage
+1080. file://localhost/wiki/The_Sims_2:_FreeTime
+1081. file://localhost/wiki/The_Sims_2:_Apartment_Life
+1082. file://localhost/wiki/The_Sims_2_Stuff_packs
+1083. file://localhost/wiki/The_Sims_3
+1084. file://localhost/wiki/The_Sims_Stories
+1085. file://localhost/wiki/The_Sims_Life_Stories
+1086. file://localhost/wiki/The_Sims_Pet_Stories
+1087. file://localhost/wiki/The_Sims_Castaway_Stories
+1088. file://localhost/wiki/MySims
+1089. file://localhost/wiki/MySims_Kingdom
+1090. file://localhost/wiki/MySims_Party
+1091. file://localhost/wiki/MySims_Racing
+1092. file://localhost/wiki/The_Sims#Console_versions
+1093. file://localhost/wiki/The_Sims_Bustin%27_Out
+1094. file://localhost/wiki/The_Urbz:_Sims_in_the_City
+1095. file://localhost/wiki/The_Sims_2_(console_video_game)
+1096. file://localhost/wiki/The_Sims_2:_Pets
+1097. file://localhost/wiki/The_Sims_2:_Castaway
+1098. file://localhost/wiki/The_Sims_2:_Apartment_Pets
+1099. file://localhost/wiki/The_Sims_Online
+1100. file://localhost/wiki/The_Sims_Carnival
+1101. file://localhost/wiki/SimCity_(series)
+1102. file://localhost/wiki/SimCity
+1103. file://localhost/wiki/SimCity_2000
+1104. file://localhost/wiki/SimCity_3000
+1105. file://localhost/wiki/SimCity_64
+1106. file://localhost/wiki/SimCity_4
+1107. file://localhost/wiki/SimCity_4:_Rush_Hour
+1108. file://localhost/wiki/SimCity_DS
+1109. file://localhost/wiki/SimCity_Societies
+1110. file://localhost/wiki/SimCity_Societies:_Destinations
+1111. file://localhost/wiki/SimCity_DS_2
+1112. file://localhost/wiki/SimCity_Creator
+1113. file://localhost/wiki/SimCity_iPhone
+1114. file://localhost/wiki/Spore_(2008_video_game)
+1115. file://localhost/wiki/Spore_Creatures
+1116. file://localhost/wiki/Spore_Origins
+1117. file://localhost/wiki/Spore_Creature_Creator
+1118. file://localhost/wiki/Development_of_Spore
+1119. file://localhost/wiki/List_of_Sim_games#Other_Sim_games
+1120. file://localhost/wiki/SimEarth
+1121. file://localhost/wiki/SimAnt
+1122. file://localhost/wiki/SimLife
+1123. file://localhost/wiki/SimFarm
+1124. file://localhost/wiki/SimRefinery
+1125. file://localhost/wiki/SimTower
+1126. file://localhost/wiki/SimHealth
+1127. file://localhost/wiki/SimIsle
+1128. file://localhost/wiki/SimTown
+1129. file://localhost/wiki/SimPark
+1130. file://localhost/wiki/SimGolf
+1131. file://localhost/wiki/SimTunes
+1132. file://localhost/wiki/SimSafari
+1133. file://localhost/wiki/SimCopter
+1134. file://localhost/wiki/Streets_of_SimCity
+1135. file://localhost/wiki/SimsVille
+1136. file://localhost/wiki/Theme_Park_World
+1137. file://localhost/wiki/Theme_Park_Inc
+1138. file://localhost/wiki/Sid_Meier%27s_SimGolf
+1139. file://localhost/wiki/SimMars
+1140. file://localhost/wiki/SimAnimals
+1141. file://localhost/wiki/Maxis
+1142. file://localhost/wiki/Simlish
+1143. file://localhost/wiki/Will_Wright_(game_designer)
+1144. http://en.wikipedia.org/wiki/Electronic_Arts
+1145. file://localhost/wiki/Special:Categories
+1146. file://localhost/wiki/Category:Companies_listed_on_NASDAQ
+1147. file://localhost/wiki/Category:Companies_in_the_NASDAQ-100_Index
+1148. file://localhost/wiki/Category:Academy_of_Interactive_Arts_%26_Sciences_members
+1149. file://localhost/wiki/Category:Companies_established_in_1982
+1150. file://localhost/wiki/Category:Companies_based_in_San_Mateo_County,_California
+1151. file://localhost/wiki/Category:Electronic_Arts
+1152. file://localhost/wiki/Category:Entertainment_Software_Association
+1153. file://localhost/wiki/Category:Home_computer_software_companies
+1154. file://localhost/wiki/Category:International_Game_Developers_Association_members
+1155. file://localhost/wiki/Category:United_States_video_game_companies
+1156. file://localhost/wiki/Category:Video_game_developers
+1157. file://localhost/wiki/Category:Video_game_publishers
+1158. file://localhost/wiki/Category:All_articles_with_dead_external_links
+1159. file://localhost/wiki/Category:Articles_with_dead_external_links_since_September_2008
+1160. file://localhost/wiki/Category:Articles_needing_additional_references_from_July_2008
+1161. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+1162. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_August_2007
+1163. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_December_2008
+1164. file://localhost/wiki/Category:Portal:Companies/Total
+1165. file://localhost/wiki/Electronic_Arts
+1166. file://localhost/wiki/Talk:Electronic_Arts
+1167. file://localhost/w/index.php?title=Electronic_Arts&action=edit
+1168. file://localhost/w/index.php?title=Electronic_Arts&action=history
+1169. file://localhost/w/index.php?title=Special:UserLogin&returnto=Electronic_Arts
+1170. file://localhost/wiki/Main_Page
+1171. file://localhost/wiki/Portal:Contents
+1172. file://localhost/wiki/Portal:Featured_content
+1173. file://localhost/wiki/Portal:Current_events
+1174. file://localhost/wiki/Special:Random
+1175. file://localhost/wiki/Wikipedia:About
+1176. file://localhost/wiki/Wikipedia:Community_portal
+1177. file://localhost/wiki/Special:RecentChanges
+1178. file://localhost/wiki/Wikipedia:Contact_us
+1179. http://wikimediafoundation.org/wiki/Donate
+1180. file://localhost/wiki/Help:Contents
+1181. file://localhost/wiki/Special:WhatLinksHere/Electronic_Arts
+1182. file://localhost/wiki/Special:RecentChangesLinked/Electronic_Arts
+1183. file://localhost/wiki/Wikipedia:Upload
+1184. file://localhost/wiki/Special:SpecialPages
+1185. file://localhost/w/index.php?title=Electronic_Arts&printable=yes
+1186. file://localhost/w/index.php?title=Electronic_Arts&oldid=273502559
+1187. file://localhost/w/index.php?title=Special:Cite&page=Electronic_Arts&id=273502559
+1188. http://ca.wikipedia.org/wiki/Electronic_Arts
+1189. http://cs.wikipedia.org/wiki/Electronic_Arts
+1190. http://da.wikipedia.org/wiki/Electronic_Arts
+1191. http://de.wikipedia.org/wiki/Electronic_Arts
+1192. http://es.wikipedia.org/wiki/Electronic_Arts
+1193. http://eu.wikipedia.org/wiki/Electronic_Arts
+1194. http://fr.wikipedia.org/wiki/Electronic_Arts
+1195. http://gl.wikipedia.org/wiki/Electronic_Arts
+1196. http://hr.wikipedia.org/wiki/Electronic_Arts
+1197. http://id.wikipedia.org/wiki/Electronic_Arts
+1198. http://is.wikipedia.org/wiki/Electronic_Arts
+1199. http://it.wikipedia.org/wiki/Electronic_Arts
+1200. http://lt.wikipedia.org/wiki/Electronic_Arts
+1201. http://hu.wikipedia.org/wiki/Electronic_Arts
+1202. http://ms.wikipedia.org/wiki/Electronic_Arts
+1203. http://nl.wikipedia.org/wiki/Electronic_Arts
+1204. http://no.wikipedia.org/wiki/Electronic_Arts
+1205. http://pl.wikipedia.org/wiki/Electronic_Arts
+1206. http://pt.wikipedia.org/wiki/Electronic_Arts
+1207. http://ro.wikipedia.org/wiki/Electronic_Arts
+1208. http://simple.wikipedia.org/wiki/Electronic_Arts
+1209. http://sk.wikipedia.org/wiki/Electronic_Arts
+1210. http://sr.wikipedia.org/wiki/Electronic_Arts
+1211. http://fi.wikipedia.org/wiki/Electronic_Arts
+1212. http://sv.wikipedia.org/wiki/Electronic_Arts
+1213. http://tr.wikipedia.org/wiki/Electronic_Arts
+1214. http://www.mediawiki.org/
+1215. http://wikimediafoundation.org/
+1216. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+1217. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+1218. http://www.wikimediafoundation.org/
+1219. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+1220. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+1221. http://en.wikipedia.org/wiki/Non-profit_organization
+1222. http://en.wikipedia.org/wiki/Charitable_organization
+1223. http://wikimediafoundation.org/wiki/Privacy_policy
+1224. file://localhost/wiki/Wikipedia:About
+1225. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+1226. file://localhost/wiki/File:Question_book-new.svg
+1227. file://localhost/wiki/File:Electronic_Arts_historical_logo.svg
+1228. file://localhost/wiki/File:Electronic_Arts_historical_logo.svg
+1229. file://localhost/wiki/File:Pinball_Construction_Set_Coverart.png
+1230. file://localhost/wiki/File:Pinball_Construction_Set_Coverart.png
+1231. file://localhost/wiki/File:EA_Building_RedwoodShores.JPG
+1232. file://localhost/wiki/File:EA_Building_RedwoodShores.JPG
+1233. file://localhost/wiki/File:Electronic_Arts_historical_logo.svg
+1234. file://localhost/wiki/File:Ealogo.svg
+1235. file://localhost/wiki/File:EASports-old.png
+1236. file://localhost/wiki/File:Electronicartsheadquarters.jpg
+1237. file://localhost/wiki/File:Electronicartsheadquarters.jpg
+1238. file://localhost/wiki/File:Factory_1b.svg
+1239. file://localhost/wiki/Main_Page
+1240. http://ar.wikipedia.org/wiki/%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D9%83_%D8%A2%D8%B1%D8%AA%D8%B3
+1241. http://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9_%D8%A2%D8%B1%D8%AA%D8%B2
+1242. http://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89_%EC%95%84%EC%B8%A0
+1243. http://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%98%E1%83%99_%E1%83%90%E1%83%A0%E1%83%A2%E1%83%A1%E1%83%98
+1244. http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%84
+1245. http://ru.wikipedia.org/wiki/Electronic_Arts
+1246. http://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%89%BA%E7%95%8C

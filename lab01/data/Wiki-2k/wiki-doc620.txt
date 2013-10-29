@@ -1,0 +1,1513 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Europa Barbarorum
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EB II)
+   Jump to: [7]navigation, [8]search
+   Europa Barbarorum
+   [9]Developer(s) Europa Barbarorum Development Team
+   [10]Engine Europa Barbarorum:
+   [11]Rome: Total War engine
+   Europa Barbarorum II:
+   [12]Medieval II: Total War: Kingdoms engine
+   [13]Platform(s) [14]Windows
+   Release date(s) Europa Barbarorum:
+    () 27 December 2005^[15][1]
+   Europa Barbarorum II:
+   In development
+   [16]Latest release 1.2 / 21 November 2008^[17][2]
+   [18]Genre(s) [19]Real-time tactics, [20]Turn-based strategy
+   Mode(s) [21]Single player, [22]Multiplayer
+   [23]Media Free download
+
+   Europa Barbarorum (or EB) ([24]Latin: [25]Europe of the [26]Barbarians)
+   is a [27]modification (or "mod") of the [28]personal computer game
+   [29]Rome: Total War (RTW) based on the desire to provide Rome: Total
+   War players with a more historically accurate game
+   experience.^[30][3]^[31][4] Similar to the original game, the player
+   controls an empire with the goal of conquering as much territory as
+   possible and eliminating rival factions, which are controlled by the
+   computer, or [32]AI.
+
+   The basic gameplay mechanics of the original game remain the same. The
+   main campaign is split between two gameplay modes: a [33]turn-based
+   strategy map for moving whole armies and managing the empire; and a
+   [34]real-time battle map for fighting battles on the ground between two
+   armies. The two game modes are linked, with success or failure in one
+   game mode influencing the chances of success or failure in the other.
+
+   Europa Barbarorum is a [35]total conversion modification as it replaces
+   all the aspects of the original Rome: Total War game that can be
+   replaced, such as unit models, statistics and the musical
+   score.^[36][5]^[37][6] It covers the period from 272 BC to 14 AD (a
+   period only slightly different to the original game's timespan of 270
+   BC to 14 AD),^[38][7] and introduces a four-turn-per-year system on the
+   campaign map (as opposed to the two-turn-per-year system of Rome: Total
+   War) to better represent the flow of history.
+
+Contents
+
+     * [39]1 Development history
+          + [40]1.1 Concept
+          + [41]1.2 Development
+          + [42]1.3 Release and further versions
+     * [43]2 Features
+          + [44]2.1 Units
+          + [45]2.2 Faction changes
+          + [46]2.3 Cartography
+          + [47]2.4 Traits
+          + [48]2.5 Buildings
+          + [49]2.6 Non-Unit Graphics
+          + [50]2.7 Game Mechanics
+          + [51]2.8 Audio
+     * [52]3 Reception
+          + [53]3.1 Awards and reviews
+          + [54]3.2 Europa Barbarorum "Mini-Mods"
+     * [55]4 Notes
+     * [56]5 External links
+
+[[57]edit] Development history
+
+[[58]edit] Concept
+
+   The Europa Barbarorum project began in January 2004, eight months
+   before Rome: Total War's release,^[59][8] when the Europa Barbarorum
+   development team who were following the game's development became
+   concerned that its "[60]barbarian" factions such as the [61]Gauls and
+   [62]Germanic tribes were being portrayed in a historically inaccurate
+   manner as stereotypical hordes of unwashed savages.^[63][9] The Europa
+   Barbarorum team felt that such representations conformed more to a
+   sensationalist [64]Hollywood stereotype than to historical fact,
+   maintaining that ancient "barbarian" cultures are often judged and
+   possibly misunderstood based on an [65]interpretatio romana or
+   [66]interpretatio graeca due to the nature of ancient historiographical
+   conventions.^[67][3] The true nature of these civilizations, says the
+   Europa Barbarorum team, is better revealed through [68]archaeological
+   evidence and what remains of their own ancient texts.
+
+   The developers of Europa Barbarorum tried to convince the [69]Creative
+   Assembly (CA), the [70]developers of Rome: Total War, to alter their
+   depiction of the period to make the whole game more historically
+   accurate.^[71][3] Whilst some suggestions were taken on board and
+   adopted in the final release of Rome: Total War, most were disregarded
+   by the Creative Assembly due to publisher pressures and financial
+   expediency. Some Europa Barbarorum members continued to offer their
+   services as historical advisors but due to inherent concerns over
+   [72]intellectual property rights, the Creative Assembly declined the
+   offer.
+
+[[73]edit] Development
+
+   Having exhausted this avenue for change, the Europa Barbarorum members
+   then resolved to modify the game themselves upon its release. Once
+   Rome: Total War was released, the Europa Barbarorum development team
+   immediately began work on the modification, recruiting a large team of
+   volunteer [74]skinners, [75]modellers, [76]coders, and [77]historians
+   to have the modification better reflect historical reality and
+   subsequently commenced research and preliminary work for the
+   modification.
+
+   After leaving its [78]alpha phase, Europa Barbarorum was released as a
+   public open [79]beta, with the first such release being version 0.7.2
+   which was developed for patch 1.2 of Rome: Total War,^[80][10] and
+   released on 27 December 2005.^[81][1] After three more minor releases
+   in March 2006 which mostly fixed bugs and made small adjustments in the
+   modification,^[82][11]^[83][12]^[84][13] the next major release of
+   Europa Barbarorum was version 0.80 on 6 December 2006.^[85][14] The
+   release marked the start of the 0.8.x series of releases, and was the
+   first Europa Barbarorum release for patch 1.5 of Rome: Total
+   War.^[86][15]^[87][10] It included the addition of the [88]Sabaean
+   faction, new music, the addition of the provisional military government
+   level, the inclusion of a new MIC system and other changes.^[89][16]
+   The release of version 0.8 was also announced by the Europa Barbarorum
+   development team on a third-party computer modification review
+   website.^[90][17] There subsequently followed three more minor 0.8.x
+   releases during the first half of 2007, all of which primarily made
+   minor adjustments to the modification and fixed bugs.^[91][18]^[92][19]
+   In total, over 135,000 downloads of the 0.80-0.81 versions were
+   tracked.^[93][20]^[94][21]
+
+[[95]edit] Release and further versions
+
+   The next major release was version 1.0, which was released on October
+   12, 2007 and included new government options for the [96]Pahlava and
+   [97]Hayasdan factions, the addition of a new type of wall to the
+   battlemap, new units, new music from [98]Prehistoric Music Ireland, a
+   more challenging start to campaigns for the player and other
+   changes.^[99][22] The 1.0 version was downloaded over 90,000 times in
+   the six months following its release.^[100][20]^[101][21]
+
+   The current release is version 1.1, which was released on April 7, 2008
+   and included new battle map landscapes,^[102][23]^[103][24] new units,
+   the addition of the [104]Pahlavi voicemod and the inclusion of an
+   introduction video for the [105]Saka Rauka faction.^[106][23] The next
+   release being worked on, version 1.2, is expected to contain the
+   addition of the [107]Punic voicemod^[108][25] and bug fixes; the
+   development team had previously stated that future releases of Europa
+   Barbarorum for the Rome: Total War engine will not include any major
+   gameplay changes.
+
+   The Europa Barbarorum development team is also developing a new version
+   of the modification for the [109]Medieval II: Total War: Kingdoms
+   engine^[110][26] which will be named Europa Barbarorum II. Europa
+   Barbarorum II is scheduled to include many changes and new features,
+   such as new government and recruitment systems, an improved trait and
+   ancillary system,^[111][21] faction migrations, horde
+   factions,^[112][27] limits on elite units, free unit upkeep for some
+   garrisoned units,^[113][28] a larger campaign map, ten new playable
+   factions^[114][29] including the [115]Kingdom of Pergamon,^[116][30] a
+   new system of province integration and new units of better graphical
+   quality than those of Europa Barbarorum I,^[117][26]^[118][31] with
+   greater variation among units.^[119][21]
+
+   The modification has been included with [120]demos and other
+   modifications in the [121]PC Format and [122]PC Gamer (UK)^[123][5]
+   [124]computer magazines published in the [125]United Kingdom and
+   [126]South Africa.
+
+[[127]edit] Features
+
+   Even though Europa Barbarorum is set in a similar time period and
+   geographical area to the original Rome: Total War game, it is a
+   [128]total conversion which offers a very different gaming experience.
+   All units, buildings, map features and other moddable parameters of the
+   game have been reworked from scratch. New features not present in the
+   original game have also been added.^[129][32]
+
+[[130]edit] Units
+
+   Screenshots of battles from Rome: Total War (top) and Europa Barbarorum
+   (bottom)
+
+   One of the areas in which the greatest amount of change can be seen is
+   that of the units present in the game. Reviewers have commented that
+   the differences between Europa Barbarorum and its parent game are
+   "immediate" and "striking" and that the modification is different to
+   its parent game "in look and in play".^[131][5] The same review also
+   noted that all the units that were present in Rome: Total War have been
+   removed and replaced in Europa Barbarorum.^[132][5] Specific examples
+   include the removal of several units that the Europa Barbarorum team
+   considered to be historically doubtful or only marginally used in
+   warfare, such as [133]Arcani, [134]incendiary pigs and [135]camels, as
+   well as the "[136]Oliphaunt" [137]Easter egg unit from the original
+   Rome: Total War.^[138][23] A new unit recruitment system based on
+   governments and assimilation, and set up by the player on a
+   region-by-region basis, has been introduced.^[139][32]
+
+[[140]edit] Faction changes
+
+   Europa Barbarorum includes several factions not present in the original
+   game. The overall theme to the changes in factions has been one of
+   increasing historical accuracy,^[141][3] with the more
+   familiar-sounding, Western faction names of the original game^[142][33]
+   being replaced by factions' own names for themselves.^[143][33]
+   Examples of such name changes include the renaming the original game's
+   [144]Armenia faction, [145]Hayasdan and renaming the [146]Germania
+   faction, [147]Sweboz.^[148][33]
+
+   Many of the changes to factions introduced have had a greater impact on
+   gameplay than renaming factions. For example, the original game's
+   [149]Gaul faction has been replaced with two new factions: the
+   [150]Aedui and the [151]Arverni. The [152]Scythia faction has been
+   replaced by the [153]Sauromatae, and the Greek Cities faction has been
+   replaced by the Koinon Hellenon ([154]Ancient Greek: League of the
+   Greeks), a faction which represents the [155]Chremonidean League of
+   [156]Athens, [157]Sparta and [158]Rhodes. Entirely new factions include
+   [159]Baktria, a [160]Central Asian [161]Hellenic empire, [162]Epeiros,
+   an empire famous for producing [163]Pyrrhos of Epiros, [164]Saka-Rauka,
+   a heavily [165]cavalry-based faction based in [166]Central Asia and
+   [167]Saba, the [168]pre-Islamic kingdom in [169]Arabia.
+
+   Despite initial speculation that Europa Barbarorum would contain four
+   playable Roman factions like the original Rome: Total War,^[170][4] the
+   original [171]SPQR, [172]Brutii, [173]Julii and [174]Scipii
+   factions^[175][34] have all been merged into one faction, the
+   [176]Romani,^[177][35] again out of interests of historical accuracy.
+   Although early releases of Europa Barbarorum included the [178]Yuezhi
+   as a playable faction, it was later dropped as the Yuezhi people had
+   not yet migrated to the area of the world depicted on the Europa
+   Barbarorum campaign map by 272 BC.^[179][36] They have since been
+   recreated through scripted events in the modification, but have never
+   re-appeared as a fully playable faction in the modification since their
+   initial removal.^[180][33]
+
+   As well as replacing existing and adding new factions to the game,
+   Europa Barbarorum has also made changes to those factions from the
+   original Rome: Total War that it has not replaced entirely. These
+   changes include creating a new unit roster for the Egyptian faction in
+   the game (named [181]Egypt in the original Rome: Total War^[182][34]
+   and the [183]Ptolemaioi in Europa Barbarorum^[184][33]), a faction
+   which the Europa Barbarorum team felt was previously ahistorical,
+   calling Rome: Total War's Egyptian soldiers "[185]Mummy Returns
+   Egyptians",^[186][32]^[187][5] to correspond to the [188]Ptolemaic
+   period of history. The Europa Barbarorum team has also given
+   [189]Nomadic, [190]desert, and [191]steppe cultures their own
+   government buildings,^[192][36]^[193][37] which some say has helped
+   differentiate between Europa Barbarorum's factions and make the
+   differences between Europa Barbarorum and the original Rome: Total War
+   more than just cosmetic.^[194][5] Earlier releases of Europa Barbarorum
+   featured player alerts representing the major stages of the breakup of
+   the [195]Seleukid faction, if that collapse occurred in the
+   game,^[196][32] but such features became impossible to implement after
+   the removal of the [197]SPQR faction of the original game, which had
+   been used in Europa Barbarorum for scripting purposes, but was then
+   replaced by the [198]Saba faction.^[199][16] On the other hand, as well
+   as adding new factions, Europa Barbarorum has dropped entirely the
+   [200]Numidia faction of the original Rome: Total War.
+
+   Other faction-related changes in Europa Barbarorum have concerned not
+   just one, but many in-game factions. Such changes include the addition
+   of new, historically accurate family trees for all factions, as well as
+   the inclusion of historically accurate diplomatic relationships between
+   the game's factions at the start of the main campaign in 272 BC,
+   including representing existing treaties between different states
+   through scripting,^[201][32] and a revised "[202]Fog-of-war" to show
+   more realistically each faction's understanding of the world in 272
+   BC.^[203][32]^[204][5]^[205][38] In addition, rebel forces have been
+   given ethnic names and strengths, more than 4,900 new names for
+   generals and family members of [206]Hellenic factions, transliterated
+   from [207]Ancient Greek, have been added to the game, and new victory
+   conditions have been implemented for every faction. As well as this,
+   the Europa Barbarorum team has introduced faction-specific player
+   alerts for when the player captures a building important to their
+   faction.^[208][32]
+
+[[209]edit] Cartography
+
+   The Europa Barbarorum world map, correct for version 1.1
+
+   Europa Barbarorum features a campaign map altered from that of Rome:
+   Total War in several ways. Its eastern and southern regions have been
+   expanded, with [210]Arabia, [211]India, [212]Central Asia, and the
+   [213]Upper Nile region receiving new territories, and provinces have
+   been given accurate names in the language of their controlling peoples
+   at the game's start.^[214][32] Relief, province boundaries, snow
+   boundaries, vegetation types, coastlines and areas prone to natural
+   disaster^[215][38] in 272 BC have all been researched and implemented
+   into the campaign map.^[216][39] The [217]Nile-Red Sea canal linking
+   the [218]Indian Ocean and [219]Mediterranean Sea has been added to the
+   campaign map, as have the great trade routes of the ancient world, such
+   as the [220]Amber and [221]Silk Roads, which can be captured and
+   exploited.^[222][32] Europa Barbarorum also includes new campaign
+   map^[223][38] and battle map^[224][23] tree models, resulting in denser
+   forests in both [225]gameplay modes. Special buildings in provinces at
+   the edges of the campaign map representing trade routes with provinces
+   outside the campaign map have also been added.^[226][38]
+
+[[227]edit] Traits
+
+   The original [228]trait system present in Rome: Total War has been
+   expanded upon by Europa Barbarorum. The trait system in Europa
+   Barbarorum is based on a combination of upbringing, ageing, relatives'
+   traits, and health, factors which affect trait acquisition and
+   development over a character's life. Europa Barbarorum contains both
+   more traits overall, and more faction-specific traits, than Rome: Total
+   War.^[229][32] Each adult male character in Europa Barbarorum receives,
+   upon "coming of age" at sixteen, six primary traits: Intelligence,
+   Charisma, Vitality, Selflessness, Temperament and Loyalty. These traits
+   determine the personality of a character and can also influence which
+   other traits they will acquire in future and which tasks they will
+   perform well at and poorly at.^[230][40]
+
+   In addition to the six primary traits, there are also traits which can
+   only be acquired by characters from a certain faction or of a certain
+   ethnicity. The trait system for Hellenic characters, for instance, is
+   based on [231]Theophrastos' [232]Characters and [233]Aristotle's
+   teachings on the [234]Golden Mean. In a similar fashion, the Roman
+   trait system in Europa Barbarorum is partially based on the moral tales
+   of [235]Valerius Maximus.^[236][32] Traits related to special events,
+   such as the [237]Olympics which a Hellenic character can compete in and
+   possibly even win an event in something which would lead to the
+   acquisition of more positive traits or a [238]Triumph held in Rome to
+   celebrate a Roman General's victory against a specific faction which
+   can increase their [239]influence.^[240][32] Hellenic characters can
+   also complete training in the [241]Spartan [242]Agoge, which can earn
+   them traits of various levels of utility, depending on their
+   performance during their training.^[243][41] The personalities and
+   traits of all starting generals in the game have been made to mirror
+   those of their historical counterparts.^[244][32]
+
+[[245]edit] Buildings
+
+   A diagram of the possible development of the governments of nomadic
+   factions in Europa Barbarorum
+
+   Europa Barbarorum adds a number of new building types to the [246]turn-
+   and campaign map-based part of the game.
+
+   The game's core buildings, usually referred to as "government
+   buildings",^[247][42] represent different ways of ruling a
+   newly-conquered province. In decreasing order of cost required to
+   install them in the game, the four government types available in Europa
+   Barbarorum are: a homeland government, a government of a colonised
+   province, a subject state government, and an allied state
+   government.^[248][42] The four different government types carry with
+   them different bonuses and penalties, and the greater the autonomy
+   allowed, the greater the shift in focus for the ruling faction from
+   their own factional buildings and units to the construction of native
+   buildings and recruitment of native units.^[249][43] Allied state
+   governmets have been further differentiated in later releases of Europa
+   Barbarorum through the introduction of the "client ruler script", which
+   automaticaly installs a [250]puppet ruler in such a province, further
+   limiting the player's direct control over it.
+
+   Europa Barbarorum replaces separate facilities for training different
+   troop types with an all-encompassing line of [251]military-industrial
+   complex ("MIC") buildings, which are responsible for the recruitment of
+   virtually all troop types in the game.^[252][44]^[253][42] There are
+   two different, independent complex systems in Europa Barbarorum: a
+   "factional MIC", for recruiting the faction's own troops, and a "local
+   MIC", for recruiting troops native to the province the complex has been
+   built in. How far the two types of complexes can be upgraded is
+   dependant on the government of the province: those with greater
+   autonomy can upgrade the local complex further while expansion of the
+   factional military-industrial complex is limited, and vice
+   versa.^[254][15]^[255][43]
+
+   Europa Barbarorum also introduces a number of unique buildings
+   representing both man-made objects of wonder and features of the
+   landscape. The former can be destroyed by the player for a monetary
+   pay-off, but then cannot be rebuilt and the province in which they
+   stood loses the bonuses they provided;^[256][45] the latter type of
+   unique building is indestructible.^[257][32]
+
+   Other new building types include shrines, clinics, granaries, theatres
+   and [258]stupas. The modification also features new temple systems
+   which represent the most popular temple types of each of the depicted
+   factions. The temples provide historically accurate bonuses and also
+   come with their own descriptions and images on the campaign
+   map.^[259][32]^[260][43]
+
+[[261]edit] Non-Unit Graphics
+
+   As well as adding new units to the game, the Europa Barbarorum team has
+   also included new non-unit graphics in the modification, such as
+   faction-specific graphics for the faction selection menu, a new
+   campaign minimap, faction icons, faction selection buttons,
+   faction-defeated graphics, advisor images, campaign map standards, and
+   battle map banners.^[262][32] Europa Barbarorum also includes new
+   campaign map siege, ship, unit, general, watchtower, and resource
+   graphics^[263][9]^[264][46]^[265][39]^[266][38]^[267][32] in addition
+   to its new battle map graphics.^[268][24]
+
+[[269]edit] Game Mechanics
+
+   Europa Barbarorum's mechanics differ noticeably in several ways from
+   Rome: Total War's. One of the most obvious differences is the fact that
+   in the original Rome: Total War campaign, one year passed after every
+   two turns on the campaign map; in Europa Barbarorum, one year passes
+   after every four turns, meaning that turns represent seasons in Europa
+   Barbarorum indeed, they have been renamed as such^[270][23] with
+   characters facing restrictions on how far they can move during
+   winter.^[271][32] In addition, the Europa Barbarorum team has designed
+   new custom battle formations in order to encourage more realistic
+   behaviour from the AI and has also added new battle map unit
+   animations, such as those of two-handed lancers and horse
+   archers.^[272][32]
+
+[[273]edit] Audio
+
+   Europa Barbarorum features its own soundtrack and does not include any
+   songs from the original Rome: Total War soundtrack. Europa Barbarorum's
+   music comes from a number of sources. Some of the tracks were composed
+   by [274]Morgan Casey and [275]Nick
+   Wylie.^[276][32]^[277][47]^[278][48]^[279][49] More recently, authentic
+   music for the Celtic factions and reconstructed and recreated Roman
+   music, created by [280]Prehistoric Music Ireland^[281][50]^[282][32]
+   and the German group Musica Romana^[283][51] have been added. Europa
+   Barbarorum also includes its own "voicemod", an attempt by the
+   developers to replace the English cries of Rome: Total War's soldiers
+   with ones in their native languages. To date, voice recordings in
+   [284]classical Latin, [285]Celtic, [286]ancient
+   Greek^[287][32]^[288][52] and [289]Pahlavi^[290][53] have been added,
+   and recordings in other ancient languages, such as [291]Punic, are also
+   being worked on.^[292][53]^[293][25]
+
+[[294]edit] Reception
+
+   Europa Barbarorum has had some impact both on the [295]Total War gaming
+   community and on the wider games industry.
+
+[[296]edit] Awards and reviews
+
+   Europa Barbarorum has won numerous community awards, including
+   [297]TWCenter.net Best Rome: Total War Era Modification 2006, Best
+   Modding Team 2006, Best Gameplay and Aesthetics 2006,^[298][54]
+   Outstanding Achievement Award 2007, Best Rome: Total War Strategic Map
+   Experience 2007, Best Rome: Total War Unit Art 2007, Best Rome: Total
+   War Modification 2007, Best Rome: Total War Era Modification 2007, Best
+   Original Audio Award 2007, Best Rome: Total War 2D Art Award
+   2007;^[299][55] and [300]TotalWar.org Most Promising Modification 2005,
+   Favorite Rome: Total War Modification 2006, Most Accomplished Rome:
+   Total War Modification 2006, Best Rome: Total War Classical Period
+   Modification 2006, and Best Original Audio 2006.^[[301]citation needed]
+
+   Europa Barbarorum was featured and reviewed in a number of [302]video
+   game magazines. It has been reviewed in [303]PC Gamer (UK) twice, in
+   March 2005 and February 2008.^[304][5] The 2008 review was
+   overwhelmingly positive, saying that "EB feels like a whole new Total
+   War game", and going on to praise the modification's "stunning" scope
+   and the "striking" extent of the differences between it and Rome: Total
+   War. The review was somewhat critical of the modification's graphical
+   user interfaces which "[occasionally]" had a "home-made" feel to them,
+   as well as its lack of accessibility and steep learning curve, although
+   it adds that the second point is not a large problem as the
+   modification is largely a "master's challenge for accomplished Rome
+   players". The review finished on a positive note, summing Europa
+   Barbarorum up as a "superior game".^[305][5]
+
+   Other magazines which have reviewed Europa Barbarorum include the
+   Italian PC Gaming magazine [306]Giochi per il mio computer, which
+   reviewed the modification in April 2005; the French PC Gaming magazine
+   [307]Canard PC in 2005, the Romanian PC Gaming magazine [308]LeveL in
+   2006, the German magazine [309]GameStar in April 2007 and the
+   Portuguese magazine [310]BGamer in December 2007.
+
+   Europa Barbarorum has also received several online
+   reviews.^[311][4]^[312][21] The modification received a review early
+   into its development process on [313]HeavenGames.com, which said that
+   it was an "ambitious" project and praised its commitment to historical
+   accuracy, even stating that the Europa Barbarorum development team was
+   going to use satellite imagery and climate change statistics to
+   accurately portray the world as it was in 272 BC.^[314][4] More
+   recently, the modification has been reviewed on [315]BoomTown.net,
+   which praised the modification's "incredibly well-researched and
+   -devised" unit stats system, as well as its "legion of
+   historians".^[316][21]
+
+[[317]edit] Europa Barbarorum "Mini-Mods"
+
+   There are a number of fan-made sub-modifications for Europa Barbarorum
+   of varying scope which modify different aspects of the game by editing
+   the associated [318]text files. Europa Barbarorum has also been
+   [319]ported to run using the [320]Rome: Total War: Barbarian Invasion
+   or [321]Rome: Total War: Alexander [322]executable.^[323][56]^[324][57]
+   Playing the modification on the new platforms has been reported to have
+   made the campaign AI utilise more complex
+   strategies.^[325][56]^[326][57]
+
+[[327]edit] Notes
+
+    1. ^ [328]^a [329]^b Europa Barbarorum Development Team (2005-12-27).
+       [330]"Europa Barbarorum needs your help! The Open Beta is here.".
+       [331]http://forums.totalwar.org/vb/showthread.php?t=58619.
+       Retrieved on 2008-08-24.
+    2. [332]^ Europa Barbarorum Development Team (20080407). [333]"EB v1.2
+       released!".
+       [334]http://forums.totalwar.org/vb/showthread.php?p=2067800#post206
+       7800. Retrieved on 20080413.
+    3. ^ [335]^a [336]^b [337]^c [338]^d Europa Barbarorum Development
+       Team. [339]"Europa Barbarorum mission statement". Archived from
+       [340]the original on 2008-02-14.
+       [341]http://web.archive.org/web/20080214230528/http://www.europabar
+       barorum.com/. Retrieved on 2008-02-14.
+    4. ^ [342]^a [343]^b [344]^c [345]^d [346]"Europa Barbarorum". Rome:
+       Total War mods portal. HeavenGames.com. Archived from [347]the
+       original on 2006-05-11.
+       [348]http://web.archive.org/web/20060511175126/http://rtw.heavengam
+       es.com/rtw/mods/portal/eb/index.shtml. Retrieved on 2008-08-24.
+    5. ^ [349]^a [350]^b [351]^c [352]^d [353]^e [354]^f [355]^g [356]^h
+       [357]^i Meer, Alec (February 2008). "Europa Barbarorum". [358]PC
+       Gamer (UK) ([359]Bath: [360]Future Publishing) (184): 92.
+    6. [361]^ [362]"Europa Barbarorum". [363]ModDB.com.
+       [364]http://www.moddb.com/mods/europa-barbarorum. Retrieved on
+       2008-09-13.
+    7. [365]^ [366]The Creative Assembly. [367]"History". Rome: Total War
+       information. TotalWar.com. Archived from [368]the original on
+       2007-12-16.
+       [369]http://web.archive.org/web/20071216063033/http://www.totalwar.
+       com/index.html?page=/en/rome/gameinfo/index.html&nav=/en/rome/1/.
+       Retrieved on 2008-09-19.  Click on the "History" tab.
+    8. [370]^ [371]"Rome: Total War (PC)". Games. GameSpy.com. Archived
+       from [372]the original on 2008-02-05.
+       [373]http://web.archive.org/web/20080205222001/http://uk.pc.gamespy
+       .com/pc/rome-total-war/. Retrieved on 2008-09-19.
+    9. ^ [374]^a [375]^b User: Ace Cataphract. [376]"Europa Barbarorum
+       interview with Khelvan". HeavenGames.com. Archived from [377]the
+       original on 2006-05-11.
+       [378]http://web.archive.org/web/20060511195915/http://rtw.heavengam
+       es.com/rtw/mods/portal/interviews/ebintwk/index.shtml. Retrieved on
+       2008-09-19.
+   10. ^ [379]^a [380]^b [[381]|User: Calvin] (2008-08-26).
+       [382]"Interview with Foot of Europa Barbarorum II for Medieval II:
+       Total War". The Eagle Standard Vol. VI Issue XI. The Eagle
+       Standard.
+       [383]http://www.twcenter.net/forums/showthread.php?t=187873#EB.
+       Retrieved on 2008-08-27.
+   11. [384]^ Europa Barbarorum Development Team (2006-03-05). [385]"EB
+       v0.73 (hotfix now available)".
+       [386]http://forums.totalwar.org/vb/showthread.php?t=62053.
+       Retrieved on 2008-09-01.
+   12. [387]^ Europa Barbarorum Development Team (2006-03-06). [388]"EB
+       v0.7.3a (patch + hotfix)".
+       [389]http://forums.totalwar.org/vb/showthread.php?t=62112.
+       Retrieved on 2008-09-01.
+   13. [390]^ Europa Barbarorum Development Team (2006-03-20). [391]"EB
+       v0.7.4 (patch)".
+       [392]http://forums.totalwar.org/vb/showthread.php?t=62651.
+       Retrieved on 2008-08-25.
+   14. [393]^ Europa Barbarorum Development Team (2006-12-06). [394]"The
+       EB v0.8 Release - Get it here!".
+       [395]http://forums.totalwar.org/vb/showthread.php?t=74101.
+       Retrieved on 2008-08-26.
+   15. ^ [396]^a [397]^b Europa Barbarorum Development Team (2006-12-04).
+       [398]"Light Reading: New 0.8 MIC system explanation". Archived from
+       [399]the original on 2008-02-14.
+       [400]http://web.archive.org/web/20080214224750/http://forums.totalw
+       ar.org/vb/showthread.php?t=73928. Retrieved on 2008-08-25.
+   16. ^ [401]^a [402]^b Europa Barbarorum Development Team (2006-12-06).
+       [403]"EB 0.74 to 0.80: What's New?". Archived from [404]the
+       original on 2008-02-11.
+       [405]http://web.archive.org/web/20080211110940/http://forums.totalw
+       ar.org/vb/showthread.php?t=74103. Retrieved on 2008-08-25.
+   17. [406]^ Europa Barbarorum Development Team (2006-12-11). [407]"EB
+       0.8 released". [408]ModDB.com.
+       [409]http://www.moddb.com/mods/europa-barbarorum/news/eb-08-release
+       d. Retrieved on 2008-09-13.
+   18. [410]^ Europa Barbarorum Development Team (2007-02-18).
+       [411]"Europa Barbarorum v0.81 released :: Grab it here". Archived
+       from [412]the original on 2007-12-23.
+       [413]http://web.archive.org/web/20071223102745/http://forums.totalw
+       ar.org/vb/showthread.php?t=79642. Retrieved on 2008-08-24.
+   19. [414]^ Europa Barbarorum Development Team (2007-03-05). [415]"EB
+       v0.81a Hotfix released". Archived from [416]the original on
+       2007-05-11.
+       [417]http://web.archive.org/web/20070511005109/http://forums.totalw
+       ar.org/vb/showthread.php?t=80651. Retrieved on 2008-08-25.
+   20. ^ [418]^a [419]^b Europa Barbarorum Development Team. [420]"EB
+       Full-Install MOD". EuropaBarbarorum.com.
+       [421]http://www.europabarbarorum.com/downloads_mod.html. Retrieved
+       on 2008-08-24.
+   21. ^ [422]^a [423]^b [424]^c [425]^d [426]^e [427]^f Clifford, Graham
+       (2008-08-18). [428]"The World of Total War Mods". BoomTown.net.
+       [429]http://pc.boomtown.net/en_uk/articles/art.view.php?id=16547.
+       Retrieved on 2008-08-24.
+   22. [430]^ Europa Barbarorum Development Team (2007-10-11). [431]"EB
+       v1.0 Released".
+       [432]http://forums.totalwar.org/vb/showthread.php?t=93132.
+       Retrieved on 2007-10-12.
+   23. ^ [433]^a [434]^b [435]^c [436]^d [437]^e Europa Barbarorum
+       Development Team (2008-04-07). [438]"EB v1.1 released!".
+       [439]http://forums.totalwar.org/vb/showthread.php?t=101739.
+       Retrieved on 2008-04-13.
+   24. ^ [440]^a [441]^b Europa Barbarorum Development Team (2007-12-21).
+       [442]"EB December/Christmas Preview". Archived from [443]the
+       original on 2008-02-08.
+       [444]http://web.archive.org/web/20080208111304/http://forums.totalw
+       ar.org/vb/showthread.php?t=96896. Retrieved on 2008-08-25.
+   25. ^ [445]^a [446]^b Europa Barbarorum Development Team (2008-06-22).
+       [447]"Re: EB v1.1 released!".
+       [448]http://www.twcenter.net/forums/showthread.php?p=3223107#post32
+       23107. Retrieved on 2008-08-31.
+   26. ^ [449]^a [450]^b Europa Barbarorum Development Team (2008-03-16).
+       [451]"Stele #4".
+       [452]http://forums.totalwar.org/vb/showthread.php?t=100653.
+       Retrieved on 2008-08-25.
+   27. [453]^ Europa Barbarorum Development Team (2007-07-29). [454]"Stele
+       #1". Archived from [455]the original on 2008-01-19.
+       [456]http://web.archive.org/web/20080119000815/http://forums.totalw
+       ar.org/vb/showthread.php?t=89290. Retrieved on 2008-08-25.
+   28. [457]^ Europa Barbarorum Development Team (2007-08-05). [458]"Stele
+       #2". Archived from [459]the original on 2008-02-09.
+       [460]http://web.archive.org/web/20080209151606/http://forums.totalw
+       ar.org/vb/showthread.php?t=89629. Retrieved on 2008-08-25.
+   29. [461]^ Europa Barbarorum Development Team (2007-11-26). [462]"Stele
+       #3". Archived from [463]the original on 2008-02-13.
+       [464]http://web.archive.org/web/20080213121532/http://forums.totalw
+       ar.org/vb/showthread.php?t=95706. Retrieved on 2008-08-25.
+   30. [465]^ Europa Barbarorum Development Team (2008-05-04). [466]"Stele
+       #6: Pergamon".
+       [467]http://forums.totalwar.org/vb/showthread.php?t=103202.
+       Retrieved on 2008-08-25.
+   31. [468]^ Europa Barbarorum Development Team (2008-04-11). [469]"Stele
+       #5". [470]http://forums.totalwar.org/vb/showthread.php?t=101988.
+       Retrieved on 2008-08-25.
+   32. ^ [471]^a [472]^b [473]^c [474]^d [475]^e [476]^f [477]^g [478]^h
+       [479]^i [480]^j [481]^k [482]^l [483]^m [484]^n [485]^o [486]^p
+       [487]^q [488]^r [489]^s [490]^t [491]^u [492]^v Europa Barbarorum
+       Development Team. [493]"Features". EuropaBarbarorum.com. Archived
+       from [494]the original on 2008-01-31.
+       [495]http://web.archive.org/web/20080131232510/http://www.europabar
+       barorum.com/features.html. Retrieved on 2008-08-24.
+   33. ^ [496]^a [497]^b [498]^c [499]^d [500]^e Europa Barbarorum
+       Development Team. [501]"Factions". EuropaBarbarorum.com. Archived
+       from [502]the original on 2008-02-15.
+       [503]http://web.archive.org/web/20080215094747/http://www.europabar
+       barorum.com/factions.html. Retrieved on 2008-08-24.
+   34. ^ [504]^a [505]^b [506]"Factions". HeavenGames.com. Archived from
+       [507]the original on 2006-11-12.
+       [508]http://web.archive.org/web/20061112000044/http://rtw.heavengam
+       es.com/rtw/info/factions/index.shtml. Retrieved on 2008-08-24.
+   35. [509]^ Europa Barbarorum Development Team. [510]"Romani".
+       EuropaBarbarorum.com. Archived from [511]the original on
+       2008-02-13.
+       [512]http://web.archive.org/web/20080213171247/http://www.europabar
+       barorum.com/factions_romani.html. Retrieved on 2008-08-24.
+   36. ^ [513]^a [514]^b Europa Barbarorum Development Team (2006-07-11).
+       [515]"EB July Preview :: Saka-Rauka (and music!!)". Archived from
+       [516]the original on 2007-11-17.
+       [517]http://web.archive.org/web/20071117062648/http://forums.totalw
+       ar.org/vb/showthread.php?t=66852. Retrieved on 2008-08-24.
+   37. [518]^ Europa Barbarorum Development Team (2006-04-11). [519]"EB
+       April Preview". Archived from [520]the original on 2007-11-17.
+       [521]http://web.archive.org/web/20071117072038/http://forums.totalw
+       ar.org/vb/showthread.php?t=63495. Retrieved on 2008-08-24.
+   38. ^ [522]^a [523]^b [524]^c [525]^d [526]^e Europa Barbarorum
+       Development Team (2007-07-16). [527]"EB July Map and Features
+       Preview". Archived from [528]the original on 2007-12-24.
+       [529]http://web.archive.org/web/20071224200233/http://forums.totalw
+       ar.org/vb/showthread.php?t=88708. Retrieved on 2008-08-24.
+   39. ^ [530]^a [531]^b Europa Barbarorum Development Team (2005-07-11).
+       [532]"Countdown to Open Beta - Tabula Orbis Terrae". Archived from
+       [533]the original on 2007-11-17.
+       [534]http://web.archive.org/web/20071117071909/http://forums.totalw
+       ar.org/vb/showthread.php?t=50614. Retrieved on 2008-08-24.
+   40. [535]^ Europa Barbarorum Development Team. [536]"An Introduction to
+       the Traits and Ancillaries System". EuropaBarbarorum.com. Archived
+       from [537]the original on 2007-12-25.
+       [538]http://web.archive.org/web/20071225185227/http://www.europabar
+       barorum.com/features_traits.html. Retrieved on 2008-08-25.
+   41. [539]^ Europa Barbarorum Development Team (2007-06-15). [540]"EB
+       June Preview".
+       [541]http://forums.totalwar.org/vb/showthread.php?t=87150.
+       Retrieved on 2008-08-25.
+   42. ^ [542]^a [543]^b [544]^c Europa Barbarorum Development Team
+       (2005-12-27). [545]"EB vs RTW: What is different? A Guide!!".
+       Archived from [546]the original on 2008-02-13.
+       [547]http://web.archive.org/web/20080213121521/http://forums.totalw
+       ar.org/vb/showthread.php?t=58617. Retrieved on 2008-08-25.
+   43. ^ [548]^a [549]^b [550]^c Europa Barbarorum Development Team.
+       [551]"Buildings". EuropaBarbarorum.com. Archived from [552]the
+       original on 2008-01-24.
+       [553]http://web.archive.org/web/20080124151700/http://www.europabar
+       barorum.com/features_buildings.html. Retrieved on 2008-08-25.
+   44. [554]^ Europa Barbarorum Development Team (2007-05-08).
+       [555]"Europa Barbarorum FAQ". Archived from [556]the original on
+       2008-02-04.
+       [557]http://web.archive.org/web/20080204223132/http://forums.totalw
+       ar.org/vb/showthread.php?t=84854. Retrieved on 2008-08-25.
+   45. [558]^ Europa Barbarorum Development Team (2007-05-12). [559]"EB
+       May Preview". Archived from [560]the original on 2007-05-24.
+       [561]http://web.archive.org/web/20070524203146/http://forums.totalw
+       ar.org/vb/showthread.php?t=85110. Retrieved on 2008-08-25.
+   46. [562]^ Europa Barbarorum Development Team (2006-09-08). [563]"EB
+       Preview :: Resources". Archived from [564]the original on
+       2007-11-17.
+       [565]http://web.archive.org/web/20071117072113/http://forums.totalw
+       ar.org/vb/showthread.php?t=68944. Retrieved on 2008-08-25.
+   47. [566]^ Europa Barbarorum Development Team (2006-07-20). [567]"EB
+       Music Preview". Archived from [568]the original on 2007-11-17.
+       [569]http://web.archive.org/web/20071117072053/http://forums.totalw
+       ar.org/vb/showthread.php?t=67177. Retrieved on 2008-08-25.
+   48. [570]^ Europa Barbarorum Development Team (2006-08-19). [571]"EB
+       Music Preview Strikes Back!". Archived from [572]the original on
+       2007-11-17.
+       [573]http://web.archive.org/web/20071117072100/http://forums.totalw
+       ar.org/vb/showthread.php?t=68109. Retrieved on 2008-08-25.
+   49. [574]^ Europa Barbarorum Development Team (2006-09-28). [575]"The
+       Last EB Music Preview". Archived from [576]the original on
+       2007-11-17.
+       [577]http://web.archive.org/web/20071117072122/http://forums.totalw
+       ar.org/vb/showthread.php?t=69806. Retrieved on 2008-08-25.
+   50. [578]^ Europa Barbarorum Development Team (2007-06-21). [579]"EB
+       Music Announcement: Prehistoric Music Ireland". Archived from
+       [580]the original on 2008-02-09.
+       [581]http://web.archive.org/web/20080209170936/http://forums.totalw
+       ar.org/vb/showthread.php?t=87523. Retrieved on 2008-08-24.
+   51. [582]^ Europa Barbarorum Development Team (2008-03-14). [583]"EB
+       Roman Music Preview (Musica Romana)".
+       [584]http://forums.totalwar.org/vb/showthread.php?t=100569.
+       Retrieved on 2008-08-24.
+   52. [585]^ Europa Barbarorum Development Team (2006-11-02). [586]" or
+       the ANCIENT GREEK voice mod...". Archived from [587]the original on
+       2008-02-09.
+       [588]http://web.archive.org/web/20080209155343/http://www.twcenter.
+       net/forums/showthread.php?t=66990. Retrieved on 2008-08-25.
+   53. ^ [589]^a [590]^b Europa Barbarorum Development Team (2007-08-27).
+       [591]"EB: Voicemod Preview". Archived from [592]the original on
+       2008-02-09.
+       [593]http://web.archive.org/web/20080209171022/http://forums.totalw
+       ar.org/vb/showthread.php?t=90676. Retrieved on 2008-08-24.
+   54. [594]^ [[595]|User: Publius] (2006-08-15). [596]"TWC Modder Awards
+       Summer 2006 Winners!". TWCenter.net.
+       [597]http://www.twcenter.net/forums/showthread.php?t=58898.
+       Retrieved on 2008-08-24.
+   55. [598]^ [[599]|User: Halie Satanus] (2007-03-25). [600]"TWC Modding
+       Awards Winners". TWCenter.net. Archived from [601]the original on
+       2008-12-28.
+       [602]http://web.archive.org/web/20071228224901/http://www.twcenter.
+       net/forums/showthread.php?t=89834. Retrieved on 2008-08-24.
+   56. ^ [603]^a [604]^b [[605]|User: Ferromancer] (2007-11-25). [606]"New
+       installer for Europa Barbarorum with Barbarian Invasion". Archived
+       from [607]the original on 2008-01-30.
+       [608]http://web.archive.org/web/20080130034040/http://forums.totalw
+       ar.org/vb/showthread.php?t=95664. Retrieved on 13 December 2008.
+   57. ^ [609]^a [610]^b [[611]|User: Maksimus] (2007-11-08).
+       [612]"ALEXANDER EB". Archived from [613]the original on 2008-01-18.
+       [614]http://web.archive.org/web/20080118180218/http://forums.totalw
+       ar.org/vb/showthread.php?t=94861. Retrieved on 13 December 2008.
+
+[[615]edit] External links
+
+     * [616]Official Rome: Total War Game Website
+     * [617]Official Europa Barbarorum Website
+     * [618]TotalWar.org [619]Europa Barbarorum I forum
+     * [620]TWCenter.net [621]Europa Barbarorum I forum
+     * [622]TotalWar.org [623]Europa Barbarorum II forum
+     * [624]TWCenter.net [625]Europa Barbarorum II forum
+
+   Retrieved from "[626]http://en.wikipedia.org/wiki/Europa_Barbarorum"
+   [627]Categories: [628]2005 video games | [629]Video game mods |
+   [630]Real-time tactics video games | [631]Roman Empire video games |
+   [632]Total War modifications | [633]Turn-based strategy video games |
+   [634]Windows games
+   Hidden categories: [635]Articles containing Latin language text |
+   [636]Articles containing non-English language text | [637]All articles
+   with unsourced statements | [638]Articles with unsourced statements
+   since August 2008
+
+Views
+
+     * [639]Article
+     * [640]Discussion
+     * [641]Edit this page
+     * [642]History
+
+Personal tools
+
+     * [643]Log in / create account
+
+Navigation
+
+     * [644]Main page
+     * [645]Contents
+     * [646]Featured content
+     * [647]Current events
+     * [648]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [649]About Wikipedia
+     * [650]Community portal
+     * [651]Recent changes
+     * [652]Contact Wikipedia
+     * [653]Donate to Wikipedia
+     * [654]Help
+
+Toolbox
+
+     * [655]What links here
+     * [656]Related changes
+     * [657]Upload file
+     * [658]Special pages
+     * [659]Printable version
+     * [660]Permanent link
+     * [661]Cite this page
+
+   [662]Powered by MediaWiki
+   [663]Wikimedia Foundation
+     * This page was last modified on 2 February 2009, at 18:25.
+     * All text is available under the terms of the [664]GNU Free
+       Documentation License. (See [665]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [666]Wikimedia
+       Foundation, Inc., a U.S. registered [667]501(c)(3)
+       [668]tax-deductible [669]nonprofit [670]charity.
+     * [671]Privacy policy
+     * [672]About Wikipedia
+     * [673]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Europa_Barbarorum&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EB_II&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#searchInput
+   9. file://localhost/wiki/Video_game_developer
+  10. file://localhost/wiki/Game_engine
+  11. file://localhost/wiki/Rome:_Total_War
+  12. file://localhost/wiki/Medieval_II:_Total_War:_Kingdoms
+  13. file://localhost/wiki/Computing_platform
+  14. file://localhost/wiki/Microsoft_Windows
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_open_beta_announcement-0
+  16. file://localhost/wiki/Software_release_life_cycle
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.2_release_announcement-1
+  18. file://localhost/wiki/Video_game_genres
+  19. file://localhost/wiki/Real-time_tactics
+  20. file://localhost/wiki/Turn-based_strategy
+  21. file://localhost/wiki/Single_player
+  22. file://localhost/wiki/Multiplayer
+  23. file://localhost/wiki/Digital_media
+  24. file://localhost/wiki/Latin_language
+  25. file://localhost/wiki/Europe
+  26. file://localhost/wiki/Barbarian
+  27. file://localhost/wiki/Mod_(computer_gaming)
+  28. file://localhost/wiki/Personal_computer_game
+  29. file://localhost/wiki/Rome:_Total_War
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mission_statement-2
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_review-3
+  32. file://localhost/wiki/Game_artificial_intelligence
+  33. file://localhost/wiki/Turn-based_game
+  34. file://localhost/wiki/Real-time_strategy
+  35. file://localhost/wiki/Mod_(computer_gaming)#Total_conversion
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-ModDB_summary-5
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-CA_RTW_information-6
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Development_history
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Concept
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Development
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Release_and_further_versions
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Features
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Units
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Faction_changes
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Cartography
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Traits
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Buildings
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Non-Unit_Graphics
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Game_Mechanics
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Audio
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Reception
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Awards_and_reviews
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Europa_Barbarorum_.22Mini-Mods.22
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#Notes
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#External_links
+  57. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=1
+  58. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=2
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Gamespy_RTW_information-7
+  60. file://localhost/wiki/Barbarian
+  61. file://localhost/wiki/Gaul
+  62. file://localhost/wiki/Germanic_peoples
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_Khelvan_interview-8
+  64. file://localhost/wiki/Cinema_of_the_United_States
+  65. file://localhost/wiki/Interpretatio_graeca#Roman_version
+  66. file://localhost/wiki/Interpretatio_graeca
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mission_statement-2
+  68. file://localhost/wiki/Archaeology
+  69. file://localhost/wiki/Creative_Assembly
+  70. file://localhost/wiki/Video_game_developer
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mission_statement-2
+  72. file://localhost/wiki/Intellectual_property
+  73. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=3
+  74. file://localhost/wiki/Texture_mapping
+  75. file://localhost/wiki/3D_model
+  76. file://localhost/wiki/Programmer
+  77. file://localhost/wiki/Historian
+  78. file://localhost/wiki/Beta_test#Alpha
+  79. file://localhost/wiki/Beta_test#Beta
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Eagle_Standard_interview-9
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_open_beta_announcement-0
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.73_release_announcement-10
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.73a_release_announcement-11
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.74_patch_announcement-12
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.80_release_announcement-13
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_MIC_explanation-14
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Eagle_Standard_interview-9
+  88. file://localhost/wiki/Sheba
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.74_vs_0.80_differences-15
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-ModDB_0.80_release_announcement-16
+  91. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.81_release_announcement-17
+  92. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.81a_release_announcement-18
+  93. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mod_downloads-19
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+  95. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=4
+  96. file://localhost/wiki/Parthia
+  97. file://localhost/wiki/Orontid_Dynasty
+  98. http://homepage.eircom.net/~bronzeagehorns
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.0_release_announcement-21
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mod_downloads-19
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.1_release_announcement-22
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Christmas_preview-23
+ 104. file://localhost/wiki/Parthian_language
+ 105. file://localhost/wiki/Saka
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.1_release_announcement-22
+ 107. file://localhost/wiki/Punic_language
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.2_voicemods_announcement-24
+ 109. file://localhost/wiki/Medieval_II:_Total_War:_Kingdoms
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_4-25
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_1-26
+ 113. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_2-27
+ 114. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_3-28
+ 115. file://localhost/wiki/Kingdom_of_Pergamon
+ 116. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_6-29
+ 117. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_4-25
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Stele_5-30
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+ 120. file://localhost/wiki/Game_demo
+ 121. file://localhost/wiki/PC_Format
+ 122. file://localhost/wiki/PC_Gamer_(UK)
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 124. file://localhost/wiki/Computer_magazine
+ 125. file://localhost/wiki/United_Kingdom
+ 126. file://localhost/wiki/South_Africa
+ 127. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=5
+ 128. file://localhost/wiki/Mod_(computer_gaming)#Total_conversion
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 130. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=6
+ 131. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 132. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 133. file://localhost/wiki/Areani
+ 134. file://localhost/wiki/War_pig
+ 135. file://localhost/wiki/Camel_cavalry
+ 136. file://localhost/wiki/M%C3%BBmak#In_popular_culture
+ 137. file://localhost/wiki/Easter_egg_(media)
+ 138. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.1_release_announcement-22
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 140. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=7
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_mission_statement-2
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_faction_list-32
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_faction_list-32
+ 144. file://localhost/wiki/Armenia
+ 145. file://localhost/wiki/Orontid_Dynasty
+ 146. file://localhost/wiki/Germania
+ 147. file://localhost/wiki/Suebi
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_faction_list-32
+ 149. file://localhost/wiki/Gaul
+ 150. file://localhost/wiki/Aedui
+ 151. file://localhost/wiki/Arverni
+ 152. file://localhost/wiki/Scythia
+ 153. file://localhost/wiki/Sarmatians
+ 154. file://localhost/wiki/Ancient_Greek_language
+ 155. file://localhost/wiki/Chremonidean_War
+ 156. file://localhost/wiki/Athens
+ 157. file://localhost/wiki/Sparta
+ 158. file://localhost/wiki/Rhodes
+ 159. file://localhost/wiki/Greco-Bactrian_Kingdom
+ 160. file://localhost/wiki/Central_Asia
+ 161. file://localhost/wiki/Hellenistic_civilization
+ 162. file://localhost/wiki/Epirus_(region)#Epirus_and_ancient_Greece
+ 163. file://localhost/wiki/Pyrrhus_of_Epirus
+ 164. file://localhost/wiki/Saka
+ 165. file://localhost/wiki/Cavalry
+ 166. file://localhost/wiki/Central_Asia
+ 167. file://localhost/wiki/Sheba
+ 168. file://localhost/wiki/Islam
+ 169. file://localhost/wiki/Pre-Islamic_Arabia
+ 170. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_review-3
+ 171. file://localhost/wiki/SPQR
+ 172. file://localhost/wiki/House_of_Brutii
+ 173. file://localhost/wiki/House_of_Julii
+ 174. file://localhost/wiki/House_of_Scipii
+ 175. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_RTW_faction_list-33
+ 176. file://localhost/wiki/Ancient_Rome
+ 177. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Romani_faction_page-34
+ 178. file://localhost/wiki/Yuezhi
+ 179. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Saka_Rauka_preview-35
+ 180. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_faction_list-32
+ 181. file://localhost/wiki/Egypt
+ 182. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_RTW_faction_list-33
+ 183. file://localhost/wiki/History_of_Ptolemaic_Egypt
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_faction_list-32
+ 185. file://localhost/wiki/The_Mummy_Returns
+ 186. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 187. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 188. file://localhost/wiki/History_of_Ptolemaic_Egypt
+ 189. file://localhost/wiki/Nomad
+ 190. file://localhost/wiki/Desert
+ 191. file://localhost/wiki/Steppe
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Saka_Rauka_preview-35
+ 193. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_April_preview-36
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 195. file://localhost/wiki/Seleucid_empire
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 197. file://localhost/wiki/SPQR
+ 198. file://localhost/wiki/Sheba
+ 199. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_0.74_vs_0.80_differences-15
+ 200. file://localhost/wiki/Numidia
+ 201. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 202. file://localhost/wiki/Fog_of_war
+ 203. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 204. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 205. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_2-37
+ 206. file://localhost/wiki/Greeks
+ 207. file://localhost/wiki/Koine_Greek
+ 208. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 209. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=8
+ 210. file://localhost/wiki/Arabia
+ 211. file://localhost/wiki/India
+ 212. file://localhost/wiki/Central_Asia
+ 213. file://localhost/wiki/Nile
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 215. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_2-37
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_1-38
+ 217. file://localhost/wiki/Suez_Canal#2nd_millennium_BC
+ 218. file://localhost/wiki/Indian_Ocean
+ 219. file://localhost/wiki/Mediterranean_Sea
+ 220. file://localhost/wiki/Amber_Road
+ 221. file://localhost/wiki/Silk_Road
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 223. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_2-37
+ 224. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.1_release_announcement-22
+ 225. file://localhost/wiki/Shogun:_Total_War#Gameplay
+ 226. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_2-37
+ 227. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=9
+ 228. file://localhost/wiki/Rome:_Total_War#Family
+ 229. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 230. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_trait_features-39
+ 231. file://localhost/wiki/Theophrastus
+ 232. file://localhost/wiki/Theophrastus#The_Characters
+ 233. file://localhost/wiki/Aristotle
+ 234. file://localhost/wiki/Nicomachean_Ethics#The_Golden_Mean
+ 235. file://localhost/wiki/Valerius_Maximus
+ 236. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 237. file://localhost/wiki/Ancient_Olympic_Games
+ 238. file://localhost/wiki/Roman_triumph
+ 239. file://localhost/wiki/Rome:_Total_War#Family
+ 240. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 241. file://localhost/wiki/Sparta
+ 242. file://localhost/wiki/Agoge
+ 243. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Agoge_preview-40
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 245. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=10
+ 246. file://localhost/wiki/Turn-based_strategy
+ 247. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_vs_Rome_Total_War_differences-41
+ 248. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_vs_Rome_Total_War_differences-41
+ 249. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_building_features-42
+ 250. file://localhost/wiki/Puppet_state
+ 251. file://localhost/wiki/Military-industrial_complex
+ 252. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_FAQ-43
+ 253. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_vs_Rome_Total_War_differences-41
+ 254. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_MIC_explanation-14
+ 255. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_building_features-42
+ 256. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_May_preview-44
+ 257. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 258. file://localhost/wiki/Stupa
+ 259. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 260. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_building_features-42
+ 261. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=11
+ 262. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 263. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_Khelvan_interview-8
+ 264. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_resources_preview-45
+ 265. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_1-38
+ 266. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_map_preview_2-37
+ 267. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 268. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Christmas_preview-23
+ 269. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=12
+ 270. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.1_release_announcement-22
+ 271. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 272. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 273. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=13
+ 274. http://www.morgancasey.com/
+ 275. http://www.nickwylie.com/
+ 276. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 277. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Nick_Wylie_music_preview_1-46
+ 278. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Nick_Wylie_music_preview_2-47
+ 279. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Nick_Wylie_music_preview_3-48
+ 280. http://homepage.eircom.net/~bronzeagehorns/
+ 281. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-49
+ 282. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 283. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Musica_Romana_announcement-50
+ 284. file://localhost/wiki/Classical_Latin
+ 285. file://localhost/wiki/Celtic_languages
+ 286. file://localhost/wiki/Koine_Greek
+ 287. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_features-31
+ 288. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_Greek_voicemod_information-51
+ 289. file://localhost/wiki/Parthian_language
+ 290. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_voicemod_preview-52
+ 291. file://localhost/wiki/Punic_language
+ 292. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_voicemod_preview-52
+ 293. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Europa_Barbarorum_1.2_voicemods_announcement-24
+ 294. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=14
+ 295. file://localhost/wiki/Total_War_(video_game_series)
+ 296. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=15
+ 297. http://www.twcenter.net/
+ 298. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-53
+ 299. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-54
+ 300. http://www.totalwar.org/
+ 301. file://localhost/wiki/Wikipedia:Citation_needed
+ 302. file://localhost/wiki/Video_game_journalism
+ 303. file://localhost/wiki/PC_Gamer_(UK)
+ 304. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 305. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-PC_Gamer_UK_February_2008-4
+ 306. file://localhost/wiki/Giochi_per_il_mio_computer
+ 307. http://www.canardpc.com/
+ 308. file://localhost/wiki/LeveL
+ 309. file://localhost/wiki/GameStar
+ 310. http://www.bgamer.pt/
+ 311. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_review-3
+ 312. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+ 313. http://rtw.heavengames.com/
+ 314. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Heavengames_review-3
+ 315. http://pc.boomtown.net/
+ 316. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Boomtown_review-20
+ 317. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=16
+ 318. file://localhost/wiki/Text_file
+ 319. file://localhost/wiki/Porting
+ 320. file://localhost/wiki/Rome:_Total_War:_Barbarian_Invasion
+ 321. file://localhost/wiki/Rome:_Total_War:_Alexander
+ 322. file://localhost/wiki/Executable
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Ferromancer_BI_mod-55
+ 324. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Alex_EB-56
+ 325. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Ferromancer_BI_mod-55
+ 326. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_note-Alex_EB-56
+ 327. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=17
+ 328. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_open_beta_announcement_0-0
+ 329. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_open_beta_announcement_0-1
+ 330. http://forums.totalwar.org/vb/showthread.php?t=58619
+ 331. http://forums.totalwar.org/vb/showthread.php?t=58619
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.2_release_announcement_1-0
+ 333. http://forums.totalwar.org/vb/showthread.php?p=2067800#post2067800
+ 334. http://forums.totalwar.org/vb/showthread.php?p=2067800#post2067800
+ 335. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mission_statement_2-0
+ 336. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mission_statement_2-1
+ 337. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mission_statement_2-2
+ 338. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mission_statement_2-3
+ 339. http://web.archive.org/web/20080214230528/http://www.europabarbarorum.com/
+ 340. http://www.europabarbarorum.com/
+ 341. http://web.archive.org/web/20080214230528/http://www.europabarbarorum.com/
+ 342. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_review_3-0
+ 343. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_review_3-1
+ 344. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_review_3-2
+ 345. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_review_3-3
+ 346. http://web.archive.org/web/20060511175126/http://rtw.heavengames.com/rtw/mods/portal/eb/index.shtml
+ 347. http://rtw.heavengames.com/rtw/mods/portal/eb/index.shtml
+ 348. http://web.archive.org/web/20060511175126/http://rtw.heavengames.com/rtw/mods/portal/eb/index.shtml
+ 349. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-0
+ 350. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-1
+ 351. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-2
+ 352. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-3
+ 353. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-4
+ 354. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-5
+ 355. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-6
+ 356. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-7
+ 357. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-PC_Gamer_UK_February_2008_4-8
+ 358. file://localhost/wiki/PC_Gamer_(UK)
+ 359. file://localhost/wiki/Bath,_Somerset
+ 360. file://localhost/wiki/Future_plc
+ 361. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-ModDB_summary_5-0
+ 362. http://www.moddb.com/mods/europa-barbarorum
+ 363. http://www.moddb.com/
+ 364. http://www.moddb.com/mods/europa-barbarorum
+ 365. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-CA_RTW_information_6-0
+ 366. file://localhost/wiki/Creative_Assembly
+ 367. http://web.archive.org/web/20071216063033/http://www.totalwar.com/index.html?page=/en/rome/gameinfo/index.html&nav=/en/rome/1/
+ 368. http://www.totalwar.com/index.html?page=/en/rome/gameinfo/index.html&nav=/en/rome/1/
+ 369. http://web.archive.org/web/20071216063033/http://www.totalwar.com/index.html?page=/en/rome/gameinfo/index.html&nav=/en/rome/1/
+ 370. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Gamespy_RTW_information_7-0
+ 371. http://web.archive.org/web/20080205222001/http://uk.pc.gamespy.com/pc/rome-total-war/
+ 372. http://uk.pc.gamespy.com/pc/rome-total-war/
+ 373. http://web.archive.org/web/20080205222001/http://uk.pc.gamespy.com/pc/rome-total-war/
+ 374. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_Khelvan_interview_8-0
+ 375. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_Khelvan_interview_8-1
+ 376. http://web.archive.org/web/20060511195915/http://rtw.heavengames.com/rtw/mods/portal/interviews/ebintwk/index.shtml
+ 377. http://rtw.heavengames.com/rtw/mods/portal/interviews/ebintwk/index.shtml
+ 378. http://web.archive.org/web/20060511195915/http://rtw.heavengames.com/rtw/mods/portal/interviews/ebintwk/index.shtml
+ 379. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Eagle_Standard_interview_9-0
+ 380. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Eagle_Standard_interview_9-1
+ 381. http://www.twcenter.net/forums/member.php?u=27173
+ 382. http://www.twcenter.net/forums/showthread.php?t=187873#EB
+ 383. http://www.twcenter.net/forums/showthread.php?t=187873#EB
+ 384. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.73_release_announcement_10-0
+ 385. http://forums.totalwar.org/vb/showthread.php?t=62053
+ 386. http://forums.totalwar.org/vb/showthread.php?t=62053
+ 387. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.73a_release_announcement_11-0
+ 388. http://forums.totalwar.org/vb/showthread.php?t=62112
+ 389. http://forums.totalwar.org/vb/showthread.php?t=62112
+ 390. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.74_patch_announcement_12-0
+ 391. http://forums.totalwar.org/vb/showthread.php?t=62651
+ 392. http://forums.totalwar.org/vb/showthread.php?t=62651
+ 393. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.80_release_announcement_13-0
+ 394. http://forums.totalwar.org/vb/showthread.php?t=74101
+ 395. http://forums.totalwar.org/vb/showthread.php?t=74101
+ 396. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_MIC_explanation_14-0
+ 397. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_MIC_explanation_14-1
+ 398. http://web.archive.org/web/20080214224750/http://forums.totalwar.org/vb/showthread.php?t=73928
+ 399. http://forums.totalwar.org/vb/showthread.php?t=73928
+ 400. http://web.archive.org/web/20080214224750/http://forums.totalwar.org/vb/showthread.php?t=73928
+ 401. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.74_vs_0.80_differences_15-0
+ 402. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.74_vs_0.80_differences_15-1
+ 403. http://web.archive.org/web/20080211110940/http://forums.totalwar.org/vb/showthread.php?t=74103
+ 404. http://forums.totalwar.org/vb/showthread.php?t=74103
+ 405. http://web.archive.org/web/20080211110940/http://forums.totalwar.org/vb/showthread.php?t=74103
+ 406. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-ModDB_0.80_release_announcement_16-0
+ 407. http://www.moddb.com/mods/europa-barbarorum/news/eb-08-released
+ 408. http://www.moddb.com/
+ 409. http://www.moddb.com/mods/europa-barbarorum/news/eb-08-released
+ 410. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.81_release_announcement_17-0
+ 411. http://web.archive.org/web/20071223102745/http://forums.totalwar.org/vb/showthread.php?t=79642
+ 412. http://forums.totalwar.org/vb/showthread.php?t=79642
+ 413. http://web.archive.org/web/20071223102745/http://forums.totalwar.org/vb/showthread.php?t=79642
+ 414. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_0.81a_release_announcement_18-0
+ 415. http://web.archive.org/web/20070511005109/http://forums.totalwar.org/vb/showthread.php?t=80651
+ 416. http://forums.totalwar.org/vb/showthread.php?t=80651
+ 417. http://web.archive.org/web/20070511005109/http://forums.totalwar.org/vb/showthread.php?t=80651
+ 418. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mod_downloads_19-0
+ 419. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_mod_downloads_19-1
+ 420. http://www.europabarbarorum.com/downloads_mod.html
+ 421. http://www.europabarbarorum.com/downloads_mod.html
+ 422. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-0
+ 423. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-1
+ 424. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-2
+ 425. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-3
+ 426. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-4
+ 427. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Boomtown_review_20-5
+ 428. http://pc.boomtown.net/en_uk/articles/art.view.php?id=16547
+ 429. http://pc.boomtown.net/en_uk/articles/art.view.php?id=16547
+ 430. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.0_release_announcement_21-0
+ 431. http://forums.totalwar.org/vb/showthread.php?t=93132
+ 432. http://forums.totalwar.org/vb/showthread.php?t=93132
+ 433. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.1_release_announcement_22-0
+ 434. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.1_release_announcement_22-1
+ 435. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.1_release_announcement_22-2
+ 436. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.1_release_announcement_22-3
+ 437. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.1_release_announcement_22-4
+ 438. http://forums.totalwar.org/vb/showthread.php?t=101739
+ 439. http://forums.totalwar.org/vb/showthread.php?t=101739
+ 440. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Christmas_preview_23-0
+ 441. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Christmas_preview_23-1
+ 442. http://web.archive.org/web/20080208111304/http://forums.totalwar.org/vb/showthread.php?t=96896
+ 443. http://forums.totalwar.org/vb/showthread.php?t=96896
+ 444. http://web.archive.org/web/20080208111304/http://forums.totalwar.org/vb/showthread.php?t=96896
+ 445. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.2_voicemods_announcement_24-0
+ 446. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_1.2_voicemods_announcement_24-1
+ 447. http://www.twcenter.net/forums/showthread.php?p=3223107#post3223107
+ 448. http://www.twcenter.net/forums/showthread.php?p=3223107#post3223107
+ 449. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_4_25-0
+ 450. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_4_25-1
+ 451. http://forums.totalwar.org/vb/showthread.php?t=100653
+ 452. http://forums.totalwar.org/vb/showthread.php?t=100653
+ 453. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_1_26-0
+ 454. http://web.archive.org/web/20080119000815/http://forums.totalwar.org/vb/showthread.php?t=89290
+ 455. http://forums.totalwar.org/vb/showthread.php?t=89290
+ 456. http://web.archive.org/web/20080119000815/http://forums.totalwar.org/vb/showthread.php?t=89290
+ 457. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_2_27-0
+ 458. http://web.archive.org/web/20080209151606/http://forums.totalwar.org/vb/showthread.php?t=89629
+ 459. http://forums.totalwar.org/vb/showthread.php?t=89629
+ 460. http://web.archive.org/web/20080209151606/http://forums.totalwar.org/vb/showthread.php?t=89629
+ 461. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_3_28-0
+ 462. http://web.archive.org/web/20080213121532/http://forums.totalwar.org/vb/showthread.php?t=95706
+ 463. http://forums.totalwar.org/vb/showthread.php?t=95706
+ 464. http://web.archive.org/web/20080213121532/http://forums.totalwar.org/vb/showthread.php?t=95706
+ 465. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_6_29-0
+ 466. http://forums.totalwar.org/vb/showthread.php?t=103202
+ 467. http://forums.totalwar.org/vb/showthread.php?t=103202
+ 468. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Stele_5_30-0
+ 469. http://forums.totalwar.org/vb/showthread.php?t=101988
+ 470. http://forums.totalwar.org/vb/showthread.php?t=101988
+ 471. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-0
+ 472. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-1
+ 473. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-2
+ 474. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-3
+ 475. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-4
+ 476. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-5
+ 477. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-6
+ 478. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-7
+ 479. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-8
+ 480. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-9
+ 481. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-10
+ 482. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-11
+ 483. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-12
+ 484. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-13
+ 485. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-14
+ 486. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-15
+ 487. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-16
+ 488. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-17
+ 489. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-18
+ 490. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-19
+ 491. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-20
+ 492. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_features_31-21
+ 493. http://web.archive.org/web/20080131232510/http://www.europabarbarorum.com/features.html
+ 494. http://www.europabarbarorum.com/features.html
+ 495. http://web.archive.org/web/20080131232510/http://www.europabarbarorum.com/features.html
+ 496. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_faction_list_32-0
+ 497. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_faction_list_32-1
+ 498. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_faction_list_32-2
+ 499. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_faction_list_32-3
+ 500. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_faction_list_32-4
+ 501. http://web.archive.org/web/20080215094747/http://www.europabarbarorum.com/factions.html
+ 502. http://www.europabarbarorum.com/factions.html
+ 503. http://web.archive.org/web/20080215094747/http://www.europabarbarorum.com/factions.html
+ 504. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_RTW_faction_list_33-0
+ 505. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Heavengames_RTW_faction_list_33-1
+ 506. http://web.archive.org/web/20061112000044/http://rtw.heavengames.com/rtw/info/factions/index.shtml
+ 507. http://rtw.heavengames.com/rtw/info/factions/index.shtml
+ 508. http://web.archive.org/web/20061112000044/http://rtw.heavengames.com/rtw/info/factions/index.shtml
+ 509. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Romani_faction_page_34-0
+ 510. http://web.archive.org/web/20080213171247/http://www.europabarbarorum.com/factions_romani.html
+ 511. http://www.europabarbarorum.com/factions_romani.html
+ 512. http://web.archive.org/web/20080213171247/http://www.europabarbarorum.com/factions_romani.html
+ 513. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Saka_Rauka_preview_35-0
+ 514. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Saka_Rauka_preview_35-1
+ 515. http://web.archive.org/web/20071117062648/http://forums.totalwar.org/vb/showthread.php?t=66852
+ 516. http://forums.totalwar.org/vb/showthread.php?t=66852
+ 517. http://web.archive.org/web/20071117062648/http://forums.totalwar.org/vb/showthread.php?t=66852
+ 518. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_April_preview_36-0
+ 519. http://web.archive.org/web/20071117072038/http://forums.totalwar.org/vb/showthread.php?t=63495
+ 520. http://forums.totalwar.org/vb/showthread.php?t=63495
+ 521. http://web.archive.org/web/20071117072038/http://forums.totalwar.org/vb/showthread.php?t=63495
+ 522. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_2_37-0
+ 523. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_2_37-1
+ 524. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_2_37-2
+ 525. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_2_37-3
+ 526. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_2_37-4
+ 527. http://web.archive.org/web/20071224200233/http://forums.totalwar.org/vb/showthread.php?t=88708
+ 528. http://forums.totalwar.org/vb/showthread.php?t=88708
+ 529. http://web.archive.org/web/20071224200233/http://forums.totalwar.org/vb/showthread.php?t=88708
+ 530. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_1_38-0
+ 531. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_map_preview_1_38-1
+ 532. http://web.archive.org/web/20071117071909/http://forums.totalwar.org/vb/showthread.php?t=50614
+ 533. http://forums.totalwar.org/vb/showthread.php?t=50614
+ 534. http://web.archive.org/web/20071117071909/http://forums.totalwar.org/vb/showthread.php?t=50614
+ 535. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_trait_features_39-0
+ 536. http://web.archive.org/web/20071225185227/http://www.europabarbarorum.com/features_traits.html
+ 537. http://www.europabarbarorum.com/features_traits.html
+ 538. http://web.archive.org/web/20071225185227/http://www.europabarbarorum.com/features_traits.html
+ 539. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Agoge_preview_40-0
+ 540. http://forums.totalwar.org/vb/showthread.php?t=87150
+ 541. http://forums.totalwar.org/vb/showthread.php?t=87150
+ 542. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_vs_Rome_Total_War_differences_41-0
+ 543. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_vs_Rome_Total_War_differences_41-1
+ 544. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_vs_Rome_Total_War_differences_41-2
+ 545. http://web.archive.org/web/20080213121521/http://forums.totalwar.org/vb/showthread.php?t=58617
+ 546. http://forums.totalwar.org/vb/showthread.php?t=58617
+ 547. http://web.archive.org/web/20080213121521/http://forums.totalwar.org/vb/showthread.php?t=58617
+ 548. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_building_features_42-0
+ 549. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_building_features_42-1
+ 550. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_building_features_42-2
+ 551. http://web.archive.org/web/20080124151700/http://www.europabarbarorum.com/features_buildings.html
+ 552. http://www.europabarbarorum.com/features_buildings.html
+ 553. http://web.archive.org/web/20080124151700/http://www.europabarbarorum.com/features_buildings.html
+ 554. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_FAQ_43-0
+ 555. http://web.archive.org/web/20080204223132/http://forums.totalwar.org/vb/showthread.php?t=84854
+ 556. http://forums.totalwar.org/vb/showthread.php?t=84854
+ 557. http://web.archive.org/web/20080204223132/http://forums.totalwar.org/vb/showthread.php?t=84854
+ 558. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_May_preview_44-0
+ 559. http://web.archive.org/web/20070524203146/http://forums.totalwar.org/vb/showthread.php?t=85110
+ 560. http://forums.totalwar.org/vb/showthread.php?t=85110
+ 561. http://web.archive.org/web/20070524203146/http://forums.totalwar.org/vb/showthread.php?t=85110
+ 562. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_resources_preview_45-0
+ 563. http://web.archive.org/web/20071117072113/http://forums.totalwar.org/vb/showthread.php?t=68944
+ 564. http://forums.totalwar.org/vb/showthread.php?t=68944
+ 565. http://web.archive.org/web/20071117072113/http://forums.totalwar.org/vb/showthread.php?t=68944
+ 566. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Nick_Wylie_music_preview_1_46-0
+ 567. http://web.archive.org/web/20071117072053/http://forums.totalwar.org/vb/showthread.php?t=67177
+ 568. http://forums.totalwar.org/vb/showthread.php?t=67177
+ 569. http://web.archive.org/web/20071117072053/http://forums.totalwar.org/vb/showthread.php?t=67177
+ 570. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Nick_Wylie_music_preview_2_47-0
+ 571. http://web.archive.org/web/20071117072100/http://forums.totalwar.org/vb/showthread.php?t=68109
+ 572. http://forums.totalwar.org/vb/showthread.php?t=68109
+ 573. http://web.archive.org/web/20071117072100/http://forums.totalwar.org/vb/showthread.php?t=68109
+ 574. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Nick_Wylie_music_preview_3_48-0
+ 575. http://web.archive.org/web/20071117072122/http://forums.totalwar.org/vb/showthread.php?t=69806
+ 576. http://forums.totalwar.org/vb/showthread.php?t=69806
+ 577. http://web.archive.org/web/20071117072122/http://forums.totalwar.org/vb/showthread.php?t=69806
+ 578. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-49
+ 579. http://web.archive.org/web/20080209170936/http://forums.totalwar.org/vb/showthread.php?t=87523
+ 580. http://forums.totalwar.org/vb/showthread.php?t=87523
+ 581. http://web.archive.org/web/20080209170936/http://forums.totalwar.org/vb/showthread.php?t=87523
+ 582. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Musica_Romana_announcement_50-0
+ 583. http://forums.totalwar.org/vb/showthread.php?t=100569
+ 584. http://forums.totalwar.org/vb/showthread.php?t=100569
+ 585. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_Greek_voicemod_information_51-0
+ 586. http://web.archive.org/web/20080209155343/http://www.twcenter.net/forums/showthread.php?t=66990
+ 587. http://www.twcenter.net/forums/showthread.php?t=66990
+ 588. http://web.archive.org/web/20080209155343/http://www.twcenter.net/forums/showthread.php?t=66990
+ 589. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_voicemod_preview_52-0
+ 590. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Europa_Barbarorum_voicemod_preview_52-1
+ 591. http://web.archive.org/web/20080209171022/http://forums.totalwar.org/vb/showthread.php?t=90676
+ 592. http://forums.totalwar.org/vb/showthread.php?t=90676
+ 593. http://web.archive.org/web/20080209171022/http://forums.totalwar.org/vb/showthread.php?t=90676
+ 594. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-53
+ 595. http://www.twcenter.net/forums/member.php?u=10080
+ 596. http://www.twcenter.net/forums/showthread.php?t=58898
+ 597. http://www.twcenter.net/forums/showthread.php?t=58898
+ 598. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-54
+ 599. http://www.twcenter.net/forums/member.php?u=7686
+ 600. http://web.archive.org/web/20071228224901/http://www.twcenter.net/forums/showthread.php?t=89834
+ 601. http://www.twcenter.net/forums/showthread.php?t=89834
+ 602. http://web.archive.org/web/20071228224901/http://www.twcenter.net/forums/showthread.php?t=89834
+ 603. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Ferromancer_BI_mod_55-0
+ 604. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Ferromancer_BI_mod_55-1
+ 605. http://forums.totalwar.org/vb/member.php?u=22814
+ 606. http://web.archive.org/web/20080130034040/http://forums.totalwar.org/vb/showthread.php?t=95664
+ 607. http://forums.totalwar.org/vb/showthread.php?t=95664
+ 608. http://web.archive.org/web/20080130034040/http://forums.totalwar.org/vb/showthread.php?t=95664
+ 609. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Alex_EB_56-0
+ 610. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc620.tmp.html#cite_ref-Alex_EB_56-1
+ 611. http://forums.totalwar.org/vb/member.php?u=26981
+ 612. http://web.archive.org/web/20080118180218/http://forums.totalwar.org/vb/showthread.php?t=94861
+ 613. http://forums.totalwar.org/vb/showthread.php?t=94861
+ 614. http://web.archive.org/web/20080118180218/http://forums.totalwar.org/vb/showthread.php?t=94861
+ 615. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit&section=18
+ 616. http://www.totalwar.com/
+ 617. http://www.europabarbarorum.com/
+ 618. http://www.totalwar.org/
+ 619. http://forums.totalwar.org/vb/forumdisplay.php?f=70
+ 620. http://www.twcenter.net/
+ 621. http://www.twcenter.net/forums/forumdisplay.php?f=31
+ 622. http://www.totalwar.org/
+ 623. http://forums.totalwar.org/vb/forumdisplay.php?f=235
+ 624. http://www.twcenter.net/
+ 625. http://www.twcenter.net/forums/forumdisplay.php?f=454
+ 626. http://en.wikipedia.org/wiki/Europa_Barbarorum
+ 627. file://localhost/wiki/Special:Categories
+ 628. file://localhost/wiki/Category:2005_video_games
+ 629. file://localhost/wiki/Category:Video_game_mods
+ 630. file://localhost/wiki/Category:Real-time_tactics_video_games
+ 631. file://localhost/wiki/Category:Roman_Empire_video_games
+ 632. file://localhost/wiki/Category:Total_War_modifications
+ 633. file://localhost/wiki/Category:Turn-based_strategy_video_games
+ 634. file://localhost/wiki/Category:Windows_games
+ 635. file://localhost/wiki/Category:Articles_containing_Latin_language_text
+ 636. file://localhost/wiki/Category:Articles_containing_non-English_language_text
+ 637. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 638. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_August_2008
+ 639. file://localhost/wiki/Europa_Barbarorum
+ 640. file://localhost/wiki/Talk:Europa_Barbarorum
+ 641. file://localhost/w/index.php?title=Europa_Barbarorum&action=edit
+ 642. file://localhost/w/index.php?title=Europa_Barbarorum&action=history
+ 643. file://localhost/w/index.php?title=Special:UserLogin&returnto=Europa_Barbarorum
+ 644. file://localhost/wiki/Main_Page
+ 645. file://localhost/wiki/Portal:Contents
+ 646. file://localhost/wiki/Portal:Featured_content
+ 647. file://localhost/wiki/Portal:Current_events
+ 648. file://localhost/wiki/Special:Random
+ 649. file://localhost/wiki/Wikipedia:About
+ 650. file://localhost/wiki/Wikipedia:Community_portal
+ 651. file://localhost/wiki/Special:RecentChanges
+ 652. file://localhost/wiki/Wikipedia:Contact_us
+ 653. http://wikimediafoundation.org/wiki/Donate
+ 654. file://localhost/wiki/Help:Contents
+ 655. file://localhost/wiki/Special:WhatLinksHere/Europa_Barbarorum
+ 656. file://localhost/wiki/Special:RecentChangesLinked/Europa_Barbarorum
+ 657. file://localhost/wiki/Wikipedia:Upload
+ 658. file://localhost/wiki/Special:SpecialPages
+ 659. file://localhost/w/index.php?title=Europa_Barbarorum&printable=yes
+ 660. file://localhost/w/index.php?title=Europa_Barbarorum&oldid=268073897
+ 661. file://localhost/w/index.php?title=Special:Cite&page=Europa_Barbarorum&id=268073897
+ 662. http://www.mediawiki.org/
+ 663. http://wikimediafoundation.org/
+ 664. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 665. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 666. http://www.wikimediafoundation.org/
+ 667. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 668. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 669. http://en.wikipedia.org/wiki/Non-profit_organization
+ 670. http://en.wikipedia.org/wiki/Charitable_organization
+ 671. http://wikimediafoundation.org/wiki/Privacy_policy
+ 672. file://localhost/wiki/Wikipedia:About
+ 673. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 674. file://localhost/wiki/File:EB_logo.png
+ 675. file://localhost/wiki/File:RTW_Romans_Gauls.png
+ 676. file://localhost/wiki/File:RTW_Romans_Gauls.png
+ 677. file://localhost/wiki/File:EB_battle.png
+ 678. file://localhost/wiki/File:EB_battle.png
+ 679. file://localhost/wiki/File:EB_1.1_antique_map.jpg
+ 680. file://localhost/wiki/File:EB_1.1_antique_map.jpg
+ 681. file://localhost/wiki/File:EB_Nomadic_government_diagram.jpg
+ 682. file://localhost/wiki/File:EB_Nomadic_government_diagram.jpg
+ 683. file://localhost/wiki/Main_Page

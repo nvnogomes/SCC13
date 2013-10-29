@@ -1,0 +1,787 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dissociation
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dissociation (psychology))
+   Jump to: [7]navigation, [8]search
+   For other uses, see [9]dissociation (chemistry) and [10]dissociation
+   (neuropsychology).
+
+   Dissociation is an unexpected partial or complete disruption of the
+   normal integration of a persons conscious or psychological functioning
+   that cannot be easily explained by the person. Dissociation is a mental
+   process that severs a connection to a person's thoughts, memories,
+   feelings, actions, or sense of identity. ^[11][1] Dissociation is a
+   normal response to trauma, and allows the mind to distance itself from
+   experiences that are too much for the psyche to process at that time.
+   ^[12][2] Dissociative disruptions can affect any aspect of a persons
+   functioning.^[13][3]^[14][4]^[15][5]^[16][6] Although some dissociative
+   disruptions involve [17]amnesia, the vast majority of dissociative
+   events do not.^[18][7] Since dissociations are normally unanticipated,
+   they are typically experienced as startling, autonomous intrusions into
+   the person's usual ways of responding or functioning. Due to their
+   unexpected and largely inexplicable nature, they tend to be quite
+   unsettling. Dissociation is often a coping mechanism for survivors of
+   trauma.
+
+   Different dissociative disorders have different relationships to
+   [19]stress and [20]trauma.^[21][8] [22]Dissociative amnesia and
+   [23]fugue states are often triggered by life stresses that fall far
+   short of trauma.^[24][9]^[25][10] [26]Depersonalization disorder is
+   sometimes triggered by trauma, but may be preceded by only stress, a
+   bad drug experience, or no identifiable stress at all.^[27][11]
+   Research has consistently shown that DID and one form of dissociative
+   disorders - not otherwise specified are characterized by reports of
+   extensive childhood trauma, usually [28]child
+   abuse.^[29][12]^[30][13]^[31][14]
+
+Contents
+
+     * [32]1 History
+     * [33]2 Diagnosis
+     * [34]3 Relation to trauma and abuse
+     * [35]4 Psychoactive substances
+     * [36]5 See also
+     * [37]6 References
+     * [38]7 External links
+
+[[39]edit] History
+
+   The [40]French philosopher and [41]psychiatrist [42]Pierre Janet
+   (1859-1947) is considered to be the author of the concept of
+   dissociation.^[43][15] Contrary to most current conceptions of
+   dissociation, Janet did not believe that dissociation was a
+   psychological defense,^[44][16]^[45][17]^[46][18]. Psychological
+   [47]defence mechanisms belong to Freud's theory of [48]psychoanalysis,
+   not to Janetian psychology. Although dissociation is now typically
+   considered to be a defense (usually against extreme stress or trauma),
+   Janet never thought this.^[[49]citation needed] Janet claimed that
+   dissociation occurred only in persons who had a constitutional weakness
+   of mental functioning that led to [50]hysteria when they were
+   [51]stressed. Although it is true that many of Janet's [52]case
+   histories described traumatic experiences, he never considered
+   dissociation to be a defense against those experiences. Quite the
+   opposite. Janet insisted that dissociation was a mental or cognitive
+   deficit. Accordingly, he considered trauma to be one of many stressors
+   that could worsen the already-impaired "mental efficiency" of a
+   hysteric, thereby generating a cascade of hysterical (in today's
+   language, "dissociative") symptoms. Janet's descriptions of
+   dissociation and dissociative symptoms are generally considered to be
+   ground-breaking (and much superior to Freud's descriptions of those
+   phenomena).^[53][15]^[54][19]^[55][20]^[56][21] Despite this,
+   [57]clinicians have routinely preferred Freud's motivational
+   explanation of dissociation as a defense against pain or displeasure to
+   Janet's explanation that dissociation is due to
+   constitutionally-impaired mental efficiency. Clinicians' preference for
+   the Freudian explanation is directly reflected in today's most popular
+   understanding of dissociation; namely, that dissociation is a defense
+   against trauma.
+
+   Although there was great interest in dissociation during the last two
+   decades of the nineteenth century (especially in France and England),
+   this interest rapidly waned with the coming of the new century
+   (Ellenberger, 1970). Even Janet largely turned his attention to other
+   matters. On the other hand, there was a sharp peak in interest in
+   dissociation in America from 1890 to 1910, especially in Boston as
+   reflected in the work of William James, Boris Sidis, Morton Prince, and
+   William McDougall. Nevertheless, even in America, interest in
+   dissociation rapidly succumbed to the surging academic interest in
+   psychoanalysis and behaviorism. For most of the twentieth century,
+   there was little interest in dissociation. Discussion of dissociation
+   only resumed when Ernest Hilgard (1977) published his neodissociation
+   theory in the 1970s and when several authors wrote about multiple
+   personality in the 1980s.
+
+   [58]Carl Jung described pathological manifestations of dissociation as
+   special or extreme cases of the normal operation of the psyche. This
+   structural dissociation, opposing tension, and hierarchy of basic
+   [59]attitudes and functions in normal individual consciousness is the
+   basis of Jung's [60]Psychological Types.^[61][22] He theorized that
+   dissociation is a natural necessity for consciousness to operate in one
+   faculty unhampered by the demands of its opposite.
+
+   Attention to dissociation as a clinical feature has been growing in
+   recent years as knowledge of [62]post-traumatic stress disorder
+   increased, due to interest in [63]dissociative identity disorder and
+   the [64]multiple personality controversy, and as [65]neuroimaging
+   research and population studies show its relevance.^[66][23]
+
+[[67]edit] Diagnosis
+
+   The [68]DSM-IV considers symptoms such as [69]depersonalization,
+   [70]derealization and [71]psychogenic amnesia to be core features of
+   [72]dissociative disorders.^[73][24] However, in the normal population
+   dissociative experiences that are not clinically significant are highly
+   prevalent, with 60% to 65% of the respondents indicating that they have
+   had some dissociative experiences.^[74][25] The [75]SCID-D is a
+   structured interview used to assess and diagnosis dissociation.
+
+[[76]edit] Relation to trauma and abuse
+
+   Dissociation has been described as one of a constellation of symptoms
+   experienced by some victims of multiple forms of childhood trauma,
+   including [77]physical abuse and [78]child sexual
+   abuse.^[79][26]^[80][27] This is supported by studies which suggest
+   that dissociation is correlated with a history of
+   trauma.^[81][28]^[82][29]Dissociation appears to have a high
+   [83]specificity and low [84]sensitivity to having a self-reported
+   history of trauma.^[85][30]
+
+   Symptoms of dissociation resulting from trauma may include
+   depersonalization, psychic numbing, disengagement, or amnesia regarding
+   the events of the abuse. It has been hypothesized that dissociation may
+   provide a temporarily effective defense mechanism in cases of severe
+   trauma; however, in the long term, dissociation is associated with
+   decreased psychological functioning and adjustment.^[86][27] Other
+   symptoms sometimes found along with dissociation in victims of
+   traumatic abuse (often referred to as "sequelae to abuse") include
+   anxiety, PTSD, low self-esteem, somatization, depression, chronic pain,
+   interpersonal dysfunction, substance abuse, self-mutilation and
+   suicidal ideation or actions.^[87][31]^[88][27]^[89][26] These symptoms
+   may lead the victim to erroneously present the symptoms as the source
+   of the problem.^[90][26]
+
+   [91]Child abuse, especially chronic abuse starting at early ages, has
+   been related to high levels of dissociative symptoms in a clinical
+   sample,^[92][32] including amnesia for abuse memories.^[93][33] A
+   non-clinical sample of adult women linked increased levels of
+   dissociation to sexually abuse by a significantly older person prior to
+   age 15,^[94][34] and dissociation has also been [95]correlated a
+   history of childhood physical as well as sexual abuse.^[96][35] When
+   sexual abuse is examined, the levels of dissociation were found to
+   increase along with the severity of the abuse.^[97][36] The level of
+   dissociation has been found to be related to reported overwhelming
+   sexual and physical abuse.^[98][36] When severe sexual abuse
+   (penetration, several perpetrators, lasting more than one year) had
+   occurred, dissociative symptoms were even more prominent.^[99][36] The
+   amount of dissociation that follows directly after a trauma predicts
+   [100]posttraumatic stress disorder (PTSD).^[101][29] Individuals that
+   are more likely to dissociate during a traumatic event are considerably
+   more likely to develop chronic PTSD. ^[102][29] One study found that
+   subjects who experienced early and/or recent trauma were more
+   dissociative.^[103][37]
+
+[[104]edit] Psychoactive substances
+
+          Main article: [105]Dissociative drug
+
+   [106]Psychoactive drugs can often induce a state of temporary
+   dissociation. Substances with dissociative properties include
+   [107]ketamine, [108]nitrous oxide, [109]alcohol, [110]tiletamine,
+   [111]dextromethorphan, [112]PCP, [113]salvia, [114]muscimol,
+   [115]diphenhydramine, [116]atropine, and [117]ibogaine.^[118][38]
+
+[[119]edit] See also
+
+   [120]Psychology portal
+     * [121]Altered state of consciousness
+     * [122]Emotional detachment
+     * [123]Splitting (psychology)
+     * [124]Psychological numbing
+
+[[125]edit] References
+
+    1. [126]^ [127]http://www.sidran.org/sub.cfm?contentID=75&sectionid=4
+    2. [128]^ Haines, Staci. Healing Sex : A Mind-Body Approach to Healing
+       Sexual Trauma. Ed. Felice Newman. New York: Cleis P, 2007
+    3. [129]^ Dell PF (March 2006). "A new model of dissociative identity
+       disorder". Psychiatr. Clin. North Am. 29 (1): 126, vii.
+       [130]doi:[131]10.1016/j.psc.2005.10.013. [132]PMID 16530584.
+    4. [133]^ Butler LD, Duran RE, Jasiukaitis P, Koopman C, Spiegel D
+       (July 1996). "[134]Hypnotizability and traumatic experience: a
+       diathesis-stress model of dissociative symptomatology". Am J
+       Psychiatry 153 (7 Suppl): 4263. [135]PMID 8659641.
+       [136]http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=
+       8659641.
+    5. [137]^ Gleaves DH, May MC, Cardea E (June 2001). "[138]An
+       examination of the diagnostic validity of dissociative identity
+       disorder". Clin Psychol Rev 21 (4): 577608. [139]PMID 11413868.
+       [140]http://linkinghub.elsevier.com/retrieve/pii/S0272-7358(99)0007
+       3-2.
+    6. [141]^ Dell PF (2006). "The multidimensional inventory of
+       dissociation (MID): A comprehensive measure of pathological
+       dissociation". J Trauma Dissociation 7 (2): 77106. [142]PMID
+       16769667.
+    7. [143]^ van Ijzendoorn MH; Schuengel C (1996). "[144]The measurement
+       of dissociation in normal and clinical populations: meta-analytic
+       validation of the dissociative experiences scale (DES)". Clinical
+       Psychology Review 16 (5): 365-382.
+       [145]doi:[146]10.1016/0272-7358(96)00006-2.
+       [147]http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VB8
+       -3VWPY4Y-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct
+       =C000050221&_version=1&_urlVersion=0&_userid=10&md5=b8c345ff2241770
+       546d7b757fecf6ef9.
+    8. [148]^ [149]American Psychiatric Association (2000).
+       [150]Diagnostic and Statistical Manual of Mental Disorders DSM-IV
+       TR (Text Revision). Arlington, VA, USA: American Psychiatric
+       Publishing, Inc.. pp. 943.
+       [151]doi:[152]10.1176/appi.books.9780890423349. [153]ISBN
+       978-0890420249.
+       [154]http://www.psychiatryonline.com/resourceTOC.aspx?resourceID=1.
+
+    9. [155]^ Coons PM (June 1999). "Psychogenic or dissociative fugue: a
+       clinical investigation of five cases". Psychol Rep 84 (3 Pt 1):
+       8816. [156]PMID 10408212.
+   10. [157]^ Kritchevsky M, Chang J, Squire LR (2004). "[158]Functional
+       amnesia: clinical description and neuropsychological profile of 10
+       cases". Learn. Mem. 11 (2): 21326. [159]doi:[160]10.1101/lm.71404.
+       [161]PMID 15054137.
+   11. [162]^ Abugel J & Simeon D (2006). [163]Feeling unreal:
+       depersonalization disorder and the loss of the self. Oxford
+       [Oxfordshire]: [164]Oxford University Press. pp. 17. [165]ISBN
+       0-19-517022-9.
+       [166]http://books.google.com/books?id=M-Cgs_T7Cl8C&pg=PA17.
+   12. [167]^ Putnam FW, Guroff JJ, Silberman EK, Barban L, Post RM (June
+       1986). "The clinical phenomenology of multiple personality
+       disorder: review of 100 recent cases". J Clin Psychiatry 47 (6):
+       28593. [168]PMID 3711025.
+   13. [169]^ Ross CA, Miller SD, Bjornson L, Reagor P, Fraser GA,
+       Anderson G (March 1991). "Abuse histories in 102 cases of multiple
+       personality disorder". Can J Psychiatry 36 (2): 97101. [170]PMID
+       2044042.
+   14. [171]^ Boon S, Draijer N (March 1993). "[172]Multiple personality
+       disorder in The Netherlands: a clinical investigation of 71
+       patients". Am J Psychiatry 150 (3): 48994. [173]PMID 8434668.
+       [174]http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=
+       8434668.
+   15. ^ [175]^a [176]^b Ellenberger, HF (1970). The discovery of the
+       unconscious: the history and evolution of dynamic psychiatry. New
+       York: BasicBooks. [177]ISBN 0-465-01673-1.
+   16. [178]^ [179]Janet, P (1889/2005). [180]L'automatisme psychologique:
+       essai de psychologie exprimentale sur les formes infrieures de
+       lactivit humaine [Psychological automatism:
+       Experimental-psychological essay on the inferior forms of human
+       activity]. Paris: Flix Alcan. [181]ISBN 2747590488.
+       [182]http://books.google.ca/books?id=5kaxseSnF3QC&printsec=frontcov
+       er&source=gbs_summary_r&cad=0.
+   17. [183]^ [184]Janet, P (1893/1901/1977). [185]The mental state of
+       hystericals: A study of mental stigmata and mental accidents.
+       Washington, DC: University Publications of America.
+       [186]http://books.google.ca/books?id=6OctAAAAIAAJ&pgis=1.
+   18. [187]^ [188]Janet, P (1920/1929/1965). [189]The major symptoms of
+       hysteria. New York: Hafner Publishing Company.
+       [190]http://books.google.ca/books?id=yyQ6AAAAMAAJ&pgis=1.
+   19. [191]^ McDougall, W (1926). [192]Outline of abnormal psychology.
+       New York: [193]Charles Scribner's Sons.
+       [194]http://books.google.ca/books?id=86pWAAAAMAAJ&pgis=1.
+   20. [195]^ Mitchell, TW (1921). [196]The psychology of medicine.
+       London: Methuen & Co. [197]ISBN 0827442408.
+       [198]http://books.google.ca/books?id=k1cwAAAACAAJ.
+   21. [199]^ Mitchell, TW (1923/2007). [200]Medical psychology and
+       psychical research. New York: [201]E. P. Dutton and Company.
+       [202]ISBN 1406735000.
+       [203]http://books.google.ca/books?id=pxsZIg6_yhMC&printsec=frontcov
+       er.
+   22. [204]^ Jung, C.G. (1991). Psychological types. Routledge London.
+       [205]ISBN 978-0710062994.
+   23. [206]^ Scaer, Robert C. (2001). [207]The Body Bears the Burden:
+       Trauma, Dissociation, and Disease. Binghamton, NY: Haworth Medical
+       Press. pp. 97126. [208]ISBN 0-78901246-4.
+       [209]http://books.google.ca/books?id=C30EbO7GDMIC&pg=PA97.
+   24. [210]^ [211]Dissociative Disorders ( Diagnostic and Statistical
+       Manual of Mental Disorders, Fourth Edition )
+   25. [212]^ Waller, N.G.; Putnam, F.W.; Carlson, E.B. (1996).
+       "[213]Types of dissociation and dissociative types: A taxometric
+       analysis of dissociative experiences" (pdf). Psychological Methods
+       1 (3): 300321. [214]doi:[215]10.1037/1082-989X.1.3.300.
+       [216]http://www.psych.umn.edu/faculty/waller/classes/mult06/taxomet
+       rics/wallerputnam.pdf. Retrieved on 31 January 2008.
+   26. ^ [217]^a [218]^b [219]^c Salter, Dr, Anna C.; Hilary Eldridge
+       (1995). Transforming Trauma: A Guide to Understanding and Treating
+       Adult Survivors. Sage Publications Inc. pp. 220. [220]ISBN
+       080395509X.
+   27. ^ [221]^a [222]^b [223]^c Myers, John E.B. (2002). The APSAC
+       Handbook on Child Maltreatment, Second Edition. Sage Publications.
+       pp. 63. [224]ISBN 0761919929.
+   28. [225]^ van der Kolk BA, Pelcovitz D, Roth S, Mandel FS, McFarlane
+       A, Herman JL (July 1996). "[226]Dissociation, somatization, and
+       affect dysregulation: the complexity of adaptation of trauma". Am J
+       Psychiatry 153 (7 Suppl): 8393. [227]PMID 8659645.
+       [228]http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=
+       8659645. Retrieved on 13 May 2008.
+   29. ^ [229]^a [230]^b [231]^c Brown, Scheflin and Hammond (1998).
+       Memory, Trauma Treatment, And the Law. New York, NY: W. W. Norton.
+       [232]ISBN 0-393-70254-5.
+   30. [233]^ Briere, J. (2006). "[234]Dissociative symptoms and trauma
+       exposure: specificity, affect dysregulation, and posttraumatic
+       stress," Journal of Nervous and Mental Disease, 194, 78-82.
+   31. [235]^ John Briere, Department of Psychiatry, USC School of
+       Medicine (1992). "[236]Methodological Issues in the Study of Sexual
+       Abuse Effects" (PDF). Journal of Consulting and Clinical Psychology
+       Vol. 60. No. 2: p196203.
+       [237]http://www.johnbriere.com/methodological%20csa%20jccp%201992.p
+       df.
+   32. [238]^ Merckelbach H, Muris P (March 2001). "[239]The causal link
+       between self-reported trauma and dissociation: a critical review".
+       Behav Res Ther 39 (3): 24554. [240]PMID 11227807.
+       [241]http://linkinghub.elsevier.com/retrieve/pii/S0005-7967(99)0018
+       1-3. Retrieved on 13 May 2008.
+   33. [242]^ Chu, J; Frey L, Ganzel B, Matthews J (May 1999). "Memories
+       of childhood abuse: dissociation, amnesia, and corroboration".
+       American Journal of Psychiatry 156 (5): 74955. [243]PMID 10327909.
+   34. [244]^ Briere J, Runtz M (1988). "[245]Symptomatology associated
+       with childhood sexual victimization in a nonclinical adult sample".
+       Child Abuse Negl 12 (1): 519. [246]PMID 3365583.
+       [247]http://linkinghub.elsevier.com/retrieve/pii/0145-2134(88)90007
+       -5.
+   35. [248]^ Briere J, Runtz M (1990). "Augmenting Hopkins SCL scales to
+       measure dissociative symptoms: data from two nonclinical samples".
+       J Pers Assess 55 (1-2): 3769. [249]PMID 2231257.
+   36. ^ [250]^a [251]^b [252]^c Draijer, N; Langeland W (March 1999).
+       "Childhood trauma and perceived parental dysfunction in the
+       etiology of dissociative symptoms in psychiatric inpatients". Am J
+       Psychiatry 156 (3): 37985. [253]PMID 10080552.
+   37. [254]^ Pearson, M.L. (1991). "[255]Childhood trauma, adult trauma,
+       and dissociation" (PDF). Dissociation 10 (1): 5862:.
+       [256]https://scholarsbank.uoregon.edu/dspace/bitstream/1794/1837/1/
+       Diss_10_1_9_OCR.pdf.
+   38. [257]^ Giannini, AJ (1997). Drugs of Abuse (2nd edition ed.). Los
+       Angeles: Practice Management Information Corp. [258]ISBN
+       1570660530.
+
+[[259]edit] External links
+
+     * [260]International Society for the Study of Trauma and Dissociation
+     * [261]The official journal of the International Society for the
+       Study of Dissociation (ISSD), published between 1988 and 1997
+     * [262]Dissociation and Trauma Archives - Full text searchable
+       articles and case studies published in the 1800s and early 1900s.
+
+   [263]v  [264]d  [265]e
+   [266]Defense mechanisms
+   Psychotic
+   [267]Denial [268]Distortion [269]Delusional projection
+   Immature
+   [270]Fantasy [271]Projection [272]Somatization [273]Passive aggression
+   [274]Acting out [275]Idealization [276]Projective identification
+   Neurotic
+   [277]Displacement Dissociation [278]Isolation [279]Rationalization
+   [280]Reaction formation [281]Repression
+   Mature
+   [282]Altruism [283]Humor [284]Introjection [285]Sublimation
+   [286]Suppression
+   Other/ungrouped
+   [287]Splitting
+   Retrieved from "[288]http://en.wikipedia.org/wiki/Dissociation"
+   [289]Categories: [290]Abnormal psychology | [291]Dissociative disorders
+   | [292]Defence mechanism
+   Hidden categories: [293]All articles with unsourced statements |
+   [294]Articles with unsourced statements since January 2009 |
+   [295]Portal:Psychology/Total
+
+Views
+
+     * [296]Article
+     * [297]Discussion
+     * [298]Edit this page
+     * [299]History
+
+Personal tools
+
+     * [300]Log in / create account
+
+Navigation
+
+     * [301]Main page
+     * [302]Contents
+     * [303]Featured content
+     * [304]Current events
+     * [305]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [306]About Wikipedia
+     * [307]Community portal
+     * [308]Recent changes
+     * [309]Contact Wikipedia
+     * [310]Donate to Wikipedia
+     * [311]Help
+
+Toolbox
+
+     * [312]What links here
+     * [313]Related changes
+     * [314]Upload file
+     * [315]Special pages
+     * [316]Printable version
+     * [317]Permanent link
+     * [318]Cite this page
+
+Languages
+
+     * [319]Deutsch
+     * [320]Espaol
+     * [321]Italiano
+     *
+     * [322]Nederlands
+     *
+     * [323]Polski
+     * [324]Portugus
+     * [325]Suomi
+
+   [326]Powered by MediaWiki
+   [327]Wikimedia Foundation
+     * This page was last modified on 7 February 2009, at 19:48.
+     * All text is available under the terms of the [328]GNU Free
+       Documentation License. (See [329]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [330]Wikimedia
+       Foundation, Inc., a U.S. registered [331]501(c)(3)
+       [332]tax-deductible [333]nonprofit [334]charity.
+     * [335]Privacy policy
+     * [336]About Wikipedia
+     * [337]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dissociation&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dissociation_(psychology)&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#searchInput
+   9. file://localhost/wiki/Dissociation_(chemistry)
+  10. file://localhost/wiki/Dissociation_(neuropsychology)
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-0
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-1
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-2
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-3
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-4
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-5
+  17. file://localhost/wiki/Amnesia
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-6
+  19. file://localhost/wiki/Stress_(biological)
+  20. file://localhost/wiki/Trauma
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-dsm4-7
+  22. file://localhost/wiki/Psychogenic_amnesia
+  23. file://localhost/wiki/Fugue_state
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-8
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-9
+  26. file://localhost/wiki/Depersonalization_disorder
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-10
+  28. file://localhost/wiki/Child_abuse
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-11
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-12
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-13
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#History
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#Diagnosis
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#Relation_to_trauma_and_abuse
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#Psychoactive_substances
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#See_also
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#References
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#External_links
+  39. file://localhost/w/index.php?title=Dissociation&action=edit&section=1
+  40. file://localhost/wiki/French_people
+  41. file://localhost/wiki/Psychiatrist
+  42. file://localhost/wiki/Pierre_Janet
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Ellenberger-14
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-15
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-16
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-17
+  47. file://localhost/wiki/Defence_mechanism
+  48. file://localhost/wiki/Psychoanalysis
+  49. file://localhost/wiki/Wikipedia:Citation_needed
+  50. file://localhost/wiki/Hysteria
+  51. file://localhost/wiki/Stress_(biological)
+  52. file://localhost/wiki/Case_study
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Ellenberger-14
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-18
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-19
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-20
+  57. file://localhost/wiki/Clinical_psychology
+  58. file://localhost/wiki/Carl_Jung
+  59. file://localhost/wiki/Attitude_(psychology)
+  60. file://localhost/wiki/Psychological_Types
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Jung1991-21
+  62. file://localhost/wiki/Post-traumatic_stress_disorder
+  63. file://localhost/wiki/Dissociative_identity_disorder
+  64. file://localhost/wiki/Multiple_personality_controversy
+  65. file://localhost/wiki/Neuroimaging
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-22
+  67. file://localhost/w/index.php?title=Dissociation&action=edit&section=2
+  68. file://localhost/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders
+  69. file://localhost/wiki/Depersonalization
+  70. file://localhost/wiki/Derealization
+  71. file://localhost/wiki/Psychogenic_amnesia
+  72. file://localhost/wiki/Dissociative_disorder
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-DissociativeDisorders-23
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-OccrRef04102007-24
+  75. file://localhost/wiki/Structured_Clinical_Interview_for_DSM-IV#SCID-D
+  76. file://localhost/w/index.php?title=Dissociation&action=edit&section=3
+  77. file://localhost/wiki/Child_abuse
+  78. file://localhost/wiki/Child_sexual_abuse
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-salter-25
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Myers-26
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-pmid8659645-27
+  82. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Brown-28
+  83. file://localhost/wiki/Specificity_(tests)
+  84. file://localhost/wiki/Sensitivity_(tests)
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-29
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Myers-26
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-briere1992-30
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Myers-26
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-salter-25
+  90. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-salter-25
+  91. file://localhost/wiki/Child_abuse
+  92. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-merckelback-31
+  93. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-chu-32
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-briere1988-33
+  95. file://localhost/wiki/Correlation
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-34
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-draijer-35
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-draijer-35
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-draijer-35
+ 100. file://localhost/wiki/Posttraumatic_stress_disorder
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Brown-28
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Brown-28
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-Pearson1991-36
+ 104. file://localhost/w/index.php?title=Dissociation&action=edit&section=4
+ 105. file://localhost/wiki/Dissociative_drug
+ 106. file://localhost/wiki/Psychoactive_drug
+ 107. file://localhost/wiki/Ketamine
+ 108. file://localhost/wiki/Nitrous_oxide
+ 109. file://localhost/wiki/Alcohol
+ 110. file://localhost/wiki/Tiletamine
+ 111. file://localhost/wiki/Dextromethorphan
+ 112. file://localhost/wiki/Phencyclidine
+ 113. file://localhost/wiki/Salvia_divinorum
+ 114. file://localhost/wiki/Muscimol
+ 115. file://localhost/wiki/Diphenhydramine
+ 116. file://localhost/wiki/Atropine
+ 117. file://localhost/wiki/Ibogaine
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_note-37
+ 119. file://localhost/w/index.php?title=Dissociation&action=edit&section=5
+ 120. file://localhost/wiki/Portal:Psychology
+ 121. file://localhost/wiki/Altered_state_of_consciousness
+ 122. file://localhost/wiki/Emotional_detachment
+ 123. file://localhost/wiki/Splitting_(psychology)
+ 124. file://localhost/wiki/Psychological_numbing
+ 125. file://localhost/w/index.php?title=Dissociation&action=edit&section=6
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-0
+ 127. http://www.sidran.org/sub.cfm?contentID=75&sectionid=4
+ 128. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-1
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-2
+ 130. file://localhost/wiki/Digital_object_identifier
+ 131. http://dx.doi.org/10.1016%2Fj.psc.2005.10.013
+ 132. http://www.ncbi.nlm.nih.gov/pubmed/16530584
+ 133. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-3
+ 134. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8659641
+ 135. http://www.ncbi.nlm.nih.gov/pubmed/8659641
+ 136. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8659641
+ 137. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-4
+ 138. http://linkinghub.elsevier.com/retrieve/pii/S0272-7358(99)00073-2
+ 139. http://www.ncbi.nlm.nih.gov/pubmed/11413868
+ 140. http://linkinghub.elsevier.com/retrieve/pii/S0272-7358(99)00073-2
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-5
+ 142. http://www.ncbi.nlm.nih.gov/pubmed/16769667
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-6
+ 144. http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VB8-3VWPY4Y-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b8c345ff2241770546d7b757fecf6ef9
+ 145. file://localhost/wiki/Digital_object_identifier
+ 146. http://dx.doi.org/10.1016%2F0272-7358%2896%2900006-2
+ 147. http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VB8-3VWPY4Y-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b8c345ff2241770546d7b757fecf6ef9
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-dsm4_7-0
+ 149. file://localhost/wiki/American_Psychiatric_Association
+ 150. file://localhost/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders
+ 151. file://localhost/wiki/Digital_object_identifier
+ 152. http://dx.doi.org/10.1176%2Fappi.books.9780890423349
+ 153. file://localhost/wiki/Special:BookSources/9780890420249
+ 154. http://www.psychiatryonline.com/resourceTOC.aspx?resourceID=1
+ 155. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-8
+ 156. http://www.ncbi.nlm.nih.gov/pubmed/10408212
+ 157. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-9
+ 158. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=379692
+ 159. file://localhost/wiki/Digital_object_identifier
+ 160. http://dx.doi.org/10.1101%2Flm.71404
+ 161. http://www.ncbi.nlm.nih.gov/pubmed/15054137
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-10
+ 163. http://books.google.com/books?id=M-Cgs_T7Cl8C&pg=PA17
+ 164. file://localhost/wiki/Oxford_University_Press
+ 165. file://localhost/wiki/Special:BookSources/0195170229
+ 166. http://books.google.com/books?id=M-Cgs_T7Cl8C&pg=PA17
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-11
+ 168. http://www.ncbi.nlm.nih.gov/pubmed/3711025
+ 169. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-12
+ 170. http://www.ncbi.nlm.nih.gov/pubmed/2044042
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-13
+ 172. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8434668
+ 173. http://www.ncbi.nlm.nih.gov/pubmed/8434668
+ 174. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8434668
+ 175. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Ellenberger_14-0
+ 176. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Ellenberger_14-1
+ 177. file://localhost/wiki/Special:BookSources/0465016731
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-15
+ 179. file://localhost/wiki/Pierre_Janet
+ 180. http://books.google.ca/books?id=5kaxseSnF3QC&printsec=frontcover&source=gbs_summary_r&cad=0
+ 181. file://localhost/wiki/Special:BookSources/2747590488
+ 182. http://books.google.ca/books?id=5kaxseSnF3QC&printsec=frontcover&source=gbs_summary_r&cad=0
+ 183. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-16
+ 184. file://localhost/wiki/Pierre_Janet
+ 185. http://books.google.ca/books?id=6OctAAAAIAAJ&pgis=1
+ 186. http://books.google.ca/books?id=6OctAAAAIAAJ&pgis=1
+ 187. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-17
+ 188. file://localhost/wiki/Pierre_Janet
+ 189. http://books.google.ca/books?id=yyQ6AAAAMAAJ&pgis=1
+ 190. http://books.google.ca/books?id=yyQ6AAAAMAAJ&pgis=1
+ 191. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-18
+ 192. http://books.google.ca/books?id=86pWAAAAMAAJ&pgis=1
+ 193. file://localhost/wiki/Charles_Scribner%27s_Sons
+ 194. http://books.google.ca/books?id=86pWAAAAMAAJ&pgis=1
+ 195. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-19
+ 196. http://books.google.ca/books?id=k1cwAAAACAAJ
+ 197. file://localhost/wiki/Special:BookSources/0827442408
+ 198. http://books.google.ca/books?id=k1cwAAAACAAJ
+ 199. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-20
+ 200. http://books.google.ca/books?id=pxsZIg6_yhMC&printsec=frontcover
+ 201. file://localhost/wiki/E._P._Dutton
+ 202. file://localhost/wiki/Special:BookSources/1406735000
+ 203. http://books.google.ca/books?id=pxsZIg6_yhMC&printsec=frontcover
+ 204. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Jung1991_21-0
+ 205. file://localhost/wiki/Special:BookSources/9780710062994
+ 206. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-22
+ 207. http://books.google.ca/books?id=C30EbO7GDMIC&pg=PA97
+ 208. file://localhost/wiki/Special:BookSources/0789012464
+ 209. http://books.google.ca/books?id=C30EbO7GDMIC&pg=PA97
+ 210. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-DissociativeDisorders_23-0
+ 211. http://www.psychiatryonline.com/content.aspx?aID=9696
+ 212. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-OccrRef04102007_24-0
+ 213. http://www.psych.umn.edu/faculty/waller/classes/mult06/taxometrics/wallerputnam.pdf
+ 214. file://localhost/wiki/Digital_object_identifier
+ 215. http://dx.doi.org/10.1037%2F1082-989X.1.3.300
+ 216. http://www.psych.umn.edu/faculty/waller/classes/mult06/taxometrics/wallerputnam.pdf
+ 217. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-salter_25-0
+ 218. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-salter_25-1
+ 219. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-salter_25-2
+ 220. file://localhost/wiki/Special:BookSources/080395509X
+ 221. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Myers_26-0
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Myers_26-1
+ 223. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Myers_26-2
+ 224. file://localhost/wiki/Special:BookSources/0761919929
+ 225. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-pmid8659645_27-0
+ 226. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8659645
+ 227. http://www.ncbi.nlm.nih.gov/pubmed/8659645
+ 228. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=8659645
+ 229. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Brown_28-0
+ 230. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Brown_28-1
+ 231. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Brown_28-2
+ 232. file://localhost/wiki/Special:BookSources/0393702545
+ 233. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-29
+ 234. http://www.johnbriere.com/JNMD%2006%20paper.html
+ 235. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-briere1992_30-0
+ 236. http://www.johnbriere.com/methodological%20csa%20jccp%201992.pdf
+ 237. http://www.johnbriere.com/methodological%20csa%20jccp%201992.pdf
+ 238. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-merckelback_31-0
+ 239. http://linkinghub.elsevier.com/retrieve/pii/S0005-7967(99)00181-3
+ 240. http://www.ncbi.nlm.nih.gov/pubmed/11227807
+ 241. http://linkinghub.elsevier.com/retrieve/pii/S0005-7967(99)00181-3
+ 242. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-chu_32-0
+ 243. http://www.ncbi.nlm.nih.gov/pubmed/10327909
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-briere1988_33-0
+ 245. http://linkinghub.elsevier.com/retrieve/pii/0145-2134(88)90007-5
+ 246. http://www.ncbi.nlm.nih.gov/pubmed/3365583
+ 247. http://linkinghub.elsevier.com/retrieve/pii/0145-2134(88)90007-5
+ 248. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-34
+ 249. http://www.ncbi.nlm.nih.gov/pubmed/2231257
+ 250. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-draijer_35-0
+ 251. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-draijer_35-1
+ 252. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-draijer_35-2
+ 253. http://www.ncbi.nlm.nih.gov/pubmed/10080552
+ 254. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-Pearson1991_36-0
+ 255. https://scholarsbank.uoregon.edu/dspace/bitstream/1794/1837/1/Diss_10_1_9_OCR.pdf
+ 256. https://scholarsbank.uoregon.edu/dspace/bitstream/1794/1837/1/Diss_10_1_9_OCR.pdf
+ 257. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc10.tmp.html#cite_ref-37
+ 258. file://localhost/wiki/Special:BookSources/1570660530
+ 259. file://localhost/w/index.php?title=Dissociation&action=edit&section=7
+ 260. http://www.isst-d.org/
+ 261. https://scholarsbank.uoregon.edu/dspace/handle/1794/1129
+ 262. http://boundless.uoregon.edu/digcol/diss/index.html
+ 263. file://localhost/wiki/Template:Defense_mechanisms
+ 264. file://localhost/w/index.php?title=Template_talk:Defense_mechanisms&action=edit&redlink=1
+ 265. http://en.wikipedia.org/w/index.php?title=Template:Defense_mechanisms&action=edit
+ 266. file://localhost/wiki/Defense_mechanisms
+ 267. file://localhost/wiki/Denial
+ 268. file://localhost/wiki/Cognitive_distortion
+ 269. file://localhost/wiki/Delusion
+ 270. file://localhost/wiki/Fantasy
+ 271. file://localhost/wiki/Psychological_projection
+ 272. file://localhost/wiki/Somatization
+ 273. file://localhost/wiki/Passive_aggression
+ 274. file://localhost/wiki/Acting_out
+ 275. file://localhost/wiki/Idealization
+ 276. file://localhost/wiki/Projective_identification
+ 277. file://localhost/wiki/Displacement
+ 278. file://localhost/wiki/Isolation
+ 279. file://localhost/wiki/Rationalization
+ 280. file://localhost/wiki/Reaction_formation
+ 281. file://localhost/wiki/Psychological_repression
+ 282. file://localhost/wiki/Altruism
+ 283. file://localhost/wiki/Humor
+ 284. file://localhost/wiki/Introjection
+ 285. file://localhost/wiki/Sublimation_(psychology)
+ 286. file://localhost/wiki/Thought_suppression
+ 287. file://localhost/wiki/Splitting_(psychology)
+ 288. http://en.wikipedia.org/wiki/Dissociation
+ 289. file://localhost/wiki/Special:Categories
+ 290. file://localhost/wiki/Category:Abnormal_psychology
+ 291. file://localhost/wiki/Category:Dissociative_disorders
+ 292. file://localhost/wiki/Category:Defence_mechanism
+ 293. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 294. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_January_2009
+ 295. file://localhost/wiki/Category:Portal:Psychology/Total
+ 296. file://localhost/wiki/Dissociation
+ 297. file://localhost/wiki/Talk:Dissociation
+ 298. file://localhost/w/index.php?title=Dissociation&action=edit
+ 299. file://localhost/w/index.php?title=Dissociation&action=history
+ 300. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dissociation
+ 301. file://localhost/wiki/Main_Page
+ 302. file://localhost/wiki/Portal:Contents
+ 303. file://localhost/wiki/Portal:Featured_content
+ 304. file://localhost/wiki/Portal:Current_events
+ 305. file://localhost/wiki/Special:Random
+ 306. file://localhost/wiki/Wikipedia:About
+ 307. file://localhost/wiki/Wikipedia:Community_portal
+ 308. file://localhost/wiki/Special:RecentChanges
+ 309. file://localhost/wiki/Wikipedia:Contact_us
+ 310. http://wikimediafoundation.org/wiki/Donate
+ 311. file://localhost/wiki/Help:Contents
+ 312. file://localhost/wiki/Special:WhatLinksHere/Dissociation
+ 313. file://localhost/wiki/Special:RecentChangesLinked/Dissociation
+ 314. file://localhost/wiki/Wikipedia:Upload
+ 315. file://localhost/wiki/Special:SpecialPages
+ 316. file://localhost/w/index.php?title=Dissociation&printable=yes
+ 317. file://localhost/w/index.php?title=Dissociation&oldid=269180641
+ 318. file://localhost/w/index.php?title=Special:Cite&page=Dissociation&id=269180641
+ 319. http://de.wikipedia.org/wiki/Dissoziation_(Psychologie)
+ 320. http://es.wikipedia.org/wiki/Disociaci%C3%B3n_(psicolog%C3%ADa)
+ 321. http://it.wikipedia.org/wiki/Dissociazione_(psicologia)
+ 322. http://nl.wikipedia.org/wiki/Dissociatie_(psychologie)
+ 323. http://pl.wikipedia.org/wiki/Dysocjacja_(psychologia)
+ 324. http://pt.wikipedia.org/wiki/Dissocia%C3%A7%C3%A3o_(psicologia)
+ 325. http://fi.wikipedia.org/wiki/Dissosiaatio_(psykologia)
+ 326. http://www.mediawiki.org/
+ 327. http://wikimediafoundation.org/
+ 328. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 329. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 330. http://www.wikimediafoundation.org/
+ 331. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 332. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 333. http://en.wikipedia.org/wiki/Non-profit_organization
+ 334. http://en.wikipedia.org/wiki/Charitable_organization
+ 335. http://wikimediafoundation.org/wiki/Privacy_policy
+ 336. file://localhost/wiki/Wikipedia:About
+ 337. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 338. file://localhost/wiki/File:Psi2.svg
+ 339. http://www.psychiatryonline.com/resourceTOC.aspx?resourceID=1
+ 340. file://localhost/wiki/Main_Page
+ 341. http://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A1%D7%95%D7%A6%D7%99%D7%90%D7%A6%D7%99%D7%94
+ 342. http://ja.wikipedia.org/wiki/%E8%A7%A3%E9%9B%A2_(%E5%BF%83%E7%90%86%E5%AD%A6)

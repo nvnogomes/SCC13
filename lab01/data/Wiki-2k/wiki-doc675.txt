@@ -1,0 +1,699 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+E.V.O.: Search for Eden
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EVO: The Search for Eden)
+   Jump to: [7]navigation, [8]search
+   E.V.O.: Search for Eden
+   [9]Developer(s) [10]Almanic
+   [11]Publisher(s) [12]Enix
+   [13]Composer(s) [14]Koichi Sugiyama
+   [15]Platform(s) [16]Super Nintendo Entertainment System
+   Release date(s) ^[17]JP December 21, 1992
+   ^[18]NA July 1993
+   [19]Genre(s) [20]Action role-playing game
+   Mode(s) [21]Single-player
+   [22]Media 12-[23]megabit [24]cartridge
+   Input methods [25]Gamepad
+
+   E.V.O.: Search for Eden, originally released in [26]Japan as 46 Okunen
+   Monogatari: Harukanaru Eden e (46 , lit. 4.6 Billion Year Story: To
+   Distant Eden^[27]?), is an [28]action role-playing video game developed
+   by [29]Almanic Corporation and published by [30]Enix for the [31]Super
+   Nintendo Entertainment System. Initially released in 1992 for Japanese
+   audiences, the game was translated and made available in North America
+   in 1993 courtesy of Enix America Corp. Combining aspects of traditional
+   [32]platforming video games with role-playing elements such as
+   dialogue-driven story sequences and heavy character customization, the
+   game involves the player navigating a creature through a number of
+   side-scrolling levels while undergoing bodily [33]evolution to cope
+   with ever-changing environments. The game is heavily based on Almanic's
+   original title 46 Okunen Monogatari: The Shinka Ron released
+   exclusively in Japan in 1990 for the [34]PC-9801 home computer.
+
+   Spanning a period of several millennia, the game's story involves
+   [35]Gaia, daughter of the sun and mystical embodiment of the Earth,
+   guiding the player through five distinct geological periods of the
+   planet's history. Beginning the game as a simple fish, the player must
+   travel across the planet defeating enemies and gaining the strength to
+   evolve into more powerful and complex organisms before eventually
+   reaching earning a chance to enter the paradise realm of Eden, becoming
+   Gaia's immortal partner. However, strange crystals with the ability to
+   influence evolution are laden throughout the player's quest, with the
+   mystery of their origin becoming a secondary factor to the story.
+
+Contents
+
+     * [36]1 Gameplay
+     * [37]2 Story
+     * [38]3 Development
+          + [39]3.1 Audio
+     * [40]4 Reception
+     * [41]5 See also
+     * [42]6 References
+     * [43]7 External links
+
+[[44]edit] Gameplay
+
+   The player as an early [45]amphibian (bottom) during the game's second
+   era
+
+   E.V.O. is a side-scrolling [46]platformer-style action game where
+   players must navigate a creature of their own design across a number of
+   environments resembling Earth's past.^[47][1] The game is divided into
+   five distinct geological periods: the [48]Devonian period ("The World
+   Before Land"), the [49]Carboniferous period ("Early Creatures of
+   Land"), the [50]Jurassic period ("Age of Dinosaurs"), the late
+   [51]Paleogene era ("Ice Age"), and finally the early [52]Neogene period
+   ("Early Man").^[53][2] While each era takes historical liberties with
+   both its inhabitants and time frames, a player's choices for evolution
+   are dependent on their current era of play, ranging from aquatic bodies
+   during the Age of Fish to mammalian physiology during the Age of
+   Man.^[54][3] As a player progresses though each level, they encounter
+   other organisms who must be confronted by biting or ramming them until
+   they are defeated, leaving behind their meat which the player can
+   consume to grant them "evolution points" used towards upgrading
+   specific body parts.^[55][4] The body of the character controlled by
+   the player is divided into eight sections which can be upgraded by
+   spending evolution points which make them stronger as well as change
+   their appearance. New abilities such as tail swings, greater jumping
+   ability, and increased movement speed can also be obtained through
+   evolution.^[56][3]
+
+   During gameplay, the player will also encounter crystal that either
+   display on-screen hints on how to play, grant large amounts of
+   Evolution Points, or transform their character into a unique body for a
+   limited time.^[57][5] As a player takes damage from enemy creatures,
+   they may restore their health at any time by either consuming the meat
+   of their foes, eating nearby plant life, or by undergoing selective
+   evolution. At the end of each level, the player must face a stronger
+   [58]boss character in order to progress, often requiring more effort to
+   defeat than normal foe. If the player's character should lose all their
+   health, they are then transported back to the game's map screen with a
+   deduction of Evolution Points.^[59][6] The game utilizes a built-in
+   battery back-up save system for storing game data. A player may record
+   their progress directly to the cartridge to be continued at another
+   time, as well as store up to fifty previously created creatures using
+   the game's built-in "Book of Life" feature.^[60][6] Creatures stored in
+   this index have the option to be recalled at any time when a player
+   encounters special crystals during their quest.^[61][3]
+
+[[62]edit] Story
+
+   Exploring a level 3 [63]asteroid
+
+   E.V.O. tells the saga of life's evolution on Earth, with a subtext of a
+   [64]creation myth and poly-[65]Theistic Evolution. The player takes the
+   role of one of many billions of life-forms created by Gaia, the
+   nurturing and benevolent daughter of Sol, the Sun. Among the creatures
+   known as "life," there is a competition to evolve, and the greatest
+   life-form will eventually be granted the privilege of entering the
+   Garden of Eden and becoming the husband and partner of Gaia. As the
+   game progresses, it soon becomes apparent that some mysterious external
+   force is interfering with evolution on Earth in a destructive manner.
+   Strange crystals not native to Gaia appear across the planet, and
+   creatures that eat the crystals are transformed into monstrously
+   powerful beings that dominate all other life-forms, over-consume
+   resources, and disrupt the flow of evolution. In each Age the player
+   character is tasked with confronting the species transformed by the
+   crystals and defeating them so that the evolution of life can continue
+   on track.
+
+   In the final Age, the Age of Eden, the player learns that a mysterious
+   entity is controlling the world's other life-forms and sending them
+   against the player. This entity turns out to be [66]Bolbox, a life-form
+   that has evolved into a freakish and evil advanced being by consuming
+   the crystals, believing itself to be the first human, but in reality it
+   is a gigantic one-celled organism. In the game's final battle, the
+   player and Bolbox fight to determine who will gain entry into Eden and
+   become Gaia's partner. Bolbox is defeated, and the player joins Gaia in
+   Eden and is granted the gift of intelligence. It is also revealed that
+   the crystals were introduced to Earth by an advanced [67]civilization
+   on [68]Mars, who misguidedly wished to help Earth by speeding its
+   evolution with the crystals. Upon realizing the dangers the crystals
+   create, the Martians decide to leave Earth alone and simply watch it
+   until it becomes advanced enough to interact with Mars.
+
+[[69]edit] Development
+
+   Screenshot from 46 Okunen Monogatari: The Shinka Ron on the [70]NEC
+   PC-9801. The game served as the model on which E.V.O. would be based.
+
+   E.V.O. was developed by [71]Almanic Corporation in early 1992 under the
+   Japanese title 46 Okunen Monogatari ~Harukanaru Eden e~ (literally,
+   "4.6 Billion Year Story: To Distant Eden") and was headed by project
+   director Takashi Yoneda, who had previously designed [72]Quintet's
+   [73]Actraiser three years prior. The title was largely based on the
+   company's earlier text-based adventure game 46 Okunen Monogatari ~The
+   Shinka Ron~ (literally, "4.6 Billion Year Story: The Theory of
+   Evolution"), released for the [74]NEC PC-9801 home computer in 1990,
+   and carries over much the game's themes, designs, and story.^[75][7]
+   Although the design staff had opted to give a [76]fantastic rather than
+   scientific representation of evolutionary theories and planet
+   development, the crew was assisted by teachers from local schools to
+   provide information on geology and biology to the programmers.^[77][7]
+   While some of the game's designers were similar to that of the original
+   PC-9801 title, much of the staff for the Super Nintendo Entertainment
+   System version was made up of a younger, less experienced crew, which
+   Yoneda claims made things "interesting" during development.^[78][7]
+
+   The North American version was translated and marketed by Enix America
+   Corporation. While originally planned for a March 1993 release, the
+   game was beset by last-minute delays for several months until the
+   following June.^[79][8] The company would later hold a promotional
+   contest where players could send in photographs of their favorite
+   customized creatures for a chance to win a free Enix game.^[80][9]
+
+[[81]edit] Audio
+
+   The music for E.V.O. was composed by [82]Koichi Sugiyama who is most
+   famous for his work on Enix's [83]Dragon Quest series. The game was his
+   first composition for a 16-bit system, with each theme made to fit the
+   imagery of a particular era, which director Takashi Yoneda claimed he
+   was "quite passionate" about.^[84][10] In late 1992, select songs from
+   the game were performed by the Tokyo City Philharmonic Orchestra during
+   their second annual [85]Game Music Concert series in [86]Tokyo,
+   Japan.^[87][11] Two of these songs, "Great Hymn of Nature, Earth" and
+   "Sorrow" were made available on the Orchestra Game Music Concert 2
+   album the following November.^[88][12] The following December, an
+   official soundtrack for E.V.O. was released exclusively in Japan by
+   Apollon Records.^[89][13] Like the soundtrack for the game's successor,
+   rather than featuring the same instrumentation present in the game, the
+   46 Okunen Monogatari Symphonic Synth Suite soundtrack was comprised of
+   music re-recorded and arranged [90]Motoaki Takenouchi using a
+   combination of [91]electronic keyboard synth and orchestra samples to
+   re-create it on a more sophisticated format.
+   46 Okunen Monogatari Symphonic Synth Suite tracklist
+   # Title Length
+   1. "4.6 Billion Year Story ~ Birth of the World"   2:28
+   2. "Mother Earth ~ Theme of Gaia"   3:03
+   3. "Abundant Nature ~ Village Theme"   1:51
+   4. "450 Million Year Journey ~ Chapter 1 Field"   2:44
+   5. "Journey to the Unknown ~ Cave Theme"   3:01
+   6. "Natural Selection ~ Battle Theme"   2:22
+   7. "Sorrow"   4:48
+   8. "Great Hymn of Nature, Earth ~ Main Map Theme"   3:36
+   9. "Hello Evolution ~ Chapter 2 Field"   3:06
+   10. "Head for Land ~ Evolution March"   3:52
+   11. "Another Evolution ~ Coffee Break"   2:51
+   12. "Anxious Times ~ Chapter 3 Field"   3:13
+   13. "Premonition of Ruin"   4:35
+   14. "Evolution Ballad ~ Chapter 4 Field"   3:12
+   15. "Final Choice ~ Battle with Bolbox"   3:20
+   16. "To a New Evolution"   2:02
+   17. "4.6 Billion Year Story Finale"   3:23
+   50:47
+
+[[92]edit] Reception
+
+    Reception
+             Review scores
+      Publication          Score
+   [93]GamePro        3.5 / 5^[94][14]
+   [95]Nintendo Power 3.6 / 5^[96][8]
+               Aggregate scores
+      Aggregator              Score
+   [97]Game Rankings 76% (2 reviews)^[98][15]
+
+   The game received mild but generally positive reviews during its
+   initial release in North America. [99]GamePro magazine praised the
+   game's originality and overall design but found fault with the visual
+   presentation of the title, stating "although this game has an
+   interesting concept, the sluggish game play and average graphics may
+   make you return to the caves."^[100][14] The publication also found the
+   background music lacking, stating that the game's compositions ranged
+   from "soothing" to "annoying".^[101][14] [102]Nintendo Power also
+   called attention to the game's ingenuity and theme, remarking that
+   "[t]he idea of this game is great and the weird creatures you can
+   evolve can be both bizarre and hilarious."^[103][8] However, the
+   magazine felt that the game's representation of the concept of
+   evolution was too fanciful, as well the process of obtaining power-up
+   items being "tedious".^[104][8] Nintendo Power would later give the
+   game an honorable mention during its "Top Titles of 1993" awards
+   segment as one of the most innovative games of the year.^[105][16]
+   Although not officially released in Europe, the game was covered in an
+   import review by [106]Super Play Magazine UK in late 1993. Although the
+   editors found the game's strategy components to be "top-notch", the
+   rest of the game was regarded as "very mediocre", garnering only a 47%
+   average score.^[107][17]
+
+   More contemporary reviews of the game were largely positive. In his
+   2001 collector's guide [108]Video Game Bible, author Andy Slaven called
+   the game "wildly underrated (and highly original)".^[109][18]Jonathan
+   Dunder of The Free Information Society gave the game five stars, citing
+   it as a classic in gaming history although admitting that the gameplay
+   can get somewhat repetitive.^[110][19] Justin Holmes of AllRPG called
+   it an RPG that's a little more engaging than most" and "very original
+   both in concept and gameplay.^[111][20] In February 2007, [112]IGN
+   ranked E.V.O. second in its list of the greatest "Prehistoric Games" of
+   all time, stating that "[n]o other title before or since has so
+   effectively captured the essence of evolutionary theory in videogame
+   form."^[113][21] The website additionally likened the title to the
+   then-upcoming and highly-anticipated [114]Spore by [115]Maxis Games,
+   calling E.V.O. the "original success story" in life-simulation gaming
+   and the standard for which it would be judged.^[116][21] The game
+   maintains a 76% average score on aggregate review website [117]Game
+   Rankings.^[118][15]
+
+   In November 2008, [119]Philip M. Parker, Chair Professor at [120]INSEAD
+   and editor of [121]Webster's Online Dictionary, referenced E.V.O. in
+   his book, Crystalloids: Webster's Quotations, Facts and Phrases, as a
+   subject in popular culture that includes [122]crystalloids as a running
+   theme, citing the game's fantasy play mechanic of using the objects to
+   induce evolution.^[123][22] The book also erroneously lists the 2001
+   board game [124]Evo: The Last Gasp of the Dinosaurs as being related to
+   the title.^[125][22]
+
+[[126]edit] See also
+
+     * [127]Spore (2008 video game)
+     * [128]Evolution: The Game of Intelligent Life
+     * [129]L.O.L.: Lack of Love
+
+[[130]edit] References
+
+    1. [131]^ "Nintendo Power's E.V.O. Player's Guide". [132]Nintendo
+       Power (Nintendo of America) (50): 22. July 1993.
+    2. [133]^ "Nintendo Power's E.V.O. Player's Guide". [134]Nintendo
+       Power (Nintendo of America) (50): 24. July 1993.
+    3. ^ [135]^a [136]^b [137]^c "Nintendo Power's E.V.O. Player's Guide".
+       [138]Nintendo Power (Nintendo of America) (50): 23. July 1993.
+    4. [139]^ [140]Enix America Corp. (1993). E.V.O." Search for Eden
+       Instruction Booklet. pp. 8. SNS-46.
+    5. [141]^ [142]Enix America Corp. (1993). E.V.O." Search for Eden
+       Instruction Booklet. pp. 9. SNS-46.
+    6. ^ [143]^a [144]^b [145]Enix America Corp. (1993). E.V.O." Search
+       for Eden Instruction Booklet. pp. 10. SNS-46.
+    7. ^ [146]^a [147]^b [148]^c Yoneda, Takashi (2003). [149]1 "Hirano
+       Bucho-Do: Cyber Games Profile" (in Japanese). Takashi Yoneda
+       Official Website.
+       [150]http://www008.upp.so-net.ne.jp/yonegon/game.htm#46pc 1.
+       Retrieved on 2009-02-01.
+    8. ^ [151]^a [152]^b [153]^c [154]^d Rob Noel and George Sinfeld (June
+       1993). "E.V.O. Review". [155]Nintendo Power (Nintendo of America)
+       (49): 104-105.
+    9. [156]^ Enix America Corp. (May 1993). "E.V.O.: Search for Eden "The
+       Power is Yours" Contest Promotion". [157]Electronic Gaming Monthly
+       (Imagine Games Network) (46): 17.
+   10. [158]^ [159]"World of Koichi Sugiyama - Works" (in Japanese). World
+       of Koichi Sugiyama. 2009. [160]http://sugimania.com/sakuhin.html.
+       Retrieved on 2009-02-01.
+   11. [161]^ Rzeminski, Lucy (2001). [162]"Chudah's Corner - Orchestral
+       Game Concert 2". Chudah's Corner.
+       [163]http://chudahs-corner.com/soundtracks/index.php?catalog=WPCL-7
+       09. Retrieved on 2009-02-01.
+   12. [164]^ Gann, Patrick (2001-04-01). [165]"RPGFan Soundtracks -
+       Orchestral Game Concert 2". [166]RPGFan.
+       [167]http://www.rpgfan.com/soundtracks/ogc2/index.html. Retrieved
+       on 2009-02-01.
+   13. [168]^ Rzeminski, Lucy (2005). [169]"Chudah's Corner - Symphonic
+       Synth Suite ~ 4.6 Billion Year Story". Chudah's Corner.
+       [170]http://chudahs-corner.com/soundtracks/index.php?catalog=APCG-4
+       030. Retrieved on 2009-02-01.
+   14. ^ [171]^a [172]^b [173]^c Scary Larry (August 1993). "E.V.O.:
+       Search for Eden SNES ProReview". [174]GamePro (IDG Entertainment)
+       (49): 90.
+   15. ^ [175]^a [176]^b [177]"EVO - The Search for Eden Reviews".
+       [178]Game Rankings. 2006.
+       [179]http://www.gamerankings.com/htmlpages2/588313.asp. Retrieved
+       on 2009-02-01.
+   16. [180]^ "Top Titles of 1993 - SNES Awards - Honorable Mention - Most
+       Innovative". [181]Nintendo Power Super Power Club Suppliment
+       (Nintendo of America) (56): 4. January 1994.
+   17. [182]^ "E.V.O.: Search for Eden Review". [183]Super Play (Future
+       Publishing) (12). November 1993.
+   18. [184]^ Slaven, Andy (2002). [185]Video Game Bible, 1985 - 2002 (2nd
+       ed.). [186]Trafford Publishing (published 2006). p. 154. [187]ISBN
+       1412249023.
+       [188]http://books.google.com/books?id=oShzmF1Pxc4C&pg=PA148&vq=EVO:
+       +The+Search+for+Eden&source=gbs_search_s&cad=0#PPA150,M1. Retrieved
+       on 2008-06-30. .
+   19. [189]^ [190]"E.V.O.: Search for Eden Review". The Free Information
+       Society. [191]http://www.freeinfosociety.com/site.php?postnum=575.
+       Retrieved on 8 September 2006.
+   20. [192]^ [193]"E.V.O.: Search for Eden Review". AllRPG.
+       [194]http://www.allrpg.com/games/evo/index.php3?page=review&num=1.
+       Retrieved on 8 September 2006.
+   21. ^ [195]^a [196]^b [197]"IGN: Top 10 Tuesday: Prehistoric Games".
+       [198]IGN. 2007-02-27.
+       [199]http://xbox.ign.com/articles/768/768679p2.html. Retrieved on
+       2008-07-01.
+   22. ^ [200]^a [201]^b [202]Parker, Philip M. (2008). [203]Crystalloids:
+       Webster's Quotations, Facts and Phrases (1st ed.). ICON Group
+       International (published November 21, 2008). p. 208. [204]ISBN
+       1412249023.
+       [205]http://books.google.com/books?id=rVFZjIb5RJsC&pg=PA208&dq=EVO+
+       %22Search+for+Eden%22&ei=jPuVSeGqBYHmyATz38TzCQ#PPA208,M1.
+       Retrieved on 2008-06-30. .
+
+[[206]edit] External links
+
+     * [207]Official Square Enix info page (Japanese)
+     * [208]E.V.O.: Search for Eden at [209]MobyGames
+
+   Retrieved from
+   "[210]http://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden"
+   [211]Categories: [212]1992 video games | [213]Action role-playing video
+   games | [214]Biological simulation video games | [215]Dinosaurs in
+   fiction | [216]Enix games | [217]Evolution in popular culture |
+   [218]Prehistoric life in popular culture | [219]Super NES games |
+   [220]Super NES-only games
+   Hidden category: [221]Articles containing Japanese language text
+
+Views
+
+     * [222]Article
+     * [223]Discussion
+     * [224]Edit this page
+     * [225]History
+
+Personal tools
+
+     * [226]Log in / create account
+
+Navigation
+
+     * [227]Main page
+     * [228]Contents
+     * [229]Featured content
+     * [230]Current events
+     * [231]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [232]About Wikipedia
+     * [233]Community portal
+     * [234]Recent changes
+     * [235]Contact Wikipedia
+     * [236]Donate to Wikipedia
+     * [237]Help
+
+Toolbox
+
+     * [238]What links here
+     * [239]Related changes
+     * [240]Upload file
+     * [241]Special pages
+     * [242]Printable version
+     * [243]Permanent link
+     * [244]Cite this page
+
+Languages
+
+     * [245]Espaol
+     * [246]Franais
+     *
+     * [247]Portugus
+
+   [248]Powered by MediaWiki
+   [249]Wikimedia Foundation
+     * This page was last modified on 26 February 2009, at 21:23.
+     * All text is available under the terms of the [250]GNU Free
+       Documentation License. (See [251]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [252]Wikimedia
+       Foundation, Inc., a U.S. registered [253]501(c)(3)
+       [254]tax-deductible [255]nonprofit [256]charity.
+     * [257]Privacy policy
+     * [258]About Wikipedia
+     * [259]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EVO:_The_Search_for_Eden&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#searchInput
+   9. file://localhost/wiki/Video_game_developer
+  10. file://localhost/wiki/Givro
+  11. file://localhost/wiki/Video_game_publisher
+  12. file://localhost/wiki/Enix
+  13. file://localhost/wiki/Video_game_music
+  14. file://localhost/wiki/Koichi_Sugiyama
+  15. file://localhost/wiki/Computing_platform
+  16. file://localhost/wiki/Super_Nintendo_Entertainment_System
+  17. file://localhost/wiki/Japan
+  18. file://localhost/wiki/North_America
+  19. file://localhost/wiki/Video_game_genres
+  20. file://localhost/wiki/Action_role-playing_game
+  21. file://localhost/wiki/Single-player
+  22. file://localhost/wiki/Digital_media
+  23. file://localhost/wiki/Megabit
+  24. file://localhost/wiki/Cartridge_(electronics)
+  25. file://localhost/wiki/Gamepad
+  26. file://localhost/wiki/Japan
+  27. file://localhost/wiki/Help:Japanese
+  28. file://localhost/wiki/Action_role-playing_game
+  29. file://localhost/wiki/Givro
+  30. file://localhost/wiki/Enix
+  31. file://localhost/wiki/Super_Nintendo_Entertainment_System
+  32. file://localhost/wiki/Platformer
+  33. file://localhost/wiki/Evolution
+  34. file://localhost/wiki/NEC_PC-9801
+  35. file://localhost/wiki/Gaia_(mythology)
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#Gameplay
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#Story
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#Development
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#Audio
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#Reception
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#See_also
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#References
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#External_links
+  44. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=1
+  45. file://localhost/wiki/Amphibian
+  46. file://localhost/wiki/Platform_game
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NPGuide2-0
+  48. file://localhost/wiki/Devonian
+  49. file://localhost/wiki/Carboniferous
+  50. file://localhost/wiki/Jurassic
+  51. file://localhost/wiki/Paleogene
+  52. file://localhost/wiki/Neogene
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NPGuide-1
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NPGuide3-2
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Manual-3
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NPGuide3-2
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Manual9-4
+  58. file://localhost/wiki/Boss_(video_game)
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Manual10-5
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Manual10-5
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NPGuide3-2
+  62. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=2
+  63. file://localhost/wiki/Asteroid
+  64. file://localhost/wiki/Creation_myth
+  65. file://localhost/wiki/Theistic_Evolution
+  66. file://localhost/wiki/Volvox
+  67. file://localhost/wiki/Extraterrestrial_life
+  68. file://localhost/wiki/Mars
+  69. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=3
+  70. file://localhost/wiki/NEC_PC-9801
+  71. file://localhost/wiki/Almanic
+  72. file://localhost/wiki/Quintet_(game_developer)
+  73. file://localhost/wiki/Actraiser
+  74. file://localhost/wiki/NEC_PC-9801
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Yoneda-6
+  76. file://localhost/wiki/Fantasy
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Yoneda-6
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Yoneda-6
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NP-7
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-contest-8
+  81. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=4
+  82. file://localhost/wiki/Koichi_Sugiyama
+  83. file://localhost/wiki/Dragon_Quest
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Sugi-9
+  85. file://localhost/wiki/Orchestral_Game_Concert
+  86. file://localhost/wiki/Tokyo,_Japan
+  87. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GMC-10
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GMC2-11
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-Music-12
+  90. file://localhost/wiki/Motoaki_Takenouchi
+  91. file://localhost/wiki/Electronic_keyboard
+  92. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=5
+  93. file://localhost/wiki/GamePro
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GamePro-13
+  95. file://localhost/wiki/Nintendo_Power
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NP-7
+  97. file://localhost/wiki/Game_Rankings
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GameRankings-14
+  99. file://localhost/wiki/GamePro
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GamePro-13
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GamePro-13
+ 102. file://localhost/wiki/Nintendo_Power
+ 103. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NP-7
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NP-7
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-NP2-15
+ 106. file://localhost/wiki/Super_Play
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-SuperPlay-16
+ 108. file://localhost/wiki/Video_Game_Bible
+ 109. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-vgbible-17
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-18
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-19
+ 112. file://localhost/wiki/IGN
+ 113. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-IGN-20
+ 114. file://localhost/wiki/Spore_(2008_video_game)
+ 115. file://localhost/wiki/Maxis
+ 116. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-IGN-20
+ 117. file://localhost/wiki/Game_Rankings
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-GameRankings-14
+ 119. file://localhost/wiki/Philip_M._Parker
+ 120. file://localhost/wiki/INSEAD
+ 121. file://localhost/wiki/Webster%27s_Dictionary
+ 122. file://localhost/wiki/Crystal
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-websters-21
+ 124. file://localhost/wiki/Evo_(board_game)
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_note-websters-21
+ 126. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=6
+ 127. file://localhost/wiki/Spore_(2008_video_game)
+ 128. file://localhost/wiki/Evolution:_The_Game_of_Intelligent_Life
+ 129. file://localhost/wiki/L.O.L.:_Lack_of_Love
+ 130. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=7
+ 131. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NPGuide2_0-0
+ 132. file://localhost/wiki/Nintendo_Power
+ 133. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NPGuide_1-0
+ 134. file://localhost/wiki/Nintendo_Power
+ 135. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NPGuide3_2-0
+ 136. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NPGuide3_2-1
+ 137. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NPGuide3_2-2
+ 138. file://localhost/wiki/Nintendo_Power
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Manual_3-0
+ 140. file://localhost/wiki/Enix
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Manual9_4-0
+ 142. file://localhost/wiki/Enix
+ 143. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Manual10_5-0
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Manual10_5-1
+ 145. file://localhost/wiki/Enix
+ 146. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Yoneda_6-0
+ 147. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Yoneda_6-1
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Yoneda_6-2
+ 149. http://www008.upp.so-net.ne.jp/yonegon/game.htm#46pc
+ 150. http://www008.upp.so-net.ne.jp/yonegon/game.htm#46pc
+ 151. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NP_7-0
+ 152. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NP_7-1
+ 153. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NP_7-2
+ 154. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NP_7-3
+ 155. file://localhost/wiki/Nintendo_Power
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-contest_8-0
+ 157. file://localhost/wiki/Electronic_Gaming_Monthly
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Sugi_9-0
+ 159. http://sugimania.com/sakuhin.html
+ 160. http://sugimania.com/sakuhin.html
+ 161. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GMC_10-0
+ 162. http://chudahs-corner.com/soundtracks/index.php?catalog=WPCL-709
+ 163. http://chudahs-corner.com/soundtracks/index.php?catalog=WPCL-709
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GMC2_11-0
+ 165. http://www.rpgfan.com/soundtracks/ogc2/index.html
+ 166. file://localhost/wiki/RPGFan
+ 167. http://www.rpgfan.com/soundtracks/ogc2/index.html
+ 168. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-Music_12-0
+ 169. http://chudahs-corner.com/soundtracks/index.php?catalog=APCG-4030
+ 170. http://chudahs-corner.com/soundtracks/index.php?catalog=APCG-4030
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GamePro_13-0
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GamePro_13-1
+ 173. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GamePro_13-2
+ 174. file://localhost/wiki/GamePro
+ 175. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GameRankings_14-0
+ 176. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-GameRankings_14-1
+ 177. http://www.gamerankings.com/htmlpages2/588313.asp
+ 178. file://localhost/wiki/Game_Rankings
+ 179. http://www.gamerankings.com/htmlpages2/588313.asp
+ 180. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-NP2_15-0
+ 181. file://localhost/wiki/Nintendo_Power
+ 182. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-SuperPlay_16-0
+ 183. file://localhost/wiki/Super_Play
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-vgbible_17-0
+ 185. http://books.google.com/books?id=oShzmF1Pxc4C&pg=PA148&vq=EVO:+The+Search+for+Eden&source=gbs_search_s&cad=0#PPA150,M1
+ 186. file://localhost/wiki/Trafford_Publishing
+ 187. file://localhost/wiki/Special:BookSources/1412249023
+ 188. http://books.google.com/books?id=oShzmF1Pxc4C&pg=PA148&vq=EVO:+The+Search+for+Eden&source=gbs_search_s&cad=0#PPA150,M1
+ 189. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-18
+ 190. http://www.freeinfosociety.com/site.php?postnum=575
+ 191. http://www.freeinfosociety.com/site.php?postnum=575
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-19
+ 193. http://www.allrpg.com/games/evo/index.php3?page=review&num=1
+ 194. http://www.allrpg.com/games/evo/index.php3?page=review&num=1
+ 195. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-IGN_20-0
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-IGN_20-1
+ 197. http://xbox.ign.com/articles/768/768679p2.html
+ 198. file://localhost/wiki/IGN
+ 199. http://xbox.ign.com/articles/768/768679p2.html
+ 200. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-websters_21-0
+ 201. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc675.tmp.html#cite_ref-websters_21-1
+ 202. file://localhost/wiki/Philip_M._Parker
+ 203. http://books.google.com/books?id=rVFZjIb5RJsC&pg=PA208&dq=EVO+%22Search+for+Eden%22&ei=jPuVSeGqBYHmyATz38TzCQ#PPA208,M1
+ 204. file://localhost/wiki/Special:BookSources/1412249023
+ 205. http://books.google.com/books?id=rVFZjIb5RJsC&pg=PA208&dq=EVO+%22Search+for+Eden%22&ei=jPuVSeGqBYHmyATz38TzCQ#PPA208,M1
+ 206. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit&section=8
+ 207. http://www.square-enix.com/jp/archive/46okunen/
+ 208. http://www.mobygames.com/game/e-v-o-search-for-eden
+ 209. file://localhost/wiki/MobyGames
+ 210. http://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden
+ 211. file://localhost/wiki/Special:Categories
+ 212. file://localhost/wiki/Category:1992_video_games
+ 213. file://localhost/wiki/Category:Action_role-playing_video_games
+ 214. file://localhost/wiki/Category:Biological_simulation_video_games
+ 215. file://localhost/wiki/Category:Dinosaurs_in_fiction
+ 216. file://localhost/wiki/Category:Enix_games
+ 217. file://localhost/wiki/Category:Evolution_in_popular_culture
+ 218. file://localhost/wiki/Category:Prehistoric_life_in_popular_culture
+ 219. file://localhost/wiki/Category:Super_NES_games
+ 220. file://localhost/wiki/Category:Super_NES-only_games
+ 221. file://localhost/wiki/Category:Articles_containing_Japanese_language_text
+ 222. file://localhost/wiki/E.V.O.:_Search_for_Eden
+ 223. file://localhost/wiki/Talk:E.V.O.:_Search_for_Eden
+ 224. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=edit
+ 225. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&action=history
+ 226. file://localhost/w/index.php?title=Special:UserLogin&returnto=E.V.O.:_Search_for_Eden
+ 227. file://localhost/wiki/Main_Page
+ 228. file://localhost/wiki/Portal:Contents
+ 229. file://localhost/wiki/Portal:Featured_content
+ 230. file://localhost/wiki/Portal:Current_events
+ 231. file://localhost/wiki/Special:Random
+ 232. file://localhost/wiki/Wikipedia:About
+ 233. file://localhost/wiki/Wikipedia:Community_portal
+ 234. file://localhost/wiki/Special:RecentChanges
+ 235. file://localhost/wiki/Wikipedia:Contact_us
+ 236. http://wikimediafoundation.org/wiki/Donate
+ 237. file://localhost/wiki/Help:Contents
+ 238. file://localhost/wiki/Special:WhatLinksHere/E.V.O.:_Search_for_Eden
+ 239. file://localhost/wiki/Special:RecentChangesLinked/E.V.O.:_Search_for_Eden
+ 240. file://localhost/wiki/Wikipedia:Upload
+ 241. file://localhost/wiki/Special:SpecialPages
+ 242. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&printable=yes
+ 243. file://localhost/w/index.php?title=E.V.O.:_Search_for_Eden&oldid=273505491
+ 244. file://localhost/w/index.php?title=Special:Cite&page=E.V.O.:_Search_for_Eden&id=273505491
+ 245. http://es.wikipedia.org/wiki/E.V.O.:_The_Search_For_Eden
+ 246. http://fr.wikipedia.org/wiki/EVO:_Search_for_Eden
+ 247. http://pt.wikipedia.org/wiki/E.V.O.:_Search_for_Eden
+ 248. http://www.mediawiki.org/
+ 249. http://wikimediafoundation.org/
+ 250. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 251. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 252. http://www.wikimediafoundation.org/
+ 253. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 254. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 255. http://en.wikipedia.org/wiki/Non-profit_organization
+ 256. http://en.wikipedia.org/wiki/Charitable_organization
+ 257. http://wikimediafoundation.org/wiki/Privacy_policy
+ 258. file://localhost/wiki/Wikipedia:About
+ 259. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 260. file://localhost/wiki/File:E.V.O._-_Search_for_Eden_Coverart.png
+ 261. file://localhost/wiki/File:Evoscreen.png
+ 262. file://localhost/wiki/File:Evoscreen.png
+ 263. file://localhost/wiki/File:Exploring_An_Asteroid_In_EVO.jpg
+ 264. file://localhost/wiki/File:Exploring_An_Asteroid_In_EVO.jpg
+ 265. file://localhost/wiki/File:46okunenscreen.png
+ 266. file://localhost/wiki/File:46okunenscreen.png
+ 267. file://localhost/wiki/Main_Page
+ 268. http://ja.wikipedia.org/wiki/46%E5%84%84%E5%B9%B4%E7%89%A9%E8%AA%9E

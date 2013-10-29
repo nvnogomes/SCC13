@@ -1,0 +1,213 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Double-chance function
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double chance functions)
+   Jump to: [7]navigation, [8]search
+   This article is [9]orphaned as few or no other articles [10]link to it.
+   Please help [11]introduce links to this subject in articles on
+   [12]topics related to it. (February 2009)
+
+   In [13]software engineering, a double-chance function is a software
+   [14]design pattern with a strong application in [15]cross-platform and
+   scalable development. It is easiest to explain it with an example.
+
+   Consider a graphics [16]API with functions to DrawPoint, DrawLine, and
+   DrawSquare. It is easy to see that DrawLine can be implemented solely
+   in terms of DrawPoint, and DrawSquare can in turn be implemented
+   through four calls to DrawLine. If you were porting this API to a new
+   architecture you would have a choice: implement three different
+   functions natively (taking more time, but ultimately providing a better
+   solution), or write DrawPoint natively, and implement the others as
+   described above using common, cross-platform, code.
+
+   The double-chance function is an optimal method of creating such an
+   implementation, whereby the first draft of the port can use the "fast
+   to market, slow to run" version with a common DrawPoint function, while
+   later versions can be modified as "slow to market, fast to run". Where
+   the double-chance pattern scores high is that the base API includes the
+   self-supporting implementation given here as part of the null driver,
+   and all other implementations are extensions of this. Consequently the
+   first port is, in fact, the first usable implementation.
+
+   One typical implementation in [17]C++ could be:
+class CBaseGfxAPI {
+    virtual void DrawPoint(int x, int y) = 0; /* Abstract concept for the null d
+river */
+    virtual void DrawLine(int x1, int y1, int x2, int y2) { /* DrawPoint() repea
+ted */}
+    virtual void DrawSquare(int x1, int y1, int x2, int y2) { /* DrawLine() repe
+ated */}
+};
+
+class COriginalGfxAPI : public CBaseGfxAPI {
+    virtual void DrawPoint(int x, int y) { /* The only necessary native calls */
+ }
+    virtual void DrawLine(int x1, int y1, int x2, int y2) { /* If this function
+exists a native DrawLine
+                                                               routine will be u
+sed. Otherwise the base
+                                                               implementation is
+ run. */}
+};
+
+class CNewGfxAPI : public CBaseGfxAPI {
+    virtual void DrawPoint(int x, int y) { /* The only necessary for native call
+s */ }
+};
+
+   Note that the CBaseGfxAPI::DrawPoint function is never used, per se, as
+   any graphics call goes through one of its derived classes. So a call to
+   CNewGfxAPI::DrawSquare would have its first chance to render a square
+   by the CNewGfxAPI class. If no native implementation exists, then the
+   base class is called, at which point the [18]virtualization takes over
+   and means that CNewGfxAPI::DrawLine is called. This gives the
+   CNewGfxAPI class a second chance to use [19]native code, if any is
+   available.
+
+   With this method it is, theoretically, possible to build an entire 3D
+   engine (applying [20]software rasterizing) using only one native
+   function in the form of DrawPoint, with other functions being
+   implemented as and when time permits. In practise this would be
+   hopelessly slow, but it does demonstrate the possibilities for
+   double-chance functions.
+
+[[21]edit] References
+
+     * Goodwin, Steven (2005). Cross-Platform Game Programming. Charles
+       River Media. [22]ISBN 1-58450-379-3.
+
+   Retrieved from
+   "[23]http://en.wikipedia.org/wiki/Double-chance_function"
+   [24]Categories: [25]Software design patterns | [26]Articles with
+   example C++ code
+   Hidden categories: [27]Orphaned articles from February 2009 | [28]All
+   orphaned articles
+
+Views
+
+     * [29]Article
+     * [30]Discussion
+     * [31]Edit this page
+     * [32]History
+
+Personal tools
+
+     * [33]Log in / create account
+
+Navigation
+
+     * [34]Main page
+     * [35]Contents
+     * [36]Featured content
+     * [37]Current events
+     * [38]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [39]About Wikipedia
+     * [40]Community portal
+     * [41]Recent changes
+     * [42]Contact Wikipedia
+     * [43]Donate to Wikipedia
+     * [44]Help
+
+Toolbox
+
+     * [45]What links here
+     * [46]Related changes
+     * [47]Upload file
+     * [48]Special pages
+     * [49]Printable version
+     * [50]Permanent link
+     * [51]Cite this page
+
+   [52]Powered by MediaWiki
+   [53]Wikimedia Foundation
+     * This page was last modified on 14 February 2009, at 10:03.
+     * All text is available under the terms of the [54]GNU Free
+       Documentation License. (See [55]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [56]Wikimedia
+       Foundation, Inc., a U.S. registered [57]501(c)(3)
+       [58]tax-deductible [59]nonprofit [60]charity.
+     * [61]Privacy policy
+     * [62]About Wikipedia
+     * [63]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Double-chance_function&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double_chance_functions&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc270.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc270.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Orphan
+  10. http://en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&target=Double-chance_function&namespace=0
+  11. file://localhost/wiki/Help:Link
+  12. http://www.google.com/search?hl=en&as_qdr=all&q=+site%3Aen.wikipedia.org+%22Double-chance+function%22
+  13. file://localhost/wiki/Software_engineering
+  14. file://localhost/wiki/Software_pattern
+  15. file://localhost/wiki/Cross-platform
+  16. file://localhost/wiki/Application_programming_interface
+  17. file://localhost/wiki/C%2B%2B
+  18. file://localhost/wiki/Virtual_function
+  19. file://localhost/wiki/Native_code
+  20. file://localhost/wiki/Software
+  21. file://localhost/w/index.php?title=Double-chance_function&action=edit&section=1
+  22. file://localhost/wiki/Special:BookSources/1584503793
+  23. http://en.wikipedia.org/wiki/Double-chance_function
+  24. file://localhost/wiki/Special:Categories
+  25. file://localhost/wiki/Category:Software_design_patterns
+  26. file://localhost/wiki/Category:Articles_with_example_C%2B%2B_code
+  27. file://localhost/wiki/Category:Orphaned_articles_from_February_2009
+  28. file://localhost/wiki/Category:All_orphaned_articles
+  29. file://localhost/wiki/Double-chance_function
+  30. file://localhost/w/index.php?title=Talk:Double-chance_function&action=edit&redlink=1
+  31. file://localhost/w/index.php?title=Double-chance_function&action=edit
+  32. file://localhost/w/index.php?title=Double-chance_function&action=history
+  33. file://localhost/w/index.php?title=Special:UserLogin&returnto=Double-chance_function
+  34. file://localhost/wiki/Main_Page
+  35. file://localhost/wiki/Portal:Contents
+  36. file://localhost/wiki/Portal:Featured_content
+  37. file://localhost/wiki/Portal:Current_events
+  38. file://localhost/wiki/Special:Random
+  39. file://localhost/wiki/Wikipedia:About
+  40. file://localhost/wiki/Wikipedia:Community_portal
+  41. file://localhost/wiki/Special:RecentChanges
+  42. file://localhost/wiki/Wikipedia:Contact_us
+  43. http://wikimediafoundation.org/wiki/Donate
+  44. file://localhost/wiki/Help:Contents
+  45. file://localhost/wiki/Special:WhatLinksHere/Double-chance_function
+  46. file://localhost/wiki/Special:RecentChangesLinked/Double-chance_function
+  47. file://localhost/wiki/Wikipedia:Upload
+  48. file://localhost/wiki/Special:SpecialPages
+  49. file://localhost/w/index.php?title=Double-chance_function&printable=yes
+  50. file://localhost/w/index.php?title=Double-chance_function&oldid=270635612
+  51. file://localhost/w/index.php?title=Special:Cite&page=Double-chance_function&id=270635612
+  52. http://www.mediawiki.org/
+  53. http://wikimediafoundation.org/
+  54. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  55. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  56. http://www.wikimediafoundation.org/
+  57. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  58. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  59. http://en.wikipedia.org/wiki/Non-profit_organization
+  60. http://en.wikipedia.org/wiki/Charitable_organization
+  61. http://wikimediafoundation.org/wiki/Privacy_policy
+  62. file://localhost/wiki/Wikipedia:About
+  63. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  64. file://localhost/wiki/File:Wiki_letter_w.svg
+  65. file://localhost/wiki/Main_Page

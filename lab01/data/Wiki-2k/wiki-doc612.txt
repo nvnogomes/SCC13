@@ -1,0 +1,753 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Glutamate transporter
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EAAT5)
+   Jump to: [7]navigation, [8]search
+
+   Excitatory Amino Acid Transporters (EAAT), formerly known as Glutamate
+   transporters, belong to the family of [9]neurotransmitter transporters.
+   They serve to terminate the excitatory neurotransmitter signal by
+   removal (uptake) of [10]glutamate from the neuronal [11]synapse into
+   [12]Glia cells.
+
+   In details, the EAATs are membrane-bound pumps that resemble [13]ion
+   channels.^[14][1] These transporters play the important role of
+   regulating concentrations of glutamate in the [15]extracellular space,
+   keeping it at low levels.^[16][2] After glutamate is released as the
+   result of an [17]action potential, glutamate transporters quickly
+   remove it from the extracellular space to keep its levels low, thereby
+   terminating the synaptic transmission.^[18][1]^[19][3]
+
+   Without the activity of glutamate transporters, glutamate would build
+   up and kill cells in a process called [20]excitotoxicity, in which
+   excessive amounts of glutamate acts as a toxin to neurons by triggering
+   a number of [21]biochemical cascades. The activity of glutamate
+   transporters also allows glutamate to be recycled for repeated
+   release.^[22][4]
+
+   Glutamate transporters are also present in many other tissues such as
+   bone and [23]testes.
+
+Contents
+
+     * [24]1 Classes
+          + [25]1.1 EAATs
+          + [26]1.2 VGluTs
+     * [27]2 Pathology
+     * [28]3 See also
+     * [29]4 References
+     * [30]5 External links
+
+[[31]edit] Classes
+
+   There are two classes of glutamate transporters, those that are
+   dependent on an [32]electrochemical gradient of [33]sodium ions (the
+   EAATs) and those that are not (VGluTs).^[34][5] Some sodium independent
+   transporters such as the cystein-glutamate antiporter are localised to
+   plasma membrane of cells whilst others the are called vesicular
+   transporters. Na^+-dependent transporters are actually also dependent
+   on K^+ concentrations, and so are also known as 'sodium and potassium
+   coupled glutamate transporters' or, in humans, 'excitatory amino acid
+   transporters' (EAATs).^[35][6] Some Na^+-dependent transporters have
+   also been called 'high-affinity transporters', though their glutamate
+   affinity actually varies widely.^[36][6]
+
+   [37]mitochondria also possess mechanisms for taking up glutamate that
+   are quite distinct from membrane glutamate transporters.^[38][6]
+
+[[39]edit] EAATs
+
+   In humans (as well as in rodents), five subtypes have been identified
+   and named EAAT1-5 ([40]SLC1A3, [41]SLC1A2, [42]SLC1A1, [43]SLC1A6,
+   [44]SLC1A7). Subtypes EAAT1-3 are found in membranes of glial cells
+   ([45]astrocytes, [46]microglia, and [47]oligodendrocytes) as well as in
+   [48]endothelial cells, whereas EAAT4 is located on neurons.^[49][5].
+   Finally, EAAT5 is only found in the retina where it is principally
+   localised to photoreceptors and bipolar neurons in the retina.^[50][7].
+   In rodents, the [51]orthologs for EAAT1-3 are named [52]GLAST, GLT1,
+   and EAAC1, respectively^[53][3], whereas the acronyms EAAT4 and EAAT5
+   are conserved.
+
+   When glutamate is taken up into Glia cells by the EAATs, it is not
+   reused directly but converted to glutamine and stored vesicles.
+   Subsequently these vesicle are released from Glia cells and glutamine
+   transported back into the presynaptic neuron, converted back into
+   glutamate, and store into vesicles by action of the
+   VGLUTs.^[54][8]^[55][3] This process is named the
+   [56]glutamate-glutamine cycle.
+
+   The Glia transporters - in particularly the various splice variants of
+   GLT-1 (EAAT2) - play the largest role (90%) in regulating extracellular
+   glutamate concentration.^[57][9]
+
+[[58]edit] VGluTs
+
+   three types of vesicular glutamate transporters, VGLUTs 13.
+   ([59]SLC17A7, [60]SLC17A6, [61]SLC17A8)^[62][3] In addition to these
+   transportersVesicular glutamate transporters pack the neurotransmitter
+   into [63]synaptic vesicles so that they can be released into the
+   synapse. VGLUTs are dependent on a [64]proton gradient that they create
+   by hydrolysing [65]adenosine triphosphate (ATP). VGLUTs have only
+   between one hundredth and one thousandth the affinity for glutamate
+   that EAATs have.^[66][3] Also unlike EAATs, they do not appear to
+   transport aspartate.
+
+[[67]edit] Pathology
+
+   Overactivity of glutamate transporters may result in inadequate
+   synaptic glutamate and may be involved in [68]schizophrenia and other
+   mental illnesses.^[69][1]
+
+   During injury processes such as [70]ischemia and [71]traumatic brain
+   injury, the action of glutamate transporters may fail, leading to toxic
+   buildup of glutamate. In fact, their activity may also actually be
+   reversed due to inadequate amounts of [72]adenosine triphosphate to
+   power [73]ATPase pumps, resulting in the loss of the
+   [74]electrochemical ion gradient. Since the direction of glutamate
+   transport depends on the ion gradient, these transporters release
+   glutamate instead of removing it, which results in neurotoxicity due to
+   overactivation of [75]glutamate receptors.^[76][10]
+
+   Loss of the Na^+-dependent glutamate transporter EAAT2 is suspected to
+   be associated with [77]neurodegenerative diseases such as
+   [78]Alzheimer's disease, [79]Huntington's disease, and
+   [80]ALSparkinsonism dementia complex.^[81][11] Also, degeneration of
+   [82]motor neurons in the disease [83]amyotrophic lateral sclerosis has
+   been linked to loss of EAAT2 from patients' [84]brains and [85]spinal
+   cords.^[86][11]
+
+[[87]edit] See also
+
+     * [88]Dopamine transporters
+     * [89]Norepinephrine transporters
+     * [90]Serotonin transporters
+     * [91]NMDA receptors
+     * [92]AMPA receptors
+     * [93]Kainate receptors
+     * [94]Metabotropic glutamate receptors
+
+[[95]edit] References
+
+    1. ^ [96]^a [97]^b [98]^c Ganel R, Rothstein JD (1999). "Chapter 15,
+       Glutamate transporter dysfunction and neuronal death". in Monyer,
+       Hannah; Gabriel A. Adelmann; Jonas, Peter. Ionotropic glutamate
+       receptors in the CNS. Berlin: Springer. pp. 472493. [99]ISBN
+       3-540-66120-4.
+    2. [100]^ Han BC, Koh SB, Lee EY, Seong YH (2004). "Regional
+       difference of glutamate-induced swelling in cultured rat brain
+       astrocytes". Life Sci. 76 (5): 57383.
+       [101]doi:[102]10.1016/j.lfs.2004.07.016. [103]PMID 15556169.
+    3. ^ [104]^a [105]^b [106]^c [107]^d [108]^e Shigeri Y, Seal RP,
+       Shimamoto K (2004). "Molecular pharmacology of glutamate
+       transporters, EAATs and VGLUTs". Brain Res. Brain Res. Rev. 45 (3):
+       25065. [109]doi:[110]10.1016/j.brainresrev.2004.04.004. [111]PMID
+       15210307.
+    4. [112]^ Zou JY, Crews FT (2005). "TNF alpha potentiates glutamate
+       neurotoxicity by inhibiting glutamate uptake in organotypic brain
+       slice cultures: neuroprotection by NF kappa B inhibition". Brain
+       Res. 1034 (1-2): 1124.
+       [113]doi:[114]10.1016/j.brainres.2004.11.014. [115]PMID 15713255.
+    5. ^ [116]^a [117]^b Anderson CM, Swanson RA (2000). "Astrocyte
+       glutamate transport: review of properties, regulation, and
+       physiological functions". Glia 32 (1): 114.
+       [118]doi:[119]10.1002/1098-1136(200010)32:1. [120]PMID 10975906.
+    6. ^ [121]^a [122]^b [123]^c Danbolt NC (2001). "Glutamate uptake".
+       Prog. Neurobiol. 65 (1): 1105.
+       [124]doi:[125]10.1016/S0301-0082(00)00067-8. [126]PMID 11369436.
+    7. [127]^ Pow DV, Barnett NL (2000). "Developmental expression of
+       excitatory amino acid transporter 5: a photoreceptor and bipolar
+       cell glutamate transporter in rat retina". Neurosci. Lett. 280 (1):
+       214. [128]doi:[129]10.1016/S0304-3940(99)00988-X. [130]PMID
+       10696802.
+    8. [131]^ Pow DV, Robinson SR (1994). "Glutamate in some retinal
+       neurons is derived solely from glia". Neuroscience 60 (2): 35566.
+       [132]doi:[133]10.1016/0306-4522(94)90249-6. [134]PMID 7915410.
+    9. [135]^ Shachnai L, Shimamoto K, Kanner BI (2005). "Sulfhydryl
+       modification of cysteine mutants of a neuronal glutamate
+       transporter reveals an inverse relationship between sodium
+       dependent conformational changes and the glutamate-gated anion
+       conductance". Neuropharmacology 49 (6): 86271.
+       [136]doi:[137]10.1016/j.neuropharm.2005.07.005. [138]PMID
+       16137722.
+   10. [139]^ Kim AH, Kerchner GA, Choi DW (2002). "Chapter 1, Blocking
+       Excitotoxicity". in Marcoux, Frank W.. CNS neuroprotection. Berlin:
+       Springer. pp. 336. [140]ISBN 3-540-42412-1.
+   11. ^ [141]^a [142]^b Yi JH, Hazell AS (2006). "Excitotoxic mechanisms
+       and the role of astrocytic glutamate transporters in traumatic
+       brain injury". Neurochem. Int. 48 (5): 394403.
+       [143]doi:[144]10.1016/j.neuint.2005.12.001. [145]PMID 16473439.
+
+[[146]edit] External links
+
+     * [147]MeSH [148]Glutamate+Transporter
+
+   [149]v  [150]d  [151]e
+   [152]Membrane transport protein: [153]neurotransmitter transporters
+   Vesicular
+   [154]Vesicular monoamine ([155]VMAT1, [156]VMAT2) - [157]Vesicular
+   acetylcholine
+   Other
+   Glutamate - [158]Monoamine ([159]DAT, [160]NET, [161]SERT)
+   [162]v  [163]d  [164]e
+   [165]Membrane proteins, [166]carrier proteins: [167]membrane transport
+   proteins
+   [168]ABC-transporter
+   [169]A1  [170]A2  [171]A3  [172]A4  [173]A7  [174]A8  [175]A12
+
+   [176]B1  [177]B2-3  [178]B2  [179]B3  [180]B4  [181]B5  [182]B6
+   [183]B7  [184]B9  [185]B11
+
+   [186]C1  [187]C2  [188]C3  [189]C4  [190]C5  [191]C6  [192]C8-9
+   ([193]C8, [194]C9)  [195]C10  [196]C13  [197]C11
+
+   [198]D1  [199]D2  [200]D3  [201]D4  [202]E1  [203]F1  [204]F2
+   [205]G1  [206]G2  [207]G4  [208]Sterolin ([209]G5  [210]G8)
+   [211]Solute carrier
+   1-10
+   1A1-7  [212]1A1  [213]1A2  [214]1A3  [215]1A4  [216]1A5
+
+   [217]Glucose transporter: [218]2A1 (GLUT1)  [219]2A2 (GLUT2)  [220]2A3
+   (GLUT3)  [221]2A4 (GLUT4)  [222]2A5 (GLUT5)  [223]2A6 (SLC2A6)
+   [224]2A8 (GLUT8)  [225]2A9  [226]2A10  [227]2A12
+   [228]3A1  [229]3A2  [230]4A1  [231]4A2  [232]4A3  [233]4A4  [234]4A5
+   [235]4A7  [236]4A8  [237]4A11  [238]5A1-2  [239]5A1  [240]5A3
+   [241]5A5  [242]5A8  [243]6A1  [244]6A2  [245]6A3  [246]6A4  [247]6A5
+   [248]6A8  [249]6A9  [250]6A19  [251]7A1  [252]7A2  [253]7A3  [254]7A4
+   [255]7A5  [256]7A7  [257]7A8  [258]7A9  [259]7A11  [260]8A1-3
+   [261]9A1  [262]9A2  [263]9A3  [264]9A3R1  [265]9A3R2  [266]9A5
+   [267]9A6  [268]9A8  [269]10A1  [270]10A2  [271]10A3  [272]10A7
+   11-20
+   [273]11A1  [274]11A2  [275]11A3  [276]12A1-2  [277]12A3  [278]12A4
+   [279]12A5  [280]12A6  [281]12A7  [282]14A1  [283]13A3  [284]14A2
+   [285]15A1  [286]15A2  [287]16A1  [288]16A2  [289]16A3  [290]16A4
+   [291]17A1  [292]17A5  17A6-8  [293]17A7  [294]18A1  [295]18A2
+   [296]18A3  [297]19A1  [298]19A2  [299]19A3  [300]20A1  [301]20A2
+   21-30
+   [302]22A1  [303]22A2  [304]22A3  [305]22A4  [306]22A5  [307]22A6
+   [308]22A7  [309]22A9  [310]22A11  [311]22A12  [312]22A18  [313]23A1
+   [314]23A2  [315]24A1-2  [316]24A5  [317]25A1  [318]25A3  [319]25A4-6
+   ([320]25A4, [321]25A6), [322]25A8  [323]25A10  [324]25A11  [325]25A12
+   [326]25A13  [327]25A14  [328]25A15  [329]25A17  [330]25A19  [331]25A20
+   [332]25A27  [333]25A31  [334]25A37  [335]25A39  [336]26A2  [337]26A3
+   [338]26A4  [339]26A5  [340]26A6  [341]26A7  [342]26A8  [343]27A1
+   [344]27A2  [345]27A3  [346]27A4  [347]28A1  [348]28A2  [349]29A1
+   [350]29A2  [351]29A4  [352]30A1  [353]30A4  [354]30A7  [355]30A8
+   31-40
+   [356]31A1  [357]31A2  [358]32A1  [359]34A1  [360]34A2  [361]34A3
+   [362]35A1  [363]35A2  [364]35B2  [365]35B4  [366]35C1  [367]36A1
+   [368]37A4  [369]38A2  [370]38A3  [371]39A1  [372]39A2  [373]39A3
+   [374]39A4  [375]39A6  [376]39A7
+   41-45
+   [377]40A1  [378]43A1 [379]44A1  [380]44A2  [381]44A4  [382]45A2
+   O
+   [383]O1A2  [384]O1B1  [385]O1B3  [386]O2B1  [387]O431  [388]O4A1
+   Other
+   Amino acid ([389]CD98)  Fatty acid ([390]CD36)  [391]Ion channels
+   [392]Ion pumps  [393]Mitochondrial membrane transport protein
+   [394]Neurotransmitter transport proteins  Nuclear ([395]Importin
+   [396]Karyopherin)
+   Retrieved from
+   "[397]http://en.wikipedia.org/wiki/Glutamate_transporter"
+   [398]Categories: [399]Membrane biology | [400]Neurotransmitter
+   transporters | [401]Solute carrier family
+
+Views
+
+     * [402]Article
+     * [403]Discussion
+     * [404]Edit this page
+     * [405]History
+
+Personal tools
+
+     * [406]Log in / create account
+
+Navigation
+
+     * [407]Main page
+     * [408]Contents
+     * [409]Featured content
+     * [410]Current events
+     * [411]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [412]About Wikipedia
+     * [413]Community portal
+     * [414]Recent changes
+     * [415]Contact Wikipedia
+     * [416]Donate to Wikipedia
+     * [417]Help
+
+Toolbox
+
+     * [418]What links here
+     * [419]Related changes
+     * [420]Upload file
+     * [421]Special pages
+     * [422]Printable version
+     * [423]Permanent link
+     * [424]Cite this page
+
+   [425]Powered by MediaWiki
+   [426]Wikimedia Foundation
+     * This page was last modified on 14 December 2008, at 22:05.
+     * All text is available under the terms of the [427]GNU Free
+       Documentation License. (See [428]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [429]Wikimedia
+       Foundation, Inc., a U.S. registered [430]501(c)(3)
+       [431]tax-deductible [432]nonprofit [433]charity.
+     * [434]Privacy policy
+     * [435]About Wikipedia
+     * [436]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Glutamate_transporter&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EAAT5&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#searchInput
+   9. file://localhost/wiki/Neurotransmitter_transporter
+  10. file://localhost/wiki/Glutamic_acid
+  11. file://localhost/wiki/Synapse
+  12. file://localhost/wiki/Glia_cells
+  13. file://localhost/wiki/Ion_channel
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Ganel_and_Rothstein-0
+  15. file://localhost/wiki/Extracellular_space
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Han-1
+  17. file://localhost/wiki/Action_potential
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Ganel_and_Rothstein-0
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shigeri-2
+  20. file://localhost/wiki/Excitotoxicity
+  21. file://localhost/wiki/Biochemical_cascade
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Zou_and_Crews-3
+  23. file://localhost/wiki/Testicle
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#Classes
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#EAATs
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#VGluTs
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#Pathology
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#See_also
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#References
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#External_links
+  31. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=1
+  32. file://localhost/wiki/Electrochemical_gradient
+  33. file://localhost/wiki/Sodium
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Anderson_and_Swanson-4
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Danbolt-5
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Danbolt-5
+  37. file://localhost/wiki/Mitochondrion
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Danbolt-5
+  39. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=2
+  40. http://www.genenames.org/data/hgnc_data.php?match=SLC1A3
+  41. http://www.genenames.org/data/hgnc_data.php?match=SLC1A2
+  42. http://www.genenames.org/data/hgnc_data.php?match=SLC1A1
+  43. http://www.genenames.org/data/hgnc_data.php?match=SLC1A6
+  44. http://www.genenames.org/data/hgnc_data.php?match=SLC1A7
+  45. file://localhost/wiki/Astrocyte
+  46. file://localhost/wiki/Microglia
+  47. file://localhost/wiki/Oligodendrocyte
+  48. file://localhost/wiki/Endothelial_cell
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Anderson_and_Swanson-4
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Pow_and_Barnett-6
+  51. file://localhost/wiki/Orthologs
+  52. file://localhost/wiki/Glutamate_aspartate_transporter
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shigeri-2
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Pow-7
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shigeri-2
+  56. file://localhost/wiki/Glutamate-glutamine_cycle
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shachnai-8
+  58. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=3
+  59. http://www.genenames.org/data/hgnc_data.php?match=SLC17A7
+  60. http://www.genenames.org/data/hgnc_data.php?match=SLC17A6
+  61. http://www.genenames.org/data/hgnc_data.php?match=SLC17A8
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shigeri-2
+  63. file://localhost/wiki/Synaptic_vesicle
+  64. file://localhost/wiki/Proton
+  65. file://localhost/wiki/Adenosine_triphosphate
+  66. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Shigeri-2
+  67. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=4
+  68. file://localhost/wiki/Schizophrenia
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Ganel_and_Rothstein-0
+  70. file://localhost/wiki/Ischemia
+  71. file://localhost/wiki/Traumatic_brain_injury
+  72. file://localhost/wiki/Adenosine_triphosphate
+  73. file://localhost/wiki/ATPase
+  74. file://localhost/wiki/Electrochemical_gradient
+  75. file://localhost/wiki/Glutamate_receptor
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Kim-9
+  77. file://localhost/wiki/Neurodegenerative_disease
+  78. file://localhost/wiki/Alzheimer%27s_disease
+  79. file://localhost/wiki/Huntington%27s_disease
+  80. file://localhost/w/index.php?title=ALS%E2%80%93parkinsonism_dementia_complex&action=edit&redlink=1
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Yi_and_Hazell-10
+  82. file://localhost/wiki/Motor_neuron
+  83. file://localhost/wiki/Amyotrophic_lateral_sclerosis
+  84. file://localhost/wiki/Brain
+  85. file://localhost/wiki/Spinal_cord
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_note-Yi_and_Hazell-10
+  87. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=5
+  88. file://localhost/wiki/Dopamine_transporter
+  89. file://localhost/wiki/Norepinephrine_transporter
+  90. file://localhost/wiki/Serotonin_transporter
+  91. file://localhost/wiki/NMDA_receptor
+  92. file://localhost/wiki/AMPA_receptor
+  93. file://localhost/wiki/Kainate_receptor
+  94. file://localhost/wiki/Metabotropic_glutamate_receptor
+  95. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=6
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Ganel_and_Rothstein_0-0
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Ganel_and_Rothstein_0-1
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Ganel_and_Rothstein_0-2
+  99. file://localhost/wiki/Special:BookSources/3540661204
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Han_1-0
+ 101. file://localhost/wiki/Digital_object_identifier
+ 102. http://dx.doi.org/10.1016%2Fj.lfs.2004.07.016
+ 103. http://www.ncbi.nlm.nih.gov/pubmed/15556169
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shigeri_2-0
+ 105. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shigeri_2-1
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shigeri_2-2
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shigeri_2-3
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shigeri_2-4
+ 109. file://localhost/wiki/Digital_object_identifier
+ 110. http://dx.doi.org/10.1016%2Fj.brainresrev.2004.04.004
+ 111. http://www.ncbi.nlm.nih.gov/pubmed/15210307
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Zou_and_Crews_3-0
+ 113. file://localhost/wiki/Digital_object_identifier
+ 114. http://dx.doi.org/10.1016%2Fj.brainres.2004.11.014
+ 115. http://www.ncbi.nlm.nih.gov/pubmed/15713255
+ 116. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Anderson_and_Swanson_4-0
+ 117. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Anderson_and_Swanson_4-1
+ 118. file://localhost/wiki/Digital_object_identifier
+ 119. http://dx.doi.org/10.1002%2F1098-1136%28200010%2932%3A1
+ 120. http://www.ncbi.nlm.nih.gov/pubmed/10975906
+ 121. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Danbolt_5-0
+ 122. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Danbolt_5-1
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Danbolt_5-2
+ 124. file://localhost/wiki/Digital_object_identifier
+ 125. http://dx.doi.org/10.1016%2FS0301-0082%2800%2900067-8
+ 126. http://www.ncbi.nlm.nih.gov/pubmed/11369436
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Pow_and_Barnett_6-0
+ 128. file://localhost/wiki/Digital_object_identifier
+ 129. http://dx.doi.org/10.1016%2FS0304-3940%2899%2900988-X
+ 130. http://www.ncbi.nlm.nih.gov/pubmed/10696802
+ 131. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Pow_7-0
+ 132. file://localhost/wiki/Digital_object_identifier
+ 133. http://dx.doi.org/10.1016%2F0306-4522%2894%2990249-6
+ 134. http://www.ncbi.nlm.nih.gov/pubmed/7915410
+ 135. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Shachnai_8-0
+ 136. file://localhost/wiki/Digital_object_identifier
+ 137. http://dx.doi.org/10.1016%2Fj.neuropharm.2005.07.005
+ 138. http://www.ncbi.nlm.nih.gov/pubmed/16137722
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Kim_9-0
+ 140. file://localhost/wiki/Special:BookSources/3540424121
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Yi_and_Hazell_10-0
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc612.tmp.html#cite_ref-Yi_and_Hazell_10-1
+ 143. file://localhost/wiki/Digital_object_identifier
+ 144. http://dx.doi.org/10.1016%2Fj.neuint.2005.12.001
+ 145. http://www.ncbi.nlm.nih.gov/pubmed/16473439
+ 146. file://localhost/w/index.php?title=Glutamate_transporter&action=edit&section=7
+ 147. file://localhost/wiki/Medical_Subject_Headings
+ 148. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?mode=&term=Glutamate+Transporter
+ 149. file://localhost/wiki/Template:Neurotransmitter_transporters
+ 150. file://localhost/w/index.php?title=Template_talk:Neurotransmitter_transporters&action=edit&redlink=1
+ 151. http://en.wikipedia.org/w/index.php?title=Template:Neurotransmitter_transporters&action=edit
+ 152. file://localhost/wiki/Membrane_transport_protein
+ 153. file://localhost/wiki/Neurotransmitter_transporter
+ 154. file://localhost/wiki/Vesicular_monoamine_transporter
+ 155. file://localhost/wiki/VMAT1
+ 156. file://localhost/wiki/VMAT2
+ 157. file://localhost/wiki/Vesicular_acetylcholine_transporter
+ 158. file://localhost/wiki/Monoamine_transporter
+ 159. file://localhost/wiki/Dopamine_transporter
+ 160. file://localhost/wiki/Norepinephrine_transporter
+ 161. file://localhost/wiki/Serotonin_transporter
+ 162. file://localhost/wiki/Template:Membrane_transport_proteins
+ 163. file://localhost/w/index.php?title=Template_talk:Membrane_transport_proteins&action=edit&redlink=1
+ 164. http://en.wikipedia.org/w/index.php?title=Template:Membrane_transport_proteins&action=edit
+ 165. file://localhost/wiki/Membrane_protein
+ 166. file://localhost/wiki/Carrier_protein
+ 167. file://localhost/wiki/Membrane_transport_protein
+ 168. file://localhost/wiki/ATP-binding_cassette_transporter
+ 169. file://localhost/wiki/ABCA1
+ 170. file://localhost/wiki/ABCA2
+ 171. file://localhost/wiki/ABCA3
+ 172. file://localhost/wiki/ABCA4
+ 173. file://localhost/wiki/ABCA7
+ 174. file://localhost/wiki/ABCA8
+ 175. file://localhost/wiki/ABCA12
+ 176. file://localhost/wiki/P-glycoprotein
+ 177. file://localhost/wiki/Transporter_associated_with_antigen_processing
+ 178. file://localhost/wiki/TAP1
+ 179. file://localhost/wiki/TAP2
+ 180. file://localhost/wiki/ABCB4
+ 181. file://localhost/wiki/ABCB5
+ 182. file://localhost/wiki/ABCB6
+ 183. file://localhost/wiki/ABCB7
+ 184. file://localhost/wiki/ABCB9
+ 185. file://localhost/wiki/ABCB11
+ 186. file://localhost/wiki/ABCC1
+ 187. file://localhost/wiki/ABCC2
+ 188. file://localhost/wiki/ABCC3
+ 189. file://localhost/wiki/ABCC4
+ 190. file://localhost/wiki/ABCC5
+ 191. file://localhost/wiki/ABCC6
+ 192. file://localhost/wiki/Sulfonylurea_receptor
+ 193. file://localhost/wiki/ABCC8
+ 194. file://localhost/wiki/ABCC9
+ 195. file://localhost/wiki/ABCC10
+ 196. file://localhost/wiki/ABCC13
+ 197. file://localhost/wiki/ABCC11
+ 198. file://localhost/wiki/ABCD1
+ 199. file://localhost/wiki/ABCD2
+ 200. file://localhost/wiki/ABCD3
+ 201. file://localhost/wiki/ABCD4
+ 202. file://localhost/wiki/RLI
+ 203. file://localhost/wiki/ABCF1
+ 204. file://localhost/wiki/ABCF2
+ 205. file://localhost/wiki/ABCG1
+ 206. file://localhost/wiki/ABCG2
+ 207. file://localhost/wiki/ABCG4
+ 208. file://localhost/wiki/Sterolin
+ 209. file://localhost/wiki/ABCG5
+ 210. file://localhost/wiki/ABCG8
+ 211. file://localhost/wiki/Solute_carrier_family
+ 212. file://localhost/wiki/SLC1A1
+ 213. file://localhost/wiki/SLC1A2
+ 214. file://localhost/wiki/Glutamate_aspartate_transporter
+ 215. file://localhost/wiki/SLC1A4
+ 216. file://localhost/wiki/SLC1A5
+ 217. file://localhost/wiki/Glucose_transporter
+ 218. file://localhost/wiki/GLUT1
+ 219. file://localhost/wiki/GLUT2
+ 220. file://localhost/wiki/GLUT3
+ 221. file://localhost/wiki/GLUT4
+ 222. file://localhost/wiki/GLUT5
+ 223. file://localhost/wiki/SLC2A6
+ 224. file://localhost/wiki/GLUT8
+ 225. file://localhost/wiki/SLC2A9
+ 226. file://localhost/wiki/SLC2A10
+ 227. file://localhost/wiki/SLC2A12
+ 228. file://localhost/wiki/SLC3A1
+ 229. file://localhost/wiki/SLC3A2
+ 230. file://localhost/wiki/Band_3
+ 231. file://localhost/wiki/SLC4A2
+ 232. file://localhost/wiki/SLC4A3
+ 233. file://localhost/wiki/SLC4A4
+ 234. file://localhost/wiki/SLC4A5
+ 235. file://localhost/wiki/SLC4A7
+ 236. file://localhost/wiki/SLC4A8
+ 237. file://localhost/wiki/SLC4A11
+ 238. file://localhost/wiki/Sodium-glucose_transport_proteins
+ 239. file://localhost/wiki/SLC5A1
+ 240. file://localhost/wiki/SLC5A3
+ 241. file://localhost/wiki/Sodium-iodide_symporter
+ 242. file://localhost/wiki/SLC5A8
+ 243. file://localhost/wiki/SLC6A1
+ 244. file://localhost/wiki/Norepinephrine_transporter
+ 245. file://localhost/wiki/Dopamine_transporter
+ 246. file://localhost/wiki/Serotonin_transporter
+ 247. file://localhost/wiki/SLC6A5
+ 248. file://localhost/wiki/SLC6A8
+ 249. file://localhost/wiki/SLC6A9
+ 250. file://localhost/wiki/SLC6A19
+ 251. file://localhost/wiki/SLC7A1
+ 252. file://localhost/wiki/SLC7A2
+ 253. file://localhost/wiki/SLC7A3
+ 254. file://localhost/wiki/SLC7A4
+ 255. file://localhost/wiki/CD98
+ 256. file://localhost/wiki/SLC7A7
+ 257. file://localhost/wiki/SLC7A8
+ 258. file://localhost/wiki/SLC7A9
+ 259. file://localhost/wiki/SLC7A11
+ 260. file://localhost/wiki/Sodium-calcium_exchanger
+ 261. file://localhost/wiki/Sodium-hydrogen_antiporter_1
+ 262. file://localhost/wiki/SLC9A2
+ 263. file://localhost/wiki/Sodium-hydrogen_antiporter_3
+ 264. file://localhost/wiki/Sodium-hydrogen_antiporter_3_regulator_1
+ 265. file://localhost/wiki/Sodium-hydrogen_exchange_regulatory_cofactor_2
+ 266. file://localhost/wiki/SLC9A5
+ 267. file://localhost/wiki/SLC9A6
+ 268. file://localhost/wiki/SLC9A8
+ 269. file://localhost/wiki/SLC10A1
+ 270. file://localhost/wiki/SLC10A2
+ 271. file://localhost/wiki/SLC10A3
+ 272. file://localhost/wiki/SLC10A7
+ 273. file://localhost/wiki/SLC11A1
+ 274. file://localhost/wiki/DMT1
+ 275. file://localhost/wiki/Ferroportin
+ 276. file://localhost/wiki/Na-K-2Cl_symporter
+ 277. file://localhost/wiki/Sodium-chloride_symporter
+ 278. file://localhost/wiki/Chloride_potassium_symporter_4
+ 279. file://localhost/wiki/Chloride_potassium_symporter_5
+ 280. file://localhost/wiki/SLC12A6
+ 281. file://localhost/wiki/SLC12A7
+ 282. file://localhost/wiki/SLC14A1
+ 283. file://localhost/wiki/SLC13A3
+ 284. file://localhost/wiki/SLC14A2
+ 285. file://localhost/wiki/PepT_1
+ 286. file://localhost/wiki/SLC15A2
+ 287. file://localhost/wiki/SLC16A1
+ 288. file://localhost/wiki/SLC16A2
+ 289. file://localhost/wiki/SLC16A3
+ 290. file://localhost/wiki/SLC16A4
+ 291. file://localhost/wiki/SLC17A1
+ 292. file://localhost/wiki/SLC17A5
+ 293. file://localhost/wiki/SLC17A7
+ 294. file://localhost/wiki/VMAT1
+ 295. file://localhost/wiki/VMAT2
+ 296. file://localhost/wiki/Vesicular_acetylcholine_transporter
+ 297. file://localhost/wiki/SLC19A1
+ 298. file://localhost/wiki/SLC19A2
+ 299. file://localhost/wiki/SLC19A3
+ 300. file://localhost/wiki/SLC20A1
+ 301. file://localhost/wiki/SLC20A2
+ 302. file://localhost/wiki/SLC22A1
+ 303. file://localhost/wiki/SLC22A2
+ 304. file://localhost/wiki/SLC22A3
+ 305. file://localhost/wiki/SLC22A4
+ 306. file://localhost/wiki/SLC22A5
+ 307. file://localhost/wiki/SLC22A6
+ 308. file://localhost/wiki/SLC22A7
+ 309. file://localhost/wiki/SLC22A9
+ 310. file://localhost/wiki/SLC22A11
+ 311. file://localhost/wiki/SLC22A12
+ 312. file://localhost/wiki/SLC22A18
+ 313. file://localhost/wiki/SLC23A1
+ 314. file://localhost/wiki/SLC23A2
+ 315. file://localhost/wiki/Potassium-dependent_sodium-calcium_exchanger
+ 316. file://localhost/wiki/SLC24A5
+ 317. file://localhost/wiki/SLC25A1
+ 318. file://localhost/wiki/SLC25A3
+ 319. file://localhost/wiki/Adenine_nucleotide_translocator
+ 320. file://localhost/wiki/SLC25A4
+ 321. file://localhost/wiki/SLC25A6
+ 322. file://localhost/wiki/UCP2
+ 323. file://localhost/wiki/SLC25A10
+ 324. file://localhost/wiki/SLC25A11
+ 325. file://localhost/wiki/SLC25A12
+ 326. file://localhost/wiki/Citrin
+ 327. file://localhost/wiki/SLC25A14
+ 328. file://localhost/wiki/Ornithine_translocase
+ 329. file://localhost/wiki/SLC25A17
+ 330. file://localhost/wiki/SLC25A19
+ 331. file://localhost/wiki/Carnitine-acylcarnitine_translocase
+ 332. file://localhost/wiki/SLC25A27
+ 333. file://localhost/wiki/SLC25A31
+ 334. file://localhost/wiki/SLC25A37
+ 335. file://localhost/wiki/SLC25A39
+ 336. file://localhost/wiki/SLC26A2
+ 337. file://localhost/wiki/SLC26A3
+ 338. file://localhost/wiki/Pendrin
+ 339. file://localhost/wiki/SLC26A5
+ 340. file://localhost/wiki/SLC26A6
+ 341. file://localhost/wiki/SLC26A7
+ 342. file://localhost/wiki/SLC26A8
+ 343. file://localhost/wiki/SLC27A1
+ 344. file://localhost/wiki/SLC27A2
+ 345. file://localhost/wiki/SLC27A3
+ 346. file://localhost/wiki/SLC27A4
+ 347. file://localhost/wiki/SLC28A1
+ 348. file://localhost/wiki/SLC28A2
+ 349. file://localhost/wiki/SLC29A1
+ 350. file://localhost/wiki/SLC29A2
+ 351. file://localhost/wiki/SLC29A4
+ 352. file://localhost/wiki/SLC30A1
+ 353. file://localhost/wiki/SLC30A4
+ 354. file://localhost/wiki/SLC30A7
+ 355. file://localhost/wiki/SLC30A8
+ 356. file://localhost/wiki/SLC31A1
+ 357. file://localhost/wiki/SLC31A2
+ 358. file://localhost/wiki/SLC32A1
+ 359. file://localhost/wiki/Sodium/phosphate_cotransporter
+ 360. file://localhost/wiki/SLC34A2
+ 361. file://localhost/wiki/SLC34A3
+ 362. file://localhost/wiki/SLC35A1
+ 363. file://localhost/wiki/SLC35A2
+ 364. file://localhost/wiki/SLC35B2
+ 365. file://localhost/wiki/SLC35B4
+ 366. file://localhost/wiki/SLC35C1
+ 367. file://localhost/wiki/SLC36A1
+ 368. file://localhost/wiki/SLC37A4
+ 369. file://localhost/wiki/SLC38A2
+ 370. file://localhost/wiki/SLC38A3
+ 371. file://localhost/wiki/SLC39A1
+ 372. file://localhost/wiki/SLC39A2
+ 373. file://localhost/wiki/SLC39A3
+ 374. file://localhost/wiki/SLC39A4
+ 375. file://localhost/wiki/SLC39A6
+ 376. file://localhost/wiki/SLC39A7
+ 377. file://localhost/wiki/Ferroportin
+ 378. file://localhost/wiki/SLC43A1
+ 379. file://localhost/wiki/SLC44A1
+ 380. file://localhost/wiki/SLC44A2
+ 381. file://localhost/wiki/SLC44A4
+ 382. file://localhost/wiki/SLC45A2
+ 383. file://localhost/wiki/SLCO1A2
+ 384. file://localhost/wiki/SLCO1B1
+ 385. file://localhost/wiki/SLCO1B3
+ 386. file://localhost/wiki/SLCO2B1
+ 387. file://localhost/wiki/SLCO3A1
+ 388. file://localhost/wiki/SLCO4A1
+ 389. file://localhost/wiki/CD98
+ 390. file://localhost/wiki/CD36
+ 391. file://localhost/wiki/Ion_channel
+ 392. file://localhost/wiki/Ion_transporter
+ 393. file://localhost/wiki/Mitochondrial_membrane_transport_protein
+ 394. file://localhost/wiki/Neurotransmitter_transporter
+ 395. file://localhost/wiki/Importin
+ 396. file://localhost/wiki/Karyopherin
+ 397. http://en.wikipedia.org/wiki/Glutamate_transporter
+ 398. file://localhost/wiki/Special:Categories
+ 399. file://localhost/wiki/Category:Membrane_biology
+ 400. file://localhost/wiki/Category:Neurotransmitter_transporters
+ 401. file://localhost/wiki/Category:Solute_carrier_family
+ 402. file://localhost/wiki/Glutamate_transporter
+ 403. file://localhost/wiki/Talk:Glutamate_transporter
+ 404. file://localhost/w/index.php?title=Glutamate_transporter&action=edit
+ 405. file://localhost/w/index.php?title=Glutamate_transporter&action=history
+ 406. file://localhost/w/index.php?title=Special:UserLogin&returnto=Glutamate_transporter
+ 407. file://localhost/wiki/Main_Page
+ 408. file://localhost/wiki/Portal:Contents
+ 409. file://localhost/wiki/Portal:Featured_content
+ 410. file://localhost/wiki/Portal:Current_events
+ 411. file://localhost/wiki/Special:Random
+ 412. file://localhost/wiki/Wikipedia:About
+ 413. file://localhost/wiki/Wikipedia:Community_portal
+ 414. file://localhost/wiki/Special:RecentChanges
+ 415. file://localhost/wiki/Wikipedia:Contact_us
+ 416. http://wikimediafoundation.org/wiki/Donate
+ 417. file://localhost/wiki/Help:Contents
+ 418. file://localhost/wiki/Special:WhatLinksHere/Glutamate_transporter
+ 419. file://localhost/wiki/Special:RecentChangesLinked/Glutamate_transporter
+ 420. file://localhost/wiki/Wikipedia:Upload
+ 421. file://localhost/wiki/Special:SpecialPages
+ 422. file://localhost/w/index.php?title=Glutamate_transporter&printable=yes
+ 423. file://localhost/w/index.php?title=Glutamate_transporter&oldid=257986630
+ 424. file://localhost/w/index.php?title=Special:Cite&page=Glutamate_transporter&id=257986630
+ 425. http://www.mediawiki.org/
+ 426. http://wikimediafoundation.org/
+ 427. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 428. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 429. http://www.wikimediafoundation.org/
+ 430. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 431. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 432. http://en.wikipedia.org/wiki/Non-profit_organization
+ 433. http://en.wikipedia.org/wiki/Charitable_organization
+ 434. http://wikimediafoundation.org/wiki/Privacy_policy
+ 435. file://localhost/wiki/Wikipedia:About
+ 436. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 437. file://localhost/wiki/Main_Page

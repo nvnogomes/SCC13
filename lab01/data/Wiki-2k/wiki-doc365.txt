@@ -1,0 +1,1289 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dragon Ball Z: Budokai Tenkaichi (series)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dragon Ball Z: Budokai Tenkaichi 2)
+   Jump to: [7]navigation, [8]search
+
+          "BT3" redirects here. BT3 can also refer to [9]BackTrack 3.0.
+
+   The cover of the first Budokai Tenkaichi for PlayStation 2
+
+   The Dragon Ball Z: Budokai Tenkaichi series, originally published as
+   Dragon Ball Z: Sparking! (Z Sparking!, Doragon Bru Zetto
+   Supkingu!^[10]?) in [11]Japan, is a series of [12]fighting games based
+   on the [13]anime and [14]manga [15]Dragon Ball by [16]Akira Toriyama.
+   Each installment was developed by [17]Spike, while they were published
+   by [18]Namco Bandai in Japan and [19]Atari in all other countries.
+
+Contents
+
+     * [20]1 Origin of name
+     * [21]2 Localization differences
+     * [22]3 Gameplay
+     * [23]4 Game Modes
+     * [24]5 History
+          + [25]5.1 Dragon Ball Z: Budokai Tenkaichi
+          + [26]5.2 Dragon Ball Z: Budokai Tenkaichi 2
+          + [27]5.3 Dragon Ball Z: Budokai Tenkaichi 3
+     * [28]6 Reception
+     * [29]7 References
+     * [30]8 External links
+
+[[31]edit] Origin of name
+
+   The "Sparking!" in the Japanese title references both the first and
+   last word in the first opening theme to the [32]Dragon Ball Z [33]anime
+   series, "[34]Cha-La Head-Cha-La," performed by [35]Hironobu Kageyama.
+   However, the opening theme to the game is the TV series' second
+   opening, "[36]We Gotta Power" (featured in the Japanese version; the
+   English version includes a different, non-vocal song), which is also
+   sung by Kageyama.
+
+   The "Budokai Tenkaichi" title of the North American version is a
+   rearranged version of Tenkaichi Budokai (, Tenka'ichi Budkai^[37]?,
+   roughly "Strongest Under the Heavens Martial Arts Tournament"). In the
+   series, the Tenka-ichi Budkai is a gathering of fighters in a
+   competition for glory, fame, and prize money.
+
+   The game is not considered a part of the Budokai series of games,
+   despite its misleading title. In addition to a completely different
+   game engine, the game was developed by an entirely different company
+   ([38]Spike as opposed to Dimps). The game is also titled differently
+   from the rest of the Budokai series in Japan. Were it a true Budokai
+   game, it would have been Dragon Ball Z 4 in Japan. Speculation on the
+   English re-title is that Atari chose to market the game as part of the
+   Budokai series in order to capitalize on a pre-existing market of fans
+   already familiar with said game series. The English version also uses a
+   great deal of sound effects and background music made for the Budokai
+   series.
+
+[[39]edit] Localization differences
+
+   Further confusing fans in North America, Atari's domestic release of
+   the game does not feature the same music found in the original Japanese
+   version. While Sparking! features actual music from [40]Dragon Ball Z
+   (and two other pieces from the [41]Dragon Ball franchise and [42]Dragon
+   Ball GT where appropriate) as composed by [43]Shunsuke Kikuchi, the
+   American release of the game features recycled music from the Budokai
+   series (composed in Japan by [44]Kenji Yamamoto).
+
+   While no official explanation was ever given for the musical
+   differences, as [45]FUNimation Entertainment did not use the original
+   Japanese score in their "reversioning" of the TV series for an English
+   dub (though they did indeed use it for their English dub of the
+   original [46]Dragon Ball TV series), it can be assumed that contractual
+   issues came into play.
+
+[[47]edit] Gameplay
+
+   [48]Super Saiyan [49]Goku using the Kamehameha against Hirudegarn in
+   [50]Budokai Tenkaichi 3.
+
+   The games are quite different from the often-compared [51]Budokai
+   series; they use a "behind-the-back" camera perspective. Also different
+   from the Budokai series (and more of a throw-back to games from the
+   [52]Super Famicom era), each form is treated as its own character, with
+   varying stats, movesets and fighting styles, similar to [53]Dragon Ball
+   Z: Legendary Super Warriors while the free roam element is similar to
+   [54]Dragon Ball Z: Sagas. In battle, players can build up their [55]Ki
+   gauge to execute various techniques such as the Power Guard, which
+   reduces the damage characters take by 1/4. The Ki gauge can also be
+   used to use moves referred to as Blast 2 skills. Every character has a
+   unique set of Blast 2 skills that allow the character to use special
+   moves such as Ki blasts and physical attacks. Characters also have a
+   self-recharging numeric gauge called Blast Stock that allows players to
+   use techniques called Blast 1 skills. Blast 1 skills usually have a
+   supportive effect such as allowing characters to regain health or
+   immobilize the enemy. Players can also power up into a mode called Max
+   Power Mode normaly by building up their Ki beyond full at the cost of
+   Blast Stock bars. Max Power Mode makes the character that initiated it
+   faster, stronger, and able to use moves that are exclusive to the mode.
+   One of these moves is the Ultimate Blast which is usually the most
+   powerful move a character has, though use of any Blast 2 skill or the
+   Ultimate Blast immediately ends Max Power Mode.
+
+[[56]edit] Game Modes
+
+   The story mode of the series (called Z Battle Gate, Dragon Adventure,
+   and Dragon History in each installment, respectively) progresses
+   similarly to the story modes in previous games. Players can select
+   battles from different sagas and proceed through the story of
+   [57]Dragon Ball to [58]Dragon Ball GT, and even several [59]Dragon Ball
+   Z films. The [60]Dragon Balls can be acquired through story mode by
+   destroying the environment in battle; however, the player can only keep
+   the Dragon Ball they find if the battle is won. Each installment
+   features several "what-if" battles and scenarios; for example, the
+   Tenkaichi 1 strory mode features modes where the player takes control
+   of a villain and uses the character to defeat the hero, while the
+   Tenkaichi 2 story mode has modes where [61]Raditz and [62]Zarbon
+   essentially team up with the Z Fighters for one reason or another.
+   Several levels of the Tenkaichi 2 story mode also feature cutscenes
+   shown either before or after the fight of the level takes place. The
+   Tenkaichi 3 story mode has cutscenes integrated into the battles
+   themselves that are activated by hitting a certain button. These can be
+   transformations, character changes, automatic attack use, or something
+   as simple as a conversation.
+
+   Similar to the same mode in the Budokai series, the player can enter a
+   World Tournament and try to win their way to the top. There are three
+   levels of the basic tournament and a Cell Games mode (which is hosted
+   by [63]Cell). Since characters can fly, characters can leave the
+   perimeter of the arena, but will be called for ringout if they touch
+   the ground. There are no restrictions to the Cell Games mode, but the
+   last match of the Cell Games mode is always against Perfect Cell. In
+   Tenkaichi 1 winning the tournaments gave players a Z-Item prize while
+   in Tenkaichi 2, players would receive money which in turn would be used
+   on Z-Items. The World Tournament mode could be played with several
+   entrants, but if there is more than one human player, no prize would be
+   awarded. Other features in the game includes more combo attacks or
+   character specific combos, the Blast Combos, and the Z Burst Dash. The
+   additional combo attacks will be able to help chain in more attacks for
+   more damage and longer combos. The Blast Combo is the normal combos
+   however by inputting the another button into the attack will allow you
+   to use a blast attack for extra damage. Depending on the moves of the
+   character you might not be able to use this feat such as Videl or
+   Hercule. The Z Burst Dash is much faster and more evasive version of
+   the of the Dragon Dash. It allows the user to get behind the opponent
+   at high speeds for either a strike or to avoid a blast 2 attack. The
+   drawback to this technique is that it will rapidly drain you of energy.
+
+[[64]edit] History
+
+[[65]edit] Dragon Ball Z: Budokai Tenkaichi
+
+   [66]Shortcuts:
+   [67]DBZ:BT
+   [68]DBZ:BT1
+
+   Dragon Ball Z: Budokai Tenkaichi, originally published as Dragon Ball
+   Z: Sparking! (Z Sparking!, Doragon Bru Zetto Supkingu!^[69]?) in
+   [70]Japan, is the first installment in the Budokai Tenkaichi series.
+   The game is available only on [71]Sony's [72]PlayStation 2. It was
+   released in Japan on [73]October 6, [74]2005, [75]North America on
+   [76]October 18, [77]2005, and [78]Europe on [79]October 21, [80]2005.
+   It is now a Greatest Hits title.
+
+   The game features 56 playable characters and 16 stages for battle.
+   However, this game is the only one in the series to not allow in-game
+   transformations.
+
+   Despite not featuring the original Japanese music, the American release
+   of the game allows for selectable English ([81]FUNimation Productions
+   cast) and Japanese voices, while retaining the English-language written
+   dialogue (as adapted from Steven J. Simmons' translation from the
+   original Japanese version's script). However, there are known bugs in
+   the American version of Budokai Tenkaichi that cause pieces of English
+   and Japanese spoken dialogue to cross over into whichever selection the
+   player is using at times.
+
+[[82]edit] Dragon Ball Z: Budokai Tenkaichi 2
+
+   [83]Shortcut:
+   [84]DBZ:BT2
+
+   Dragon Ball Z: Budokai Tenkaichi 2, originally published as Dragon Ball
+   Z: Sparking! NEO (Z Sparking! NEO, Doragon Bru Zetto Supkingu!
+   Neo^[85]?) in [86]Japan, is the second installment in the Budokai
+   Tenkaichi series. The game is available on both [87]Sony's
+   [88]PlayStation 2 and [89]Nintendo's [90]Wii. The PlayStation 2 and Wii
+   versions have different dates of release. It was released on the
+   PlayStation 2 in Japan on [91]October 5, [92]2006, Europe on
+   [93]November 3, [94]2006, North America on [95]November 7, [96]2006,
+   and Australia on [97]November 9, [98]2006. The Wii version had slightly
+   later releases; it was released in North America on [99]November 19,
+   [100]2006, Japan on [101]January 1, [102]2007, Europe on [103]March 30,
+   [104]2007, and Australia on [105]April 5, [106]2007. It is now a
+   Greatest Hits title, like its predecessor. Though originally confirmed
+   as being a launch title in North America for the Wii,^[107][1] some
+   stores started selling the Wii version on November 15 2006. An issue of
+   [108]V-Jump listed January 2007 as the release date for the Japanese
+   version of the Wii release. The game originally featured 129 characters
+   and 16 stages, though the Japanese and [109]PAL Wii versions came with
+   five additional characters and an extra stage as compensation of their
+   late releases.
+
+   Some additionally great bonus material within the game was the special
+   story modes specifically given to [110]Zarbon and [111]Raditz, whom
+   were attentively treated particularly well with their own game modes,
+   unlike any other characters. One element of Tenkaichi 2 that is absent
+   from Tenkaichi 1 and Tenkaichi 3 is that the story mode allows the
+   player to fly around the Earth, which was also featured in [112]Dragon
+   Ball Z: Budokai 3.
+
+[[113]edit] Dragon Ball Z: Budokai Tenkaichi 3
+
+   [114]Shortcut:
+   [115]DBZ:BT3
+
+   Dragon Ball Z: Budokai Tenkaichi 3, originally published as Dragon Ball
+   Z: Sparking! METEOR (Z Sparking! METEOR, Doragon Bru Zetto Supkingu!
+   Meteo^[116]?) in [117]Japan, is the third installment in the Budokai
+   Tenkaichi series. The game is available on both [118]Sony's
+   [119]PlayStation 2 and [120]Nintendo's [121]Wii.^[122][2] The game was
+   released in Japan on [123]October 4, [124]2007,^[125][3] in [126]North
+   America on [127]November 13, [128]2007^[129][4] and in [130]Europe on
+   [131]November 9, [132]2007 (on PlayStation 2, the Wii version's release
+   date is [133]December 3, [134]2007 in North America, [135]October 4,
+   [136]2007 in Japan, and [137]February 15, [138]2008 in
+   Europe).^[139][5]
+
+   Tenkaichi 3 features over 162 characters, the largest character roster
+   in any Dragon Ball Z game, as well as one of the largest in any
+   fighting game. Ryo Mito once stated that the game would feature
+   never-before-seen characters made exclusively for the game, although
+   the only exclusive characters were the saiyans turning into big
+   apes.^[140][6] [141]Gamestop offered an exclusive version with a bonus
+   DVD containing the top 10 television series battles as voted by fans on
+   the release date.^[[142]citation needed]
+
+   Several new notable features include: Battle Replay, night and day
+   stages, the Wii's online capability, and Disc Fusion. Battle Replay
+   allows players to capture their favorite fights and save them to an SD
+   card to view later on. Night and day stages allow for more accurate
+   battles in Dragon Ball History, as well as the ability to transform
+   into a [143]Great Ape by using the [144]moon. There are also several
+   other time differences, such as dawn and afternoon. Not all stages
+   provide different times. You can also change the aura of your
+   character. The Wii version features online multiplayer
+   capability,^[145][2] the first game in the series to have such a
+   feature. Players can fight against anyone from around the globe with a
+   ranking system showing the player's current standing compared to anyone
+   else who has played online. As compensation for the lack of online,
+   [146]Spike has added a new "Disc Fusion System" to the [147]PlayStation
+   2 version. Inserting a Tenkaichi 1 or Tenkaichi 2 disc during play
+   unlocks Ultimate Battle or Ultimate Battle Z,^[148][2] modes featured
+   in the respective games needed to unlock them. The game also supports
+   480p for both the Wii and the PlayStation 2 versions.
+
+   Other features in the game includes more combo attacks or character
+   specific combos, the Blast Combos, and the Z Burst Dash. The additional
+   combo attacks will be able to help chain in more attacks for more
+   damage and longer combos. The Blast Combos are normal combos used in
+   the game, however by inputting the another button into the attack will
+   allow you to use a blast attack for extra damage. Depending on the
+   moves of the character you might not be able to use this feat such as
+   Videl or Hercule. The Z Burst Dash is much faster and more evasive
+   version of the Dragon Dash. It allows the user to get behind the
+   opponent at high speeds for either a strike or to avoid a blast 2
+   attack. The drawback to this technique is that it will rapidly drain
+   you of energy.
+
+                             Playable characters
+
+                       Introduced in Budokai Tenkaichi
+
+     * [149]Android #16
+     * [150]Android #17
+     * [151]Android #18
+     * [152]Android #19
+     * [153]Baby Vegeta (Super Baby 2)
+     * [154]Bardock
+     * [155]Bojack (Full Power)
+     * [156]Broly ([157]Legendary SS)
+     * [158]Burter
+     * [159]Captain Ginyu
+     * [160]Cell (Imperfect Form, Semi-Perfect Form, Perfect Form, Super
+       Perfect Form)
+     * [161]Cell Jr.
+     * [162]Chiaotzu
+     * [163]Cooler (Final Form)
+     * [164]Demon King Dabura
+     * [165]Dodoria
+     * [166]Dr. Gero
+     * Frieza (1st Form, 2nd Form, 3rd Form, Final Form, Full Power)
+     * [167]General Tao
+     * [168]Gogeta (SS4)
+     * [169]Gohan (Base, SS, SS2, [170]Great Saiyaman)
+     * [171]Goku ([172]End) (Base, SS, SS2, SS3)
+     * Goku (GT) (SS4)
+     * [173]Goten (Base, SS)
+     * [174]Gotenks (Base, SS, SS3)
+     * [175]Guldo
+     * [176]Hercule
+     * [177]Janemba (Final Form)
+     * [178]Jeice
+     * [179]Kid Buu
+
+     * [180]Kid Gohan
+     * [181]Kid Goku (Base, Great Ape)
+     * [182]Kid Trunks (Base, SS)
+     * [183]Krillin
+     * [184]Majin Buu
+     * [185]Majin Buu (Pure Evil)
+     * [186]Master Roshi
+     * [187]Mecha Frieza
+     * [188]Nappa
+     * Piccolo ([189]End)
+     * [190]Raditz
+     * [191]Recoome
+     * [192]Saibamen
+     * [193]Super #17
+     * [194]Super Buu (Base, Gotenks Absorbed, Gohan Absorbed)
+     * [195]Super Gogeta
+     * [196]Teen Gohan (Base, SS, SS2)
+     * [197]Tien
+     * [198]Trunks (Base, SS, Super)
+     * Trunks (Sword) (Base, SS)
+     * Ultimate Gohan
+     * [199]Vegeta (SS4)
+     * Vegeta ([200]Scouter) (Base, Great Ape)
+     * Vegeta (Base, SS, Super)
+     * Vegeta ([201]End) (Base, SS, SS2)
+     * Vegeta ([202]End) (Majin) ^2
+     * [203]Vegito (Base, SS)
+     * [204]Videl
+     * [205]Yamcha
+     * [206]Zarbon (Base, Post-Transformation)
+
+                      Introduced in Budokai Tenkaichi 2
+
+     * [207]Android 13 (Base, Fusion)
+     * [208]Appule^1
+     * [209]Baby Vegeta (Base, Super Baby 1, [210]Great Ape)
+     * [211]Bardock (Great Ape)
+     * [212]Bojack
+     * [213]Broly (Base, [214]SS)
+     * [215]Cooler
+     * [216]Cui
+     * [217]Cyborg Tao^1
+     * [218]Demon King Piccolo^1
+     * [219]Frieza Soldier^1
+     * [220]Garlic Jr. (Base, Super)
+     * [221]Grandpa Gohan
+     * [222]Hirudegarn (Final Form)
+     * [223]Janemba (Base)
+     * [224]Master Roshi (Max Power)
+     * [225]Meta-Cooler
+
+     * [226]Nappa (Great Ape)
+     * [227]Pan
+     * [228]Pikkon
+     * [229]Pilaf Machine (Base, Fusion) ^1
+     * [230]Raditz (Great Ape)
+     * [231]Salza
+     * [232]Slug (Base, Giant)
+     * [233]Supreme Kai (Base, [234]Kibitokai)
+     * [235]Syn Shenron (Base, Omega Shenron)
+     * [236]Tapion
+     * [237]Turles (Base, Great Ape)
+     * [238]Uub (Base, Majuub)
+     * Vegeta ([239]End) (Base, SS)
+     * Videl ([240]Great Saiyaman #2)
+     * [241]Yajirobe
+     * [242]Zangya
+
+                      Introduced in Budokai Tenkaichi 3
+
+     * [243]Android 8^[244][7]
+     * [245]Arale^[246][7]
+     * [247]Babidi^[248][7]
+     * [249]Devilman^[250][7]
+     * [251]Dr. Wheelo^[252][7]
+     * [253]Fasha (Base, [254]Great Ape)^[255][7]
+     * [256]Future Gohan (Base, SS)^[257][7]
+     * [258]General Blue^[259][7]
+     * [260]Goku ([261]Early)^[262][8] ^2
+     * Goku ([263]GT) (Base, SS, SS3)^[264][7]
+
+     * Goku ([265]Mid) (Base, SS) ^2
+     * [266]Chi-Chi^[267][7]
+     * [268]King Cold^[269][7]
+     * [270]King Vegeta (Base, Great Ape)^[271][7]
+     * [272]Nail^[273][7]
+     * [274]Nam^[275][7]
+     * [276]Nuova Shenron^[277][7]
+     * [278]Piccolo ([279]Early)^[280][8] ^2
+     * [281]Spopovich^[282][7]
+     * [283]Tambourine^[284][7]
+
+     * 1. Characters that were only in the European and Japanese Wii
+       versions of Dragon Ball Z: Budokai Tenkaichi 2 were added to the
+       American version in Dragon Ball Z: Budokai Tenkaichi 3.
+
+   Nauske's BT3 Tier List for Online Play (Many players consider LSSJ
+   Broly and SSJ4 Gogeta as Top Tier in offline play)
+
+   Top Tier
+
+   Great Ape Baby
+
+   Kid Buu
+
+   Teen Gohan
+
+   Super 17
+
+   Arale
+
+   SSJ4 Vegeta
+
+   Cell
+
+   High Tier
+
+   Android 17
+
+   Pikkon
+
+   Majin Vegeta
+
+   Vegito
+
+   Piccolo (End)
+
+   Frieza
+
+   SSJ4 Goku
+
+   Mid-HighTier
+
+   Piccolo (Early)
+
+   Gohan (Adult)
+
+   Goku (End)
+
+   Super Buu
+
+   Android # 18
+
+   Super Gogeta
+
+   Goku (Mid)
+
+   Goten
+
+   Vegeta (Scouter)
+
+   Vegeta
+
+   Krillin
+
+   Nail
+
+   MetaCooler
+
+   Android # 13
+
+   SSJ4 Gogeta
+
+   Broly
+
+   Goku (Early)
+
+   Gotenks
+
+   Vegeta
+
+   Omega Shenron (since he was requested)
+
+   Kid Trunks
+
+   Future Gohan
+
+   Nuova Shenron
+
+   Tapion
+
+   Grandpa Gohan
+
+   Cooler
+
+   Mid Tier
+
+   Vegeta (End)
+
+   Majin Buu
+
+   Cell Jr
+
+   Burter
+
+   Jeice
+
+   Babidi
+
+   Pan
+
+   Uub
+
+   Goku (GT)
+
+   Mystic Gohan
+
+   Demon King Piccolo
+
+   Tien
+
+   Bardock
+
+   Mecha Frieza
+
+   Master Roshi
+
+   Kid Goku
+
+   Trunks W/ Sword
+
+   Baby Vegeta
+
+   Android #16
+
+   Nam
+
+   Syn Shenron
+
+   Kid Gohan
+
+   Cyborg Tao
+
+   Yamcha
+
+   Fasha
+
+   Dabura
+
+   Yajirobe
+
+   Majin Buu (Pure Evil)
+
+   Android #19
+
+   King Cold
+
+   Demon King Piccolo
+
+   Zarbon
+
+   Mid-Low Tier
+
+   Raditz
+
+   Nappa
+
+   Videl
+
+   Turles
+
+   Garlic Jr
+
+   Supreme Kai
+
+   General Tao
+
+   Saibaman
+
+   Bojack
+
+   Zangya
+
+   Pilaf Machine
+
+   Spopovich
+
+   King Vegeta
+
+   Captain Ginyu
+
+   Recoome
+
+   Tamborine
+
+   Kid Chi-Chi
+
+   Chiaotzu
+
+   Android #8
+
+   Low Tier
+
+   Doctor Gero
+
+   Slug
+
+   Salza
+
+   Cui
+
+   Appule
+
+   Dodoria
+
+   Frieza Soldier
+
+   Devilman
+
+   General Blue
+
+   Worst Tier
+
+   Hercule
+
+   Guldo
+
+[[285]edit] Reception
+
+   Critical reaction for the Budokai Tenkaichi series has been mixed.
+   Numerous reviews praised the game's high fighter count and detailed
+   [286]cel-shaded graphics, as well as the high amount of [287]fan
+   service to Dragon Ball Z fans. Some people, however, have taken issue
+   with the game's complex controls. [288]Mark Bozon at [289]IGN said,
+   "The sheer speed and complexity of the controls may turn some people
+   off, but the general combat will eventually come down to two buttons,
+   making the game amazingly easy to learn, but nearly impossible to fully
+   master."
+
+   The PS2 version of Tenkaichi 2 received the 'Best Fighting Game of the
+   Year' award from [290]X-Play and the Wii version of the game also
+   received a four out of five from X-Play. The game magazine [291]Famitsu
+   gave the PS2 version of Tenkaichi 3 a 32 out of 40, while the Wii
+   version received a 33 out of 40. IGN awarded both versions of Tenkaichi
+   3 an 8 out of 10, with their only complaints being the comparatively
+   underwhelming story mode (in comparison to Tenkaichi 2), gimmicky Disc
+   Fusion and the lagging Wi-Fi.^[292][9]
+
+[[293]edit] References
+
+    1. [294]^ [295]IGN: Dragon Ball Z Ready for Wii
+    2. ^ [296]^a [297]^b [298]^c Roper, Chris ([299]2007-[300]07-12).
+       [301]"E3 2007: Dragon Ball Z: Budokai Tenkaichi 3 Hands-on".
+       [302]IGN. [303]http://wii.ign.com/articles/804/804421p1.html.
+       Retrieved on 7 October 2007.
+    3. [304]^ [305]Official Japanese Budokai Tenkaichi 4 trailer (Windows
+       Media Player required).
+    4. [306]^ [307]"Who's Making Games For Nintendo Systems? Everyone!".
+       [308]Nintendo. [309]2007-[310]10-11.
+       [311]http://press.nintendo.com/articles.jsp?id=13691. Retrieved on
+       11 October 2007.
+    5. [312]^ [313]IGN: Dragon Ball Z: Budokai Tenkaichi 3
+    6. [314]^ Detwiler, Ray ([315]2007-[316]08-27). [317]"Exclusive Dragon
+       Ball Z: Budokai Tenkaichi 3 Interview". Wii-volution.
+       [318]http://www.wii-volution.com/wii-news/exclusive-dragon-ball-z-b
+       udokai-tenkaichi-3-interview.html. Retrieved on 7 October 2007.
+    7. ^ [319]^a [320]^b [321]^c [322]^d [323]^e [324]^f [325]^g [326]^h
+       [327]^i [328]^j [329]^k [330]^l [331]^m [332]^n [333]^o [334]^p
+       [335]^q [336]http://www.imagehack.eu/uploads/f81f1e3624.jpg
+    8. ^ [337]^a [338]^b [339]"Dragon Ball Z: Sparking! METEOR - Character
+       list, page 1". [340]2007-[341]06-26.
+       [342]http://dbzs.jp/meteor/p_characters/01_son_gokou.html.
+       Retrieved on 7 October 2007.
+    9. [343]^ [344]The Magic Box: International Videogame News
+
+[[345]edit] External links
+
+   [346]Sister project [347]Wikiquote has a collection of quotations
+   related to: [348]Dragon Ball Z: Budokai Tenkaichi 2
+     * [349]Official Budokai Tenkaichi series website (Japanese)
+
+   [350]v  [351]d  [352]e
+   [353]Dragon Ball by [354]Akira Toriyama
+   Franchise
+   [355]Chapters ([356]Dragon Ball  [357]Dragon Ball Z)   [358]Episodes
+   ([359]Dragon Ball  [360]Dragon Ball Z  [361]Dragon Ball GT)
+   [362]Soundtracks  [363]Dragon Ball CCG  [364]Dragon Ball Z CCG
+   [365]Films and TV specials
+   Dragon Ball
+   [366]Curse of the Blood Rubies  [367]Sleeping Princess in Devil's
+   Castle  [368]Mystical Adventure  [369]The Path to Power
+   Dragon Ball Z
+   [370]Dead Zone  [371]The World's Strongest  [372]The Tree of Might
+   [373]Lord Slug  [374]Cooler's Revenge  [375]Return of Cooler
+   [376]Super Android 13!  [377]Broly - The Legendary Super Saiyan
+   [378]Bojack Unbound  [379]Broly - Second Coming  [380]Bio-Broly
+   [381]Fusion Reborn  [382]Wrath of the Dragon   [383]Bardock - The
+   Father of Goku  [384]The History of Trunks   [385]Yo! Son Goku and His
+   Friends Return!!
+      Dragon Ball GT
+   [386]A Hero's Legacy
+   [387]Video games
+   [388]Action-adventure
+   [389]The Legacy of Goku ([390]II  [391]Buu's Fury)  [392]Sagas
+   [393]Advanced Adventure  [394]Transformation  [395]Origins
+   [396]RPG/Card-based
+   [397]Legendary Super Warriors  [398]Harukanaru Densetsu
+   [399]Fighting
+   [400]Final Bout  [401]Budokai ([402]2  [403]3  [404]Shin Budokai
+   [405]Shin Budokai - Another Road   [406]Infinite World )   Budokai
+   Tenkaichi series  [407]Supersonic Warriors ([408]2)  [409]Super Dragon
+   Ball Z   [410]Burst Limit
+   Other/Related
+   [411]Dragon Ball Online  [412]Famicom Jump: Hero Retsuden  [413]Famicom
+   Jump II: Saiky no Shichinin  [414]Jump Super Stars  [415]Jump Ultimate
+   Stars  [416]Battle Stadium D.O.N
+   [417]Characters
+   [418]Son Goku  [419]Bulma  [420]Yamcha  [421]Krillin  [422]Piccolo
+   [423]Son Gohan  [424]Vegeta  [425]Frieza  [426]Trunks  [427]Majin Buu
+   Concepts
+   [428]Dragon Balls  [429]Saiyan  [430]Super Saiyan
+   Related
+   [431]Dr. Slump ([432]Arale Norimaki)  [433]Neko Majin  [434]Dragon
+   Ball: The Magic Begins (1989 Chinese live action film)  [435]Dragonball
+   Evolution (2009 American live action film)
+   Retrieved from
+   "[436]http://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_(se
+   ries)#Dragon_Ball_Z:_Budokai_Tenkaichi_2"
+   [437]Categories: [438]Video games with cel-shaded graphics |
+   [439]PlayStation 2 games | [440]Wii games | [441]Nintendo Wi-Fi
+   Connection games | [442]Versus fighting games | [443]Dragon Ball games
+   Hidden categories: [444]Articles containing Japanese language text |
+   [445]All articles with unsourced statements | [446]Articles with
+   unsourced statements since February 2008
+
+Views
+
+     * [447]Article
+     * [448]Discussion
+     * [449]Edit this page
+     * [450]History
+
+Personal tools
+
+     * [451]Log in / create account
+
+Navigation
+
+     * [452]Main page
+     * [453]Contents
+     * [454]Featured content
+     * [455]Current events
+     * [456]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [457]About Wikipedia
+     * [458]Community portal
+     * [459]Recent changes
+     * [460]Contact Wikipedia
+     * [461]Donate to Wikipedia
+     * [462]Help
+
+Toolbox
+
+     * [463]What links here
+     * [464]Related changes
+     * [465]Upload file
+     * [466]Special pages
+     * [467]Printable version
+     * [468]Permanent link
+     * [469]Cite this page
+
+Languages
+
+     * [470]Espaol
+     *
+     * [471]Suomi
+
+   [472]Powered by MediaWiki
+   [473]Wikimedia Foundation
+     * This page was last modified on 9 February 2009, at 19:11.
+     * All text is available under the terms of the [474]GNU Free
+       Documentation License. (See [475]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [476]Wikimedia
+       Foundation, Inc., a U.S. registered [477]501(c)(3)
+       [478]tax-deductible [479]nonprofit [480]charity.
+     * [481]Privacy policy
+     * [482]About Wikipedia
+     * [483]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit#Dragon_Ball_Z:_Budokai_Tenkaichi_2
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_2&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#searchInput
+   9. file://localhost/wiki/BackTrack
+  10. file://localhost/wiki/Help:Japanese
+  11. file://localhost/wiki/Japan
+  12. file://localhost/wiki/Fighting_game
+  13. file://localhost/wiki/Anime
+  14. file://localhost/wiki/Manga
+  15. file://localhost/wiki/Dragon_Ball_(franchise)
+  16. file://localhost/wiki/Akira_Toriyama
+  17. file://localhost/wiki/Spike_(company)
+  18. file://localhost/wiki/Namco_Bandai
+  19. file://localhost/wiki/Atari
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Origin_of_name
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Localization_differences
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Gameplay
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Game_Modes
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#History
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Dragon_Ball_Z:_Budokai_Tenkaichi
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Dragon_Ball_Z:_Budokai_Tenkaichi_2
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Dragon_Ball_Z:_Budokai_Tenkaichi_3
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Reception
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#References
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#External_links
+  31. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=1
+  32. file://localhost/wiki/Dragon_Ball_Z
+  33. file://localhost/wiki/Anime
+  34. file://localhost/wiki/Cha-La_Head-Cha-La
+  35. file://localhost/wiki/Hironobu_Kageyama
+  36. file://localhost/wiki/We_Gotta_Power
+  37. file://localhost/wiki/Help:Japanese
+  38. file://localhost/wiki/Spike_(company)
+  39. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=2
+  40. file://localhost/wiki/Dragon_Ball_Z
+  41. file://localhost/wiki/Dragon_Ball_(franchise)
+  42. file://localhost/wiki/Dragon_Ball_GT
+  43. file://localhost/wiki/Shunsuke_Kikuchi
+  44. file://localhost/wiki/Kenji_Yamamoto
+  45. file://localhost/wiki/FUNimation_Entertainment
+  46. file://localhost/wiki/Dragon_Ball_(anime)
+  47. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=3
+  48. file://localhost/wiki/Super_Saiyan
+  49. file://localhost/wiki/Son_Goku_(Dragon_Ball)
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#Dragon_Ball_Z:_Budokai_Tenkaichi_3
+  51. file://localhost/wiki/Dragon_Ball_Z:_Budokai
+  52. file://localhost/wiki/Super_Famicom
+  53. file://localhost/wiki/Dragon_Ball_Z:_Legendary_Super_Warriors
+  54. file://localhost/wiki/Dragon_Ball_Z:_Sagas
+  55. file://localhost/wiki/Qi
+  56. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=4
+  57. file://localhost/wiki/Dragon_Ball_(franchise)
+  58. file://localhost/wiki/Dragon_Ball_GT
+  59. file://localhost/wiki/List_of_Dragon_Ball_films
+  60. file://localhost/wiki/Dragon_Ball_(artifact)
+  61. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Raditz
+  62. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Freeza.27s_henchmen
+  63. file://localhost/wiki/Cell_(Dragon_Ball)
+  64. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=5
+  65. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=6
+  66. file://localhost/wiki/Wikipedia:Shortcut
+  67. file://localhost/wiki/DBZ:BT
+  68. file://localhost/wiki/DBZ:BT1
+  69. file://localhost/wiki/Help:Japanese
+  70. file://localhost/wiki/Japan
+  71. file://localhost/wiki/Sony_Computer_Entertainment
+  72. file://localhost/wiki/PlayStation_2
+  73. file://localhost/wiki/October_6
+  74. file://localhost/wiki/2005
+  75. file://localhost/wiki/North_America
+  76. file://localhost/wiki/October_18
+  77. file://localhost/wiki/2005
+  78. file://localhost/wiki/Europe
+  79. file://localhost/wiki/October_21
+  80. file://localhost/wiki/2005
+  81. file://localhost/wiki/FUNimation_Productions
+  82. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=7
+  83. file://localhost/wiki/Wikipedia:Shortcut
+  84. file://localhost/wiki/DBZ:BT2
+  85. file://localhost/wiki/Help:Japanese
+  86. file://localhost/wiki/Japan
+  87. file://localhost/wiki/Sony_Computer_Entertainment
+  88. file://localhost/wiki/PlayStation_2
+  89. file://localhost/wiki/Nintendo
+  90. file://localhost/wiki/Wii
+  91. file://localhost/wiki/October_5
+  92. file://localhost/wiki/2006
+  93. file://localhost/wiki/November_3
+  94. file://localhost/wiki/2006
+  95. file://localhost/wiki/November_7
+  96. file://localhost/wiki/2006
+  97. file://localhost/wiki/November_9
+  98. file://localhost/wiki/2006
+  99. file://localhost/wiki/November_19
+ 100. file://localhost/wiki/2006
+ 101. file://localhost/wiki/January_1
+ 102. file://localhost/wiki/2007
+ 103. file://localhost/wiki/March_30
+ 104. file://localhost/wiki/2007
+ 105. file://localhost/wiki/April_5
+ 106. file://localhost/wiki/2007
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-0
+ 108. file://localhost/wiki/V-Jump
+ 109. file://localhost/wiki/PAL_region
+ 110. file://localhost/wiki/Zarbon
+ 111. file://localhost/wiki/Raditz
+ 112. file://localhost/wiki/Dragon_Ball_Z:_Budokai_3
+ 113. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=8
+ 114. file://localhost/wiki/Wikipedia:Shortcut
+ 115. file://localhost/wiki/DBZ:BT3
+ 116. file://localhost/wiki/Help:Japanese
+ 117. file://localhost/wiki/Japan
+ 118. file://localhost/wiki/Sony_Computer_Entertainment
+ 119. file://localhost/wiki/PlayStation_2
+ 120. file://localhost/wiki/Nintendo
+ 121. file://localhost/wiki/Wii
+ 122. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-IGNHandsOn-1
+ 123. file://localhost/wiki/October_4
+ 124. file://localhost/wiki/2007
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-2
+ 126. file://localhost/wiki/North_America
+ 127. file://localhost/wiki/November_13
+ 128. file://localhost/wiki/2007
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-3
+ 130. file://localhost/wiki/Europe
+ 131. file://localhost/wiki/November_9
+ 132. file://localhost/wiki/2007
+ 133. file://localhost/wiki/December_3
+ 134. file://localhost/wiki/2007
+ 135. file://localhost/wiki/October_4
+ 136. file://localhost/wiki/2007
+ 137. file://localhost/wiki/February_15
+ 138. file://localhost/wiki/2008
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-4
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-RyoInterview-5
+ 141. file://localhost/wiki/Gamestop
+ 142. file://localhost/wiki/Wikipedia:Citation_needed
+ 143. file://localhost/wiki/Oozaru
+ 144. file://localhost/wiki/Moon
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-IGNHandsOn-1
+ 146. file://localhost/wiki/Spike_(company)
+ 147. file://localhost/wiki/PlayStation_2
+ 148. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-IGNHandsOn-1
+ 149. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Android_16
+ 150. file://localhost/wiki/No._17
+ 151. file://localhost/wiki/No._18
+ 152. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Android_.2319
+ 153. file://localhost/wiki/Baby_(Dragon_Ball)
+ 154. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Bardock
+ 155. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Bojack
+ 156. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Broli
+ 157. file://localhost/wiki/Super_Saiyan#Legendary_Super_Saiyan
+ 158. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Ginyu_Special_Corps
+ 159. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Ginyu_Special_Corps
+ 160. file://localhost/wiki/Cell_(Dragon_Ball)
+ 161. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Cell_Jr.
+ 162. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Chaozu
+ 163. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Coola
+ 164. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Dabra
+ 165. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Dodoria
+ 166. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Android_.2320.2FDr._Gero
+ 167. file://localhost/wiki/Tao_Pai_Pai
+ 168. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Gogeta
+ 169. file://localhost/wiki/Son_Gohan
+ 170. file://localhost/wiki/Great_Saiyaman_Saga
+ 171. file://localhost/wiki/Son_Goku_(Dragon_Ball)
+ 172. file://localhost/wiki/Majin_Buu_Saga
+ 173. file://localhost/wiki/Son_Goten
+ 174. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Gotenks
+ 175. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Ginyu_Special_Corps
+ 176. file://localhost/wiki/Mr._Satan
+ 177. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Janemba
+ 178. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Ginyu_Special_Corps
+ 179. file://localhost/wiki/Majin_Buu#Kid_Buu
+ 180. file://localhost/wiki/Son_Gohan
+ 181. file://localhost/wiki/Son_Goku_(Dragon_Ball)
+ 182. file://localhost/wiki/Trunks_(Dragon_Ball)
+ 183. file://localhost/wiki/Kuririn
+ 184. file://localhost/wiki/Majin_Buu
+ 185. file://localhost/wiki/Majin_Buu#Forms_and_transformations
+ 186. file://localhost/wiki/Muten_Roshi
+ 187. file://localhost/wiki/Freeza#Forms_and_Transformations
+ 188. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Nappa
+ 189. file://localhost/wiki/Cell_Saga
+ 190. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Raditz
+ 191. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Ginyu_Special_Corps
+ 192. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Saibaman
+ 193. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Artificial_Human_.2317
+ 194. file://localhost/wiki/Majin_Buu#Super_Buu
+ 195. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Gogeta
+ 196. file://localhost/wiki/Son_Gohan
+ 197. file://localhost/wiki/Tenshinhan
+ 198. file://localhost/wiki/Future_Trunks
+ 199. file://localhost/wiki/Vegeta
+ 200. file://localhost/wiki/Saiyan_Saga
+ 201. file://localhost/wiki/Majin_Buu_Saga
+ 202. file://localhost/wiki/Majin_Buu_Saga
+ 203. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Vegetto
+ 204. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Videl
+ 205. file://localhost/wiki/Yamcha
+ 206. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Zarbon
+ 207. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Android_.2313
+ 208. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Freeza.27s_henchmen
+ 209. file://localhost/wiki/Baby_(Dragon_Ball)#Invasion
+ 210. file://localhost/wiki/Oozaru#The_Golden_Oozaru
+ 211. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Burdock
+ 212. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Bojack
+ 213. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Broli
+ 214. file://localhost/wiki/Super_Saiyan
+ 215. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Coola
+ 216. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Kiwi
+ 217. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Tao_Pai_Pai
+ 218. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Piccolo_Daimao
+ 219. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Freeza.27s_henchman
+ 220. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Garlic_Jr.
+ 221. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Grandpa_Son_Gohan
+ 222. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Hildegarn
+ 223. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Janemba
+ 224. file://localhost/wiki/Muten_Roshi
+ 225. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Coola
+ 226. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Nappa
+ 227. file://localhost/wiki/Pan_(Dragon_Ball)
+ 228. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Paikuhan
+ 229. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Pilaf
+ 230. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Raditz
+ 231. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Coola.27s_Armored_Squadren
+ 232. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Lord_Slug
+ 233. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Kai.C5.8Dshin
+ 234. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Kibitoshin
+ 235. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Yi_Xing_Long
+ 236. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Minosha_and_Tapion
+ 237. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Tullece
+ 238. file://localhost/wiki/Majin_Buu#Forms_and_transformations
+ 239. file://localhost/wiki/Majin_Buu_Saga
+ 240. file://localhost/wiki/Great_Saiyaman_Saga
+ 241. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Yajirobe
+ 242. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Bojack.27s_henchmen
+ 243. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Artificial_Human_.238
+ 244. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 245. file://localhost/wiki/Arale_Norimaki
+ 246. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 247. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Demonic_creatures
+ 248. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 249. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Akkuman
+ 250. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 251. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Dr._Uiro
+ 252. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 253. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#Seripa
+ 254. file://localhost/wiki/Oozaru
+ 255. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 256. file://localhost/wiki/Son_Gohan#Future_Gohan
+ 257. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 258. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#General_Blue
+ 259. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 260. file://localhost/wiki/Son_Goku_(Dragon_Ball)
+ 261. file://localhost/wiki/Saiyan_Saga
+ 262. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-MeteorCharPage1-7
+ 263. file://localhost/wiki/Dragon_Ball_GT
+ 264. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 265. file://localhost/wiki/Freeza_Saga
+ 266. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Chichi
+ 267. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 268. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#King_Cold
+ 269. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 270. file://localhost/wiki/List_of_Saiyans_in_Dragon_Ball#King_Vegeta
+ 271. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 272. file://localhost/wiki/List_of_extraterrestrials_in_Dragon_Ball#Other_Namekians
+ 273. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 274. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Nam
+ 275. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 276. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Si_Xing_Long
+ 277. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 278. file://localhost/wiki/Piccolo_(Dragon_Ball)
+ 279. file://localhost/wiki/Saiyan_Saga
+ 280. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-MeteorCharPage1-7
+ 281. file://localhost/wiki/List_of_Earthlings_in_Dragon_Ball#Spopovich
+ 282. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 283. file://localhost/wiki/List_of_supernatural_beings_in_Dragon_Ball#Piccolo_Daimao.27s_minions
+ 284. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-V-Jump_list-6
+ 285. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=9
+ 286. file://localhost/wiki/Cel-shaded_animation
+ 287. file://localhost/wiki/Fan_service
+ 288. file://localhost/w/index.php?title=Mark_Bozon&action=edit&redlink=1
+ 289. file://localhost/wiki/IGN
+ 290. file://localhost/wiki/X-Play
+ 291. file://localhost/wiki/Famitsu
+ 292. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_note-Magic_Box-8
+ 293. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=10
+ 294. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-0
+ 295. http://wii.ign.com/articles/743/743961p1.html
+ 296. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-IGNHandsOn_1-0
+ 297. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-IGNHandsOn_1-1
+ 298. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-IGNHandsOn_1-2
+ 299. file://localhost/wiki/2007
+ 300. file://localhost/wiki/July_12
+ 301. http://wii.ign.com/articles/804/804421p1.html
+ 302. file://localhost/wiki/IGN
+ 303. http://wii.ign.com/articles/804/804421p1.html
+ 304. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-2
+ 305. http://dbzs.jp/meteor/p_movie/01.html
+ 306. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-3
+ 307. http://press.nintendo.com/articles.jsp?id=13691
+ 308. file://localhost/wiki/Nintendo
+ 309. file://localhost/wiki/2007
+ 310. file://localhost/wiki/October_11
+ 311. http://press.nintendo.com/articles.jsp?id=13691
+ 312. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-4
+ 313. http://wii.ign.com/objects/907/907834.html
+ 314. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-RyoInterview_5-0
+ 315. file://localhost/wiki/2007
+ 316. file://localhost/wiki/August_27
+ 317. http://www.wii-volution.com/wii-news/exclusive-dragon-ball-z-budokai-tenkaichi-3-interview.html
+ 318. http://www.wii-volution.com/wii-news/exclusive-dragon-ball-z-budokai-tenkaichi-3-interview.html
+ 319. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-0
+ 320. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-1
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-2
+ 322. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-3
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-4
+ 324. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-5
+ 325. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-6
+ 326. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-7
+ 327. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-8
+ 328. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-9
+ 329. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-10
+ 330. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-11
+ 331. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-12
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-13
+ 333. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-14
+ 334. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-15
+ 335. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-V-Jump_list_6-16
+ 336. http://www.imagehack.eu/uploads/f81f1e3624.jpg
+ 337. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-MeteorCharPage1_7-0
+ 338. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-MeteorCharPage1_7-1
+ 339. http://dbzs.jp/meteor/p_characters/01_son_gokou.html
+ 340. file://localhost/wiki/2007
+ 341. file://localhost/wiki/June_26
+ 342. http://dbzs.jp/meteor/p_characters/01_son_gokou.html
+ 343. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc365.tmp.html#cite_ref-Magic_Box_8-0
+ 344. http://www.the-magicbox.com/game20070927.shtml
+ 345. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit&section=11
+ 346. http://en.wikiquote.org/wiki/Special:Search/Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 347. file://localhost/wiki/Wikiquote
+ 348. http://en.wikiquote.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_2
+ 349. http://dbzs.jp/
+ 350. file://localhost/wiki/Template:Dragon_Ball
+ 351. file://localhost/wiki/Template_talk:Dragon_Ball
+ 352. http://en.wikipedia.org/w/index.php?title=Template:Dragon_Ball&action=edit
+ 353. file://localhost/wiki/Dragon_Ball
+ 354. file://localhost/wiki/Akira_Toriyama
+ 355. file://localhost/wiki/List_of_Dragon_Ball_manga_volumes
+ 356. file://localhost/wiki/List_of_Dragon_Ball_chapters_(series)
+ 357. file://localhost/wiki/List_of_Dragon_Ball_Z_chapters
+ 358. file://localhost/wiki/List_of_Dragon_Ball_episodes
+ 359. file://localhost/wiki/List_of_Dragon_Ball_episodes_(series)
+ 360. file://localhost/wiki/List_of_Dragon_Ball_Z_episodes
+ 361. file://localhost/wiki/List_of_Dragon_Ball_GT_episodes
+ 362. file://localhost/wiki/List_of_Dragon_Ball_soundtracks
+ 363. file://localhost/wiki/Dragon_Ball_Collectible_Card_Game
+ 364. file://localhost/wiki/Dragon_Ball_Z_Collectible_Card_Game
+ 365. file://localhost/wiki/List_of_Dragon_Ball_films
+ 366. file://localhost/wiki/Dragon_Ball:_Curse_of_the_Blood_Rubies
+ 367. file://localhost/wiki/Dragon_Ball:_Sleeping_Princess_in_Devil%27s_Castle
+ 368. file://localhost/wiki/Dragon_Ball:_Mystical_Adventure
+ 369. file://localhost/wiki/Dragon_Ball:_The_Path_to_Power
+ 370. file://localhost/wiki/Dragon_Ball_Z:_Dead_Zone
+ 371. file://localhost/wiki/Dragon_Ball_Z:_The_World%27s_Strongest
+ 372. file://localhost/wiki/Dragon_Ball_Z:_The_Tree_of_Might
+ 373. file://localhost/wiki/Dragon_Ball_Z:_Lord_Slug
+ 374. file://localhost/wiki/Dragon_Ball_Z:_Cooler%27s_Revenge
+ 375. file://localhost/wiki/Dragon_Ball_Z:_Return_of_Cooler
+ 376. file://localhost/wiki/Dragon_Ball_Z:_Super_Android_13!
+ 377. file://localhost/wiki/Dragon_Ball_Z:_Broly_-_The_Legendary_Super_Saiyan
+ 378. file://localhost/wiki/Dragon_Ball_Z:_Bojack_Unbound
+ 379. file://localhost/wiki/Dragon_Ball_Z:_Broly_-_Second_Coming
+ 380. file://localhost/wiki/Dragon_Ball_Z:_Bio-Broly
+ 381. file://localhost/wiki/Dragon_Ball_Z:_Fusion_Reborn
+ 382. file://localhost/wiki/Dragon_Ball_Z:_Wrath_of_the_Dragon
+ 383. file://localhost/wiki/Dragon_Ball_Z:_Bardock_-_The_Father_of_Goku
+ 384. file://localhost/wiki/Dragon_Ball_Z:_The_History_of_Trunks
+ 385. file://localhost/wiki/Dragon_Ball:_Yo!_Son_Goku_and_His_Friends_Return!!
+ 386. file://localhost/wiki/Dragon_Ball_GT:_A_Hero%27s_Legacy
+ 387. file://localhost/wiki/List_of_Dragon_Ball_video_games
+ 388. file://localhost/wiki/Action-adventure_game
+ 389. file://localhost/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku
+ 390. file://localhost/wiki/Dragon_Ball_Z:_The_Legacy_of_Goku_II
+ 391. file://localhost/wiki/Dragon_Ball_Z:_Buu%27s_Fury
+ 392. file://localhost/wiki/Dragon_Ball_Z:_Sagas
+ 393. file://localhost/wiki/Dragon_Ball:_Advanced_Adventure
+ 394. file://localhost/wiki/Dragon_Ball_GT:_Transformation
+ 395. file://localhost/wiki/Dragon_Ball:_Origins
+ 396. file://localhost/wiki/Console_role-playing_game
+ 397. file://localhost/wiki/Dragon_Ball_Z:_Legendary_Super_Warriors
+ 398. file://localhost/wiki/Dragon_Ball_Z:_Harukanaru_Densetsu
+ 399. file://localhost/wiki/Fighting_game
+ 400. file://localhost/wiki/Dragon_Ball_GT:_Final_Bout
+ 401. file://localhost/wiki/Dragon_Ball_Z:_Budokai
+ 402. file://localhost/wiki/Dragon_Ball_Z:_Budokai_2
+ 403. file://localhost/wiki/Dragon_Ball_Z:_Budokai_3
+ 404. file://localhost/wiki/Dragon_Ball_Z:_Shin_Budokai
+ 405. file://localhost/wiki/Dragon_Ball_Z:_Shin_Budokai_-_Another_Road
+ 406. file://localhost/wiki/Dragon_Ball_Z:_Infinite_World
+ 407. file://localhost/wiki/Dragon_Ball_Z:_Supersonic_Warriors
+ 408. file://localhost/wiki/Dragon_Ball_Z:_Supersonic_Warriors_2
+ 409. file://localhost/wiki/Super_Dragon_Ball_Z
+ 410. file://localhost/wiki/Dragon_Ball_Z:_Burst_Limit
+ 411. file://localhost/wiki/Dragon_Ball_Online
+ 412. file://localhost/wiki/Famicom_Jump:_Hero_Retsuden
+ 413. file://localhost/wiki/Famicom_Jump_II:_Saiky%C5%8D_no_Shichinin
+ 414. file://localhost/wiki/Jump_Super_Stars
+ 415. file://localhost/wiki/Jump_Ultimate_Stars
+ 416. file://localhost/wiki/Battle_Stadium_D.O.N
+ 417. file://localhost/wiki/List_of_Dragon_Ball_characters
+ 418. file://localhost/wiki/Son_Goku_(Dragon_Ball)
+ 419. file://localhost/wiki/Bulma
+ 420. file://localhost/wiki/Yamcha
+ 421. file://localhost/wiki/Krillin
+ 422. file://localhost/wiki/Piccolo_(Dragon_Ball)
+ 423. file://localhost/wiki/Son_Gohan
+ 424. file://localhost/wiki/Vegeta
+ 425. file://localhost/wiki/Frieza
+ 426. file://localhost/wiki/Trunks_(Dragon_Ball)
+ 427. file://localhost/wiki/Majin_Buu
+ 428. file://localhost/wiki/Dragon_Ball_(artifact)
+ 429. file://localhost/wiki/Saiyan
+ 430. file://localhost/wiki/Super_Saiyan
+ 431. file://localhost/wiki/Dr._Slump
+ 432. file://localhost/wiki/Arale_Norimaki
+ 433. file://localhost/wiki/Neko_Majin
+ 434. file://localhost/wiki/Dragon_Ball:_The_Magic_Begins
+ 435. file://localhost/wiki/Dragonball_Evolution
+ 436. http://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_(series)#Dragon_Ball_Z:_Budokai_Tenkaichi_2
+ 437. file://localhost/wiki/Special:Categories
+ 438. file://localhost/wiki/Category:Video_games_with_cel-shaded_graphics
+ 439. file://localhost/wiki/Category:PlayStation_2_games
+ 440. file://localhost/wiki/Category:Wii_games
+ 441. file://localhost/wiki/Category:Nintendo_Wi-Fi_Connection_games
+ 442. file://localhost/wiki/Category:Versus_fighting_games
+ 443. file://localhost/wiki/Category:Dragon_Ball_games
+ 444. file://localhost/wiki/Category:Articles_containing_Japanese_language_text
+ 445. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 446. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2008
+ 447. file://localhost/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 448. file://localhost/wiki/Talk:Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 449. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=edit
+ 450. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&action=history
+ 451. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 452. file://localhost/wiki/Main_Page
+ 453. file://localhost/wiki/Portal:Contents
+ 454. file://localhost/wiki/Portal:Featured_content
+ 455. file://localhost/wiki/Portal:Current_events
+ 456. file://localhost/wiki/Special:Random
+ 457. file://localhost/wiki/Wikipedia:About
+ 458. file://localhost/wiki/Wikipedia:Community_portal
+ 459. file://localhost/wiki/Special:RecentChanges
+ 460. file://localhost/wiki/Wikipedia:Contact_us
+ 461. http://wikimediafoundation.org/wiki/Donate
+ 462. file://localhost/wiki/Help:Contents
+ 463. file://localhost/wiki/Special:WhatLinksHere/Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 464. file://localhost/wiki/Special:RecentChangesLinked/Dragon_Ball_Z:_Budokai_Tenkaichi_(series)
+ 465. file://localhost/wiki/Wikipedia:Upload
+ 466. file://localhost/wiki/Special:SpecialPages
+ 467. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&printable=yes
+ 468. file://localhost/w/index.php?title=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&oldid=269591620
+ 469. file://localhost/w/index.php?title=Special:Cite&page=Dragon_Ball_Z:_Budokai_Tenkaichi_(series)&id=269591620
+ 470. http://es.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi
+ 471. http://fi.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_3
+ 472. http://www.mediawiki.org/
+ 473. http://wikimediafoundation.org/
+ 474. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 475. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 476. http://www.wikimediafoundation.org/
+ 477. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 478. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 479. http://en.wikipedia.org/wiki/Non-profit_organization
+ 480. http://en.wikipedia.org/wiki/Charitable_organization
+ 481. http://wikimediafoundation.org/wiki/Privacy_policy
+ 482. file://localhost/wiki/Wikipedia:About
+ 483. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 484. file://localhost/wiki/File:Dragon_Ball_Z_Budokai_Tenkaichi.jpg
+ 485. file://localhost/wiki/File:Dragon_Ball_Z_Budokai_Tenkaichi.jpg
+ 486. file://localhost/wiki/File:GokuBT3.jpg
+ 487. file://localhost/wiki/File:GokuBT3.jpg
+ 488. file://localhost/wiki/Main_Page
+ 489. http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABZ_Sparking!

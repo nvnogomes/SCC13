@@ -1,0 +1,575 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Doxylamine
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Doxylamine succinate)
+   Jump to: [7]navigation, [8]search
+
+   Doxylamine
+
+                                                Systematic ([9]IUPAC) name
+              N,N-dimethyl-2- (1-phenyl-1-pyridin-2-yl-ethoxy)- ethanamine
+                                                               Identifiers
+                                               [10]CAS number [11]469-21-6
+                                              [12]ATC code [13]R06[14]AA09
+                                                      [15]PubChem [16]3162
+                                                [17]DrugBank [18]APRD00937
+                                                   [19]ChemSpider [20]3050
+                                                             Chemical data
+                              [21]Formula [22]C[17][23]H[22][24]N[2][25]O^
+                                               [26]Mol. mass 270.369 g/mol
+                                                      Pharmacokinetic data
+               [27]Bioavailability Oral: 24.7%, Intranasal: 70.8% ^[28][1]
+                                                    [29]Metabolism Hepatic
+                                         [30]Half life variable; 612 hours
+                            [31]Excretion Urine (primarily as metabolites)
+                                                Therapeutic considerations
+                                                        [32]Pregnancy cat.
+
+                                                                 A([33]US)
+                                                          [34]Legal status
+
+                                                                   [35]OTC
+                                                           [36]Routes Oral
+
+   Doxylamine succinate is one of the many sedating [37]antihistamines
+   used by itself as a short-term [38]sedative, in combination with other
+   drugs as a night-time [39]cold and [40]allergy relief drug, and a
+   preparation is prescribed in combination with [41]vitamin B6
+   ([42]pyridoxine) to prevent [43]morning sickness in [44]pregnant women.
+
+Contents
+
+     * [45]1 Indications
+     * [46]2 Metabolites
+     * [47]3 Formulations
+     * [48]4 Side effects
+          + [49]4.1 Interactions
+     * [50]5 Toxicity
+     * [51]6 References
+
+[[52]edit] Indications
+
+   Doxylamine is a member of the [53]ethanolamine class of antihistamines
+   and has anti-allergy power superior to almost every other antihistamine
+   on the market, with the exception of [54]diphenhydramine
+   ([55]Benadryl).^[56][2] It is also the most effective over-the-counter
+   sedative available in the [57]United States,^[58][2] and is more
+   sedating than some prescription [59]hypnotics. In a study, it was found
+   that doxylamine [60]succinate is possibly more effective than the
+   [61]barbiturate [62]phenobarbital for use as a sedative.^[63][2] For
+   this reason, doxylamine has sometimes been used off label in a manner
+   similar to diphenhydramine for the reduction of [64]anxiety symptoms.
+
+   The dosage required to induce hypnosis ([65]sleep) can be as low as
+   6.25 mg, but is usually effective in dosages of up to 25 mg. Higher
+   doses are not recommended by the United States [66]Food and Drug
+   Administration, although single dosage recommendations of up to 50 mg
+   are common in some countries, including Australia, where it is marketed
+   under the names Restavit and Dozile.
+
+[[67]edit] Metabolites
+
+   The 2 main metabolites are desmethyldoxylamine and
+   didesmethyldoxylamine.
+
+[[68]edit] Formulations
+
+     * It is the sedating ingredient of [69]NyQuil.
+     * In [70]Commonwealth countries, such as [71]Australia, [72]Canada,
+       and the [73]United Kingdom, doxylamine is available prepared with
+       [74]paracetamol (acetaminophen) and [75]codeine under the brand
+       name Dolased , Syndol , or Mersyndol, as treatment for [76]tension
+       headache and other types of [77]pain.
+     * Doxylamine succinate is used in general [78]over-the-counter
+       sleep-aids branded as Somnil, Dozile, Donormyl, Dormidina, Restavit
+       and Unisom-2.
+     * In the [79]United States doxylamine succinate is the active
+       ingredient in the over-the-counter sleep-aid tablets branded as
+       [80]Unisom; however, according to the [81]manufacturer's website,
+       the [82]gel-cap form contains [83]diphenhydramine hydrochloride
+       instead.
+     * It is also available in combination with vitamin B[6] and [84]folic
+       acid under the brand name Evanorm (marketed by Ion Healthcare).
+     * In [85]Canada, doxylamine succinate and [86]pyridoxine ([87]vitamin
+       B6) are the ingredients of Diclectin, which is used to prevent
+       [88]morning sickness.
+
+[[89]edit] Side effects
+
+   Doxylamine succinate is a potent [90]anticholinergic and has a
+   [91]side-effect profile common to such drugs, including [92]dry mouth,
+   [93]ataxia, [94]urinary retention, and drowsiness. Other drugs with
+   well known anticholinergic effects include many [95]antipsychotic and
+   [96]tricyclic antidepressant drugs.
+
+[[97]edit] Interactions
+
+   [98]Venlafaxine combined with Doxylamine succinate can lead to
+   dizziness, light-headedness, confusion and lethargy, along with the
+   side-effects listed above.
+
+[[99]edit] Toxicity
+
+   Doxylamine succinate is generally safe for administration to healthy
+   adults. Typical preparations that contain doxylamine range from 6.25 mg
+   to 25.0 mg. The [100]LD50 is estimated to be 50500 mg/kg in
+   humans.^[101][3] Symptoms of overdose may include dry mouth, dilated
+   pupils, insomnia, euphoria, hallucinations, and seizures. Fatalities,
+   while rare, have been recorded.^[102][4]
+
+[[103]edit] References
+
+    1. [104]^
+       [105]http://www3.interscience.wiley.com/journal/98016819/abstract
+    2. ^ [106]^a [107]^b [108]^c [109]DrugBank: DB00366 (Doxylamine)
+    3. [110]^ [111]http://hazard.com/msds/mf/baker/baker/files/d8882.htm
+    4. [112]^
+       [113]http://www.medsafe.govt.nz/Profs/DataSheet/d/Dozilecap.htm
+
+   [114]v  [115]d  [116]e
+   [117]Histamine antagonists
+   [118]H1
+   [119]1st gen
+   (non-selective,
+   classical)
+   Alkylamines
+   [120]Bepotastine  [121]Bamipine  [122]Brompheniramine
+   [123]Chlorpheniramine  [124]Deschlorpheniramine
+   [125]Dexbrompheniramine  [126]Dexchlorpheniramine  [127]Dimetindene
+   [128]Fluorpheniramine  [129]Iodopheniramine  [130]Iproheptine
+   [131]Pheniramine  [132]Pyrrobutamine  [133]Talastine  [134]Thenalidine
+   [135]Tolpropamine  [136]Triprolidine
+   Ethanolamines
+   (Aminoalkyl [137]ethers)
+   [138]Bromazine/Bromodiphenhydramine  [139]Carbinoxamine
+   [140]Chlordiphenhydramine   [141]Chlorphenoxamine  [142]Clemastine
+   [143]Diphenylpyraline  [144]Diphenhydramine  Doxylamine
+   [145]Embramine  [146]Fluordiphenhydramine   [147]Iododiphenhydramine
+   [148]p-Methyldiphenhydramine  [149]Moxastine  [150]Orphenadrine
+   [151]Phenyltoloxamine  [152]Setastine
+   Ethylenediamines
+   [153]Chloropyramine  [154]Chlorothen  [155]Histapyrrodine
+   [156]Methafurylene  [157]Mepyramine  [158]Methapyrilene
+   [159]Pyrilamine  [160]Talastine  [161]Thenyldiamine  [162]Thonzylamine
+   [163]Tripelennamine (Pyribenzamine)
+   [164]Phenothiazine Tricyclics
+   [165]Ahistan  [166]Etymemazine  [167]Hydroxyethylpromethazine
+   [168]Isopromethazine  [169]Isothipendyl  [170]Mequitazine
+   [171]Methdilazine  [172]Oxomemazine  [173]Promethazine
+   [174]Thiazinamium
+   Other Tricyclics
+   [175]Azatadine  [176]Clobenzepam  [177]Cyproheptadine  [178]Deptropine
+   [179]Isothipendyl
+   [180]Piperazine
+   [181]Buclizine  [182]Chlorcyclizine  [183]Cinnarizine
+   [184]Clocinizine  [185]Hydroxyzine  [186]Niaprazine  [187]Oxatomide
+   [188]Benzhydryl compounds ([189]Cyclizine, [190]Meclizine)
+   [191]2nd gen
+   [192]Alkylamine
+   [193]Acrivastine
+   [194]Tricyclic
+   [195]Olopatadine
+   [196]Piperazine
+   [197]Cetirizine
+   [198]Benzhydryl
+   [199]Terfenadine
+   Other/
+   ungrouped
+   [200]Antazoline  [201]Astemizole  [202]Azatadine  [203]Azelastine
+   [204]Bamipine  [205]Clemizole  [206]Clobenztropine  [207]Deptropine
+   [208]Dimebon  [209]Ebastine  [210]Emedastine  [211]Epinastine
+   [212]Ketotifen  [213]Levocabastine  [214]Loratadine  [215]Mebhydrolin
+   [216]Mizolastine  [217]Phenindamine  [218]Pimethixene
+   [219]Pyrrobutamine  [220]Rupatadine  [221]Thenalidine
+   [222]Tritoqualine
+   [223]3rd gen
+   [224]Levocetirizine  [225]Desloratadine  [226]Fexofenadine
+   [227]H2
+   [228]Cimetidine  [229]Famotidine  [230]Ranitidine  [231]Roxatidine
+   [232]Lafutidine  [233]Niperotidine  [234]Nizatidine
+   [235]H3
+   [236]A-349,821  [237]A-423,579  [238]ABT-239  [239]BF-2649
+   [240]Burimamide  [241]Ciproxifan  [242]Clobenpropit  [243]Conessine
+   [244]GSK-189,254  [245]Impentamine  [246]Iodophenpropit  [247]JNJ
+   5207852  [248]MK-0249  [249]NNC 38-1049  [250]SCH-79687
+   [251]Thioperamide  [252]VUF-5681
+   [253]H4
+   [254]JNJ 7777120  [255]Thioperamide  [256]VUF-6002
+   Retrieved from "[257]http://en.wikipedia.org/wiki/Doxylamine"
+   [258]Categories: [259]Antiemetics | [260]Antihistamines
+
+Views
+
+     * [261]Article
+     * [262]Discussion
+     * [263]Edit this page
+     * [264]History
+
+Personal tools
+
+     * [265]Log in / create account
+
+Navigation
+
+     * [266]Main page
+     * [267]Contents
+     * [268]Featured content
+     * [269]Current events
+     * [270]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [271]About Wikipedia
+     * [272]Community portal
+     * [273]Recent changes
+     * [274]Contact Wikipedia
+     * [275]Donate to Wikipedia
+     * [276]Help
+
+Toolbox
+
+     * [277]What links here
+     * [278]Related changes
+     * [279]Upload file
+     * [280]Special pages
+     * [281]Printable version
+     * [282]Permanent link
+     * [283]Cite this page
+
+Languages
+
+     * [284]Deutsch
+     * [285]Espaol
+     * [286]Franais
+     *
+     *
+     *
+
+   [287]Powered by MediaWiki
+   [288]Wikimedia Foundation
+     * This page was last modified on 14 January 2009, at 01:21.
+     * All text is available under the terms of the [289]GNU Free
+       Documentation License. (See [290]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [291]Wikimedia
+       Foundation, Inc., a U.S. registered [292]501(c)(3)
+       [293]tax-deductible [294]nonprofit [295]charity.
+     * [296]Privacy policy
+     * [297]About Wikipedia
+     * [298]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Doxylamine&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Doxylamine_succinate&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#searchInput
+   9. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  10. file://localhost/wiki/CAS_registry_number
+  11. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?term=469-21-6&rn=1
+  12. file://localhost/wiki/Anatomical_Therapeutic_Chemical_Classification_System
+  13. file://localhost/wiki/ATC_code_R06
+  14. http://www.whocc.no/atcddd/indexdatabase/index.php?query=R06AA09
+  15. file://localhost/wiki/PubChem
+  16. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3162
+  17. file://localhost/wiki/DrugBank
+  18. http://www.drugbank.ca/cgi-bin/show_drug.cgi?CARD=APRD00937
+  19. file://localhost/wiki/ChemSpider
+  20. http://www.chemspider.com/Chemical-Structure.3050
+  21. file://localhost/wiki/Chemical_formula
+  22. file://localhost/wiki/Carbon
+  23. file://localhost/wiki/Hydrogen
+  24. file://localhost/wiki/Nitrogen
+  25. file://localhost/wiki/Oxygen
+  26. file://localhost/wiki/Molecular_mass
+  27. file://localhost/wiki/Bioavailability
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-0
+  29. file://localhost/wiki/Drug_metabolism
+  30. file://localhost/wiki/Biological_half-life
+  31. file://localhost/wiki/Excretion
+  32. file://localhost/wiki/Pregnancy_category
+  33. file://localhost/wiki/United_States
+  34. file://localhost/wiki/Regulation_of_therapeutic_goods
+  35. file://localhost/wiki/Over-the-counter_drug
+  36. file://localhost/wiki/Route_of_administration
+  37. file://localhost/wiki/Antihistamine
+  38. file://localhost/wiki/Sedative
+  39. file://localhost/wiki/Common_cold
+  40. file://localhost/wiki/Allergy
+  41. file://localhost/wiki/Vitamin_B6
+  42. file://localhost/wiki/Pyridoxine
+  43. file://localhost/wiki/Morning_sickness
+  44. file://localhost/wiki/Pregnancy
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Indications
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Metabolites
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Formulations
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Side_effects
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Interactions
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#Toxicity
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#References
+  52. file://localhost/w/index.php?title=Doxylamine&action=edit&section=1
+  53. file://localhost/wiki/Ethanolamine
+  54. file://localhost/wiki/Diphenhydramine
+  55. file://localhost/wiki/Benadryl
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-drugbankDB00366-1
+  57. file://localhost/wiki/United_States
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-drugbankDB00366-1
+  59. file://localhost/wiki/Hypnotic
+  60. file://localhost/wiki/Succinate
+  61. file://localhost/wiki/Barbiturate
+  62. file://localhost/wiki/Phenobarbital
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-drugbankDB00366-1
+  64. file://localhost/wiki/Anxiety
+  65. file://localhost/wiki/Sleep
+  66. file://localhost/wiki/Food_and_Drug_Administration
+  67. file://localhost/w/index.php?title=Doxylamine&action=edit&section=2
+  68. file://localhost/w/index.php?title=Doxylamine&action=edit&section=3
+  69. file://localhost/wiki/NyQuil
+  70. file://localhost/wiki/Commonwealth_of_Nations
+  71. file://localhost/wiki/Australia
+  72. file://localhost/wiki/Canada
+  73. file://localhost/wiki/United_Kingdom
+  74. file://localhost/wiki/Paracetamol
+  75. file://localhost/wiki/Codeine
+  76. file://localhost/wiki/Tension_headache
+  77. file://localhost/wiki/Pain
+  78. file://localhost/wiki/Over-the-counter_drug
+  79. file://localhost/wiki/United_States
+  80. file://localhost/wiki/Unisom
+  81. http://www.chattem.com/qna/unisomFAQ.asp#FAQ1162
+  82. file://localhost/wiki/Gelcap
+  83. file://localhost/wiki/Diphenhydramine_hydrochloride
+  84. file://localhost/wiki/Folic_acid
+  85. file://localhost/wiki/Canada
+  86. file://localhost/wiki/Pyridoxine
+  87. file://localhost/wiki/Vitamin_B6
+  88. file://localhost/wiki/Morning_sickness
+  89. file://localhost/w/index.php?title=Doxylamine&action=edit&section=4
+  90. file://localhost/wiki/Anticholinergic
+  91. file://localhost/wiki/Adverse_drug_reaction
+  92. file://localhost/wiki/Xerostomia
+  93. file://localhost/wiki/Ataxia
+  94. file://localhost/wiki/Urinary_retention
+  95. file://localhost/wiki/Antipsychotic
+  96. file://localhost/wiki/Tricyclic_antidepressant
+  97. file://localhost/w/index.php?title=Doxylamine&action=edit&section=5
+  98. file://localhost/wiki/Venlafaxine
+  99. file://localhost/w/index.php?title=Doxylamine&action=edit&section=6
+ 100. file://localhost/wiki/LD50
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-2
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_note-3
+ 103. file://localhost/w/index.php?title=Doxylamine&action=edit&section=7
+ 104. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-0
+ 105. http://www3.interscience.wiley.com/journal/98016819/abstract
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-drugbankDB00366_1-0
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-drugbankDB00366_1-1
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-drugbankDB00366_1-2
+ 109. http://www.drugbank.ca/cgi-bin/getCard.cgi?CARD=DB00366.txt
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-2
+ 111. http://hazard.com/msds/mf/baker/baker/files/d8882.htm
+ 112. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc319.tmp.html#cite_ref-3
+ 113. http://www.medsafe.govt.nz/Profs/DataSheet/d/Dozilecap.htm
+ 114. file://localhost/wiki/Template:Histamine_antagonist
+ 115. file://localhost/w/index.php?title=Template_talk:Histamine_antagonist&action=edit&redlink=1
+ 116. http://en.wikipedia.org/w/index.php?title=Template:Histamine_antagonist&action=edit
+ 117. file://localhost/wiki/Histamine_antagonist
+ 118. file://localhost/wiki/H1_antagonist
+ 119. file://localhost/wiki/H1_antagonist#First-generation_.28non-selective.2C_classical.29
+ 120. file://localhost/wiki/Bepotastine
+ 121. file://localhost/wiki/Bamipine
+ 122. file://localhost/wiki/Brompheniramine
+ 123. file://localhost/wiki/Chlorphenamine
+ 124. file://localhost/w/index.php?title=Deschlorpheniramine&action=edit&redlink=1
+ 125. file://localhost/wiki/Dexbrompheniramine
+ 126. file://localhost/wiki/Dexchlorpheniramine
+ 127. file://localhost/wiki/Dimetindene
+ 128. file://localhost/w/index.php?title=Fluorpheniramine&action=edit&redlink=1
+ 129. file://localhost/w/index.php?title=Iodopheniramine&action=edit&redlink=1
+ 130. file://localhost/wiki/Iproheptine
+ 131. file://localhost/wiki/Pheniramine
+ 132. file://localhost/wiki/Pyrrobutamine
+ 133. file://localhost/wiki/Talastine
+ 134. file://localhost/wiki/Thenalidine
+ 135. file://localhost/wiki/Tolpropamine
+ 136. file://localhost/wiki/Triprolidine
+ 137. file://localhost/wiki/Ethers
+ 138. file://localhost/wiki/Bromodiphenhydramine
+ 139. file://localhost/wiki/Carbinoxamine
+ 140. file://localhost/w/index.php?title=Chlordiphenhydramine&action=edit&redlink=1
+ 141. file://localhost/wiki/Chlorphenoxamine
+ 142. file://localhost/wiki/Clemastine
+ 143. file://localhost/wiki/Diphenylpyraline
+ 144. file://localhost/wiki/Diphenhydramine
+ 145. file://localhost/wiki/Embramine
+ 146. file://localhost/w/index.php?title=Fluordiphenhydramine&action=edit&redlink=1
+ 147. file://localhost/w/index.php?title=Iododiphenhydramine&action=edit&redlink=1
+ 148. file://localhost/wiki/P-Methyldiphenhydramine
+ 149. file://localhost/wiki/Moxastine
+ 150. file://localhost/wiki/Orphenadrine
+ 151. file://localhost/wiki/Phenyltoloxamine
+ 152. file://localhost/wiki/Setastine
+ 153. file://localhost/wiki/Chloropyramine
+ 154. file://localhost/wiki/Chlorothen
+ 155. file://localhost/wiki/Histapyrrodine
+ 156. file://localhost/wiki/Methafurylene
+ 157. file://localhost/wiki/Mepyramine
+ 158. file://localhost/wiki/Methapyrilene
+ 159. file://localhost/wiki/Pyrilamine
+ 160. file://localhost/wiki/Talastine
+ 161. file://localhost/wiki/Thenyldiamine
+ 162. file://localhost/wiki/Thonzylamine
+ 163. file://localhost/wiki/Tripelennamine
+ 164. file://localhost/wiki/Phenothiazine
+ 165. file://localhost/wiki/Dacemazine
+ 166. file://localhost/wiki/Etymemazine
+ 167. file://localhost/wiki/Hydroxyethylpromethazine
+ 168. file://localhost/wiki/Isopromethazine
+ 169. file://localhost/wiki/Isothipendyl
+ 170. file://localhost/wiki/Mequitazine
+ 171. file://localhost/wiki/Methdilazine
+ 172. file://localhost/wiki/Oxomemazine
+ 173. file://localhost/wiki/Promethazine
+ 174. file://localhost/wiki/Thiazinamium
+ 175. file://localhost/wiki/Azatadine
+ 176. file://localhost/wiki/Clobenzepam
+ 177. file://localhost/wiki/Cyproheptadine
+ 178. file://localhost/wiki/Deptropine
+ 179. file://localhost/wiki/Isothipendyl
+ 180. file://localhost/wiki/Piperazine
+ 181. file://localhost/wiki/Buclizine
+ 182. file://localhost/wiki/Chlorcyclizine
+ 183. file://localhost/wiki/Cinnarizine
+ 184. file://localhost/wiki/Clocinizine
+ 185. file://localhost/wiki/Hydroxyzine
+ 186. file://localhost/wiki/Niaprazine
+ 187. file://localhost/wiki/Oxatomide
+ 188. file://localhost/wiki/Benzhydryl_compounds
+ 189. file://localhost/wiki/Cyclizine
+ 190. file://localhost/wiki/Meclizine
+ 191. file://localhost/wiki/H1_antagonist#Second-generation_and_third-generation_.28selective.2C_non-sedating.29
+ 192. file://localhost/wiki/Alkylamine
+ 193. file://localhost/wiki/Acrivastine
+ 194. file://localhost/wiki/Tricyclic
+ 195. file://localhost/wiki/Olopatadine
+ 196. file://localhost/wiki/Piperazine
+ 197. file://localhost/wiki/Cetirizine
+ 198. file://localhost/wiki/Benzhydryl_compounds
+ 199. file://localhost/wiki/Terfenadine
+ 200. file://localhost/wiki/Antazoline
+ 201. file://localhost/wiki/Astemizole
+ 202. file://localhost/wiki/Azatadine
+ 203. file://localhost/wiki/Azelastine
+ 204. file://localhost/wiki/Bamipine
+ 205. file://localhost/wiki/Clemizole
+ 206. file://localhost/wiki/Clobenztropine
+ 207. file://localhost/wiki/Deptropine
+ 208. file://localhost/wiki/Dimebon
+ 209. file://localhost/wiki/Ebastine
+ 210. file://localhost/wiki/Emedastine
+ 211. file://localhost/wiki/Epinastine
+ 212. file://localhost/wiki/Ketotifen
+ 213. file://localhost/wiki/Levocabastine
+ 214. file://localhost/wiki/Loratadine
+ 215. file://localhost/wiki/Mebhydrolin
+ 216. file://localhost/wiki/Mizolastine
+ 217. file://localhost/wiki/Phenindamine
+ 218. file://localhost/wiki/Pimethixene
+ 219. file://localhost/wiki/Pyrrobutamine
+ 220. file://localhost/wiki/Rupatadine
+ 221. file://localhost/wiki/Thenalidine
+ 222. file://localhost/wiki/Tritoqualine
+ 223. file://localhost/wiki/H1_antagonist#Third-generation
+ 224. file://localhost/wiki/Levocetirizine
+ 225. file://localhost/wiki/Desloratadine
+ 226. file://localhost/wiki/Fexofenadine
+ 227. file://localhost/wiki/H2_antagonist
+ 228. file://localhost/wiki/Cimetidine
+ 229. file://localhost/wiki/Famotidine
+ 230. file://localhost/wiki/Ranitidine
+ 231. file://localhost/wiki/Roxatidine
+ 232. file://localhost/wiki/Lafutidine
+ 233. file://localhost/wiki/Niperotidine
+ 234. file://localhost/wiki/Nizatidine
+ 235. file://localhost/wiki/H3_antagonist
+ 236. file://localhost/wiki/A-349,821
+ 237. file://localhost/wiki/A-423,579
+ 238. file://localhost/wiki/ABT-239
+ 239. file://localhost/wiki/BF-2649
+ 240. file://localhost/wiki/Burimamide
+ 241. file://localhost/wiki/Ciproxifan
+ 242. file://localhost/wiki/Clobenpropit
+ 243. file://localhost/wiki/Conessine
+ 244. file://localhost/wiki/GSK-189,254
+ 245. file://localhost/wiki/Impentamine
+ 246. file://localhost/wiki/Iodophenpropit
+ 247. file://localhost/wiki/JNJ_5207852
+ 248. file://localhost/wiki/MK-0249
+ 249. file://localhost/wiki/NNC_38-1049
+ 250. file://localhost/wiki/SCH-79687
+ 251. file://localhost/wiki/Thioperamide
+ 252. file://localhost/wiki/VUF-5681
+ 253. file://localhost/wiki/Histamine_H4_receptor#Antagonists
+ 254. file://localhost/wiki/JNJ_7777120
+ 255. file://localhost/wiki/Thioperamide
+ 256. file://localhost/wiki/VUF-6002
+ 257. http://en.wikipedia.org/wiki/Doxylamine
+ 258. file://localhost/wiki/Special:Categories
+ 259. file://localhost/wiki/Category:Antiemetics
+ 260. file://localhost/wiki/Category:Antihistamines
+ 261. file://localhost/wiki/Doxylamine
+ 262. file://localhost/wiki/Talk:Doxylamine
+ 263. file://localhost/w/index.php?title=Doxylamine&action=edit
+ 264. file://localhost/w/index.php?title=Doxylamine&action=history
+ 265. file://localhost/w/index.php?title=Special:UserLogin&returnto=Doxylamine
+ 266. file://localhost/wiki/Main_Page
+ 267. file://localhost/wiki/Portal:Contents
+ 268. file://localhost/wiki/Portal:Featured_content
+ 269. file://localhost/wiki/Portal:Current_events
+ 270. file://localhost/wiki/Special:Random
+ 271. file://localhost/wiki/Wikipedia:About
+ 272. file://localhost/wiki/Wikipedia:Community_portal
+ 273. file://localhost/wiki/Special:RecentChanges
+ 274. file://localhost/wiki/Wikipedia:Contact_us
+ 275. http://wikimediafoundation.org/wiki/Donate
+ 276. file://localhost/wiki/Help:Contents
+ 277. file://localhost/wiki/Special:WhatLinksHere/Doxylamine
+ 278. file://localhost/wiki/Special:RecentChangesLinked/Doxylamine
+ 279. file://localhost/wiki/Wikipedia:Upload
+ 280. file://localhost/wiki/Special:SpecialPages
+ 281. file://localhost/w/index.php?title=Doxylamine&printable=yes
+ 282. file://localhost/w/index.php?title=Doxylamine&oldid=263941662
+ 283. file://localhost/w/index.php?title=Special:Cite&page=Doxylamine&id=263941662
+ 284. http://de.wikipedia.org/wiki/Doxylamin
+ 285. http://es.wikipedia.org/wiki/Doxilamina
+ 286. http://fr.wikipedia.org/wiki/Doxylamine
+ 287. http://www.mediawiki.org/
+ 288. http://wikimediafoundation.org/
+ 289. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 290. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 291. http://www.wikimediafoundation.org/
+ 292. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 293. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 294. http://en.wikipedia.org/wiki/Non-profit_organization
+ 295. http://en.wikipedia.org/wiki/Charitable_organization
+ 296. http://wikimediafoundation.org/wiki/Privacy_policy
+ 297. file://localhost/wiki/Wikipedia:About
+ 298. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 299. file://localhost/wiki/File:Doxylamine.svg
+ 300. file://localhost/wiki/Main_Page
+ 301. http://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AD%E3%82%B7%E3%83%A9%E3%83%9F%E3%83%B3
+ 302. http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%81%D0%B8%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD
+ 303. http://th.wikipedia.org/wiki/%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99

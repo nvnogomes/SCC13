@@ -1,0 +1,288 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dye tracing
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dye tracer)
+   Jump to: [7]navigation, [8]search
+
+   Dye tracing is tracking and tracing various [9]flows using [10]dye
+   added to the [11]liquid in question. The purpose of tracking may be an
+   analysis of the flow itself, of the transport of something by the flow
+   of the objects that convey the flow. It is an evolution of the
+   ages-known float tracing method, which basically consists of throwing a
+   [12]buoyant object into a waterflow to see where it goes or where it
+   emerges.
+
+   Dye tracking may be either qualitative, i.e., the presence of
+   particular flow and its estimate, or quantitative, when the amount of
+   the traced dye is measured by special instruments.
+
+Contents
+
+     * [13]1 Fluorescent dyes
+          + [14]1.1 Quantitative tracing
+     * [15]2 Applications
+          + [16]2.1 Water tracing
+          + [17]2.2 Medicine and biology
+     * [18]3 See also
+     * [19]4 References
+
+[[20]edit] Fluorescent dyes
+
+   Fluorescein in the [21]Chicago River on the [22]St. Patrick's Day
+   (added for celebration, rather than tracing)
+
+   Often [23]fluorescent dyes are used for this purpose, especially in the
+   following circumstances
+     * Insufficient lighting (e.g., sewers or cave waters)
+     * Precise quantitative data are required, measured by a
+       [24]fluorometer
+     * Very small amounts of the dye is allowed to be added ([25]1 part
+       per trillion may be detected).
+
+   [26]Fluorescein is among the first fluorescent dyes, developed in 1871.
+   Its disodium salt under the trademark "[27]Uranine" was developed
+   several years later and still remains among the best tracer
+   dyes.^[28][1]
+
+   Another popular tracer dye is [29]rhodamine.
+
+[[30]edit] Quantitative tracing
+
+   The first method for technology-assisted dye tracing was based on the
+   [31]absorption of dye in [32]charcoal. Charcoal packets may be placed
+   along the expected route of the flow, later the collected dye may be
+   chemically extracted and its amount subjectively evaluated.
+
+   [33]Filter fluorometers were the first devices that could detect dye
+   concentrations beyond [34]human eye sensitivity.
+
+   [35]Spectrofluorometers developed in the mid-1980s made it possible to
+   perform advanced analysis of fluorescence.
+
+[[36]edit] Applications
+
+[[37]edit] Water tracing
+
+   Typical application of [38]water flow tracing include: ^[39][2]
+     * [40]Plumbing/[41]piping tracing
+     * Leak detection
+     * Checking for illegal tapping
+     * [42]Pollution studies
+     * Natural waterflow analysis ([43]rivers, [44]lakes, [45]ocean
+       currents, [46]cave waterflows, [47]karst studies, [48]groundwater
+       filtration, etc.)
+     * [49]Sewer and [50]stormwater drainage analysis
+
+[[51]edit] Medicine and biology
+
+   Dye tracing may be used for the analysis of [52]blood circulation
+   within various parts of the human or animal body. For example,
+   [53]fluorescent angiography, a technique of analysis of circulation in
+   [54]retina is used for diagnosing various eye diseases.
+
+   With modern fluorometers, capable of tracking single fluorescent
+   molecules, it is possible to track migrations of single cells
+   [55]tagged by a fluorescent molecule (see [56]fluorescein in biological
+   research). For example, the [57]fluorescent-activated cell sorting in
+   [58]flow cytometry makes it possible to sort out the cells with
+   attached fluorescent molecules from a flow.
+
+[[59]edit] See also
+
+     * [60]Fluorescence microscope
+     * [61]FLEX mission
+     * [62]Fluorescent green pig
+     * [63]Float tracking
+
+[[64]edit] References
+
+    1. [65]^ [66]An educational website about karst and dye tracing, by
+       Crawford Hydrology Laboratory / Center for Cave and Karst Study in
+       association with [67]Western Kentucky University
+    2. [68]^ [69]Water Tracing Dye Technical Bulletin
+
+   Retrieved from "[70]http://en.wikipedia.org/wiki/Dye_tracing"
+   [71]Categories: [72]Dyes | [73]Data collection | [74]Hydrology
+
+Views
+
+     * [75]Article
+     * [76]Discussion
+     * [77]Edit this page
+     * [78]History
+
+Personal tools
+
+     * [79]Log in / create account
+
+Navigation
+
+     * [80]Main page
+     * [81]Contents
+     * [82]Featured content
+     * [83]Current events
+     * [84]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [85]About Wikipedia
+     * [86]Community portal
+     * [87]Recent changes
+     * [88]Contact Wikipedia
+     * [89]Donate to Wikipedia
+     * [90]Help
+
+Toolbox
+
+     * [91]What links here
+     * [92]Related changes
+     * [93]Upload file
+     * [94]Special pages
+     * [95]Printable version
+     * [96]Permanent link
+     * [97]Cite this page
+
+Languages
+
+     * [98]Deutsch
+     * [99]Franais
+
+   [100]Powered by MediaWiki
+   [101]Wikimedia Foundation
+     * This page was last modified on 30 December 2008, at 01:39.
+     * All text is available under the terms of the [102]GNU Free
+       Documentation License. (See [103]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [104]Wikimedia
+       Foundation, Inc., a U.S. registered [105]501(c)(3)
+       [106]tax-deductible [107]nonprofit [108]charity.
+     * [109]Privacy policy
+     * [110]About Wikipedia
+     * [111]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dye_tracing&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dye_tracer&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#searchInput
+   9. file://localhost/wiki/Flow
+  10. file://localhost/wiki/Dye
+  11. file://localhost/wiki/Liquid
+  12. file://localhost/wiki/Buoyant
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#Fluorescent_dyes
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#Quantitative_tracing
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#Applications
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#Water_tracing
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#Medicine_and_biology
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#See_also
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#References
+  20. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=1
+  21. file://localhost/wiki/Chicago_River
+  22. file://localhost/wiki/St._Patrick%27s_Day
+  23. file://localhost/wiki/Category:Fluorescent_dyes
+  24. file://localhost/wiki/Fluorometer
+  25. file://localhost/wiki/Parts-per_notation
+  26. file://localhost/wiki/Fluorescein
+  27. file://localhost/w/index.php?title=Uranine&action=edit&redlink=1
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#cite_note-crawford-0
+  29. file://localhost/wiki/Rhodamine
+  30. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=2
+  31. file://localhost/wiki/Absorption_(chemistry)
+  32. file://localhost/wiki/Charcoal
+  33. file://localhost/wiki/Filter_fluorometer
+  34. file://localhost/wiki/Human_eye
+  35. file://localhost/wiki/Spectrofluorometer
+  36. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=3
+  37. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=4
+  38. file://localhost/wiki/Water
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#cite_note-1
+  40. file://localhost/wiki/Plumbing
+  41. file://localhost/wiki/Piping
+  42. file://localhost/wiki/Pollution
+  43. file://localhost/wiki/River
+  44. file://localhost/wiki/Lake
+  45. file://localhost/wiki/Ocean_current
+  46. file://localhost/wiki/Cave
+  47. file://localhost/wiki/Karst
+  48. file://localhost/wiki/Groundwater
+  49. file://localhost/wiki/Sewer
+  50. file://localhost/wiki/Stormwater
+  51. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=5
+  52. file://localhost/wiki/Blood_circulation
+  53. file://localhost/wiki/Fluorescent_angiography
+  54. file://localhost/wiki/Retina
+  55. file://localhost/wiki/Fluorescent_tag
+  56. file://localhost/wiki/Fluorescein#Biological_research
+  57. file://localhost/wiki/Fluorescent-activated_cell_sorting
+  58. file://localhost/wiki/Flow_cytometry
+  59. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=6
+  60. file://localhost/wiki/Fluorescence_microscope
+  61. file://localhost/wiki/FLEX_mission
+  62. file://localhost/wiki/Fluorescent_green_pig
+  63. file://localhost/w/index.php?title=Float_tracking&action=edit&redlink=1
+  64. file://localhost/w/index.php?title=Dye_tracing&action=edit&section=7
+  65. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#cite_ref-crawford_0-0
+  66. http://www.dyetracing.com/
+  67. file://localhost/wiki/Western_Kentucky_University
+  68. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc568.tmp.html#cite_ref-1
+  69. http://www.brightdyes.com/technical/TDBGeneral.pdf
+  70. http://en.wikipedia.org/wiki/Dye_tracing
+  71. file://localhost/wiki/Special:Categories
+  72. file://localhost/wiki/Category:Dyes
+  73. file://localhost/wiki/Category:Data_collection
+  74. file://localhost/wiki/Category:Hydrology
+  75. file://localhost/wiki/Dye_tracing
+  76. file://localhost/wiki/Talk:Dye_tracing
+  77. file://localhost/w/index.php?title=Dye_tracing&action=edit
+  78. file://localhost/w/index.php?title=Dye_tracing&action=history
+  79. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dye_tracing
+  80. file://localhost/wiki/Main_Page
+  81. file://localhost/wiki/Portal:Contents
+  82. file://localhost/wiki/Portal:Featured_content
+  83. file://localhost/wiki/Portal:Current_events
+  84. file://localhost/wiki/Special:Random
+  85. file://localhost/wiki/Wikipedia:About
+  86. file://localhost/wiki/Wikipedia:Community_portal
+  87. file://localhost/wiki/Special:RecentChanges
+  88. file://localhost/wiki/Wikipedia:Contact_us
+  89. http://wikimediafoundation.org/wiki/Donate
+  90. file://localhost/wiki/Help:Contents
+  91. file://localhost/wiki/Special:WhatLinksHere/Dye_tracing
+  92. file://localhost/wiki/Special:RecentChangesLinked/Dye_tracing
+  93. file://localhost/wiki/Wikipedia:Upload
+  94. file://localhost/wiki/Special:SpecialPages
+  95. file://localhost/w/index.php?title=Dye_tracing&printable=yes
+  96. file://localhost/w/index.php?title=Dye_tracing&oldid=260791146
+  97. file://localhost/w/index.php?title=Special:Cite&page=Dye_tracing&id=260791146
+  98. http://de.wikipedia.org/wiki/F%C3%A4rbeversuch_(Hydrogeologie)
+  99. http://fr.wikipedia.org/wiki/Tra%C3%A7age_(hydrog%C3%A9ologie)
+ 100. http://www.mediawiki.org/
+ 101. http://wikimediafoundation.org/
+ 102. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 103. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 104. http://www.wikimediafoundation.org/
+ 105. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 106. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 107. http://en.wikipedia.org/wiki/Non-profit_organization
+ 108. http://en.wikipedia.org/wiki/Charitable_organization
+ 109. http://wikimediafoundation.org/wiki/Privacy_policy
+ 110. file://localhost/wiki/Wikipedia:About
+ 111. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 112. file://localhost/wiki/File:Chicago_River,_dye_travelling_upstream.jpg
+ 113. file://localhost/wiki/File:Chicago_River,_dye_travelling_upstream.jpg
+ 114. file://localhost/wiki/Main_Page

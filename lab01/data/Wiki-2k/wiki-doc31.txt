@@ -1,0 +1,485 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Divergent series
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   In [8]mathematics, a divergent series is an [9]infinite series that is
+   not [10]convergent, meaning that the infinite [11]sequence of the
+   [12]partial sums of the series does not have a [13]limit.
+
+   If a series converges, the individual terms of the series must approach
+   zero. Thus any series in which the individual terms do not approach
+   zero diverges. However, convergence is a stronger condition: not all
+   series whose terms approach zero converge. The simplest counter example
+   is the [14]harmonic series
+
+          1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} +
+          \cdots =\sum_{n=1}^\infty\frac{1}{n}.
+
+   The divergence of the harmonic series was elegantly proven ([15]here)
+   by the medieval mathematician [16]Nicole Oresme.
+
+   In specialized mathematical contexts, values can be usefully assigned
+   to certain series whose sequence of partial sums diverges. A
+   summability method or summation method is a [17]partial function from
+   the set of sequences of partial sums of series to values. For example,
+   [18]Cesro summation assigns [19]Grandi's divergent series
+
+          1 - 1 + 1 - 1 + \cdots
+
+   the value ^1/[2]. Cesro summation is an averaging method, in that it
+   relies on the [20]arithmetic mean of the sequence of partial sums.
+   Other methods involve [21]analytic continuations of related series. In
+   [22]physics, there are a wide variety of summability methods; these are
+   discussed in greater detail in the article on [23]regularization.
+
+Contents
+
+     * [24]1 Theorems on methods for summing divergent series
+     * [25]2 Properties of summation methods
+     * [26]3 Axiomatic methods
+     * [27]4 Nrlund means
+     * [28]5 Abelian means
+          + [29]5.1 Abel summation
+          + [30]5.2 Lindelf summation
+     * [31]6 See also
+     * [32]7 References
+
+[[33]edit] Theorems on methods for summing divergent series
+
+   A summability method M is [34]regular if it agrees with the actual
+   limit on all [35]convergent series. Such a result is called an
+   [36]abelian theorem for M, from the prototypical [37]Abel's theorem.
+   More interesting and in general more subtle are partial converse
+   results, called [38]tauberian theorems, from a prototype proved by
+   [39]Alfred Tauber. Here partial converse means that if M sums the
+   series , and some side-condition holds, then was convergent in the
+   first place; without any side condition such a result would say that M
+   only summed convergent series (making it useless as a summation method
+   for divergent series).
+
+   The operator giving the sum of a convergent series is [40]linear, and
+   it follows from the [41]Hahn-Banach theorem that it may be extended to
+   a summation method summing any series with bounded partial sums. This
+   fact is not very useful in practice since there are many such
+   extensions, [42]inconsistent with each other, and also since proving
+   such operators exist requires invoking the [43]axiom of choice or its
+   equivalents, such as [44]Zorn's lemma. They are therefore
+   nonconstructive.
+
+   The subject of divergent series, as a domain of [45]mathematical
+   analysis, is primarily concerned with explicit and natural techniques
+   such as [46]Abel summation, [47]Cesro summation and [48]Borel
+   summation, and their relationships. The advent of [49]Wiener's
+   tauberian theorem marked an epoch in the subject, introducing
+   unexpected connections to [50]Banach algebra methods in [51]Fourier
+   analysis.
+
+   Summation of divergent series is also related to [52]extrapolation
+   methods and [53]sequence transformations as numerical techniques.
+   Examples for such techniques are [54]Pad approximants, [55]Levin-type
+   sequence transformations, and order-dependent mappings related to
+   [56]renormalization techniques for large-order [57]perturbation theory
+   in [58]quantum mechanics.
+
+[[59]edit] Properties of summation methods
+
+   Summation methods usually concentrate on the sequence of partial sums
+   of the series. While this sequence does not converge, we may often find
+   that when we take an [60]average of larger and larger initial terms of
+   the sequence, the average converges, and we can use this average
+   instead of a limit to evaluate the sum of the series. So in evaluating
+   a = a[0] + a[1] + a[2] + ..., we work with the sequence s, where s[0] =
+   a[0] and s[n+1] = s[n] + a[n]. In the convergent case, the sequence s
+   approaches the limit a. A summation method can be seen as a function
+   from a set of sequences of partial sums to values. If A is any
+   summation method assigning values to a set of sequences, we may
+   mechanically translate this to a series-summation method A^ that
+   assigns the same values to the corresponding series. There are certain
+   properties it is desirable for these methods to possess if they are to
+   arrive at values corresponding to limits and sums, respectively.
+    1. Regularity. A summation method is regular if, whenever the sequence
+       s converges to x, A(s) = x. Equivalently, the corresponding
+       series-summation method evaluates A^(a) = x.
+    2. Linearity. A is linear if it is a linear functional on the
+       sequences where it is defined, so that A(r + s) = A(r) + A(s) and
+       A(ks) = k A(s), for k a scalar (real or complex.) Since the terms
+       a[n] = s[n+1] s[n] of the series a are linear functionals on the
+       sequence s and vice versa, this is equivalent to A^ being a linear
+       functional on the terms of the series.
+    3. Stability. If s is a sequence starting from s[0] and s is the
+       sequence obtained by omitting the first value and subtracting it
+       from the rest, so that s[n] = s[n+1] s[0], then A(s) is defined if
+       and only if A(s) is defined, and A(s) = s[0] + A(s). Equivalently,
+       whenever a[n] = a[n+1] for all n, then A^(a) = a[0] + A^(a).
+
+   The third condition is less important, and some significant methods,
+   such as [61]Borel summation, do not possess it.
+
+   A desirable property for two distinct summation methods A and B to
+   share is consistency: A and B are [62]consistent if for every sequence
+   s to which both assign a value, A(s) = B(s). If two methods are
+   consistent, and one sums more series than the other, the one summing
+   more series is stronger.
+
+   It should be noted that there are powerful numerical summation methods
+   that are neither regular nor linear, for instance nonlinear
+   [63]sequence transformations like [64]Levin-type sequence
+   transformations and [65]Pad approximants, as well as the
+   order-dependent mappings of perturbative series based on
+   [66]renormalization techniques.
+
+[[67]edit] Axiomatic methods
+
+   Taking regularity, linearity and stability as axioms, it is possible to
+   sum many divergent series by elementary algebraic manipulations. For
+   instance, whenever r 1, the [68]geometric series
+
+          \begin{align} G(r,c) & = \sum_{k=0}^\infty cr^k & & \\ & = c +
+          \sum_{k=0}^\infty cr^{k+1} & & \mbox{ (stability) } \\ & = c + r
+          \sum_{k=0}^\infty cr^k & & \mbox{ (linearity) } \\ & = c + r \,
+          G(r,c), & & \mbox{ whence } \\ G(r,c) & = \frac{c}{1-r} , & & \\
+          \end{align}
+
+   can be evaluated regardless of convergence. More rigorously, any
+   summation method that possesses these properties and which assigns a
+   finite value to the geometric series must assign this value. However,
+   when r is a real number larger than 1, the partial sums increase
+   without bound, and averaging methods assign a limit of .
+
+[[69]edit] Nrlund means
+
+   Suppose p[n] is a sequence of positive terms, starting from p[0].
+   Suppose also that
+
+          \frac{p_n}{p_0+p_1 + \cdots + p_n} \rightarrow 0.
+
+   If now we transform a sequence s by using p to give weighted means,
+   setting
+
+          t_m = \frac{p_m s_0 + p_{m-1}s_1 + \cdots + p_0
+          s_m}{p_0+p_1+\cdots+p_m}
+
+   then the limit of t[n] as n goes to infinity is an average called the
+   [70]Nrlund mean N[p](s).
+
+   The Nrlund mean is regular, linear, and stable. Moreover, any two
+   Nrlund means are consistent. The most significant of the Nrlund means
+   are the Cesro sums. Here, if we define the sequence p^k by
+
+          p_n^k = {n+k-1 \choose k-1} = \frac{\Gamma(n+k)}{\Gamma(k)}
+
+   then the Cesro sum C[k] is defined by C[k](s) = N[(p^k)](s). Cesro sums
+   are Nrlund means if k 0, and hence are regular, linear, stable, and
+   consistent. C[0] is ordinary summation, and C[1] is ordinary [71]Cesro
+   summation. Cesro sums have the property that if h > k, then C[h] is
+   stronger than C[k].
+
+[[72]edit] Abelian means
+
+   Suppose = {[0], [1], [2], } is a strictly increasing sequence tending
+   towards infinity, and that [0] 0. [73]Recall that a[n] = s[n+1] s[n] is
+   the associated series whose partial sums form the sequence s. Suppose
+
+          f(x) = \sum_{n=0}^\infty a_n \exp(-\lambda_n x)
+
+   converges for all positive real numbers x. Then the Abelian mean A[] is
+   defined as
+
+          A_\lambda(s) = \lim_{x \rightarrow 0^{+}} f(x).
+
+   A series of this type is known as a [74]generalized Dirichlet series;
+   in applications to physics, this is known as the method of
+   [75]heat-kernel regularization.
+
+   Abelian means are regular, linear, and stable, but not always
+   consistent between different choices of . However, some special cases
+   are very important summation methods.
+
+[[76]edit] Abel summation
+
+   If [n] = n, then we obtain the method of Abel summation. Here
+
+          f(x) = \sum_{n=0}^\infty a_n \exp(-nx) = \sum_{n=0}^\infty a_n
+          z^n,
+
+   where z = exp(x). Then the limit of (x) as x approaches 0 through
+   positive reals is the limit of the power series for &fnfo;(z) as z
+   approaches 1 from below through positive reals, and the Abel sum A(s)
+   is defined as
+
+          A(s) = \lim_{z \rightarrow 1^{-}} \sum_{n=0}^\infty a_n z^n.
+
+   Abel summation is interesting in part because it is consistent with but
+   more powerful than Cesro summation: A(s) = C[k](s) whenever the latter
+   is defined. The Abel sum is therefore regular, linear, stable, and
+   consistent with Cesro summation.
+
+[[77]edit] Lindelf summation
+
+   If [n] = n ln(n), then (indexing from one) we have
+
+          f(x) = a_1 + a_2 2^{-2x} + a_3 3^{-3x} + \cdots .
+
+   Then L(s), the Lindelf sum, is the limit of (x) as x goes to zero. The
+   Lindelf sum is a powerful method when applied to power series among
+   other applications, summing power series in the [78]Mittag-Leffler
+   star.
+
+   If g(z) is analytic in a disk around zero, and hence has a
+   [79]Maclaurin series G(z) with a positive radius of convergence, then
+   L(G(z)) = g(z) in the Mittag-Leffler star. This is defined by taking
+   rays from the origin out to any singularity, and removing the
+   singularity and anything beyond it on the ray from the complex plane.
+   L(G(z)) therefore extends the definition of G(z) as far as it can be
+   extended without running into the possibility (if the singularity is a
+   [80]branch point) of multiple values.
+
+[[81]edit] See also
+
+     * [82]1 2 + 3 4 +
+     * [83]1 2 + 4 8 +
+     * [84]1 + 1 + 1 + 1 +
+     * [85]1 + 2 + 3 + 4 +
+     * [86]1 + 2 + 4 + 8 +
+     * [87]Grandi's series
+     * [88]Lambert summation
+     * [89]SilvermanToeplitz theorem
+
+[[90]edit] References
+
+     * Arteca, G.A.; Fernndez, F.M.; Castro, E.A. (1990), Large-Order
+       Perturbation Theory and Summation Methods in Quantum Mechanics,
+       Berlin: Springer-Verlag .
+     * Baker, Jr., G. A.; Graves-Morris, P. (1996), Pad Approximants,
+       Cambridge University Press .
+     * Brezinski, C.; Zaglia, M. Redivo (1991), Extrapolation Methods.
+       Theory and Practice, North-Holland .
+     * [91]Hardy, G. H. (1949), Divergent Series, Oxford: Clarendon
+       Press .
+     * LeGuillou, J.-C.; Zinn-Justin, J. (1990), Large-Order Behaviour of
+       Perturbation Theory, Amsterdam: North-Holland .
+     * Zakharov, A.A. (2001), [92]"Abel summation method", in Hazewinkel,
+       Michiel, [93]Encyclopaedia of Mathematics, Kluwer Academic
+       Publishers, [94]ISBN 978-1556080104 .
+
+   Retrieved from "[95]http://en.wikipedia.org/wiki/Divergent_series"
+   [96]Categories: [97]Divergent series | [98]Mathematical analysis |
+   [99]Mathematical series | [100]Asymptotic analysis | [101]Summability
+   methods
+
+Views
+
+     * [102]Article
+     * [103]Discussion
+     * [104]Edit this page
+     * [105]History
+
+Personal tools
+
+     * [106]Log in / create account
+
+Navigation
+
+     * [107]Main page
+     * [108]Contents
+     * [109]Featured content
+     * [110]Current events
+     * [111]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [112]About Wikipedia
+     * [113]Community portal
+     * [114]Recent changes
+     * [115]Contact Wikipedia
+     * [116]Donate to Wikipedia
+     * [117]Help
+
+Toolbox
+
+     * [118]What links here
+     * [119]Related changes
+     * [120]Upload file
+     * [121]Special pages
+     * [122]Printable version
+     * [123]Permanent link
+     * [124]Cite this page
+
+Languages
+
+     * [125]Espaol
+     * [126]Franais
+     * [127]Italiano
+     * [128]Norsk (bokml)
+     * [129]Portugus
+     *
+
+   [130]Powered by MediaWiki
+   [131]Wikimedia Foundation
+     * This page was last modified on 29 December 2008, at 14:09.
+     * All text is available under the terms of the [132]GNU Free
+       Documentation License. (See [133]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [134]Wikimedia
+       Foundation, Inc., a U.S. registered [135]501(c)(3)
+       [136]tax-deductible [137]nonprofit [138]charity.
+     * [139]Privacy policy
+     * [140]About Wikipedia
+     * [141]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Divergent_series&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#searchInput
+   8. file://localhost/wiki/Mathematics
+   9. file://localhost/wiki/Infinite_series
+  10. file://localhost/wiki/Convergent_series
+  11. file://localhost/wiki/Sequence
+  12. file://localhost/wiki/Partial_sum
+  13. file://localhost/wiki/Limit_of_a_sequence
+  14. file://localhost/wiki/Harmonic_series_(mathematics)
+  15. file://localhost/wiki/Harmonic_series_(mathematics)#Divergence_of_the_harmonic_series
+  16. file://localhost/wiki/Nicole_Oresme
+  17. file://localhost/wiki/Partial_function
+  18. file://localhost/wiki/Ces%C3%A0ro_summation
+  19. file://localhost/wiki/Grandi%27s_series
+  20. file://localhost/wiki/Arithmetic_mean
+  21. file://localhost/wiki/Analytic_continuation
+  22. file://localhost/wiki/Physics
+  23. file://localhost/wiki/Regularization_(physics)
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Theorems_on_methods_for_summing_divergent_series
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Properties_of_summation_methods
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Axiomatic_methods
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#N.C3.B6rlund_means
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Abelian_means
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Abel_summation
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Lindel.C3.B6f_summation
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#See_also
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#References
+  33. file://localhost/w/index.php?title=Divergent_series&action=edit&section=1
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Properties_of_summation_methods
+  35. file://localhost/wiki/Convergent_series
+  36. file://localhost/wiki/Abelian_theorem
+  37. file://localhost/wiki/Abel%27s_theorem
+  38. file://localhost/wiki/Tauberian_theorems
+  39. file://localhost/wiki/Alfred_Tauber
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Properties_of_summation_methods
+  41. file://localhost/wiki/Hahn-Banach_theorem
+  42. file://localhost/wiki/Inconsistent
+  43. file://localhost/wiki/Axiom_of_choice
+  44. file://localhost/wiki/Zorn%27s_lemma
+  45. file://localhost/wiki/Mathematical_analysis
+  46. file://localhost/wiki/Abel_summation
+  47. file://localhost/wiki/Ces%C3%A0ro_summation
+  48. file://localhost/wiki/Borel_summation
+  49. file://localhost/wiki/Wiener%27s_tauberian_theorem
+  50. file://localhost/wiki/Banach_algebra
+  51. file://localhost/wiki/Fourier_analysis
+  52. file://localhost/wiki/Extrapolation
+  53. file://localhost/wiki/Sequence_transformation
+  54. file://localhost/wiki/Pad%C3%A9_approximant
+  55. file://localhost/w/index.php?title=Levin-type_sequence_transformation&action=edit&redlink=1
+  56. file://localhost/wiki/Renormalization
+  57. file://localhost/wiki/Perturbation_theory
+  58. file://localhost/wiki/Quantum_mechanics
+  59. file://localhost/w/index.php?title=Divergent_series&action=edit&section=2
+  60. file://localhost/wiki/Average
+  61. file://localhost/wiki/Borel_summation
+  62. file://localhost/wiki/Consistent
+  63. file://localhost/wiki/Sequence_transformation
+  64. file://localhost/w/index.php?title=Levin-type_sequence_transformation&action=edit&redlink=1
+  65. file://localhost/wiki/Pad%C3%A9_approximant
+  66. file://localhost/wiki/Renormalization
+  67. file://localhost/w/index.php?title=Divergent_series&action=edit&section=3
+  68. file://localhost/wiki/Divergent_geometric_series
+  69. file://localhost/w/index.php?title=Divergent_series&action=edit&section=4
+  70. file://localhost/wiki/Niels_Erik_N%C3%B6rlund
+  71. file://localhost/wiki/Ces%C3%A0ro_summation
+  72. file://localhost/w/index.php?title=Divergent_series&action=edit&section=5
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc31.tmp.html#Properties_of_summation_methods
+  74. file://localhost/w/index.php?title=Generalized_Dirichlet_series&action=edit&redlink=1
+  75. file://localhost/wiki/Heat-kernel_regularization
+  76. file://localhost/w/index.php?title=Divergent_series&action=edit&section=6
+  77. file://localhost/w/index.php?title=Divergent_series&action=edit&section=7
+  78. file://localhost/wiki/Mittag-Leffler_star
+  79. file://localhost/wiki/Maclaurin_series
+  80. file://localhost/wiki/Branch_point
+  81. file://localhost/w/index.php?title=Divergent_series&action=edit&section=8
+  82. file://localhost/wiki/1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%C2%B7_%C2%B7_%C2%B7
+  83. file://localhost/wiki/1_%E2%88%92_2_%2B_4_%E2%88%92_8_%2B_%C2%B7_%C2%B7_%C2%B7
+  84. file://localhost/wiki/1_%2B_1_%2B_1_%2B_1_%2B_%C2%B7_%C2%B7_%C2%B7
+  85. file://localhost/wiki/1_%2B_2_%2B_3_%2B_4_%2B_%C2%B7_%C2%B7_%C2%B7
+  86. file://localhost/wiki/1_%2B_2_%2B_4_%2B_8_%2B_%C2%B7_%C2%B7_%C2%B7
+  87. file://localhost/wiki/Grandi%27s_series
+  88. file://localhost/wiki/Lambert_summation
+  89. file://localhost/wiki/Silverman%E2%80%93Toeplitz_theorem
+  90. file://localhost/w/index.php?title=Divergent_series&action=edit&section=9
+  91. file://localhost/wiki/G._H._Hardy
+  92. http://eom.springer.de/a/a010170.htm
+  93. file://localhost/wiki/Encyclopaedia_of_Mathematics
+  94. file://localhost/wiki/Special:BookSources/9781556080104
+  95. http://en.wikipedia.org/wiki/Divergent_series
+  96. file://localhost/wiki/Special:Categories
+  97. file://localhost/wiki/Category:Divergent_series
+  98. file://localhost/wiki/Category:Mathematical_analysis
+  99. file://localhost/wiki/Category:Mathematical_series
+ 100. file://localhost/wiki/Category:Asymptotic_analysis
+ 101. file://localhost/wiki/Category:Summability_methods
+ 102. file://localhost/wiki/Divergent_series
+ 103. file://localhost/wiki/Talk:Divergent_series
+ 104. file://localhost/w/index.php?title=Divergent_series&action=edit
+ 105. file://localhost/w/index.php?title=Divergent_series&action=history
+ 106. file://localhost/w/index.php?title=Special:UserLogin&returnto=Divergent_series
+ 107. file://localhost/wiki/Main_Page
+ 108. file://localhost/wiki/Portal:Contents
+ 109. file://localhost/wiki/Portal:Featured_content
+ 110. file://localhost/wiki/Portal:Current_events
+ 111. file://localhost/wiki/Special:Random
+ 112. file://localhost/wiki/Wikipedia:About
+ 113. file://localhost/wiki/Wikipedia:Community_portal
+ 114. file://localhost/wiki/Special:RecentChanges
+ 115. file://localhost/wiki/Wikipedia:Contact_us
+ 116. http://wikimediafoundation.org/wiki/Donate
+ 117. file://localhost/wiki/Help:Contents
+ 118. file://localhost/wiki/Special:WhatLinksHere/Divergent_series
+ 119. file://localhost/wiki/Special:RecentChangesLinked/Divergent_series
+ 120. file://localhost/wiki/Wikipedia:Upload
+ 121. file://localhost/wiki/Special:SpecialPages
+ 122. file://localhost/w/index.php?title=Divergent_series&printable=yes
+ 123. file://localhost/w/index.php?title=Divergent_series&oldid=260673398
+ 124. file://localhost/w/index.php?title=Special:Cite&page=Divergent_series&id=260673398
+ 125. http://es.wikipedia.org/wiki/Serie_divergente
+ 126. http://fr.wikipedia.org/wiki/S%C3%A9rie_divergente
+ 127. http://it.wikipedia.org/wiki/Serie_divergente
+ 128. http://no.wikipedia.org/wiki/Divergent_rekke
+ 129. http://pt.wikipedia.org/wiki/S%C3%A9rie_divergente
+ 130. http://www.mediawiki.org/
+ 131. http://wikimediafoundation.org/
+ 132. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 133. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 134. http://www.wikimediafoundation.org/
+ 135. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 136. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 137. http://en.wikipedia.org/wiki/Non-profit_organization
+ 138. http://en.wikipedia.org/wiki/Charitable_organization
+ 139. http://wikimediafoundation.org/wiki/Privacy_policy
+ 140. file://localhost/wiki/Wikipedia:About
+ 141. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 142. file://localhost/wiki/Main_Page
+ 143. http://zh.wikipedia.org/wiki/%E5%8F%91%E6%95%A3%E7%BA%A7%E6%95%B0

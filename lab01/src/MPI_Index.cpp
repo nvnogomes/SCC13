@@ -6,16 +6,12 @@
 #include <sstream>
 #include <string>
 #include <cstdlib>
+
 #include "Aggregator.h"
 #include "Indexer.h"
+#include "Merger.h"
+#include "config.h"
 
-
-#define WORK_TAG 1
-#define DIE_TAG 2
-#define DATA_DIRECTORY "data/Eca-Queiros/"
-//#define DATA_DIRECTORY "data/Wiki-1k/"
-#define OUTPUT_DIRECTORY "output/"
-#define TRACE true
 
 
 
@@ -26,7 +22,7 @@ std::ostringstream buf ("");
 
 
 
-void listDocDirectory(std::string directory) {
+void list_data_directory(std::string directory) {
     DIR *searchDirectory;
     struct dirent *entry;
 
@@ -34,7 +30,7 @@ void listDocDirectory(std::string directory) {
 
     if( searchDirectory == NULL ) {
         printf("Error: Cannot open directory: %s", directory.c_str() );
-	exit(27);
+        exit(1);
     }
 
     while( (entry = readdir( searchDirectory )) ){
@@ -245,7 +241,7 @@ main(int argc, char **argv) {
 
     MPI_Init(&argc, &argv);
 
-    listDocDirectory( DATA_DIRECTORY );
+    list_data_directory( DATA_DIRECTORY );
 
     MPI_Datatype MPIString;
     MPI_Type_contiguous(16, MPI::CHAR, &MPIString);
@@ -259,7 +255,7 @@ main(int argc, char **argv) {
 
         buf << "Time elapsed: " << finish - start << "s" <<std::endl;
 
-        if( TRACE ) { outputTrace(); }
+        if( DEBUG ) { outputTrace(); }
 
     } else {
         slave();

@@ -1,0 +1,192 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dosamp
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   CAPTION: Dosamp
+
+   Screenshot of Dosamp.
+   [8]Developed by [9]Nullsoft
+       [10]OS      [11]DOS
+      [12]Type     [13]media player
+     [14]License   [15]freeware
+
+   Dosamp is a software audio [16]MP3 player made by [17]Nullsoft for
+   [18]DOS operating systems. The project got dropped soon in favor of
+   WinAMP product, thus has only historical relevance by now. There is
+   however an up-to-date DOS audio player called [19]MPXPLAY available,
+   unrelated to DOSamp.
+
+[[20]edit] See also
+
+     * [21]Winamp
+     * [22]MPXPLAY
+     * [23]Comparison_of_media_players
+
+[[24]edit] External links
+
+   Official websites
+
+          + [25]Nullsoft (no DOSAMP anymore)
+
+   Photos, maps, and other images
+
+          + [26]Screenshot of Dosamp running under [27]DOSBox
+
+   Online software locations
+
+          + ReallyRareWares: [28]software info and download
+
+    This [29]multimedia [30]software-related article is a [31]stub. You
+   can [32]help Wikipedia by [33]expanding it.
+    This [34]DOS [35]software-related article is a [36]stub. You can
+   [37]help Wikipedia by [38]expanding it.
+   Retrieved from "[39]http://en.wikipedia.org/wiki/Dosamp"
+   [40]Categories: [41]Multimedia software stubs | [42]DOS stubs | [43]DOS
+   media players
+
+Views
+
+     * [44]Article
+     * [45]Discussion
+     * [46]Edit this page
+     * [47]History
+
+Personal tools
+
+     * [48]Log in / create account
+
+Navigation
+
+     * [49]Main page
+     * [50]Contents
+     * [51]Featured content
+     * [52]Current events
+     * [53]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [54]About Wikipedia
+     * [55]Community portal
+     * [56]Recent changes
+     * [57]Contact Wikipedia
+     * [58]Donate to Wikipedia
+     * [59]Help
+
+Toolbox
+
+     * [60]What links here
+     * [61]Related changes
+     * [62]Upload file
+     * [63]Special pages
+     * [64]Printable version
+     * [65]Permanent link
+     * [66]Cite this page
+
+   [67]Powered by MediaWiki
+   [68]Wikimedia Foundation
+     * This page was last modified on 16 March 2008, at 21:48.
+     * All text is available under the terms of the [69]GNU Free
+       Documentation License. (See [70]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [71]Wikimedia
+       Foundation, Inc., a U.S. registered [72]501(c)(3)
+       [73]tax-deductible [74]nonprofit [75]charity.
+     * [76]Privacy policy
+     * [77]About Wikipedia
+     * [78]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dosamp&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc258.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc258.tmp.html#searchInput
+   8. file://localhost/wiki/Software_developer
+   9. file://localhost/wiki/Nullsoft
+  10. file://localhost/wiki/Operating_system
+  11. file://localhost/wiki/DOS
+  12. file://localhost/wiki/List_of_software_categories
+  13. file://localhost/wiki/Media_player_(application_software)
+  14. file://localhost/wiki/Software_license
+  15. file://localhost/wiki/Freeware
+  16. file://localhost/wiki/MP3
+  17. file://localhost/wiki/Nullsoft
+  18. file://localhost/wiki/DOS
+  19. file://localhost/wiki/MPXPLAY
+  20. file://localhost/w/index.php?title=Dosamp&action=edit&section=1
+  21. file://localhost/wiki/Winamp
+  22. file://localhost/wiki/MPXPLAY
+  23. file://localhost/wiki/Comparison_of_media_players
+  24. file://localhost/w/index.php?title=Dosamp&action=edit&section=2
+  25. http://www.nullsoft.com/
+  26. http://www.neilturner.me.uk/shots/dosamp.png
+  27. file://localhost/wiki/DOSBox
+  28. http://www.rjamorim.com/rrw/dosamp.html
+  29. file://localhost/wiki/Multimedia
+  30. file://localhost/wiki/Computer_software
+  31. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  32. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  33. http://en.wikipedia.org/w/index.php?stub&title=Dosamp&action=edit
+  34. file://localhost/wiki/DOS
+  35. file://localhost/wiki/Computer_software
+  36. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  37. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  38. http://en.wikipedia.org/w/index.php?title=Dosamp&action=edit
+  39. http://en.wikipedia.org/wiki/Dosamp
+  40. file://localhost/wiki/Special:Categories
+  41. file://localhost/wiki/Category:Multimedia_software_stubs
+  42. file://localhost/wiki/Category:DOS_stubs
+  43. file://localhost/wiki/Category:DOS_media_players
+  44. file://localhost/wiki/Dosamp
+  45. file://localhost/wiki/Talk:Dosamp
+  46. file://localhost/w/index.php?title=Dosamp&action=edit
+  47. file://localhost/w/index.php?title=Dosamp&action=history
+  48. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dosamp
+  49. file://localhost/wiki/Main_Page
+  50. file://localhost/wiki/Portal:Contents
+  51. file://localhost/wiki/Portal:Featured_content
+  52. file://localhost/wiki/Portal:Current_events
+  53. file://localhost/wiki/Special:Random
+  54. file://localhost/wiki/Wikipedia:About
+  55. file://localhost/wiki/Wikipedia:Community_portal
+  56. file://localhost/wiki/Special:RecentChanges
+  57. file://localhost/wiki/Wikipedia:Contact_us
+  58. http://wikimediafoundation.org/wiki/Donate
+  59. file://localhost/wiki/Help:Contents
+  60. file://localhost/wiki/Special:WhatLinksHere/Dosamp
+  61. file://localhost/wiki/Special:RecentChangesLinked/Dosamp
+  62. file://localhost/wiki/Wikipedia:Upload
+  63. file://localhost/wiki/Special:SpecialPages
+  64. file://localhost/w/index.php?title=Dosamp&printable=yes
+  65. file://localhost/w/index.php?title=Dosamp&oldid=198718052
+  66. file://localhost/w/index.php?title=Special:Cite&page=Dosamp&id=198718052
+  67. http://www.mediawiki.org/
+  68. http://wikimediafoundation.org/
+  69. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  70. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  71. http://www.wikimediafoundation.org/
+  72. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  73. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  74. http://en.wikipedia.org/wiki/Non-profit_organization
+  75. http://en.wikipedia.org/wiki/Charitable_organization
+  76. http://wikimediafoundation.org/wiki/Privacy_policy
+  77. file://localhost/wiki/Wikipedia:About
+  78. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  79. file://localhost/wiki/File:DOSAmp.JPG
+  80. file://localhost/wiki/File:Vista-multimedia.png
+  81. file://localhost/wiki/File:Synaptic.png
+  82. file://localhost/wiki/Main_Page

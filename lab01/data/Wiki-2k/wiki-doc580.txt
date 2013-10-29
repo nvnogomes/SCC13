@@ -1,0 +1,76 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dynamit Nobel AG
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   Dynamite Nobel AG was a [8]German chemical and weapons company whose
+   headquarters was based in [9]Troisdorf. It was founded in 1865 by
+   [10]Alfred Nobel.
+
+Contents
+
+     * [11]1 Creation
+     * [12]2 History of component companies and mergers
+     * [13]3 Notes
+     * [14]4 References
+
+[[15]edit] Creation
+
+   After the death of his younger brother [16]Emil in an 1864
+   nitroglycerin explosion at the family's armaments factory in
+   Heleneborg, [17]Stockholm, Nobel founded Nitroglycerin AB in
+   Winterviken near Stockholm. A year later, having found some German
+   business partners, he launched the Alfred Nobel & Company in Germany,
+   building an isolated factory in the Krmmel hills of [18]Geesthacht near
+   Hamburg. This business exported a liquid combination of nitroglycerin
+   and [19]gunpowder known as "Blasting Oil", but it was extremely
+   unstable and difficult to transport, as shown in numerous catastrophes.
+   The buildings of the Krmmel factory itself were destroyed in 1866 and
+   again in 1870.^[20][1]
+
+   In April 1866, the company shipped three unmarked crates of
+   nitroglycerin to California for the [21]Central Pacific Railroad, who
+   wished to experiment with its blasting capability to speed the
+   construction of a tunnel through the [22]Sierra Nevada for the
+   [23]First Transcontinental Railroad.^[24][2] One of the crates
+   exploded, destroying a [25]Wells Fargo office in [26]San Francisco and
+   killing fifteen people, leading to a complete ban on the transport of
+   liquid nitroglycerin in California.
+
+   Liquid nitroglycerin was widely banned elsewhere as well, and this
+   finally led to Alfred Nobel & Company's development of [27]dynamite in
+   1867, made by mixing the nitroglycerin with the
+
+References
+
+   1. http://en.wikipedia.org/w/index.php?title=Dynamit_Nobel_AG&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#searchInput
+   8. file://localhost/wiki/Germany
+   9. file://localhost/wiki/Troisdorf
+  10. file://localhost/wiki/Alfred_Nobel
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#Creation
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#History_of_component_companies_and_mergers
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#Notes
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#References
+  15. file://localhost/w/index.php?title=Dynamit_Nobel_AG&action=edit&section=1
+  16. file://localhost/wiki/Emil_Oskar_Nobel
+  17. file://localhost/wiki/Stockholm
+  18. file://localhost/wiki/Geesthacht
+  19. file://localhost/wiki/Gunpowder
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#cite_note-0
+  21. file://localhost/wiki/Central_Pacific_Railroad
+  22. file://localhost/wiki/Sierra_Nevada_(U.S.)
+  23. file://localhost/wiki/First_Transcontinental_Railroad
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc580.tmp.html#cite_note-1
+  25. file://localhost/wiki/Wells_Fargo
+  26. file://localhost/wiki/San_Francisco
+  27. file://localhost/wiki/Dynamite

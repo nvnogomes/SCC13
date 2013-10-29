@@ -1,0 +1,198 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Echo suppressor
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Echo Suppressor)
+   Jump to: [7]navigation, [8]search
+
+   An echo suppressor (sometimes "acoustic echo suppressor" / AES) is a
+   [9]telecommunications device used to reduce the [10]echo heard on long
+   [11]telephone [12]circuits, particularly circuits that traverse
+   [13]satellite links. Echo suppressors were first developed in the 1950s
+   in response to the first use of satellites for telecommunications, but
+   they have since been largely supplanted by better performing cancellers
+   [14]Acoustic Echo Cancelling
+
+   Echo suppressors work by detecting if there is a voice signal going in
+   one direction on a circuit, and then inserting a great deal of loss in
+   the other direction. Usually the echo suppressor at the far-end of the
+   circuit adds this loss when it detects voice coming from the near-end
+   of the circuit. This added loss prevents the speaker from hearing his
+   own voice.
+
+   While effective, this approach leads to several problems:
+     * Double-talk: It is fairly normal in conversation for both parties
+       to speak at the same time, at least briefly. Because each echo
+       suppressor will then detect voice energy coming from the far-end of
+       the circuit, the effect would ordinarily be for loss to be inserted
+       in both directions at once, effectively blocking both parties. To
+       prevent this, echo suppressors can be set to detect voice activity
+       from the near-end speaker and to fail to insert loss (or insert a
+       smaller loss) when both the near-end speaker and far-end speaker
+       are talking. This, of course, temporarily defeats the primary
+       effect of having an echo suppressor at all.
+
+     * Clipping: Since the echo suppressor is alternately inserting and
+       removing loss, there is frequently a small delay when a new speaker
+       begins talking that results in clipping the first syllable from
+       that speaker's speech.
+
+     * Dead-set: If the far-end party on a call is in a noisy environment,
+       the near-end speaker will hear that background noise while the
+       far-end speaker is talking, but the echo suppressor will suppress
+       this background noise when the near-end speaker starts talking. The
+       sudden absence of the background noise gives the near-end user the
+       impression that the line has gone dead.
+
+   Echo suppressors cause effects that are frustrating for both parties to
+   a call, although they do effectively deal with the echo. In response to
+   this, [15]AT&T [16]Bell Labs developed echo canceler theory in the
+   early 1960s, which then resulted in laboratory echo cancelers in the
+   late 1960s and commercial echo cancelers in the 1970s.
+
+   In modern times, the main use of an AES (over an AEC) lies in the
+   [17]VoIP sector. This is primarily because AECs require a fast hardware
+   (MHz), usually in the from of a [18]Digital signal processor (DSP). For
+   the PC market, and especially for the embedded VoIP market, this cost
+   in MHZ comes at a premium. On embedded platforms, it is not-unusual to
+   find a [19]Wideband [20]CODEC (such as [21]AMR-WB / [22]G.722)
+   incorporated in place of an AEC. This said, many (embedded) VoIP
+   solutions do have a fully functional AEC.
+
+   Examples of AES in VoIP include: "X-Ten Eyebeam", [23]X-Lite and
+   [24]Skype.
+
+[[25]edit] References
+
+     * [26]History of Echo Cancellation
+
+   Retrieved from "[27]http://en.wikipedia.org/wiki/Echo_suppressor"
+   [28]Category: [29]Communication circuits
+
+Views
+
+     * [30]Article
+     * [31]Discussion
+     * [32]Edit this page
+     * [33]History
+
+Personal tools
+
+     * [34]Log in / create account
+
+Navigation
+
+     * [35]Main page
+     * [36]Contents
+     * [37]Featured content
+     * [38]Current events
+     * [39]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [40]About Wikipedia
+     * [41]Community portal
+     * [42]Recent changes
+     * [43]Contact Wikipedia
+     * [44]Donate to Wikipedia
+     * [45]Help
+
+Toolbox
+
+     * [46]What links here
+     * [47]Related changes
+     * [48]Upload file
+     * [49]Special pages
+     * [50]Printable version
+     * [51]Permanent link
+     * [52]Cite this page
+
+   [53]Powered by MediaWiki
+   [54]Wikimedia Foundation
+     * This page was last modified on 22 June 2008, at 23:02.
+     * All text is available under the terms of the [55]GNU Free
+       Documentation License. (See [56]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [57]Wikimedia
+       Foundation, Inc., a U.S. registered [58]501(c)(3)
+       [59]tax-deductible [60]nonprofit [61]charity.
+     * [62]Privacy policy
+     * [63]About Wikipedia
+     * [64]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Echo_suppressor&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Echo_Suppressor&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc800.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc800.tmp.html#searchInput
+   9. file://localhost/wiki/Telecommunications
+  10. file://localhost/wiki/Echo_(phenomenon)
+  11. file://localhost/wiki/Telephone
+  12. file://localhost/wiki/Telecommunication_circuit
+  13. file://localhost/wiki/Satellite
+  14. file://localhost/wiki/Acoustic_Echo_Cancelling
+  15. file://localhost/wiki/AT%26T
+  16. file://localhost/wiki/Bell_Labs
+  17. file://localhost/wiki/VoIP
+  18. file://localhost/wiki/Digital_signal_processor
+  19. file://localhost/wiki/Wideband
+  20. file://localhost/wiki/CODEC
+  21. file://localhost/wiki/AMR-WB
+  22. file://localhost/wiki/G.722
+  23. file://localhost/wiki/X-Lite
+  24. file://localhost/wiki/Skype
+  25. file://localhost/w/index.php?title=Echo_suppressor&action=edit&section=1
+  26. http://www.iec.org/online/tutorials/echo_cancel/topic01.html?Next.x=36&Next.y=12&Next=Next
+  27. http://en.wikipedia.org/wiki/Echo_suppressor
+  28. file://localhost/wiki/Special:Categories
+  29. file://localhost/wiki/Category:Communication_circuits
+  30. file://localhost/wiki/Echo_suppressor
+  31. file://localhost/wiki/Talk:Echo_suppressor
+  32. file://localhost/w/index.php?title=Echo_suppressor&action=edit
+  33. file://localhost/w/index.php?title=Echo_suppressor&action=history
+  34. file://localhost/w/index.php?title=Special:UserLogin&returnto=Echo_suppressor
+  35. file://localhost/wiki/Main_Page
+  36. file://localhost/wiki/Portal:Contents
+  37. file://localhost/wiki/Portal:Featured_content
+  38. file://localhost/wiki/Portal:Current_events
+  39. file://localhost/wiki/Special:Random
+  40. file://localhost/wiki/Wikipedia:About
+  41. file://localhost/wiki/Wikipedia:Community_portal
+  42. file://localhost/wiki/Special:RecentChanges
+  43. file://localhost/wiki/Wikipedia:Contact_us
+  44. http://wikimediafoundation.org/wiki/Donate
+  45. file://localhost/wiki/Help:Contents
+  46. file://localhost/wiki/Special:WhatLinksHere/Echo_suppressor
+  47. file://localhost/wiki/Special:RecentChangesLinked/Echo_suppressor
+  48. file://localhost/wiki/Wikipedia:Upload
+  49. file://localhost/wiki/Special:SpecialPages
+  50. file://localhost/w/index.php?title=Echo_suppressor&printable=yes
+  51. file://localhost/w/index.php?title=Echo_suppressor&oldid=221073279
+  52. file://localhost/w/index.php?title=Special:Cite&page=Echo_suppressor&id=221073279
+  53. http://www.mediawiki.org/
+  54. http://wikimediafoundation.org/
+  55. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  56. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  57. http://www.wikimediafoundation.org/
+  58. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  59. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  60. http://en.wikipedia.org/wiki/Non-profit_organization
+  61. http://en.wikipedia.org/wiki/Charitable_organization
+  62. http://wikimediafoundation.org/wiki/Privacy_policy
+  63. file://localhost/wiki/Wikipedia:About
+  64. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  65. file://localhost/wiki/Main_Page

@@ -1,0 +1,180 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Conrotatory and disrotatory
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Disrotatory)
+   Jump to: [7]navigation, [8]search
+
+   In a conrotatory mode of an [9]electrocyclic reaction (a class of
+   [10]organic [11]chemical reactions) the [12]substituents located at the
+   termini of a [13]conjugated [14]double bond system move in the same
+   ([15]clockwise or counter clockwise) direction during ring opening or
+   ring closure. In a disrotatory mode, they move in opposite directions.
+
+   A simple [16]arrow-pushing analysis fails to explain the quantitative
+   conversion of [17]trans-cis-trans-2,4,6-octatriene to
+   [18]cis-dimethylcyclohexadiene (top of figure). However, a detailed
+   look at the orbital mechanics behind the process reveals that the
+   orbital symmetry of the octatriene's HOMO requires for the end pi
+   orbitals to move in opposite directions to form the correct symmetry
+   found in the sigma bond.
+   [19]Disrotatory ring closing reaction
+
+   This [20]stereospecificity is found in thermal rearrangements of all
+   conjugated systems containing 4n + 2 [21]pi electron and is based on
+   preservation of [22]orbital symmetry in the [23]highest occupied
+   molecular orbital. Systems containing 4n pi electrons show the opposite
+   [24]conrotatory mode, as do photoinduced rearrangements of 4n + 2 pi
+   electrons. Photoinduced rearrangements of 4n electron systems follow
+   the disrotatory rule.
+
+   The [25]Woodward-Hoffmann rules summarize the above different
+   reactions.
+
+[[26]edit] References
+
+     * Carey, Francis A.; Sundberg, Richard J.; (1984). Advanced Organic
+       Chemistry Part A Structure and Mechanisms (2nd ed.). New York N.Y.:
+       Plenum Press. [27]ISBN 0-306-41198-9.
+     * March Jerry; (1885). Advanced Organic Chemistry reactions,
+       mechanisms and structure (3rd ed.). New York: John Wiley & Sons,
+       inc. [28]ISBN 0-471-85472-7
+
+   Retrieved from
+   "[29]http://en.wikipedia.org/wiki/Conrotatory_and_disrotatory"
+   [30]Category: [31]Physical organic chemistry
+
+Views
+
+     * [32]Article
+     * [33]Discussion
+     * [34]Edit this page
+     * [35]History
+
+Personal tools
+
+     * [36]Log in / create account
+
+Navigation
+
+     * [37]Main page
+     * [38]Contents
+     * [39]Featured content
+     * [40]Current events
+     * [41]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [42]About Wikipedia
+     * [43]Community portal
+     * [44]Recent changes
+     * [45]Contact Wikipedia
+     * [46]Donate to Wikipedia
+     * [47]Help
+
+Toolbox
+
+     * [48]What links here
+     * [49]Related changes
+     * [50]Upload file
+     * [51]Special pages
+     * [52]Printable version
+     * [53]Permanent link
+     * [54]Cite this page
+
+Languages
+
+     *
+
+   [55]Powered by MediaWiki
+   [56]Wikimedia Foundation
+     * This page was last modified on 29 October 2008, at 10:35.
+     * All text is available under the terms of the [57]GNU Free
+       Documentation License. (See [58]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [59]Wikimedia
+       Foundation, Inc., a U.S. registered [60]501(c)(3)
+       [61]tax-deductible [62]nonprofit [63]charity.
+     * [64]Privacy policy
+     * [65]About Wikipedia
+     * [66]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Conrotatory_and_disrotatory&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Disrotatory&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc9.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc9.tmp.html#searchInput
+   9. file://localhost/wiki/Electrocyclic_reaction
+  10. file://localhost/wiki/Organic_chemistry
+  11. file://localhost/wiki/Chemical_reaction
+  12. file://localhost/wiki/Substituent
+  13. file://localhost/wiki/Conjugated_system
+  14. file://localhost/wiki/Covalent_bond
+  15. file://localhost/wiki/Clockwise_and_counterclockwise
+  16. file://localhost/w/index.php?title=Arrow-pushing&action=edit&redlink=1
+  17. file://localhost/wiki/Geometric_isomerism
+  18. file://localhost/wiki/Geometric_isomerism
+  19. file://localhost/wiki/File:Disrotatory.png
+  20. file://localhost/wiki/Stereospecific
+  21. file://localhost/wiki/Pi_electron
+  22. file://localhost/wiki/Orbital_symmetry
+  23. file://localhost/wiki/HOMO
+  24. file://localhost/wiki/Conrotatory
+  25. file://localhost/wiki/Woodward-Hoffmann_rules
+  26. file://localhost/w/index.php?title=Conrotatory_and_disrotatory&action=edit&section=1
+  27. file://localhost/wiki/Special:BookSources/0306411989
+  28. file://localhost/wiki/Special:BookSources/0471854727
+  29. http://en.wikipedia.org/wiki/Conrotatory_and_disrotatory
+  30. file://localhost/wiki/Special:Categories
+  31. file://localhost/wiki/Category:Physical_organic_chemistry
+  32. file://localhost/wiki/Conrotatory_and_disrotatory
+  33. file://localhost/wiki/Talk:Conrotatory_and_disrotatory
+  34. file://localhost/w/index.php?title=Conrotatory_and_disrotatory&action=edit
+  35. file://localhost/w/index.php?title=Conrotatory_and_disrotatory&action=history
+  36. file://localhost/w/index.php?title=Special:UserLogin&returnto=Conrotatory_and_disrotatory
+  37. file://localhost/wiki/Main_Page
+  38. file://localhost/wiki/Portal:Contents
+  39. file://localhost/wiki/Portal:Featured_content
+  40. file://localhost/wiki/Portal:Current_events
+  41. file://localhost/wiki/Special:Random
+  42. file://localhost/wiki/Wikipedia:About
+  43. file://localhost/wiki/Wikipedia:Community_portal
+  44. file://localhost/wiki/Special:RecentChanges
+  45. file://localhost/wiki/Wikipedia:Contact_us
+  46. http://wikimediafoundation.org/wiki/Donate
+  47. file://localhost/wiki/Help:Contents
+  48. file://localhost/wiki/Special:WhatLinksHere/Conrotatory_and_disrotatory
+  49. file://localhost/wiki/Special:RecentChangesLinked/Conrotatory_and_disrotatory
+  50. file://localhost/wiki/Wikipedia:Upload
+  51. file://localhost/wiki/Special:SpecialPages
+  52. file://localhost/w/index.php?title=Conrotatory_and_disrotatory&printable=yes
+  53. file://localhost/w/index.php?title=Conrotatory_and_disrotatory&oldid=248379850
+  54. file://localhost/w/index.php?title=Special:Cite&page=Conrotatory_and_disrotatory&id=248379850
+  55. http://www.mediawiki.org/
+  56. http://wikimediafoundation.org/
+  57. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  58. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  59. http://www.wikimediafoundation.org/
+  60. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  61. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  62. http://en.wikipedia.org/wiki/Non-profit_organization
+  63. http://en.wikipedia.org/wiki/Charitable_organization
+  64. http://wikimediafoundation.org/wiki/Privacy_policy
+  65. file://localhost/wiki/Wikipedia:About
+  66. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  67. file://localhost/wiki/Main_Page
+  68. http://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A7%D9%86_%D9%85%D8%AA%D8%B9%D8%A7%D9%83%D8%B3

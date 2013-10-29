@@ -1,0 +1,197 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EForward
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   EForward is a file/document transport protocol to transfer files
+   between computer systems with a guaranteed level of reliability. It
+   belongs to the [8]application layer of the [9]Internet protocol suite.
+
+   EForward uses a three-part (client-server-client) model, capable of
+   handling any file type without further processing.
+
+Contents
+
+     * [10]1 Overview
+          + [11]1.1 Stages
+          + [12]1.2 Uses
+     * [13]2 See also
+     * [14]3 External links
+
+[[15]edit] Overview
+
+   EForward uses one port, 2181, in either TCP or UDP mode to transfer
+   files between a client and the server. The major objective of the
+   protocol is to provide a known level of service: The documents sent
+   from one client to another should never be in an unknown state, at any
+   time. This is done by having the server keep track of the state of all
+   the messages, and having it be the definitive status keeper.
+
+   The other objective of the protocol is to allow clients to connect at
+   their convenience for either sending or receiving data: They can send
+   to any other client at any time, and receive any messages they have
+   been sent to them at any time. Alternatively, they can be notified by
+   the server when they have new messages.
+
+[[16]edit] Stages
+
+   In general communication via EForward happens in three stages:
+    1. Client A sends a message for Client B to the server.
+    2. Client B is notified by the server that there are new messages for
+       it.
+    3. Client B retrieves the message from the server.
+
+[[17]edit] Uses
+
+   EForward is designed specifically to transport documents between
+   companies, particularly when the loss of a document cannot be allowed.
+   Currently it is primarally used by the shipping/transport industry to
+   handle shipping instructions and messages between shipping companies,
+   ports, manufacturers and resalers.
+
+[[18]edit] See also
+
+     * [19]Trivial File Transfer Protocol (TFTP)
+     * [20]SSH file transfer protocol (sftp), a protocol running over
+       [21]SSH
+     * [22]Secure FTP, FTP run over SSH
+     * [23]FTPS, FTP run over SSL
+     * [24]Simple File Transfer Protocol (SFTP), the historic protocol
+       [25]RFC 913
+
+[[26]edit] External links
+
+     * [27]Corvedia
+
+   Retrieved from "[28]http://en.wikipedia.org/wiki/EForward"
+   [29]Category: [30]Network file transfer protocols
+
+Views
+
+     * [31]Article
+     * [32]Discussion
+     * [33]Edit this page
+     * [34]History
+
+Personal tools
+
+     * [35]Log in / create account
+
+Navigation
+
+     * [36]Main page
+     * [37]Contents
+     * [38]Featured content
+     * [39]Current events
+     * [40]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [41]About Wikipedia
+     * [42]Community portal
+     * [43]Recent changes
+     * [44]Contact Wikipedia
+     * [45]Donate to Wikipedia
+     * [46]Help
+
+Toolbox
+
+     * [47]What links here
+     * [48]Related changes
+     * [49]Upload file
+     * [50]Special pages
+     * [51]Printable version
+     * [52]Permanent link
+     * [53]Cite this page
+
+   [54]Powered by MediaWiki
+   [55]Wikimedia Foundation
+     * This page was last modified on 11 October 2006, at 19:03.
+     * All text is available under the terms of the [56]GNU Free
+       Documentation License. (See [57]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [58]Wikimedia
+       Foundation, Inc., a U.S. registered [59]501(c)(3)
+       [60]tax-deductible [61]nonprofit [62]charity.
+     * [63]Privacy policy
+     * [64]About Wikipedia
+     * [65]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EForward&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#searchInput
+   8. file://localhost/wiki/Application_layer
+   9. file://localhost/wiki/Internet_protocol_suite
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#Overview
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#Stages
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#Uses
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#See_also
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc636.tmp.html#External_links
+  15. file://localhost/w/index.php?title=EForward&action=edit&section=1
+  16. file://localhost/w/index.php?title=EForward&action=edit&section=2
+  17. file://localhost/w/index.php?title=EForward&action=edit&section=3
+  18. file://localhost/w/index.php?title=EForward&action=edit&section=4
+  19. file://localhost/wiki/Trivial_File_Transfer_Protocol
+  20. file://localhost/wiki/SSH_file_transfer_protocol
+  21. file://localhost/wiki/Secure_shell
+  22. file://localhost/wiki/Secure_FTP
+  23. file://localhost/wiki/FTPS
+  24. file://localhost/wiki/Simple_File_Transfer_Protocol
+  25. http://tools.ietf.org/html/rfc913
+  26. file://localhost/w/index.php?title=EForward&action=edit&section=5
+  27. http://www.corvedia.net/
+  28. http://en.wikipedia.org/wiki/EForward
+  29. file://localhost/wiki/Special:Categories
+  30. file://localhost/wiki/Category:Network_file_transfer_protocols
+  31. file://localhost/wiki/EForward
+  32. file://localhost/wiki/Talk:EForward
+  33. file://localhost/w/index.php?title=EForward&action=edit
+  34. file://localhost/w/index.php?title=EForward&action=history
+  35. file://localhost/w/index.php?title=Special:UserLogin&returnto=EForward
+  36. file://localhost/wiki/Main_Page
+  37. file://localhost/wiki/Portal:Contents
+  38. file://localhost/wiki/Portal:Featured_content
+  39. file://localhost/wiki/Portal:Current_events
+  40. file://localhost/wiki/Special:Random
+  41. file://localhost/wiki/Wikipedia:About
+  42. file://localhost/wiki/Wikipedia:Community_portal
+  43. file://localhost/wiki/Special:RecentChanges
+  44. file://localhost/wiki/Wikipedia:Contact_us
+  45. http://wikimediafoundation.org/wiki/Donate
+  46. file://localhost/wiki/Help:Contents
+  47. file://localhost/wiki/Special:WhatLinksHere/EForward
+  48. file://localhost/wiki/Special:RecentChangesLinked/EForward
+  49. file://localhost/wiki/Wikipedia:Upload
+  50. file://localhost/wiki/Special:SpecialPages
+  51. file://localhost/w/index.php?title=EForward&printable=yes
+  52. file://localhost/w/index.php?title=EForward&oldid=80864016
+  53. file://localhost/w/index.php?title=Special:Cite&page=EForward&id=80864016
+  54. http://www.mediawiki.org/
+  55. http://wikimediafoundation.org/
+  56. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  57. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  58. http://www.wikimediafoundation.org/
+  59. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  60. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  61. http://en.wikipedia.org/wiki/Non-profit_organization
+  62. http://en.wikipedia.org/wiki/Charitable_organization
+  63. http://wikimediafoundation.org/wiki/Privacy_policy
+  64. file://localhost/wiki/Wikipedia:About
+  65. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  66. file://localhost/wiki/Main_Page

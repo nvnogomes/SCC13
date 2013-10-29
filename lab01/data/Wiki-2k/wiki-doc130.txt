@@ -1,0 +1,917 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Domain Name System Security Extensions
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   The Domain Name System Security Extensions (DNSSEC) are a suite of
+   [8]IETF specifications for securing certain kinds of information
+   provided by the [9]Domain Name System (DNS) as used on [10]Internet
+   Protocol (IP) networks. It is a set of extensions to DNS which provide
+   to DNS clients (resolvers):
+     * Origin authentication of DNS data
+     * Data integrity (but not availability or confidentiality)
+     * Authenticated denial of existence
+
+   It is widely believed that securing the DNS is critically important for
+   securing the Internet as a whole, but deployment of DNSSEC specifically
+   has been hampered by the difficulty of:
+    1. Devising a backward-compatible standard that can scale to the size
+       of the Internet
+    2. Preventing "zone enumeration" (see below) where desired
+    3. Deploying DNSSEC implementations across a wide variety of DNS
+       servers and resolvers (clients)
+    4. Disagreement among key players over who should own the .com (etc)
+       root keys
+    5. Overcoming the perceived complexity of DNSSEC and DNSSEC deployment
+
+   Some of these problems are in the process of being resolved, and
+   deployments in various domains have begun to take place^[[11]citation
+   needed].
+
+Contents
+
+     * [12]1 Overview
+     * [13]2 History
+     * [14]3 Zone enumeration issue, controversy, and NSEC3
+          + [15]3.1 Why DNS zone data is normally kept private
+          + [16]3.2 DNSSEC reveals zone data
+          + [17]3.3 Response and NSEC3
+     * [18]4 Deployment
+          + [19]4.1 Tools
+          + [20]4.2 Early deployments
+          + [21]4.3 Deployment at the DNS root
+          + [22]4.4 DNSSEC Deployment Initiative
+          + [23]4.5 DNSSEC deployment in the U.S. federal government
+     * [24]5 See also
+     * [25]6 References
+     * [26]7 External links
+          + [27]7.1 Organizations / Websites
+          + [28]7.2 Standards
+          + [29]7.3 Other documents
+
+[[30]edit] Overview
+
+   IP-based networks, including the [31]Internet, route information
+   between computers based on their IP address, a multi-byte number (four
+   bytes in [32]IP version 4, sixteen bytes in [33]IP version 6). Directly
+   using these numbers would cause many problems, so DNS is a critical
+   service of such networks. DNS accepts a domain name (such as
+   example.com) and responds with information about that name, such as its
+   matching IP address. DNS can also perform reverse look-ups (given an IP
+   address, return the corresponding name). DNS is implemented as a
+   distributed system, for scalability. (For more information, see
+   [34]Domain Name System.) Unfortunately, DNS was not designed to be
+   secure.
+
+   There are several distinct classes of threats to the DNS, most of which
+   are DNS-related instances of more general problems, but a few of which
+   are specific to peculiarities of the DNS protocol. A [35]Request for
+   Comments document, [36]RFC 3833, attempts to document some of the known
+   threats to the DNS, and, in doing so, attempts to measure to what
+   extent DNSSEC is a useful tool in defending against these threats.
+
+   DNSSEC was designed to protect Internet resolvers (clients) from forged
+   DNS data, such as that created by [37]DNS cache poisoning. All answers
+   in DNSSEC are [38]digitally signed. By checking the [39]digital
+   signature, a DNS resolver is able to check if the information is
+   identical (correct and complete) to the information on the
+   authoritative DNS server. While protecting IP addresses is the
+   immediate concern for many users, DNSSEC can protect other information
+   such as general-purpose cryptographic certificates stored in DNS.
+   [40]RFC 4398 describes how to distribute certificates via DNS,
+   including those for email, making it possible to use DNSSEC as a
+   world-wide public key infrastructure for email.
+
+   DNSSEC does not provide confidentiality of data, in particular, all
+   DNSSEC responses are authenticated but not encrypted. DNSSEC does not
+   protect against [41]DoS attacks directly, though it indirectly provides
+   some benefit (because signature checking allows the use of potentially
+   untrustworthy parties). Other standards (not DNSSEC) are used to secure
+   bulk data (such as a zone transfer) sent between DNS servers. As
+   documented in IETF [42]RFC 4367, some users and developers make false
+   assumptions about DNS names, such as assuming that a company's common
+   name plus ".com" is always its domain name. DNSSEC cannot cure false
+   assumptions; it can only authenticate that the data is truly from or
+   not available from the domain owner.
+
+   The DNSSEC specifications (called DNSSEC-bis) describe the current
+   DNSSEC protocol in great detail. See [43]RFC 4033, [44]RFC 4034, and
+   [45]RFC 4035. With the publication of these new RFCs (March 2005),
+   [46]RFC 2535 has become obsolete.
+
+[[47]edit] History
+
+   DNS is a critical and fundamental Internet service, yet in [48]1990
+   [49]Steve Bellovin discovered serious security flaws in it. Research
+   into securing it began, and dramatically increased when his paper was
+   made public in [50]1995.^[51][1] The initial [52]RFC 2065 was published
+   by the IETF in [53]1997, and initial attempts to implement that
+   specification led to a revised (and believed fully workable)
+   specification in [54]1999 as IETF [55]RFC 2535. Plans were made to
+   deploy DNSSEC based on [56]RFC 2535.
+
+   Unfortunately, the IETF [57]RFC 2535 specification had very significant
+   problems scaling up to the full Internet; by 2001 it became clear that
+   this specification was unusable for large networks. In normal operation
+   DNS servers often get out of sync with their parents. This isn't
+   usually a problem, but when DNSSEC is enabled, this out-of-sync data
+   could have the effect of a serious self-created denial of service. The
+   original DNSSEC required a complex six-message protocol and a lot of
+   data transfers to perform key changes for a child (DNS child zones had
+   to send all of their data up to the parent, have the parent sign each
+   record, and then send those signatures back to the child for the child
+   to store in a SIG record). Also, public key changes could have absurd
+   effects; for example, if the ".com" zone changed its public key, it
+   would have to send 22 million records (because it would need to update
+   all of the signatures in all of its children). Thus, DNSSEC as defined
+   in [58]RFC 2535 could not scale up to the Internet.
+
+   The IETF fundamentally modified DNSSEC, which is called DNSSEC-bis when
+   necessary to distinguish it from the original DNSSEC approach of
+   [59]RFC 2535. This new version uses "delegation signer (DS) resource
+   records" to provide an additional level of indirection at delegation
+   points between a parent and child zone. In the new approach, when a
+   child's master public key changes, instead of having to have six
+   messages for every record in the child, there is one simple message:
+   the child sends the new public key to its parent (signed, of course).
+   Parents simply store one master public key for each child; this is much
+   more practical. This means that a little data is pushed to the parent,
+   instead of massive amounts of data being exchanged between the parent
+   and children. This does mean that clients have to do a little more work
+   when verifying keys. More specifically, verifying a DNS zone's KEY
+   RRset requires two signature verification operations instead of the one
+   required by [60]RFC 2535 (there is no impact on the number of
+   signatures verified for other types of RRsets). Most view this as a
+   small price to pay, since it changes DNSSEC so it is more practical to
+   deploy.
+
+[[61]edit] Zone enumeration issue, controversy, and NSEC3
+
+   Although the goal of DNSSEC is to increase security, DNSSEC as defined
+   in RFCs 4033 through 4035 introduces a new problem that many believe is
+   a new security vulnerability: the zone enumeration (aka zone walking)
+   issue. DNSSEC forces the exposure of information that by normal DNS
+   best practice is kept private. NSEC3 ([62]RFC 5155) was developed to
+   address this issue; it was released in March 2008.
+
+[[63]edit] Why DNS zone data is normally kept private
+
+   When the DNS protocol was designed, it was not intended to be a
+   repository for hidden information. However, since the DNS does house
+   information about the internals of a network related to a given domain,
+   many view the contents of their DNS database as private. In particular,
+   DNS systems are typically configured so that most users are not allowed
+   to retrieve the entire list of names or other information in a zone.
+   Such a list would greatly aid attackers, since that list can give them
+   important information about what machines exist. Some administrators
+   even put system type and configuration information into their DNS
+   databases which is even more valuable to an attacker. The widely used
+   book DNS and BIND (4th edition) by Albitz and Liu explains it this way:
+
+     Arguably even more important than controlling who can query your
+     name server is ensuring that only your real slave name servers can
+     transfer zones from your name server. Users on remote hosts... can
+     only look up records (e.g., addresses) for domain names they already
+     know, one at a time... It's the difference between letting random
+     folks call your company's switchboard and ask for John Q. Cubicle's
+     phone number [versus] sending them a copy of your corporate phone
+     directory.^[64][2]
+
+   In addition, the information from an enumerated zone can be used as a
+   key for multiple [65]WHOIS queries; this would reveal registrant data
+   which many registries are under strict legal obligations to protect
+   under various contracts.
+
+   It is unclear whether DNSSEC is legal to deploy at all in many
+   countries, unless such lists can be kept private. [66]DENIC has stated
+   that DNSSEC's zone enumeration issue violates Germany's Federal Data
+   Protection Act, and other European countries have similar privacy laws
+   forbidding the public release of certain kinds of information.
+
+[[67]edit] DNSSEC reveals zone data
+
+   Unfortunately, DNSSEC's original design required that the entire list
+   of zone names be revealed to all. As stated in [68]RFC 4033,
+
+     DNSSEC introduces the ability for a hostile party to enumerate all
+     the names in a zone by following the NSEC chain. NSEC RRs assert
+     which names do not exist in a zone by linking from existing name to
+     existing name along a canonical ordering of all the names within a
+     zone. Thus, an attacker can query these NSEC RRs in sequence to
+     obtain all the names in a zone. Although this is not an attack on
+     the DNS itself, it could allow an attacker to map network hosts or
+     other resources by enumerating the contents of a zone.
+
+   There is an "obvious" solution, called a [69]split-horizon DNS, which
+   is how DNS without DNSSEC is sometimes deployed but this approach does
+   not work well with DNSSEC. In the "split-horizon DNS" approach, the DNS
+   server denies the existence of names to some clients, and provides
+   correct information to other clients. However, since DNSSEC information
+   is cryptographically signed as authoritative, an attacker could request
+   the signed "does not exist" record, then retransmit the record to cause
+   a denial of service. DNSSEC fundamentally changes DNS so it can provide
+   authoritative information; thus, it does not work well with methods
+   based on providing false information to some users.
+
+   The reason DNSSEC introduced this problem is because it must be able to
+   report when a name is not found. Most believe DNS servers supporting
+   DNSSEC must be able to sign that not-found report otherwise a not-found
+   report could be easily spoofed. Yet for security reasons the signing
+   key should not be online. As a result, DNSSEC was designed to report a
+   signed message that reports that a given range of names does not exist,
+   which can be signed ahead-of-time offline. Unfortunately, this
+   information is enough for an attacker to gain much more information
+   than would have been available to them otherwise it is enough to enable
+   an attacker to quickly gather all the names in a zone, and then through
+   targeted queries on the names to reconstruct all or most of a zone's
+   data.
+
+   As noted earlier, DNSSEC could be used as the basis for a worldwide
+   [70]public key infrastructure for email addresses, by using DNS to
+   serve email certificates and DNSSEC to validate them. However, this
+   DNSSEC issue makes this unlikely for most organizations, at least if
+   used directly. As [71]RFC 4398 states, "If an organization chooses to
+   issue certificates for its employees, placing CERT RRs in the DNS by
+   owner name, and if DNSSEC (with NSEC) is in use, it is possible for
+   someone to enumerate all employees of the organization. This is usually
+   not considered desirable, for the same reason that enterprise phone
+   listings are not often publicly published and are even marked
+   confidential."
+
+[[72]edit] Response and NSEC3
+
+   Many of the participants on the IETF DNS Extensions working group
+   originally stated that zone enumeration was not a significant problem,
+   arguing that the DNS data wasor should bepublic. However, registrars
+   and many large organizations told the working group members that DNSSEC
+   as currently defined was unacceptable, and that they would not or
+   legally could not deploy it.
+
+   After deliberation, an extension was developed: "DNSSEC Hashed
+   Authenticated Denial of Existence" (informally called "NSEC3"). In this
+   approach, DNSSEC-aware servers can choose to send an "NSEC3" record
+   instead of an NSEC record when a record is not found. The NSEC3 record
+   is signed, but instead of including the name directly (which would
+   enable zone enumeration), the NSEC3 record includes a cryptographically
+   hashed value of the name. The NSEC3 record includes both a hash after a
+   number of iterations and an optional salt. Salt, where used, increases
+   the number of pre-computed dictionaries that an attacker using a
+   pre-computed dictionary attack would need to create, increasing
+   iteration values raise the computational cost of computing a
+   dictionary. In March 2008, NSEC3 was formally defined in [73]RFC 5155.
+
+   [74]VeriSign was running an NSEC3 DNSSEC Pilot to provide others with
+   operational experience with NSEC3 at the top-level-domain level and an
+   independent implementation of the authoritative server component. This
+   pilot provided a DNSSEC signed version of .com and .net using the NSEC3
+   record. The pilot is now defunct.
+
+[[75]edit] Deployment
+
+   The Internet is considered a critical infrastructure by many, yet it
+   was originally based on the fundamentally insecure DNS. Thus, there is
+   strong incentive to secure DNS, and deploying DNSSEC is generally
+   considered to be a critical part of that effort. For example, the U.S.
+   National Strategy to Secure Cyberspace specifically identified the need
+   to secure DNS.^[76][3] Widescale deployment of DNSSEC could resolve
+   many other security problems as well, such as secure key distribution
+   for e-mail addresses.
+
+   However, the DNSSEC specification has been challenging to develop.
+   NSEC3, one of its critical pieces, was only formally defined in an RFC
+   in March 2008, and it is not yet widely deployed.
+
+   In addition, DNSSEC deployment in large-scale networks is also
+   challenging. DNSSEC can be deployed at any level of a DNS hierarchy,
+   but it must be widely available in a zone before many others will adopt
+   it. DNS servers must be updated with software that supports DNSSEC, and
+   DNSSEC data must be created and added to the DNS zone data. A
+   TCP/IP-using client must have their DNS resolver (client) updated
+   before it can use DNSSEC's capabilities. What is more, any resolver
+   must have, or have a way to acquire, at least one public key that it
+   can trust before it can start using DNSSEC. Ozment and Schechter
+   observe that DNSSEC (and other technologies) has a "bootstrap problem":
+   users typically only deploy a technology if they receive an immediate
+   benefit, but if a minimal level of deployment is required before any
+   users receive a benefit greater than their costs, it risks remaining
+   undeployed.
+
+   To address these challenges, significant effort is ongoing to deploy
+   DNSSEC, because the Internet is so vital to so many organizations.
+
+[[77]edit] Tools
+
+   DNSSEC deployment requires software on the server and client side. Some
+   of the tools that support DNSSEC include:
+     * [78]BIND, the most popular DNS name server. Version 9.3 implemented
+       the newer DNSSEC-bis (DS records) although it did not support NSEC3
+       records. BIND 9.6 implements full support for NSEC3
+       records^[79][4]; an alpha version of BIND 9.6 became available in
+       October 2008^[80][5].
+     * [81]Drill is a DNSSEC-enabled [82]dig-like tool bundled with
+       [83]ldns.
+     * [84]Drill extension for Firefox adds to [85]Mozilla Firefox the
+       ability to determine if a domain can be verified using DNSSEC.
+     * [86]DNSSEC-Tools is a [87]SourceForge project aimed at providing
+       easy to use tools for helping all types of administrators and users
+       make use of DNSSEC. It offers tools for administrators of
+       [88]Authoritative Zones, [89]Authoritative Server, and
+       [90]Recursive Servers as well as a library and tools for
+       [91]Application Developers and existing patches for extending
+       [92]common applications.
+     * [93]Zone Key Tool is a software designed to ease the maintenance of
+       DNSSEC aware zones. It's primarily designed for environments with a
+       small to medium number of zones and provides a full automatic zone
+       signing key rollover as well as automatic resigning of the zone.
+     * [94]Unbound is a DNS name server that was written from the ground
+       up to be designed around DNSSEC concepts.
+     * DNSSEC support is being introduced in [95]Windows 7 and [96]Windows
+       Server 2008 R2, and may be introduced in Windows Server 2008
+       Service Pack 2 as well.^[97][6]
+     * [98]mysqlBind The GPL OSS for DNS ASPs now supports DNSSEC.
+
+[[99]edit] Early deployments
+
+   Early adopters include [100]Brazil ([101].br), [102]Bulgaria
+   ([103].bg), [104]Czech Republic ([105].cz), [106]Puerto Rico ([107].pr)
+   and [108]Sweden ([109].se) who use DNSSEC for their [110]country code
+   top-level domains,^[111][7], the [112]Public Interest Registry which
+   registers domains in the .org top-level domain,^[113][7] [114]RIPE
+   NCC,who have signed all the reverse (in-addr.arpa) that are delegated
+   to it from IANA ^[115][8], and [116]VeriSign. TDC was the first ISP to
+   implement this feature in Sweden.
+
+   IANA has been publicly testing a sample signed root at
+   [117]https://ns.iana.org/dnssec/status.html since June 2007.
+
+   VeriSign was running a pilot project to allow .com and .net domains to
+   register themselves to do DNSSEC NSEC3 experiments, as noted above.
+
+   A wide variety of pilot projects and experiments are and have been
+   performed. [118]dnssec.net maintains a list of such projects. There is
+   also a Google Map of [119]World Wide DNSSEC Deployment.
+
+[[120]edit] Deployment at the DNS root
+
+   Many are interested in deploying DNSSEC at the root level. If deployed
+   widely at the root level, DNSSEC could support distribution of public
+   keys associated with any arbitrary domain name, countering many spam
+   and spoof attacks. Having a few DNS root-level DNSSEC public keys would
+   greatly simplify the deployment of DNSSEC resolvers, since those few
+   keys could be the basis for any other key. However, root level
+   deployment may be delayed for a variety of reasons.
+
+   Thierry Moreau reports that as of [121]May 22, [122]2006, the
+   technology is nearly ready.^[[123]citation needed] Thierry reports that
+   the major technological problems stalling deployment are:
+    1. The zone enumeration privacy issue (noted above).
+    2. The trust anchor key rollover issue.
+    3. Further testing is desired to strengthen the confidence that DNSSEC
+       is adequate (especially given the failures of earlier versions).
+
+   However, political issues are likely to cause trouble and delay
+   deployment:
+     * Other countries are concerned about U.S. control over the Internet,
+       and may reject any centralized keying for this reason.
+     * It is unclear how [124]ICANN would handle delegation of names to
+       those top-level domains with whom they have no formal agreement.
+       For example, Canada's .ca [125]TLD administration, CIRA
+       ([126]Canadian Internet Registration Authority), has withdrawn
+       ICANN support.^[127][9]
+     * Will some governments try to ban DNSSEC-backed encryption key
+       distribution?
+
+   ICANN has described its DNS root zone signing as simply to "determine
+   timetable, coordination requirements and costs for full
+   deployment"^[128][10] instead of actual deployment, suggesting that it
+   may be a long time before DNSSEC is deployed at the root (global) level
+   of DNS.
+
+   The [129]Public Interest Registry announced in July, 2008 that it will
+   begin using DNSSEC in a then-unspecified deployment timetable. It
+   further detailed on September 26, 2008, that the first phase, involving
+   large registrars it has a strong working relationship with ("friends
+   and family") will be the first to be able to sign their domains,
+   beginning "early 2009".^[130][11] In September, ICANN and VeriSign each
+   published implementation proposals^[131][12] and in October, the
+   [132]National Telecommunications and Information Administration, a part
+   of the U.S. Department of Commerce, asked the public for
+   comments.^[133][13]
+
+[[134]edit] DNSSEC Deployment Initiative
+
+   The Science and Technology Directorate of the [135]U.S. Department of
+   Homeland Security (DHS) sponsors the "DNSSEC Deployment Initiative".
+   This initiative encourages "all sectors to voluntarily adopt security
+   measures that will improve security of the Internet's naming
+   infrastructure, as part of a global, cooperative effort that involves
+   many nations and organizations in the public and private sectors." DHS
+   also funds efforts to mature DNSSEC and get it deployed inside the U.S.
+   federal government.
+
+   It was reported^[136][14] that on [137]March 30, [138]2007, the
+   [139]U.S. Department of Homeland Security proposed "to have the key to
+   sign the DNS root zone solidly in the hands of the US government."
+   However no U.S. Government officials were present in the meeting room
+   and the comment that sparked the article was made by another party. DHS
+   later commented^[140][15] on why they believe others jumped to the
+   false conclusion that the U.S. Government had made such a proposal: "
+   The U.S. Department of Homeland Security is funding the development of
+   a technical plan for implementing DNSSec, and last October distributed
+   an initial draft of it to a long list of international experts for
+   comments. The draft lays out a series of options for who could be the
+   holder, or "operator," of the Root Zone Key, essentially boiling down
+   to a governmental agency or a contractor. "Nowhere in the document do
+   we make any proposal about the identity of the Root Key Operator," said
+   Maughan, the cyber-security research and development manager for
+   Homeland Security."
+
+[[141]edit] DNSSEC deployment in the U.S. federal government
+
+   The [142]National Institute of Standards and Technology (NIST)
+   published NIST Special Publication 800-81 Secure Domain Name System
+   (DNS) Deployment Guide on [143]May 16, [144]2006, with guidance on how
+   to deploy DNSSEC. NIST intended to release new DNSSEC Federal
+   Information Security Management Act (FISMA) requirements in NIST
+   SP800-53-R1, referencing this deployment guide. U.S. agencies would
+   then have had one year after final publication of NIST SP800-53-R1 to
+   meet these new FISMA requirements.^[145][16] However, at the time NSEC3
+   had not been completed. NIST had suggested using split domains, a
+   technique that is known to be possible but is difficult to deploy
+   correctly, and has the security weaknesses noted above.
+
+   On 2008-08-22, the Office of Management and Budget (OMB) released a
+   memorandum requiring U.S. Federal Agencies to deploy DNSSEC across .gov
+   sites; the .gov root must be signed by January 2009, and all subdomains
+   under .gov must be signed by December 2009 [146][1]. While the memo
+   focuses on .gov sites, the U.S. Defense Information Systems Agency says
+   it intends to meet OMB DNSSEC requirements in the .mil (U.S. military)
+   domain as well. NetworkWorld's Carolyn Duffy Marsan stated that DNSSEC
+   "hasn't been widely deployed because it suffers from a classic
+   chicken-and-egg dilemma... with the OMB mandate, it appears the egg is
+   cracking." [147][2]
+
+[[148]edit] See also
+
+     * [149]EDNS extension to DNS to allow for the larger packets DNSSEC
+       uses
+
+[[150]edit] References
+
+    1. [151]^ [152]"Using the Domain Name System for System Break-Ins" by
+       Steve Bellovin, 1995
+    2. [153]^ Albitz, Paul; Cricket Liu (April 2001). [154]DNS and BIND
+       (4e. ed.). O'Reilly Media, Inc.. [155]ISBN 9780596001582.
+       [156]http://oreilly.com/catalog/9780596001582/.
+    3. [157]^ [158]U.S. National Strategy to Secure Cyberspace, p. 30
+       February 2003
+    4. [159]^ [160]"BIND 9.6 features for the non-programmer".
+       [161]http://www.isc.org/sw/bind/docs/bind-9-6-features.html.
+       Retrieved on 27 October 2008.
+    5. [162]^ [163]"BIND 9.6.0a1".
+       [164]http://www.isc.org/index.pl?/sw/bind/view/?release=9.6.0a1.
+       Retrieved on 27 October 2008.
+    6. [165]^
+       [166]https://www.dns-oarc.net/files/workshop-2006/Microsoft-DNSSEC.
+       pdf
+    7. ^ [167]^a [168]^b Electronic Privacy Information Center (EPIC)
+       ([169]May 27, [170]2008). [171]DNSSEC
+    8. [172]^ [173]RIPE NCC DNSSEC Policy
+    9. [174]^ "[175]News Release - Open letter to ICANN". [176]Canadian
+       Internet Registration Authority. March 17, 2006.
+       [177]http://www.cira.ca/news-releases/171.html. Retrieved on 30
+       July 2008.
+   10. [178]^ [179]"ICANN: Annual Operating Objectives".
+       [180]http://www.icann.org/en/announcements/operating-plan-22jun06.h
+       tm. Retrieved on 20 October 2008.
+   11. [181]^ Sean Michael Kerner. [182]".ORG the Most Secure Domain?".
+       www.internetnews.com.
+       [183]http://www.internetnews.com/security/article.php/3774131.
+       Retrieved on 27 September 2008.
+   12. [184]^ Singel, Ryan (October 8, 2006). "[185]Feds Start Moving on
+       Net Security Hole". Wired News (CondNet).
+       [186]http://blog.wired.com/27bstroke6/2008/10/feds-take-step.html.
+       Retrieved on 9 October 2008.
+   13. [187]^ National Telecommunications and Information Administration,
+       U.S. Department of Commerce (October 9, 2008). [188]Press Release:
+       NTIA Seeks Public Comments for the Deployment of Security
+       Technology Within the Internet Domain Name System. [189]Press
+       release.
+       [190]http://www.ntia.doc.gov/press/2008/DNSSEC_081009.html.
+       Retrieved on 9 October 2008.
+   14. [191]^ [192]Department of Homeland and Security wants master key
+       for DNS [193]Heise News, 30 March 2007
+   15. [194]^ [195]Analysis: of Owning the keys to the Internet [196]UPI,
+       April 21, 2007
+   16. [197]^ [198]DNSSEC Deployment Initiative Newsletter Volume 1,
+       Number 2, June 2006
+
+[[199]edit] External links
+
+[[200]edit] Organizations / Websites
+
+     * [201]DNSSEC DNSSEC information site: DNSSEC.net
+     * [202]DNSEXT DNS Extensions [203]IETF Working Group
+     * [204]CircleID - News and Opinions on all DNSSEC related issues
+     * [205]DNSSEC-Tools Project
+     * [206]DNSSEC Deployment Coordination Initiative
+
+[[207]edit] Standards
+
+     * [208]RFC 2535 Domain Name System Security Extensions
+     * [209]RFC 3833 A Threat Analysis of the Domain Name System
+     * [210]RFC 4033 DNS Security Introduction and Requirements
+       (DNSSEC-bis)
+     * [211]RFC 4034 Resource Records for the DNS Security Extensions
+       (DNSSEC-bis)
+     * [212]RFC 4035 Protocol Modifications for the DNS Security
+       Extensions (DNSSEC-bis)
+     * [213]RFC 4398 Storing Certificates in the Domain Name System (DNS)
+     * [214]RFC 4509 Use of SHA-256 in DNSSEC Delegation Signer (DS)
+       Resource Records (RRs)
+     * [215]RFC 4641 DNSSEC Operational Practices
+
+[[216]edit] Other documents
+
+     * [217]A Fundamental Look at DNSSEC, Deployment, and DNS Security
+       Extensions by Geoff Huston
+     * [218]"Using the Domain Name System for System Break-Ins" by Steve
+       Bellovin, 1995
+     * [219]A short timeline of DNSSEC by Miek Gieben
+     * [220]DNSSEC Howto by Olaf Kolkman (RIPE NCC/NLnet Labs)
+     * [221]Howto secure your (reverse) Zone by Holger Zuleger
+     * [222]Easier Email Security is on the Way?
+     * [223]"DNSSEC and the Zone Enumeration" by Marcos Sanz
+     * [224]"DNSSEC Deployment at the Root", May 22, 2006, by Thierry
+       Moreau CircleID
+     * [225]NIST Special Publication (SP) 800-81, Secure Domain Name
+       System (DNS) Deployment Guide, May 2006
+     * [226]Bootstrapping the Adoption of Internet Security Protocols,
+       Andy Ozment and Stuart E. Schechter, June 26-28, 2006
+     * [227]DNSSEC BRIEFING and Root Zone Signing (Part I), ccTLD paper on
+       DNSSEC by ccNSO, February 2008
+     * [228]U.S. National Strategy to Secure Cyberspace, February 2003
+     * [229]Cybertelecom :: DNS Security & USG Policy
+     * [230]SecSpider Tool for Tracking DNSSEC Deployment
+     * [231]Plea to sign the root
+
+   Retrieved from
+   "[232]http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensio
+   ns"
+   [233]Categories: [234]Internet standards | [235]Internet protocols |
+   [236]Domain name system
+   Hidden categories: [237]All articles with unsourced statements |
+   [238]Articles with unsourced statements since December 2008 |
+   [239]Articles with unsourced statements since July 2008
+
+Views
+
+     * [240]Article
+     * [241]Discussion
+     * [242]Edit this page
+     * [243]History
+
+Personal tools
+
+     * [244]Log in / create account
+
+Navigation
+
+     * [245]Main page
+     * [246]Contents
+     * [247]Featured content
+     * [248]Current events
+     * [249]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [250]About Wikipedia
+     * [251]Community portal
+     * [252]Recent changes
+     * [253]Contact Wikipedia
+     * [254]Donate to Wikipedia
+     * [255]Help
+
+Toolbox
+
+     * [256]What links here
+     * [257]Related changes
+     * [258]Upload file
+     * [259]Special pages
+     * [260]Printable version
+     * [261]Permanent link
+     * [262]Cite this page
+
+Languages
+
+     * [263]Deutsch
+     * [264]Franais
+     * [265]Polski
+     * [266]Portugus
+     * [267]Svenska
+
+   [268]Powered by MediaWiki
+   [269]Wikimedia Foundation
+     * This page was last modified on 25 December 2008, at 12:12.
+     * All text is available under the terms of the [270]GNU Free
+       Documentation License. (See [271]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [272]Wikimedia
+       Foundation, Inc., a U.S. registered [273]501(c)(3)
+       [274]tax-deductible [275]nonprofit [276]charity.
+     * [277]Privacy policy
+     * [278]About Wikipedia
+     * [279]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#searchInput
+   8. file://localhost/wiki/Internet_Engineering_Task_Force
+   9. file://localhost/wiki/Domain_Name_System
+  10. file://localhost/wiki/Internet_Protocol
+  11. file://localhost/wiki/Wikipedia:Citation_needed
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Overview
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#History
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Zone_enumeration_issue.2C_controversy.2C_and_NSEC3
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Why_DNS_zone_data_is_normally_kept_private
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#DNSSEC_reveals_zone_data
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Response_and_NSEC3
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Deployment
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Tools
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Early_deployments
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Deployment_at_the_DNS_root
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#DNSSEC_Deployment_Initiative
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#DNSSEC_deployment_in_the_U.S._federal_government
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#See_also
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#References
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#External_links
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Organizations_.2F_Websites
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Standards
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#Other_documents
+  30. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=1
+  31. file://localhost/wiki/Internet
+  32. file://localhost/wiki/IPv4
+  33. file://localhost/wiki/IPv6
+  34. file://localhost/wiki/Domain_Name_System
+  35. file://localhost/wiki/Request_for_Comments
+  36. http://tools.ietf.org/html/rfc3833
+  37. file://localhost/wiki/DNS_cache_poisoning
+  38. file://localhost/wiki/Digital_signature
+  39. file://localhost/wiki/Digital_signature
+  40. http://tools.ietf.org/html/rfc4398
+  41. file://localhost/wiki/Denial_of_service
+  42. http://tools.ietf.org/html/rfc4367
+  43. http://tools.ietf.org/html/rfc4033
+  44. http://tools.ietf.org/html/rfc4034
+  45. http://tools.ietf.org/html/rfc4035
+  46. http://tools.ietf.org/html/rfc2535
+  47. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=2
+  48. file://localhost/wiki/1990
+  49. file://localhost/wiki/Steve_Bellovin
+  50. file://localhost/wiki/1995
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-0
+  52. http://tools.ietf.org/html/rfc2065
+  53. file://localhost/wiki/1997
+  54. file://localhost/wiki/1999
+  55. http://tools.ietf.org/html/rfc2535
+  56. http://tools.ietf.org/html/rfc2535
+  57. http://tools.ietf.org/html/rfc2535
+  58. http://tools.ietf.org/html/rfc2535
+  59. http://tools.ietf.org/html/rfc2535
+  60. http://tools.ietf.org/html/rfc2535
+  61. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=3
+  62. http://tools.ietf.org/html/rfc5155
+  63. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=4
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-1
+  65. file://localhost/wiki/WHOIS
+  66. file://localhost/wiki/DENIC
+  67. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=5
+  68. http://tools.ietf.org/html/rfc4033
+  69. file://localhost/wiki/Split-horizon_DNS
+  70. file://localhost/wiki/Public_key_infrastructure
+  71. http://tools.ietf.org/html/rfc4398
+  72. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=6
+  73. http://tools.ietf.org/html/rfc5155
+  74. file://localhost/wiki/VeriSign
+  75. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=7
+  76. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-2
+  77. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=8
+  78. file://localhost/wiki/BIND
+  79. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-3
+  80. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-4
+  81. http://www.nlnetlabs.nl/projects/drill/
+  82. file://localhost/wiki/Domain_Information_Groper
+  83. http://www.nlnetlabs.nl/projects/ldns/
+  84. http://www.nlnetlabs.nl/projects/drill/drill_extension.html
+  85. file://localhost/wiki/Mozilla_Firefox
+  86. http://www.dnssec-tools.org/
+  87. file://localhost/wiki/SourceForge
+  88. http://www.dnssec-tools.org/wiki/index.php/Authoritative_Zone_Administrator
+  89. http://www.dnssec-tools.org/wiki/index.php/Authoritative_Server
+  90. http://www.dnssec-tools.org/wiki/index.php/Recursive_Server
+  91. http://www.dnssec-tools.org/wiki/index.php/DNSSEC_Application_Development
+  92. http://www.dnssec-tools.org/wiki/index.php/DNSSEC_Applications
+  93. http://www.hznet.de/dns/zkt/
+  94. http://www.unbound.net/
+  95. file://localhost/wiki/Windows_7
+  96. file://localhost/wiki/Windows_Server_2008
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-5
+  98. file://localhost/wiki/MysqlBind
+  99. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=9
+ 100. file://localhost/wiki/Brazil
+ 101. file://localhost/wiki/.br
+ 102. file://localhost/wiki/Bulgaria
+ 103. file://localhost/wiki/.bg
+ 104. file://localhost/wiki/Czech_Republic
+ 105. file://localhost/wiki/.cz
+ 106. file://localhost/wiki/Puerto_Rico
+ 107. file://localhost/wiki/.pr
+ 108. file://localhost/wiki/Sweden
+ 109. file://localhost/wiki/.se
+ 110. file://localhost/wiki/Country_code_top-level_domain
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-EPIC-20080527-6
+ 112. file://localhost/wiki/Public_Interest_Registry
+ 113. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-EPIC-20080527-6
+ 114. file://localhost/wiki/RIPE_NCC
+ 115. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-7
+ 116. file://localhost/wiki/VeriSign
+ 117. https://ns.iana.org/dnssec/status.html
+ 118. http://www.dnssec.net/projects
+ 119. http://www.xelerance.com/dnssec/
+ 120. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=10
+ 121. file://localhost/wiki/May_22
+ 122. file://localhost/wiki/2006
+ 123. file://localhost/wiki/Wikipedia:Citation_needed
+ 124. file://localhost/wiki/ICANN
+ 125. file://localhost/wiki/Top-level_domain
+ 126. file://localhost/wiki/Canadian_Internet_Registration_Authority
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-8
+ 128. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-9
+ 129. file://localhost/wiki/Public_Interest_Registry
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-10
+ 131. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-11
+ 132. file://localhost/wiki/National_Telecommunications_and_Information_Administration
+ 133. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-12
+ 134. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=11
+ 135. file://localhost/wiki/United_States_Department_of_Homeland_Security
+ 136. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-13
+ 137. file://localhost/wiki/March_30
+ 138. file://localhost/wiki/2007
+ 139. file://localhost/wiki/United_States_Department_of_Homeland_Security
+ 140. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-14
+ 141. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=12
+ 142. file://localhost/wiki/National_Institute_of_Standards_and_Technology
+ 143. file://localhost/wiki/May_16
+ 144. file://localhost/wiki/2006
+ 145. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_note-15
+ 146. http://www.whitehouse.gov/omb/memoranda/fy2008/m08-23.pdf
+ 147. http://www.networkworld.com/news/2008/092208-government-web-security.html
+ 148. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=13
+ 149. file://localhost/wiki/EDNS
+ 150. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=14
+ 151. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-0
+ 152. http://citeseer.ist.psu.edu/bellovin95using.html
+ 153. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-1
+ 154. http://oreilly.com/catalog/9780596001582/
+ 155. file://localhost/wiki/Special:BookSources/9780596001582
+ 156. http://oreilly.com/catalog/9780596001582/
+ 157. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-2
+ 158. http://www.whitehouse.gov/pcipb/cyberspace_strategy.pdf
+ 159. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-3
+ 160. http://www.isc.org/sw/bind/docs/bind-9-6-features.html
+ 161. http://www.isc.org/sw/bind/docs/bind-9-6-features.html
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-4
+ 163. http://www.isc.org/index.pl?/sw/bind/view/?release=9.6.0a1
+ 164. http://www.isc.org/index.pl?/sw/bind/view/?release=9.6.0a1
+ 165. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-5
+ 166. https://www.dns-oarc.net/files/workshop-2006/Microsoft-DNSSEC.pdf
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-EPIC-20080527_6-0
+ 168. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-EPIC-20080527_6-1
+ 169. file://localhost/wiki/May_27
+ 170. file://localhost/wiki/2008
+ 171. http://epic.org/privacy/dnssec/
+ 172. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-7
+ 173. http://www.ripe.net/docs/ripe-359.html
+ 174. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-8
+ 175. http://www.cira.ca/news-releases/171.html
+ 176. file://localhost/wiki/Canadian_Internet_Registration_Authority
+ 177. http://www.cira.ca/news-releases/171.html
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-9
+ 179. http://www.icann.org/en/announcements/operating-plan-22jun06.htm
+ 180. http://www.icann.org/en/announcements/operating-plan-22jun06.htm
+ 181. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-10
+ 182. http://www.internetnews.com/security/article.php/3774131
+ 183. http://www.internetnews.com/security/article.php/3774131
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-11
+ 185. http://blog.wired.com/27bstroke6/2008/10/feds-take-step.html
+ 186. http://blog.wired.com/27bstroke6/2008/10/feds-take-step.html
+ 187. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-12
+ 188. http://www.ntia.doc.gov/press/2008/DNSSEC_081009.html
+ 189. file://localhost/wiki/News_release
+ 190. http://www.ntia.doc.gov/press/2008/DNSSEC_081009.html
+ 191. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-13
+ 192. http://www.heise.de/english/newsticker/news/87655
+ 193. file://localhost/wiki/Heise
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-14
+ 195. http://www.upi.com/Security_Terrorism/Analysis/2007/04/12/analysis_owning_the_keys_to_the_internet/
+ 196. file://localhost/wiki/United_Press_International
+ 197. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc130.tmp.html#cite_ref-15
+ 198. http://www.dnssec-deployment.org/news/dnssecthismonth/200606-dnssecthismonth/
+ 199. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=15
+ 200. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=16
+ 201. http://www.dnssec.net/
+ 202. http://www.ietf.org/html.charters/dnsext-charter.html
+ 203. file://localhost/wiki/IETF_Working_Group
+ 204. http://www.circleid.com/topics/dnssec/
+ 205. http://www.dnssec-tools.org/
+ 206. http://www.dnssec-deployment.org/
+ 207. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=17
+ 208. http://tools.ietf.org/html/rfc2535
+ 209. http://tools.ietf.org/html/rfc3833
+ 210. http://tools.ietf.org/html/rfc4033
+ 211. http://tools.ietf.org/html/rfc4034
+ 212. http://tools.ietf.org/html/rfc4035
+ 213. http://tools.ietf.org/html/rfc4398
+ 214. http://tools.ietf.org/html/rfc4509
+ 215. http://tools.ietf.org/html/rfc4641
+ 216. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit&section=18
+ 217. http://www.circleid.com/posts/dnssec_deployment_and_dns_security_extensions/
+ 218. http://citeseer.ist.psu.edu/bellovin95using.html
+ 219. http://www.nlnetlabs.nl/dnssec/history.html
+ 220. http://www.nlnetlabs.nl/dnssec_howto/
+ 221. http://www.hznet.de/dns/dnssec-decix050916.pdf
+ 222. http://www.dwheeler.com/essays/easy-email-sec.html
+ 223. http://www.denic.de/media/pdf/dokumente/zone-enumeration.pdf
+ 224. http://www.circleid.com/posts/dnssec_deployment_at_root/
+ 225. http://csrc.nist.gov/publications/nistpubs/
+ 226. http://weis2006.econinfosec.org/docs/46.pdf
+ 227. http://ccnso.icann.org/workinggroups/ccnso-iana-wg-dnssec-paper-04feb08.pdf
+ 228. http://www.whitehouse.gov/pcipb/cyberspace_strategy.pdf
+ 229. http://www.cybertelecom.org/dns/security.htm
+ 230. http://secspider.cs.ucla.edu/
+ 231. http://stfr.org/
+ 232. http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
+ 233. file://localhost/wiki/Special:Categories
+ 234. file://localhost/wiki/Category:Internet_standards
+ 235. file://localhost/wiki/Category:Internet_protocols
+ 236. file://localhost/wiki/Category:Domain_name_system
+ 237. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 238. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_December_2008
+ 239. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_July_2008
+ 240. file://localhost/wiki/Domain_Name_System_Security_Extensions
+ 241. file://localhost/wiki/Talk:Domain_Name_System_Security_Extensions
+ 242. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=edit
+ 243. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&action=history
+ 244. file://localhost/w/index.php?title=Special:UserLogin&returnto=Domain_Name_System_Security_Extensions
+ 245. file://localhost/wiki/Main_Page
+ 246. file://localhost/wiki/Portal:Contents
+ 247. file://localhost/wiki/Portal:Featured_content
+ 248. file://localhost/wiki/Portal:Current_events
+ 249. file://localhost/wiki/Special:Random
+ 250. file://localhost/wiki/Wikipedia:About
+ 251. file://localhost/wiki/Wikipedia:Community_portal
+ 252. file://localhost/wiki/Special:RecentChanges
+ 253. file://localhost/wiki/Wikipedia:Contact_us
+ 254. http://wikimediafoundation.org/wiki/Donate
+ 255. file://localhost/wiki/Help:Contents
+ 256. file://localhost/wiki/Special:WhatLinksHere/Domain_Name_System_Security_Extensions
+ 257. file://localhost/wiki/Special:RecentChangesLinked/Domain_Name_System_Security_Extensions
+ 258. file://localhost/wiki/Wikipedia:Upload
+ 259. file://localhost/wiki/Special:SpecialPages
+ 260. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&printable=yes
+ 261. file://localhost/w/index.php?title=Domain_Name_System_Security_Extensions&oldid=260040432
+ 262. file://localhost/w/index.php?title=Special:Cite&page=Domain_Name_System_Security_Extensions&id=260040432
+ 263. http://de.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
+ 264. http://fr.wikipedia.org/wiki/DNSSEC
+ 265. http://pl.wikipedia.org/wiki/DNSSEC
+ 266. http://pt.wikipedia.org/wiki/DNSSEC
+ 267. http://sv.wikipedia.org/wiki/DNS#DNSSEC
+ 268. http://www.mediawiki.org/
+ 269. http://wikimediafoundation.org/
+ 270. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 271. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 272. http://www.wikimediafoundation.org/
+ 273. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 274. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 275. http://en.wikipedia.org/wiki/Non-profit_organization
+ 276. http://en.wikipedia.org/wiki/Charitable_organization
+ 277. http://wikimediafoundation.org/wiki/Privacy_policy
+ 278. file://localhost/wiki/Wikipedia:About
+ 279. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 280. file://localhost/wiki/Main_Page

@@ -1,0 +1,402 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Eddington luminosity
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Edington limit)
+   Jump to: [7]navigation, [8]search
+
+   The Eddington luminosity (also referred to as the Eddington limit) in a
+   star is defined as the point where the gravitational force inwards
+   equals the continuum radiation force outwards, assuming [9]hydrostatic
+   equilibrium and spherical symmetry. When exceeding the Eddington
+   luminosity, a star would initiate a very intense continuum driven
+   [10]stellar wind from its outer layers. Since most massive stars have
+   luminosities far below the Eddington luminosity, however, their winds
+   are mostly driven by the less intense line absorption. ^[11][1]
+
+   Originally, Sir [12]Arthur Stanley Eddington only took the electron
+   scattering into account when calculating this limit, something that now
+   is called the classical Eddington limit. Nowadays, the modified
+   Eddington limit also counts on other continuum processes such as
+   bound-free and free-free interaction.
+
+Contents
+
+     * [13]1 Derivation
+     * [14]2 Super-Eddington luminosities
+     * [15]3 Other factors
+     * [16]4 See also
+     * [17]5 References
+
+[[18]edit] Derivation
+
+   The limit is obtained by setting the outward continuum radiation
+   pressure equal to the inward gravitational force. Both forces decrease
+   by inverse square laws, so once equality is reached, the hydrodynamic
+   flow is different throughout the star.
+
+   The pressure support of a star is given by the equation of
+   [19]hydrostatic equilibrium:
+
+          \frac{dP}{dr} = - \rho g = -G \frac{M \rho}{r^2}
+
+   The outward force of radiation pressure is given by:
+
+          \frac{dP}{dr} = -\frac{\kappa \rho}{c}F_{rad} =-\frac{\sigma_T
+          \rho}{m_p c} \frac{L}{4\pi r^2}
+
+   where [T] is the [20]Thomson scattering cross-section for the
+   [21]electron and the gas is assumed to be purely made of ionized
+   hydrogen. is the opacity of the stellar material.
+
+   Equating these two pressures and solving for the luminosity gives the
+   Eddington Luminosity:
+
+          \begin{align}L_{\rm Edd}&=\frac{4\pi G M m_{\rm p} c}
+          {\sigma_{\rm T}}\\ &\cong
+          1.3\times10^{31}\left(\frac{M}{M_\bigodot}\right){\rm W} =
+          3.3\times10^4\left(\frac{M}{M_\bigodot}\right) L_\bigodot
+          \end{align}
+
+   where M is the mass of the central object, M[] the mass and L[] the
+   luminosity of the [22]Sun, m[p] the mass of a proton and [T] the
+   Thomson cross-section for the electron.
+
+   The mass of the proton appears because, in the typical environment for
+   the outer layers of a star, the radiation pressure acts on electrons,
+   which are driven away from the center. Because protons are negligibly
+   pressured by the analog of Thomson scattering, due to their larger
+   mass, the result is to create a slight charge separation and therefore
+   a radially directed electric field, acting to lift the positive
+   charges, which are typically free protons under the conditions in
+   stellar atmospheres. When the outward electric field is sufficient to
+   levitate the protons against gravity, both electrons and protons are
+   expelled together.
+
+   Thus in certain circumstances the balance can be different than it is
+   for hydrogen. For example, in an evolved star with a pure [23]helium
+   atmosphere, the electric field would have to lift a helium nucleus (an
+   [24]alpha particle), with nearly four times the mass of a proton, while
+   the radiation pressure would act on two free electrons. Thus twice the
+   usual Eddington luminosity would be needed to drive off an atmosphere
+   of pure He. On the other hand, at very high temperatures, as in the
+   environment of a [25]black hole or [26]neutron star, high energy photon
+   interactions with nuclei or even with other photons, can create an
+   electron-positron plasma. In that situation the mass of the
+   neutralizing positive charge carriers is ~1836 times smaller (the
+   proton:electron mass ratio), while the radiation pressure on the
+   positrons doubles the effective upward force per unit mass, so the
+   limiting luminosity needed is reduced by a factor of ~2*1836. Thus the
+   exact value of the Eddington luminosity depends on the chemical
+   composition of the gas layer and the spectral energy distribution of
+   the emission. Gas with cosmological abundances of hydrogen and helium
+   is much more transparent than gas with [27]solar abundance ratios.
+   Atomic line transitions can greatly increase the effects of radiation
+   pressure, and line driven winds exist in some bright stars.
+
+[[28]edit] Super-Eddington luminosities
+
+   The role of the Eddington limit in todays research lies in explaining
+   the very high mass loss rates seen in for example the series of
+   outbursts of [29]Carinae in 1840-1860. ^[30][2] The regular, line
+   driven stellar winds can only stand for a mass loss rate of around 10
+   ^4 10 ^3 solar masses per year, whereas we need mass loss rates of up
+   to 0.5 solar masses per year to understand the Carinae outbursts. This
+   can be done with the help of the super-Eddington continuum driven
+   winds.
+
+   [31]Gamma-ray bursts, [32]novae and [33]supernovae are examples of
+   systems exceeding their Eddington luminosity by a large factor for very
+   short times, resulting in short and highly intensive mass loss rates.
+   Some [34]X-ray binaries and [35]active galaxies are able to maintain
+   luminosities close to the Eddington limit for very long times. For
+   accretion powered sources such as accreting [36]neutron stars or
+   [37]cataclysmic variables (accreting [38]white dwarfs), the limit may
+   act to reduce or cut off the accretion flow, imposing an Eddington
+   limit on accretion corresponding to that on luminosity. Super-Eddington
+   accretion onto stellar-mass black holes is one possible model for
+   ultraluminous X-ray sources (ULXs).
+
+   For accreting [39]black holes, all the energy released by accretion
+   does not have to appear as outgoing luminosity, since energy can be
+   lost through the [40]event horizon, down the hole. Such sources
+   effectively may not conserve energy. Then the accretion efficiency, or
+   the fraction of energy actually radiated of that theoretically
+   available from the gravitational energy release of accreting material,
+   enters in an essential way.
+
+[[41]edit] Other factors
+
+   It is however also important to note that the Eddington limit is not a
+   strict limit of the luminosity of a stellar object. Several potentially
+   important factors have been left out, and a couple of super-Eddington
+   objects have been observed that do not seem to have the high mass loss
+   rate that we would expect. It is therefore of interest to also look at
+   other possible factors that might affect the maximum luminosity of a
+   star:
+
+   Porosity. A problem with the idea of a steady, continuum driven winds
+   lies in the fact that both the radiative flux and gravitational
+   acceleration scale with r^-2. The ratio between the two factors would
+   then be constant, and in a super-Eddington star, the whole envelope
+   would become gravitationally unbound at the same time. This is not what
+   is seen, and a possible solution is introducing an atmospheric
+   porosity, where we imagine the stellar atmosphere to consist of denser
+   regions surrounded by lower density gas regions. The result would be
+   that the coupling between radiation and matter would be reduced, and
+   the full force of the radiation field would only be seen in the outer
+   lower density layers of the atmosphere that are more homogenous.
+
+   Turbulence. A possible destabilizing factor might be the turbulent
+   pressure arising when energy in the [42]convection zones builds up a
+   field of supersonic turbulent motions. The importance of turbulence is
+   being debated, however. ^[43][3]
+
+   Photon bubbles. Another potentially important factor is the photon
+   bubble effect that might give a good explanation to some stable
+   super-Eddington objects. These photon bubbles would develop
+   spontaneously in radiation-dominated atmospheres when the magnetic
+   pressure exceeds the gas pressure. We can imagine a region in the
+   stellar atmosphere with a density lower than the surroundings, but with
+   a higher radiation pressure. The region would then rise through the
+   atmosphere, with radiation diffusing in from the sides, leading to an
+   even higher radiation pressure. This effect would be able to transport
+   radiation more efficiently than a homogenous atmosphere, and the
+   allowed total radiation rate would be a lot higher. In [44]accretion
+   discs, we would be able to reach luminosities as high as 10-100 times
+   the Eddington limit without experiencing the previously mentioned
+   instabilities. ^[45][4]
+
+[[46]edit] See also
+
+     * [47]Hayashi limit
+
+[[48]edit] References
+
+    1. [49]^ A. J. van Marle; S. P. Owocki; N. J. Shaviv (2008).
+       "[50]Continuum driven winds from super-Eddington stars. A tale of
+       two limits". AIP Conference Proceedings 990: 250253.
+       [51]doi:[52]10.1063/1.2905555.
+       [53]http://adsabs.harvard.edu/abs/2008AIPC..990..250V.
+    2. [54]^ N. Smith; S. P. Owocki (2006). "[55]On the role of continuum
+       driven eruptions in the evolution of very massive stars and
+       population III stars". Astrophysical Journal 645: L45L48.
+       [56]doi:[57]10.1086/506523.
+       [58]http://adsabs.harvard.edu/abs/2006ApJ...645L..45S.
+    3. [59]^ R. B. Stothers (2003). "[60]Turbulent pressure in the
+       envelopes of yellow hypergiants and luminous blue variables".
+       Astrophysical Journal 589: 960967. [61]doi:[62]10.1086/374713.
+       [63]http://adsabs.harvard.edu/abs/2003ApJ...589..960S.
+    4. [64]^ J. Arons (1992). "[65]Photon bubbles: Overstability in a
+       magnetized atmosphere". Astrophysical Journal 338: 561578.
+       [66]doi:[67]10.1086/171174.
+       [68]http://adsabs.harvard.edu/abs/1992ApJ...388..561A.
+
+     * Juhan Frank, Andrew King, Derek Raine (2002). Accretion Power in
+       Astrophysics (Third Edition ed.). Cambridge University Press.
+       [69]ISBN 0-521-62957-8.
+
+   Retrieved from "[70]http://en.wikipedia.org/wiki/Eddington_luminosity"
+   [71]Category: [72]Astrophysics
+
+Views
+
+     * [73]Article
+     * [74]Discussion
+     * [75]Edit this page
+     * [76]History
+
+Personal tools
+
+     * [77]Log in / create account
+
+Navigation
+
+     * [78]Main page
+     * [79]Contents
+     * [80]Featured content
+     * [81]Current events
+     * [82]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [83]About Wikipedia
+     * [84]Community portal
+     * [85]Recent changes
+     * [86]Contact Wikipedia
+     * [87]Donate to Wikipedia
+     * [88]Help
+
+Toolbox
+
+     * [89]What links here
+     * [90]Related changes
+     * [91]Upload file
+     * [92]Special pages
+     * [93]Printable version
+     * [94]Permanent link
+     * [95]Cite this page
+
+Languages
+
+     * [96]Catal
+     * [97]Deutsch
+     * [98]Espaol
+     * [99]Franais
+     * [100]Italiano
+     * [101]Nederlands
+     * [102]Polski
+     * [103]Portugus
+     *
+     * [104]Slovenina
+     * [105]Suomi
+     * [106]Svenska
+     * [107]Trke
+     *
+
+   [108]Powered by MediaWiki
+   [109]Wikimedia Foundation
+     * This page was last modified on 6 February 2009, at 02:40.
+     * All text is available under the terms of the [110]GNU Free
+       Documentation License. (See [111]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [112]Wikimedia
+       Foundation, Inc., a U.S. registered [113]501(c)(3)
+       [114]tax-deductible [115]nonprofit [116]charity.
+     * [117]Privacy policy
+     * [118]About Wikipedia
+     * [119]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Eddington_luminosity&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Edington_limit&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#searchInput
+   9. file://localhost/wiki/Hydrostatic_equilibrium
+  10. file://localhost/wiki/Stellar_wind
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_note-0
+  12. file://localhost/wiki/Arthur_Stanley_Eddington
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#Derivation
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#Super-Eddington_luminosities
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#Other_factors
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#See_also
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#References
+  18. file://localhost/w/index.php?title=Eddington_luminosity&action=edit&section=1
+  19. file://localhost/wiki/Hydrostatic_equilibrium
+  20. file://localhost/wiki/Thomson_scattering
+  21. file://localhost/wiki/Electron
+  22. file://localhost/wiki/Sun
+  23. file://localhost/wiki/Helium
+  24. file://localhost/wiki/Alpha_particle
+  25. file://localhost/wiki/Black_hole
+  26. file://localhost/wiki/Neutron_star
+  27. file://localhost/wiki/Abundances_of_the_elements_(data_page)#Sun_and_solar_system
+  28. file://localhost/w/index.php?title=Eddington_luminosity&action=edit&section=2
+  29. file://localhost/wiki/Eta_Carinae
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_note-1
+  31. file://localhost/wiki/Gamma-ray_burst
+  32. file://localhost/wiki/Nova
+  33. file://localhost/wiki/Supernova
+  34. file://localhost/wiki/X-ray_binaries
+  35. file://localhost/wiki/Active_galactic_nuclei
+  36. file://localhost/wiki/Neutron_star
+  37. file://localhost/wiki/Cataclysmic_variable
+  38. file://localhost/wiki/White_dwarfs
+  39. file://localhost/wiki/Black_hole
+  40. file://localhost/wiki/Event_horizon
+  41. file://localhost/w/index.php?title=Eddington_luminosity&action=edit&section=3
+  42. file://localhost/wiki/Convection_zone
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_note-2
+  44. file://localhost/wiki/Accretion_disc
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_note-3
+  46. file://localhost/w/index.php?title=Eddington_luminosity&action=edit&section=4
+  47. file://localhost/wiki/Hayashi_limit
+  48. file://localhost/w/index.php?title=Eddington_luminosity&action=edit&section=5
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_ref-0
+  50. http://adsabs.harvard.edu/abs/2008AIPC..990..250V
+  51. file://localhost/wiki/Digital_object_identifier
+  52. http://dx.doi.org/10.1063%2F1.2905555
+  53. http://adsabs.harvard.edu/abs/2008AIPC..990..250V
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_ref-1
+  55. http://adsabs.harvard.edu/abs/2006ApJ...645L..45S
+  56. file://localhost/wiki/Digital_object_identifier
+  57. http://dx.doi.org/10.1086%2F506523
+  58. http://adsabs.harvard.edu/abs/2006ApJ...645L..45S
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_ref-2
+  60. http://adsabs.harvard.edu/abs/2003ApJ...589..960S
+  61. file://localhost/wiki/Digital_object_identifier
+  62. http://dx.doi.org/10.1086%2F374713
+  63. http://adsabs.harvard.edu/abs/2003ApJ...589..960S
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc879.tmp.html#cite_ref-3
+  65. http://adsabs.harvard.edu/abs/1992ApJ...388..561A
+  66. file://localhost/wiki/Digital_object_identifier
+  67. http://dx.doi.org/10.1086%2F171174
+  68. http://adsabs.harvard.edu/abs/1992ApJ...388..561A
+  69. file://localhost/wiki/Special:BookSources/0521629578
+  70. http://en.wikipedia.org/wiki/Eddington_luminosity
+  71. file://localhost/wiki/Special:Categories
+  72. file://localhost/wiki/Category:Astrophysics
+  73. file://localhost/wiki/Eddington_luminosity
+  74. file://localhost/wiki/Talk:Eddington_luminosity
+  75. file://localhost/w/index.php?title=Eddington_luminosity&action=edit
+  76. file://localhost/w/index.php?title=Eddington_luminosity&action=history
+  77. file://localhost/w/index.php?title=Special:UserLogin&returnto=Eddington_luminosity
+  78. file://localhost/wiki/Main_Page
+  79. file://localhost/wiki/Portal:Contents
+  80. file://localhost/wiki/Portal:Featured_content
+  81. file://localhost/wiki/Portal:Current_events
+  82. file://localhost/wiki/Special:Random
+  83. file://localhost/wiki/Wikipedia:About
+  84. file://localhost/wiki/Wikipedia:Community_portal
+  85. file://localhost/wiki/Special:RecentChanges
+  86. file://localhost/wiki/Wikipedia:Contact_us
+  87. http://wikimediafoundation.org/wiki/Donate
+  88. file://localhost/wiki/Help:Contents
+  89. file://localhost/wiki/Special:WhatLinksHere/Eddington_luminosity
+  90. file://localhost/wiki/Special:RecentChangesLinked/Eddington_luminosity
+  91. file://localhost/wiki/Wikipedia:Upload
+  92. file://localhost/wiki/Special:SpecialPages
+  93. file://localhost/w/index.php?title=Eddington_luminosity&printable=yes
+  94. file://localhost/w/index.php?title=Eddington_luminosity&oldid=268835002
+  95. file://localhost/w/index.php?title=Special:Cite&page=Eddington_luminosity&id=268835002
+  96. http://ca.wikipedia.org/wiki/L%C3%ADmit_d%27Eddington
+  97. http://de.wikipedia.org/wiki/Eddington-Grenze
+  98. http://es.wikipedia.org/wiki/L%C3%ADmite_de_Eddington
+  99. http://fr.wikipedia.org/wiki/Limite_d%27Eddington
+ 100. http://it.wikipedia.org/wiki/Limite_di_Eddington
+ 101. http://nl.wikipedia.org/wiki/Eddingtonlichtkracht
+ 102. http://pl.wikipedia.org/wiki/Jasno%C5%9B%C4%87_Eddingtona
+ 103. http://pt.wikipedia.org/wiki/Limite_de_Eddington
+ 104. http://sl.wikipedia.org/wiki/Eddingtonova_meja
+ 105. http://fi.wikipedia.org/wiki/Eddingtonin_raja
+ 106. http://sv.wikipedia.org/wiki/Eddington-luminositet
+ 107. http://tr.wikipedia.org/wiki/Eddington_ayd%C4%B1nlatma_g%C3%BCc%C3%BC
+ 108. http://www.mediawiki.org/
+ 109. http://wikimediafoundation.org/
+ 110. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 111. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 112. http://www.wikimediafoundation.org/
+ 113. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 114. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 115. http://en.wikipedia.org/wiki/Non-profit_organization
+ 116. http://en.wikipedia.org/wiki/Charitable_organization
+ 117. http://wikimediafoundation.org/wiki/Privacy_policy
+ 118. file://localhost/wiki/Wikipedia:About
+ 119. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 120. file://localhost/wiki/Main_Page
+ 121. http://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB_%D0%AD%D0%B4%D0%B4%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD%D0%B0
+ 122. http://zh.wikipedia.org/wiki/%E7%88%B1%E4%B8%81%E9%A1%BF%E5%85%89%E5%BA%A6

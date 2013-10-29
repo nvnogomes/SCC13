@@ -1,0 +1,477 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dopamine hypothesis of schizophrenia
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   The dopamine hypothesis of schizophrenia or the dopamine hypothesis of
+   psychosis is a model attributing symptoms of [8]schizophrenia (like
+   [9]psychoses) to a disturbed and hyperactive dopaminergic [10]signal
+   transduction. The model draws evidence from the observation that a
+   large number of [11]antipsychotics have DA-antagonistic effects. The
+   theory, however, does not posit [12]dopamine overabundance as a
+   complete explanation for schizophrenia.
+
+Contents
+
+     * [13]1 Introduction
+     * [14]2 Discussion
+          + [15]2.1 Evidence for the dopamine hypothesis
+          + [16]2.2 Evidence against the dopamine hypothesis
+     * [17]3 See also
+     * [18]4 References
+     * [19]5 External links
+
+[[20]edit] Introduction
+
+   Some researchers have suggested that dopamine systems in the
+   [21]mesolimbic pathway may contribute to the 'positive symptoms' of
+   schizophrenia (whereas problems with dopamine function in the
+   [22]mesocortical pathway may be responsible for the 'negative
+   symptoms', such as [23]avolition and [24]alogia.)
+
+   Recent evidence on a variety of animal models of psychosis, such as
+   sensitization of animal behaviour by [25]amphetamine, or
+   [26]phencyclidine (Angel Dust), or excess [27]steroids, or by removing
+   various genes ([28]COMT, [29]DBH, [30]GPRK6, [31]RGS9, [32]RIIbeta), or
+   making brain lesions in newborn animals, or delivering animals
+   abnormally by Caesarian section, all induce a marked behavioural
+   supersensitivity to dopamine and a marked rise in the number of
+   dopamine D[2] receptors in the high-affinity state for
+   dopamine.^[33][1] This latter work implies that there are multiple
+   genes and neuronal pathways that can lead to psychosis and that all
+   these multiple psychosis pathways converge via the high-affinity state
+   of the [34]D2 receptor, the common target for all antipsychotics,
+   typical or atypical.
+
+[[35]edit] Discussion
+
+[[36]edit] Evidence for the dopamine hypothesis
+
+   Some of the most obvious evidence for this theory is from the effect of
+   drugs such as [37]amphetamine and [38]cocaine. These drugs (and others
+   like them) increase levels of dopamine in the brain and can cause
+   psychosis, particularly after large doses or prolonged use. This is
+   often referred to as '[39]amphetamine psychosis' or 'cocaine
+   psychosis', but may produce experiences virtually indistinguishable
+   from the positive symptoms associated with schizophrenia. However, the
+   acute effects of dopamine stimulants include euphoria, alertness and
+   over-confidence; these symptoms are more reminiscent of mania than
+   schizophrenia^[40][2]. In fact, extensive reviews by Lieberman^[41][3]
+   and by Curran^[42][4] highlight the fact that up to 75% of patients
+   with schizophrenia have increased signs and symptoms of their psychosis
+   upon challenge with moderate doses of [43]methylphenidate or
+   [44]amphetamine or other dopamine-like compounds, all given at doses at
+   which control normal volunteers do not have any psychologically
+   disturbing effects.
+
+   Another important development was an accidental discovery that a group
+   of drugs called the [45]phenothiazines, including [46]antipsychotics
+   such as [47]chlorpromazine, [48]antagonized dopamine binding
+   (particularly at [49]receptors known as D[2] [50]dopamine receptors)
+   and reduced positive psychotic symptoms.
+
+   This link was strengthened by experiments in 1970s which suggested that
+   the affinity of antipsychotic drugs for the D[2] dopamine receptor
+   family seemed to be inversely proportional to their therapeutic dose.
+   This correlation between the therapeutic doses of antipsychotics and
+   their affinities for the dopamine D2 receptor (then called the
+   "antipsychotic/dopamine receptor") was reported by [51]Philip Seeman in
+   1975^[52][5] and more recently in 2002.^[53][6]. There are no known
+   exceptions to this correlation, as explained further below.
+
+   More recent experimental studies have shown that amphetamine increases
+   the level and intensity of psychotic symptoms in people who already
+   have, or are liable to psychosis. Some [54]functional neuroimaging
+   studies have also shown that, after taking amphetamine, patients
+   diagnosed with schizophrenia show greater levels of dopamine release
+   (particularly in the [55]striatum) than non-psychotic individuals.
+
+   Concurrently, those treated with dopamine enhancing [56]Levodopa for
+   [57]Parkinson's disease can experience psychotic side effects mimicking
+   the symptoms of Schizophrenia.
+
+   [58]Genetic evidence has suggested that there may be [59]genes, or
+   specific variants of genes, that code for mechanisms involved in
+   dopamine function, which may be more prevalent in people experiencing
+   psychosis or diagnosed with schizophrenia. Dopamine related genes
+   linked to psychosis in this way include [60]COMT, [61]DRD4,
+   [62]AKT1.^[63][7]
+
+[[64]edit] Evidence against the dopamine hypothesis
+
+   Further experiments, conducted as new methods were developed
+   (particularly the ability to use [65]PET scanning to examine drug
+   action in the brain of living patients) challenged the view that the
+   amount of dopamine blocking was correlated with clinical benefit. These
+   studies showed that some patients had over 90% of their D[2] receptors
+   blocked by antipsychotic drugs, but showed little reduction in their
+   psychoses. This primarily occurs in patients who have had the psychosis
+   for ten to thirty years. At least 90-95% of first-episode patients,
+   however, respond to antipsychotics at low doses and do so with D2
+   occupancy of 60-70%. The only antipsychotic that occupies high levels
+   of D2 receptors over 90% is [66]aripiprazole, but this drug has both a
+   D2-blocking component and a D2-stimulating component, and it is the
+   D2-stimulating component that "internalizes" the D2 receptors in the
+   nerve cells of patient, making it appear that there is more D2
+   occupancy than is really necessary to do the job of antipsychotic
+   action.
+
+   Just as perplexing, although dopamine inhibiting medications modify
+   dopamine levels within minutes, the associated improvement is usually
+   not visible for at least several days ^[67][8], indicating that if
+   nothing else, dopamine may not be directly responsible for the illness.
+
+   Similarly, a new generation of antipsychotic drugs (called the
+   [68]atypical antipsychotics) were found to be just as effective as
+   older [69]typical antipsychotic drugs in controlling psychosis despite
+   the fact that they blocked fewer dopamine receptors^[70][9]. More
+   recent work, however, has shown that antipsychotic drugs such as
+   clozapine and quetiapine are loosely bound to the dopamine D2 receptor.
+   These drugs, therefore, come off the D2 receptors over a period of 6 to
+   12 hours after ingestion, explaining why PET scanning finds these drugs
+   to occupy somewhat lower levels of D2 receptors in patients. Earlier
+   scanning of patients at about two hours after taking clozapine or
+   quetiapine leads to the observation that their D2 receptors are
+   occupied to the extent of 60% or 70%, the usual therapeutic level for
+   all the antipsychotic drugs.^[71][10]
+
+   The blockade of serotonin (5-HT2) receptors does not contribute either
+   to the antipsychotic action or to alleviating the Parkinsonism that can
+   occur at high doses of antipsychotic medication.^[72][11]
+
+   The excitatory neurotransmitter [73]glutamate is now also thought to be
+   associated with schizophrenia. [74]Phencyclidine (also known as PCP or
+   'Angel Dust') and [75]ketamine, both of which block glutamate
+   ([76]NMDA) receptors, are known to cause psychosis closely resembling
+   schizophrenia, further suggesting that psychosis and schizophrenia
+   cannot fully be explained in terms of dopamine function^[77][12].
+   However, as reported in 2005 and mentioned above, the sensitization of
+   animals with PCP markedly increases the animal's behavioural
+   sensitivity to dopamine and markedly increases the number of
+   high-affinity D2 receptors in the brain (Seeman et al., Proc. Nat.
+   Acad. Sci., USA 102:3513-3518, 2005), implying that the multiple
+   psychosis pathways converge through D2High, the main common target for
+   antipsychotic medications.
+
+   Similarly, there is now a great deal of evidence to suggest there may
+   be a number of functional and structural anomalies in the brains of
+   some people diagnosed with schizophrenia, such as changes in [78]grey
+   matter density in the [79]frontal and [80]temporal lobes. Such changes
+   or lesions or injuries, especially when done at an early age or in
+   utero can lead to behavioural dopamine supersensitivity, as noted above
+   (Seeman et al., Proc. Nat. Acad. Sci., USA 102:3513-3518, 2005). It
+   appears, therefore, that there are multiple causes for psychosis and
+   schizophrenia, including gene mutations, lesions, and drug abuse.
+
+   Other evidence suggests that social and environmental factors are
+   important in explaining how either schizophrenia, or specific episodes
+   of psychosis, are triggered. This research has led people to argue that
+   a purely biological explanation, without reference to social, cultural
+   or environmental factors will never fully explain such phenomena. Such
+   socio-economic-cultural factors can become highly stressful to certain
+   individuals, such as immigrants, markedly altering their brain
+   chemistry, including dopamine, and can be associated with increased
+   risk to psychotic episodes.
+
+   Psychiatrist [81]David Healy has argued that drug companies have
+   inappropriately promoted the dopamine hypothesis of schizophrenia as a
+   deliberate and calculated simplification for the benefit of drug
+   marketing.
+
+[[82]edit] See also
+
+     * [83]Glutamate hypothesis of schizophrenia
+     * [84]Latent inhibition
+
+[[85]edit] References
+
+    1. [86]^ [87]Philip Seeman, [88]David Weinshenker, [89]Remi Quirion,
+       [90]Lalit K. Srivastava, [91]Sanjeev K. Bhardwaj, [92]David K.
+       Grandy, [93]Richard T. Premont, [94]Tatyana D. Sotnikova,
+       [95]Patricia Boksa, [96]Mufida El-Ghundi, [97]Brian F. O'dowd,
+       [98]Susan R. George, [99]Melissa L. Perreault, [100]Pekka T.
+       Mannisto, [101]Siobhan Robinson, [102]Richard D. Palmiter &
+       [103]Teresa Tallerico (March 2005). "[104]Dopamine supersensitivity
+       correlates with D2High states, implying many paths to psychosis".
+       [105]Proceedings of the National Academy of Sciences of the United
+       States of America 102 (9): 35133518.
+       [106]doi:[107]10.1073/pnas.0409766102. [108]PMID 15716360.
+       [109]http://www.pnas.org/cgi/content/abstract/102/9/3513.
+    2. [110]^ Jacob & Silverstone 1986
+    3. [111]^ J.A. Lieberman et al. (1987): [112]Psychopharmacology 91:
+       415-433
+    4. [113]^ x.y. Curran et al. (2004): Brit. J. Psychiat. 185: 196-204
+       (pubmed link??!)
+    5. [114]^ P. Seeman et al. (1975): Proceedings Nat. Acad. Sci., USA
+       72: 4376-4380; Nature 261: 717-719 [115][1]
+    6. [116]^ P. Seeman (2002): Canad. J. Psychiat. 47: 27-38 [117][2]
+    7. [118]^ Arguello PA, Gogos JA (June 2008). "[119]A signaling pathway
+       AKTing up in schizophrenia". [120]J. Clin. Invest. 118 (6): 201821.
+       [121]doi:[122]10.1172/JCI35931. [123]PMID 18497888.
+    8. [124]^ R. Thompson, The Brain, ISBN: 0716714620
+    9. [125]^ Diaz, Jaime. How Drugs Influence Behavior. Englewood Cliffs:
+       Prentice Hall, 1996.
+   10. [126]^ P. Seeman (2002): Canad. J. Psychiat. 47: 27-38 [127][3]
+   11. [128]^ S. Kapur et al. (1999): Amer. J. Psychiat. 156: 286-293
+   12. [129]^ "Daring to Think Differently about Schizophrenia". New York
+       Times, February 24, 2008.
+       [130]http://www.nytimes.com/2008/02/24/business/24drug.html?_r=1&ei
+       =5087&em=&en=6a0e8fe7296833ff&ex=1204002000&pagewanted=all&oref=slo
+       gin.
+
+[[131]edit] External links
+
+     * [132]cnsspectrums.com Illustrated description.
+     * [133]The Dopamine Hypothesis of Schizophrenia - Anissa Abi-Dargham.
+       Schizophrenia Research Forum.
+     * [134]Dopamine and Schizophrenia - [135]Philip Seeman,
+       [136]Scholarpedia.
+
+   Retrieved from
+   "[137]http://en.wikipedia.org/wiki/Dopamine_hypothesis_of_schizophrenia
+   "
+   [138]Category: [139]Schizophrenia
+
+Views
+
+     * [140]Article
+     * [141]Discussion
+     * [142]Edit this page
+     * [143]History
+
+Personal tools
+
+     * [144]Log in / create account
+
+Navigation
+
+     * [145]Main page
+     * [146]Contents
+     * [147]Featured content
+     * [148]Current events
+     * [149]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [150]About Wikipedia
+     * [151]Community portal
+     * [152]Recent changes
+     * [153]Contact Wikipedia
+     * [154]Donate to Wikipedia
+     * [155]Help
+
+Toolbox
+
+     * [156]What links here
+     * [157]Related changes
+     * [158]Upload file
+     * [159]Special pages
+     * [160]Printable version
+     * [161]Permanent link
+     * [162]Cite this page
+
+Languages
+
+     * [163]Deutsch
+
+   [164]Powered by MediaWiki
+   [165]Wikimedia Foundation
+     * This page was last modified on 16 January 2009, at 19:58.
+     * All text is available under the terms of the [166]GNU Free
+       Documentation License. (See [167]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [168]Wikimedia
+       Foundation, Inc., a U.S. registered [169]501(c)(3)
+       [170]tax-deductible [171]nonprofit [172]charity.
+     * [173]Privacy policy
+     * [174]About Wikipedia
+     * [175]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#searchInput
+   8. file://localhost/wiki/Schizophrenia
+   9. file://localhost/wiki/Psychosis
+  10. file://localhost/wiki/Signal_transduction
+  11. file://localhost/wiki/Antipsychotic
+  12. file://localhost/wiki/Dopamine
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#Introduction
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#Discussion
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#Evidence_for_the_dopamine_hypothesis
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#Evidence_against_the_dopamine_hypothesis
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#See_also
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#References
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#External_links
+  20. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=1
+  21. file://localhost/wiki/Mesolimbic_pathway
+  22. file://localhost/wiki/Mesocortical_pathway
+  23. file://localhost/wiki/Avolition
+  24. file://localhost/wiki/Alogia
+  25. file://localhost/wiki/Amphetamine
+  26. file://localhost/wiki/Phencyclidine
+  27. file://localhost/wiki/Steroids
+  28. file://localhost/wiki/COMT
+  29. file://localhost/wiki/DBH
+  30. file://localhost/w/index.php?title=GPRK6&action=edit&redlink=1
+  31. file://localhost/wiki/RGS9
+  32. file://localhost/w/index.php?title=RIIbeta&action=edit&redlink=1
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-0
+  34. file://localhost/wiki/D2_receptor
+  35. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=2
+  36. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=3
+  37. file://localhost/wiki/Amphetamine
+  38. file://localhost/wiki/Cocaine
+  39. file://localhost/wiki/Amphetamine_psychosis
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-1
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-2
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-3
+  43. file://localhost/wiki/Methylphenidate
+  44. file://localhost/wiki/Amphetamine
+  45. file://localhost/wiki/Phenothiazine
+  46. file://localhost/wiki/Antipsychotic
+  47. file://localhost/wiki/Chlorpromazine
+  48. file://localhost/wiki/Receptor_antagonist
+  49. file://localhost/wiki/Receptor_(biochemistry)
+  50. file://localhost/wiki/Dopamine_receptor
+  51. file://localhost/wiki/Philip_Seeman
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-4
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-5
+  54. file://localhost/wiki/Functional_neuroimaging
+  55. file://localhost/wiki/Striatum
+  56. file://localhost/wiki/Levodopa
+  57. file://localhost/wiki/Parkinson%27s_disease
+  58. file://localhost/wiki/Genetics
+  59. file://localhost/wiki/Gene
+  60. file://localhost/wiki/COMT
+  61. file://localhost/wiki/Dopamine_receptor_D4
+  62. file://localhost/wiki/AKT1
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-pmid18497888-6
+  64. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=4
+  65. file://localhost/wiki/Positron_Emission_Tomography
+  66. file://localhost/wiki/Aripiprazole
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-7
+  68. file://localhost/wiki/Atypical_antipsychotic
+  69. file://localhost/wiki/Typical_antipsychotic
+  70. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-8
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-9
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-10
+  73. file://localhost/wiki/Glutamate
+  74. file://localhost/wiki/Phencyclidine
+  75. file://localhost/wiki/Ketamine
+  76. file://localhost/wiki/NMDA
+  77. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_note-11
+  78. file://localhost/wiki/Grey_matter
+  79. file://localhost/wiki/Frontal_lobe
+  80. file://localhost/wiki/Temporal_lobe
+  81. file://localhost/wiki/David_Healy_(psychiatrist)
+  82. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=5
+  83. file://localhost/wiki/Glutamate_hypothesis_of_schizophrenia
+  84. file://localhost/wiki/Latent_inhibition
+  85. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=6
+  86. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-0
+  87. file://localhost/wiki/Philip_Seeman
+  88. file://localhost/w/index.php?title=David_Weinshenker&action=edit&redlink=1
+  89. file://localhost/w/index.php?title=Remi_Quirion&action=edit&redlink=1
+  90. file://localhost/w/index.php?title=Lalit_K._Srivastava&action=edit&redlink=1
+  91. file://localhost/w/index.php?title=Sanjeev_K._Bhardwaj&action=edit&redlink=1
+  92. file://localhost/w/index.php?title=David_K._Grandy&action=edit&redlink=1
+  93. file://localhost/w/index.php?title=Richard_T._Premont&action=edit&redlink=1
+  94. file://localhost/w/index.php?title=Tatyana_D._Sotnikova&action=edit&redlink=1
+  95. file://localhost/w/index.php?title=Patricia_Boksa&action=edit&redlink=1
+  96. file://localhost/w/index.php?title=Mufida_El-Ghundi&action=edit&redlink=1
+  97. file://localhost/w/index.php?title=Brian_F._O%27dowd&action=edit&redlink=1
+  98. file://localhost/w/index.php?title=Susan_R._George&action=edit&redlink=1
+  99. file://localhost/w/index.php?title=Melissa_L._Perreault&action=edit&redlink=1
+ 100. file://localhost/w/index.php?title=Pekka_T._Mannisto&action=edit&redlink=1
+ 101. file://localhost/w/index.php?title=Siobhan_Robinson&action=edit&redlink=1
+ 102. file://localhost/w/index.php?title=Richard_Palmiter&action=edit&redlink=1
+ 103. file://localhost/w/index.php?title=Teresa_Tallerico&action=edit&redlink=1
+ 104. http://www.pnas.org/cgi/content/abstract/102/9/3513
+ 105. file://localhost/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America
+ 106. file://localhost/wiki/Digital_object_identifier
+ 107. http://dx.doi.org/10.1073%2Fpnas.0409766102
+ 108. http://www.ncbi.nlm.nih.gov/pubmed/15716360
+ 109. http://www.pnas.org/cgi/content/abstract/102/9/3513
+ 110. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-1
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-2
+ 112. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2884687&query_hl=1&itool=pubmed_DocSum
+ 113. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-3
+ 114. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-4
+ 115. http://www.nature.com/nature/journal/v261/n5562/abs/261717a0.html
+ 116. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-5
+ 117. http://www.cpa-apc.org:8080/Publications/Archives/CJP/2002/february/inReviewSeemanPhilip.asp
+ 118. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-pmid18497888_6-0
+ 119. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2391280
+ 120. file://localhost/wiki/J._Clin._Invest.
+ 121. file://localhost/wiki/Digital_object_identifier
+ 122. http://dx.doi.org/10.1172%2FJCI35931
+ 123. http://www.ncbi.nlm.nih.gov/pubmed/18497888
+ 124. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-7
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-8
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-9
+ 127. http://www.cpa-apc.org:8080/Publications/Archives/CJP/2002/february/inReviewSeemanPhilip.asp
+ 128. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-10
+ 129. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc220.tmp.html#cite_ref-11
+ 130. http://www.nytimes.com/2008/02/24/business/24drug.html?_r=1&ei=5087&em=&en=6a0e8fe7296833ff&ex=1204002000&pagewanted=all&oref=slogin
+ 131. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit&section=7
+ 132. http://www.cnsspectrums.com/aspx/articledetail.aspx?articleid=1037
+ 133. http://www.schizophreniaforum.org/for/curr/AbiDargham/default.asp
+ 134. http://www.scholarpedia.org/article/Dopamine_and_schizophrenia
+ 135. file://localhost/wiki/Philip_Seeman
+ 136. file://localhost/wiki/Scholarpedia
+ 137. http://en.wikipedia.org/wiki/Dopamine_hypothesis_of_schizophrenia
+ 138. file://localhost/wiki/Special:Categories
+ 139. file://localhost/wiki/Category:Schizophrenia
+ 140. file://localhost/wiki/Dopamine_hypothesis_of_schizophrenia
+ 141. file://localhost/wiki/Talk:Dopamine_hypothesis_of_schizophrenia
+ 142. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=edit
+ 143. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&action=history
+ 144. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dopamine_hypothesis_of_schizophrenia
+ 145. file://localhost/wiki/Main_Page
+ 146. file://localhost/wiki/Portal:Contents
+ 147. file://localhost/wiki/Portal:Featured_content
+ 148. file://localhost/wiki/Portal:Current_events
+ 149. file://localhost/wiki/Special:Random
+ 150. file://localhost/wiki/Wikipedia:About
+ 151. file://localhost/wiki/Wikipedia:Community_portal
+ 152. file://localhost/wiki/Special:RecentChanges
+ 153. file://localhost/wiki/Wikipedia:Contact_us
+ 154. http://wikimediafoundation.org/wiki/Donate
+ 155. file://localhost/wiki/Help:Contents
+ 156. file://localhost/wiki/Special:WhatLinksHere/Dopamine_hypothesis_of_schizophrenia
+ 157. file://localhost/wiki/Special:RecentChangesLinked/Dopamine_hypothesis_of_schizophrenia
+ 158. file://localhost/wiki/Wikipedia:Upload
+ 159. file://localhost/wiki/Special:SpecialPages
+ 160. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&printable=yes
+ 161. file://localhost/w/index.php?title=Dopamine_hypothesis_of_schizophrenia&oldid=264524948
+ 162. file://localhost/w/index.php?title=Special:Cite&page=Dopamine_hypothesis_of_schizophrenia&id=264524948
+ 163. http://de.wikipedia.org/wiki/Dopaminhypothese
+ 164. http://www.mediawiki.org/
+ 165. http://wikimediafoundation.org/
+ 166. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 167. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 168. http://www.wikimediafoundation.org/
+ 169. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 170. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 171. http://en.wikipedia.org/wiki/Non-profit_organization
+ 172. http://en.wikipedia.org/wiki/Charitable_organization
+ 173. http://wikimediafoundation.org/wiki/Privacy_policy
+ 174. file://localhost/wiki/Wikipedia:About
+ 175. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 176. file://localhost/wiki/Main_Page

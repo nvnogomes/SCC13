@@ -1,0 +1,283 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dots and Boxes
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dots and boxes)
+   Jump to: [7]navigation, [8]search
+
+   Dots and Boxes (also known as Boxes, Squares, Paddocks, Square-it, Dots
+   and Dashes, Dots, Smart Dots, or, simply, the Dot Game) is a [9]pencil
+   and paper game for two players (or sometimes, more than two).
+   Game of dots and boxes on the 22 board.
+
+   Starting with an empty grid of dots, players take turns, adding a
+   single horizontal or vertical line between two unjoined adjacent dots.
+   A player who completes the fourth side of a box earns one point and
+   takes another turn. (The points are typically recorded by placing in
+   the box an identifying mark of the player, such as an initial). The
+   game ends when no more lines can be placed. The winner of the game is
+   the player with the most points.
+
+   The board may be of any size. When short on time, 22 boxes (created by
+   a square of 9 dots) is good for beginners, and 66 is good for experts.
+   In games with an even number of boxes, it is conventional that if the
+   game is tied then the win should be awarded to the second player (this
+   offsets the advantage of going first).
+
+   The diagram on the right shows a game being played on the 22 board. The
+   second player (B) plays the mirror image of the first player's move,
+   hoping to divide the board into two pieces and tie the game. The first
+   player (A) makes a sacrifice at move 7; B accepts the sacrifice,
+   getting one box. However, B must now add another line, and connects the
+   center dot to the center-right dot, causing the remaining boxes to be
+   joined together in a chain as shown at the end of move 8. With A's next
+   move, A gets them all, winning 31.
+
+Contents
+
+     * [10]1 Strategy
+     * [11]2 Unusual grids
+     * [12]3 References
+     * [13]4 Links
+
+[[14]edit] Strategy
+
+   The double-cross strategy. Faced with position 1, a novice player would
+   create position 2 and lose. An experienced player would create position
+   3 and win.
+
+   Beginners play more or less at random until all the remaining boxes are
+   joined together into chains, whereupon any move gives away all the
+   boxes in a chain to the opponent. A novice player faced with a
+   situation like position 1 in the diagram on the left, in which some
+   boxes can be captured, takes all the boxes in the chain, resulting in
+   position 2. But with the extra move, they have to open the next (and
+   larger) chain, and the novice loses the game, 45.
+
+   An experienced player faced with position 1 instead plays the
+   double-cross strategy, taking all but 2 of the boxes in the chain,
+   leaving position 3. This leaves the last two boxes in the chain for
+   their opponent, but then the opponent has to open the next chain. By
+   moving to position 3 player A wins 72.
+
+   A common alternate ruleset is to require all available boxes be claimed
+   on your turn. This eliminates the double cross strategy, forcing even
+   the experienced player to take all the boxes, and give his opponent the
+   win.
+
+   The double-cross strategy applies however many long chains there are.
+   Take all but two of the boxes in each chain, but take all the boxes in
+   the last chain. If the chains are long enough then the player will
+   certainly win. Therefore, when played by experts, Dots and Boxes
+   becomes a battle for control: An expert player tries to force their
+   opponent to be the one who starts the first long chain. Against a
+   player who doesn't understand the concept of a sacrifice, the expert
+   simply has to make the correct number of them to set up the opponent to
+   hand him the first sufficiently chain. If the other player also knows
+   to offer sacrifices, the expert also have to manipulate the number of
+   available sacrifices through earlier play.
+
+   There is never any reason not to accept a sacrifice, as if it is
+   refused, the player who offered it can always take it without penalty.
+   Thus, the impact of refusing a sacrifice need not be considered in your
+   strategy.
+
+   In [15]combinatorial game theory dots and boxes is very close to being
+   an [16]impartial game and many positions can be analyzed using
+   [17]SpragueGrundy theory.
+
+[[18]edit] Unusual grids
+
+   Dots and boxes need not be played on a rectangular grid. It can be
+   played on a triangular grid or a hexagonal grid.
+
+   Dots-and-boxes has a [19]dual form called "strings-and-coins". This
+   game is played on a network of coins (vertices) joined by strings
+   (edges). Players take turns to cut a string. When a cut leaves a coin
+   with no strings, the player pockets the coin and takes another turn.
+   The winner is the player who pockets the most coins. Strings-and-coins
+   can be played on an arbitrary [20]graph. A variant played in Poland
+   allows a player to claim a region of several squares as soon as its
+   boundary is completed.
+
+[[21]edit] References
+
+     * [22]Elwyn Berlekamp (July 2000). The Dots-and-Boxes Game:
+       Sophisticated Child's Play. AK Peters, Ltd. [23]ISBN
+       1-56881-129-2.
+     * Barile, Margherita, [24]Dots and Boxes at [25]MathWorld.
+     * David Wilson, [26]Dots-and-Boxes Analysis. Contains computer
+       analysis of small boards.
+     * Ilan Verdi, [27]Dots Strategies.
+     * Rick Nordal, [28]Connect Capture. A new paper and pencil game that
+       combines Dots and Boxes with Chess.
+
+[[29]edit] Links
+
+     * [30]http://www.well.com/user/argv/java/dots.html (interactive game
+       with computer)
+
+   Retrieved from "[31]http://en.wikipedia.org/wiki/Dots_and_Boxes"
+   [32]Categories: [33]Abstract strategy games | [34]Mathematical games |
+   [35]Paper and pencil games
+
+Views
+
+     * [36]Article
+     * [37]Discussion
+     * [38]Edit this page
+     * [39]History
+
+Personal tools
+
+     * [40]Log in / create account
+
+Navigation
+
+     * [41]Main page
+     * [42]Contents
+     * [43]Featured content
+     * [44]Current events
+     * [45]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [46]About Wikipedia
+     * [47]Community portal
+     * [48]Recent changes
+     * [49]Contact Wikipedia
+     * [50]Donate to Wikipedia
+     * [51]Help
+
+Toolbox
+
+     * [52]What links here
+     * [53]Related changes
+     * [54]Upload file
+     * [55]Special pages
+     * [56]Printable version
+     * [57]Permanent link
+     * [58]Cite this page
+
+Languages
+
+     * [59]Dansk
+     * [60]Deutsch
+     * [61]Espaol
+     * [62]Franais
+     * [63]Italiano
+     *
+     * [64]Nederlands
+     * [65]Polski
+     *
+     *
+
+   [66]Powered by MediaWiki
+   [67]Wikimedia Foundation
+     * This page was last modified on 14 February 2009, at 01:23.
+     * All text is available under the terms of the [68]GNU Free
+       Documentation License. (See [69]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [70]Wikimedia
+       Foundation, Inc., a U.S. registered [71]501(c)(3)
+       [72]tax-deductible [73]nonprofit [74]charity.
+     * [75]Privacy policy
+     * [76]About Wikipedia
+     * [77]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dots_and_Boxes&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dots_and_boxes&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#searchInput
+   9. file://localhost/wiki/Pencil_and_paper_game
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#Strategy
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#Unusual_grids
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#References
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc261.tmp.html#Links
+  14. file://localhost/w/index.php?title=Dots_and_Boxes&action=edit&section=1
+  15. file://localhost/wiki/Combinatorial_game_theory
+  16. file://localhost/wiki/Impartial_game
+  17. file://localhost/wiki/Sprague%E2%80%93Grundy_theorem
+  18. file://localhost/w/index.php?title=Dots_and_Boxes&action=edit&section=2
+  19. file://localhost/wiki/Dual_graph
+  20. file://localhost/wiki/Graph_(mathematics)
+  21. file://localhost/w/index.php?title=Dots_and_Boxes&action=edit&section=3
+  22. file://localhost/wiki/Elwyn_Berlekamp
+  23. file://localhost/wiki/Special:BookSources/1568811292
+  24. http://mathworld.wolfram.com/DotsandBoxes.html
+  25. file://localhost/wiki/MathWorld
+  26. http://homepages.cae.wisc.edu/~dwilson/boxes/
+  27. http://cf.geocities.com/ilanpi/dots.html
+  28. http://www.geocities.com/alpine_rick_2000/
+  29. file://localhost/w/index.php?title=Dots_and_Boxes&action=edit&section=4
+  30. http://www.well.com/user/argv/java/dots.html
+  31. http://en.wikipedia.org/wiki/Dots_and_Boxes
+  32. file://localhost/wiki/Special:Categories
+  33. file://localhost/wiki/Category:Abstract_strategy_games
+  34. file://localhost/wiki/Category:Mathematical_games
+  35. file://localhost/wiki/Category:Paper_and_pencil_games
+  36. file://localhost/wiki/Dots_and_Boxes
+  37. file://localhost/wiki/Talk:Dots_and_Boxes
+  38. file://localhost/w/index.php?title=Dots_and_Boxes&action=edit
+  39. file://localhost/w/index.php?title=Dots_and_Boxes&action=history
+  40. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dots_and_Boxes
+  41. file://localhost/wiki/Main_Page
+  42. file://localhost/wiki/Portal:Contents
+  43. file://localhost/wiki/Portal:Featured_content
+  44. file://localhost/wiki/Portal:Current_events
+  45. file://localhost/wiki/Special:Random
+  46. file://localhost/wiki/Wikipedia:About
+  47. file://localhost/wiki/Wikipedia:Community_portal
+  48. file://localhost/wiki/Special:RecentChanges
+  49. file://localhost/wiki/Wikipedia:Contact_us
+  50. http://wikimediafoundation.org/wiki/Donate
+  51. file://localhost/wiki/Help:Contents
+  52. file://localhost/wiki/Special:WhatLinksHere/Dots_and_Boxes
+  53. file://localhost/wiki/Special:RecentChangesLinked/Dots_and_Boxes
+  54. file://localhost/wiki/Wikipedia:Upload
+  55. file://localhost/wiki/Special:SpecialPages
+  56. file://localhost/w/index.php?title=Dots_and_Boxes&printable=yes
+  57. file://localhost/w/index.php?title=Dots_and_Boxes&oldid=270573867
+  58. file://localhost/w/index.php?title=Special:Cite&page=Dots_and_Boxes&id=270573867
+  59. http://da.wikipedia.org/wiki/Kvadrater_(br%C3%A6tspil)
+  60. http://de.wikipedia.org/wiki/K%C3%A4sek%C3%A4stchen
+  61. http://es.wikipedia.org/wiki/Timbiriche_(juego)
+  62. http://fr.wikipedia.org/wiki/La_Pipopipette
+  63. http://it.wikipedia.org/wiki/Punti_e_linee
+  64. http://nl.wikipedia.org/wiki/Kamertje_verhuren
+  65. http://pl.wikipedia.org/wiki/Kreski_(gra)
+  66. http://www.mediawiki.org/
+  67. http://wikimediafoundation.org/
+  68. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  69. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  70. http://www.wikimediafoundation.org/
+  71. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  72. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  73. http://en.wikipedia.org/wiki/Non-profit_organization
+  74. http://en.wikipedia.org/wiki/Charitable_organization
+  75. http://wikimediafoundation.org/wiki/Privacy_policy
+  76. file://localhost/wiki/Wikipedia:About
+  77. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  78. file://localhost/wiki/File:Dots-and-boxes.png
+  79. file://localhost/wiki/File:Dots-and-boxes.png
+  80. file://localhost/wiki/File:Dots-and-boxes-chains.png
+  81. file://localhost/wiki/File:Dots-and-boxes-chains.png
+  82. file://localhost/wiki/Main_Page
+  83. http://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%97%D7%A7_%D7%A7%D7%95%D7%95%D7%99%D7%9D_%D7%95%D7%A8%D7%99%D7%91%D7%95%D7%A2%D7%99%D7%9D
+  84. http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B8_(%D0%B8%D0%B3%D1%80%D0%B0)
+  85. http://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%88%E0%B8%B8%E0%B8%94

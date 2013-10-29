@@ -1,0 +1,350 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EEF1A2
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+                                                                   [8]edit
+
+   Eukaryotic translation elongation factor 1 alpha 2
+   Identifiers
+   [9]Symbols [10]EEF1A2; STN; EF1A; EEF1AL; EF-1-alpha-2; HS1
+   External IDs OMIM: [11]602959 [12]MGI: [13]1096317
+   [14]HomoloGene: [15]68213
+   [16]Gene ontology
+   Molecular function: [17]nucleotide binding
+   [18]translation elongation factor activity
+   [19]GTPase activity
+   [20]GTP binding
+   Cellular component: [21]nucleus
+   [22]cytoplasm
+   [23]eukaryotic translation elongation factor 1 complex
+   Biological process: [24]translational elongation
+   [25]anti-apoptosis
+   RNA expression pattern
+
+   [26]More reference expression data
+   Orthologs
+   Human Mouse
+   [27]Entrez [28]1917 [29]13628
+   [30]Ensembl [31]ENSG00000101210 [32]ENSMUSG00000016349
+   [33]Uniprot [34]Q05639 [35]P62631
+   Refseq [36]NM_001958 (mRNA)
+   [37]NP_001949 (protein) [38]NM_007906 (mRNA)
+   [39]NP_031932 (protein)
+   Location [40]Chr 20: 61.59 - 61.6 Mb [41]Chr 2: 181.08 - 181.09 Mb
+   [42]Pubmed search [43][1] [44][2]
+
+   Eukaryotic translation elongation factor 1 alpha 2, also known as
+   EEF1A2, is a human [45]gene.^[46][1]
+
+   This gene encodes an isoform of the alpha subunit of the elongation
+   factor-1 complex, which is responsible for the enzymatic delivery of
+   aminoacyl tRNAs to the ribosome. This isoform (alpha 2) is expressed in
+   brain, heart and skeletal muscle, and the other isoform (alpha 1) is
+   expressed in brain, placenta, lung, liver, kidney, and pancreas. This
+   gene may be critical in the development of ovarian cancer.^[47][1]
+
+[[48]edit] References
+
+    1. ^ [49]^a [50]^b [51]"Entrez Gene: EEF1A2 eukaryotic translation
+       elongation factor 1 alpha 2".
+       [52]http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetail
+       View&TermToSearch=1917.
+
+[[53]edit] Further reading
+
+     * Lee JM (2004). "The role of protein elongation factor eEF1A2 in
+       ovarian cancer.". Reprod. Biol. Endocrinol. 1: 69.
+       [54]doi:[55]10.1186/1477-7827-1-69. [56]PMID 14588074.
+     * Beh KJ (1976). "Immunoglobulin class specificity of
+       non-agglutinating antibody produced in cattle following Brucella
+       abortus 45/20 vaccination.". Aust. Vet. J. 51 (10): 4813. [57]PMID
+       812466.
+     * Lee S, Ann DK, Wang E (1994). "Cloning of human and mouse brain
+       cDNAs coding for S1, the second member of the mammalian elongation
+       factor-1 alpha gene family: analysis of a possible evolutionary
+       pathway.". Biochem. Biophys. Res. Commun. 203 (3): 13717. [58]PMID
+       7945283.
+     * Knudsen SM, Frydenberg J, Clark BF, Leffers H (1993).
+       "Tissue-dependent variation in the expression of elongation
+       factor-1 alpha isoforms: isolation and characterisation of a cDNA
+       encoding a novel variant of human elongation-factor 1 alpha.". Eur.
+       J. Biochem. 215 (3): 54954. [59]PMID 8354261.
+     * Wu-Baer F, Lane WS, Gaynor RB (1996). "Identification of a group of
+       cellular cofactors that stimulate the binding of RNA polymerase II
+       and TRP-185 to human immunodeficiency virus 1 TAR RNA.". J. Biol.
+       Chem. 271 (8): 42018. [60]PMID 8626763.
+     * Lund A, Knudsen SM, Vissing H, et al. (1997). "Assignment of human
+       elongation factor 1alpha genes: EEF1A maps to chromosome 6q14 and
+       EEF1A2 to 20q13.3.". Genomics 36 (2): 35961.
+       [61]doi:[62]10.1006/geno.1996.0475. [63]PMID 8812466.
+     * Bischoff C, Kahns S, Lund A, et al. (2001). "The human elongation
+       factor 1 A-2 gene (EEF1A2): complete sequence and characterization
+       of gene structure and promoter activity.". Genomics 68 (1): 6370.
+       [64]doi:[65]10.1006/geno.2000.6271. [66]PMID 10950927.
+     * Deloukas P, Matthews LH, Ashurst J, et al. (2002). "The DNA
+       sequence and comparative analysis of human chromosome 20.". Nature
+       414 (6866): 86571. [67]doi:[68]10.1038/414865a. [69]PMID 11780052.
+     * McClatchy DB, Knudsen CR, Clark BF, et al. (2002). "Novel
+       interaction between the M4 muscarinic acetylcholine receptor and
+       elongation factor 1A2.". J. Biol. Chem. 277 (32): 2926874.
+       [70]doi:[71]10.1074/jbc.M203081200. [72]PMID 12048193.
+     * Anand N, Murthy S, Amann G, et al. (2002). "Protein elongation
+       factor EEF1A2 is a putative oncogene in ovarian cancer.". Nat.
+       Genet. 31 (3): 3015. [73]doi:[74]10.1038/ng904. [75]PMID 12053177.
+     * Strausberg RL, Feingold EA, Grouse LH, et al. (2003). "Generation
+       and initial analysis of more than 15,000 full-length human and
+       mouse cDNA sequences.". Proc. Natl. Acad. Sci. U.S.A. 99 (26):
+       16899903. [76]doi:[77]10.1073/pnas.242603899. [78]PMID 12477932.
+     * Bouwmeester T, Bauch A, Ruffner H, et al. (2004). "A physical and
+       functional map of the human TNF-alpha/NF-kappa B signal
+       transduction pathway.". Nat. Cell Biol. 6 (2): 97105.
+       [79]doi:[80]10.1038/ncb1086. [81]PMID 14743216.
+     * Gerhard DS, Wagner L, Feingold EA, et al. (2004). "The status,
+       quality, and expansion of the NIH full-length cDNA project: the
+       Mammalian Gene Collection (MGC).". Genome Res. 14 (10B): 21217.
+       [82]doi:[83]10.1101/gr.2596504. [84]PMID 15489334.
+     * Rush J, Moritz A, Lee KA, et al. (2005). "Immunoaffinity profiling
+       of tyrosine phosphorylation in cancer cells.". Nat. Biotechnol. 23
+       (1): 94101. [85]doi:[86]10.1038/nbt1046. [87]PMID 15592455.
+     * Andersen JS, Lam YW, Leung AK, et al. (2005). "Nucleolar proteome
+       dynamics.". Nature 433 (7021): 7783.
+       [88]doi:[89]10.1038/nature03207. [90]PMID 15635413.
+     * Byun HM, Suh D, Jeong Y, et al. (2005). "Plasmid vectors harboring
+       cellular promoters can induce prolonged gene expression in
+       hematopoietic and mesenchymal progenitor cells.". Biochem. Biophys.
+       Res. Commun. 332 (2): 51823.
+       [91]doi:[92]10.1016/j.bbrc.2005.04.155. [93]PMID 15893736.
+     * Ahmed M, Forsberg J, Bergsten P (2005). "Protein profiling of human
+       pancreatic islets by two-dimensional gel electrophoresis and mass
+       spectrometry.". J. Proteome Res. 4 (3): 93140.
+       [94]doi:[95]10.1021/pr050024a. [96]PMID 15952740.
+     * Tomlinson VA, Newbery HJ, Wray NR, et al. (2006). "Translation
+       elongation factor eEF1A2 is a potential oncoprotein that is
+       overexpressed in two-thirds of breast tumours.". BMC Cancer 5: 113.
+       [97]doi:[98]10.1186/1471-2407-5-113. [99]PMID 16156888.
+     * Li R, Wang H, Bekele BN, et al. (2006). "Identification of putative
+       oncogenes in lung adenocarcinoma by a comprehensive functional
+       genomic approach.". Oncogene 25 (18): 262835.
+       [100]doi:[101]10.1038/sj.onc.1209289. [102]PMID 16369491.
+
+    This article on a [103]gene on [104]chromosome 20 is a [105]stub. You
+   can help Wikipedia by [106]expanding it.
+   Retrieved from "[107]http://en.wikipedia.org/wiki/EEF1A2"
+   [108]Categories: [109]Genes on chromosome 20 | [110]Human proteins |
+   [111]Chromosome 20 gene stubs
+   Hidden category: [112]Protein pages needing a picture
+
+Views
+
+     * [113]Article
+     * [114]Discussion
+     * [115]Edit this page
+     * [116]History
+
+Personal tools
+
+     * [117]Log in / create account
+
+Navigation
+
+     * [118]Main page
+     * [119]Contents
+     * [120]Featured content
+     * [121]Current events
+     * [122]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [123]About Wikipedia
+     * [124]Community portal
+     * [125]Recent changes
+     * [126]Contact Wikipedia
+     * [127]Donate to Wikipedia
+     * [128]Help
+
+Toolbox
+
+     * [129]What links here
+     * [130]Related changes
+     * [131]Upload file
+     * [132]Special pages
+     * [133]Printable version
+     * [134]Permanent link
+     * [135]Cite this page
+
+   [136]Powered by MediaWiki
+   [137]Wikimedia Foundation
+     * This page was last modified on 9 July 2008, at 13:41.
+     * All text is available under the terms of the [138]GNU Free
+       Documentation License. (See [139]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [140]Wikimedia
+       Foundation, Inc., a U.S. registered [141]501(c)(3)
+       [142]tax-deductible [143]nonprofit [144]charity.
+     * [145]Privacy policy
+     * [146]About Wikipedia
+     * [147]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EEF1A2&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#searchInput
+   8. http://en.wikipedia.org/w/index.php?title=Template:PBB/1917&action=edit
+   9. file://localhost/wiki/HUGO
+  10. http://www.genenames.org/data/hgnc_data.php?hgnc_id=3192
+  11. http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=602959
+  12. file://localhost/wiki/Mouse_Genome_Informatics
+  13. http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1096317
+  14. file://localhost/wiki/HomoloGene
+  15. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=homologene&dopt=HomoloGene&list_uids=68213
+  16. file://localhost/wiki/Gene_ontology
+  17. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0000166
+  18. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0003746
+  19. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0003924
+  20. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005525
+  21. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005634
+  22. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005737
+  23. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0005853
+  24. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0006414
+  25. http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?view=details&search_constraint=terms&depth=0&query=GO:0006916
+  26. http://symatlas.gnf.org/SymAtlas/symquery?q=EEF1A2
+  27. file://localhost/wiki/Entrez
+  28. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&cmd=retrieve&dopt=default&list_uids=1917&rn=1
+  29. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&cmd=retrieve&dopt=default&list_uids=13628&rn=1
+  30. file://localhost/wiki/Ensembl
+  31. http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000101210;db=core
+  32. http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000016349;db=core
+  33. file://localhost/wiki/Uniprot
+  34. http://www.expasy.org/uniprot/Q05639
+  35. http://www.expasy.org/uniprot/P62631
+  36. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001958
+  37. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001949
+  38. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_007906
+  39. http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_031932
+  40. http://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&position=chr20:61589810-61600949
+  41. http://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&position=chr2:181077098-181086422
+  42. file://localhost/wiki/Pubmed
+  43. http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Link&LinkName=gene_pubmed&from_uid=1917
+  44. http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Link&LinkName=gene_pubmed&from_uid=13628
+  45. file://localhost/wiki/Gene
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#cite_note-entrez-0
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#cite_note-entrez-0
+  48. file://localhost/w/index.php?title=EEF1A2&action=edit&section=1
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#cite_ref-entrez_0-0
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc629.tmp.html#cite_ref-entrez_0-1
+  51. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1917
+  52. http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=1917
+  53. file://localhost/w/index.php?title=EEF1A2&action=edit&section=2
+  54. file://localhost/wiki/Digital_object_identifier
+  55. http://dx.doi.org/10.1186%2F1477-7827-1-69
+  56. http://www.ncbi.nlm.nih.gov/pubmed/14588074
+  57. http://www.ncbi.nlm.nih.gov/pubmed/812466
+  58. http://www.ncbi.nlm.nih.gov/pubmed/7945283
+  59. http://www.ncbi.nlm.nih.gov/pubmed/8354261
+  60. http://www.ncbi.nlm.nih.gov/pubmed/8626763
+  61. file://localhost/wiki/Digital_object_identifier
+  62. http://dx.doi.org/10.1006%2Fgeno.1996.0475
+  63. http://www.ncbi.nlm.nih.gov/pubmed/8812466
+  64. file://localhost/wiki/Digital_object_identifier
+  65. http://dx.doi.org/10.1006%2Fgeno.2000.6271
+  66. http://www.ncbi.nlm.nih.gov/pubmed/10950927
+  67. file://localhost/wiki/Digital_object_identifier
+  68. http://dx.doi.org/10.1038%2F414865a
+  69. http://www.ncbi.nlm.nih.gov/pubmed/11780052
+  70. file://localhost/wiki/Digital_object_identifier
+  71. http://dx.doi.org/10.1074%2Fjbc.M203081200
+  72. http://www.ncbi.nlm.nih.gov/pubmed/12048193
+  73. file://localhost/wiki/Digital_object_identifier
+  74. http://dx.doi.org/10.1038%2Fng904
+  75. http://www.ncbi.nlm.nih.gov/pubmed/12053177
+  76. file://localhost/wiki/Digital_object_identifier
+  77. http://dx.doi.org/10.1073%2Fpnas.242603899
+  78. http://www.ncbi.nlm.nih.gov/pubmed/12477932
+  79. file://localhost/wiki/Digital_object_identifier
+  80. http://dx.doi.org/10.1038%2Fncb1086
+  81. http://www.ncbi.nlm.nih.gov/pubmed/14743216
+  82. file://localhost/wiki/Digital_object_identifier
+  83. http://dx.doi.org/10.1101%2Fgr.2596504
+  84. http://www.ncbi.nlm.nih.gov/pubmed/15489334
+  85. file://localhost/wiki/Digital_object_identifier
+  86. http://dx.doi.org/10.1038%2Fnbt1046
+  87. http://www.ncbi.nlm.nih.gov/pubmed/15592455
+  88. file://localhost/wiki/Digital_object_identifier
+  89. http://dx.doi.org/10.1038%2Fnature03207
+  90. http://www.ncbi.nlm.nih.gov/pubmed/15635413
+  91. file://localhost/wiki/Digital_object_identifier
+  92. http://dx.doi.org/10.1016%2Fj.bbrc.2005.04.155
+  93. http://www.ncbi.nlm.nih.gov/pubmed/15893736
+  94. file://localhost/wiki/Digital_object_identifier
+  95. http://dx.doi.org/10.1021%2Fpr050024a
+  96. http://www.ncbi.nlm.nih.gov/pubmed/15952740
+  97. file://localhost/wiki/Digital_object_identifier
+  98. http://dx.doi.org/10.1186%2F1471-2407-5-113
+  99. http://www.ncbi.nlm.nih.gov/pubmed/16156888
+ 100. file://localhost/wiki/Digital_object_identifier
+ 101. http://dx.doi.org/10.1038%2Fsj.onc.1209289
+ 102. http://www.ncbi.nlm.nih.gov/pubmed/16369491
+ 103. file://localhost/wiki/Gene
+ 104. file://localhost/wiki/Chromosome_20
+ 105. file://localhost/wiki/Wikipedia:Stub
+ 106. http://en.wikipedia.org/w/index.php?stub&title=EEF1A2&action=edit
+ 107. http://en.wikipedia.org/wiki/EEF1A2
+ 108. file://localhost/wiki/Special:Categories
+ 109. file://localhost/wiki/Category:Genes_on_chromosome_20
+ 110. file://localhost/wiki/Category:Human_proteins
+ 111. file://localhost/wiki/Category:Chromosome_20_gene_stubs
+ 112. file://localhost/wiki/Category:Protein_pages_needing_a_picture
+ 113. file://localhost/wiki/EEF1A2
+ 114. file://localhost/wiki/Talk:EEF1A2
+ 115. file://localhost/w/index.php?title=EEF1A2&action=edit
+ 116. file://localhost/w/index.php?title=EEF1A2&action=history
+ 117. file://localhost/w/index.php?title=Special:UserLogin&returnto=EEF1A2
+ 118. file://localhost/wiki/Main_Page
+ 119. file://localhost/wiki/Portal:Contents
+ 120. file://localhost/wiki/Portal:Featured_content
+ 121. file://localhost/wiki/Portal:Current_events
+ 122. file://localhost/wiki/Special:Random
+ 123. file://localhost/wiki/Wikipedia:About
+ 124. file://localhost/wiki/Wikipedia:Community_portal
+ 125. file://localhost/wiki/Special:RecentChanges
+ 126. file://localhost/wiki/Wikipedia:Contact_us
+ 127. http://wikimediafoundation.org/wiki/Donate
+ 128. file://localhost/wiki/Help:Contents
+ 129. file://localhost/wiki/Special:WhatLinksHere/EEF1A2
+ 130. file://localhost/wiki/Special:RecentChangesLinked/EEF1A2
+ 131. file://localhost/wiki/Wikipedia:Upload
+ 132. file://localhost/wiki/Special:SpecialPages
+ 133. file://localhost/w/index.php?title=EEF1A2&printable=yes
+ 134. file://localhost/w/index.php?title=EEF1A2&oldid=224570161
+ 135. file://localhost/w/index.php?title=Special:Cite&page=EEF1A2&id=224570161
+ 136. http://www.mediawiki.org/
+ 137. http://wikimediafoundation.org/
+ 138. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 139. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 140. http://www.wikimediafoundation.org/
+ 141. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 142. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 143. http://en.wikipedia.org/wiki/Non-profit_organization
+ 144. http://en.wikipedia.org/wiki/Charitable_organization
+ 145. http://wikimediafoundation.org/wiki/Privacy_policy
+ 146. file://localhost/wiki/Wikipedia:About
+ 147. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 148. file://localhost/wiki/File:PBB_GE_EEF1A2_204540_at_tn.png
+ 149. file://localhost/wiki/File:DNA_stub.png
+ 150. file://localhost/wiki/Main_Page

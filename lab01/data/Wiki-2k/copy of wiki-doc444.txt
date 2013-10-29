@@ -1,0 +1,297 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dual-channel architecture
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dual channel)
+   Jump to: [7]navigation, [8]search
+
+   Dual-channel architecture describes a technology that theoretically
+   doubles data throughput from the memory to the [9]memory controller.
+   Dual-channel-enabled memory controllers utilize two 64-bit data
+   channels, resulting in a 128-bit data path.
+
+Contents
+
+     * [10]1 Operation
+     * [11]2 Purpose
+     * [12]3 Performance
+     * [13]4 See also
+     * [14]5 References
+
+[[15]edit] Operation
+
+   Dual-channel architecture requires a dual-channel-capable motherboard
+   and two or more [16]DDR, [17]DDR2 SDRAM, or [18]DDR3 SDRAM memory
+   modules. The memory modules are installed into matching banks, which
+   are usually color coded on the [19]motherboard. These separate channels
+   allow each memory module access to the memory controller, increasing
+   throughput bandwidth. It is not required that identical modules be
+   used, but this is often recommended for best compatibility for dual
+   channel operation. It is possible to use a single-sided module of
+   512 [20]MB^[21][1] and a double-sided module of 512 MB in dual-channel
+   configuration, but how fast and stable it is depends on the memory
+   controller.
+
+   If the motherboard has two pairs of differently colored DIMM sockets
+   (the colors indicate which bank they belong to, bank 0 or bank 1), then
+   one can place a matched pair of memory modules in bank 0, but a
+   different-capacity pair of modules in bank 1, as long as they are of
+   the same speed. Using this scheme, a pair of 1 [22]GB memory modules in
+   bank 0 and a pair of matched 512 MB modules in bank 1 would be
+   acceptable for dual-channel operation.^[23][2]
+
+   Modules rated at different speeds can be run in dual-channel mode,
+   although the motherboard will then run all memory modules at the speed
+   of the slowest module. Some motherboards, however, have compatibility
+   issues with certain brands or models of memory when attempting to use
+   them in dual-channel mode. For this reason, it is generally advised to
+   use identical pairs of memory modules, which is why most memory
+   manufacturers now sell "kits" of matched-pair [24]DIMMs. Several
+   motherboard manufacturers only support configurations where a "matched
+   pair" of modules are used. A matching pair needs to match in:
+     * Capacity (e.g. 1024 MB). Certain Intel chipsets support different
+       capacity chips in what they call Flex Mode: the capacity that can
+       be matched is run in dual-channel, while the remainder runs in
+       single-channel.
+     * Speed (e.g. PC5300). If speed is not the same, the lower speed of
+       the two modules will be used. Likewise, the higher latency of the
+       two modules will be used.
+     * Number of chips and sides (e.g. 2 sides with 4 chips on each side).
+
+   Dual-channel architecture is a technology implemented on motherboards
+   by the motherboard manufacturer and does not apply to memory modules.
+   Theoretically any matched pair of memory modules may be used in either
+   single- or dual-channel operation, provided the motherboard supports
+   this architecture.
+
+[[25]edit] Purpose
+
+   Graphic illustrating bottleneck between CPU, RAM, and other peripherals
+
+   Dual-channel technology was created to address the issue of
+   [26]bottlenecks. Increased processor speed and performance requires
+   other, less prominent components to keep pace. In the case of dual
+   channel design, the intended target is the memory controller, which
+   regulates data flow between the CPU and system memory (RAM). The memory
+   controller determines the types and speeds of RAM as well as the
+   maximum size of each individual memory module and the overall memory
+   capacity of the system. When the memory is unable to keep up with the
+   processor, however, a bottleneck occurs, leaving the CPU with nothing
+   to process. Under the single-channel architecture, any CPU with a bus
+   speed greater than the memory speed would be susceptible to this
+   bottleneck effect.
+
+   The dual-channel configuration alleviates the problem by doubling the
+   amount of available memory bandwidth. Instead of a single memory
+   channel, a second parallel channel is added. With two channels working
+   simultaneously, the bottleneck is reduced. Rather than wait for memory
+   technology to improve, dual-channel architecture simply takes the
+   existing RAM technology and improves the method in which it is handled.
+   While the actual implementation differs between [27]Intel and [28]AMD
+   motherboards, the basic theory stands.
+
+[[29]edit] Performance
+
+   [30]Tom's Hardware found little significant difference between
+   single-channel and dual-channel configurations in synthetic and gaming
+   benchmarks (using a "modern" system setup). In their tests, dual
+   channel gave at best a 5% speed increase in memory-intensive tasks, not
+   even close to the two times that the term "dual" suggests.^[31][3] It
+   should be noted that the test results published by Tom's Hardware had a
+   discrete graphics comparison. The difference can be far more
+   significant in applications that manipulate large amounts of data in
+   memory.^[32][4]
+
+[[33]edit] See also
+
+     * [34]List of device bandwidths
+
+[[35]edit] References
+
+    1. [36]^ RAM size is specified using [37]binary meanings for K (1024^1
+       instead of 1000^1), M (1024^2 instead of 1000^2), G (1024^3 instead
+       of 1000^3), ...
+    2. [38]^ Infineon Technologies North America Corporation and Kingston
+       Technology Company, Inc. (September 2003). [39]""Intel Dual-Channel
+       DDR Memory Architecture White Paper", Rev. 1.0" (PDF, 1021 [40]KB).
+       Kingston Technology.
+       [41]http://www.kingston.com/newtech/MKF_520DDRwhitepaper.pdf.
+       Retrieved on 2007-09-06.
+    3. [42]^ [43]Parallel Processing, Part 2: RAM and HDD | Tom's Hardware
+    4. [44]^ [45]TechConnect Magazine - The Battle of the Channel - Dual
+       vs Single
+
+   Retrieved from
+   "[46]http://en.wikipedia.org/wiki/Dual-channel_architecture"
+   [47]Category: [48]Computer memory
+
+Views
+
+     * [49]Article
+     * [50]Discussion
+     * [51]Edit this page
+     * [52]History
+
+Personal tools
+
+     * [53]Log in / create account
+
+Navigation
+
+     * [54]Main page
+     * [55]Contents
+     * [56]Featured content
+     * [57]Current events
+     * [58]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [59]About Wikipedia
+     * [60]Community portal
+     * [61]Recent changes
+     * [62]Contact Wikipedia
+     * [63]Donate to Wikipedia
+     * [64]Help
+
+Toolbox
+
+     * [65]What links here
+     * [66]Related changes
+     * [67]Upload file
+     * [68]Special pages
+     * [69]Printable version
+     * [70]Permanent link
+     * [71]Cite this page
+
+Languages
+
+     * [72]Catal
+     * [73]Deutsch
+     * [74]Espaol
+     * [75]Franais
+     *
+     * [76]Italiano
+     *
+     * [77]Polski
+     *
+     *
+
+   [78]Powered by MediaWiki
+   [79]Wikimedia Foundation
+     * This page was last modified on 15 January 2009, at 23:34.
+     * All text is available under the terms of the [80]GNU Free
+       Documentation License. (See [81]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [82]Wikimedia
+       Foundation, Inc., a U.S. registered [83]501(c)(3)
+       [84]tax-deductible [85]nonprofit [86]charity.
+     * [87]Privacy policy
+     * [88]About Wikipedia
+     * [89]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dual-channel_architecture&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dual_channel&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#searchInput
+   9. file://localhost/wiki/Memory_controller
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#Operation
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#Purpose
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#Performance
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#See_also
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#References
+  15. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit&section=1
+  16. file://localhost/wiki/DDR_SDRAM
+  17. file://localhost/wiki/DDR2_SDRAM
+  18. file://localhost/wiki/DDR3_SDRAM
+  19. file://localhost/wiki/Motherboard
+  20. file://localhost/wiki/Megabyte
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_note-Prefix-0
+  22. file://localhost/wiki/Gigabyte
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_note-Kingston520DDR-1
+  24. file://localhost/wiki/DIMM
+  25. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit&section=2
+  26. file://localhost/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck
+  27. file://localhost/wiki/Intel
+  28. file://localhost/wiki/AMD
+  29. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit&section=3
+  30. file://localhost/wiki/Tom%27s_Hardware
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_note-2
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_note-3
+  33. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit&section=4
+  34. file://localhost/wiki/List_of_device_bandwidths
+  35. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit&section=5
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_ref-Prefix_0-0
+  37. file://localhost/wiki/Binary_prefix
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_ref-Kingston520DDR_1-0
+  39. http://www.kingston.com/newtech/MKF_520DDRwhitepaper.pdf
+  40. file://localhost/wiki/Kilobyte
+  41. http://www.kingston.com/newtech/MKF_520DDRwhitepaper.pdf
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_ref-2
+  43. http://www.tomshardware.com/reviews/PARALLEL-PROCESSING,1705-15.html
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc444.tmp.html#cite_ref-3
+  45. http://www.tcmagazine.com/articles.php?action=show&id=128&perpage=1&pagenum=11
+  46. http://en.wikipedia.org/wiki/Dual-channel_architecture
+  47. file://localhost/wiki/Special:Categories
+  48. file://localhost/wiki/Category:Computer_memory
+  49. file://localhost/wiki/Dual-channel_architecture
+  50. file://localhost/wiki/Talk:Dual-channel_architecture
+  51. file://localhost/w/index.php?title=Dual-channel_architecture&action=edit
+  52. file://localhost/w/index.php?title=Dual-channel_architecture&action=history
+  53. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dual-channel_architecture
+  54. file://localhost/wiki/Main_Page
+  55. file://localhost/wiki/Portal:Contents
+  56. file://localhost/wiki/Portal:Featured_content
+  57. file://localhost/wiki/Portal:Current_events
+  58. file://localhost/wiki/Special:Random
+  59. file://localhost/wiki/Wikipedia:About
+  60. file://localhost/wiki/Wikipedia:Community_portal
+  61. file://localhost/wiki/Special:RecentChanges
+  62. file://localhost/wiki/Wikipedia:Contact_us
+  63. http://wikimediafoundation.org/wiki/Donate
+  64. file://localhost/wiki/Help:Contents
+  65. file://localhost/wiki/Special:WhatLinksHere/Dual-channel_architecture
+  66. file://localhost/wiki/Special:RecentChangesLinked/Dual-channel_architecture
+  67. file://localhost/wiki/Wikipedia:Upload
+  68. file://localhost/wiki/Special:SpecialPages
+  69. file://localhost/w/index.php?title=Dual-channel_architecture&printable=yes
+  70. file://localhost/w/index.php?title=Dual-channel_architecture&oldid=264355218
+  71. file://localhost/w/index.php?title=Special:Cite&page=Dual-channel_architecture&id=264355218
+  72. http://ca.wikipedia.org/wiki/Dual_channel
+  73. http://de.wikipedia.org/wiki/Dual_Channel
+  74. http://es.wikipedia.org/wiki/Dual_Channel
+  75. http://fr.wikipedia.org/wiki/Canal_double
+  76. http://it.wikipedia.org/wiki/Dual_channel
+  77. http://pl.wikipedia.org/wiki/Dual_channel
+  78. http://www.mediawiki.org/
+  79. http://wikimediafoundation.org/
+  80. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  81. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  82. http://www.wikimediafoundation.org/
+  83. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  84. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  85. http://en.wikipedia.org/wiki/Non-profit_organization
+  86. http://en.wikipedia.org/wiki/Charitable_organization
+  87. http://wikimediafoundation.org/wiki/Privacy_policy
+  88. file://localhost/wiki/Wikipedia:About
+  89. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  90. file://localhost/wiki/File:Ram_bottleneck.gif
+  91. file://localhost/wiki/Main_Page
+  92. http://ko.wikipedia.org/wiki/%EB%93%80%EC%96%BC_%EC%B1%84%EB%84%90
+  93. http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB
+  94. http://ru.wikipedia.org/wiki/%D0%94%D0%B2%D1%83%D1%85%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B6%D0%B8%D0%BC
+  95. http://zh.wikipedia.org/wiki/%E9%9B%99%E9%80%9A%E9%81%93

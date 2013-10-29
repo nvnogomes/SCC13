@@ -1,0 +1,376 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Droxidopa
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   Droxidopa
+
+                                                Systematic ([8]IUPAC) name
+           (2R,3S)-2-amino-3-(3,4-dihydroxyphenyl)-3-hydroxypropanoic acid
+                                                               Identifiers
+                                              [9]CAS number [10]23651-95-8
+                                                           [11]ATC code  ?
+                                                      [12]PubChem [13]3171
+                                                             Chemical data
+                               [14]Formula [15]C[9][16]H[11][17]N[18]O[5]^
+                                             [19]Mol. mass 213.18734 g/mol
+                                                      Pharmacokinetic data
+                                                   [20]Bioavailability 90%
+                                                    [21]Metabolism hepatic
+                                                   [22]Half life 1.5 hours
+                                                       [23]Excretion renal
+                                                Therapeutic considerations
+                                                        [24]Pregnancy cat.
+
+                                                                         ?
+                                                          [25]Legal status
+
+                                      Rx-only (not yet approved in the US)
+                                                           [26]Routes Oral
+
+   Droxidopa (L-threo DOPS, L-DOPS) is a synthetic [27]amino acid
+   precursor of the [28]neurotransmitter and [29]hormone
+   [30]norepinephrine ([31]noradrenalin).
+
+Contents
+
+     * [32]1 History
+     * [33]2 Therapeutic Use
+     * [34]3 Potential Indications
+     * [35]4 Adverse Effects
+     * [36]5 Clinical Trials
+     * [37]6 References
+     * [38]7 External links
+
+[[39]edit] History
+
+   Droxidopa was developed by Sumitomo Pharmaceuticals for treatment of
+   neurogenic [40]orthostatic hypotension associated with various
+   disorders including [41]Multiple System Atrophy, [42]Familial Amyloid
+   Polyneuropathy, [43]hemodialysis induced hypotension and
+   [44]Parkinson's Disease . The drug has been approved in Japan in these
+   indications since 1989. Following a merger with Dainippon
+   Pharmaceuticals in 2006, Dainippon Sumitomo Pharma licensed the drug to
+   Chelsea Therapeutics to develop and market the drug worldwide except in
+   Japan, Korea, China and Taiwan.
+
+   Chelsea obtained Orphan Drug Status for droxidopa in the US for
+   symptomatic neurogenic orthostatic hypotension associated with
+   [45]Parkinsons Disease, [46]Pure Autonomic Failure and [47]Multiple
+   System Atrophy and is currently in phase III trials.
+
+[[48]edit] Therapeutic Use
+
+   Droxidopa is a [49]prodrug of [50]norepinephrine used to increase the
+   levels of norepinephrine in the body. It is metabolized by [51]aromatic
+   L-amino acid decarboxylase. Patients with neurogenic orthostatic
+   hypotension have depleted levels of norepinephrine which leads to
+   decreased blood pressure upon orthostatic challenge.^[52][1] Droxidopa
+   works by increasing the levels of peripheral norepinephrine thus
+   enabling the body to maintain blood pressure during standing.
+
+   Droxidopa can also cross the [53]blood-brain barrier where it is
+   converted to norepinephrine.^[54][2] Increased levels of norepinephrine
+   in the [55]central nervous system (CNS) may be beneficial to patients
+   in a wide range of indications. Droxidopa can be coupled with a
+   peripheral [56]DOPA decarboxylase inhibitor ([57]Carbidopa or
+   [58]benserazide) to increase CNS norepinephrine levels while
+   maintaining peripheral levels.
+
+[[59]edit] Potential Indications
+
+     * Neurogenic orthostatic hypotension
+     * [60]Intradialytic hypotension (IDH)
+     * Hypotension associated with [61]Fibromyalgia and [62]Chronic
+       Fatigue Syndrome^[63][3]
+
+[[64]edit] Adverse Effects
+
+   With close to 20 years on the market, droxidopa has proven to have very
+   few side effects of which most are mild. Patients have reported
+   increased blood pressure, [65]nausea and [66]headache.^[67][4]
+
+[[68]edit] Clinical Trials
+
+   Droxidopa is currently being studied in phase III trials in the US,
+   Canada, Australia and throughout Europe. Provided successful completion
+   of the trials, droxidopa could be approved for the symptomatic
+   neurogenic orthostatic hypotension indication in 2009.^[69][5]
+
+   A phase II trial in IDH is also underway.
+
+[[70]edit] References
+
+    1. [71]^ Robertson, David (2008). "The pathophysiology and diagnosis
+       of orthostatic hypotension". Clin Auton Res 18 (Supplement 1):
+       2-7.
+    2. [72]^ Goldstein, DS (2006). "L-Dihydroxyphenylserine (L-DOPS): a
+       norepinephrine prodrug". Cardiovasc Drug Rev 24 (3-4): 189-203.
+    3. [73]^ Crofford, LJ (2008). "Pain management in fibromyalgia". Curr
+       Opin Rheumatol 20 (3): 246-250.
+    4. [74]^ Mathias, Christopher J (2008). "L-dihydroxyphenylserine
+       (Droxidopa) in the treatment of orthostatic hypotension". Clin
+       Auton Res 18 (Supplement 1): 25-29.
+    5. [75]^ [76]Search of: "Droxidopa" - List Results -
+       ClinicalTrials.gov
+
+[[77]edit] External links
+
+     * [78]Chelsea Therapeutics
+     * [79]Vanderbilt Autonomic Dysfunction Center
+
+   [80]v  [81]d  [82]e
+   [83]Antiparkinson drugs: [84]dopaminergic agents ([85]N04B)
+   [86]Dopa and derivatives
+   [87]Levodopa  Droxidopa  [88]Melevodopa  [89]Etilevodopa
+   [90]Dopamine agonists
+   [91]A-412,997  [92]Aplindore  [93]Apomorphine  [94]Bromocriptine
+   [95]Cabergoline  [96]Dihydrexidine  [97]Dihydroergocryptine
+   [98]Fenoldopam  [99]Lisuride  [100]Pergolide  [101]Piribedil
+   [102]Pramipexole  [103]Propylnorapomorphine  [104]Quinpirole
+   [105]Ropinirole  [106]Rotigotine  [107]SKF 38393  [108]SKF 82958
+   [109]Enzyme inhibitors
+   [110]MAOIs ([111]B)
+   [112]Selegiline  [113]Rasagiline
+   [114]COMT inhibitors
+   [115]Entacapone  [116]Tolcapone
+   [117]Dopa decarboxylase inhibitor
+   [118]Carbidopa  [119]Benserazide
+   Multiple/unknown
+   [120]Amantadine  [121]Budipine
+   Combinations
+   [122]Carbidopa/levodopa
+   Retrieved from "[123]http://en.wikipedia.org/wiki/Droxidopa"
+   [124]Categories: [125]Amino acids | [126]Prodrugs
+
+Views
+
+     * [127]Article
+     * [128]Discussion
+     * [129]Edit this page
+     * [130]History
+
+Personal tools
+
+     * [131]Log in / create account
+
+Navigation
+
+     * [132]Main page
+     * [133]Contents
+     * [134]Featured content
+     * [135]Current events
+     * [136]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [137]About Wikipedia
+     * [138]Community portal
+     * [139]Recent changes
+     * [140]Contact Wikipedia
+     * [141]Donate to Wikipedia
+     * [142]Help
+
+Toolbox
+
+     * [143]What links here
+     * [144]Related changes
+     * [145]Upload file
+     * [146]Special pages
+     * [147]Printable version
+     * [148]Permanent link
+     * [149]Cite this page
+
+Languages
+
+     * [150]Deutsch
+
+   [151]Powered by MediaWiki
+   [152]Wikimedia Foundation
+     * This page was last modified on 9 February 2009, at 19:57.
+     * All text is available under the terms of the [153]GNU Free
+       Documentation License. (See [154]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [155]Wikimedia
+       Foundation, Inc., a U.S. registered [156]501(c)(3)
+       [157]tax-deductible [158]nonprofit [159]charity.
+     * [160]Privacy policy
+     * [161]About Wikipedia
+     * [162]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Droxidopa&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#searchInput
+   8. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+   9. file://localhost/wiki/CAS_registry_number
+  10. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?term=23651-95-8&rn=1
+  11. file://localhost/wiki/Anatomical_Therapeutic_Chemical_Classification_System
+  12. file://localhost/wiki/PubChem
+  13. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3171
+  14. file://localhost/wiki/Chemical_formula
+  15. file://localhost/wiki/Carbon
+  16. file://localhost/wiki/Hydrogen
+  17. file://localhost/wiki/Nitrogen
+  18. file://localhost/wiki/Oxygen
+  19. file://localhost/wiki/Molecular_mass
+  20. file://localhost/wiki/Bioavailability
+  21. file://localhost/wiki/Drug_metabolism
+  22. file://localhost/wiki/Biological_half-life
+  23. file://localhost/wiki/Excretion
+  24. file://localhost/wiki/Pregnancy_category
+  25. file://localhost/wiki/Regulation_of_therapeutic_goods
+  26. file://localhost/wiki/Route_of_administration
+  27. file://localhost/wiki/Amino_acid
+  28. file://localhost/wiki/Neurotransmitter
+  29. file://localhost/wiki/Hormone
+  30. file://localhost/wiki/Norepinephrine
+  31. file://localhost/wiki/Noradrenalin
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#History
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#Therapeutic_Use
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#Potential_Indications
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#Adverse_Effects
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#Clinical_Trials
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#References
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#External_links
+  39. file://localhost/w/index.php?title=Droxidopa&action=edit&section=1
+  40. file://localhost/wiki/Orthostatic_hypotension
+  41. file://localhost/wiki/Multiple_System_Atrophy
+  42. file://localhost/wiki/Familial_Amyloid_Polyneuropathy
+  43. file://localhost/wiki/Hemodialysis
+  44. file://localhost/wiki/Parkinson%27s_Disease
+  45. file://localhost/wiki/Parkinson%E2%80%99s_Disease
+  46. file://localhost/wiki/Pure_autonomic_failure
+  47. file://localhost/wiki/Multiple_System_Atrophy
+  48. file://localhost/w/index.php?title=Droxidopa&action=edit&section=2
+  49. file://localhost/wiki/Prodrug
+  50. file://localhost/wiki/Norepinephrine
+  51. file://localhost/wiki/Aromatic_L-amino_acid_decarboxylase
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_note-Robertson-0
+  53. file://localhost/wiki/Blood-brain_barrier
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_note-Goldstein-1
+  55. file://localhost/wiki/Central_nervous_system
+  56. file://localhost/wiki/DOPA_decarboxylase
+  57. file://localhost/wiki/Carbidopa
+  58. file://localhost/wiki/Benserazide
+  59. file://localhost/w/index.php?title=Droxidopa&action=edit&section=3
+  60. file://localhost/w/index.php?title=Intradialytic_hypotension&action=edit&redlink=1
+  61. file://localhost/wiki/Fibromyalgia
+  62. file://localhost/wiki/Chronic_Fatigue_Syndrome
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_note-Crofford-2
+  64. file://localhost/w/index.php?title=Droxidopa&action=edit&section=4
+  65. file://localhost/wiki/Nausea
+  66. file://localhost/wiki/Headache
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_note-Mathias-3
+  68. file://localhost/w/index.php?title=Droxidopa&action=edit&section=5
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_note-4
+  70. file://localhost/w/index.php?title=Droxidopa&action=edit&section=6
+  71. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_ref-Robertson_0-0
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_ref-Goldstein_1-0
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_ref-Crofford_2-0
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_ref-Mathias_3-0
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc420.tmp.html#cite_ref-4
+  76. http://clinicaltrials.gov/ct2/results?intr=%22Droxidopa%22
+  77. file://localhost/w/index.php?title=Droxidopa&action=edit&section=7
+  78. http://chelseatherapeutics.com/pipeline/droxidopa/droxidopa.html
+  79. http://www.mc.vanderbilt.edu/root/vumc.php?site=adc
+  80. file://localhost/wiki/Template:Dopaminergic_agents
+  81. file://localhost/w/index.php?title=Template_talk:Dopaminergic_agents&action=edit&redlink=1
+  82. http://en.wikipedia.org/w/index.php?title=Template:Dopaminergic_agents&action=edit
+  83. file://localhost/wiki/Antiparkinson_drug
+  84. file://localhost/wiki/Dopaminergic
+  85. file://localhost/wiki/ATC_code_N04#N04B_Dopaminergic_agents
+  86. file://localhost/wiki/L-DOPA
+  87. file://localhost/wiki/Levodopa
+  88. file://localhost/wiki/Melevodopa
+  89. file://localhost/wiki/Etilevodopa
+  90. file://localhost/wiki/Dopamine_agonist
+  91. file://localhost/wiki/A-412,997
+  92. file://localhost/wiki/Aplindore
+  93. file://localhost/wiki/Apomorphine
+  94. file://localhost/wiki/Bromocriptine
+  95. file://localhost/wiki/Cabergoline
+  96. file://localhost/wiki/Dihydrexidine
+  97. file://localhost/wiki/Dihydroergocryptine
+  98. file://localhost/wiki/Fenoldopam
+  99. file://localhost/wiki/Lisuride
+ 100. file://localhost/wiki/Pergolide
+ 101. file://localhost/wiki/Piribedil
+ 102. file://localhost/wiki/Pramipexole
+ 103. file://localhost/wiki/Propylnorapomorphine
+ 104. file://localhost/wiki/Quinpirole
+ 105. file://localhost/wiki/Ropinirole
+ 106. file://localhost/wiki/Rotigotine
+ 107. file://localhost/wiki/SKF_38393
+ 108. file://localhost/wiki/SKF_82958
+ 109. file://localhost/wiki/Enzyme_inhibitor
+ 110. file://localhost/wiki/Monoamine_oxidase_inhibitor
+ 111. file://localhost/wiki/Monoamine_oxidase_B
+ 112. file://localhost/wiki/Selegiline
+ 113. file://localhost/wiki/Rasagiline
+ 114. file://localhost/wiki/COMT_inhibitor
+ 115. file://localhost/wiki/Entacapone
+ 116. file://localhost/wiki/Tolcapone
+ 117. file://localhost/wiki/Dopa_decarboxylase_inhibitor
+ 118. file://localhost/wiki/Carbidopa
+ 119. file://localhost/wiki/Benserazide
+ 120. file://localhost/wiki/Amantadine
+ 121. file://localhost/wiki/Budipine
+ 122. file://localhost/wiki/Carbidopa/levodopa
+ 123. http://en.wikipedia.org/wiki/Droxidopa
+ 124. file://localhost/wiki/Special:Categories
+ 125. file://localhost/wiki/Category:Amino_acids
+ 126. file://localhost/wiki/Category:Prodrugs
+ 127. file://localhost/wiki/Droxidopa
+ 128. file://localhost/w/index.php?title=Talk:Droxidopa&action=edit&redlink=1
+ 129. file://localhost/w/index.php?title=Droxidopa&action=edit
+ 130. file://localhost/w/index.php?title=Droxidopa&action=history
+ 131. file://localhost/w/index.php?title=Special:UserLogin&returnto=Droxidopa
+ 132. file://localhost/wiki/Main_Page
+ 133. file://localhost/wiki/Portal:Contents
+ 134. file://localhost/wiki/Portal:Featured_content
+ 135. file://localhost/wiki/Portal:Current_events
+ 136. file://localhost/wiki/Special:Random
+ 137. file://localhost/wiki/Wikipedia:About
+ 138. file://localhost/wiki/Wikipedia:Community_portal
+ 139. file://localhost/wiki/Special:RecentChanges
+ 140. file://localhost/wiki/Wikipedia:Contact_us
+ 141. http://wikimediafoundation.org/wiki/Donate
+ 142. file://localhost/wiki/Help:Contents
+ 143. file://localhost/wiki/Special:WhatLinksHere/Droxidopa
+ 144. file://localhost/wiki/Special:RecentChangesLinked/Droxidopa
+ 145. file://localhost/wiki/Wikipedia:Upload
+ 146. file://localhost/wiki/Special:SpecialPages
+ 147. file://localhost/w/index.php?title=Droxidopa&printable=yes
+ 148. file://localhost/w/index.php?title=Droxidopa&oldid=269600971
+ 149. file://localhost/w/index.php?title=Special:Cite&page=Droxidopa&id=269600971
+ 150. http://de.wikipedia.org/wiki/Droxidopa
+ 151. http://www.mediawiki.org/
+ 152. http://wikimediafoundation.org/
+ 153. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 154. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 155. http://www.wikimediafoundation.org/
+ 156. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 157. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 158. http://en.wikipedia.org/wiki/Non-profit_organization
+ 159. http://en.wikipedia.org/wiki/Charitable_organization
+ 160. http://wikimediafoundation.org/wiki/Privacy_policy
+ 161. file://localhost/wiki/Wikipedia:About
+ 162. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 163. file://localhost/wiki/File:Droxidopa.PNG
+ 164. file://localhost/wiki/Main_Page

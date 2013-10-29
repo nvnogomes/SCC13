@@ -1,0 +1,643 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Lockheed EP-3
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]EP-3E Aries II)
+   Jump to: [7]navigation, [8]search
+   EP-3A/B Orion
+   EP-3E ARIES / ARIES II
+   U.S. Navy EP-3E of VQ-1
+   Role Signals Intelligence (SIGINT) reconnaissance [9]aircraft
+   National origin [10]United States
+   Manufacturer [11]Lockheed
+   Status Active
+   Primary users [12]United States Navy
+   [13]Japan Maritime Self-Defense Force
+   Developed from [14]P-3 Orion
+   EP-3E ARIES II from the Hainan Incident
+
+   The Lockheed EP-3 is the signals reconnaissance version of the [15]P-3
+   Orion, operated by the [16]United States Navy. There are 11 EP-3Es in
+   the Navy's inventory, the last of which was delivered in 1997. A total
+   of 12 P-3C aircraft were converted to replace older versions of the
+   aircraft, which had been converted in the late 1960s and early 1970s.
+   The aircraft are known by the acronym ARIES, or "Airborne
+   Reconnaissance Integrated Electronic System".^[17][1]
+
+   From 1960 to 1991, the squadrons that flew the EP-3E also flew the
+   Douglas [18]EA-3B Skywarrior.
+
+Contents
+
+     * [19]1 Notable incidents
+     * [20]2 Variants
+     * [21]3 Operators
+     * [22]4 Specifications (P-3C Orion)
+     * [23]5 See also
+     * [24]6 References
+     * [25]7 External links
+
+[[26]edit] Notable incidents
+
+          Main article: [27]Hainan Island incident
+
+   In April 2001 an aerial collision between a [28]United States Navy
+   EP-3E ARIES II, a [29]signals reconnaissance version of the P-3C, and a
+   [30]People's Liberation Army Navy [31]J-8IIM fighter resulted in an
+   [32]international incident between the United States and [33]China. The
+   J-8IIM crashed and its pilot was killed. The EP-3 came close to
+   becoming uncontrollable, at one point sustaining a near inverted roll,
+   but was able to make an [34]emergency landing on [35]Hainan. The crew
+   and plane were subsequently detained by Chinese authorities, accused of
+   "killing the Chinese pilot". After several days, the crew was
+   repatriated separately to the United States while the aircraft remained
+   in China, reported taken apart for research on American technology.
+   Although the crew attempted to destroy as much classified material,
+   hardware and software on the aircraft prior to the emergency landing,
+   there is little doubt that the EP-3 was exploited by Chinese
+   intelligence services. An American team was later permitted to enter
+   Hainan in order to dismantle the aircraft, which was subsequently
+   airlifted back to United States for reassembly and repair.
+
+[[36]edit] Variants
+
+   U.S. Navy Lockheed EP-3A Orion of air test and evaluation squadron VX-1
+   Pioneers in 1983. This aircraft was used in the "EMPASS" project, the
+   "Electromagnetic Performance of Air and Ship Systems" (EMPASS) Project.
+     * EP-3A: Seven modified for electronic reconnaissance testing.
+     * EP-3B: Two P-3As converted into [37]ELINT aircraft during the
+       Vietnam War.
+     * EP-3: ELINT aircraft for the [38]Japanese Maritime Self-Defence
+       Force.
+     * EP-3E ARIES: 10 P-3As and 2 EP-3Bs converted into ELINT aircraft.
+     * EP-3E ARIES II: 12 P-3Cs converted into ELINT aircraft.
+     * EP-3J: Two modified from P-3As for [39]FEWSG use as a simulated
+       adversary EW platform in exercises; later transferred to the former
+       Tactical Electronic Warfare Squadron 33 (VAQ-33), then transferred
+       to the former Fleet Air Reconnaissance Squadron 11 (VQ-11).
+
+[[40]edit] Operators
+
+    [41]Japan
+
+     * [42]Japan Maritime Self-Defense Force - 5 EP-3
+
+    [43]United States
+
+     * [44]United States Navy
+          + Only 2 squadrons in the entire Navy fly the EP-3: VQ-1 and
+            VQ-2. Both are currently home ported in Whidbey Island, WA.
+            Until recently, VQ-2 was located in [45]Rota, Spain.
+
+[[46]edit] Specifications (P-3C Orion)
+
+   Lockheed EP-3E ARIES II in 2006
+
+   General characteristics
+     * Crew: 22+
+     * Length: 116 ft 7 in (35.57 m)
+     * [47]Wingspan: 99 ft 6 in (30.36 m)
+     * Height: 33 ft 7 in (10.27 m)
+     * Wing area: 1300 ft (120.8 m)
+     * [48]Airfoil: NACA 0014-1.10 (Root) - NACA 0012-1.10 (Tip)
+     * Empty weight: 77,200 lb (35,000 kg)
+     * Loaded weight: 135,000 lb (61,400 kg)
+     * Useful load: 57,800 lb (26,400 kg)
+     * [49]Max takeoff weight: 142,000 lb (64,400 kg)
+     * Powerplant: 4 [50]Allison T56-A-14 [51]turboprop, 4,600 shp (3,450
+       kW) each
+     * Propellers: Four-bladed [52]Hamilton Standard propeller, 1 per
+       engine
+          + Propeller diameter: 13 ft 6 in (4.11 m)
+
+   Performance
+     * [53]Maximum speed: 311 knots (km/h)
+     * [54]Cruise speed: 228 knots (km/h)
+     * [55]Range: 2,380 nm (2,739 mi / 4,400 km)
+     * [56]Service ceiling: 28,300 feet (8,600 m)
+
+[[57]edit] See also
+
+   Related development
+     * [58]Lockheed L-188 Electra
+     * [59]P-3 Orion
+     * [60]WP-3D Orion
+     * [61]CP-140 Aurora
+     * [62]Lockheed P-7
+
+   Comparable aircraft
+     * [63]P-8 Poseidon
+     * [64]Avro Shackleton
+     * [65]Breguet Atlantique
+     * [66]Hawker-Siddeley Nimrod
+     * [67]Ilyushin Il-38
+
+   Related lists
+     * [68]List of military aircraft of the United States
+     * [69]List of active United States military aircraft
+     * [70]List of Lockheed aircraft
+
+[[71]edit] References
+
+    1. [72]^ [73]"EP-3E (ARIES II) signals intelligence reconnaissance
+       aircraft". United States Navy Fact File.
+       [74]http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1000
+       &ct=1. Retrieved on 15 Feb.
+
+     * Winchester, Jim, ed. Military Aircraft of the Cold War (The
+       Aviation Factfile). London: Grange Books plc, 2006. [75]ISBN
+       1-84013-929-3.
+
+[[76]edit] External links
+
+   [77]Sister project [78]Wikimedia Commons has media related to: [79]EP-3
+   Orion
+     * [80]P-3C fact file and [81]P-3 history page on U.S. Navy site
+     * [82]"P-3 Orion Research Group". Archived from [83]the original on
+       2007-06-30.
+       [84]http://web.archive.org/web/20070630002940/http://home.planet.nl
+       /~p3orion/.
+     * [85]NASA Wallops Flight Facility Aircraft Office operators of the
+       NASA P-3
+     * [86]EP-3E on CombatAircraft.com
+
+   [87]v  [88]d  [89]e
+   Aircraft produced by [90]Lockheed
+   Manufacturer
+   designations
+
+   Basic Model Numbers: [91]L-1  [92]L-2  [93]L-3  [94]L-4  [95]L-5
+   [96]L-7  [97]L-8  [98]L-9  [99]L-10  [100]L-11  [101]L-012  (L-013 not
+   assigned)  [102]L-014  [103]L-015  [104]L-016  [105]L-017  [106]L-018
+   [107]L-019  [108]L-020  [109]L-021  [110]L-022  [111]L-023  [112]L-024
+   (L-025 not assigned)  [113]L-026  [114]L-027  (L-028 not assigned)
+   [115]L-029  [116]L-030  [117]L-031  [118]L-032  [119]L-033  [120]L-034
+   [121]L-035  (L-036 not assigned)  [122]L-037  (L-038 and L-039 not
+   assigned)  [123]L-040  [124]L-041  [125]L-042  [126]L-044  [127]L-045
+   [128]L-049  [129]L-050  [130]L-051  [131]L-052  [132]L-060  [133]L-061
+   [134]L-062  [135]L-075  [136]L-080  [137]L-081  [138]L-082  [139]L-083
+   [140]L-084  [141]L-085  [142]L-086  [143]L-087  [144]L-088  [145]L-089
+   [146]L-090  [147]L-091  [148]L-092  [149]L-093  [150]L-094  [151]L-092
+   [152]L-099  [153]L-100  [154]L-193  [155]L-245  [156]L-246  [157]L-300
+   [158]L-329  [159]L-351  [160]L-500  [161]L-645
+
+   California Lockheed Temporary Design Numbers (TDN): [162]CL-282
+   [163]CL-288  [164]CL-295  [165]CL-320  [166]CL-325  [167]CL-329
+   [168]CL-346  [169]CL-379  [170]CL-400  [171]CL-407  [172]CL-475
+   [173]CL-595  [174]CL-704  [175]CL-760  [176]CL-823  [177]CL-901
+   [178]CL-915  [179]CL-934  [180]CL-981  [181]CL-984  [182]CL-985
+   [183]CL-1026  [184]CL-1195  [185]CL-1200  [186]CL-1400  [187]CL-1600
+   [188]CL-1700  [189]CL-1800  [190]CL-1980
+   By role
+
+   Airliners and civil transports: [191]Vega  [192]Electra  [193]Electra
+   Junior  [194]Super Electra  [195]Lodestar  [196]Constellation
+   [197]Saturn  [198]Electra  [199]L-402  [200]JetStar  [201]L-1011
+
+   Military transports: [202]C-64  [203]C-121  [204]R6V
+   [205]C-130/[206]C-130J  [207]C-141  [208]C-5  [209]TriStar
+
+   Experimental/prototypes: [210]D-21  [211]NF-104A
+   [212]QT-2/QT-2PC/X-26B  [213]XC-35  [214]XFV  [215]XF-90  [216]XF-104
+   [217]XH-51  [218]XP-49  [219]XP-58  [220]XV-4  [221]YP-24
+
+   Fighters: [222]P-38  [223]P/F-80  [224]F-94  [225]F-104  [226]F-16
+   [227]F-117  [228]F-22  [229]F-35
+
+   Helicopters: [230]XH-51  [231]AH-56
+
+   Patrol: [232]Hudson  [233]PV  [234]P-2  [235]P-3  [236]S-3  [237]CP-140
+
+   Reconnaissance: [238]U-2  [239]A-12  [240]SR-71
+
+   Trainers: [241]T-33  [242]T2V/T-1
+   [243]v  [244]d  [245]e
+   United States tri-service patrol [246]aircraft designations post-1962
+
+   P-1 (Unassigned) [247]P-2  [248]P-3  [249]P-4  [250]P-5  (P-6
+   unassigned)  [251]P-7  [252]P-8
+   [253]v  [254]d  [255]e
+   Lists relating to [256]aviation
+   General
+   [257]Timeline of aviation  [258]Aircraft ([259]manufacturers)
+   [260]Aircraft engines ([261]manufacturers)  [262]Airports
+   [263]Airlines  [264]Civil authorities  [265]Museums
+   Military
+   [266]Air forces  [267]Aircraft weapons  [268]Missiles  [269]Unmanned
+   aerial vehicles (UAVs)  [270]Experimental aircraft
+   Accidents/incidents
+   [271]General  [272]Military  [273]Commercial (airliners)  [274]Deaths
+   Records
+   [275]Airspeed  [276]Distance  [277]Altitude  [278]Endurance
+   [279]Most-produced aircraft
+   This [280]aircraft-related article is a [281]stub. You can [282]help
+   Wikipedia by [283]expanding it.
+   Retrieved from "[284]http://en.wikipedia.org/wiki/Lockheed_EP-3"
+   [285]Categories: [286]Active United States military aircraft |
+   [287]Signals intelligence | [288]United States military reconnaissance
+   aircraft 1960-1969 | [289]Aircraft stubs
+
+Views
+
+     * [290]Article
+     * [291]Discussion
+     * [292]Edit this page
+     * [293]History
+
+Personal tools
+
+     * [294]Log in / create account
+
+Navigation
+
+     * [295]Main page
+     * [296]Contents
+     * [297]Featured content
+     * [298]Current events
+     * [299]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [300]About Wikipedia
+     * [301]Community portal
+     * [302]Recent changes
+     * [303]Contact Wikipedia
+     * [304]Donate to Wikipedia
+     * [305]Help
+
+Toolbox
+
+     * [306]What links here
+     * [307]Related changes
+     * [308]Upload file
+     * [309]Special pages
+     * [310]Printable version
+     * [311]Permanent link
+     * [312]Cite this page
+
+Languages
+
+     *
+     *
+
+   [313]Powered by MediaWiki
+   [314]Wikimedia Foundation
+     * This page was last modified on 15 February 2009, at 05:49.
+     * All text is available under the terms of the [315]GNU Free
+       Documentation License. (See [316]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [317]Wikimedia
+       Foundation, Inc., a U.S. registered [318]501(c)(3)
+       [319]tax-deductible [320]nonprofit [321]charity.
+     * [322]Privacy policy
+     * [323]About Wikipedia
+     * [324]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Lockheed_EP-3&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=EP-3E_Aries_II&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#searchInput
+   9. file://localhost/wiki/Aircraft
+  10. file://localhost/wiki/United_States
+  11. file://localhost/wiki/Lockheed
+  12. file://localhost/wiki/United_States_Navy
+  13. file://localhost/wiki/Japan_Maritime_Self-Defense_Force
+  14. file://localhost/wiki/P-3_Orion
+  15. file://localhost/wiki/P-3_Orion
+  16. file://localhost/wiki/United_States_Navy
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#cite_note-usn-0
+  18. file://localhost/wiki/A-3_Skywarrior
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#Notable_incidents
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#Variants
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#Operators
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#Specifications_.28P-3C_Orion.29
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#See_also
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#References
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#External_links
+  26. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=1
+  27. file://localhost/wiki/Hainan_Island_incident
+  28. file://localhost/wiki/United_States_Navy
+  29. file://localhost/wiki/ELINT
+  30. file://localhost/wiki/People%27s_Liberation_Army_Navy
+  31. file://localhost/wiki/Shenyang_J-8
+  32. file://localhost/wiki/International_incident
+  33. file://localhost/wiki/People%27s_Republic_of_China
+  34. file://localhost/wiki/Emergency_landing
+  35. file://localhost/wiki/Hainan
+  36. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=2
+  37. file://localhost/wiki/ELINT
+  38. file://localhost/wiki/Japan_Maritime_Self-Defense_Force
+  39. file://localhost/wiki/FEWSG
+  40. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=3
+  41. file://localhost/wiki/Japan
+  42. file://localhost/wiki/Japan_Maritime_Self-Defense_Force
+  43. file://localhost/wiki/United_States
+  44. file://localhost/wiki/United_States_Navy
+  45. file://localhost/wiki/Rota,_Spain
+  46. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=4
+  47. file://localhost/wiki/Wingspan
+  48. file://localhost/wiki/Airfoil
+  49. file://localhost/wiki/Maximum_Takeoff_Weight
+  50. file://localhost/wiki/Allison_T56
+  51. file://localhost/wiki/Turboprop
+  52. file://localhost/wiki/Hamilton_Standard
+  53. file://localhost/wiki/V_speeds#Vno
+  54. file://localhost/wiki/V_speeds#Vc
+  55. file://localhost/wiki/Range_(aircraft)
+  56. file://localhost/wiki/Ceiling_(aeronautics)
+  57. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=5
+  58. file://localhost/wiki/Lockheed_L-188_Electra
+  59. file://localhost/wiki/P-3_Orion
+  60. file://localhost/wiki/WP-3D_Orion
+  61. file://localhost/wiki/CP-140_Aurora
+  62. file://localhost/wiki/Lockheed_P-7
+  63. file://localhost/wiki/P-8_Poseidon
+  64. file://localhost/wiki/Avro_Shackleton
+  65. file://localhost/wiki/Breguet_Atlantique
+  66. file://localhost/wiki/Hawker-Siddeley_Nimrod
+  67. file://localhost/wiki/Ilyushin_Il-38
+  68. file://localhost/wiki/List_of_military_aircraft_of_the_United_States
+  69. file://localhost/wiki/List_of_active_United_States_military_aircraft
+  70. file://localhost/wiki/List_of_Lockheed_aircraft
+  71. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=6
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc658.tmp.html#cite_ref-usn_0-0
+  73. http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1000&ct=1
+  74. http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1000&ct=1
+  75. file://localhost/wiki/Special:BookSources/1840139293
+  76. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit&section=7
+  77. http://commons.wikimedia.org/wiki/Special:Search/Lockheed_EP-3
+  78. file://localhost/wiki/Wikimedia_Commons
+  79. http://commons.wikimedia.org/wiki/Category:EP-3_Orion
+  80. http://www.navy.mil/navydata/fact_display.asp?cid=1100&tid=1400&ct=1
+  81. http://www.history.navy.mil/planes/p3.htm
+  82. http://web.archive.org/web/20070630002940/http://home.planet.nl/~p3orion/
+  83. http://www.p3orion.nl/
+  84. http://web.archive.org/web/20070630002940/http://home.planet.nl/~p3orion/
+  85. http://wacop.wff.nasa.gov/
+  86. http://combataircraft.com/aircraft/sep3e.aspx
+  87. file://localhost/wiki/Template:Lockheed
+  88. file://localhost/wiki/Template_talk:Lockheed
+  89. http://en.wikipedia.org/w/index.php?title=Template:Lockheed&action=edit
+  90. file://localhost/wiki/Lockheed
+  91. file://localhost/wiki/Lockheed_Vega
+  92. file://localhost/wiki/Lockheed_Vega
+  93. file://localhost/wiki/Lockheed_Air_Express
+  94. file://localhost/wiki/Lockheed_Explorer
+  95. file://localhost/wiki/Lockheed_Vega
+  96. file://localhost/wiki/Lockheed_Explorer
+  97. file://localhost/wiki/Lockheed_Sirius
+  98. file://localhost/wiki/Lockheed_L-9_Orion
+  99. file://localhost/wiki/Lockheed_L-10_Electra
+ 100. file://localhost/w/index.php?title=Lockheed_XPB-3&action=edit&redlink=1
+ 101. file://localhost/wiki/Lockheed_L-12_Electra_Junior
+ 102. file://localhost/wiki/Lockheed_L-14_Super_Electra
+ 103. file://localhost/wiki/Lockheed_Ventura
+ 104. file://localhost/wiki/Lockheed_L-10_Electra
+ 105. file://localhost/wiki/B-17_Flying_Fortress
+ 106. file://localhost/wiki/Lockheed_L-18_Lodestar
+ 107. file://localhost/wiki/Lockheed_L-18_Lodestar
+ 108. file://localhost/wiki/XP-58_Chain_Lightning
+ 109. file://localhost/wiki/Lockheed_Ventura
+ 110. file://localhost/wiki/P-38_Lightning
+ 111. file://localhost/wiki/Lockheed_XP-49
+ 112. file://localhost/wiki/P-38_Lightning
+ 113. file://localhost/wiki/P-2_Neptune
+ 114. file://localhost/w/index.php?title=Lockheed_L-027&action=edit&redlink=1
+ 115. file://localhost/w/index.php?title=Lockheed_L-029&action=edit&redlink=1
+ 116. file://localhost/w/index.php?title=Lockheed_L-030&action=edit&redlink=1
+ 117. file://localhost/w/index.php?title=Lockheed_L-029&action=edit&redlink=1
+ 118. file://localhost/wiki/Lockheed_L-18_Lodestar
+ 119. file://localhost/w/index.php?title=Lockheed_Little_Dipper&action=edit&redlink=1
+ 120. file://localhost/w/index.php?title=Lockheed_Big_Dipper&action=edit&redlink=1
+ 121. file://localhost/w/index.php?title=North_American_NA-35&action=edit&redlink=1
+ 122. file://localhost/wiki/Lockheed_Ventura
+ 123. file://localhost/w/index.php?title=Lockheed_L-040&action=edit&redlink=1
+ 124. file://localhost/w/index.php?title=Lockheed_L-041&action=edit&redlink=1
+ 125. file://localhost/w/index.php?title=Lockheed_L-042&action=edit&redlink=1
+ 126. file://localhost/w/index.php?title=Lockheed_Excalibur&action=edit&redlink=1
+ 127. file://localhost/w/index.php?title=Lockheed_L-045&action=edit&redlink=1
+ 128. file://localhost/wiki/Lockheed_Constellation
+ 129. file://localhost/w/index.php?title=Lockheed_L-050&action=edit&redlink=1
+ 130. file://localhost/wiki/Lockheed_XB-30
+ 131. file://localhost/w/index.php?title=Lockheed_L-052&action=edit&redlink=1
+ 132. file://localhost/w/index.php?title=Lockheed_L-060&action=edit&redlink=1
+ 133. file://localhost/w/index.php?title=Lockheed_L-061&action=edit&redlink=1
+ 134. file://localhost/w/index.php?title=Lockheed_L-062&action=edit&redlink=1
+ 135. file://localhost/wiki/Lockheed_Saturn
+ 136. file://localhost/wiki/P-80_Shooting_Star
+ 137. file://localhost/wiki/Lockheed_XFV
+ 138. file://localhost/wiki/C-130_Hercules
+ 139. file://localhost/wiki/F-104_Starfighter
+ 140. file://localhost/wiki/Lockheed_Constellation
+ 141. file://localhost/wiki/P-3_Orion
+ 142. file://localhost/wiki/Lockheed_XH-51
+ 143. file://localhost/wiki/AH-56_Cheyenne
+ 144. file://localhost/wiki/Lockheed_L-188_Electra
+ 145. file://localhost/wiki/R6V_Constitution
+ 146. file://localhost/wiki/Lockheed_XF-90
+ 147. file://localhost/wiki/Lockheed_L-2000
+ 148. file://localhost/w/index.php?title=Lockheed_L-092&action=edit&redlink=1
+ 149. file://localhost/wiki/Lockheed_L-1011
+ 150. file://localhost/wiki/S-3_Viking
+ 151. file://localhost/w/index.php?title=Lockheed_L-092&action=edit&redlink=1
+ 152. file://localhost/w/index.php?title=Lockheed_L-099&action=edit&redlink=1
+ 153. file://localhost/wiki/C-130_Hercules
+ 154. file://localhost/w/index.php?title=Lockheed_L-193&action=edit&redlink=1
+ 155. file://localhost/wiki/T2V_Seastar
+ 156. file://localhost/wiki/Lockheed_XF-104
+ 157. file://localhost/wiki/C-141_Starlifter
+ 158. file://localhost/wiki/Lockheed_JetStar
+ 159. file://localhost/wiki/Lockheed_U-2
+ 160. file://localhost/wiki/C-5_Galaxy
+ 161. file://localhost/wiki/F-22_Raptor
+ 162. file://localhost/wiki/Lockheed_F-104_Starfighter
+ 163. file://localhost/w/index.php?title=Lockheed_CL-288&action=edit&redlink=1
+ 164. file://localhost/w/index.php?title=Lockheed_CL-295&action=edit&redlink=1
+ 165. file://localhost/w/index.php?title=Lockheed_CL-320&action=edit&redlink=1
+ 166. file://localhost/w/index.php?title=Lockheed_CL-325&action=edit&redlink=1
+ 167. file://localhost/wiki/Lockheed_JetStar
+ 168. file://localhost/w/index.php?title=Lockheed_CL-346&action=edit&redlink=1
+ 169. file://localhost/w/index.php?title=Lockheed_CL-379&action=edit&redlink=1
+ 170. file://localhost/wiki/Lockheed_CL-400_Suntan
+ 171. file://localhost/w/index.php?title=Lockheed_CL-407&action=edit&redlink=1
+ 172. file://localhost/w/index.php?title=Lockheed_CL-475&action=edit&redlink=1
+ 173. file://localhost/wiki/Lockheed_XH-51
+ 174. file://localhost/wiki/F-104_Starfighter
+ 175. file://localhost/w/index.php?title=Lockheed_CL-760&action=edit&redlink=1
+ 176. file://localhost/wiki/Lockheed_L-2000
+ 177. file://localhost/wiki/F-104_Starfighter
+ 178. file://localhost/wiki/Lockheed_A-12
+ 179. file://localhost/wiki/F-104_Starfighter
+ 180. file://localhost/wiki/Lockheed_CL-1200
+ 181. file://localhost/wiki/F-104_Starfighter
+ 182. file://localhost/wiki/F-104_Starfighter
+ 183. file://localhost/w/index.php?title=Lockheed_CL-1026&action=edit&redlink=1
+ 184. file://localhost/w/index.php?title=Lockheed_CL-1195&action=edit&redlink=1
+ 185. file://localhost/wiki/Lockheed_CL-1200
+ 186. file://localhost/wiki/Lockheed_CL-1200
+ 187. file://localhost/wiki/Lockheed_CL-1200
+ 188. file://localhost/w/index.php?title=Lockheed_CL-1700&action=edit&redlink=1
+ 189. file://localhost/w/index.php?title=Lockheed_CL-1800&action=edit&redlink=1
+ 190. file://localhost/wiki/Lockheed_YF-12
+ 191. file://localhost/wiki/Lockheed_Vega
+ 192. file://localhost/wiki/Lockheed_Model_10_Electra
+ 193. file://localhost/wiki/Lockheed_Model_12_Electra_Junior
+ 194. file://localhost/wiki/Lockheed_Model_14_Super_Electra
+ 195. file://localhost/wiki/Lockheed_Lodestar
+ 196. file://localhost/wiki/Lockheed_Constellation
+ 197. file://localhost/wiki/Lockheed_Saturn
+ 198. file://localhost/wiki/Lockheed_L-188_Electra
+ 199. file://localhost/wiki/Aermacchi_AL-60
+ 200. file://localhost/wiki/Lockheed_JetStar
+ 201. file://localhost/wiki/Lockheed_L-1011
+ 202. file://localhost/wiki/Lockheed_Constellation
+ 203. file://localhost/wiki/Lockheed_Constellation
+ 204. file://localhost/wiki/Lockheed_R6V
+ 205. file://localhost/wiki/C-130_Hercules
+ 206. file://localhost/wiki/C-130J_Super_Hercules
+ 207. file://localhost/wiki/C-141_Starlifter
+ 208. file://localhost/wiki/C-5_Galaxy
+ 209. file://localhost/wiki/Lockheed_TriStar_(RAF)
+ 210. file://localhost/wiki/Lockheed_D-21/M-21
+ 211. file://localhost/wiki/Lockheed_NF-104A
+ 212. file://localhost/w/index.php?title=Lockheed_Missiles_%26_Space_Co._QT-2/QT-2PC/X-26B&action=edit&redlink=1
+ 213. file://localhost/wiki/Lockheed_XC-35
+ 214. file://localhost/wiki/Lockheed_XFV
+ 215. file://localhost/wiki/Lockheed_XF-90
+ 216. file://localhost/wiki/Lockheed_XF-104
+ 217. file://localhost/wiki/Lockheed_XH-51
+ 218. file://localhost/wiki/Lockheed_XP-49
+ 219. file://localhost/wiki/XP-58_Chain_Lightning
+ 220. file://localhost/wiki/XV-4_Hummingbird
+ 221. file://localhost/wiki/Lockheed_YP-24
+ 222. file://localhost/wiki/P-38_Lightning
+ 223. file://localhost/wiki/P-80_Shooting_Star
+ 224. file://localhost/wiki/F-94_Starfire
+ 225. file://localhost/wiki/F-104_Starfighter
+ 226. file://localhost/wiki/F-16_Fighting_Falcon
+ 227. file://localhost/wiki/F-117_Nighthawk
+ 228. file://localhost/wiki/F-22_Raptor
+ 229. file://localhost/wiki/F-35_Lightning_II
+ 230. file://localhost/wiki/Lockheed_XH-51
+ 231. file://localhost/wiki/AH-56_Cheyenne
+ 232. file://localhost/wiki/Lockheed_Hudson
+ 233. file://localhost/wiki/Lockheed_Ventura
+ 234. file://localhost/wiki/P-2_Neptune
+ 235. file://localhost/wiki/P-3_Orion
+ 236. file://localhost/wiki/S-3_Viking
+ 237. file://localhost/wiki/CP-140_Aurora
+ 238. file://localhost/wiki/Lockheed_U-2
+ 239. file://localhost/wiki/Lockheed_A-12
+ 240. file://localhost/wiki/SR-71_Blackbird
+ 241. file://localhost/wiki/T-33_Shooting_Star
+ 242. file://localhost/wiki/T2V_SeaStar
+ 243. file://localhost/wiki/Template:US_patrol_aircraft
+ 244. file://localhost/wiki/Template_talk:US_patrol_aircraft
+ 245. http://en.wikipedia.org/w/index.php?title=Template:US_patrol_aircraft&action=edit
+ 246. file://localhost/wiki/1962_United_States_Tri-Service_aircraft_designation_system
+ 247. file://localhost/wiki/P-2_Neptune
+ 248. file://localhost/wiki/P-3_Orion
+ 249. file://localhost/wiki/PB4Y-2_Privateer
+ 250. file://localhost/wiki/P5M_Marlin
+ 251. file://localhost/wiki/Lockheed_P-7
+ 252. file://localhost/wiki/P-8_Poseidon
+ 253. file://localhost/wiki/Template:Aviation_lists
+ 254. file://localhost/wiki/Template_talk:Aviation_lists
+ 255. http://en.wikipedia.org/w/index.php?title=Template:Aviation_lists&action=edit
+ 256. file://localhost/wiki/Aviation
+ 257. file://localhost/wiki/Timeline_of_aviation
+ 258. file://localhost/wiki/List_of_aircraft
+ 259. file://localhost/wiki/List_of_aircraft_manufacturers
+ 260. file://localhost/wiki/List_of_aircraft_engines
+ 261. file://localhost/wiki/List_of_aircraft_engine_manufacturers_(alphabetical)
+ 262. file://localhost/wiki/List_of_airports
+ 263. file://localhost/wiki/Airline_codes
+ 264. file://localhost/wiki/List_of_civil_aviation_authorities
+ 265. file://localhost/wiki/List_of_aerospace_museums
+ 266. file://localhost/wiki/List_of_air_forces
+ 267. file://localhost/wiki/List_of_aircraft_weapons
+ 268. file://localhost/wiki/List_of_missiles
+ 269. file://localhost/wiki/List_of_unmanned_aerial_vehicles
+ 270. file://localhost/wiki/List_of_experimental_aircraft
+ 271. file://localhost/wiki/List_of_accidents_and_incidents_involving_general_aviation
+ 272. file://localhost/wiki/List_of_accidents_and_incidents_involving_military_aircraft
+ 273. file://localhost/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft
+ 274. file://localhost/wiki/List_of_people_who_died_in_aviation_accidents_and_incidents
+ 275. file://localhost/wiki/Flight_airspeed_record
+ 276. file://localhost/wiki/Flight_distance_record
+ 277. file://localhost/wiki/Flight_altitude_record
+ 278. file://localhost/wiki/Flight_endurance_record
+ 279. file://localhost/wiki/List_of_most_produced_aircraft
+ 280. file://localhost/wiki/Aircraft
+ 281. file://localhost/wiki/Wikipedia:Stub#Ideal_stub_article
+ 282. file://localhost/wiki/Wikipedia:Stub
+ 283. http://en.wikipedia.org/w/index.php?title=Lockheed_EP-3&action=edit
+ 284. http://en.wikipedia.org/wiki/Lockheed_EP-3
+ 285. file://localhost/wiki/Special:Categories
+ 286. file://localhost/wiki/Category:Active_United_States_military_aircraft
+ 287. file://localhost/wiki/Category:Signals_intelligence
+ 288. file://localhost/wiki/Category:United_States_military_reconnaissance_aircraft_1960-1969
+ 289. file://localhost/wiki/Category:Aircraft_stubs
+ 290. file://localhost/wiki/Lockheed_EP-3
+ 291. file://localhost/wiki/Talk:Lockheed_EP-3
+ 292. file://localhost/w/index.php?title=Lockheed_EP-3&action=edit
+ 293. file://localhost/w/index.php?title=Lockheed_EP-3&action=history
+ 294. file://localhost/w/index.php?title=Special:UserLogin&returnto=Lockheed_EP-3
+ 295. file://localhost/wiki/Main_Page
+ 296. file://localhost/wiki/Portal:Contents
+ 297. file://localhost/wiki/Portal:Featured_content
+ 298. file://localhost/wiki/Portal:Current_events
+ 299. file://localhost/wiki/Special:Random
+ 300. file://localhost/wiki/Wikipedia:About
+ 301. file://localhost/wiki/Wikipedia:Community_portal
+ 302. file://localhost/wiki/Special:RecentChanges
+ 303. file://localhost/wiki/Wikipedia:Contact_us
+ 304. http://wikimediafoundation.org/wiki/Donate
+ 305. file://localhost/wiki/Help:Contents
+ 306. file://localhost/wiki/Special:WhatLinksHere/Lockheed_EP-3
+ 307. file://localhost/wiki/Special:RecentChangesLinked/Lockheed_EP-3
+ 308. file://localhost/wiki/Wikipedia:Upload
+ 309. file://localhost/wiki/Special:SpecialPages
+ 310. file://localhost/w/index.php?title=Lockheed_EP-3&printable=yes
+ 311. file://localhost/w/index.php?title=Lockheed_EP-3&oldid=270827361
+ 312. file://localhost/w/index.php?title=Special:Cite&page=Lockheed_EP-3&id=270827361
+ 313. http://www.mediawiki.org/
+ 314. http://wikimediafoundation.org/
+ 315. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 316. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 317. http://www.wikimediafoundation.org/
+ 318. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 319. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 320. http://en.wikipedia.org/wiki/Non-profit_organization
+ 321. http://en.wikipedia.org/wiki/Charitable_organization
+ 322. http://wikimediafoundation.org/wiki/Privacy_policy
+ 323. file://localhost/wiki/Wikipedia:About
+ 324. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 325. file://localhost/wiki/File:EP-3E_VQ-1_2001.jpg
+ 326. file://localhost/wiki/File:EP-3_Hainan_2001.jpg
+ 327. file://localhost/wiki/File:EP-3_Hainan_2001.jpg
+ 328. file://localhost/wiki/File:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg
+ 329. file://localhost/wiki/File:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg
+ 330. file://localhost/wiki/File:Flag_of_Japan.svg
+ 331. file://localhost/wiki/File:Flag_of_the_United_States.svg
+ 332. file://localhost/wiki/File:EP-3E_DN-SD-07-09322.JPEG
+ 333. file://localhost/wiki/File:EP-3E_DN-SD-07-09322.JPEG
+ 334. file://localhost/wiki/File:Aero-stub_img.svg
+ 335. file://localhost/wiki/Main_Page
+ 336. http://el.wikipedia.org/wiki/EP-3E_Aries_II
+ 337. http://zh.wikipedia.org/wiki/EP-3E%E5%81%B5%E5%AF%9F%E6%A9%9F

@@ -1,0 +1,351 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+NES Zapper
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Duck hunt gun)
+   Jump to: [7]navigation, [8]search
+   Please help [9]improve this article or section by expanding it. Further
+   information might be found on the [10]talk page. (February 2009)
+   NES Zapper in orange
+
+   The NES Zapper, also known as the Beam Gun in Japan,^[11][1] is an
+   electronic [12]light gun accessory for the [13]Nintendo Entertainment
+   System (NES) and the Japanese [14]Famicom. It was released in Japan for
+   the Famicom on February 18, 1984 (1984-02-18) and alongside the launch
+   of the NES in North America in October 1985.^[15][1]^[16][2] The
+   Famicom version of the Zapper, made for the game [17]Wild Gunman,
+   resembled a [18]revolver-style handgun,^[19][1] but the North American
+   version resembled a futuristic [20]science fiction ray gun that also
+   tied into the design of the NES.^[[21]original research?] Early
+   versions of the Zapper were gray, but its color was later changed to
+   orange.^[22][3] Although originally included in some configurations of
+   the NES, the Zapper was available for purchase separately.^[23][4]
+
+   The Zapper allows players to aim at the television monitor and shoot
+   various objects such as ducks, [24]clay pigeons, targets, cowboys, or
+   criminals, or other objects. Pulling the trigger emits a loud,
+   characteristic noise akin to a combination of a high-tensile spring
+   snapping and a mechanical "click".^[[25]citation needed]
+
+[[26]edit] History and usage
+
+   The Zapper was first released in 1985 with the launch of the NES in
+   North America. It came bundled with the NES console, the [27]Robotic
+   Operating Buddy and two games[28]Duck Hunt and [29]Gyromite.^[30][5]
+
+   The Zapper is used on supported NES games such as Duck Hunt and Wild
+   Gunman. When the trigger is pulled, the device sends an invisible beam
+   of light at the television screen. If the beam is pointing at an object
+   on the screen in sharp contrast to the background, then the game
+   registers a hit. To hit targets on the screen, players point the device
+   by lining up the front and rear sights with the desired target and
+   pulling the trigger. The Zapper could also be used on the title screens
+   of games to move the cursordone by pointing the device away from the
+   screen and pulling the triggeror starting the game (pointing at the
+   screen and pulling the trigger).^[31][6]
+
+[[32]edit] References
+
+    1. ^ [33]^a [34]^b [35]^c DeMaria, Rusel; Wilson, John (2003), High
+       Score! The Illustrated History of Electronic Games (2 ed.),
+       McGraw-Hill Professional, p. 379, [36]ISBN 978-0-07223-172-4
+    2. [37]^ Burnham, Van (2001), Supercade: A Visual History of the
+       Videogame Age, 19711984, Cambridge, Massachusetts: MIT Press,
+       p. 375, [38]ISBN 0-262-52420-1
+    3. [39]^ Diskin, Patrick (August 2004), [40]Nintendo Entertainment
+       System Documentation, pp. 32,
+       [41]http://nesdev.parodius.com/NESDoc.pdf
+    4. [42]^ Kohler, Chris (2005), Retro Gaming Hacks, O'Reilly
+       Publishing, p. 19, [43]ISBN 978-0-59600-917-5, "...the Zapper light
+       gun was included with most NES packages."
+    5. [44]^ [45]Kent, Steven (2001) [2001], "The Seeds of Competition",
+       The Ultimate History of Video Games: From Pong to Pokmon and
+       Beyond- The Story That Touched Our Lives and Changed the World
+       (First ed.), Roseville, California: Prima Publishing, p. 305,
+       [46]ISBN 0-7615-3643-4, "The Nintendo Action Set, which included
+       everything in the Control Deck packaging plus the "Zapper" light
+       gun and the game Duck Hunt, sold for US$149, as did the Master
+       System and gun set, which included the "Light Phaser" and the game
+       Safari Hunt."
+    6. [47]^ NES Zapper Instruction Manual, [48]Nintendo, 1985, US-2
+
+[[49]edit] External links
+
+     * [50]Converting the NES Zapper into a Snapper (sniper-rifle) -
+       featured on [51]G4's [52]Attack of the Show
+     * [53]How does the light gun for a video game work? at
+       [54]HowStuffWorks
+     * [55]List of NES games supported by the Zapper from [56]MobyGames
+
+   [57]v  [58]d  [59]e
+   [60]Nintendo video game hardware
+   Consoles
+   [61]Color TV Game [62]NES ([63]Famicom Disk System [64]NES 2 [65]AV
+   Family Computer) [66]Super NES ([67]Super Game Boy [68]Satellaview
+   [69]Nintendo Power) [70]Virtual Boy [71]Nintendo 64 ([72]64DD [73]iQue
+   Player) [74]GameCube ([75]WaveBird [76]Game Boy Player [77]Panasonic Q)
+   [78]Wii ([79]Virtual Console)
+   Handhelds
+   [80]Game & Watch [81]Game Boy ([82]Pocket [83]Light) [84]Game Boy Color
+   [85]Pokmon Mini [86]Game Boy Advance ([87]SP [88]Micro) [89]Nintendo DS
+   ([90]Lite [91]DSi)
+   Arcade
+   [92]Nintendo Classic [93]Vs. Series [94]PlayChoice-10 [95]Nintendo
+   Super System [96]Triforce
+   Peripherals
+   [97]DK Bongos [98]Famicom Four-way Adaptor [99]Game Boy Pocket Sonar
+   [100]NES Four Score [101]NES Satellite NES Zapper [102]Nintendo 64
+   controller [103]Power Glove [104]Power Pad [105]R.O.B. [106]Rumble Pak
+   [107]SNES Mouse [108]Super Scope [109]U-Force [110]Wii Balance Board
+   Technology
+   [111]MultiAV [112]Nintendo optical discs
+   Retrieved from "[113]http://en.wikipedia.org/wiki/NES_Zapper"
+   [114]Categories: [115]Nintendo Entertainment System accessories |
+   [116]Nintendo hardware | [117]Light guns
+   Hidden categories: [118]Articles to be expanded since February 2009 |
+   [119]All articles to be expanded | [120]All articles that may contain
+   original research | [121]Articles that may contain original research
+   since February 2009 | [122]All articles with unsourced statements |
+   [123]Articles with unsourced statements since February 2009
+
+Views
+
+     * [124]Article
+     * [125]Discussion
+     * [126]Edit this page
+     * [127]History
+
+Personal tools
+
+     * [128]Log in / create account
+
+Navigation
+
+     * [129]Main page
+     * [130]Contents
+     * [131]Featured content
+     * [132]Current events
+     * [133]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [134]About Wikipedia
+     * [135]Community portal
+     * [136]Recent changes
+     * [137]Contact Wikipedia
+     * [138]Donate to Wikipedia
+     * [139]Help
+
+Toolbox
+
+     * [140]What links here
+     * [141]Related changes
+     * [142]Upload file
+     * [143]Special pages
+     * [144]Printable version
+     * [145]Permanent link
+     * [146]Cite this page
+
+Languages
+
+     * [147]Espaol
+     * [148]Franais
+     * [149]Italiano
+     *
+     * [150]Portugus
+     * [151]Suomi
+     * [152]Svenska
+
+   [153]Powered by MediaWiki
+   [154]Wikimedia Foundation
+     * This page was last modified on 17 February 2009, at 15:20.
+     * All text is available under the terms of the [155]GNU Free
+       Documentation License. (See [156]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [157]Wikimedia
+       Foundation, Inc., a U.S. registered [158]501(c)(3)
+       [159]tax-deductible [160]nonprofit [161]charity.
+     * [162]Privacy policy
+     * [163]About Wikipedia
+     * [164]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=NES_Zapper&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Duck_hunt_gun&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#searchInput
+   9. http://en.wikipedia.org/w/index.php?title=NES_Zapper&action=edit
+  10. file://localhost/wiki/Talk:NES_Zapper
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-demaria-0
+  12. file://localhost/wiki/Light_gun
+  13. file://localhost/wiki/Nintendo_Entertainment_System
+  14. file://localhost/wiki/Famicom
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-demaria-0
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-1
+  17. file://localhost/wiki/Wild_Gunman
+  18. file://localhost/wiki/Revolver
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-demaria-0
+  20. file://localhost/wiki/Science_fiction
+  21. file://localhost/wiki/Wikipedia:No_original_research
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-diskin-2
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-kohler-3
+  24. file://localhost/wiki/Clay_target
+  25. file://localhost/wiki/Wikipedia:Citation_needed
+  26. file://localhost/w/index.php?title=NES_Zapper&action=edit&section=1
+  27. file://localhost/wiki/Robotic_Operating_Buddy
+  28. file://localhost/wiki/Duck_Hunt
+  29. file://localhost/wiki/Gyromite
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-Kent-4
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_note-5
+  32. file://localhost/w/index.php?title=NES_Zapper&action=edit&section=2
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-demaria_0-0
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-demaria_0-1
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-demaria_0-2
+  36. file://localhost/wiki/Special:BookSources/9780072231724
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-1
+  38. file://localhost/wiki/Special:BookSources/0262524201
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-diskin_2-0
+  40. http://nesdev.parodius.com/NESDoc.pdf
+  41. http://nesdev.parodius.com/NESDoc.pdf
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-kohler_3-0
+  43. file://localhost/wiki/Special:BookSources/9780596009175
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-Kent_4-0
+  45. file://localhost/wiki/Steven_Kent
+  46. file://localhost/wiki/Special:BookSources/0761536434
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc464.tmp.html#cite_ref-5
+  48. file://localhost/wiki/Nintendo
+  49. file://localhost/w/index.php?title=NES_Zapper&action=edit&section=3
+  50. http://www.g4tv.com/attackoftheshow/features/52389/Project_Duck_Hunt_Sniper_Rifle_.html
+  51. file://localhost/wiki/G4_(television)
+  52. file://localhost/wiki/Attack_of_the_Show
+  53. http://electronics.howstuffworks.com/question273.htm
+  54. file://localhost/wiki/HowStuffWorks
+  55. http://www.mobygames.com/attribute/sheet/attributeId,280/
+  56. file://localhost/wiki/MobyGames
+  57. file://localhost/wiki/Template:Nintendo_hardware
+  58. file://localhost/wiki/Template_talk:Nintendo_hardware
+  59. http://en.wikipedia.org/w/index.php?title=Template:Nintendo_hardware&action=edit
+  60. file://localhost/wiki/Nintendo_video_game_consoles
+  61. file://localhost/wiki/Color_TV_Game
+  62. file://localhost/wiki/Nintendo_Entertainment_System
+  63. file://localhost/wiki/Famicom_Disk_System
+  64. file://localhost/wiki/NES_2
+  65. file://localhost/wiki/AV_Family_Computer
+  66. file://localhost/wiki/Super_Nintendo_Entertainment_System
+  67. file://localhost/wiki/Super_Game_Boy
+  68. file://localhost/wiki/Satellaview
+  69. file://localhost/wiki/Nintendo_Power_(cartridge)
+  70. file://localhost/wiki/Virtual_Boy
+  71. file://localhost/wiki/Nintendo_64
+  72. file://localhost/wiki/Nintendo_64DD
+  73. file://localhost/wiki/IQue_Player
+  74. file://localhost/wiki/Nintendo_GameCube
+  75. file://localhost/wiki/WaveBird
+  76. file://localhost/wiki/Game_Boy_Player
+  77. file://localhost/wiki/Panasonic_Q
+  78. file://localhost/wiki/Wii
+  79. file://localhost/wiki/Virtual_Console
+  80. file://localhost/wiki/Game_%26_Watch
+  81. file://localhost/wiki/Game_Boy
+  82. file://localhost/wiki/Game_Boy_line#Game_Boy_Pocket
+  83. file://localhost/wiki/Game_Boy_line#Game_Boy_Light
+  84. file://localhost/wiki/Game_Boy_Color
+  85. file://localhost/wiki/Pok%C3%A9mon_Mini
+  86. file://localhost/wiki/Game_Boy_Advance
+  87. file://localhost/wiki/Game_Boy_Advance_SP
+  88. file://localhost/wiki/Game_Boy_Micro
+  89. file://localhost/wiki/Nintendo_DS
+  90. file://localhost/wiki/Nintendo_DS_Lite
+  91. file://localhost/wiki/Nintendo_DSi
+  92. file://localhost/wiki/Nintendo_Classic
+  93. file://localhost/wiki/Nintendo_Vs._Series
+  94. file://localhost/wiki/PlayChoice-10
+  95. file://localhost/wiki/Nintendo_Super_System
+  96. file://localhost/wiki/List_of_Sega_arcade_system_boards#Triforce
+  97. file://localhost/wiki/DK_Bongos
+  98. file://localhost/wiki/Famicom_Four-way_Adaptor
+  99. file://localhost/wiki/Game_Boy_Pocket_Sonar
+ 100. file://localhost/wiki/NES_Four_Score
+ 101. file://localhost/wiki/NES_Satellite
+ 102. file://localhost/wiki/Nintendo_64_controller
+ 103. file://localhost/wiki/Power_Glove
+ 104. file://localhost/wiki/Power_Pad
+ 105. file://localhost/wiki/R.O.B.
+ 106. file://localhost/wiki/Rumble_Pak
+ 107. file://localhost/wiki/SNES_Mouse
+ 108. file://localhost/wiki/Super_Scope
+ 109. file://localhost/wiki/U-Force
+ 110. file://localhost/wiki/Wii_Balance_Board
+ 111. file://localhost/wiki/MultiAV
+ 112. file://localhost/wiki/Nintendo_optical_disc
+ 113. http://en.wikipedia.org/wiki/NES_Zapper
+ 114. file://localhost/wiki/Special:Categories
+ 115. file://localhost/wiki/Category:Nintendo_Entertainment_System_accessories
+ 116. file://localhost/wiki/Category:Nintendo_hardware
+ 117. file://localhost/wiki/Category:Light_guns
+ 118. file://localhost/wiki/Category:Articles_to_be_expanded_since_February_2009
+ 119. file://localhost/wiki/Category:All_articles_to_be_expanded
+ 120. file://localhost/wiki/Category:All_articles_that_may_contain_original_research
+ 121. file://localhost/wiki/Category:Articles_that_may_contain_original_research_since_February_2009
+ 122. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 123. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2009
+ 124. file://localhost/wiki/NES_Zapper
+ 125. file://localhost/wiki/Talk:NES_Zapper
+ 126. file://localhost/w/index.php?title=NES_Zapper&action=edit
+ 127. file://localhost/w/index.php?title=NES_Zapper&action=history
+ 128. file://localhost/w/index.php?title=Special:UserLogin&returnto=NES_Zapper
+ 129. file://localhost/wiki/Main_Page
+ 130. file://localhost/wiki/Portal:Contents
+ 131. file://localhost/wiki/Portal:Featured_content
+ 132. file://localhost/wiki/Portal:Current_events
+ 133. file://localhost/wiki/Special:Random
+ 134. file://localhost/wiki/Wikipedia:About
+ 135. file://localhost/wiki/Wikipedia:Community_portal
+ 136. file://localhost/wiki/Special:RecentChanges
+ 137. file://localhost/wiki/Wikipedia:Contact_us
+ 138. http://wikimediafoundation.org/wiki/Donate
+ 139. file://localhost/wiki/Help:Contents
+ 140. file://localhost/wiki/Special:WhatLinksHere/NES_Zapper
+ 141. file://localhost/wiki/Special:RecentChangesLinked/NES_Zapper
+ 142. file://localhost/wiki/Wikipedia:Upload
+ 143. file://localhost/wiki/Special:SpecialPages
+ 144. file://localhost/w/index.php?title=NES_Zapper&printable=yes
+ 145. file://localhost/w/index.php?title=NES_Zapper&oldid=271351787
+ 146. file://localhost/w/index.php?title=Special:Cite&page=NES_Zapper&id=271351787
+ 147. http://es.wikipedia.org/wiki/Nintendo_Zapper
+ 148. http://fr.wikipedia.org/wiki/NES_Zapper
+ 149. http://it.wikipedia.org/wiki/NES_Zapper
+ 150. http://pt.wikipedia.org/wiki/Nintendo_Zapper
+ 151. http://fi.wikipedia.org/wiki/NES_Zapper
+ 152. http://sv.wikipedia.org/wiki/NES_Zapper
+ 153. http://www.mediawiki.org/
+ 154. http://wikimediafoundation.org/
+ 155. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 156. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 157. http://www.wikimediafoundation.org/
+ 158. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 159. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 160. http://en.wikipedia.org/wiki/Non-profit_organization
+ 161. http://en.wikipedia.org/wiki/Charitable_organization
+ 162. http://wikimediafoundation.org/wiki/Privacy_policy
+ 163. file://localhost/wiki/Wikipedia:About
+ 164. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 165. file://localhost/wiki/File:Wiki_letter_w.svg
+ 166. file://localhost/wiki/File:Nes_zapper.jpg
+ 167. file://localhost/wiki/File:Nes_zapper.jpg
+ 168. file://localhost/wiki/Main_Page
+ 169. http://ja.wikipedia.org/wiki/%E5%85%89%E7%B7%9A%E9%8A%83%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA

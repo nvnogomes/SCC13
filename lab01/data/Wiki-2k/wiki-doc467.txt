@@ -1,0 +1,496 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Duct (HVAC)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Duct cleaning)
+   Jump to: [7]navigation, [8]search
+   A round galvanized steel duct connecting to a typical [9]diffuser
+   [10]Fire-resistance rated mechanical shaft with HVAC [11]sheet metal
+   ducting and [12]copper [13]piping, as well as [14]"HOW" (Head-Of-Wall)
+   joint between top of [15]concrete block wall and underside of concrete
+   slab, [16]firestopped with ceramic fibre-based firestop [17]caulking on
+   top of [18]rockwool.
+
+   Ducts are used in [19]heating, ventilation, and air conditioning
+   ([20]HVAC) to deliver and remove air. These needed airflows include,
+   for example, supply air, return air, and exhaust air.^[21][1] Ducts
+   also deliver, most commonly as part of the supply air, [22]ventilation
+   air. As such, air ducts are one method of ensuring acceptable
+   [23]indoor air quality as well as [24]thermal comfort.
+
+   A duct system is often called ductwork. Planning ('laying out'),
+   sizing, optimizing, detailing, and finding the pressure losses through
+   a duct system is called duct design.^[25][2]
+
+Contents
+
+     * [26]1 Duct materials
+          + [27]1.1 Galvanized steel
+          + [28]1.2 Polyurethane and Phenolic insulation panels
+            (preinsulated aluminum ducts)
+          + [29]1.3 Fiberglass duct board (preinsulated non metallic
+            ductwork)
+          + [30]1.4 Flexible tubing
+          + [31]1.5 Fabric Ducts
+     * [32]2 Duct system components
+          + [33]2.1 Vibration isolators
+          + [34]2.2 Take-offs
+          + [35]2.3 Stacks, boots, and heads
+          + [36]2.4 Volume Control Dampers
+          + [37]2.5 Smoke/Fire Dampers
+          + [38]2.6 Terminal units
+          + [39]2.7 Air terminals
+     * [40]3 Duct cleaning
+     * [41]4 References
+     * [42]5 Further reading
+
+[[43]edit] Duct materials
+
+   Like modern steel food cans, at one time air ducts were often made of
+   tin, like 'tin cans' were made for food. Tin is more corrosion
+   resistant than plain steel, but is also more expensive. With
+   improvements in mild steel production, and its galvanization to resist
+   [44]rust, steel 'sheet metal' has replaced tin in ducts as well as food
+   cans. However, the term tin-knocker or tin-basher is still used in
+   practice to describe sheet metal duct installers.
+
+   Today, if we consider all the materials which allow us to construct
+   ducts in rectangular, round, or oval cross-sectional shapes, we will
+   find that the four main ones are:
+
+[[45]edit] Galvanized steel
+
+   Ducts are still most often made of galvanized steel. Various fittings
+   allow transitioning between the various shapes and sizes. A "tee"
+   connection, for example, is where the air flow can be divided into two
+   or more downstream branches. Many factory-made shapes and sizes are
+   available but galvanized steel can easily be [46]cut and bent to form
+   additional shapes when required. Steel ducts are commonly wrapped or
+   lined with [47]fiberglass [48]thermal insulation, both to reduce heat
+   loss or gain through the duct walls and water vapor from [49]condensing
+   on the exterior of the duct when the duct is carrying cooled air.
+   Insulation, particularly duct liner, also reduces duct-borne noise.
+   Both types of insulation reduce 'breakout' noise through the ducts'
+   sidewalls.
+
+[[50]edit] Polyurethane and Phenolic insulation panels (preinsulated aluminum
+ducts)
+
+   While as mentioned above, galvanized steel is still very common, more
+   and more [51]rectangular ducts are being manufactured from rigid
+   insulation panels, thanks to the fact that custom or special shapes and
+   sizes of ducts can easily be shop or field fabricated. In addition to
+   the fact that ducts made with rigid insulation panels do not need any
+   further insulation. Among the various types of rigid [52]polyurethane
+   foam panels available, a new water formulated panel stands out. In this
+   particular panel, the foaming process is obtained through the use of
+   water instead of the [53]CFC, HCFC, HFC and HC gasses. The foam panels
+   are then coated with [54]aluminum sheets on either side, with
+   thicknesses that can vary from 80 [55]micrometres for indoor use to 200
+   micrometres for external use in order to guarantee the high mechanical
+   characteristics of the duct. The ducts construction starts with the
+   plotting of the single pieces on the panel. The pieces are then cut
+   from the panel (with a 45 cut as explained below), bent if necessary in
+   order to obtain the different fittings, and finally closed through an
+   operation of gluing, pressing and taping. Having obtained the various
+   duct sections, they can easily be installed by using an invisible
+   aluminum [56]flange system.
+
+[[57]edit] Fiberglass duct board (preinsulated non metallic ductwork)
+
+   Also the fiberglass panels provide built-in thermal insulation and the
+   interior surface absorbs [58]sound, helping to provide quiet operation
+   of the HVAC system. The duct board is formed by sliding a
+   specially-designed [59]knife along the board using a straightedge as a
+   guide; the knife automatically trims out a "valley" with 45 sides; the
+   valley does not quite penetrate the entire depth of the duct board,
+   providing a thin section that acts as a [60]hinge. The duct board can
+   then be folded along the valleys to produce 90 folds, making the
+   rectangular duct shape in the fabricator's desired size. The duct is
+   then closed with staples and special aluminum or similar 'metal-backed'
+   tape. Commonly available [61]duct tape should not be used on air ducts,
+   metal, fiberglass, or otherwise, that are intended for long-term use;
+   the adhesive on so called 'duct tape' dries and releases with time.
+
+[[62]edit] Flexible tubing
+
+   Flexible ducts, known as flex, have a variety of configurations, but
+   for HVAC applications, they are typically flexible plastic over a metal
+   wire coil to make round, flexible duct. Most often a layer of
+   fiberglass insulation covers the duct, and then a thin plastic layer
+   protects the insulation. Flexible duct is very convenient for attaching
+   supply air outlets to the rigid ductwork. However, the pressure loss
+   through flex is higher than for most other types of ducts. As such,
+   designers and installers attempt to keep their installed lengths (runs)
+   short, e.g., less than 15 feet or so, and to minimize turns. Kinks in
+   flex must be avoided. Flexible duct is normally not used on the
+   negative pressure portions of HVAC duct systems.
+
+[[63]edit] Fabric Ducts
+
+   Fabric ducts, also known as air socks, duct socks or textile ducts, are
+   designed for even air distribution throughout the entire length.
+   Usually made of special permeable polyester material, fabric ducts act
+   like a conventional system with much more diffusers. Fabric ducts are
+   normally used where even air distribution is essential. Due to the
+   nature or the air distribution, textile ducts are not usually concealed
+   within false ceilings, because of this, they are manufactured in
+   various colours to coordinate with the interior. Fabric ducts fitted
+   above a ceiling will need to be pvc coated so that no maintenance is
+   required to maintain performance. Because air passes through the body
+   of a textile duct, it is impossible for condensation to form on the
+   ducts surface, they can therefore be used where air is to be supplied
+   below the dew point, without needing to be insulated. Also see [64]air
+   sock
+
+[[65]edit] Duct system components
+
+   Besides the ducts themselves, complete ducting systems contain many
+   other components.
+
+[[66]edit] Vibration isolators
+
+   A duct system often begins at an [67]air handler. The [68]blowers in
+   the air handlers can create substantial [69]vibration and the large
+   area of the duct system would transmit this [70]noise and vibration to
+   the inhabitants of the building. To avoid this, vibration isolators
+   (flexible sections) are normally inserted into the duct immediately
+   before and after the air handler. The rubberized canvas-like material
+   of these sections allow the air handler to vibrate without transmitting
+   much vibration to the attached ducts.
+
+[[71]edit] Take-offs
+
+   Downstream of the air handler, the supply air trunk duct will commonly
+   fork, providing air to many individual air outlets such as
+   [72]diffusers, grilles, and registers. When the system is designed with
+   a main duct branching into many subsidiary branch ducts, fittings
+   called take-offs allow a small portion of the flow in the main duct to
+   be diverted into each branch duct. Take-offs may be fitted into round
+   or rectangular openings cut into the wall of the main duct. The
+   take-off commonly has many small metal tabs that are then bent to
+   retain the take-off on the main duct; round versions are called spin-in
+   fittings. Other take-off designs use a snap-in attachment method,
+   sometimes coupled with an adhesive foam gasket to provide improved
+   sealing. The outlet of the take-off then connects to the rectangular,
+   oval, or round branch duct.
+
+[[73]edit] Stacks, boots, and heads
+
+   Ducts, especially in homes, must often allow air to travel vertically
+   within relatively thin walls. These vertical ducts are called stacks
+   and are formed with either very wide and relatively thin rectangular
+   sections or oval sections. At the bottom of the stack, a stack boot
+   provides a transition from an ordinary large round or rectangular duct
+   to the thin wall-mounted duct. At the top, a stack head can provide a
+   transition back to ordinary ducting while a register head allows the
+   transition to a wall-mounted air register.
+
+[[74]edit] Volume Control Dampers
+
+   Ducting systems must often provide a method of adjusting the volume of
+   air flow to various parts of the system. VCD's (Volume Control Dampers
+   - Not To Be confused with Smoke/Fire Dampers) provide this function.
+   Besides the regulation provided at the registers or diffusers that
+   spread air into individual rooms, [75]dampers can be fitted within the
+   ducts themselves. These dampers may be manual or automatic. [76]Zone
+   dampers provide automatic control in simple systems while [77]VAVs
+   allow control in sophisticated systems.
+
+[[78]edit] Smoke/Fire Dampers
+
+   Smoke and Fire dampers are found in ductwork, where the duct passes
+   through a firewall or firecurtain. Smoke dampers are automated with the
+   use of a mechanical motor often referred to as an Actuator. A probe
+   connected to the motor is installed in the run of duct, and detects
+   smoke within the duct system which has been extracted from a room, or
+   which is being supplied from the AHU (Air Handling Unit) or elsewhere
+   within the run. Once smoke is detected within the duct, the Actuator
+   triggers the motor release and the smoke damper will automatically
+   close until manually re-opened.
+
+   You will also find Fire dampers in the same places as smoke dampers,
+   depending on the application of the area after the firewall. Unlike
+   smoke dampers, they are not triggered by any electrical system, which
+   is perfect in the event of an electrical failure where the Smoke
+   dampers would fail to close. A fire damper is held open by a bar
+   crossing the corrigated screen, which will break and allow the damper
+   to close when air in the duct is above a certain temperature. This
+   again will then have to be manually re-opened.
+
+[[79]edit] Terminal units
+
+   While single-zone [80]constant air volume systems typically don't have
+   them, other types of air distribution systems often have terminal units
+   in the branch ducts. Usually there is one terminal unit per [81]thermal
+   zone. Some types of terminal units are VAV 'boxes' of either single or
+   dual duct, fan-powered mixing boxes of either parallel or series
+   arrangement, and induction terminal units. Terminal units may also
+   include either, or both, a heating or cooling coil.
+
+[[82]edit] Air terminals
+
+   'Air terminals' are the supply air outlets and 'return' or 'exhaust air
+   inlets'. For supply, [83]diffusers are most common, but [84]grilles,
+   and for very small HVAC systems such as in residences, 'registers' are
+   also used widely. Return or 'exhaust grilles' are used primarily for
+   appearance reasons, but some also incorporate an air filter and are
+   known as 'filter returns'.^[85][3]
+
+[[86]edit] Duct cleaning
+
+   The position of the [87]U.S. Environmental Protection Agency is that
+   "If no one in your household suffers from allergies or unexplained
+   symptoms or illnesses and if, after a visual inspection of the inside
+   of the ducts, you see no indication that your air ducts are
+   contaminated with large deposits of dust or mold (no musty odor or
+   visible mold growth), having your air ducts cleaned is probably
+   unnecessary."^[88][4] Studies by the EPA and the Canadian Mortgage and
+   Housing Corporation (CMHC) in the 1990s has lead CMHC to conclude that
+   "duct cleaning will not usually change the quality of the air you
+   breathe, nor will it significantly affect airflows or heating
+   costs".^[89][5]
+
+   SIGNS AND INDICATORS: When cleaning, you need to sweep and dust your
+   furniture more than usual. After cleaning, there's still left over dust
+   floating around the house that you can see. After or during sleep you
+   experience headaches, nasal congestion, or other sinus problems. Rooms
+   in your house have little or no air flow coming from the vents. You're
+   constantly getting sick or are experience more allergies than usual
+   When you turn on the furnace or air conditioner there's musty or stale
+   odor You're experiencing signs of sickness: fatigue, headache,
+   sneezing, stuffy or running nose, irritability, nausea, dry or burning
+   sensation in eyes, nose and throat.
+
+[[90]edit] References
+
+    1. [91]^ The Fundamentals volume of the [92]ASHRAE Handbook,
+       [93]ASHRAE, Inc., Atlanta, GA, USA, 2005
+    2. [94]^ HVAC Systems -- Duct Design, 3rd Ed., [95]SMACNA, 1990
+    3. [96]^ Designer's Guide to Ceiling-Based Room Air Diffusion, Rock
+       and Zhu, [97]ASHRAE, Inc., Atlanta, GA, USA, 2002
+    4. [98]^ [99]"Should You Have the Air Ducts in Your Home Cleaned?",
+       U.S. Environmental Protection Agency, retrieved April 17, 2008
+    5. [100]^ [101]"Should You Get Your Heating Ducts Cleaned?", Canadian
+       Mortgage and Housing Corporation, retrieved April 17, 2008
+
+[[102]edit] Further reading
+
+     * Air Diffusion Council Flexible Duct Performance and Installation
+       Standard, 4th Ed., 2003
+
+   Retrieved from "[103]http://en.wikipedia.org/wiki/Duct_(HVAC)"
+   [104]Category: [105]Heating, ventilating, and air conditioning
+
+Views
+
+     * [106]Article
+     * [107]Discussion
+     * [108]Edit this page
+     * [109]History
+
+Personal tools
+
+     * [110]Log in / create account
+
+Navigation
+
+     * [111]Main page
+     * [112]Contents
+     * [113]Featured content
+     * [114]Current events
+     * [115]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [116]About Wikipedia
+     * [117]Community portal
+     * [118]Recent changes
+     * [119]Contact Wikipedia
+     * [120]Donate to Wikipedia
+     * [121]Help
+
+Toolbox
+
+     * [122]What links here
+     * [123]Related changes
+     * [124]Upload file
+     * [125]Special pages
+     * [126]Printable version
+     * [127]Permanent link
+     * [128]Cite this page
+
+Languages
+
+     *
+
+   [129]Powered by MediaWiki
+   [130]Wikimedia Foundation
+     * This page was last modified on 23 February 2009, at 22:56.
+     * All text is available under the terms of the [131]GNU Free
+       Documentation License. (See [132]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [133]Wikimedia
+       Foundation, Inc., a U.S. registered [134]501(c)(3)
+       [135]tax-deductible [136]nonprofit [137]charity.
+     * [138]Privacy policy
+     * [139]About Wikipedia
+     * [140]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Duct_(HVAC)&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Duct_cleaning&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#searchInput
+   9. file://localhost/wiki/Diffuser_(thermodynamics)
+  10. file://localhost/wiki/Fire-resistance_rating
+  11. file://localhost/wiki/Sheet_metal
+  12. file://localhost/wiki/Copper
+  13. file://localhost/wiki/Pipe
+  14. file://localhost/wiki/Joint_(building)
+  15. file://localhost/wiki/Concrete
+  16. file://localhost/wiki/Firestop
+  17. file://localhost/wiki/Caulking
+  18. file://localhost/wiki/Mineral_wool
+  19. file://localhost/wiki/HVAC
+  20. file://localhost/wiki/HVAC
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_note-0
+  22. file://localhost/wiki/Ventilation_(architecture)
+  23. file://localhost/wiki/Indoor_air_quality
+  24. file://localhost/wiki/Thermal_comfort
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_note-1
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Duct_materials
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Galvanized_steel
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Polyurethane_and_Phenolic_insulation_panels_.28preinsulated_aluminum_ducts.29
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Fiberglass_duct_board_.28preinsulated_non_metallic_ductwork.29
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Flexible_tubing
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Fabric_Ducts
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Duct_system_components
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Vibration_isolators
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Take-offs
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Stacks.2C_boots.2C_and_heads
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Volume_Control_Dampers
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Smoke.2FFire_Dampers
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Terminal_units
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Air_terminals
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Duct_cleaning
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#References
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#Further_reading
+  43. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=1
+  44. file://localhost/wiki/Rust
+  45. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=2
+  46. file://localhost/wiki/Sheet_metal_forming
+  47. file://localhost/wiki/Fiberglass
+  48. file://localhost/wiki/Thermal_insulation
+  49. file://localhost/wiki/Condensation
+  50. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=3
+  51. file://localhost/wiki/Rectangular
+  52. file://localhost/wiki/Polyurethane
+  53. file://localhost/wiki/CFC
+  54. file://localhost/wiki/Aluminum
+  55. file://localhost/wiki/Micrometres
+  56. file://localhost/wiki/Flange
+  57. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=4
+  58. file://localhost/wiki/Sound
+  59. file://localhost/wiki/Knife
+  60. file://localhost/wiki/Hinge
+  61. file://localhost/wiki/Duct_tape
+  62. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=5
+  63. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=6
+  64. file://localhost/wiki/Air_sock
+  65. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=7
+  66. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=8
+  67. file://localhost/wiki/Air_handler
+  68. file://localhost/wiki/Fan_(mechanical)
+  69. file://localhost/wiki/Vibration
+  70. file://localhost/wiki/Noise
+  71. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=9
+  72. file://localhost/wiki/Diffuser_(thermodynamics)
+  73. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=10
+  74. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=11
+  75. file://localhost/wiki/Damper_(architecture)
+  76. file://localhost/wiki/Zone_damper
+  77. file://localhost/wiki/Variable_air_volume
+  78. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=12
+  79. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=13
+  80. file://localhost/wiki/Constant_air_volume
+  81. file://localhost/w/index.php?title=Thermal_zone&action=edit&redlink=1
+  82. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=14
+  83. file://localhost/wiki/Diffuser_(thermodynamics)
+  84. file://localhost/wiki/Grille
+  85. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_note-2
+  86. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=15
+  87. file://localhost/wiki/U.S._Environmental_Protection_Agency
+  88. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_note-3
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_note-4
+  90. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=16
+  91. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_ref-0
+  92. file://localhost/wiki/ASHRAE_Handbook
+  93. file://localhost/wiki/ASHRAE
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_ref-1
+  95. file://localhost/wiki/SMACNA
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_ref-2
+  97. file://localhost/wiki/ASHRAE
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_ref-3
+  99. http://www.epa.gov/iaq/pubs/airduct.html
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc467.tmp.html#cite_ref-4
+ 101. http://www.cmhc-schl.gc.ca/en/co/maho/gemare/gemare_011.cfm
+ 102. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit&section=17
+ 103. http://en.wikipedia.org/wiki/Duct_(HVAC)
+ 104. file://localhost/wiki/Special:Categories
+ 105. file://localhost/wiki/Category:Heating,_ventilating,_and_air_conditioning
+ 106. file://localhost/wiki/Duct_(HVAC)
+ 107. file://localhost/wiki/Talk:Duct_(HVAC)
+ 108. file://localhost/w/index.php?title=Duct_(HVAC)&action=edit
+ 109. file://localhost/w/index.php?title=Duct_(HVAC)&action=history
+ 110. file://localhost/w/index.php?title=Special:UserLogin&returnto=Duct_(HVAC)
+ 111. file://localhost/wiki/Main_Page
+ 112. file://localhost/wiki/Portal:Contents
+ 113. file://localhost/wiki/Portal:Featured_content
+ 114. file://localhost/wiki/Portal:Current_events
+ 115. file://localhost/wiki/Special:Random
+ 116. file://localhost/wiki/Wikipedia:About
+ 117. file://localhost/wiki/Wikipedia:Community_portal
+ 118. file://localhost/wiki/Special:RecentChanges
+ 119. file://localhost/wiki/Wikipedia:Contact_us
+ 120. http://wikimediafoundation.org/wiki/Donate
+ 121. file://localhost/wiki/Help:Contents
+ 122. file://localhost/wiki/Special:WhatLinksHere/Duct_(HVAC)
+ 123. file://localhost/wiki/Special:RecentChangesLinked/Duct_(HVAC)
+ 124. file://localhost/wiki/Wikipedia:Upload
+ 125. file://localhost/wiki/Special:SpecialPages
+ 126. file://localhost/w/index.php?title=Duct_(HVAC)&printable=yes
+ 127. file://localhost/w/index.php?title=Duct_(HVAC)&oldid=272829085
+ 128. file://localhost/w/index.php?title=Special:Cite&page=Duct_(HVAC)&id=272829085
+ 129. http://www.mediawiki.org/
+ 130. http://wikimediafoundation.org/
+ 131. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 132. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 133. http://www.wikimediafoundation.org/
+ 134. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 135. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 136. http://en.wikipedia.org/wiki/Non-profit_organization
+ 137. http://en.wikipedia.org/wiki/Charitable_organization
+ 138. http://wikimediafoundation.org/wiki/Privacy_policy
+ 139. file://localhost/wiki/Wikipedia:About
+ 140. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 141. file://localhost/wiki/File:Central_ventilation_tube2.jpg
+ 142. file://localhost/wiki/File:Central_ventilation_tube2.jpg
+ 143. file://localhost/wiki/File:Shaft_dupont_mississauga_on.jpg
+ 144. file://localhost/wiki/File:Shaft_dupont_mississauga_on.jpg
+ 145. file://localhost/wiki/Main_Page
+ 146. http://ja.wikipedia.org/wiki/%E3%83%80%E3%82%AF%E3%83%88

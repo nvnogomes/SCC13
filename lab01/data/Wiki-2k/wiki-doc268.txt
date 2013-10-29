@@ -1,0 +1,966 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Pinochle
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double Deck Pinochle)
+   Jump to: [7]navigation, [8]search
+   Pinochle ([9]card game)
+   The jack of diamonds and the queen of spades are the "pinochle" meld of
+   Pinochle.
+   Type [10]Trick-taking
+   Players 4 in partnerships or 3 individually, variants exist for 2-6 or
+   8 players
+   Age range 13 and up^[[11]citation needed]^[[12]original research?]
+   Deck 48 (double 24 card deck) or 80 (quadruple 20 card deck)
+   Cards [13]Anglo-American
+   Play Clockwise
+   Card rank
+   (highest to lowest) A 10 K Q J 9
+   Related games [14]Sixty-six, [15]Bezique, [16]Marjapussi, [17]Skat
+   Playing time 1 to 5 hours
+   Random chance Medium
+   Skills required [18]Strategy
+   [19]Social skills
+   [20]Teamwork
+
+   Pinochle (sometimes Pinocle, or Penuchle), is a [21]trick-taking game
+   typically for two, three or four players and played with a 48 card
+   deck. Derived from the card game [22]Bezique, players score points by
+   trick-taking and also by forming combinations of cards into [23]melds.
+   It is thus considered part of a "trick-and-meld" category which also
+   includes a cousin, [24]Belote. Each hand is played in three phases:
+   bidding, melds, and tricks.
+
+   In some areas of the United States, such as [25]Oklahoma and [26]Texas,
+   [27]thumb wrestling is often referred to as "pinochle". The two games,
+   however, are not related.
+
+Contents
+
+     * [28]1 History
+     * [29]2 The Deck
+     * [30]3 Dealing
+     * [31]4 The auction
+     * [32]5 Passing cards
+     * [33]6 Melding
+     * [34]7 Playing tricks
+     * [35]8 Scoring tricks
+     * [36]9 Two-handed Pinochle
+     * [37]10 Three-handed Pinochle
+     * [38]11 Four-handed Pinochle
+     * [39]12 Five-handed and larger Pinochle
+     * [40]13 Check Pinochle
+     * [41]14 Double-deck Pinochle
+     * [42]15 Racehorse Pinochle
+     * [43]16 Double-deck Pinochle for eight players
+     * [44]17 References
+     * [45]18 External links
+
+[[46]edit] History
+
+   Pinochle derives from the game [47]Bezique, which is virtually
+   identical to the original two-handed version of Pinochle that is still
+   played by some. The French word "Binocle" also meant
+   "eyeglasses".^[48][1] The word is also possibly derived from the French
+   word, "binage", for the combination of cards called "binocle".^[49][2]
+   This latter pronunciation of the game would be adopted by German
+   speakers. German immigrants brought the game to America, where it was
+   later mispronounced and misspelled "Pinochle."^[50][3]
+
+   Auction Pinochle for three players is a variation derived from
+   combining Bezique and the German game [51]Skat. Some mistakenly claim
+   Pinochle derives from [52]Whist. Games like [53]Contract bridge,
+   [54]Hearts, and [55]Spades derive from [56]Whist, but the only thing
+   Whist shares with Pinochle is the bidding concept, which Pinochle
+   actually borrowed from Skat.
+
+   During [57]World War I, the city of [58]Syracuse, New York outlawed the
+   playing of Pinochle in a fit of anti-German sentiment.^[59][4] Pinochle
+   was the favorite card game of American Jews and Irish immigrants, while
+   Skat was the preferred game of a majority of German immigrants.
+
+[[60]edit] The Deck
+
+   A Pinochle deck consists of two copies of each of the 9, 10, [61]Jack,
+   [62]Queen, [63]King, and [64]Ace cards of all four [65]suits, for 48
+   cards per deck. Aces are always considered high. Pinochle follows the
+   standard card ordering with the exception of the 10 being second
+   highest. The complete ordering from highest to lowest is A, 10, K, Q,
+   J, 9. The game can also be played using standard ranking with a simple
+   change to scoring (the jack becomes a "point card" when the 10 is
+   demoted).
+
+   Originally, the deck had to be composed by combining two Poker,
+   [66]Piquet or [67]Euchre decks and removing unneeded cards (a piquet
+   deck does not have the 2-6, making it easier to modify, and a Euchre
+   deck is exactly half a Pinochle deck), but with the game's popularity
+   in the [68]United States in the early 1900s, a single boxed deck with
+   the necessary cards was marketed, and these specialized Pinochle decks
+   are now widely available in similar styles to common 52-card
+   counterparts. Variants of Pinochle can be played with five, six, eight
+   or more players. These larger variations can combine two Pinochle decks
+   called a "double deck". The double deck can also be used when playing
+   with 4 players; hand sizes, average scores and minimum bids are
+   doubled.
+
+[[69]edit] Dealing
+
+   The game is played with one or two Pinochle decks of 48 cards each; one
+   player is the dealer. The deck may or may not be shuffled, particularly
+   after the first round. By not shuffling, groups of cards played as
+   tricks in the previous round are kept together, increasing the chances
+   that a player will have a "heavy" (very favorable) hand, allowing for
+   higher bids.
+
+   In Pinochle, after the [70]shuffle (if it occurs), the dealer will
+   offer a cut to the player on their right, then distribute the cards.
+   All the cards are dealt in partnership Pinochle (4,6, or 8 players). In
+   variations for odd numbers of players like three, a widow's hand' (also
+   called a "kitty", "talon", or "stock") of cards remain. Traditionally,
+   the deal is done clockwise, dealing a packet of three or four cards at
+   a time, starting with the player to the left and ending with the
+   dealer. The deal rotates clockwise, so the dealer's left-hand opponent
+   will deal next.
+
+   Some players use a house rule that if a player receives a hand with an
+   abundance of nines (variously, "a hand of 6 nines, or 5 nines and no
+   meld", or "4 nines and no Aces, or 5 nines and only one Ace", for
+   example), they can toss in their hand and declare a misdeal; the cards
+   are then re-dealt by the same dealer. An accompanying rule sometimes
+   limit the number of re-deals to three.
+
+[[71]edit] The auction
+
+   In auction Pinochle, players bid for the points they predict their hand
+   could earn. The highest bidder earns the right to declare the [72]trump
+   suit. One of the players, usually the player to the left of the dealer,
+   or the dealer themselves, is obligated to open with a first bid. The
+   size of bids is based on the point scale used; traditionally, points
+   are in multiples of 10, thus a minimum opening bid might be agreed to
+   be 100^[73][5] or 250.^[74][3] However, many alternate scoring rules
+   drop the unnecessary trailing zero; in that case, bids of 10 and 25,
+   respectively, have the same value. When a player has the turn to bid,
+   the player may do either of the following:
+    1. Make a new bid, or
+    2. Pass.
+
+   Each bid must be greater than the previous one, and be a multiple of 10
+   or 25 (if playing without trailing zeroes, the bid must be one or two
+   greater respectively). When a player passes, they can no longer bid.
+   The auction ends when all subsequent players in rotation have passed
+   after the last bid. The last bid becomes the contract. The player that
+   made this final bid will then declare trump in the suit that is
+   desired. In some house rules, trump cannot be declared in any suit not
+   containing a run, marriage or dix meld.
+
+   In order for the winning bidder to win the hand, the combined total of
+   melding and trick points must be equal to or greater than the winning
+   bid. Thus bidding involves anticipating the points that will be
+   accumulated from melds and from the points acumulated from winning
+   tricks. If the combined score is lower than the bid, then the bidding
+   team or player has been set. This means that the total bid amount is
+   subtracted from the total game score, often accompanied by losing the
+   points scored in meld for that hand as well. This can result in a
+   negative score.^[75][5]
+
+   A related though different style of bidding is for the players to bid
+   individually, and partners' bids are then summed. The winning bid only
+   decides trump; both (or all) teams' bids become their contract, meaning
+   any team can score or be set. This creates a more balanced game. A
+   house rule often used with this style of bidding is that a player or
+   partnership must have a minimum number of meld points (usually 20 or
+   200 depending on point scales) in order to bid, and if it is discovered
+   that they do not, a mis-bid is declared and the team's contract is
+   null, with or without a penalty.
+
+[[76]edit] Passing cards
+
+   In some versions of Pinochle, after the bid has been taken and trump
+   declared in a partnership game, the bid winning team exchanges cards.
+   It may be three or four cards, depending on the version of the game.
+   The partner of the bid winner passes first. The objective of the
+   partner is either to add to the total points in meld or to pass
+   trick-winning cards. After receiving the cards, the bid winner examines
+   what will create the strongest hand and then discards an equal amount
+   of cards back to their partner. A variation is for the bid winner and
+   partner to exchange the designated number of cards simultaneously, or
+   for no passing to occur.
+
+[[77]edit] Melding
+
+   Melding consists of displaying specific combinations of cards to all
+   players. Typically this is done by placing the combination of cards
+   face up on the playing surface until all players have had the
+   opportunity to examine them. All players meld after the bid winner
+   shows meld first. The types of melds include arounds, marriages,
+   flushes and pinochles.
+
+   {NOTE: trailing zeros in the counting of meld may be done consistent
+   with the bidding process}
+
+   The rank melds containing four of the same face cards ace, king, queen
+   or jack must include one card from each of the different suits. They
+   are scored as follows:
+     * "100 Aces" or "Aces around" - 4 aces of different suits - 100
+       points
+     * "80 Kings" or "Kings around" - 4 kings of different suits - 80
+       points
+     * "60 Queens" or "Queens around" - 4 queens of different suits - 60
+       points
+     * "40 Jacks" or "Jacks around" - 4 jacks of different suits - 40
+       points
+
+   A player holding all eight aces, kings, queens or jacks is called a
+   double around (or double aces, double kings, etc). This hand is worth
+   10 times the value of a single around. For instance, a kings double
+   around is worth 800 points.
+
+   The marriages, flush and dix are the suit melds.
+     * "Trump Marriage" - king and queen of trump suit - 40 points
+     * "Marriage" - king and queen of a suit other than trump - 20 points
+     * "Flush", "Family", "Rope" or "Run" - A 10 K Q J of trump suit only
+       - 150 points. Similar to what is done with Aces, Kings Around, etc.
+       A double run, or two runs in trump in the same hand, is worth 1500
+       points.
+     * "Dix" (pronounced 'deece') - nine of trump - 10 points
+
+   A marriage in each suit is worth 240 total points, which is nothing
+   more than the sum of the marriages, plus kings around and queens
+   around. As a shortcut, this is called a "roundtable", "marriages
+   around", "Round House", or a "Round Robin". The pinochle is the unique
+   combination that shares the name of the game.
+     * "Pinochle" - jack of diamonds and queen of spades - 40 points.
+     * "Double pinochle" - both jacks of diamonds and both queens of
+       spades - 300 points.
+     * "Triple pinochle" (can only occur in double-deck play) - 3
+       pinochles - 450 points.
+
+   In the most common form of the game (see variations below), any one
+   card may be used in only one meld of each type. Thus, a queen card can
+   be used in one marriage with one king, regardless if the player has the
+   other king of the same suit. However, a queen can be used to score a
+   marriage and a pinochle if the player also has the correct jack.
+
+   After the melds are displayed, the points are counted and the teams
+   total their individual meld scores to form a team score.
+   Meld Traditional Value
+
+   Simplified Value
+   Traditional Value
+
+   Simplified Value
+   Suit Trump Non-Trump
+   Run
+
+   (A 10 K Q J)
+   150
+
+   15
+   0
+
+   0
+   Double Run
+
+   (A A 10 10 K K Q Q J J)
+   1500
+
+   150
+   0
+
+   0
+   Marriage
+
+   (K Q)
+   40
+
+   4
+   20
+
+   2
+   Dix
+
+   (9)
+   10
+
+   1
+   0
+
+   0
+   Rank 1 of Each Suit 2 of Each Suit
+   Aces
+
+   (A)
+   100
+
+   10
+   1000
+
+   100
+   Kings
+
+   (K)
+   80
+
+   8
+   800
+
+   80
+   Queens
+
+   (Q)
+   60
+
+   6
+   600
+
+   60
+   Jacks
+
+   (J)
+   40
+
+   4
+   400
+
+   40
+   Pinochle Single Double
+   Pinochle
+
+   (J Q)
+   40
+
+   4
+   300
+
+   30
+
+   In some version of this game, additional melds are permitted.
+     * Three "legs" of pinochle both jacks of diamonds and a queen of
+       spades or a jack of diamonds and both queens of spades is worth
+       150.
+     * An extra king or queen in a run is worth half a trump marriage, 20
+       points. In other versions, it is worth a full marriage, 40 points.
+       Some variants allow both the king and queen to each count as a
+       marriage in this fashion, others do not.
+     * A run with an extra marriage or two extra marriages are
+       occasionally called a "nineteen pounder" and "twenty-three pounder"
+       respectively. This is because their point values add up to 19 and
+       23 (simplified). This term typically isn't used with the
+       traditional point system.^[[78]citation needed]
+
+[[79]edit] Playing tricks
+
+   In playing cards for tricks, there are strict rules of forced play,
+   which limit a player's ability to strategically retain high cards: The
+   high bidder leads the play with the first card, which can be any card
+   in the contract winner's hand, although some rules require the first
+   card led to be a [80]trump card. Then there are two variations of
+   following suit depending if you are playing post-1945 or pre-1945
+   rules.
+
+   Pre-1945 rules: Every player must follow the lead suit if possible.
+   Usually every player must play a winning card against those played so
+   far, if it is possible to do so, even when the current player expects a
+   later player to win the hand with a better card. The only exception is
+   if a player played a trump card when trump was not the suit led. In
+   that case, those following that player may play any card of the lead
+   suit, since they must follow the lead suit but are already losing to
+   the player who played trump. So if a player can play a card in suit,
+   higher than any played so far, the player must do so, even if the
+   player expects to lose to a later played card. Likewise, if a player
+   cannot follow suit, but has trump, they must play trump. Again, if a
+   player does not have any cards of the lead suit and can play a trump
+   card higher than any other trump played so far, the player must do so,
+   even if the player expects that a later player will beat the card. If
+   another trump has already been played that a player cannot beat, then
+   they can play any trump in their hand, but they still must play a trump
+   card if they can. Only when a player has no cards in suit, and has no
+   trump, can the player choose to play any card in their hand.
+
+   Post-1945 rules: Most books today say that unless trump is led you need
+   not try to win the trick. It is only when trump is led that "heading"
+   the trick is mandatory. In pinochle circles and tournaments the
+   post-1945 rules are played about 50% of the time according to Pagat and
+   Hoyle. ^[81][6]
+
+   If two identical cards are played, the first one outranks the second.
+
+   After the first trick, the winner of each trick leads the first card
+   for the next trick, until all the cards are played.
+
+[[82]edit] Scoring tricks
+
+   Points are scored based on the tricks won in the hand. There are
+   several ways to count up the points for play, but they always add up to
+   250 points. The last trick is always worth 10 points. The classic
+   counting system of Pinochle is where aces are worth 11, tens are worth
+   10, kings are worth 4, queens are worth 3, jacks are worth 2, and nines
+   are worth zero. This method takes longer to count the score at the end
+   of each hand. A simpler method is to count aces and tens for 10 points,
+   kings and queens for 5 points, and jacks and nines are worth zero.
+
+   An even simpler method that reduces strategy in trick-taking has aces,
+   tens, and kings worth 10 (and known as "counters"), and everything else
+   zero ("garbage"). Since all points are multiples of ten in the third
+   method, some players drop the redundant zero. Aces, tens, and kings won
+   in tricks are worth one point. The meld scoring can also avoid the zero
+   in the tenth place. Melds like 100 aces are thus worth 10. The terms
+   "100 aces", "80 kings" and so on are often used, even though the point
+   values are one-tenth.
+              Method 1 Method 2 Method 3 Method 4
+   Aces (A)   11       10       10       1
+   Tens (10)  10       10       10       1
+   Kings (K)  4        5        10       1
+   Queens (Q) 3        5        0        0
+   Jacks (J)  2        0        0        0
+   Nines (9)  0        0        0        0
+   Last Trick 10       10       10       1
+
+[[83]edit] Two-handed Pinochle
+
+   Two-handed Pinochle is the original Pinochle game, while partnership,
+   auction, and all other variants are derivatives from it. It is the game
+   most similar to the original [84]Bezique game, whence Pinochle derived.
+   The only significant difference in its rules from [85]Bezique is the
+   scoring.
+
+   The original version of Pinochle involves a partial deal of twelve
+   cards to both players in sets of four, leaving a stock of 24 cards. A
+   player can score one meld after each trick won of the first 12 tricks.
+   Melded cards can even be used to win tricks. After each trick, players
+   draw one card from the stock into their hand starting with the
+   trick-winning player. For the last 12 tricks, melds are taken into each
+   player's hand and are no longer announced by the player who wins the
+   trick. The traditional trick-taking rules apply only for these last 12
+   tricks.
+
+   In variations of two-handed play, no cards are initially dealt, a
+   distinction from all other variations. Instead, the entire deck is
+   placed face-down on the playing surface between the two players to form
+   the widow. One player begins the hand-building process by drawing the
+   top card of the widow. The player can either keep that card for her or
+   his hand or reject the card. If the player chooses to hold the initial
+   card, the player then draws a second card from the widow, then places
+   it face-down, without looking at it, creating a discard pile. If the
+   player rejects the first card, the card becomes the first card in the
+   discard pile. The second card drawn from the widow must be kept,
+   regardless of whether she or he preferred the first card. Players
+   alternate turns in this hand-building process until all cards are
+   chosen.
+
+   With bidding, the player winning the bid declares trump, then lays all
+   meld face-up on the table. The other player shows her or his melds as
+   well. Meld points are tallied, and players return meld cards to their
+   hands. Some varieties accept a "Round house", kings and queens of each
+   suit, and earn a bonus 10 points awarding a total of 250 points.
+
+   Trick-taking commences and continues until all held cards have been
+   played. One variation has no "leading" requirement for the bid winner
+   or subsequent trick winner to lead a specific card, however the rules
+   of "following" are still observed.
+
+   When adding counters, cards from each player's discard pile are
+   included in totals for a total of 240 counters per round, plus one
+   counter for winning the final trick. One variation to make it more
+   difficult for the bid-winning player, the discard pile created by
+   drawing cards is used by the non-bidding player to score towards
+   tricks.
+
+[[86]edit] Three-handed Pinochle
+
+   Each player plays for himself. The dealer deals 15 cards to each player
+   and three cards to the widowa separate pile in the middle.
+
+   All players review their cards and silently count meld, determining
+   their bids. The player to the dealer's left initiates the bidding
+   process. If the player has a meld, he or she is required to open the
+   bidding; otherwise, they may pass or bid. If he or she passes, the
+   obligation to bid passes to the next player, if meld is held. Once a
+   player passes, he or she is out of the auction.
+
+   Bidding begins at 300, or 250 for an easier game, and increases in
+   multiples of 10. The highest bidder wins the auction and turns up the
+   three-card widow for all to see. In some versions, the cards are placed
+   in the bid winner's hand. The bid winner then declares trump, lays down
+   meld and discards three non-point cards. The widow cards are added to
+   their hand and must now discard any three of the 18 cards in their hand
+   and set the discarded cards aside. The winning bidder now names the
+   trump suit and lays any meld face-up on the table to be counted. The
+   other two players also lay meld face-up for count. After the
+   appropriate points have been tallied for all three players, meld is
+   returned to each respective player's hand, and the round is played.
+   During the round, a player must take at least one trick to "save one's
+   meld", even if the trick contains no points; otherwise, no meld points
+   will be counted for that player during that round.
+
+   After all tricks are taken, counters are tallied for each player. The
+   three discards by the highest bidder count toward their counter score
+   for the hand, so there is always a total of 250 points for the trick
+   score among the three players. If the highest bidder fails to make
+   their contract by adding meld points and trick points from the play,
+   then their score is negative the amount of the bid for that hand.
+     * After viewing the widow, the highest bidder may concede the hand
+       and take a negative score for the amount of his bid; however, they
+       still must name trumps and the other two players score their meld.
+       Conceding the hand does save the trick points opponents would score
+       playing their hands, although opponents will not have an
+       opportunity to lose their meld by failing to take a trick.
+
+     * A player may not attempt to play the hand for more than 250 points.
+       For example, if the bid is 350 and a player has only 80 points in
+       meld, that player is forced to concede. If a player is about to
+       win, it may have been worthwhile to play the hand and try to deny
+       that player a trick. Remember, the decision to concede a hand must
+       be made before seeing the opponents' meld.
+
+     * A player forced to take the bid for 300 points may choose to
+       concede without viewing the widow. His score is lowered by 300
+       points, and the opponents score nothing for the hand. This strategy
+       is useful when another player is close to winning.
+
+     * The widow can often salvage a hopeless hand, so it pays to look
+       when nobody is close to winning.
+
+   The game is won when one player reaches 1000 points. It is possible for
+   two or all three players to go over 1000 on the same hand. There are 3
+   methods of resolving ties:
+    1. "Highest Score": If there's a tie, play another hand. This is the
+       least desirable method.
+    2. "Overtime": The game is extended and is now a contest to 1250
+       points. If two players exceed 1250 points on the same hand, the
+       contest lengthens to 1500 points. This rule holds regardless of
+       score fluctuations (players "going minus" - failing to reach their
+       bid amounts - and falling below 1000 points.
+    3. "Bid and Out": If two players exceed 1000 points on the same hand,
+       then the high bidder for that round automatically is declared the
+       winner. If two non-bidders exceed 1000 points on the same hand
+       (extremely rare), then Method #1 or Method #2 would apply. The
+       advantage of this method is that it very interesting when two or
+       all three players are close to 1000 points.
+
+   Renege Any time a player accidentally misplays during the play portion
+   of the hand, it is called a renege. There are various forms of misplay:
+     * playing out of suit
+     * sloughing on a trick when you hold trump in your hand
+     * playing out of turn
+     * failure to discard 3 cards prior to the play portion of the hand -
+       this constitutes a renege if bidder has led to the first trick
+     * purposely exposing any portion of your hand to another player
+       (during the play portion of the game for all players and also
+       during the meld *portion of the hand for nonbidders with the
+       exception of meld cards)
+     * failure to kill
+     * any other action that disrupts the harmony of the game.
+
+   If the bidder reneges, he automatically takes a double set and the
+   amount of his bid is subtracted from his score. The 2-opposing players
+   get to count their meld points and the remainder of the hand is thrown
+   in.
+
+   If either of the 2 nonbidders accidentally misplay, the bidder
+   automatically makes his bid. The bidder gets to score the amount of his
+   bid and his meld, the player that misplayed loses all meld and takes a
+   single set, and the third player scores only his meld.
+
+[[87]edit] Four-handed Pinochle
+
+   Four-handed Pinochle, or partnership Pinochle is played with two teams
+   consisting of two players each. Partners are seated opposite from each
+   other. Each player is dealt 12 cards. The opening bid is typically 150,
+   but can be a higher agreed on value. All four players may bid. Both the
+   bidder and his partner have their score count towards making the
+   contract. High bidder names trump. There typically is no kitty. With a
+   kitty, the four cards are distributed, one to each player, by the bid
+   winner. Each hand must meld separately: If your partner has a spade
+   marriage, you may not put down the diamond jack for a pinochle; you
+   must also have a spade queen. As in the three-handed version, the first
+   player is forced to bid when holding meld. Play is often to 1000 but
+   can increase to 1500 during partnership.
+
+   Optional rules for partnership Pinochle include forcing the dealer to
+   bid 190, or some other agreed amount, if the first 3 players pass
+   initially because they have no meld. In another variation, the winning
+   partnership must, before melding, exchange 3 or 4 cards from each of
+   their hands. This version is usually played to 1500. A player may
+   announce they will "Shoot the Moon", declaring to all the other players
+   that they are going to attempt to capture all the tricks in the current
+   hand. If so, they earn 1,000 points and win the game. If they do not,
+   they subtract 1,000 points from their score. This must be declared just
+   before the tricks are going to be played out. Some versions give the
+   game to a team which successfully 'shoots the moon', others
+   automatically give 250 points for this no matter what the bid was.
+
+[[88]edit] Five-handed and larger Pinochle
+
+   Games with five hands or more typically modify partnership Pinochle in
+   a variety of ways. With an odd number of players, the bidder asks for a
+   desired card to be lead and played by the player who will be their
+   partner for that hand. Everyone else plays against the team. In larger
+   groups, one or more players can sit out each hand allowing the
+   remaining players to follow the appropriate rules for the respective
+   number of players.
+
+[[89]edit] Check Pinochle
+
+   This is a gambling variant of three-hand. It is the same as to 1000,
+   except that you keep track of "checks". If you are playing $1 stakes,
+   each check you gain means that the other 2 players owe you a dollar.
+   The following events cause a gain/loss of checks.
+     * Flush or run +1 check
+     * Aces +1 check
+     * Roundtable +2 checks (marriage in each suit)
+
+          Note that checks for meld can be earned either by the bidder or
+          non-bidder. Checks are kept even if you do not make your bid or
+          "throw it in".
+
+     * Looking at the "talon" and losing the hand (either by conceding or
+       playing) -1 check
+     * Playing the hand and losing -1 additional check (optional)
+     * Not looking at the talon and conceding 300 points. - no gain or
+       loss of checks (happens when forced to bid)
+     * Double marriage (2 marriages in same suit) +1 check (optional)
+     * Double pinochle +1 check (optional)
+     * Double Aces, Double Kings, Double Queens, or Double Jacks +2 checks
+       (optional)
+     * Winning the game +5 checks or +10 checks
+     * 7 nines +5 or +10 checks (optional) (do not need to win the bid to
+       get credit)
+
+[[90]edit] Double-deck Pinochle
+
+   Double-Deck Pinochle is played with 2 Pinochle decks, minus the nines.
+   This makes for an 80 card deck.
+
+   Play is similar to regular Pinochle, except 20 cards are dealt to each
+   person and minimum bid is increased to 500 points. In some variations,
+   bids are made in increments of 10 or more points until 600 is reached,
+   then by 50 points. This version often features "meld bidding", a bid to
+   your partner letting them know what you have in your hand. This can be
+   any numerical bid, and it is advised that you talk to your partner
+   before the game so you have a better understanding of what their bids
+   mean. For instance, a bid of "510" after an opening bid of "500" by the
+   first bidder could signal "aces around" (but ONLY in this specific bid
+   sequence). Alternatively, this could mean that the bidder is asking for
+   meld from their partner (anytime a player bids 10 more than the player
+   before them). A bid raise of 20 or more is to let your partner know
+   what you have in your hand. Remember, it is best for all to talk to
+   your partner before the game begins. You may not use a passing bid of
+   "by me" to signal ten points held. The only communication during
+   bidding should be a numerical number or "pass". Any other way of
+   communicating is called "talking across the table" and is forbidden.
+
+[[91]edit] Racehorse Pinochle
+
+   Note that this use of the term "racehorse" is inconsistent with the
+   commonly understood meaning of the term when applied to Pinochle. As
+   aptly summarized by Dave LeVasseur: "Racehorse means that, after the
+   winning bidder has named trump, that player's partner passes cards
+   across the table"^[92][7]
+
+   Played much as the same as "double deck" but to 6 hands, the point
+   values are inflated.
+
+   Two teams are formed, 20 cards are then dealt to each player and 4
+   cards are dealt to the blind. Bidding commences with the person
+   immediately to the left of the dealer automatically bidding 500. The
+   winner of the bid includes the blind into his hand, calls trump and
+   melds.
+               Around (1 of each suit) Twice Around 4 of a kind
+      Aces     100                     1000         1000
+      Kings    80                      800          800
+     Queens    60                      600          600
+   10's or 9's 0                       0            0
+
+   Note: All Runs, Double, Triple, and Quadruple, Marriages must be in
+   Trump.
+            Not Trump Trump Double Triple Quadruple
+   Marriage 20        40    300    900    the game
+   Pinochle 40        -     300    900    the game
+     Run    -         150   300    900    the game
+
+   The game continues with the standard rules of play. When the play is
+   over each team adds up their points in the count with kings, 10s, and
+   aces worth ten points, while queens and jacks are worth zero. If a team
+   count plus meld does not equal their bid, they "go set". By going set
+   the amount of the bid is subtracted from the teams score and their
+   count is discarded. The other team retains both their meld and their
+   count provided they took at least 10 points in the count.
+
+[[93]edit] Double-deck Pinochle for eight players
+
+   Two full decks are dealt between eight players, forming four teams.
+   Team members are spaced so that they are not able to see any other
+   hands. The game is usually played to a score of 5,000 or higher. Other
+   than this, the four player rules apply, and any variations may also be
+   used. There is an increased possibility that when one team declares
+   trump another team may have an equal number of trump also, which may
+   lead to an interesting game. An optional scoring rule rewards 1,000
+   points for a quadruple pinochle--four jacks of diamonds and four queens
+   of spades in a meld.
+
+[[94]edit] References
+
+    1. [95]^ [96]French wiktionary entry for "binocle"
+    2. [97]^ Deborah Doyle (edited). Hoyle's Official Rules of Card Games.
+       Redwood: Dingley. 2000. Page 420.
+    3. ^ [98]^a [99]^b [100]John Scarne. Scarne on Cards. Signet: New
+       York. 1965. Pages 310-311.
+    4. [101]^ Rensselaer County Historical Society. Online Exhibitions:
+       "Gr Gott" in Rensselaer County: The Twentieth Century. [102]17
+       October [103]2002. Downloaded [104]12 February [105]2007.[106][1]
+    5. ^ [107]^a [108]^b Joli Kansil. Bicycle Official Rules of Card
+       Games. 90th Edition. Cincinnati: US Playing Card Company. 2004.
+       Page 208.
+    6. [109]^ [110]Card Games
+    7. [111]^ [112]Pinochle Rules, Six Card Racehorse
+
+[[113]edit] External links
+
+     * [114]National Pinochle Association Web site
+
+   Retrieved from "[115]http://en.wikipedia.org/wiki/Pinochle"
+   [116]Categories: [117]Trick-taking card games | [118]Anglo-American
+   playing card games | [119]Ace-ten card games
+   Hidden categories: [120]All articles with unsourced statements |
+   [121]Articles with unsourced statements since April 2008 | [122]All
+   articles that may contain original research | [123]Articles that may
+   contain original research since April 2008 | [124]Articles with
+   unsourced statements since December 2008
+
+Views
+
+     * [125]Article
+     * [126]Discussion
+     * [127]Edit this page
+     * [128]History
+
+Personal tools
+
+     * [129]Log in / create account
+
+Navigation
+
+     * [130]Main page
+     * [131]Contents
+     * [132]Featured content
+     * [133]Current events
+     * [134]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [135]About Wikipedia
+     * [136]Community portal
+     * [137]Recent changes
+     * [138]Contact Wikipedia
+     * [139]Donate to Wikipedia
+     * [140]Help
+
+Toolbox
+
+     * [141]What links here
+     * [142]Related changes
+     * [143]Upload file
+     * [144]Special pages
+     * [145]Printable version
+     * [146]Permanent link
+     * [147]Cite this page
+
+Languages
+
+     * [148]Deutsch
+     * [149]Lietuvi
+     *
+     * [150]Svenska
+     * [151]Trke
+
+   [152]Powered by MediaWiki
+   [153]Wikimedia Foundation
+     * This page was last modified on 24 February 2009, at 18:31.
+     * All text is available under the terms of the [154]GNU Free
+       Documentation License. (See [155]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [156]Wikimedia
+       Foundation, Inc., a U.S. registered [157]501(c)(3)
+       [158]tax-deductible [159]nonprofit [160]charity.
+     * [161]Privacy policy
+     * [162]About Wikipedia
+     * [163]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Pinochle&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double_Deck_Pinochle&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#searchInput
+   9. file://localhost/wiki/Card_game
+  10. file://localhost/wiki/Trick-taking_game
+  11. file://localhost/wiki/Wikipedia:Citation_needed
+  12. file://localhost/wiki/Wikipedia:No_original_research
+  13. file://localhost/wiki/Playing_card#Anglo-American
+  14. file://localhost/wiki/Sixty-six_(game)
+  15. file://localhost/wiki/Bezique
+  16. file://localhost/wiki/Marjapussi
+  17. file://localhost/wiki/Skat_(card_game)
+  18. file://localhost/wiki/Strategy
+  19. file://localhost/wiki/Social_interaction
+  20. file://localhost/wiki/Teamwork
+  21. file://localhost/wiki/Trick-taking_game
+  22. file://localhost/wiki/Bezique
+  23. file://localhost/wiki/Meld_(cards)
+  24. file://localhost/wiki/Belote
+  25. file://localhost/wiki/Oklahoma
+  26. file://localhost/wiki/Texas
+  27. file://localhost/wiki/Thumb_wrestling
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#History
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#The_Deck
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Dealing
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#The_auction
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Passing_cards
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Melding
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Playing_tricks
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Scoring_tricks
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Two-handed_Pinochle
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Three-handed_Pinochle
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Four-handed_Pinochle
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Five-handed_and_larger_Pinochle
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Check_Pinochle
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Double-deck_Pinochle
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Racehorse_Pinochle
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#Double-deck_Pinochle_for_eight_players
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#References
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#External_links
+  46. file://localhost/w/index.php?title=Pinochle&action=edit&section=1
+  47. file://localhost/wiki/Bezique
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-0
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-1
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-scarne1965-2
+  51. file://localhost/wiki/Skat_(card_game)
+  52. file://localhost/wiki/Whist
+  53. file://localhost/wiki/Contract_bridge
+  54. file://localhost/wiki/Hearts_(card_game)
+  55. file://localhost/wiki/Spades_(card_game)
+  56. file://localhost/wiki/Whist
+  57. file://localhost/wiki/World_War_I
+  58. file://localhost/wiki/Syracuse,_New_York
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-3
+  60. file://localhost/w/index.php?title=Pinochle&action=edit&section=2
+  61. file://localhost/wiki/Jack_(playing_card)
+  62. file://localhost/wiki/Queen_(playing_card)
+  63. file://localhost/wiki/King_(playing_card)
+  64. file://localhost/wiki/Ace
+  65. file://localhost/wiki/Suit_(cards)
+  66. file://localhost/wiki/Piquet
+  67. file://localhost/wiki/Euchre
+  68. file://localhost/wiki/United_States
+  69. file://localhost/w/index.php?title=Pinochle&action=edit&section=3
+  70. file://localhost/wiki/Shuffle
+  71. file://localhost/w/index.php?title=Pinochle&action=edit&section=4
+  72. file://localhost/wiki/Trump
+  73. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-bicycle2004-4
+  74. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-scarne1965-2
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-bicycle2004-4
+  76. file://localhost/w/index.php?title=Pinochle&action=edit&section=5
+  77. file://localhost/w/index.php?title=Pinochle&action=edit&section=6
+  78. file://localhost/wiki/Wikipedia:Citation_needed
+  79. file://localhost/w/index.php?title=Pinochle&action=edit&section=7
+  80. file://localhost/wiki/Trump_(card_game)
+  81. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-pagat.com-5
+  82. file://localhost/w/index.php?title=Pinochle&action=edit&section=8
+  83. file://localhost/w/index.php?title=Pinochle&action=edit&section=9
+  84. file://localhost/wiki/Bezique
+  85. file://localhost/wiki/Bezique
+  86. file://localhost/w/index.php?title=Pinochle&action=edit&section=10
+  87. file://localhost/w/index.php?title=Pinochle&action=edit&section=11
+  88. file://localhost/w/index.php?title=Pinochle&action=edit&section=12
+  89. file://localhost/w/index.php?title=Pinochle&action=edit&section=13
+  90. file://localhost/w/index.php?title=Pinochle&action=edit&section=14
+  91. file://localhost/w/index.php?title=Pinochle&action=edit&section=15
+  92. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_note-6
+  93. file://localhost/w/index.php?title=Pinochle&action=edit&section=16
+  94. file://localhost/w/index.php?title=Pinochle&action=edit&section=17
+  95. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-0
+  96. http://en.wiktionary.org/wiki/fr:binocle
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-1
+  98. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-scarne1965_2-0
+  99. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-scarne1965_2-1
+ 100. file://localhost/wiki/John_Scarne
+ 101. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-3
+ 102. file://localhost/wiki/October_17
+ 103. file://localhost/wiki/2002
+ 104. file://localhost/wiki/February_12
+ 105. file://localhost/wiki/2007
+ 106. http://www.rchsonline.org/grus_20th.htm
+ 107. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-bicycle2004_4-0
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-bicycle2004_4-1
+ 109. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-pagat.com_5-0
+ 110. http://www.pagat.com/
+ 111. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc268.tmp.html#cite_ref-6
+ 112. http://davelevasseur.com/pinochle.htm
+ 113. file://localhost/w/index.php?title=Pinochle&action=edit&section=18
+ 114. http://npapinochle.org/
+ 115. http://en.wikipedia.org/wiki/Pinochle
+ 116. file://localhost/wiki/Special:Categories
+ 117. file://localhost/wiki/Category:Trick-taking_card_games
+ 118. file://localhost/wiki/Category:Anglo-American_playing_card_games
+ 119. file://localhost/wiki/Category:Ace-ten_card_games
+ 120. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 121. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_April_2008
+ 122. file://localhost/wiki/Category:All_articles_that_may_contain_original_research
+ 123. file://localhost/wiki/Category:Articles_that_may_contain_original_research_since_April_2008
+ 124. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_December_2008
+ 125. file://localhost/wiki/Pinochle
+ 126. file://localhost/wiki/Talk:Pinochle
+ 127. file://localhost/w/index.php?title=Pinochle&action=edit
+ 128. file://localhost/w/index.php?title=Pinochle&action=history
+ 129. file://localhost/w/index.php?title=Special:UserLogin&returnto=Pinochle
+ 130. file://localhost/wiki/Main_Page
+ 131. file://localhost/wiki/Portal:Contents
+ 132. file://localhost/wiki/Portal:Featured_content
+ 133. file://localhost/wiki/Portal:Current_events
+ 134. file://localhost/wiki/Special:Random
+ 135. file://localhost/wiki/Wikipedia:About
+ 136. file://localhost/wiki/Wikipedia:Community_portal
+ 137. file://localhost/wiki/Special:RecentChanges
+ 138. file://localhost/wiki/Wikipedia:Contact_us
+ 139. http://wikimediafoundation.org/wiki/Donate
+ 140. file://localhost/wiki/Help:Contents
+ 141. file://localhost/wiki/Special:WhatLinksHere/Pinochle
+ 142. file://localhost/wiki/Special:RecentChangesLinked/Pinochle
+ 143. file://localhost/wiki/Wikipedia:Upload
+ 144. file://localhost/wiki/Special:SpecialPages
+ 145. file://localhost/w/index.php?title=Pinochle&printable=yes
+ 146. file://localhost/w/index.php?title=Pinochle&oldid=273008327
+ 147. file://localhost/w/index.php?title=Special:Cite&page=Pinochle&id=273008327
+ 148. http://de.wikipedia.org/wiki/Binokel
+ 149. http://lt.wikipedia.org/wiki/Binoklis_(kort%C5%B3_%C5%BEaidimas)
+ 150. http://sv.wikipedia.org/wiki/Lista_%C3%B6ver_kortspel#P
+ 151. http://tr.wikipedia.org/wiki/Pinochle
+ 152. http://www.mediawiki.org/
+ 153. http://wikimediafoundation.org/
+ 154. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 155. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 156. http://www.wikimediafoundation.org/
+ 157. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 158. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 159. http://en.wikipedia.org/wiki/Non-profit_organization
+ 160. http://en.wikipedia.org/wiki/Charitable_organization
+ 161. http://wikimediafoundation.org/wiki/Privacy_policy
+ 162. file://localhost/wiki/Wikipedia:About
+ 163. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 164. file://localhost/wiki/File:Pinochle_meld.jpg
+ 165. file://localhost/wiki/Main_Page
+ 166. http://ja.wikipedia.org/wiki/%E3%83%94%E3%83%8E%E3%82%AF%E3%83%AB

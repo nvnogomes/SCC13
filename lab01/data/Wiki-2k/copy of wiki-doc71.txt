@@ -1,0 +1,305 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Do! Run Run
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+                                  Do! Run Run
+[8]Developer(s)  [9]Universal
+[10]Publisher(s) [11]Taito
+[12]Platform(s)  [13]Arcade
+Release date(s)  [14]1984
+[15]Genre(s)     [16]Maze / [17]Platform
+Mode(s)          Up to 2 players, alternating turns
+Input methods    [18]Joystick
+Cabinet          Upright
+Arcade system    Main CPU: [19]Z80 (@ 3.9 MHz), (2x) Z80 (@4 MHz)
+Display          [20]Raster resolution 240 x 192 (Horizontal) Palette Colors 256
+
+   Do! Run Run (1984, also known as Super Pierrot in Japan) is the 4th and
+   final incarnation of [21]Mr. Do!, the [22]Universal video game mascot.
+   Returning to his Mr. Do! roots, the clown has a bouncing powerball with
+   which to hurl at monsters. What makes this game novel is that instead
+   of burrowing through the ground to get at cherries, Mr. Do runs along
+   the playfield picking up dots, and leaving a line behind him, which the
+   player is encouraged to create closed off sections with, which turn any
+   dots left behind into cherries. Gone are the giant apples to crush
+   foes, but the multi-tier stage design has two precariously balanced log
+   traps, which roll downslope if either pushed from above or closely
+   approached from the propped up stick side. The resulting game is
+   somewhat of a cross between Mr. Do!, [23]Congo Bongo, [24]Pac-Man, and
+   [25]Qix. The title is a reference to the song [26]Da Doo Ron Ron.
+
+Contents
+
+     * [27]1 Goal
+     * [28]2 Monsters
+     * [29]3 Strategy
+     * [30]4 Free games
+     * [31]5 Ports
+     * [32]6 References
+
+[[33]edit] Goal
+
+   The goal of Do! Run Run is to rack up points while completing screens.
+   A screen is completed whenever all the fruits/dots are eaten, or when
+   all of the regular monsters (not Alpha-monsters or their sidekicks) are
+   defeated. Using the rope that follows Mr. Do to inscribe dots will
+   convert them into cherries, a familiar fruit for Mr. Do to collect.
+   Cherries are worth more points than dots, and eating them restores the
+   powerball more quickly than eating dots would. Each time Mr. Do
+   inscribes fruit, they progress to a higher tier, dots become cherries,
+   cherries become apples, apples become lemons and lemons become
+   pineapples. Eating a dot awards 10 points and 1/16th of a powerball
+   recharge; eating a pineapple is worth 160 points and 1/4th of a
+   powerball recharge.
+
+   Players are additionally encouraged to inscribe sections of the
+   playfield by the letters E, X, T, R, A, a constant feature of Mr. Do!
+   games. Randomly, one of the inscribed fruits will turn into a flashing
+   letter spot, corresponding with the movement of the Alpha-monster at
+   the top of the screen. If Mr. Do! runs over this spot, the monster
+   sporting that letter will release from the top of the screen with three
+   blue henchmen, and chase after Mr. Do. Defeating the Alpha-monster will
+   lock in that letter, and once all 5 letters are earned, the player
+   earns an extra life (as well as progressing to the next stage, you also
+   earn a 5,000 point bonus).
+
+   Points are also awarded for defeating monsters. Directly firing the
+   powerball at a monster awards 500 points and consumes the powerball,
+   which needs to be replenished by eating fruit. More points are earned
+   if the powerball bounces off of a surface; each bounce raises the bonus
+   by 500 points until a maximum of 3000 points are earned. Smashing
+   monsters with a rolling log earns 1000 points; it is possible to roll
+   over multiple monsters and earn a cumulative bonus of 500 per extra
+   monster (so, 1500 for the 2nd, 2000 for the 3rd, etc.). Apparently
+   there is a 10,000 point bonus for smashing 5 monsters.
+
+[[34]edit] Monsters
+
+   Like other Mr. Do! games, the monsters are nameless (except
+   Alpha-monsters) and defy easy description. Two types of monsters
+   attempt to foil the clown's efforts, a green clam-like monster, and a
+   blue snake-like monster. Neither are particularly sophisticated,
+   although the clam monsters have some seemingly clever moments where
+   they bumble into your path or out of the way of the powerball. The blue
+   snakes will, if you linger too long on a direct path from them, convert
+   into a fireball and charge across the playing field. As is common with
+   arcade games, contact with monsters is instantly fatal, with Mr. Do
+   shown to be electrocuted, complete with visible flashing skeleton.
+
+   After some time on each stage elapses, the music changes and any
+   surviving monsters convert into a different form; the clam monsters
+   become blue and armored with spines, the snake monsters essentially
+   become different looking snake monsters. The speed of each monster, and
+   the willingness to chase Mr. Do, are about the only other major
+   changes; they can be fairly easily eluded so long as the player does
+   not simply run away from them. Instead, Mr. Do should climb up or down
+   the terrain if too closely chased; monsters lose a lot of time changing
+   levels on the playfield whereas Mr. Do gets a slight speed up for going
+   downslope. After a short duration, the music resumes, and the monsters
+   transform back into their old selves, with the pattern of
+   transformation repeating.
+
+   Alpha-monsters, when they are summoned by the letter circle, are
+   released with three henchmen. The henchmen home in on Mr. Do! and
+   typically precede the alpha-monster. Killing the Alpha-monster rids the
+   playfield of the henchmen, although it is easier to lure all four into
+   the path of a log and smash them. Alpha-monsters are also released
+   every time the score reaches increments of 5,000 points unless there is
+   already an alpha-monster on the playfield.
+
+[[35]edit] Strategy
+
+   Do! Run Run is a fairly simple game; points can easily be earned simply
+   by running around the playing field and inscribing as many fruit as
+   possible four times, thus turning them all into melons. Once this is
+   done, the player can dispatch monsters in the most profitable manner
+   possible, or simply wipe out all but one, evading the surviving monster
+   until the Alpha-monster displayed is a letter the player wants, then
+   picking up fruits until the score reaches an increment of 10,000.
+   Delaying too long will mean that the surviving monster becomes
+   inescapably fast, however, so sometimes it is better to move on to the
+   next round rather than risking being killed.
+
+[[36]edit] Free games
+
+   While this can be configured by the ROM to not occur, infrequently, a
+   bonus diamond worth 10,000 points will show up in the same manner as
+   the letter circles when fruit are inscribed. If the player collects
+   this, the stage ends and they are awarded a bonus credit. This feature
+   was also in the original version of Mr. Do.
+
+[[37]edit] Ports
+
+   The game has been ported to [38]MSX in 1987 and to [39]Commodore Amiga
+   and [40]Atari ST in 1990.
+
+[[41]edit] References
+
+     * [42]Do! Run Run at the [43]Killer List of Videogames
+     * [44]Entry at arcade-history.com
+
+   [45]v  [46]d  [47]e
+   Mr. Do [48]video games
+   [49]Mr. Do!  [50]Mr. Do's Castle  [51]Mr. Do's Wild Ride  Do! Run Run
+   Retrieved from "[52]http://en.wikipedia.org/wiki/Do!_Run_Run"
+   [53]Categories: [54]1984 video games | [55]Arcade games | [56]MSX games
+   | [57]Amiga games | [58]Atari ST games
+
+Views
+
+     * [59]Article
+     * [60]Discussion
+     * [61]Edit this page
+     * [62]History
+
+Personal tools
+
+     * [63]Log in / create account
+
+Navigation
+
+     * [64]Main page
+     * [65]Contents
+     * [66]Featured content
+     * [67]Current events
+     * [68]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [69]About Wikipedia
+     * [70]Community portal
+     * [71]Recent changes
+     * [72]Contact Wikipedia
+     * [73]Donate to Wikipedia
+     * [74]Help
+
+Toolbox
+
+     * [75]What links here
+     * [76]Related changes
+     * [77]Upload file
+     * [78]Special pages
+     * [79]Printable version
+     * [80]Permanent link
+     * [81]Cite this page
+
+   [82]Powered by MediaWiki
+   [83]Wikimedia Foundation
+     * This page was last modified on 21 February 2009, at 15:39.
+     * All text is available under the terms of the [84]GNU Free
+       Documentation License. (See [85]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [86]Wikimedia
+       Foundation, Inc., a U.S. registered [87]501(c)(3)
+       [88]tax-deductible [89]nonprofit [90]charity.
+     * [91]Privacy policy
+     * [92]About Wikipedia
+     * [93]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Do!_Run_Run&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#searchInput
+   8. file://localhost/wiki/Video_game_developer
+   9. file://localhost/wiki/Universal_(game_company)
+  10. file://localhost/wiki/Video_game_publisher
+  11. file://localhost/wiki/Taito_Corporation
+  12. file://localhost/wiki/Computing_platform
+  13. file://localhost/wiki/Arcade_game
+  14. file://localhost/wiki/1984_in_video_gaming
+  15. file://localhost/wiki/Video_game_genres
+  16. file://localhost/wiki/List_of_maze_video_games
+  17. file://localhost/wiki/Platform_game
+  18. file://localhost/wiki/Joystick
+  19. file://localhost/wiki/Z80
+  20. file://localhost/wiki/Raster_graphics
+  21. file://localhost/wiki/Mr._Do!
+  22. file://localhost/wiki/Universal_(game_company)
+  23. file://localhost/wiki/Congo_Bongo
+  24. file://localhost/wiki/Pac-Man
+  25. file://localhost/wiki/Qix
+  26. file://localhost/wiki/Da_Doo_Ron_Ron
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#Goal
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#Monsters
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#Strategy
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#Free_games
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#Ports
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc71.tmp.html#References
+  33. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=1
+  34. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=2
+  35. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=3
+  36. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=4
+  37. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=5
+  38. file://localhost/wiki/MSX
+  39. file://localhost/wiki/Commodore_Amiga
+  40. file://localhost/wiki/Atari_ST
+  41. file://localhost/w/index.php?title=Do!_Run_Run&action=edit&section=6
+  42. http://www.klov.com/game_detail.php?game_id=7596
+  43. file://localhost/wiki/Killer_List_of_Videogames
+  44. http://www.arcade-history.com/index.php?page=detail&id=649
+  45. file://localhost/wiki/Template:Mr._Do
+  46. file://localhost/w/index.php?title=Template_talk:Mr._Do&action=edit&redlink=1
+  47. http://en.wikipedia.org/w/index.php?title=Template:Mr._Do&action=edit
+  48. file://localhost/wiki/Video_game
+  49. file://localhost/wiki/Mr._Do!
+  50. file://localhost/wiki/Mr._Do%27s_Castle
+  51. file://localhost/wiki/Mr._Do%27s_Wild_Ride
+  52. http://en.wikipedia.org/wiki/Do!_Run_Run
+  53. file://localhost/wiki/Special:Categories
+  54. file://localhost/wiki/Category:1984_video_games
+  55. file://localhost/wiki/Category:Arcade_games
+  56. file://localhost/wiki/Category:MSX_games
+  57. file://localhost/wiki/Category:Amiga_games
+  58. file://localhost/wiki/Category:Atari_ST_games
+  59. file://localhost/wiki/Do!_Run_Run
+  60. file://localhost/wiki/Talk:Do!_Run_Run
+  61. file://localhost/w/index.php?title=Do!_Run_Run&action=edit
+  62. file://localhost/w/index.php?title=Do!_Run_Run&action=history
+  63. file://localhost/w/index.php?title=Special:UserLogin&returnto=Do!_Run_Run
+  64. file://localhost/wiki/Main_Page
+  65. file://localhost/wiki/Portal:Contents
+  66. file://localhost/wiki/Portal:Featured_content
+  67. file://localhost/wiki/Portal:Current_events
+  68. file://localhost/wiki/Special:Random
+  69. file://localhost/wiki/Wikipedia:About
+  70. file://localhost/wiki/Wikipedia:Community_portal
+  71. file://localhost/wiki/Special:RecentChanges
+  72. file://localhost/wiki/Wikipedia:Contact_us
+  73. http://wikimediafoundation.org/wiki/Donate
+  74. file://localhost/wiki/Help:Contents
+  75. file://localhost/wiki/Special:WhatLinksHere/Do!_Run_Run
+  76. file://localhost/wiki/Special:RecentChangesLinked/Do!_Run_Run
+  77. file://localhost/wiki/Wikipedia:Upload
+  78. file://localhost/wiki/Special:SpecialPages
+  79. file://localhost/w/index.php?title=Do!_Run_Run&printable=yes
+  80. file://localhost/w/index.php?title=Do!_Run_Run&oldid=272278664
+  81. file://localhost/w/index.php?title=Special:Cite&page=Do!_Run_Run&id=272278664
+  82. http://www.mediawiki.org/
+  83. http://wikimediafoundation.org/
+  84. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  85. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  86. http://www.wikimediafoundation.org/
+  87. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  88. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  89. http://en.wikipedia.org/wiki/Non-profit_organization
+  90. http://en.wikipedia.org/wiki/Charitable_organization
+  91. http://wikimediafoundation.org/wiki/Privacy_policy
+  92. file://localhost/wiki/Wikipedia:About
+  93. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  94. file://localhost/wiki/File:Dorunrun.png
+  95. file://localhost/wiki/Main_Page

@@ -1,0 +1,392 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dominion Land Survey
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   This article or section is missing [8]citations or needs [9]footnotes.
+   Using [10]inline citations helps guard against copyright violations and
+   factual inaccuracies. (February 2009)
+
+   The Dominion Land Survey (DLS) is the method used to divide most of
+   [11]Western Canada into one-square-mile sections for agricultural and
+   other purposes. It is based on the layout of the [12]Public Land Survey
+   System used in the [13]United States, but has several differences. The
+   DLS is the dominant [14]survey method in the Prairie provinces, and it
+   is also used in [15]British Columbia along the Railway Belt (near the
+   main line of the [16]Canadian Pacific Railway), and in the Peace River
+   Block in the northeast of the province. These regions were surveyed
+   using the DLS with the consent of the British Columbian government,
+   since unlike the Prairie provinces and Northwest Territories B.C.
+   controlled its own public lands upon entering Confederation.
+
+   The survey was begun [17]July 10, [18]1871, shortly after [19]Manitoba
+   and the [20]Northwest Territories became part of Canada. Covering about
+   800,000 square kilometres (309,000 sq mi), the survey system and its
+   terminology are deeply ingrained in the rural culture of the Prairies.
+
+   The most important northsouth lines of the survey are the meridians:
+     * The First (or Principal) Meridian at 972728.41 west, just west of
+       [21]Winnipeg, Manitoba.
+     * The Second Meridian at 102 west, which forms the northern part of
+       the [22]Manitoba[23]Saskatchewan boundary.
+     * The Third Meridian at 106 west, near [24]Moose Jaw and [25]Prince
+       Albert, Saskatchewan.
+     * The Fourth Meridian at 110 west, which forms the
+       Saskatchewan[26]Alberta boundary and bisects [27]Lloydminster.
+     * The Fifth Meridian at 114 west, which runs through [28]Calgary,
+       Alberta (Barlow Trail is built mostly on the meridian) and
+       [29]Stony Plain, Alberta (48th Street).
+     * The Sixth Meridian at 118 west, near [30]Grande Prairie, Alberta
+       and [31]Revelstoke, British Columbia.
+     * The Seventh Meridian at 122 west, between [32]Hope and
+       [33]Vancouver, British Columbia.
+
+   The Meridians were determined by painstaking survey observations and
+   measurements, and in reference to other benchmarks on the continent,
+   but were determined using 19th century technology. The only truly
+   accurate benchmarks at that time were near the prime meridian in
+   Europe. Benchmarks in other parts of the world had to be estimated by
+   the positions of the sun and stars. Consequently, although they were
+   remarkably accurate for the time, today they are known to be several
+   hundred metres in error. Before the survey was even completed it was
+   established that for the purposes of laws based on the survey, the
+   results of the physical survey would take precedence over the
+   theoretically correct position of the meridians. This precludes, for
+   example any basis for a [34]boundary dispute between Alberta and
+   Saskatchewan on account of surveying errors.
+
+   The main eastwest lines are the base lines. The First Base Line is at
+   [35]49 north, which forms much of the CanadaUnited States border in the
+   West. Each subsequent base line is slightly more than 24 miles (about
+   39 km) to the north of the previous one.
+
+   Starting at each intersection of a meridian and a base line and working
+   west (also working east of the First Meridian), nearly square
+   [36]townships are surveyed, which are about six miles (9.8 km) in both
+   northsouth and eastwest extent. There are two tiers of townships to the
+   north and two tiers to the south of each base line.
+
+   Because the east and west edges of townships (range lines) are
+   meridians of [37]longitude, they converge towards the [38]North Pole.
+   Therefore, the north edge of every township is slightly shorter than
+   the south. Only along the base lines do townships have their nominal
+   width from east to west. The two townships to the north of a base line
+   gradually narrow as one moves north, and the two to the south gradually
+   widen as one moves south. Halfway between two base lines,
+   wider-than-nominal townships abut narrower-than-nominal townships. The
+   east and west boundaries of these townships therefore do not align, and
+   northsouth roads that follow the survey system have to jog to the east
+   or west. These eastwest lines halfway between base lines are called
+   correction lines.
+
+   Townships are designated by their township number and range number.
+   Township 1 is the first north of the First Base Line, and the numbers
+   increase to the north. Range numbers recommence with Range 1 at each
+   meridian and increase to the west (east of First Meridian they are
+   numbered eastward). On maps, township numbers are marked in [39]Arabic
+   numerals, but range numbers are often marked in [40]Roman numerals;
+   however, in other contexts Arabic numerals are used for both.
+   Individual townships are designated such as "Township 52, Range 25 west
+   of the Fourth Meridian," abbreviated "52-25-W4." In Manitoba, the First
+   Meridian is the only one used, so the abbreviations are even more
+   terse, e.g., "3-1-W" and "24-2-E."
+
+   [41]Image:Dominion-land-system-overview.png
+   A part of the Dominion Land Survey (convergence of meridians
+   exaggerated). The shaded township is Township 17, Range 8 west of the
+   Third Meridian.
+
+   Every township is divided into thirty-six sections, each about one-mile
+   (1.6 km) square. Sections are numbered within townships as follows
+   (north at top):
+31 32 33 34 35 36
+30 29 28 27 26 25
+19 20 21 22 23 24
+18 17 16 15 14 13
+ 7  8  9 10 11 12
+ 6  5  4  3  2  1
+
+   In turn, each section is divided into four quarter sections: southeast,
+   southwest, northwest and northeast. This quarter-section description is
+   primarily used by the agricultural industry. The full legal description
+   of a particular quarter section is "the Northeast Quarter of Section
+   20, Township 52, Range 25 west of the Fourth Meridian", abbreviated
+   "NE-20-52-25-W4." A section may also be split into as many as 16 legal
+   subdivisions (LSDs). LSDs are commonly used by the oil and gas industry
+   as a precise way of locating wells, pipelines, and facilities. LSDs can
+   be "quarter-quarter sections" (square land parcels roughly 1/4 mile on
+   a side, comprising roughly 40 [42]acres or 16,200 m in area) - but this
+   is not necessary. Many are other fractions of a section (a half-quarter
+   section - roughly 80 [43]acres or 32,300 m in area is common.) LSDs may
+   be square, rectangular, and occasionally even triangular. LSDs are
+   numbered as follows (north at top):
+13 14 15 16
+12 11 10  9
+ 5  6  7  8
+ 4  3  2  1
+
+   In order to fully understand how the townships, sections, 1/4 sections,
+   and legal subdivisions were set out, one should refer to the "Manual of
+   Instructions for the Survey of Dominion Lands" available for free from
+   Natural Resources Canada Centre for Cadastral Management.
+
+   Occasionally, resource companies assign further divisions within LSDs
+   such as "A, B, C, D etc." for example, to distinguish between multiple
+   sites within an LSD. These in no way constitute an official change to
+   the Dominion land Survey system, but nonetheless often appear as part
+   of the legal description.
+
+   Between certain sections of a township run road allowances (but not all
+   road allowances have had an actual road built on them). The road
+   allowances add to the size of the township (they do not cut down the
+   size of the sections): this is the reason base lines are not exactly
+   24 miles (39 km) apart. In townships surveyed from 1871 to 1880 (most
+   of southern Manitoba, part of southeastern Saskatchewan and a small
+   region near Prince Albert, Saskatchewan), there are 1.5-[44]chain-wide
+   (30.2 m) road allowances surrounding every section. In townships
+   surveyed from 1881 to the present, road allowances are reduced both in
+   width and in number. They are one chain wide (20.12 m) and run
+   northsouth between all sections; however, there are only three eastwest
+   road allowances in each township, on the north side of sections 7 to
+   12, 19 to 24 and 31 to 36. This results in a road allowance every mile
+   going east-west, and a road allowance every two miles going
+   north-south. This arrangement reduced land allocation for roads, but
+   still provides road-access to every quarter-section.
+   [45]Image:Dominion-land-survey-township.png
+
+   Certain sections of townships were reserved for special purposes:
+     * As part of the deal that transferred [46]Rupert's Land from the
+       [47]Hudson's Bay Company to Canada, the HBC retained five per cent
+       of the "fertile belt" (south of the [48]North Saskatchewan and
+       [49]Winnipeg rivers). Therefore Section 8 and three-quarters of
+       Section 26 were assigned to the company. Additionally, the fourth
+       quarter of Section 26 in townships whose numbers were divisible by
+       five also belonged to the HBC in order to give the company exactly
+       five per cent. Although the HBC sold all these sections long ago,
+       they are still often locally called "the Bay section" today.
+     * The odd-numbered sections (except 11 and 29) were often used for
+       [50]railway land-grants. The Prairies could not be settled without
+       railways, so the Dominion government habitually granted large
+       tracts of land to railway companies as an incentive to build lines.
+       Notably, the Canadian Pacific Railway was granted 25,000,000 acres
+       (100,000 km^2) for the construction of its first line from Ontario
+       to the Pacific. These sections are colloquially called CPR sections
+       regardless of the railway they were originally granted to.
+     * Sections 11 and 29 were school sections. When [51]school boards
+       were formed, they gained title to these sections, which were then
+       sold to fund the initial construction of schools. The rural school
+       buildings were often as not located on school sections; frequently,
+       land trades were made between landowners and the school for
+       practical reasons.
+     * The remaining quarter sections were available as homesteads under
+       the provisions of the [52]Dominion Lands Act, the federal
+       government's plan for settling the North-West. A homesteader paid a
+       $10 fee for a quarter section of his choice. If after three years
+       he had cultivated 30 acres (12 ha) and had built a house (often
+       just a [53]sod house), he gained title to the quarter. Homesteads
+       were available as late as the 1950s, but the bulk of the settlement
+       of the Prairies was 1885 to 1914.
+
+   Legal surveys conducted before and after the Dominion Land Survey grid
+   was laid out often have their own legal descriptions and delineations.
+   Early settlement lots still retain their own original legal
+   descriptions, but often have townships superimposed over them for the
+   sake of convenience or for certain tasks. Urban developments
+   superimpose new survey lots and plans over the older section and
+   township grid also.
+
+[[54]edit] See also
+
+     * [55]Alberta Township System
+     * [56]Concession road
+     * [57]Section (United States land surveying)
+
+[[58]edit] References
+
+   McKercher, Robert B and Bertram Wolf (1986). Understanding Western
+   Canada's Dominion Land Survey System. Saskatoon: Division of Extension
+   and Community Relations, University of Saskatchewan.
+
+   Oliver, J. (2007) The paradox of progress: land survey and the making
+   of agrarian society in colonial British Columbia. In L. McAtackney, M.
+   Palus and A. Piccini (eds.) Contemporary and Historical Archaeology in
+   Theory, pp. 31-38. Oxford: BAR, International Series, S1677.
+
+   Taylor, W.A. (1975) Crown Lands: A History of Survey Systems. Victoria:
+   Crown Land Registry Services, Ministry of Environment and Planning.
+
+   Thomson, D.W. (1966 & 1967) Men and Meridians: The History of Surveying
+   and Mapping in Canada, 2 vols. Ottawa: Department of Energy, Mines and
+   Resources.
+   Retrieved from "[59]http://en.wikipedia.org/wiki/Dominion_Land_Survey"
+   [60]Categories: [61]Geography of Canada | [62]Land surveying systems |
+   [63]Real estate | [64]Surveying | [65]Economic history of Canada
+   Hidden categories: [66]Articles with unsourced statements since
+   February 2009 | [67]All articles with unsourced statements
+
+Views
+
+     * [68]Article
+     * [69]Discussion
+     * [70]Edit this page
+     * [71]History
+
+Personal tools
+
+     * [72]Log in / create account
+
+Navigation
+
+     * [73]Main page
+     * [74]Contents
+     * [75]Featured content
+     * [76]Current events
+     * [77]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [78]About Wikipedia
+     * [79]Community portal
+     * [80]Recent changes
+     * [81]Contact Wikipedia
+     * [82]Donate to Wikipedia
+     * [83]Help
+
+Toolbox
+
+     * [84]What links here
+     * [85]Related changes
+     * [86]Upload file
+     * [87]Special pages
+     * [88]Printable version
+     * [89]Permanent link
+     * [90]Cite this page
+
+   [91]Powered by MediaWiki
+   [92]Wikimedia Foundation
+     * This page was last modified on 7 February 2009, at 03:12.
+     * All text is available under the terms of the [93]GNU Free
+       Documentation License. (See [94]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [95]Wikimedia
+       Foundation, Inc., a U.S. registered [96]501(c)(3)
+       [97]tax-deductible [98]nonprofit [99]charity.
+     * [100]Privacy policy
+     * [101]About Wikipedia
+     * [102]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dominion_Land_Survey&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc144.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc144.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:Citing_sources
+   9. file://localhost/wiki/Wikipedia:Footnotes
+  10. file://localhost/wiki/Wikipedia:Inline_citations
+  11. file://localhost/wiki/Western_Canada
+  12. file://localhost/wiki/Public_Land_Survey_System
+  13. file://localhost/wiki/United_States
+  14. file://localhost/wiki/Surveying
+  15. file://localhost/wiki/British_Columbia
+  16. file://localhost/wiki/Canadian_Pacific_Railway
+  17. file://localhost/wiki/July_10
+  18. file://localhost/wiki/1871
+  19. file://localhost/wiki/Manitoba
+  20. file://localhost/wiki/Northwest_Territories
+  21. file://localhost/wiki/Winnipeg,_Manitoba
+  22. file://localhost/wiki/Manitoba
+  23. file://localhost/wiki/Saskatchewan
+  24. file://localhost/wiki/Moose_Jaw,_Saskatchewan
+  25. file://localhost/wiki/Prince_Albert,_Saskatchewan
+  26. file://localhost/wiki/Alberta
+  27. file://localhost/wiki/Lloydminster
+  28. file://localhost/wiki/Calgary,_Alberta
+  29. file://localhost/wiki/Stony_Plain,_Alberta
+  30. file://localhost/wiki/Grande_Prairie,_Alberta
+  31. file://localhost/wiki/Revelstoke,_British_Columbia
+  32. file://localhost/wiki/Hope,_British_Columbia
+  33. file://localhost/wiki/Vancouver,_British_Columbia
+  34. file://localhost/wiki/Border_dispute
+  35. file://localhost/wiki/49th_parallel
+  36. file://localhost/wiki/Township_(Canada)
+  37. file://localhost/wiki/Longitude
+  38. file://localhost/wiki/North_Pole
+  39. file://localhost/wiki/Arabic_numeral
+  40. file://localhost/wiki/Roman_numeral
+  41. file://localhost/wiki/File:Dominion-land-system-overview.png
+  42. file://localhost/wiki/Acres
+  43. file://localhost/wiki/Acres
+  44. file://localhost/wiki/Chain_(unit)
+  45. file://localhost/wiki/File:Dominion-land-survey-township.png
+  46. file://localhost/wiki/Rupert%27s_Land
+  47. file://localhost/wiki/Hudson%27s_Bay_Company
+  48. file://localhost/wiki/North_Saskatchewan_River
+  49. file://localhost/wiki/Winnipeg_River
+  50. file://localhost/wiki/Railway
+  51. file://localhost/wiki/School_board
+  52. file://localhost/wiki/Dominion_Lands_Act
+  53. file://localhost/wiki/Sod_house
+  54. file://localhost/w/index.php?title=Dominion_Land_Survey&action=edit&section=1
+  55. file://localhost/wiki/Alberta_Township_System
+  56. file://localhost/wiki/Concession_road
+  57. file://localhost/wiki/Section_(United_States_land_surveying)
+  58. file://localhost/w/index.php?title=Dominion_Land_Survey&action=edit&section=2
+  59. http://en.wikipedia.org/wiki/Dominion_Land_Survey
+  60. file://localhost/wiki/Special:Categories
+  61. file://localhost/wiki/Category:Geography_of_Canada
+  62. file://localhost/wiki/Category:Land_surveying_systems
+  63. file://localhost/wiki/Category:Real_estate
+  64. file://localhost/wiki/Category:Surveying
+  65. file://localhost/wiki/Category:Economic_history_of_Canada
+  66. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2009
+  67. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+  68. file://localhost/wiki/Dominion_Land_Survey
+  69. file://localhost/wiki/Talk:Dominion_Land_Survey
+  70. file://localhost/w/index.php?title=Dominion_Land_Survey&action=edit
+  71. file://localhost/w/index.php?title=Dominion_Land_Survey&action=history
+  72. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dominion_Land_Survey
+  73. file://localhost/wiki/Main_Page
+  74. file://localhost/wiki/Portal:Contents
+  75. file://localhost/wiki/Portal:Featured_content
+  76. file://localhost/wiki/Portal:Current_events
+  77. file://localhost/wiki/Special:Random
+  78. file://localhost/wiki/Wikipedia:About
+  79. file://localhost/wiki/Wikipedia:Community_portal
+  80. file://localhost/wiki/Special:RecentChanges
+  81. file://localhost/wiki/Wikipedia:Contact_us
+  82. http://wikimediafoundation.org/wiki/Donate
+  83. file://localhost/wiki/Help:Contents
+  84. file://localhost/wiki/Special:WhatLinksHere/Dominion_Land_Survey
+  85. file://localhost/wiki/Special:RecentChangesLinked/Dominion_Land_Survey
+  86. file://localhost/wiki/Wikipedia:Upload
+  87. file://localhost/wiki/Special:SpecialPages
+  88. file://localhost/w/index.php?title=Dominion_Land_Survey&printable=yes
+  89. file://localhost/w/index.php?title=Dominion_Land_Survey&oldid=269057257
+  90. file://localhost/w/index.php?title=Special:Cite&page=Dominion_Land_Survey&id=269057257
+  91. http://www.mediawiki.org/
+  92. http://wikimediafoundation.org/
+  93. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  94. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  95. http://www.wikimediafoundation.org/
+  96. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  97. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  98. http://en.wikipedia.org/wiki/Non-profit_organization
+  99. http://en.wikipedia.org/wiki/Charitable_organization
+ 100. http://wikimediafoundation.org/wiki/Privacy_policy
+ 101. file://localhost/wiki/Wikipedia:About
+ 102. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 103. file://localhost/wiki/File:Ambox_content.png
+ 104. file://localhost/wiki/Main_Page

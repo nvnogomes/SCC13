@@ -17,6 +17,7 @@ private:
   std::vector<std::string> list_directory();
   void merge_cycle(std::vector<std::string>);
   void cleanup_directory(std::vector<std::string>);
+  void merge(void *file);
 
 public:
   Aggregator();

@@ -1,0 +1,1747 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Elo rating system
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]ELO rating system)
+   Jump to: [7]navigation, [8]search
+   This article may need to be rewritten entirely to comply with
+   Wikipedia's [9]quality standards, as it is written in an unencyclopedic
+   style (especially towards the end). [10]You can help. The
+   [11]discussion page may contain suggestions. (February 2009)
+   [12]Chess
+   [13]Go
+
+   The Elo rating system is a method for calculating the relative skill
+   levels of players in two-player games such as [14]chess and [15]Go. It
+   is named after its creator [16]Arpad Elo (19031992, born as l rpd), a
+   [17]Hungarian-born [18]American [19]physics professor.
+
+   The Elo system was invented as an improved chess rating system, but
+   today it is also used in many other games. It is also used as a rating
+   system for multiplayer competition in a number of [20]computer games,
+   and has been adapted to team sports including [21]association football,
+   American college football and basketball, and [22]Major League
+   Baseball.
+
+Contents
+
+     * [23]1 History
+          + [24]1.1 Implementing Elo's scheme
+     * [25]2 Different ratings systems
+          + [26]2.1 FIDE ratings
+               o [27]2.1.1 Performance rating
+               o [28]2.1.2 FIDE tournament categories
+          + [29]2.2 Live ratings
+          + [30]2.3 United States Chess Federation ratings
+          + [31]2.4 Ratings of computers
+     * [32]3 Theory
+          + [33]3.1 Mathematical details
+          + [34]3.2 Mathematical issues
+               o [35]3.2.1 Most accurate distribution model
+               o [36]3.2.2 Most accurate K-factor
+          + [37]3.3 Practical issues
+               o [38]3.3.1 Game activity versus protecting one's rating
+               o [39]3.3.2 Chess engines
+               o [40]3.3.3 Selective pairing
+          + [41]3.4 Ratings inflation and deflation
+               o [42]3.4.1 Example
+               o [43]3.4.2 Practical approaches
+          + [44]3.5 Exponential variant
+               o [45]3.5.1 Single player rpg's
+     * [46]4 Other chess rating systems
+     * [47]5 Elo ratings in other games
+     * [48]6 Notes
+     * [49]7 References
+     * [50]8 External links
+
+[[51]edit] History
+
+   This section does not [52]cite any [53]references or sources.
+   Please help [54]improve this section by adding citations to
+   [55]reliable sources. [56]Unverifiable material may be challenged and
+   removed. (March 2007)
+
+   Arpad Elo was a master-level chess player and an active participant in
+   the [57]United States Chess Federation (USCF) from its founding in
+   1939.^[58][1] The USCF used a numerical ratings system, devised by
+   [59]Kenneth Harkness, to allow members to track their individual
+   progress in terms other than tournament wins and losses. The Harkness
+   system was reasonably fair, but in some circumstances gave rise to
+   ratings which many observers considered inaccurate. On behalf of the
+   USCF, Elo devised a new system with a more [60]statistical basis.
+
+   Elo's system replaced earlier systems of competitive rewards with a
+   system based on statistical estimation. Rating systems for many sports
+   award points in accordance with subjective evaluations of the
+   'greatness' of certain achievements. For example, winning an important
+   [61]golf tournament might be worth an arbitrarily chosen five times as
+   many points as winning a lesser tournament.
+
+   A statistical endeavor, by contrast, uses a model that relates the game
+   results to underlying variables representing the ability of each
+   player.
+
+   Elo's central assumption was that the chess performance of each player
+   in each game is a [62]normally distributed [63]random variable.
+   Although a player might perform significantly better or worse from one
+   game to the next, Elo assumed that the mean value of the performances
+   of any given player changes only slowly over time. Elo thought of a
+   player's true skill as the mean of that player's performance random
+   variable.
+
+   A further assumption is necessary, because chess performance in the
+   above sense is still not measurable. One cannot look at a sequence of
+   moves and say, "That performance is 2039." Performance can only be
+   inferred from wins, draws and losses. Therefore, if a player wins a
+   game, he is assumed to have performed at a higher level than his
+   opponent for that game. Conversely if he loses, he is assumed to have
+   performed at a lower level. If the game is a draw, the two players are
+   assumed to have performed at nearly the same level.
+
+   Elo did not specify exactly how close two performances ought to be to
+   result in a draw as opposed to a win or loss. And while he thought it
+   likely that each player might have a different [64]standard deviation
+   to his performance, he made a simplifying assumption to the contrary.
+
+   To simplify computation even further, Elo proposed a straightforward
+   method of estimating the variables in his model (i.e., the true skill
+   of each player). One could calculate relatively easily, from tables,
+   how many games a player is expected to win based on a comparison of his
+   rating to the ratings of his opponents. If a player won more games than
+   he was expected to win, his rating would be adjusted upward, while if
+   he won fewer games than expected his rating would be adjusted downward.
+   Moreover, that adjustment was to be in exact linear proportion to the
+   number of wins by which the player had exceeded or fallen short of his
+   expected number of wins.
+
+   From a modern perspective, Elo's simplifying assumptions are not
+   necessary because computing power is inexpensive and widely available.
+   Moreover, even within the simplified model, more efficient estimation
+   techniques are well known. Several people, most notably [65]Mark
+   Glickman, have proposed using more sophisticated statistical machinery
+   to estimate the same variables. On the other hand, the computational
+   simplicity of the Elo system has proven to be one of its greatest
+   assets. With the aid of a pocket calculator, an informed chess
+   competitor can calculate to within one point what his next officially
+   published rating will be, which helps promote a perception that the
+   ratings are fair.
+
+[[66]edit] Implementing Elo's scheme
+
+   The USCF implemented Elo's suggestions in 1960,^[67][2] and the system
+   quickly gained recognition as being both fairer and more accurate than
+   the Harkness system. Elo's system was adopted by [68]FIDE in 1970. Elo
+   described his work in some detail in the book The Rating of
+   Chessplayers, Past and Present, published in 1978.
+
+   Subsequent statistical tests have shown that chess performance is
+   almost certainly not normally distributed. Weaker players have
+   significantly greater winning chances than Elo's model predicts.
+   Therefore, both the USCF and FIDE have switched to formulas based on
+   the [69]logistic distribution. However, in deference to Elo's
+   contribution, both organizations are still commonly said to use "the
+   Elo system".
+
+[[70]edit] Different ratings systems
+
+   The phrase "Elo rating" is often used to mean a player's chess rating
+   as calculated by FIDE. However, this usage is confusing and often
+   misleading, because Elo's general ideas have been adopted by many
+   different organizations, including the USCF (before FIDE), the
+   [71]Internet Chess Club (ICC), [72]Yahoo! Games, and the now defunct
+   [73]Professional Chess Association (PCA). Each organization has a
+   unique implementation, and none of them precisely follows Elo's
+   original suggestions. It would be more accurate to refer to all of the
+   above ratings as Elo ratings, and none of them as the Elo rating.
+
+   Instead one may refer to the organization granting the rating, e.g. "As
+   of August 2002, [74]Gregory Kaidanov had a FIDE rating of 2638 and a
+   USCF rating of 2742." It should be noted that the Elo ratings of these
+   various organizations are not always directly comparable. For example,
+   someone with a FIDE rating of 2500 will generally have a USCF rating
+   near 2600 and an ICC rating in the range of 2500 to 3100.
+
+[[75]edit] FIDE ratings
+
+   For top players, the most important rating is their [76]FIDE rating.
+   [77]FIDE issues a ratings list four times a year.
+
+   The following analysis of the January 2006 FIDE rating list gives a
+   rough impression of what a given FIDE rating means:
+     * 17171 players have a rating between 2200 and 2399, and are usually
+       associated with the [78]Candidate Master title.
+     * 1868 players have a rating between 2400 and 2499, most of whom have
+       either the [79]IM or the [80]GM title.
+     * 563 players have a rating between 2500 and 2599, most of whom have
+       the [81]GM title
+     * 123 players have a rating between 2600 and 2699, all (but one) of
+       whom have the [82]GM title
+     * 18 players have a rating between 2700 and 2799
+     * Only 4 players ([83]Garry Kasparov, [84]Vladimir Kramnik,
+       [85]Veselin Topalov and [86]Viswanathan Anand) have ever exceeded a
+       rating of 2800, and only Topalov does in the latest (January 2009)
+       list.
+
+   The highest ever FIDE rating was 2851, which Garry Kasparov had on the
+   July 1999 and January 2000 lists.
+
+   In the whole history of FIDE rating system, only 48 players (to October
+   2007), sometimes called [87]"Super-grandmasters", have achieved a peak
+   rating of 2700 or more.
+
+[[88]edit] Performance rating
+
+   Performance Rating is a hypothetical rating that would result from the
+   games of a single event only. Some chess organizations use the
+   "algorithm of 400" to calculate performance rating. According to this
+   algorithm, performance rating for an event is calculated by taking (1)
+   the rating of each player beaten and adding 400, (2) the rating of each
+   player lost to and subtracting 400, (3) the rating of each player
+   drawn, and (4) summing these figures and dividing by the number of
+   games played.
+
+   [89]FIDE, however, calculates performance rating by means of the
+   formula: Opponents' Rating Average + Rating Difference. Rating
+   Difference d[p] is based on a player's tournament percentage score p,
+   which is then used as the key in a lookup table. p is simply the number
+   of points scored devided by the number of games played. Note that, in
+   case of a perfect or no score d[p] is indeterminate. The full table can
+   be found in the [90]FIDE handbook online. A simplified version of this
+   table looks like this:
+    p   d[p]
+   0.99 +677
+   0.9  +366
+   0.8  +240
+   0.7  +149
+   0.6  +72
+   0.5  0
+   0.4  -72
+   0.3  -149
+   0.2  -240
+   0.1  -366
+   0.01 -677
+
+[[91]edit] FIDE tournament categories
+
+   [92]FIDE classifies tournaments into categories according to the
+   average rating of the players. Each category is 25 rating points wide.
+   Category 1 is for an average rating of 2251 to 2275, category 2 is 2276
+   to 2300, etc.^[93][3] The highest rated tournaments have been Category
+   21, with an average from 2751 to 2775. The top categories are as
+   follows:
+   Category                 Meaning
+   15       Average rating is in range 2601 to 2625
+   16       Average rating is in range 2626 to 2650
+   17       Average rating is in range 2651 to 2675
+   18       Average rating is in range 2676 to 2700
+   19       Average rating is in range 2701 to 2725
+   20       Average rating is in range 2726 to 2750
+   21       Average rating is in range 2751 to 2775
+
+[[94]edit] Live ratings
+
+   [95]FIDE updates its ratings list every three months. In contrast, the
+   unofficial "Live ratings" calculate the change in players' ratings
+   after every game. These Live ratings are based on the previously
+   published FIDE ratings, so a player's Live rating is intended to
+   correspond to what the FIDE rating would be if FIDE was to issue a new
+   list that day.
+
+   Although Live ratings are unofficial, interest arose in Live ratings in
+   August/September 2008 when five different players took the "Live" #1
+   ranking.^[96][4]
+
+   The unofficial live ratings are published and maintained by Hans Arild
+   Runde at [97]http://chess.liverating.org . Only players over 2700 are
+   covered.
+
+[[98]edit] United States Chess Federation ratings
+
+   The [99]United States Chess Federation (USCF) uses its own
+   classification of players: ^[100][5]
+     * 2400 and above: Senior Master
+     * 22002399: Master
+     * 20002199: Expert
+     * 18001999: Class A
+     * 16001799: Class B
+     * 14001599: Class C
+     * 12001399: Class D
+     * 10001199: Class E
+
+   In general, 1000 is considered a bright beginner. A regular competitive
+   chess player might be rated at approximately 1750.^[[101]citation
+   needed]
+
+   The K factor, in the USCF rating system, can be estimated by dividing
+   800 by the effective number of games a player's rating is based on (Ne)
+   plus the number of games the player completed in a tournament
+   (m).^[102][6]
+
+          K = 800 / (Ne + m)\,
+
+[[103]edit] Ratings of computers
+
+   Since 20052006, [104]human-computer chess matches have demonstrated
+   that [105]chess computers are stronger than the strongest human
+   players. However ratings of computers are difficult to quantify. There
+   have been too few games under tournament conditions to give computers
+   or software engines an accurate rating.^[106][7] Also, for [107]chess
+   engines, the rating is dependent on the machine a program runs on.
+
+   For some ratings estimates, see [108]Chess Engines rating lists.
+
+[[109]edit] Theory
+
+[[110]edit] Mathematical details
+
+   Performance can't be measured absolutely; it can only be inferred from
+   wins and losses. Ratings therefore have meaning only relative to other
+   ratings. Therefore, both the average and the spread of ratings can be
+   arbitrarily chosen. Elo suggested scaling ratings so that a difference
+   of 200 rating points in chess would mean that the stronger player has
+   an expected score of approximately 0.75, and the USCF initially aimed
+   for an average club player to have a rating of 1500.
+
+   A player's expected score is his probability of winning plus half his
+   probability of drawing. Thus an expected score of 0.75 could represent
+   a 75% chance of winning, 25% chance of losing, and 0% chance of
+   drawing. On the other extreme it could represent a 50% chance of
+   winning, 0% chance of losing, and 50% chance of drawing. The
+   probability of drawing, as opposed to having a decisive result, is not
+   specified in the Elo system. Instead a draw is considered half a win
+   and half a loss.
+
+   If Player A has true strength R[A] and Player B has true strength R[B],
+   the exact formula (using the [111]logistic curve) for the expected
+   score of Player A is
+
+          E_A = \frac 1 {1 + 10^{(R_B - R_A)/400}}.
+
+   Similarly the expected score for Player B is
+
+          E_B = \frac 1 {1 + 10^{(R_A - R_B)/400}}.
+
+   This could also be expressed by
+
+          E_A = \frac{Q_A}{Q_A + Q_B}
+
+   and
+
+          E_B = \frac{Q_B}{Q_A + Q_B}
+
+   where Q_A = 10^{R_A/400} and Q_B = 10^{R_B/400} . Note that the same
+   denominator applies to both expressions. This means that by studying
+   only the numerators, we find out that player A has about Q[A] / Q[B]
+   times greater chance of winning as player B. It then follows that for
+   each 400 rating points of advantage over the opponent, the chance of
+   winning is magnified ten times in comparsion to the opponent's chance
+   of winning.
+
+   Also note that E[A] + E[B] = 1. In practice, since the true strength of
+   each player is unknown, the expected scores are calculated using the
+   player's current ratings.
+
+   When a player's actual tournament scores exceed his expected scores,
+   the Elo system takes this as evidence that player's rating is too low,
+   and needs to be adjusted upward. Similarly when a player's actual
+   tournament scores fall short of his expected scores, that player's
+   rating is adjusted downward. Elo's original suggestion, which is still
+   widely used, was a simple linear adjustment proportional to the amount
+   by which a player overperformed or underperformed his expected score.
+   The maximum possible adjustment per game (sometimes called the
+   [112]K-value) was set at K = 16 for masters and K = 32 for weaker
+   players.
+
+   Supposing Player A was expected to score E[A] points but actually
+   scored S[A] points. The formula for updating his rating is
+
+          R_A^\prime = R_A + K(S_A - E_A).
+
+   This update can be performed after each game or each tournament, or
+   after any suitable rating period. An example may help clarify. Suppose
+   Player A has a rating of 1613, and plays in a five-round tournament. He
+   loses to a player rated 1609, draws with a player rated 1477, defeats a
+   player rated 1388, defeats a player rated 1586, and loses to a player
+   rated 1720. His actual score is (0 + 0.5 + 1 + 1 + 0) = 2.5. His
+   expected score, calculated according to the formula above, was (0.506 +
+   0.686 + 0.785 + 0.539 + 0.351) = 2.867. Therefore his new rating is
+   (1613 + 32 (2.5 2.867)) = 1601.
+
+   Note that while two wins, two losses, and one draw may seem like a par
+   score, it is worse than expected for Player A because his opponents
+   were lower rated on average. Therefore he is slightly penalized. If he
+   had scored two wins, one loss, and two draws, for a total score of
+   three points, that would have been slightly better than expected, and
+   his new rating would have been (1613 + 32 (3 2.867)) = 1617.
+
+   This updating procedure is at the core of the ratings used by FIDE,
+   USCF, Yahoo! Games, the ICC, and FICS. However, each organization has
+   taken a different route to deal with the uncertainty inherent in the
+   ratings, particularly the ratings of newcomers, and to deal with the
+   problem of ratings inflation/deflation. New players are assigned
+   provisional ratings, which are adjusted more drastically than
+   established ratings, and various methods (none completely successful)
+   have been devised to inject points into the rating system so that
+   ratings from different eras are roughly comparable.
+
+   The principles used in these rating systems can be used for rating
+   other competitionsfor instance, international [113]football matches.
+
+   Elo ratings have also been applied to games without the possibility of
+   [114]draws, and to games in which the result can also have a quantity
+   (small/big margin) in addition to the quality (win/loss). See [115]go
+   rating with Elo for more.
+
+   See also: [116]Hubbert curve for the similarity between the derivative
+   of the [117]logistic curve and the [118]normal distribution.
+
+[[119]edit] Mathematical issues
+
+   There are three main mathematical concerns relating to the original
+   work of Professor Elo, namely the correct curve, the correct K-factor,
+   and the provisional period crude calculations.
+
+[[120]edit] Most accurate distribution model
+
+   The first major mathematical concern addressed by both FIDE and the
+   USCF was the use of the [121]normal distribution. They found that this
+   did not accurately represent the actual results achieved by
+   particularly the lower rated players. Instead they switched to a
+   [122]logistical distribution model, which seemed to provide a better
+   fit for the actual results achieved.
+
+[[123]edit] Most accurate K-factor
+
+   The second major concern is the correct "K-factor" used. The chess
+   statistician [124]Jeff Sonas reckons that the original K=10 value (for
+   players rated above 2400) is inaccurate in Elo's work. If the K-factor
+   coefficient is set too large, there will be too much sensitivity to
+   winning, losing or drawing, in terms of the large number of points
+   exchanged. Too low a K-value, and the sensitivity will be minimal, and
+   it would be hard to achieve a significant number of points for winning,
+   etc.
+
+   Elo's original K-factor estimation, was based without the benefit of
+   huge databases and statistical evidence. Sonas indicates that a
+   K-factor of 24 (for players rated above 2400) may be more accurate both
+   as a predictive tool of future performance, and also more sensitive to
+   performance.^[125][8]
+
+   Certain Internet chess sites seem to avoid a three-level K-factor
+   staggering based on rating range. For example the ICC seems to adopt a
+   global K=32 except when playing against provisionally rated players.
+   The USCF (which makes use of a logistic distribution as opposed to a
+   normal distribution) have staggered the K-factor according to three
+   main rating ranges of:
+     * Players below 2100 -> K factor of 32 used
+     * Players between 2100 and 2400 -> K factor of 24 used
+     * Players above 2400 -> K factor of 16 used
+
+   FIDE uses the following ranges^[126][9]:
+     * K = 25 for a player new to the rating list until he has completed
+       events with a total of at least 30 games.
+     * K = 15 as long as a player's rating remains under 2400.
+     * K = 10 once a player's published rating has reached 2400, and he
+       has also completed events with a total of at least 30 games.
+       Thereafter it remains permanently at 10.
+
+   In over-the-board chess, the staggering of K-factor is important to
+   ensure minimal inflation at the top end of the rating spectrum. This
+   assumption might in theory apply equally to an online chess server, as
+   well as a standard over-the-board chess organisation such as FIDE or
+   USCF. In theory, it would make it harder for players to get the much
+   higher ratings, if their K-factor sensitivity was lessened from 32 to
+   16 for example, when they get over 2400 rating. However, the ICC's help
+   on K-factors indicates^[127][10] that it may simply be the choosing of
+   opponents that enables 2800+ players to further increase their rating
+   quite easily. This would seem to hold true, for example, if one
+   analysed the games of a GM on the ICC: one can find a string of games
+   of opponents who are all over 3100. In over-the-board chess, it would
+   only be in very high level all-play-all events that this player would
+   be able to find a steady stream of 2700+ opponents in at least a
+   category 15+ FIDE event. A category 10 FIDE event would mean players
+   are restricted in rating between 2476 to 2500. However, if the player
+   entered normal Swiss-paired open over-the-board chess tournaments, he
+   would likely meet many opponents less than 2500 FIDE on a regular
+   basis. A single loss or draw against a player rated less than 2500
+   would knock the GM's FIDE rating down significantly.
+
+   Even if the K-factor was 16, and the player defeated a 3100+ player
+   several games in a row, his rating would still rise quite significantly
+   in a short period of time, due to the speed of blitz games, and hence
+   the ability to play many games within a few days. The K-factor would
+   arguably only slow down the increases that the player achieves after
+   each win. The evidence given in the ICC K-factor article relates to the
+   auto-pairing system, where the maximum ratings achieved are seen to be
+   only about 2500. So it seems that random-pairing as opposed to
+   selective pairing is the key for combatting rating inflation at the top
+   end of the rating spectrum, and possibly only to a much lesser extent,
+   a slightly lower K-factor for a player >2400 rating.
+
+[[128]edit] Practical issues
+
+[[129]edit] Game activity versus protecting one's rating
+
+   This section has multiple issues. Please help [130]improve the article
+   or discuss these issues on the [131]talk page.
+     * It does not cite any [132]references or sources. Please help
+       improve it by citing [133]reliable sources. Tagged since March
+       2008.
+     * It may contain [134]original research or [135]unverifiable claims.
+       Tagged since March 2008.
+     * Its [136]neutrality or factuality may be compromised by [137]weasel
+       words. Tagged since March 2008.
+
+   In general the Elo system has increased the competitive climate for
+   chess and inspired players for further study and improvement of their
+   game.^[[138]citation needed] However, in some cases ratings can
+   discourage game activity for players who wish to "protect their
+   rating".
+
+   Examples:
+    1. They may choose their events or opponents more carefully where
+       possible.
+    2. If a player is in a [139]Swiss tournament, and loses a couple of
+       games in a row, they may feel the need to abandon the tournament in
+       order to avoid any further rating "damage".
+    3. Junior players, who may have high provisional ratings, and who
+       should really be practicing as much as possible,^[[140]citation
+       needed] might play less than they would, because of rating
+       concerns.
+
+   In these examples, the rating "agenda" can sometimes conflict with the
+   agenda of promoting chess activity and rated games. ^[141][11]
+
+   Some of the clash of agendas between game activity, and rating concerns
+   is also seen on many servers online which have implemented the Elo
+   system. For example, the higher rated players, being much more
+   selective in who they play, results often in those players lurking
+   around, just waiting for "overvalued" opponents to try to challenge.
+   Such players may feel discouraged of course from playing any
+   significantly lower rated players again for rating concerns. And so,
+   this is one possible anti-activity/anti-social aspect of the Elo rating
+   system which needs to be understood. The agenda of points scoring can
+   interfere with playing with abandon, and just for fun.^[[142]citation
+   needed]
+
+   Interesting from the perspective of preserving high Elo ratings versus
+   promoting rated game activity is a recent proposal by British
+   Grandmaster [143]John Nunn regarding qualifiers based on Elo rating for
+   a World championship model.^[144][12] Nunn highlights in the section on
+   "Selection of players", that players not only be selected by high Elo
+   ratings, but also their rated game activity. Nunn clearly separates the
+   "activity bonus" from the Elo rating, and only implies using it as a
+   tie-breaking mechanism.
+
+   The Elo system when applied to casual online servers has at least two
+   other major practical issues that need tackling when Elo is applied to
+   the context of online chess server ratings. These are engine abuse and
+   selective pairing.^[[145]citation needed]
+
+[[146]edit] Chess engines
+
+   The first and most significant issue is players making use of
+   [147]chess engines to inflate their ratings. This is particularly an
+   issue for [148]correspondence chess style servers and organizations,
+   where making use of a wide variety of engines within the same game is
+   entirely possible. This would make any attempts to conclusively prove
+   that someone is cheating quite futile. [149]Blitz servers such as the
+   [150]Free Internet Chess Server or the [151]Internet Chess Club attempt
+   to minimize engine bias by clear indications that engine use is not
+   allowed when logging on to their server.
+
+[[152]edit] Selective pairing
+
+   A more subtle issue is related to pairing. When players can choose
+   their own opponents, they can choose opponents with minimal risk of
+   losing, and maximum reward for winning. Such a luxury of being able to
+   hand-pick your opponents is not present in Over-the-Board Elo type
+   calculations, and therefore this may account strongly for the ratings
+   on the ICC using Elo which are well over 2800.
+
+   Particular examples of 2800+ rated players choosing opponents with
+   minimal risk and maximum possibility of rating gain include: choosing
+   computers that they know they can beat with a certain strategy;
+   choosing opponents that they think are over-rated; or avoiding playing
+   strong players who are rated several hundred points below them, but may
+   hold chess titles such as IM or GM. In the category of choosing
+   over-rated opponents, new-entrants to the rating system who have played
+   less than 50 games are in theory a convenient target as they may be
+   overrated in their provisional rating. The ICC compensates for this
+   issue by assigning a lower K-factor to the established player if they
+   do win against a new rating entrant. The K-factor is actually a
+   function of the number of rated games played by the new entrant.
+
+   Elo therefore must be treated as a bit of fun when applied in the
+   context of online server ratings. Indeed the ability to choose one's
+   own opponents can have great fun value also for spectators watching the
+   very highest rated players. For example they can watch very strong GM's
+   challenge other very strong GMs who are also rated over 3100. Such
+   opposition, which the highest level players online would play in order
+   to maintain their rating, would often be much stronger opponents than
+   if they did play in an Open tournament which is run by Swiss pairings.
+   Additionally it does help ensure that the game histories of those with
+   very high ratings will often be with opponents of similarly high level
+   ratings.
+
+   Therefore, Elo ratings online still provide a useful mechanism for
+   providing a rating based on the opponent's rating. Its overall
+   credibility, however, needs to be seen in the context of at least the
+   above two major issues described engine abuse, and selective pairing of
+   opponents.
+
+   The ICC has also recently introduced "auto-pairing" ratings which are
+   based on random pairings, but with each win in a row ensuring a
+   statistically much harder opponent who has also won x games in a row.
+   With potentially hundreds of players involved, this creates some of the
+   challenges of a major large Swiss event which is being fiercely
+   contested, with round winners meeting round winners. This approach to
+   pairing certainly maximizes the rating risk of the higher-rated
+   participants, who may face very stiff opposition from players below
+   3000 for example. This is a separate rating in itself, and is under
+   "1-minute" and "5-minute" rating categories. Maximum ratings achieved
+   over 2500 are exceptionally rare.
+
+[[153]edit] Ratings inflation and deflation
+
+   This section does not [154]cite any [155]references or sources.
+   Please help [156]improve this section by adding citations to
+   [157]reliable sources. [158]Unverifiable material may be challenged and
+   removed. (August 2007)
+   This section is written like [159]a personal reflection or essay and
+   may require [160]cleanup. Please [161]help improve it by rewriting it
+   in an [162]encyclopedic style. (March 2008)
+
+   The primary goal of Elo ratings is to accurately predict game results
+   between contemporary competitors, and FIDE ratings perform this task
+   relatively well. A secondary, more ambitious goal is to use ratings to
+   compare players between different eras. (See also [163]Greatest chess
+   player of all time.) It would be convenient if a FIDE rating of 2500
+   meant the same thing in 2005 that it meant in 1975. If the ratings
+   suffer from inflation, then a modern rating of 2500 means less than a
+   historical rating of 2500, while if the ratings suffer from deflation,
+   the reverse will be true. Unfortunately, even among people who would
+   like ratings from different eras to "mean the same thing", intuitions
+   differ sharply as to whether a given rating should represent a fixed
+   absolute skill or a fixed relative performance.
+
+   Those who believe in absolute skill (including FIDE^[164][13]) would
+   prefer modern ratings to be higher on average than historical ratings,
+   if grandmasters nowadays are in fact playing better chess. By this
+   standard, the rating system is functioning perfectly if a modern
+   2500-rated player and a 2500-rated player of another era would have
+   equal chances of winning, were it possible for them to play. The advent
+   of strong chess computers allows a somewhat objective evaluation of the
+   absolute playing skill of past chess masters, based on their recorded
+   games.
+
+   Those who believe in relative performance would prefer the median
+   rating (or some other benchmark rank) of all eras to be the same. By
+   one relative performance standard, the rating system is functioning
+   perfectly if a player in the twentieth percentile of world rankings has
+   the same rating as a player in the twentieth percentile used to have.
+   Ratings should indicate approximately where a player stands in the
+   chess hierarchy of his own era.
+
+   The average FIDE rating of top players has been steadily climbing for
+   the past twenty years, which is inflation (and therefore undesirable)
+   from the perspective of relative performance. However, it is at least
+   plausible that FIDE ratings are not inflating in terms of absolute
+   skill. Perhaps modern players are better than their predecessors due to
+   a greater knowledge of openings and due to computer-assisted tactical
+   training.
+
+   In any event, both camps can agree that it would be undesirable for the
+   average rating of players to decline at all, or to rise faster than can
+   be reasonably attributed to generally increasing skill. Both camps
+   would call the former deflation and the latter inflation. Not only do
+   rapid inflation and deflation make comparison between different eras
+   impossible, they tend to introduce inaccuracies between more-active and
+   less-active contemporaries.
+
+   The most straightforward attempt to avoid rating inflation/deflation is
+   to have each game end in an equal transaction of rating points. If the
+   winner gains N rating points, the loser should drop by N rating points.
+   The intent is to keep the average rating constant, by preventing points
+   from entering or leaving the system.
+
+   Unfortunately, this simple approach typically results in rating
+   deflation, as the USCF was quick to discover.
+
+   A common misconception is that rating points enter the system every
+   time a previously unrated player gets an initial rating and that
+   likewise rating points leave the system every time someone retires from
+   play. Players generally believe that since most players are
+   significantly better at the end of their careers than at the beginning,
+   that as they tend to take more points away from the system than they
+   brought in, the system deflates as a result. This is a fallacy and is
+   easily shown. If a system is deflated, players will have strengths
+   higher than their ratings. But if they take points out of the system
+   EQUAL TO their strength when they leave the system, no inflation or
+   deflation will result.
+
+   Rather, in the "basic form" of the Elo system, the cause of deflation
+   is the fact that players improve. The cause of inflation is that their
+   strength relative to their rating will tend to decline over time with
+   age. Since most players improve early in their career, the system tends
+   to deflate at that time. Inflation doesn't occur until much later in a
+   player's career. Many players will quit before this natural process
+   occurs, which would return points to the system. The net result over
+   time is deflation.
+
+[[165]edit] Example
+
+   Both of these misconceptions can be shown incorrect via the following
+   example:
+
+   Let's consider the following example, which is a little contrived to
+   make it simple. However, the principles remain the same in other pools
+   irrespective of the level of complexity.
+
+   Suppose there are four 1500-rated players: A, B, C, D. They are all
+   established players. Their ratings are stable. To make the calculations
+   easy, we will assume that we will calculate rating changes under the
+   old Elo formula with K=32. Suppose that they are the only four players
+   in the rating pool. The average rating of the pool is, therefore, 1500.
+
+   Elo recognized that simply having an improving player causes deflation.
+
+   Let's suppose that A decides to study for a while. As a result, his
+   strength increases to a degree that on average he scores 3 out of 4
+   against B, C, and D. These odds represent roughly a 200 rating point
+   spread.
+
+   What we would want the pool to do is this: Since B, C, and D are the
+   same strength as before, their ratings should stay at 1500. A should
+   see his rating go toward 1700.
+
+   That is, their performances indicate a strength relative to where they
+   started of 1500 for B, C, and D and 1700 for A.
+
+   Let's suppose that they play 10 rated games against each opponent (30
+   total.) B, C, and D score 50% against each other, but only 25% against
+   A, exactly as outlined above. That means B, C, and D win 12.5 games
+   each, and A wins 22.5 games. For example, on average, B wins 5 of the
+   10 games against C, 5 of the 10 games against D, and 2.5 of the games
+   against A.
+
+   What are their ratings (assuming for ease that we rate this as 1 event)
+   at the end of these encounters? (This example is simplified, but
+   illustrates the point, and the principles hold true even if we treat it
+   as several events.)
+
+   The rating formula is:
+
+          (W-We) x 32 + Rating old = Rating new,
+
+   where W equals the number of wins and We equals the expected number of
+   wins.
+
+   Since all players started at 1500, we expect them all to score 50%. The
+   winning expectancy, We, therefore = 15 for all the players.
+
+   For B, C, D:
+
+          (12.5-15.0) x 32 +1500 = 1420
+
+   12.5 points, for B for example, is 5 points against C, 5 against D, and
+   2.5 against A.
+
+   For A:
+
+          (22.5 - 15.0) x 32 + 1500 = 1740
+
+   What is the average rating of the pool? (1420 + 1420 + 1420 +1740)/4 =
+   1500.
+
+   Hmm...exactly the same as before.
+
+   Yet, B, C, D are all rated lower than their actual skill level of 1500.
+   And even if A loses his "40 extra" points back to the pool fairly
+   evenly in another series of games, we would see:
+
+          A: 1700
+          B: 1433
+          C: 1433
+          D: 1433
+
+   That is, 75% of the players in the pool would be deflated, by 67 points
+   each, even though the average rating of the entire pool is unchanged.
+
+[[166]edit] Practical approaches
+
+   Because of the significant difference in timing of when inflation and
+   deflation occur, and in order to combat deflation, most implementations
+   of Elo ratings have a mechanism for injecting points into the system in
+   order to maintain relative ratings over time. FIDE has two inflationary
+   mechanisms. First, performances below a "ratings floor" are not
+   tracked, so a player with true skill below the floor can only be
+   unrated or overrated, never correctly rated. Second, established and
+   higher-rated players have a lower K-factor.^[167][9] There is no
+   theoretical reason why these should provide a proper balance to an
+   otherwise deflationary scheme; perhaps they over-correct and result in
+   net inflation beyond the playing population's increase in absolute
+   skill. On the other hand, there is no obviously superior alternative.
+   In particular, on-line game rating systems have seemed to suffer at
+   least as many inflation/deflation headaches as FIDE, despite
+   alternative stabilization mechanisms.
+
+[[168]edit] Exponential variant
+
+   This section may contain [169]original research or [170]unverified
+   claims. Please [171]improve the article by adding [172]references. See
+   the [173]talk page for details. (December 2008)
+
+   In many [174]computer role-playing games, the played game character has
+   an experience (which can be compared to the rating of a chess player),
+   which grows exponentially as the character evolves (while the Elo
+   rating of a chess player grows linear as the player
+   evolves).^[[175]citation needed] Therefore, in a [176]morpg with
+   pairwise battles, it can be a desirable feature to have an experience
+   attached to each character which resembles the Elo rating of a chess
+   player, but grows exponentially to better match the experience of a
+   character in other rpg's.
+
+   Let's call a character's experience Q, and define it as
+
+          Q=C\cdot 10^{R/400}
+
+   where R would be the Elo rating of the character. We then have a
+   [177]bijection between R and P, where R = 400log[10](Q / C). Notice
+   that the experience will always be positive, while the rating can be
+   any real number. Imagine we have two characters, A and B, with the
+   experiences Q[A] and Q[B]. In a battle between A and B, the expected
+   score of player A can be calculated using the exact formula
+
+          E_A = \frac 1 {1 + 10^{(R_B - R_A)/400}} = \frac 1 {1 +
+          10^{(400\log_{10}(Q_B/C) - 400\log_{10}(Q_A/C))/400}} = \frac
+          {Q_A}{Q_A+Q_B}.
+
+   So, we have
+
+          E_A = \frac{Q_A}{Q_A + Q_B}
+
+   and the corresponding expression for player B that is
+
+          E_B = \frac{Q_B}{Q_A + Q_B}.
+
+   When the battle is over, by using the formula for updating the rating
+   of a character, we can also update the expereince of the character:
+
+          R' = R+K(S-E) \Rightarrow
+          Q' = Q\cdot F^{S-E}
+
+   where F = 10^K / 400. A low K values corresponds to an F values close
+   to 1. However, while the K value is lower for stronger chess players,
+   the F value is often left unchanged, to enable the system to be more
+   dynamic (which is a requirement for making a game fun).^[[178]citation
+   needed] In opposite to a chess player, a character of a single player
+   rpg is made to evolve through out the entire game, as he encounters new
+   and better items, develops his skills, learns new spells, etc. In a
+   morpg on the other hand, the creators often continuously develop the
+   games and create new patches, such as in [179]World of Warcraft. As
+   each patch is released, the environment of the game is changed; this
+   makes the game more chaotic.
+
+   For low F values, the formula for updating the experience can be
+   approximately estimated by
+
+          Q'=Q\cdot(1+\kappa(S-E))
+
+   where \kappa=\ln(F)=\ln(10)/400\cdot K . Using players A and B as
+   referrals again, and inserting the formula for the expected score, we
+   can substitute E and obtain
+
+          Q'_A=Q_A+\kappa\cdot
+          Q_A(S-\frac{Q_A}{Q_A+Q_B})=Q_A+\kappa\frac{S(Q_A^2+Q_A
+          Q_B)-Q_A^2}{Q_A+Q_B}
+
+   Now, since S = 1 at win, but 0 at loss, the experience gain is
+
+          \Delta Q_A=\left\{\begin{array}{ll}\kappa\displaystyle{\frac{Q_A
+          Q_B}{Q_A+Q_B}},&\mbox{ at win }\\
+          \\-\kappa\displaystyle{\frac{Q_A^2}{Q_A+Q_B}},&\mbox{ at loss
+          }\end{array}\right.
+
+[[180]edit] Single player rpg's
+
+   In many single player rpg's, the character gets an experience boost
+   when killing an enemy (i.e. a battle win). Since the character, A,
+   often is considered to have much higher experience than an enemy, B,
+   the experience gain when killing the enemy can be simplified to
+
+          \Delta Q_A = \kappa\cdot Q_B.
+
+   An even simpler version of this would be to let the character's
+   experience be the sum of the experience of all enemies it has killed
+   (i.e. having = 1).
+
+   At death, many rpg's just let the player start over from the last
+   visited [181]status checkpoint.^[[182]citation needed] Having a single
+   player rpg where the character loses experience each time it is killed
+   would not be that sensible; firstly the chance of winning a battle is
+   drastically decreased when fighting against more than one enemy at a
+   time, hence making the expected score misleading. Besides, if the
+   character would have it's experience decreased at each death, the
+   average experience gain over a longer period of time would be around
+   zero, which is not suitable for a single player rpg.
+
+[[183]edit] Other chess rating systems
+
+     * Ingo system, designed by Anton Hoesslinger, published in 1948.
+       Starting in West Germany in 1948, it was used in Germany as
+       official rating system of the German Chess Federation until 1992
+       when it was replaced by an Elo based rating system. It influenced
+       some other rating systems.
+     * Harkness System, invented by [184]Kenneth Harkness, who published
+       it in 1956. It was used by the USCF from 1950 to 1960 and by some
+       other organizations.
+     * [185]British Chess Federation Rating System, published in 1958.
+     * [186]Correspondence Chess League of America Rating System.
+     * [187]Glicko rating system
+     * [188]Chessmetrics
+     * In November 2005, the [189]Xbox Live online gaming service proposed
+       the [190]TrueSkill ranking system that is an extension of
+       [191]Glickman's system to multi-player and multi-team games.
+
+[[192]edit] Elo ratings in other games
+
+   National [193]Scrabble organizations compute normally-distributed Elo
+   ratings except in the [194]United Kingdom, where a different system is
+   used. The North American [195]National Scrabble Association has the
+   largest rated population, numbering over 11,000 as of early 2006.
+   [196]Lexulous also uses the Elo system.
+
+   The popular [197]First Internet Backgammon Server calculates ratings
+   based on a modified Elo system. New players are assigned a rating of
+   1500, with the best humans and bots rating over 2000. The same formula
+   has been adopted by several other backgammon sites, such as
+   [198]Play65, [199]DailyGammon, [200]GoldToken and [201]VogClub (Vinco
+   Online Games). Vog sets a new player's rating at 1600.
+
+   In other sports, individuals maintain rankings based on the Elo
+   algorithm. These are usually unofficial, not endorsed by the sport's
+   governing body. The [202]World Football Elo Ratings rank national teams
+   in men's [203]football (soccer). [204]Jeff Sagarin publishes team
+   rankings for American [205]college [206]football and [207]basketball,
+   with "Elo chess" being one of the two rankings he presents. In 2006,
+   Elo ratings were adapted for [208]Major League Baseball teams by
+   [209]Nate Silver of [210]Baseball Prospectus.^[211][14] Based on this
+   adaptation, Baseball Prospectus also makes Elo-based [212]Monte Carlo
+   simulations of the odds of whether teams will make the
+   playoffs.^[213][15] Glenn O'Brien publishes team rankings for
+   [214]Hopman Cup using several rating systems, including variants of the
+   Elo rating system.^[215][16] One of the few Elo-based rankings endorsed
+   by a sport's governing body is the [216]FIFA Women's World Rankings,
+   based on a simplified version of the Elo algorithm, which [217]FIFA
+   uses as its official ranking system for national teams in [218]women's
+   football (soccer).
+
+   In the strategy game [219]Tantrix an Elo-rating scored in a tournament
+   changes the overall rating according to the ratio of the games played
+   in the tournament and the overall game count. Every year passed,
+   ratings are deweighted until they completely disappear taken over by
+   the new ratings.^[220][17] In the strategy game [221]Arimaa an Elo-type
+   rating system is used. In this rating system, however, there is a
+   second parameter "rating uncertainty", which doubles as the
+   K-factor.^[222][18]
+
+   Various online roleplaying-games (MMORPGs) use Elo ratings for
+   player-vs-player (PVP) rankings. In [223]Guild Wars, Elo ratings are
+   used to record guild rating gained and lost through Guild versus Guild
+   battles, which are two-team fights. The K-value, as of December 2006,
+   is 30, but will change to 5 shortly into the year 2007. [224]Vendetta
+   Online uses Elo ratings to rank the flight combat skill of players when
+   they have agreed to a 1-on-1 duel. [225]World of Warcraft uses the Elo
+   Rating system when teaming up and comparing Arena players.^[226][19]
+   The game [227]Puzzle Pirates uses the ELO rating system as well to
+   determine the standings in the various puzzles.
+
+   Trading-card game manufacturers often use Elo ratings for their
+   organized play efforts. The [228]DCI (formerly Duelists' Convocation
+   International) uses Elo ratings for tournaments of [229]Magic: The
+   Gathering and other games of [230]Wizards of the Coast. [231]Pokmon USA
+   uses the Elo system to rank its TCG organised play competitors. Prizes
+   for the top players in various regions include holidays and world
+   championships invites. Similarly, [232]Decipher, Inc. used the Elo
+   system for its ranked games such as [233]Star Trek Customizable Card
+   Game and [234]Star Wars Customizable Card Game.
+
+   [235]FoosballRankings.com has applied the Elo Rating System to the game
+   of foosball by offering a free Elo ranking tool that can be used in
+   [236]Foosball tournaments and leagues. The ranking tool can even be
+   modified by the players so that they have more control over the math
+   behind it.
+
+   [237]WeeWar uses a modified Elo Rating System to rank the players of
+   its online turn based strategy game. The only difference is that
+   rankings are unaffected by a draw.
+
+   [238]TotoScacco uses a modified Elo rating system to rank the players
+   of its guess-the-results game, where one has to predict the results of
+   top chess events.
+
+   [239]Golden Tee Golf uses an ELO rating system. Generally, any rating
+   of 3000 or higher, the player is considered one of the elite of the
+   game. This player usually places top 3 in tournaments on a regular
+   basis. A rating of 2900-2999, this player will generally score in the
+   top 5 with top 3 finishes about 60% of the time. A rating between
+   2750-2900, this player will score top 10 on a regular basis with a top
+   5 finish 40-50% of the time and a top 3 finish 20% of the time. A
+   rating of 2750 and below, the player will generally finish in the top
+   20 on a regular basis, the top 10 on a 40%-50% basis, the top 5 on a
+   15% basis and will finish in the top 3 on a 5% basis.
+     * [240]Age of Empires III^[241][20]
+     * [242]Age of Mythology^[[243]citation needed]
+     * [244]Chaotic Trading Card Game^[[245]citation needed]
+     * [246]Close Combat series
+     * [247]Command & Conquer 3: Tiberium Wars^[[248]citation needed]
+     * [249]Conquest
+     * [250]Diablo II^[[251]citation needed]
+     * [252]Duels^[253][21]
+     * [254]Forces
+     * [255]Gears of War 2^[256][22]
+     * [257]Guild Wars^[258][23]
+     * [259]Guitar Hero III: Legends of Rock^[260][24]
+     * [261]Halo 2^[262][25]
+     * [263]iRacing^[[264]citation needed]
+     * [265]Kiekko.tk^[[266]citation needed]
+     * [267]Magic: The Gathering^[268][26]
+     * [269]Pro Cycling Manager Season 2007^[[270]citation needed]
+     * Quake III Arena [271]DeFRaG^[272][27]
+     * [273]Rainbow Six 3: Raven Shield^[[274]citation needed]
+     * [275]Scrabulous^[276][28]
+     * [277]Soldat (Zitro-Stats)^[278][29]
+     * [279]StarCraft^[280][30]
+     * [281]Star Wars Customizable Card Game (under [282]Decipher's
+       control)^[[283]citation needed]
+     * [284]Star Wars Battlefront^[[285]citation needed]
+     * [286]Supreme Commander (uses a modified version of Elo)^[287][31]
+     * [288]Taikodom^[289][32]
+     * [290]Tantrix^[[291]citation needed]
+     * [292]Toribash^[[293]citation needed]
+     * [294]Unreal Tournament 2004^[[295]citation needed]
+     * [296]Unreal Tournament 3^[[297]citation needed]
+     * [298]Urban Rivals^[299][33]
+     * [300]Warcraft III^[[301]citation needed]
+     * [302]World of Warcraft^[303][34]
+     * [304]Yahoo Pool^[[305]citation needed]
+
+[[306]edit] Notes
+
+    1. [307]^ Redman, Tim. [308]"Remembering Richard, Part II". United
+       States Chess Federation.
+       [309]http://www.uschess.org/ratings/RedmanremembersRichard.pdf.
+    2. [310]^ [311]"About the USCF". United States Chess Federation.
+       [312]http://www.uschess.org/about/about.php. Retrieved on 10
+       November 2008.
+    3. [313]^ [314]World Chess Championship in Mexico reaches Category
+       XXI, official web site of the [315]World Chess Championship 2007
+    4. [316]^ Anand lost #1 to Morozevich ([317]Chessbase, August 24
+       2008), then regained it, then Carlsen took #1 ([318]Chessbase,
+       September 5 2008), then Ivanchuk ([319]Chessbase, September 11
+       2008), and finally Topalov ([320]Chessbase, September 13 2008)
+    5. [321]^ [322]US Chess Federation:
+    6. [323]^ [324]"Approximating Formulas for the USCF Rating System",
+       [325]United States Chess Federation, Mark Glickman, Department of
+       Mathematics and Statistics at Boston University, [326]22 February
+       [327]2001
+    7. [328]^ For instance, see the comments at [329]ChessBase.com - Chess
+       News - Adams vs Hydra: Man 0.5 Machine 5.5
+    8. [330]^ A key Sonas article is [331]Jeff Sonas: The Sonas Rating
+       Formula Better than Elo?
+    9. ^ [332]^a [333]^b [334]FIDE Online. FIDE Handbook: Chess rules
+   10. [335]^ [336]ICC Help: k-factor
+   11. [337]^ [338]A Parent's Guide to Chess Skittles, Don Heisman,
+       Chesscafe.com, August 4, 2002
+   12. [339]^ [340]ChessBase.com - Chess News - The Nunn Plan for the
+       World Chess Championship
+   13. [341]^ [342]FIDE Online. FIDE Handbook: Chess rules
+   14. [343]^ [344]Nate Silver, "We Are Elo?" June 28, 2006.[345][1]
+   15. [346]^ [347]Postseason Odds, ELO version
+   16. [348]^ [349]Glenn O'Brien's ratings page
+   17. [350]^ [351]http://tournaments.tantrix.co.uk/ratings/rating.shtml
+   18. [352]^ [353]Arimaa Rating System
+   19. [354]^ [355]World of Warcraft Europe -> The Arena
+   20. [356]^ [357]AOE3 ELO Rating
+   21. [358]^ [359]Duels
+   22. [360]^ [361][2]
+   23. [362]^ [363]Guild ladder - Guild Wars Wiki (GWW)
+   24. [364]^ [365]Guitar Hero Community - Forum Topics
+   25. [366]^ [367]Bungie.net : Bungie Online : Halo 2 Stats Info : Halo 2
+       Overview
+   26. [368]^ [369]DCI Universal Tournament Rules
+   27. [370]^ [371]www.q3df.org
+   28. [372]^ [373]Connexion | Facebook
+   29. [374]^ Message shown at "history" pages: "In History you can see
+       all Actions from Servers and track Points. They are calculated by
+       Killer's and Victim's Points with this Elo-Formula: [375][3]
+       (source: [376]http://zitrostats.rumpelful.de/?inc=history)
+   30. [377]^ [378]TeamLiquid.net professional gamer rankings
+   31. [379]^ [380]GPGNet / SupCom FAQ
+   32. [381]^ [382]Taikodom Ratings System
+   33. [383]^ [384][4]
+   34. [385]^ [386]World of Warcraft Arena system
+
+[[387]edit] References
+
+     * [388]Elo, Arpad (1978). The Rating of Chessplayers, Past and
+       Present. Arco. [389]ISBN 0-668-04721-6.
+
+[[390]edit] External links
+
+     * [391]Official FIDE Rating List
+     * [392]All Time Rankings - lists the top 10 from 1970 to 1997
+     * [393]Unofficial Live Top List
+     * [394]Arpad Emre Elo 100th anniversary
+     * [395]GoBase.org: Introduction to the Elo Rating System
+     * [396]Citations for Elo, A.E. 1978. The Ratings of Chess Players:
+       Past and Present.
+     * [397]Mark Glickman's research page, with a number of links to
+       technical papers on chess rating systems
+     * [398]Bayesian Elo Rating
+     * [399]http://chess.about.com/library/weekly/aa03a25.htm
+     * [400]Professional foosball players are ranked using Elo. Includes
+       interesting adjustments for doubles.
+     * [401]A site that ranks national soccer teams using Elo methods
+     * [402]An attempt to apply ELO rating to Bao
+     * [403]EGF Official Ratings
+     * [404]Jeff Sonas: The Sonas Rating Formula Better than Elo?
+     * [405]Elo query with world ranking list and historical development
+       since 1990
+     * [406]National Scrabble Association ratings
+     * [407]The Elo-rating system used for Tantrix
+     * [408]Popular Elo rating system for Age of Empires 3 computer game
+     * [409]US Squash National Rankings
+     * [410]Chess Rankings Website uses Elo to rank players online.
+     * [411]Elo ratings applied to race car drivers.
+
+   Retrieved from "[412]http://en.wikipedia.org/wiki/Elo_rating_system"
+   [413]Categories: [414]Chess rating systems | [415]Sports records and
+   statistics
+   Hidden categories: [416]Wikipedia articles needing rewrite |
+   [417]Articles needing additional references from March 2007 | [418]All
+   articles with unsourced statements | [419]Articles with unsourced
+   statements since February 2009 | [420]Articles lacking sources from
+   March 2008 | [421]All articles lacking sources | [422]Articles that may
+   contain original research since March 2008 | [423]Articles with weasel
+   words | [424]Articles with unsourced statements since March 2008 |
+   [425]Articles needing additional references from August 2007 |
+   [426]Wikipedia articles needing style editing from March 2008 |
+   [427]All articles needing style editing | [428]Articles containing
+   non-English language text | [429]Articles that may contain original
+   research since December 2008 | [430]All articles that may contain
+   original research | [431]Articles with unsourced statements since
+   January 2009 | [432]Articles with unsourced statements since February
+   2008 | [433]Articles with unsourced statements since July 2008 |
+   [434]Articles with unsourced statements since January 2007
+
+Views
+
+     * [435]Article
+     * [436]Discussion
+     * [437]Edit this page
+     * [438]History
+
+Personal tools
+
+     * [439]Log in / create account
+
+Navigation
+
+     * [440]Main page
+     * [441]Contents
+     * [442]Featured content
+     * [443]Current events
+     * [444]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [445]About Wikipedia
+     * [446]Community portal
+     * [447]Recent changes
+     * [448]Contact Wikipedia
+     * [449]Donate to Wikipedia
+     * [450]Help
+
+Toolbox
+
+     * [451]What links here
+     * [452]Related changes
+     * [453]Upload file
+     * [454]Special pages
+     * [455]Printable version
+     * [456]Permanent link
+     * [457]Cite this page
+
+Languages
+
+     * [458]Brezhoneg
+     *
+     * [459]Catal
+     * [460]esky
+     * [461]Dansk
+     * [462]Deutsch
+     *
+     * [463]Espaol
+     * [464]Esperanto
+     * [465]Franais
+     * [466]Galego
+     * [467]Bahasa Indonesia
+     * [468]Italiano
+     *
+     * [469]Lietuvi
+     * [470]Magyar
+     *
+     * [471]Nederlands
+     *
+     * [472]Norsk (bokml)
+     * [473]Norsk (nynorsk)
+     * [474]Polski
+     * [475]Portugus
+     *
+     * [476]Slovenina
+     * [477]Slovenina
+     * [478]Suomi
+     * [479]Svenska
+     * [480]Ting Vit
+     * [481]Trke
+     *
+     *
+
+   [482]Powered by MediaWiki
+   [483]Wikimedia Foundation
+     * This page was last modified on 10 February 2009, at 09:54.
+     * All text is available under the terms of the [484]GNU Free
+       Documentation License. (See [485]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [486]Wikimedia
+       Foundation, Inc., a U.S. registered [487]501(c)(3)
+       [488]tax-deductible [489]nonprofit [490]charity.
+     * [491]Privacy policy
+     * [492]About Wikipedia
+     * [493]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=ELO_rating_system&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#searchInput
+   9. file://localhost/wiki/Wikipedia:Manual_of_Style
+  10. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+  11. file://localhost/wiki/Talk:Elo_rating_system
+  12. file://localhost/wiki/Chess
+  13. file://localhost/wiki/Go_(board_game)
+  14. file://localhost/wiki/Chess
+  15. file://localhost/wiki/Go_(board_game)
+  16. file://localhost/wiki/Arpad_Elo
+  17. file://localhost/wiki/Hungary
+  18. file://localhost/wiki/United_States
+  19. file://localhost/wiki/Physics
+  20. file://localhost/wiki/Computer_game
+  21. file://localhost/wiki/Association_football
+  22. file://localhost/wiki/Major_League_Baseball
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#History
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Implementing_Elo.27s_scheme
+  25. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Different_ratings_systems
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#FIDE_ratings
+  27. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Performance_rating
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#FIDE_tournament_categories
+  29. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Live_ratings
+  30. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#United_States_Chess_Federation_ratings
+  31. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Ratings_of_computers
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Theory
+  33. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Mathematical_details
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Mathematical_issues
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Most_accurate_distribution_model
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Most_accurate_K-factor
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Practical_issues
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Game_activity_versus_protecting_one.27s_rating
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Chess_engines
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Selective_pairing
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Ratings_inflation_and_deflation
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Example
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Practical_approaches
+  44. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Exponential_variant
+  45. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Single_player_rpg.27s
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Other_chess_rating_systems
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Elo_ratings_in_other_games
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#Notes
+  49. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#References
+  50. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#External_links
+  51. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=1
+  52. file://localhost/wiki/Wikipedia:Citing_sources
+  53. file://localhost/wiki/Wikipedia:Verifiability
+  54. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+  55. file://localhost/wiki/Wikipedia:Reliable_sources
+  56. file://localhost/wiki/Wikipedia:Verifiability
+  57. file://localhost/wiki/United_States_Chess_Federation
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-0
+  59. file://localhost/wiki/Kenneth_Harkness
+  60. file://localhost/wiki/Statistics
+  61. file://localhost/wiki/Golf
+  62. file://localhost/wiki/Normal_distribution
+  63. file://localhost/wiki/Random_variable
+  64. file://localhost/wiki/Standard_deviation
+  65. file://localhost/w/index.php?title=Mark_Glickman&action=edit&redlink=1
+  66. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=2
+  67. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-aboutUSCF-1
+  68. file://localhost/wiki/F%C3%A9d%C3%A9ration_Internationale_des_%C3%89checs
+  69. file://localhost/wiki/Logistic_distribution
+  70. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=3
+  71. file://localhost/wiki/Internet_Chess_Club
+  72. file://localhost/wiki/Yahoo!
+  73. file://localhost/wiki/Professional_Chess_Association
+  74. file://localhost/wiki/Gregory_Kaidanov
+  75. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=4
+  76. file://localhost/wiki/FIDE
+  77. file://localhost/wiki/FIDE
+  78. file://localhost/wiki/Candidate_Master
+  79. file://localhost/wiki/International_Master
+  80. file://localhost/wiki/International_Grandmaster
+  81. file://localhost/wiki/International_Grandmaster
+  82. file://localhost/wiki/International_Grandmaster
+  83. file://localhost/wiki/Garry_Kasparov
+  84. file://localhost/wiki/Vladimir_Kramnik
+  85. file://localhost/wiki/Veselin_Topalov
+  86. file://localhost/wiki/Viswanathan_Anand
+  87. file://localhost/wiki/International_Grandmaster#.22Super-grandmasters.22
+  88. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=5
+  89. file://localhost/wiki/FIDE
+  90. http://www.fide.com/component/handbook/?id=75&view=article
+  91. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=6
+  92. file://localhost/wiki/FIDE
+  93. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-2
+  94. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=7
+  95. file://localhost/wiki/FIDE
+  96. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-3
+  97. http://chess.liverating.org/
+  98. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=8
+  99. file://localhost/wiki/United_States_Chess_Federation
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-4
+ 101. file://localhost/wiki/Wikipedia:Citation_needed
+ 102. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-5
+ 103. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=9
+ 104. file://localhost/wiki/Human-computer_chess_matches
+ 105. file://localhost/wiki/Chess_computers
+ 106. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-6
+ 107. file://localhost/wiki/Chess_engines
+ 108. file://localhost/wiki/Chess_Engines_rating_lists
+ 109. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=10
+ 110. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=11
+ 111. file://localhost/wiki/Logistic_curve
+ 112. file://localhost/w/index.php?title=K-value&action=edit&redlink=1
+ 113. file://localhost/wiki/Football_(soccer)
+ 114. file://localhost/wiki/Draw_(chess)
+ 115. file://localhost/wiki/Go_ranks_and_ratings#Elo_Ratings_as_used_in_Go
+ 116. file://localhost/wiki/Hubbert_curve
+ 117. file://localhost/wiki/Logistic_curve
+ 118. file://localhost/wiki/Normal_distribution
+ 119. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=12
+ 120. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=13
+ 121. file://localhost/wiki/Normal_distribution
+ 122. file://localhost/wiki/Logistic_distribution
+ 123. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=14
+ 124. file://localhost/wiki/Jeff_Sonas
+ 125. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-7
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-autogenerated2-8
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-9
+ 128. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=15
+ 129. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=16
+ 130. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+ 131. file://localhost/wiki/Talk:Elo_rating_system
+ 132. file://localhost/wiki/Wikipedia:Citing_sources
+ 133. file://localhost/wiki/Wikipedia:Verifiability
+ 134. file://localhost/wiki/Wikipedia:No_original_research
+ 135. file://localhost/wiki/Wikipedia:Verifiability
+ 136. file://localhost/wiki/Wikipedia:Neutral_point_of_view
+ 137. file://localhost/wiki/Wikipedia:Avoid_weasel_words
+ 138. file://localhost/wiki/Wikipedia:Citation_needed
+ 139. file://localhost/wiki/Swiss_tournament
+ 140. file://localhost/wiki/Wikipedia:Citation_needed
+ 141. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-10
+ 142. file://localhost/wiki/Wikipedia:Citation_needed
+ 143. file://localhost/wiki/John_Nunn
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-11
+ 145. file://localhost/wiki/Wikipedia:Citation_needed
+ 146. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=17
+ 147. file://localhost/wiki/List_of_chess_engines
+ 148. file://localhost/wiki/Correspondence_chess
+ 149. file://localhost/wiki/Blitz_chess
+ 150. file://localhost/wiki/Free_Internet_Chess_Server
+ 151. file://localhost/wiki/Internet_Chess_Club
+ 152. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=18
+ 153. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=19
+ 154. file://localhost/wiki/Wikipedia:Citing_sources
+ 155. file://localhost/wiki/Wikipedia:Verifiability
+ 156. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+ 157. file://localhost/wiki/Wikipedia:Reliable_sources
+ 158. file://localhost/wiki/Wikipedia:Verifiability
+ 159. file://localhost/wiki/Wikipedia:NOT#PUBLISHER
+ 160. file://localhost/wiki/Wikipedia:CU
+ 161. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+ 162. file://localhost/wiki/Wikipedia:STYLE
+ 163. file://localhost/wiki/Greatest_chess_player_of_all_time
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-12
+ 165. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=20
+ 166. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=21
+ 167. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-autogenerated2-8
+ 168. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=22
+ 169. file://localhost/wiki/Wikipedia:No_original_research
+ 170. file://localhost/wiki/Wikipedia:Verifiability
+ 171. http://en.wikipedia.org/w/index.php?title=Elo_rating_system&action=edit
+ 172. file://localhost/wiki/Wikipedia:References
+ 173. file://localhost/wiki/Talk:Elo_rating_system
+ 174. file://localhost/wiki/Role-playing_game_(video_game)
+ 175. file://localhost/wiki/Wikipedia:Citation_needed
+ 176. file://localhost/wiki/Massively_multiplayer_online_role-playing_game
+ 177. file://localhost/wiki/Bijection
+ 178. file://localhost/wiki/Wikipedia:Citation_needed
+ 179. file://localhost/wiki/World_of_Warcraft#Post-launch_development
+ 180. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=23
+ 181. file://localhost/wiki/Saved_game#Checkpoints
+ 182. file://localhost/wiki/Wikipedia:Citation_needed
+ 183. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=24
+ 184. file://localhost/wiki/Kenneth_Harkness
+ 185. file://localhost/wiki/British_Chess_Federation
+ 186. file://localhost/wiki/Correspondence_Chess_League_of_America
+ 187. file://localhost/wiki/Glicko_rating_system
+ 188. file://localhost/wiki/Chessmetrics
+ 189. file://localhost/wiki/Xbox_Live
+ 190. http://www.research.microsoft.com/mlp/trueskill
+ 191. file://localhost/wiki/Glicko_rating_system
+ 192. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=25
+ 193. file://localhost/wiki/Scrabble
+ 194. file://localhost/wiki/United_Kingdom
+ 195. file://localhost/wiki/National_Scrabble_Association
+ 196. file://localhost/wiki/Lexulous
+ 197. file://localhost/wiki/First_Internet_Backgammon_Server
+ 198. http://www.play65.com/backgammon.html
+ 199. http://www.DailyGammon.com/
+ 200. http://www.GoldToken.com/
+ 201. http://www.VogClub.com/
+ 202. file://localhost/wiki/World_Football_Elo_Ratings
+ 203. file://localhost/wiki/Football_(soccer)
+ 204. file://localhost/wiki/Jeff_Sagarin
+ 205. file://localhost/wiki/College_sports
+ 206. file://localhost/wiki/Football_(American)
+ 207. file://localhost/wiki/Basketball
+ 208. file://localhost/wiki/Major_League_Baseball
+ 209. file://localhost/wiki/Nate_Silver
+ 210. file://localhost/wiki/Baseball_Prospectus
+ 211. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-13
+ 212. file://localhost/wiki/Monte_Carlo_method
+ 213. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-14
+ 214. file://localhost/wiki/Hopman_Cup
+ 215. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-15
+ 216. file://localhost/wiki/FIFA_Women%27s_World_Rankings
+ 217. file://localhost/wiki/FIFA
+ 218. file://localhost/wiki/Women%27s_football_(soccer)
+ 219. file://localhost/wiki/Tantrix
+ 220. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-16
+ 221. file://localhost/wiki/Arimaa
+ 222. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-17
+ 223. file://localhost/wiki/Guild_Wars
+ 224. file://localhost/wiki/Vendetta_Online
+ 225. file://localhost/wiki/World_of_Warcraft
+ 226. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-18
+ 227. file://localhost/wiki/Puzzle_Pirates
+ 228. file://localhost/wiki/Duelists%27_Convocation_International
+ 229. file://localhost/wiki/Magic:_The_Gathering
+ 230. file://localhost/wiki/Wizards_of_the_Coast
+ 231. file://localhost/wiki/Pok%C3%A9mon_USA
+ 232. file://localhost/wiki/Decipher,_Inc.
+ 233. file://localhost/wiki/Star_Trek_Customizable_Card_Game
+ 234. file://localhost/wiki/Star_Wars_Customizable_Card_Game
+ 235. http://www.foosballrankings.com/
+ 236. file://localhost/wiki/Foosball
+ 237. http://weewar.com/
+ 238. http://e4e6.com/toto
+ 239. http://goldentee.com/
+ 240. file://localhost/wiki/Age_of_Empires_III
+ 241. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-19
+ 242. file://localhost/wiki/Age_of_Mythology
+ 243. file://localhost/wiki/Wikipedia:Citation_needed
+ 244. file://localhost/wiki/Chaotic_Trading_Card_Game
+ 245. file://localhost/wiki/Wikipedia:Citation_needed
+ 246. file://localhost/wiki/Close_Combat_series
+ 247. file://localhost/wiki/Command_%26_Conquer_3:_Tiberium_Wars
+ 248. file://localhost/wiki/Wikipedia:Citation_needed
+ 249. http://www.facebook.com/apps/application.php?id=8842269614
+ 250. file://localhost/wiki/Diablo_II
+ 251. file://localhost/wiki/Wikipedia:Citation_needed
+ 252. file://localhost/wiki/Duels_(video_game)
+ 253. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-20
+ 254. http://www.battleforces.com/
+ 255. file://localhost/wiki/Gears_of_War_2
+ 256. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-21
+ 257. file://localhost/wiki/Guild_Wars
+ 258. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-22
+ 259. file://localhost/wiki/Guitar_Hero_III:_Legends_of_Rock
+ 260. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-23
+ 261. file://localhost/wiki/Halo_2
+ 262. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-24
+ 263. file://localhost/wiki/IRacing
+ 264. file://localhost/wiki/Wikipedia:Citation_needed
+ 265. file://localhost/wiki/Kiekko.tk
+ 266. file://localhost/wiki/Wikipedia:Citation_needed
+ 267. file://localhost/wiki/Magic:_The_Gathering
+ 268. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-25
+ 269. file://localhost/wiki/Pro_Cycling_Manager_2007
+ 270. file://localhost/wiki/Wikipedia:Citation_needed
+ 271. file://localhost/wiki/DeFRaG
+ 272. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-26
+ 273. file://localhost/wiki/Rainbow_Six_3:_Raven_Shield
+ 274. file://localhost/wiki/Wikipedia:Citation_needed
+ 275. file://localhost/wiki/Scrabulous
+ 276. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-27
+ 277. file://localhost/wiki/Soldat
+ 278. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-28
+ 279. file://localhost/wiki/StarCraft
+ 280. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-29
+ 281. file://localhost/wiki/Star_Wars_Customizable_Card_Game
+ 282. file://localhost/wiki/Decipher
+ 283. file://localhost/wiki/Wikipedia:Citation_needed
+ 284. file://localhost/wiki/Star_Wars_Battlefront
+ 285. file://localhost/wiki/Wikipedia:Citation_needed
+ 286. file://localhost/wiki/Supreme_Commander
+ 287. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-30
+ 288. file://localhost/wiki/Taikodom
+ 289. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-31
+ 290. file://localhost/wiki/Tantrix
+ 291. file://localhost/wiki/Wikipedia:Citation_needed
+ 292. file://localhost/wiki/Toribash
+ 293. file://localhost/wiki/Wikipedia:Citation_needed
+ 294. file://localhost/wiki/Unreal_Tournament_2004
+ 295. file://localhost/wiki/Wikipedia:Citation_needed
+ 296. file://localhost/wiki/Unreal_Tournament_3
+ 297. file://localhost/wiki/Wikipedia:Citation_needed
+ 298. file://localhost/wiki/Urban_Rivals
+ 299. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-32
+ 300. file://localhost/wiki/Warcraft_III
+ 301. file://localhost/wiki/Wikipedia:Citation_needed
+ 302. file://localhost/wiki/World_of_Warcraft
+ 303. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_note-33
+ 304. file://localhost/wiki/Yahoo_Pool
+ 305. file://localhost/wiki/Wikipedia:Citation_needed
+ 306. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=26
+ 307. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-0
+ 308. http://www.uschess.org/ratings/RedmanremembersRichard.pdf
+ 309. http://www.uschess.org/ratings/RedmanremembersRichard.pdf
+ 310. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-aboutUSCF_1-0
+ 311. http://www.uschess.org/about/about.php
+ 312. http://www.uschess.org/about/about.php
+ 313. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-2
+ 314. http://www.chessmexico.com/es/index.php?option=com_content&task=view&id=318&Itemid=139
+ 315. file://localhost/wiki/World_Chess_Championship_2007
+ 316. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-3
+ 317. http://www.chessbase.com/newsdetail.asp?newsid=4860
+ 318. http://www.chessbase.com/newsdetail.asp?newsid=4892
+ 319. http://www.chessbase.com/newsdetail.asp?newsid=4901
+ 320. http://www.chessbase.com/newsdetail.asp?newsid=4908
+ 321. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-4
+ 322. http://www.uschess.org/ratings/ratedist.php
+ 323. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-5
+ 324. http://math.bu.edu/people/mg/ratings/approx/approx.html
+ 325. file://localhost/wiki/United_States_Chess_Federation
+ 326. file://localhost/wiki/February_22
+ 327. file://localhost/wiki/2001
+ 328. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-6
+ 329. http://www.chessbase.com/newsdetail.asp?newsid=2476
+ 330. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-7
+ 331. http://www.chessbase.com/newsdetail.asp?newsid=562
+ 332. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-autogenerated2_8-0
+ 333. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-autogenerated2_8-1
+ 334. http://www.fide.com/official/handbook.asp?level=B0210
+ 335. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-9
+ 336. http://www.chessclub.com/help/k-factor
+ 337. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-10
+ 338. http://www.chesscafe.com/text/skittles176.pdf
+ 339. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-11
+ 340. http://www.chessbase.com/newsdetail.asp?newsid=2440
+ 341. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-12
+ 342. http://www.fide.com/official/handbook.asp?level=B0212
+ 343. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-13
+ 344. file://localhost/wiki/Nate_Silver
+ 345. http://baseballprospectus.com/article.php?articleid=5247
+ 346. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-14
+ 347. http://www.baseballprospectus.com/statistics/ps_oddselo.php
+ 348. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-15
+ 349. http://au.geocities.com/gmao1982/ratings.html
+ 350. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-16
+ 351. http://tournaments.tantrix.co.uk/ratings/rating.shtml
+ 352. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-17
+ 353. http://arimaa.com/arimaa/rating/
+ 354. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-18
+ 355. http://www.wow-europe.com/en/info/basics/arena/index.html
+ 356. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-19
+ 357. http://www.elorating.com/portal/
+ 358. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-20
+ 359. http://www.duels.com/pages/ladders
+ 360. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-21
+ 361. http://www.xbox360fanboy.com/2008/11/18/gears-of-war-2s-ranking-system-explained
+ 362. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-22
+ 363. http://wiki.guildwars.com/wiki/Guild_ladder
+ 364. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-23
+ 365. http://www.guitarhero.com/forums/12/forum_topics/21758
+ 366. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-24
+ 367. http://www.bungie.net/Stats/content.aspx?link=h2statoverview
+ 368. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-25
+ 369. http://www.wizards.com/dci/downloads/DCI_UTR_1Jun07_EN.txt
+ 370. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-26
+ 371. http://www.q3df.org/index.php?site=elo
+ 372. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-27
+ 373. http://apps.facebook.com/scrabulous/?action=ratings
+ 374. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-28
+ 375. http://zitrostats.rumpelful.de/images/elo.png
+ 376. http://zitrostats.rumpelful.de/?inc=history
+ 377. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-29
+ 378. http://www.teamliquid.net/tlpd/players/
+ 379. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-30
+ 380. http://www.supremecommander.com/gpgNet/SupCom_Multiplayer_FAQ.pdf
+ 381. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-31
+ 382. http://www.taikodom.com/ranking/elo
+ 383. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-32
+ 384. http://en.wikipedia.org/wiki/Urban_Rivals#General_information
+ 385. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc646.tmp.html#cite_ref-33
+ 386. http://www.wow-europe.com/en/info/basics/arena/
+ 387. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=27
+ 388. file://localhost/wiki/Arpad_Elo
+ 389. file://localhost/wiki/Special:BookSources/0668047216
+ 390. file://localhost/w/index.php?title=Elo_rating_system&action=edit&section=28
+ 391. http://ratings.fide.com/toplist.phtml/
+ 392. http://chess.eusa.ed.ac.uk/Chess/Trivia/AlltimeList.html
+ 393. http://chess.liverating.org/
+ 394. http://www.chessbase.com/newsdetail.asp?newsid=1160
+ 395. http://gobase.org/rating/elo.html
+ 396. http://citeseer.nj.nec.com/context/344636/0
+ 397. http://math.bu.edu/people/mg/research/index.html
+ 398. http://remi.coulom.free.fr/Bayesian-Elo/
+ 399. http://chess.about.com/library/weekly/aa03a25.htm
+ 400. http://www.foosline.com/
+ 401. http://www.eloratings.net/
+ 402. http://www.swahili.it/bao/matokeo.php?lng=en
+ 403. http://gemma.ujf.cas.cz/~cieply/GO/gor.html
+ 404. http://www.chessbase.com/newsdetail.asp?newsid=562
+ 405. http://www.benoni.de/schach/elo/index_e.html
+ 406. http://www.scrabble-assoc.com/ratings/
+ 407. http://tournaments.tantrix.co.uk/ratings/rating.shtml
+ 408. http://www.elorating.com/
+ 409. http://www.us-squash.org/ratings/
+ 410. http://www.chessrankings.com/
+ 411. http://www.cafefroid.com/ratings/
+ 412. http://en.wikipedia.org/wiki/Elo_rating_system
+ 413. file://localhost/wiki/Special:Categories
+ 414. file://localhost/wiki/Category:Chess_rating_systems
+ 415. file://localhost/wiki/Category:Sports_records_and_statistics
+ 416. file://localhost/wiki/Category:Wikipedia_articles_needing_rewrite
+ 417. file://localhost/wiki/Category:Articles_needing_additional_references_from_March_2007
+ 418. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 419. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2009
+ 420. file://localhost/wiki/Category:Articles_lacking_sources_from_March_2008
+ 421. file://localhost/wiki/Category:All_articles_lacking_sources
+ 422. file://localhost/wiki/Category:Articles_that_may_contain_original_research_since_March_2008
+ 423. file://localhost/wiki/Category:Articles_with_weasel_words
+ 424. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_March_2008
+ 425. file://localhost/wiki/Category:Articles_needing_additional_references_from_August_2007
+ 426. file://localhost/wiki/Category:Wikipedia_articles_needing_style_editing_from_March_2008
+ 427. file://localhost/wiki/Category:All_articles_needing_style_editing
+ 428. file://localhost/wiki/Category:Articles_containing_non-English_language_text
+ 429. file://localhost/wiki/Category:Articles_that_may_contain_original_research_since_December_2008
+ 430. file://localhost/wiki/Category:All_articles_that_may_contain_original_research
+ 431. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_January_2009
+ 432. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2008
+ 433. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_July_2008
+ 434. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_January_2007
+ 435. file://localhost/wiki/Elo_rating_system
+ 436. file://localhost/wiki/Talk:Elo_rating_system
+ 437. file://localhost/w/index.php?title=Elo_rating_system&action=edit
+ 438. file://localhost/w/index.php?title=Elo_rating_system&action=history
+ 439. file://localhost/w/index.php?title=Special:UserLogin&returnto=Elo_rating_system
+ 440. file://localhost/wiki/Main_Page
+ 441. file://localhost/wiki/Portal:Contents
+ 442. file://localhost/wiki/Portal:Featured_content
+ 443. file://localhost/wiki/Portal:Current_events
+ 444. file://localhost/wiki/Special:Random
+ 445. file://localhost/wiki/Wikipedia:About
+ 446. file://localhost/wiki/Wikipedia:Community_portal
+ 447. file://localhost/wiki/Special:RecentChanges
+ 448. file://localhost/wiki/Wikipedia:Contact_us
+ 449. http://wikimediafoundation.org/wiki/Donate
+ 450. file://localhost/wiki/Help:Contents
+ 451. file://localhost/wiki/Special:WhatLinksHere/Elo_rating_system
+ 452. file://localhost/wiki/Special:RecentChangesLinked/Elo_rating_system
+ 453. file://localhost/wiki/Wikipedia:Upload
+ 454. file://localhost/wiki/Special:SpecialPages
+ 455. file://localhost/w/index.php?title=Elo_rating_system&printable=yes
+ 456. file://localhost/w/index.php?title=Elo_rating_system&oldid=269740660
+ 457. file://localhost/w/index.php?title=Special:Cite&page=Elo_rating_system&id=269740660
+ 458. http://br.wikipedia.org/wiki/Renk_Elo
+ 459. http://ca.wikipedia.org/wiki/Sistema_de_puntuaci%C3%B3_Elo
+ 460. http://cs.wikipedia.org/wiki/Rating_ELO
+ 461. http://da.wikipedia.org/wiki/Elo-rating
+ 462. http://de.wikipedia.org/wiki/Elo-Zahl
+ 463. http://es.wikipedia.org/wiki/Elo
+ 464. http://eo.wikipedia.org/wiki/Elo-nombro
+ 465. http://fr.wikipedia.org/wiki/Classement_Elo
+ 466. http://gl.wikipedia.org/wiki/Elo
+ 467. http://id.wikipedia.org/wiki/Sistem_peringkat_Elo
+ 468. http://it.wikipedia.org/wiki/Elo
+ 469. http://lt.wikipedia.org/wiki/Elo_reitingas
+ 470. http://hu.wikipedia.org/wiki/%C3%89l%C5%91-pontrendszer
+ 471. http://nl.wikipedia.org/wiki/FIDE-rating
+ 472. http://no.wikipedia.org/wiki/ELO-rating
+ 473. http://nn.wikipedia.org/wiki/Elo-rating
+ 474. http://pl.wikipedia.org/wiki/Ranking_szachowy
+ 475. http://pt.wikipedia.org/wiki/Rating_ELO
+ 476. http://sk.wikipedia.org/wiki/ELO_(rating)
+ 477. http://sl.wikipedia.org/wiki/Rating_ELO
+ 478. http://fi.wikipedia.org/wiki/ELO-luku
+ 479. http://sv.wikipedia.org/wiki/Elo-rating
+ 480. http://vi.wikipedia.org/wiki/H%E1%BB%87_s%E1%BB%91_Elo
+ 481. http://tr.wikipedia.org/wiki/ELO
+ 482. http://www.mediawiki.org/
+ 483. http://wikimediafoundation.org/
+ 484. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 485. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 486. http://www.wikimediafoundation.org/
+ 487. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 488. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 489. http://en.wikipedia.org/wiki/Non-profit_organization
+ 490. http://en.wikipedia.org/wiki/Charitable_organization
+ 491. http://wikimediafoundation.org/wiki/Privacy_policy
+ 492. file://localhost/wiki/Wikipedia:About
+ 493. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 494. file://localhost/wiki/File:Crystal_Clear_app_kedit.svg
+ 495. file://localhost/wiki/File:ChessSet.jpg
+ 496. file://localhost/wiki/File:ChessSet.jpg
+ 497. file://localhost/wiki/File:Go_board.jpg
+ 498. file://localhost/wiki/File:Go_board.jpg
+ 499. file://localhost/wiki/File:Question_book-new.svg
+ 500. file://localhost/wiki/File:Ambox_content.png
+ 501. file://localhost/wiki/File:Question_book-new.svg
+ 502. file://localhost/wiki/File:Ambox_style.png
+ 503. file://localhost/wiki/File:Ambox_content.png
+ 504. file://localhost/wiki/Main_Page
+ 505. http://bg.wikipedia.org/wiki/%D0%95%D0%9B%D0%9E
+ 506. http://el.wikipedia.org/wiki/%CE%A3%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%CE%B1%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%CF%82_%CE%95%CE%9B%CE%9F
+ 507. http://he.wikipedia.org/wiki/%D7%9E%D7%93_%D7%9B%D7%95%D7%A9%D7%A8
+ 508. http://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A5%8B_%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8_%E0%A4%AA%E0%A4%A7%E0%A5%8D%E0%A4%A6%E0%A4%A4
+ 509. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AD%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0
+ 510. http://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D0%AD%D0%BB%D0%BE
+ 511. http://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D0%95%D0%BB%D0%BE
+ 512. http://zh.wikipedia.org/wiki/%E7%AD%89%E7%BA%A7%E5%88%86

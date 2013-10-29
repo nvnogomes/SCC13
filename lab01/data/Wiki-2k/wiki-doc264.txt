@@ -1,0 +1,210 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Double hyphen
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double-hyphen)
+   Jump to: [7]navigation, [8]search
+   Double hyphen in a [9]Fraktur typeface.
+
+   The double hyphen (, , or ) is a [10]punctuation mark that consists of
+   two parallel [11]hyphens. It is not to be confused with two consecutive
+   hyphens (--), which usually represents an [12]em dash () or [13]en dash
+   (). In order to avoid its being confused with the [14]equal sign (=),
+   the double hyphen is often [15]sheared slightly.
+
+[[16]edit] Usage
+
+   The double hyphen is used for several different purposes throughout the
+   world:
+     * Some [17]typefaces, such as [18]Fraktur faces, use the double
+       hyphen as a graphical variant of the single hyphen.
+     * It may be also used for artistic or commercial purposes to achieve
+       a distinctive visual effect. For example, the name of the
+       [19]Waldorf=Astoria Hotel is officially written with a double
+       hyphen.
+     * In [20]Merriam-Webster dictionaries if a word is divided at the end
+       of the line, and the division-point happens to be a hyphen, it is
+       replaced with a double hyphen to graphically indicate that the
+       divided word is normally hyphenated, for example cross=
+       country.
+     * In several dictionaries published in the late nineteenth and early
+       twentieth centuries, all such compound words are linked with double
+       hyphens, whether at the end of the line or not, and the normal use
+       of the single hyphen for non-compound words is retained. An example
+       from the first or second page of such dictionaries is Aaron'srod.
+       Examples include the [21]Century Dictionary and [22]Funk & Wagnalls
+       New Standard Dictionary of the English Language.
+     * It is used as a distinct punctuation mark by [23]Coptic language
+       scholars.
+     * In Japan, the double hyphen is used as a separation for a person's
+       name written in [24]katakana, such as W. (George W. Bush). However,
+       a distinct double hyphen character is not supported in the main
+       Japanese character encodings that are not Unicode, which are
+       [25]Shift-JIS for Windows and DOS, and [26]EUC-JP for Unix and
+       Unix-like systems. In practice, the equal sign, fullwidth equal
+       sign, and, more commonly, the [27]middle dot () are more frequently
+       used instead. Another usage in modern Japanese is the replacement
+       for hyphen, in order to avoid being confused with the [28]prolonged
+       sound mark, e.g. , or The Waldorf-Astoria.
+
+[[29]edit] Unicode
+
+   When the double hyphen is used as a functionally equivalent graphical
+   variant of the single hyphen, it is represented in [30]Unicode as a
+   normal [31]hyphen.
+
+   When used as a punctuation mark distinct from the single hyphen, the
+   double hyphen is represented in [32]Unicode by two different code
+   points:
+   Name Glyph Code point Purpose
+   DOUBLE OBLIQUE HYPHEN U+2E17 [33]Western orthography (including
+   [34]Coptic language scholarship)
+   KATAKANA-HIRAGANA DOUBLE HYPHEN U+30A0 [35]Japanese orthography
+   Retrieved from "[36]http://en.wikipedia.org/wiki/Double_hyphen"
+   [37]Categories: [38]Punctuation | [39]Typography
+
+Views
+
+     * [40]Article
+     * [41]Discussion
+     * [42]Edit this page
+     * [43]History
+
+Personal tools
+
+     * [44]Log in / create account
+
+Navigation
+
+     * [45]Main page
+     * [46]Contents
+     * [47]Featured content
+     * [48]Current events
+     * [49]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [50]About Wikipedia
+     * [51]Community portal
+     * [52]Recent changes
+     * [53]Contact Wikipedia
+     * [54]Donate to Wikipedia
+     * [55]Help
+
+Toolbox
+
+     * [56]What links here
+     * [57]Related changes
+     * [58]Upload file
+     * [59]Special pages
+     * [60]Printable version
+     * [61]Permanent link
+     * [62]Cite this page
+
+Languages
+
+     *
+
+   [63]Powered by MediaWiki
+   [64]Wikimedia Foundation
+     * This page was last modified on 27 October 2008, at 03:15.
+     * All text is available under the terms of the [65]GNU Free
+       Documentation License. (See [66]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [67]Wikimedia
+       Foundation, Inc., a U.S. registered [68]501(c)(3)
+       [69]tax-deductible [70]nonprofit [71]charity.
+     * [72]Privacy policy
+     * [73]About Wikipedia
+     * [74]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Double_hyphen&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double-hyphen&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc264.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc264.tmp.html#searchInput
+   9. file://localhost/wiki/Fraktur_(typeface)
+  10. file://localhost/wiki/Punctuation
+  11. file://localhost/wiki/Hyphen
+  12. file://localhost/wiki/Em_dash
+  13. file://localhost/wiki/En_dash
+  14. file://localhost/wiki/Equal_sign
+  15. file://localhost/wiki/Shear_mapping
+  16. file://localhost/w/index.php?title=Double_hyphen&action=edit&section=1
+  17. file://localhost/wiki/Typeface
+  18. file://localhost/wiki/Fraktur_(typeface)
+  19. file://localhost/wiki/Waldorf%3DAstoria_Hotel
+  20. file://localhost/wiki/Merriam-Webster
+  21. file://localhost/wiki/Century_Dictionary
+  22. file://localhost/wiki/Funk_%26_Wagnalls
+  23. file://localhost/wiki/Coptic_language
+  24. file://localhost/wiki/Katakana
+  25. file://localhost/wiki/Shift-JIS
+  26. file://localhost/wiki/EUC-JP
+  27. file://localhost/wiki/Middle_dot
+  28. file://localhost/wiki/Ch%C5%8Don
+  29. file://localhost/w/index.php?title=Double_hyphen&action=edit&section=2
+  30. file://localhost/wiki/Unicode
+  31. file://localhost/wiki/Hyphen
+  32. file://localhost/wiki/Unicode
+  33. file://localhost/wiki/Western_world
+  34. file://localhost/wiki/Coptic_language
+  35. file://localhost/wiki/Japanese_language
+  36. http://en.wikipedia.org/wiki/Double_hyphen
+  37. file://localhost/wiki/Special:Categories
+  38. file://localhost/wiki/Category:Punctuation
+  39. file://localhost/wiki/Category:Typography
+  40. file://localhost/wiki/Double_hyphen
+  41. file://localhost/wiki/Talk:Double_hyphen
+  42. file://localhost/w/index.php?title=Double_hyphen&action=edit
+  43. file://localhost/w/index.php?title=Double_hyphen&action=history
+  44. file://localhost/w/index.php?title=Special:UserLogin&returnto=Double_hyphen
+  45. file://localhost/wiki/Main_Page
+  46. file://localhost/wiki/Portal:Contents
+  47. file://localhost/wiki/Portal:Featured_content
+  48. file://localhost/wiki/Portal:Current_events
+  49. file://localhost/wiki/Special:Random
+  50. file://localhost/wiki/Wikipedia:About
+  51. file://localhost/wiki/Wikipedia:Community_portal
+  52. file://localhost/wiki/Special:RecentChanges
+  53. file://localhost/wiki/Wikipedia:Contact_us
+  54. http://wikimediafoundation.org/wiki/Donate
+  55. file://localhost/wiki/Help:Contents
+  56. file://localhost/wiki/Special:WhatLinksHere/Double_hyphen
+  57. file://localhost/wiki/Special:RecentChangesLinked/Double_hyphen
+  58. file://localhost/wiki/Wikipedia:Upload
+  59. file://localhost/wiki/Special:SpecialPages
+  60. file://localhost/w/index.php?title=Double_hyphen&printable=yes
+  61. file://localhost/w/index.php?title=Double_hyphen&oldid=247911215
+  62. file://localhost/w/index.php?title=Special:Cite&page=Double_hyphen&id=247911215
+  63. http://www.mediawiki.org/
+  64. http://wikimediafoundation.org/
+  65. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  66. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  67. http://www.wikimediafoundation.org/
+  68. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  69. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  70. http://en.wikipedia.org/wiki/Non-profit_organization
+  71. http://en.wikipedia.org/wiki/Charitable_organization
+  72. http://wikimediafoundation.org/wiki/Privacy_policy
+  73. file://localhost/wiki/Wikipedia:About
+  74. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  75. file://localhost/wiki/File:Double_hyphen_in_Walbaum-Fraktur.png
+  76. file://localhost/wiki/File:Double_hyphen_in_Walbaum-Fraktur.png
+  77. http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%89%E3%83%AB%E3%83%95%EF%BC%9D%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2
+  78. file://localhost/wiki/Main_Page
+  79. http://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3

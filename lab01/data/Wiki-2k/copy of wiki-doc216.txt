@@ -1,0 +1,557 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+id Tech 4
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Doom III Engine)
+   Jump to: [7]navigation, [8]search
+
+   CAPTION: id Tech 4
+
+   [9]Developed by [10]id Software
+   [11]Written in [12]C++
+   [13]Platform [14]Windows, [15]Linux, [16]Xbox, [17]Xbox 360,
+   [18]Playstation 3, [19]Macintosh^[20][1]
+   [21]Type [22]Game engine
+   [23]License proprietary ^[24][2]; [25]GNU General Public License
+   planned for 2009^[26][3]
+
+   id Tech 4, formerly known as the Doom 3 engine, is a computer [27]game
+   engine developed by [28]id Software and first used in the [29]PC game
+   [30]Doom 3. The engine was designed by [31]John Carmack, who also
+   created previous engines such as those for [32]Doom and [33]Quake,
+   which are also generally recognized as marking significant advances in
+   the field.
+
+Contents
+
+     * [34]1 History
+          + [35]1.1 Hardware
+     * [36]2 Features
+          + [37]2.1 Graphics
+               o [38]2.1.1 Games using or licensing id Tech 4
+          + [39]2.2 MegaTexture rendering technology
+          + [40]2.3 Techniques used in id Tech 4
+     * [41]3 See also
+     * [42]4 References
+     * [43]5 External links
+
+[[44]edit] History
+
+   id Tech 4 began as an enhancement to [45]id Tech 3. Originally it was
+   planned to be a complete rewrite of the engine's [46]renderer, while
+   still retaining other subsystems, such as file access, and memory
+   management. After the new renderer was functional, however, the
+   decision was made to switch from [47]C to the [48]C++ [49]programming
+   language, necessitating a complete restructuring and rewrite of the
+   rest of the engine; today, while id Tech 4 contains code from id Tech
+   3, much of it has had to be rewritten.
+
+   Like its predecessors, id Tech 4 will eventually be released as
+   [50]open source. At the [51]QuakeCon 2007, [52]John Carmack the lead
+   graphics engine developer at id, said to [53]LinuxGames: "I mean I
+   won't commit to a date, but the Doom 3 stuff will be open source."
+   ^[54][4]
+
+[[55]edit] Hardware
+
+   The requirement of id Tech 4 was that it needed a high-end graphics
+   processing unit (GPU), which was at least DirectX 8.0 compliant with
+   [56]fully programmable vertex and pixel shaders, such as the [57]Nvidia
+   [58]GeForce 3 or [59]ATI [60]Radeon 8500, with at least 64 MB of VRAM.
+   By E3 2002, the recommended GPU was the [61]Radeon 9700 with 128 VRAM;
+   while its DirectX 9.0 features are not necessary to render the game,
+   its advanced architecture, 256-bit memory bus, and efficiency were
+   needed to run Doom 3 at high detail and playable speed.[62][1]
+
+   id Tech 4 resulted in the obsolescence of DirectX 7.0 graphics chips
+   such as the widespread [63]GeForce 2 and [64]Radeon 7200, as well as
+   DirectX 6.0 chipsets such as [65]RIVA TNT2 and [66]Rage 128, and
+   software rendering (with an integrated [67]Intel GMA). Until the advent
+   of id Tech 4, a powerful CPU was able to somewhat compensate for an
+   older video card. While [68]John Carmack initially warned gamers not to
+   purchase the [69]GeForce 4 MX (which casual consumers often confused
+   with the DirectX 8.0 GeForce 4 Ti, though it was at best an improved
+   DirectX 7.0 [70]GeForce 2), its somewhat widespread adoption compelled
+   id Software to enable Doom 3 to run on these cards, making it the only
+   DirectX 7.0 chip capable of doing so. There have been cases of
+   enthusiasts forcing [71]Doom 3 to run on unsupported graphics chips,
+   such as the long obsolete [72]Voodoo 2, but these are unable to render
+   the per-pixel lighting and bump mapping.[73][2]
+
+[[74]edit] Features
+
+   The shadowing effects of the Unified lighting and shadowing engine are
+   shown on the face and body of the zombies in this screenshot of Doom 3
+
+[[75]edit] Graphics
+
+   The id Tech 4 added several new graphical features absent in its
+   predecessor, [76]id Tech 3. These included [77]bump mapping, [78]normal
+   mapping, and [79]specular highlighting. More features were added in the
+   development of successive games, and in yet unreleased games using id
+   Tech 4, new features have been added or are planned to be added soon.
+
+   The primary innovation of id Tech 4 was its use of entirely dynamic
+   [80]per-pixel lighting, whereas previously, 3D engines had relied
+   primarily on pre-calculated per-vertex lighting or [81]lightmaps and
+   [82]Gouraud shading. While dynamic effects had been available before
+   (such as dynamic moving lights), this effect merely changed the
+   brightness of the vertices of the polygon, with the pixel's colors
+   simply being interpolated between the three vertex colors of its
+   polygon. The approach used in Doom 3 permitted more realistic lighting
+   and shadows^[83][5] that just had been introduced in video
+   games^[84][6].
+
+[[85]edit] Games using or licensing id Tech 4
+
+   Unlike the preceding and widely-used [86]id Tech 3 (Quake III Engine)
+   and [87]id Tech 2 (Quake II Engine), id Tech 4 has had somewhat less
+   success in licensing to third parties. This is especially apparent in
+   comparison to its closest competitor, the [88]Unreal 3 engine. The
+   unexpected long development time going into id Tech 4 did not help, as
+   between 2002-2004, id Software had no equivalent to the [89]Unreal 2
+   engine. Many who licensed the Unreal 2 engine were thus able to make
+   the switch to Unreal 3 more easily.
+
+   While id Tech 4 had taken a new direction with its dynamic
+   [90]per-pixel lighting, this unconventional feature had steeper
+   hardware requirements and was initially only useful in "spooky games"
+   (until the [91]MegaTexture addition), whereas an increasing number of
+   developers preferred conventional engines that could render large
+   outdoor areas. Also notable was id Tech 4's relative lack of
+   scalability compared to competing FPS engines which would have limited
+   its potential audience; the [92]Source Engine could still run on the
+   older widespread DirectX 7 GPUs albeit without shaders being used.
+     * [93]Doom 3 [94]id Software
+          + [95]Doom 3: Resurrection of Evil [96]Nerve Software
+     * [97]Quake 4 [98]Raven Software
+     * [99]Prey [100]Human Head Studios
+     * [101]Enemy Territory: Quake Wars [102]Splash Damage
+     * [103]Wolfenstein [104]Raven Software
+
+[[105]edit] MegaTexture rendering technology
+
+          Main article: [106]MegaTexture
+
+   The original version of the id Tech 4 engine was criticized for its
+   perceived inability to handle large outdoor areas. The MegaTexture
+   technology addresses this issue by introducing a means to create
+   expansive outdoor scenes. By painting a single massive texture
+   (32,76832,768 [107]pixels, though it has been extended to larger
+   dimensions in recent versions of the MegaTexture technology) covering
+   the entire polygon map and highly detailed terrain, the desired effects
+   can be achieved. The MegaTexture can also store physical information
+   about the terrain such as the amount of traction in certain areas or
+   indicate what sound effect should be played when walking over specific
+   parts of the map. i.e. walking on rock will sound different from
+   walking on grass.^[108][7] It is expected that this will result in a
+   considerably more detailed scene than the majority of existing
+   technologies, using tiled textures, allow. Currently, the only game
+   that utilizes MegaTexture based on the Tech 4 engine is [109]Enemy
+   Territory: Quake Wars.
+
+[[110]edit] Techniques used in id Tech 4
+
+     * [111]Unified lighting and shadowing
+     * [112]Shadow volume
+
+[[113]edit] See also
+
+     * [114]List of game engines
+     * [115]First person shooter engine
+
+[[116]edit] References
+
+    1. [117]^ [118]"3D Engine: id Tech 4".
+       [119]http://www.mobygames.com/game-group/3d-engine-id-tech-4.
+       Retrieved on 2008-09-24.
+    2. [120]^ [121]"Id Software: Technology Licensing".
+       [122]http://www.idsoftware.com/business/idtech4/. Retrieved on
+       2008-09-24.
+    3. [123]^ [124]"QuakeCon Recap".
+       [125]http://www.linuxgames.com/archives/10532. Retrieved on
+       2008-09-24.
+    4. [126]^ [127]LinuxGames - Embrace your inner penguin
+    5. [128]^ [129]Doom 3
+    6. [130]^ for example [131]http://www.starbreeze.com/engine.jsp and
+       others
+    7. [132]^ [133]GameSpy: Enemy Territory: Quake Wars Preview
+
+     * [134]CNN - Life after "Doom"
+     * [135]Gamespy article from which some information on MegaTexture was
+       derived
+     * [136]Article detailing some features of id Tech 4
+     * [137][3]
+
+[[138]edit] External links
+
+     * [139]Official MOD support website for the id Tech 4
+     * [140]Technical Help Forum & Custom Content Creation
+     * [141]id Tech 4 reference material
+     * [142]id Tech 4's ModDB page containing mod listing, tutorials, and
+       more
+
+   [143]v  [144]d  [145]e
+   [146]Quake series
+   [147]Games
+   [148]Quake ([149]Scourge of Armagon  [150]Dissolution of Eternity)
+   [151]Quake II ([152]The Reckoning  [153]Ground Zero)  [154]Quake III
+   Arena ([155]Team Arena)  [156]Quake 4  [157]Enemy Territory: Quake Wars
+     [158]Quake Live
+   [159]Engines
+   [160]Quake engine  [161]id Tech 2  [162]id Tech 3  id Tech 4  [163]id
+   Tech 5
+   [164]Modifications
+   [165]Quake mods  [166]Quake II mods  [167]Quake III Arena mods
+   See also
+   [168]id Software  [169]QuakeC  [170]QuakeWorld  [171]QuakeCon
+   [172]Strogg  [173]BFG10K  [174]Quake engine machinimas
+   [175]v  [176]d  [177]e
+   The Doom series and related topics
+   Main series
+   [178]Doom  [179]Doom II: Hell on Earth  [180]Final Doom  [181]Doom 64
+   [182]Doom 3 ([183]Resurrection of Evil)  [184]Doom 4
+   Other games
+   [185]Doom: The Boardgame  [186]Doom, the Roguelike  [187]Chex Quest
+   [188]Doom RPG
+   Other media
+   [189]Novelizations  [190]Doom film  [191]Spin-offs and homages
+   [192]Versions and ports
+   Technology
+   [193]id Tech 1  id Tech 4  [194]id Tech 5  [195]Making of Doom
+   [196]Doom clone  [197]WAD files
+   Fiction & information
+   [198]BFG 9000  [199]Doomguy  [200]Grabber  [201]Union Aerospace
+   Corporation  [202]Enemies in Doom
+   Retrieved from "[203]http://en.wikipedia.org/wiki/Id_Tech_4"
+   [204]Categories: [205]Quake | [206]Doom | [207]Video game engines |
+   [208]Virtual reality | [209]2004 introductions
+
+Views
+
+     * [210]Article
+     * [211]Discussion
+     * [212]Edit this page
+     * [213]History
+
+Personal tools
+
+     * [214]Log in / create account
+
+Navigation
+
+     * [215]Main page
+     * [216]Contents
+     * [217]Featured content
+     * [218]Current events
+     * [219]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [220]About Wikipedia
+     * [221]Community portal
+     * [222]Recent changes
+     * [223]Contact Wikipedia
+     * [224]Donate to Wikipedia
+     * [225]Help
+
+Toolbox
+
+     * [226]What links here
+     * [227]Related changes
+     * [228]Upload file
+     * [229]Special pages
+     * [230]Printable version
+     * [231]Permanent link
+     * [232]Cite this page
+
+Languages
+
+     * [233]Espaol
+     * [234]Franais
+     * [235]Italiano
+     * [236]Lietuvi
+     * [237]Magyar
+     *
+     * [238]Suomi
+     *
+
+   [239]Powered by MediaWiki
+   [240]Wikimedia Foundation
+     * This page was last modified on 21 February 2009, at 19:39.
+     * All text is available under the terms of the [241]GNU Free
+       Documentation License. (See [242]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [243]Wikimedia
+       Foundation, Inc., a U.S. registered [244]501(c)(3)
+       [245]tax-deductible [246]nonprofit [247]charity.
+     * [248]Privacy policy
+     * [249]About Wikipedia
+     * [250]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Id_Tech_4&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Doom_III_Engine&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#searchInput
+   9. file://localhost/wiki/Software_developer
+  10. file://localhost/wiki/Id_Software
+  11. file://localhost/wiki/Programming_language
+  12. file://localhost/wiki/C%2B%2B
+  13. file://localhost/wiki/Computing_platform
+  14. file://localhost/wiki/Windows
+  15. file://localhost/wiki/Linux
+  16. file://localhost/wiki/Xbox
+  17. file://localhost/wiki/Xbox_360
+  18. file://localhost/wiki/Playstation_3
+  19. file://localhost/wiki/Macintosh
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-0
+  21. file://localhost/wiki/List_of_software_categories
+  22. file://localhost/wiki/Game_engine
+  23. file://localhost/wiki/Software_license
+  24. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-1
+  25. file://localhost/wiki/GNU_General_Public_License
+  26. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-2
+  27. file://localhost/wiki/Game_engine
+  28. file://localhost/wiki/Id_Software
+  29. file://localhost/wiki/Personal_computer_game
+  30. file://localhost/wiki/Doom_3
+  31. file://localhost/wiki/John_D._Carmack
+  32. file://localhost/wiki/Doom_engine
+  33. file://localhost/wiki/Quake_engine
+  34. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#History
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#Hardware
+  36. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#Features
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#Graphics
+  38. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#Games_using_or_licensing_id_Tech_4
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#MegaTexture_rendering_technology
+  40. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#Techniques_used_in_id_Tech_4
+  41. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#See_also
+  42. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#References
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#External_links
+  44. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=1
+  45. file://localhost/wiki/Id_Tech_3
+  46. file://localhost/wiki/Rendering_(computer_graphics)
+  47. file://localhost/wiki/C_Programming_Language
+  48. file://localhost/wiki/C%2B%2B
+  49. file://localhost/wiki/Programming_language
+  50. file://localhost/wiki/Open_source
+  51. file://localhost/wiki/QuakeCon
+  52. file://localhost/wiki/John_D._Carmack
+  53. file://localhost/w/index.php?title=LinuxGames&action=edit&redlink=1
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-3
+  55. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=2
+  56. file://localhost/w/index.php?title=List_of_computer_games_that_require_Pixel_Shaders&action=edit&redlink=1
+  57. file://localhost/wiki/Nvidia
+  58. file://localhost/wiki/GeForce_3
+  59. file://localhost/wiki/ATI
+  60. file://localhost/wiki/Radeon_8500
+  61. file://localhost/wiki/Radeon_9700
+  62. http://www.neowin.net/news/main/02/07/20/atis-radeon-9700-takes-performance-lead
+  63. file://localhost/wiki/GeForce_2
+  64. file://localhost/wiki/Radeon_R100
+  65. file://localhost/wiki/RIVA_TNT2
+  66. file://localhost/wiki/Rage_128
+  67. file://localhost/wiki/Intel_GMA
+  68. file://localhost/wiki/John_D._Carmack
+  69. file://localhost/wiki/GeForce_4
+  70. file://localhost/wiki/GeForce_2
+  71. file://localhost/wiki/Doom_3
+  72. file://localhost/wiki/Voodoo_2
+  73. http://www.3dfxzone.it/enboard/topic.asp?TOPIC_ID=1462
+  74. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=3
+  75. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=4
+  76. file://localhost/wiki/Id_Tech_3
+  77. file://localhost/wiki/Bump_mapping
+  78. file://localhost/wiki/Normal_mapping
+  79. file://localhost/wiki/Specular_highlight
+  80. file://localhost/wiki/Per-pixel_lighting
+  81. file://localhost/wiki/Lightmap
+  82. file://localhost/wiki/Gouraud_shading
+  83. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-4
+  84. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-5
+  85. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=5
+  86. file://localhost/wiki/Id_Tech_3
+  87. file://localhost/wiki/Id_Tech_2
+  88. file://localhost/wiki/Unreal_Engine#Unreal_Engine_3
+  89. file://localhost/wiki/Unreal_Engine#Unreal_Engine_2
+  90. file://localhost/wiki/Per-pixel_lighting
+  91. file://localhost/wiki/MegaTexture
+  92. file://localhost/wiki/Source_Engine
+  93. file://localhost/wiki/Doom_3
+  94. file://localhost/wiki/Id_Software
+  95. file://localhost/wiki/Doom_3:_Resurrection_of_Evil
+  96. file://localhost/wiki/Nerve_Software
+  97. file://localhost/wiki/Quake_4
+  98. file://localhost/wiki/Raven_Software
+  99. file://localhost/wiki/Prey_(video_game)
+ 100. file://localhost/wiki/Human_Head_Studios
+ 101. file://localhost/wiki/Enemy_Territory:_Quake_Wars
+ 102. file://localhost/wiki/Splash_Damage
+ 103. file://localhost/wiki/Wolfenstein_(video_game)
+ 104. file://localhost/wiki/Raven_Software
+ 105. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=6
+ 106. file://localhost/wiki/MegaTexture
+ 107. file://localhost/wiki/Pixel
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_note-6
+ 109. file://localhost/wiki/Enemy_Territory:_Quake_Wars
+ 110. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=7
+ 111. file://localhost/wiki/Unified_lighting_and_shadowing
+ 112. file://localhost/wiki/Shadow_volume
+ 113. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=8
+ 114. file://localhost/wiki/List_of_game_engines
+ 115. file://localhost/wiki/First_person_shooter_engine
+ 116. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=9
+ 117. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-0
+ 118. http://www.mobygames.com/game-group/3d-engine-id-tech-4
+ 119. http://www.mobygames.com/game-group/3d-engine-id-tech-4
+ 120. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-1
+ 121. http://www.idsoftware.com/business/idtech4/
+ 122. http://www.idsoftware.com/business/idtech4/
+ 123. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-2
+ 124. http://www.linuxgames.com/archives/10532
+ 125. http://www.linuxgames.com/archives/10532
+ 126. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-3
+ 127. http://www.linuxgames.com/archives/9374
+ 128. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-4
+ 129. http://www.digit-life.com/articles2/doom3/doom3.html
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-5
+ 131. http://www.starbreeze.com/engine.jsp
+ 132. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc216.tmp.html#cite_ref-6
+ 133. http://pc.gamespy.com/pc/enemy-territory-quake-wars/681231p1.html
+ 134. http://money.cnn.com/2004/08/12/commentary/game_over/column_gaming
+ 135. http://pc.gamespy.com/pc/enemy-territory-quake-wars/681231p1.html
+ 136. http://www.digit-life.com/articles2/doom3/doom3.html
+ 137. http://www.linuxgames.com/news/feedback.php?identiferID=9374&action=flatview
+ 138. file://localhost/w/index.php?title=Id_Tech_4&action=edit&section=10
+ 139. http://iddevnet.com/
+ 140. http://www.doom3world.org/phpbb2/index.php
+ 141. http://www.modwiki.net/wiki/Main_Page
+ 142. http://www.moddb.com/engines/7/id-tech-4
+ 143. file://localhost/wiki/Template:Quake_series
+ 144. file://localhost/wiki/Template_talk:Quake_series
+ 145. http://en.wikipedia.org/w/index.php?title=Template:Quake_series&action=edit
+ 146. file://localhost/wiki/Quake_(series)
+ 147. file://localhost/wiki/Quake_(series)
+ 148. file://localhost/wiki/Quake
+ 149. file://localhost/wiki/Quake_Mission_Pack_1:_Scourge_of_Armagon
+ 150. file://localhost/wiki/Quake_Mission_Pack_2:_Dissolution_of_Eternity
+ 151. file://localhost/wiki/Quake_II
+ 152. file://localhost/wiki/Quake_II
+ 153. file://localhost/wiki/Quake_II
+ 154. file://localhost/wiki/Quake_III_Arena
+ 155. file://localhost/wiki/Quake_III_Arena
+ 156. file://localhost/wiki/Quake_4
+ 157. file://localhost/wiki/Enemy_Territory:_Quake_Wars
+ 158. file://localhost/wiki/Quake_Live
+ 159. file://localhost/wiki/Game_engine
+ 160. file://localhost/wiki/Quake_engine
+ 161. file://localhost/wiki/Id_Tech_2
+ 162. file://localhost/wiki/Id_Tech_3
+ 163. file://localhost/wiki/Id_Tech_5
+ 164. file://localhost/wiki/Mod_(computer_gaming)
+ 165. file://localhost/wiki/Category:Quake_mods
+ 166. file://localhost/wiki/Category:Quake_II_mods
+ 167. file://localhost/wiki/Category:Quake_III_Arena_mods
+ 168. file://localhost/wiki/Id_Software
+ 169. file://localhost/wiki/QuakeC
+ 170. file://localhost/wiki/QuakeWorld
+ 171. file://localhost/wiki/QuakeCon
+ 172. file://localhost/wiki/Strogg
+ 173. file://localhost/wiki/BFG10K
+ 174. file://localhost/wiki/Category:Machinima_based_on_a_Quake_series_engine
+ 175. file://localhost/wiki/Template:Doom_series
+ 176. file://localhost/wiki/Template_talk:Doom_series
+ 177. http://en.wikipedia.org/w/index.php?title=Template:Doom_series&action=edit
+ 178. file://localhost/wiki/Doom_(video_game)
+ 179. file://localhost/wiki/Doom_II:_Hell_on_Earth
+ 180. file://localhost/wiki/Final_Doom
+ 181. file://localhost/wiki/Doom_64
+ 182. file://localhost/wiki/Doom_3
+ 183. file://localhost/wiki/Doom_3:_Resurrection_of_Evil
+ 184. file://localhost/wiki/Doom_4
+ 185. file://localhost/wiki/Doom:_The_Boardgame
+ 186. file://localhost/wiki/DoomRL
+ 187. file://localhost/wiki/Chex_Quest
+ 188. file://localhost/wiki/Doom_RPG
+ 189. file://localhost/wiki/Doom_novels
+ 190. file://localhost/wiki/Doom_(film)
+ 191. file://localhost/wiki/Doom_spin-offs_and_homages
+ 192. file://localhost/wiki/Versions_and_ports_of_Doom
+ 193. file://localhost/wiki/Doom_engine
+ 194. file://localhost/wiki/Id_Tech_5
+ 195. file://localhost/wiki/Making_of_Doom
+ 196. file://localhost/wiki/Doom_clone
+ 197. file://localhost/wiki/Doom_WAD
+ 198. file://localhost/wiki/BFG_9000
+ 199. file://localhost/wiki/Doomguy
+ 200. file://localhost/wiki/Gravity_gun
+ 201. file://localhost/wiki/Union_Aerospace_Corporation
+ 202. file://localhost/wiki/List_of_enemies_in_Doom
+ 203. http://en.wikipedia.org/wiki/Id_Tech_4
+ 204. file://localhost/wiki/Special:Categories
+ 205. file://localhost/wiki/Category:Quake
+ 206. file://localhost/wiki/Category:Doom
+ 207. file://localhost/wiki/Category:Video_game_engines
+ 208. file://localhost/wiki/Category:Virtual_reality
+ 209. file://localhost/wiki/Category:2004_introductions
+ 210. file://localhost/wiki/Id_Tech_4
+ 211. file://localhost/wiki/Talk:Id_Tech_4
+ 212. file://localhost/w/index.php?title=Id_Tech_4&action=edit
+ 213. file://localhost/w/index.php?title=Id_Tech_4&action=history
+ 214. file://localhost/w/index.php?title=Special:UserLogin&returnto=Id_Tech_4
+ 215. file://localhost/wiki/Main_Page
+ 216. file://localhost/wiki/Portal:Contents
+ 217. file://localhost/wiki/Portal:Featured_content
+ 218. file://localhost/wiki/Portal:Current_events
+ 219. file://localhost/wiki/Special:Random
+ 220. file://localhost/wiki/Wikipedia:About
+ 221. file://localhost/wiki/Wikipedia:Community_portal
+ 222. file://localhost/wiki/Special:RecentChanges
+ 223. file://localhost/wiki/Wikipedia:Contact_us
+ 224. http://wikimediafoundation.org/wiki/Donate
+ 225. file://localhost/wiki/Help:Contents
+ 226. file://localhost/wiki/Special:WhatLinksHere/Id_Tech_4
+ 227. file://localhost/wiki/Special:RecentChangesLinked/Id_Tech_4
+ 228. file://localhost/wiki/Wikipedia:Upload
+ 229. file://localhost/wiki/Special:SpecialPages
+ 230. file://localhost/w/index.php?title=Id_Tech_4&printable=yes
+ 231. file://localhost/w/index.php?title=Id_Tech_4&oldid=272321897
+ 232. file://localhost/w/index.php?title=Special:Cite&page=Id_Tech_4&id=272321897
+ 233. http://es.wikipedia.org/wiki/Doom_3_engine
+ 234. http://fr.wikipedia.org/wiki/Id_Tech_4
+ 235. http://it.wikipedia.org/wiki/Id_Tech_4
+ 236. http://lt.wikipedia.org/wiki/Id_Tech_4
+ 237. http://hu.wikipedia.org/wiki/Id_Tech_4
+ 238. http://fi.wikipedia.org/wiki/Id_Tech_4
+ 239. http://www.mediawiki.org/
+ 240. http://wikimediafoundation.org/
+ 241. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 242. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 243. http://www.wikimediafoundation.org/
+ 244. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 245. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 246. http://en.wikipedia.org/wiki/Non-profit_organization
+ 247. http://en.wikipedia.org/wiki/Charitable_organization
+ 248. http://wikimediafoundation.org/wiki/Privacy_policy
+ 249. file://localhost/wiki/Wikipedia:About
+ 250. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 251. file://localhost/wiki/File:Doom3shadows2.jpg
+ 252. file://localhost/wiki/File:Doom3shadows2.jpg
+ 253. file://localhost/wiki/Main_Page
+ 254. http://ru.wikipedia.org/wiki/Id_Tech_4
+ 255. http://zh.wikipedia.org/wiki/Id_Tech_4

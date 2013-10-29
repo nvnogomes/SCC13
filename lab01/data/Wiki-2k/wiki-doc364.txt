@@ -1,0 +1,245 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Dragon's Gate
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   Dragon's Gate was an interactive, real time, [8]text-based [9]multi
+   user online [10]fantasy role-playing game, sometimes referred to as a
+   [11]MUD. It was one of the longest running pay-for-play [12]online
+   games in the world, it opened to the public in the spring of 1991 on
+   [13]GEnie. In the summer of 1996 the game was moved to [14]AOL. Later
+   the game was moved again to Mythic Realms, and most recently as an
+   independent server.
+
+Contents
+
+     * [15]1 History
+     * [16]2 Production overview
+     * [17]3 References
+     * [18]4 External links
+
+[[19]edit] History
+
+   At its creation, the core of Dragon's Gate was based on the
+   AUSI-entitled game Aradath, which was designed in 1985 by [20]Mark
+   Jacobs. Jacobs, along with partner Rob Denton, later formed a company
+   in 1995 called [21]Interworld Productions, which in 1997 was re-named
+   as [22]Mythic Entertainment. [23]Mythic Entertainment is currently best
+   known for the [24]MMORPG [25]Warhammer Online.
+
+   In June 20, 2006 [26]Mythic Entertainment was purchased by
+   [27]Electronic Arts^[28][1].
+
+   On January 31, 2006, [29]Mythic Entertainment dropped a number of games
+   from its services and official sponsoring, including Dragon's Gate.
+   Currently, the game server is offline entirely, and as such, Dragon's
+   Gate is no longer accepting new members and can no longer be connected
+   via telnet to play what was formally a [30]MUD. Recently, as said per
+   the official [31]message boards, the game has been "closed... at least
+   for now."^[32][2]
+
+[[33]edit] Production overview
+
+   Like other games of its kind, Dragon's Gate was based on ideas similar
+   to popular fantasy stories (such as [34]The Lord of the Rings and
+   [35]Dungeons & Dragons). Each player created a character and assumed
+   the identity of that character while participating. [36]Role-playing
+   allowed interaction between PCs ([37]player characters) and NPCs
+   ([38]non-player characters in the form of computer controlled creatures
+   including monsters and merchants among others) within a simulated
+   environment, which runs in a real-time framework, allowing for an
+   extremely immersive experience. Among the possible game events are
+   numerous GM ([39]game master) or player-run scenarios which variously
+   consist of adventuring, completing quests, fighting in gladiatoral
+   sports, and making new friends with other players.
+
+   A [40]player character could be comprised of any one of several classes
+   and races and be individualized in many ways, similar to more modern
+   [41]MMORPGs. Throughout the gaming process, players quickly learned
+   about the way the world functions and how to adventure (usually in
+   search of things like loot, glory, fame, and fortune) either alone or
+   with other players. The game is specifically designed to emphasize its
+   [42]role-playing aspects, and to this end the developers have
+   de-emphasized the statistics; although they are still an integral part
+   of the way the game works, and some statistics with numbers are still
+   shown, but are kept to an absolute minimum. Life in the game continues
+   24 hours a day, and events continue to occur without requiring the
+   direct intervention of players, a concept commonly referred to as
+   "persistence."
+
+   According to the official website: "The world is rich with political
+   and religious strife and has a detailed history. It is very easy to get
+   involved and immersed in [43]role-play. Dragon's Gate allows you to
+   experience an exciting world designed to be more than just a [44]text
+   adventure. As a social gaming system, Dragon's Gate is intended to be
+   fun.
+
+[[45]edit] References
+
+    1. [46]^ [47]EA To Acquire Mythic Entertainment
+    2. [48]^ [49]Official Dragon's Gate Message Boards
+
+[[50]edit] External links
+
+     * [51]Mythic Entertainment, Inc., official website
+     * [52]Mythic Realms, information archive of Mythic's older games
+     * [53]Centropolis Games, information archive of Mythic's older games
+
+   Retrieved from "[54]http://en.wikipedia.org/wiki/Dragon%27s_Gate"
+   [55]Category: [56]MUD games
+
+Views
+
+     * [57]Article
+     * [58]Discussion
+     * [59]Edit this page
+     * [60]History
+
+Personal tools
+
+     * [61]Log in / create account
+
+Navigation
+
+     * [62]Main page
+     * [63]Contents
+     * [64]Featured content
+     * [65]Current events
+     * [66]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [67]About Wikipedia
+     * [68]Community portal
+     * [69]Recent changes
+     * [70]Contact Wikipedia
+     * [71]Donate to Wikipedia
+     * [72]Help
+
+Toolbox
+
+     * [73]What links here
+     * [74]Related changes
+     * [75]Upload file
+     * [76]Special pages
+     * [77]Printable version
+     * [78]Permanent link
+     * [79]Cite this page
+
+   [80]Powered by MediaWiki
+   [81]Wikimedia Foundation
+     * This page was last modified on 12 January 2009, at 21:54.
+     * All text is available under the terms of the [82]GNU Free
+       Documentation License. (See [83]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [84]Wikimedia
+       Foundation, Inc., a U.S. registered [85]501(c)(3)
+       [86]tax-deductible [87]nonprofit [88]charity.
+     * [89]Privacy policy
+     * [90]About Wikipedia
+     * [91]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Dragon%27s_Gate&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#searchInput
+   8. file://localhost/wiki/Text-based
+   9. file://localhost/wiki/Multi-user
+  10. file://localhost/wiki/Role-playing_game
+  11. file://localhost/wiki/MUD
+  12. file://localhost/wiki/Online_game
+  13. file://localhost/wiki/GEnie
+  14. file://localhost/wiki/AOL
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#History
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#Production_overview
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#References
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#External_links
+  19. file://localhost/w/index.php?title=Dragon%27s_Gate&action=edit&section=1
+  20. file://localhost/wiki/Mark_Jacobs
+  21. file://localhost/wiki/Mythic_Entertainment
+  22. file://localhost/wiki/Mythic_Entertainment
+  23. file://localhost/wiki/Mythic_Entertainment
+  24. file://localhost/wiki/MMORPG
+  25. file://localhost/wiki/Warhammer_Online
+  26. file://localhost/wiki/Mythic_Entertainment
+  27. file://localhost/wiki/Electronic_Arts
+  28. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#cite_note-0
+  29. file://localhost/wiki/Mythic_Entertainment
+  30. file://localhost/wiki/MUD
+  31. file://localhost/wiki/Internet_forum
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#cite_note-1
+  33. file://localhost/w/index.php?title=Dragon%27s_Gate&action=edit&section=2
+  34. file://localhost/wiki/The_Lord_of_the_Rings
+  35. file://localhost/wiki/Dungeons_%26_Dragons
+  36. file://localhost/wiki/Role-playing
+  37. file://localhost/wiki/Player_character
+  38. file://localhost/wiki/Non-player_character
+  39. file://localhost/wiki/Gamemaster
+  40. file://localhost/wiki/Player_character
+  41. file://localhost/wiki/MMORPGs
+  42. file://localhost/wiki/Role-playing
+  43. file://localhost/wiki/Roleplaying
+  44. file://localhost/wiki/Interactive_fiction
+  45. file://localhost/w/index.php?title=Dragon%27s_Gate&action=edit&section=3
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#cite_ref-0
+  47. http://www.mythicentertainment.com/press/06202006EAMythic.html
+  48. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc364.tmp.html#cite_ref-1
+  49. http://pub13.ezboard.com/bdragonsgate
+  50. file://localhost/w/index.php?title=Dragon%27s_Gate&action=edit&section=4
+  51. http://www.mythicentertainment.com/
+  52. http://www.mythic-realms.com/
+  53. http://www.electric-ent.com/games/index.html
+  54. http://en.wikipedia.org/wiki/Dragon%27s_Gate
+  55. file://localhost/wiki/Special:Categories
+  56. file://localhost/wiki/Category:MUD_games
+  57. file://localhost/wiki/Dragon%27s_Gate
+  58. file://localhost/wiki/Talk:Dragon%27s_Gate
+  59. file://localhost/w/index.php?title=Dragon%27s_Gate&action=edit
+  60. file://localhost/w/index.php?title=Dragon%27s_Gate&action=history
+  61. file://localhost/w/index.php?title=Special:UserLogin&returnto=Dragon%27s_Gate
+  62. file://localhost/wiki/Main_Page
+  63. file://localhost/wiki/Portal:Contents
+  64. file://localhost/wiki/Portal:Featured_content
+  65. file://localhost/wiki/Portal:Current_events
+  66. file://localhost/wiki/Special:Random
+  67. file://localhost/wiki/Wikipedia:About
+  68. file://localhost/wiki/Wikipedia:Community_portal
+  69. file://localhost/wiki/Special:RecentChanges
+  70. file://localhost/wiki/Wikipedia:Contact_us
+  71. http://wikimediafoundation.org/wiki/Donate
+  72. file://localhost/wiki/Help:Contents
+  73. file://localhost/wiki/Special:WhatLinksHere/Dragon%27s_Gate
+  74. file://localhost/wiki/Special:RecentChangesLinked/Dragon%27s_Gate
+  75. file://localhost/wiki/Wikipedia:Upload
+  76. file://localhost/wiki/Special:SpecialPages
+  77. file://localhost/w/index.php?title=Dragon%27s_Gate&printable=yes
+  78. file://localhost/w/index.php?title=Dragon%27s_Gate&oldid=263673376
+  79. file://localhost/w/index.php?title=Special:Cite&page=Dragon%27s_Gate&id=263673376
+  80. http://www.mediawiki.org/
+  81. http://wikimediafoundation.org/
+  82. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  83. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  84. http://www.wikimediafoundation.org/
+  85. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  86. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  87. http://en.wikipedia.org/wiki/Non-profit_organization
+  88. http://en.wikipedia.org/wiki/Charitable_organization
+  89. http://wikimediafoundation.org/wiki/Privacy_policy
+  90. file://localhost/wiki/Wikipedia:About
+  91. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  92. file://localhost/wiki/Main_Page

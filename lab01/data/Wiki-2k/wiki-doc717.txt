@@ -1,0 +1,362 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Earnings before interest, taxes, depreciation and amortization
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   Earnings before interest, taxes, depreciation and amortization (EBITDA)
+   is a non-[8]GAAP metric that can be used to evaluate a company's
+   profitability.
+
+                EBITDA = Operating Revenue Operating Expenses + Other
+                Revenue
+
+   Its name comes from the fact that Operating Expenses do not include
+   interest, taxes, or [9]amortization. EBITDA is not a defined measure
+   according to [10]Generally Accepted Accounting Principles (GAAP) and
+   thus can be calculated however a company wishes. It is also not a
+   measure of [11]cash flow.
+
+   EBITDA differs from the operating cash flow in a [12]cash flow
+   statement primarily by excluding payments for taxes or interest as well
+   as changes in [13]working capital. EBITDA also differs from [14]free
+   cash flow because it excludes cash requirements for replacing capital
+   assets ([15]capex). EBITDA is used when evaluating a company's ability
+   to earn a profit, and it is often used in stock analysis.
+
+Contents
+
+     * [16]1 Use by debtholders
+     * [17]2 Use by equity owners
+     * [18]3 Unprofitable businesses
+     * [19]4 See also
+     * [20]5 References
+
+[[21]edit] Use by debtholders
+
+   EBITDA measures the cash earnings that may be applied to interest and
+   debt retirement. Debt holders ignore depreciation and amortization
+   because they are non-cash charges and thus do not interfere with a
+   company's ability to repay debt. Additionally, such figures are merely
+   a reconciliation of cash-basis accounting to accrual-basis accounting
+   and are subject to a certain degree of flexibility corporate
+   accountants have when setting depreciation and amortization schedules.
+
+   In practice, capital expenditures and the maintenance of assets may use
+   up cash available for debt repayment, and so will increase risk of
+   default. The risk may be mitigated by incorporating loan [22]covenants
+   restricting the borrower's ability to make certain expenditures or
+   investments under certain conditions.
+
+   There are two EBITDA metrics used.
+    1. The interest coverage ratio is used to determine a firm's ability
+       to pay interest on outstanding debt. It is calculated : EBITDA
+       /Interest Expense. The greater the year-to-year variance in EBITDA,
+       the greater the multiple should be.
+    2. The measure of the pay-back period for a debt is : Debt/EBITDA. The
+       longer the payback period, the greater the risk.
+
+   The ratios can be customized by reducing Debt by any cash on the
+   balance sheet or by deducting maintenance CapEx from EBITDA to form a
+   measure closer to [23]free cash flow.
+
+[[24]edit] Use by equity owners
+
+   A company's Net Income is distorted by decisions that the company made
+   in previous years. This is because of the differences between
+   [25]accrual accounting and [26]cash basis accounting. Some purchases
+   are depreciated or amortized over 20 years or more, with a negative
+   impact on the Net Income long after the actual economic effects of the
+   purchases have ceased. The EBITDA does not suffer this distortion, so
+   investors can get an idea of how profitable the company really is.
+
+   [27]Depreciation of capital expenditures is a particularly strong
+   factor. For example, if a company spends $99 million in new desktop
+   computers for all its employees, the company will often decide to
+   depreciate the purchase over their expected lifetime of three years.
+   This way, in the first year, when the company calculates its "income"
+   number, it shows only $33 million in expenditure that year on desktop
+   computers. The company's income number excludes money actually spent,
+   but that will be "used" in future years. In each of the second and
+   third years, the company also shows $33 million in expenditures per
+   year on desktop computers. During this latter period, the cash
+   expenditures have already been made, but a portion of that spending is
+   allocated to these later periods.
+
+   [28]Capital expenditures typically vary from year to year. Accrual
+   accounting accounts for this by spreading the expense of capital
+   investments over the years in which they will be generating value for
+   the company. EBITDA strips out the effect of irregular capital
+   expenditures. Investors can use EBITDA to approximate the fundamental
+   earning power of the company's operations while separately factoring in
+   the projected capital expenditures needed to maintain those operations.
+   This is valuable because of the [29]time value of money principle. (An
+   expenditure is less costly if it is to be made several years into the
+   future, because during the interim period the firm can use the cash for
+   that expenditure to generate income in other ways. This is true as long
+   as inflation is ignored. Oftentimes a capital expenditure today will
+   cost much less than the same required expenditure at some point in the
+   future simply because of inflation.)
+
+   Because EBITDA is measured before interest (which vary with the amount
+   of debt financing), it approximates the company's earnings potential as
+   if financed with zero debt. It corrects for the differences between
+   companies' valuations due to their capital structure.
+
+   [30]Warren Buffett famously asked, "Does management think the tooth
+   fairy pays for [31]capital expenditures?" For many companies, capital
+   expenditures (for example) may be required at a consistent level;
+   excluding the associated accounting allocation may overstate the
+   company's profitability. Similarly, amortization (goodwill is no longer
+   amortized since the 2002 change; it is now tested for impairment each
+   year) may reflect important changes in the company's business
+   prospects.
+
+   The same argument applies to the purchase of long-life capital assets.
+   Depreciation may be interpreted as:
+    1. the allocation of the original cost, at a later date, when the
+       asset was used to generate revenue. The time-value-of-money (same
+       argument used above) means that depreciation may understate the
+       cost.
+    2. the amount of cash required to be retained in order to finance the
+       eventual replacement asset. Since inflation is the basis for
+       time-value-of-money, the amounts set aside today must be invested
+       and grow in value in order to pay the inflated price in the future.
+    3. the decrease in value of the balance sheet asset since the last
+       reporting period. Assets wear out with use, and will eventually
+       have to be replaced.
+
+[[32]edit] Unprofitable businesses
+
+   When comparing businesses with no profits, their potential to make
+   profit is more important than their Net Loss. Since taxes on losses
+   will be misleading in this context, taxes can be ignored. Capital
+   expenditures and their related debt result in fixed costs. These are of
+   less importance than the variable costs that can be expected to grow
+   with increasing sales volume, in order to cover the fixed costs. So
+   depreciation and interest costs are of less importance. It is likely
+   that an unprofitable business is burning cash (has a negative cash
+   flow), so investors are most concerned with "how long the cash will
+   last before the business must get more financing" (resulting in debt or
+   equity dilution).
+
+   EBITDA is not used as a valuation metric in these circumstances. It is
+   a starting point on which future growth is applied and future
+   profitability discounted back to the present. Equity owners only
+   benefit from net profits, after all the expenses are paid.
+
+   During the [33]dot com bubble companies promoted their stock by
+   emphasising either EBITDA or [34]pro forma earnings in their financial
+   reports, and explaining away the (often poor) "income" number. This
+   would involve ignoring one-time write-offs, asset impairments and other
+   costs deemed to be non-recurring. Because EBITDA (and its variations)
+   are not measures generally accepted under U.S. [35]GAAP, the [36]U.S.
+   Securities and Exchange Commission requires that companies registering
+   securities with it (and when filing its periodic reports) reconcile
+   EBITDA to net income in order to avoid misleading investors.
+
+[[37]edit] See also
+
+     * [38]Earnings Before Interest, Taxes, Depreciation, Amortization,
+       and Restructuring or Rent Costs(EBITDAR)
+     * [39]Revenue
+     * [40]Gross profit
+     * [41]Earnings before interest and taxes (EBIT), or operating profit
+     * [42]Net profit or [43]Net income
+     * [44]EV/EBITDA
+     * [45]P/E ratio
+
+[[46]edit] References
+
+     * [47]Investopedia definition of EBITDA
+
+   Retrieved from
+   "[48]http://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depr
+   eciation_and_amortization"
+   [49]Categories: [50]Generally Accepted Accounting Principles |
+   [51]Fundamental analysis
+
+Views
+
+     * [52]Article
+     * [53]Discussion
+     * [54]Edit this page
+     * [55]History
+
+Personal tools
+
+     * [56]Log in / create account
+
+Navigation
+
+     * [57]Main page
+     * [58]Contents
+     * [59]Featured content
+     * [60]Current events
+     * [61]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [62]About Wikipedia
+     * [63]Community portal
+     * [64]Recent changes
+     * [65]Contact Wikipedia
+     * [66]Donate to Wikipedia
+     * [67]Help
+
+Toolbox
+
+     * [68]What links here
+     * [69]Related changes
+     * [70]Upload file
+     * [71]Special pages
+     * [72]Printable version
+     * [73]Permanent link
+     * [74]Cite this page
+
+Languages
+
+     * [75]esky
+     * [76]Deutsch
+     * [77]Espaol
+     * [78]Franais
+     * [79]Italiano
+     * [80]Lietuvi
+     * [81]Magyar
+     * [82]Nederlands
+     *
+     * [83]Norsk (bokml)
+     * [84]Polski
+     * [85]Portugus
+     *
+     * [86]Suomi
+     * [87]Svenska
+     *
+
+   [88]Powered by MediaWiki
+   [89]Wikimedia Foundation
+     * This page was last modified on 12 February 2009, at 20:12.
+     * All text is available under the terms of the [90]GNU Free
+       Documentation License. (See [91]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [92]Wikimedia
+       Foundation, Inc., a U.S. registered [93]501(c)(3)
+       [94]tax-deductible [95]nonprofit [96]charity.
+     * [97]Privacy policy
+     * [98]About Wikipedia
+     * [99]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#searchInput
+   8. file://localhost/wiki/Generally_Accepted_Accounting_Principles
+   9. file://localhost/wiki/Amortization
+  10. file://localhost/wiki/Generally_Accepted_Accounting_Principles
+  11. file://localhost/wiki/Cash_flow
+  12. file://localhost/wiki/Cash_flow_statement
+  13. file://localhost/wiki/Working_capital
+  14. file://localhost/wiki/Free_cash_flow
+  15. file://localhost/wiki/Capex
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#Use_by_debtholders
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#Use_by_equity_owners
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#Unprofitable_businesses
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#See_also
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc717.tmp.html#References
+  21. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit&section=1
+  22. file://localhost/wiki/Covenant
+  23. file://localhost/wiki/Free_cash_flow
+  24. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit&section=2
+  25. file://localhost/wiki/Accounting_methods
+  26. file://localhost/wiki/Cash_basis_accounting
+  27. file://localhost/wiki/Depreciation
+  28. file://localhost/wiki/Capital_expenditures
+  29. file://localhost/wiki/Time_value_of_money
+  30. file://localhost/wiki/Warren_Buffett
+  31. file://localhost/wiki/Capital_expenditures
+  32. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit&section=3
+  33. file://localhost/wiki/Dot-com_companies
+  34. file://localhost/wiki/Pro_forma
+  35. file://localhost/wiki/GAAP
+  36. file://localhost/wiki/U.S._Securities_and_Exchange_Commission
+  37. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit&section=4
+  38. file://localhost/wiki/Earnings_Before_Interest,_Taxes,_Depreciation,_Amortization,_and_Restructuring_or_Rent_Costs
+  39. file://localhost/wiki/Revenue
+  40. file://localhost/wiki/Gross_profit
+  41. file://localhost/wiki/Earnings_before_interest_and_taxes
+  42. file://localhost/wiki/Net_profit
+  43. file://localhost/wiki/Net_income
+  44. file://localhost/wiki/EV/EBITDA
+  45. file://localhost/wiki/P/E_ratio
+  46. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit&section=5
+  47. http://www.investopedia.com/terms/e/ebitda.asp
+  48. http://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization
+  49. file://localhost/wiki/Special:Categories
+  50. file://localhost/wiki/Category:Generally_Accepted_Accounting_Principles
+  51. file://localhost/wiki/Category:Fundamental_analysis
+  52. file://localhost/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization
+  53. file://localhost/wiki/Talk:Earnings_before_interest,_taxes,_depreciation_and_amortization
+  54. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=edit
+  55. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&action=history
+  56. file://localhost/w/index.php?title=Special:UserLogin&returnto=Earnings_before_interest,_taxes,_depreciation_and_amortization
+  57. file://localhost/wiki/Main_Page
+  58. file://localhost/wiki/Portal:Contents
+  59. file://localhost/wiki/Portal:Featured_content
+  60. file://localhost/wiki/Portal:Current_events
+  61. file://localhost/wiki/Special:Random
+  62. file://localhost/wiki/Wikipedia:About
+  63. file://localhost/wiki/Wikipedia:Community_portal
+  64. file://localhost/wiki/Special:RecentChanges
+  65. file://localhost/wiki/Wikipedia:Contact_us
+  66. http://wikimediafoundation.org/wiki/Donate
+  67. file://localhost/wiki/Help:Contents
+  68. file://localhost/wiki/Special:WhatLinksHere/Earnings_before_interest,_taxes,_depreciation_and_amortization
+  69. file://localhost/wiki/Special:RecentChangesLinked/Earnings_before_interest,_taxes,_depreciation_and_amortization
+  70. file://localhost/wiki/Wikipedia:Upload
+  71. file://localhost/wiki/Special:SpecialPages
+  72. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&printable=yes
+  73. file://localhost/w/index.php?title=Earnings_before_interest,_taxes,_depreciation_and_amortization&oldid=270287069
+  74. file://localhost/w/index.php?title=Special:Cite&page=Earnings_before_interest,_taxes,_depreciation_and_amortization&id=270287069
+  75. http://cs.wikipedia.org/wiki/EBITDA
+  76. http://de.wikipedia.org/wiki/EBITDA
+  77. http://es.wikipedia.org/wiki/EBITDA
+  78. http://fr.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization
+  79. http://it.wikipedia.org/wiki/Margine_operativo_lordo
+  80. http://lt.wikipedia.org/wiki/EBITDA
+  81. http://hu.wikipedia.org/wiki/EBITDA
+  82. http://nl.wikipedia.org/wiki/EBITDA
+  83. http://no.wikipedia.org/wiki/EBITDA
+  84. http://pl.wikipedia.org/wiki/EBITDA
+  85. http://pt.wikipedia.org/wiki/Lucros_antes_de_juros,_impostos,_deprecia%C3%A7%C3%A3o_e_amortiza%C3%A7%C3%A3o
+  86. http://fi.wikipedia.org/wiki/K%C3%A4ytt%C3%B6kate
+  87. http://sv.wikipedia.org/wiki/EBITDA
+  88. http://www.mediawiki.org/
+  89. http://wikimediafoundation.org/
+  90. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  91. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  92. http://www.wikimediafoundation.org/
+  93. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  94. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  95. http://en.wikipedia.org/wiki/Non-profit_organization
+  96. http://en.wikipedia.org/wiki/Charitable_organization
+  97. http://wikimediafoundation.org/wiki/Privacy_policy
+  98. file://localhost/wiki/Wikipedia:About
+  99. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 100. file://localhost/wiki/Main_Page
+ 101. http://ja.wikipedia.org/wiki/EBITDA
+ 102. http://ru.wikipedia.org/wiki/EBITDA
+ 103. http://zh.wikipedia.org/wiki/%E7%A8%85%E5%89%8D%E6%81%AF%E5%89%8D%E6%8A%98%E8%88%8A%E6%94%A4%E9%8A%B7%E5%89%8D%E4%B9%8B%E7%8D%B2%E5%88%A9

@@ -1,0 +1,168 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Drill line
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   In a [8]drilling rig, the drill line is a multi-thread, twisted wire
+   rope that is threaded or [9]reeved through the [10]traveling block and
+   [11]crown block to facilitate the lowering and lifting of the [12]drill
+   string into and out of the [13]wellbore.
+
+   On larger diameter lines, tension strengths over a million pounds are
+   possible.
+
+   To Make a connection is to add another segment of [14]drill pipe onto
+   the top the [15]drill string. This is done by pulling the [16]kelly
+   above the rotary table, stopping the mud pump, hanging off the drill
+   string in the rotary table, unscrewing the kelly from the drill pipe
+   below, swinging the kelly over to permit connecting it to the top of
+   the new segment (which had been placed in the [17]mousehole), and then
+   screwing this assembly into the top of the existing drill string. Mud
+   circulation is resumed and the drill string lowered into the hole until
+   the bit takes weight at the bottom of the hole. Drilling ahead then
+   resumes.
+
+[[18]edit] External links
+
+     * [19]Drill line
+
+    This article related to [20]petroleum or the [21]petroleum industry is
+   a [22]stub. You can help Wikipedia by [23]expanding it.
+   Retrieved from "[24]http://en.wikipedia.org/wiki/Drill_line"
+   [25]Categories: [26]Petroleum stubs | [27]Oilfield terminology |
+   [28]Drilling technology
+
+Views
+
+     * [29]Article
+     * [30]Discussion
+     * [31]Edit this page
+     * [32]History
+
+Personal tools
+
+     * [33]Log in / create account
+
+Navigation
+
+     * [34]Main page
+     * [35]Contents
+     * [36]Featured content
+     * [37]Current events
+     * [38]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [39]About Wikipedia
+     * [40]Community portal
+     * [41]Recent changes
+     * [42]Contact Wikipedia
+     * [43]Donate to Wikipedia
+     * [44]Help
+
+Toolbox
+
+     * [45]What links here
+     * [46]Related changes
+     * [47]Upload file
+     * [48]Special pages
+     * [49]Printable version
+     * [50]Permanent link
+     * [51]Cite this page
+
+   [52]Powered by MediaWiki
+   [53]Wikimedia Foundation
+     * This page was last modified on 21 January 2009, at 21:48.
+     * All text is available under the terms of the [54]GNU Free
+       Documentation License. (See [55]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [56]Wikimedia
+       Foundation, Inc., a U.S. registered [57]501(c)(3)
+       [58]tax-deductible [59]nonprofit [60]charity.
+     * [61]Privacy policy
+     * [62]About Wikipedia
+     * [63]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Drill_line&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc406.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc406.tmp.html#searchInput
+   8. file://localhost/wiki/Drilling_rig_(petroleum)
+   9. http://en.wiktionary.com/wiki/reeve
+  10. file://localhost/wiki/Traveling_block
+  11. file://localhost/wiki/Crown_block
+  12. file://localhost/wiki/Drill_string
+  13. file://localhost/wiki/Wellbore
+  14. file://localhost/wiki/Drill_pipe
+  15. file://localhost/wiki/Drill_string
+  16. file://localhost/wiki/Kelly_drive
+  17. file://localhost/wiki/Mousehole
+  18. file://localhost/w/index.php?title=Drill_line&action=edit&section=1
+  19. http://www.osha.gov/SLTC/etools/oilandgas/illustrated_glossary/drilling_line.html
+  20. file://localhost/wiki/Petroleum
+  21. file://localhost/wiki/Petroleum_industry
+  22. file://localhost/wiki/Wikipedia:Stub
+  23. http://en.wikipedia.org/w/index.php?title=Drill_line&action=edit
+  24. http://en.wikipedia.org/wiki/Drill_line
+  25. file://localhost/wiki/Special:Categories
+  26. file://localhost/wiki/Category:Petroleum_stubs
+  27. file://localhost/wiki/Category:Oilfield_terminology
+  28. file://localhost/wiki/Category:Drilling_technology
+  29. file://localhost/wiki/Drill_line
+  30. file://localhost/w/index.php?title=Talk:Drill_line&action=edit&redlink=1
+  31. file://localhost/w/index.php?title=Drill_line&action=edit
+  32. file://localhost/w/index.php?title=Drill_line&action=history
+  33. file://localhost/w/index.php?title=Special:UserLogin&returnto=Drill_line
+  34. file://localhost/wiki/Main_Page
+  35. file://localhost/wiki/Portal:Contents
+  36. file://localhost/wiki/Portal:Featured_content
+  37. file://localhost/wiki/Portal:Current_events
+  38. file://localhost/wiki/Special:Random
+  39. file://localhost/wiki/Wikipedia:About
+  40. file://localhost/wiki/Wikipedia:Community_portal
+  41. file://localhost/wiki/Special:RecentChanges
+  42. file://localhost/wiki/Wikipedia:Contact_us
+  43. http://wikimediafoundation.org/wiki/Donate
+  44. file://localhost/wiki/Help:Contents
+  45. file://localhost/wiki/Special:WhatLinksHere/Drill_line
+  46. file://localhost/wiki/Special:RecentChangesLinked/Drill_line
+  47. file://localhost/wiki/Wikipedia:Upload
+  48. file://localhost/wiki/Special:SpecialPages
+  49. file://localhost/w/index.php?title=Drill_line&printable=yes
+  50. file://localhost/w/index.php?title=Drill_line&oldid=265568938
+  51. file://localhost/w/index.php?title=Special:Cite&page=Drill_line&id=265568938
+  52. http://www.mediawiki.org/
+  53. http://wikimediafoundation.org/
+  54. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  55. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  56. http://www.wikimediafoundation.org/
+  57. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  58. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  59. http://en.wikipedia.org/wiki/Non-profit_organization
+  60. http://en.wikipedia.org/wiki/Charitable_organization
+  61. http://wikimediafoundation.org/wiki/Privacy_policy
+  62. file://localhost/wiki/Wikipedia:About
+  63. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  64. file://localhost/wiki/File:Crown_block.jpg
+  65. file://localhost/wiki/File:Crown_block.jpg
+  66. file://localhost/wiki/File:Traveling_block_and_swivel.jpg
+  67. file://localhost/wiki/File:Traveling_block_and_swivel.jpg
+  68. file://localhost/wiki/File:Drill_line_on_drum.jpg
+  69. file://localhost/wiki/File:Drill_line_on_drum.jpg
+  70. file://localhost/wiki/File:Oil_well.jpg
+  71. file://localhost/wiki/Main_Page

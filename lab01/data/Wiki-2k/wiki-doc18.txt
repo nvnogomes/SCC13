@@ -1,0 +1,90 @@
+   #[1]next [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Bad title
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+
+   The requested page title is invalid. It may be empty, contain
+   [8]unsupported characters, or include a non-local or incorrectly linked
+   [9]interwiki prefix. You may be able to locate the desired page by
+   searching for its name (with interwiki prefix, if any) in the search
+   box.
+
+   Possible causes are:
+     * an attempt to follow a link to a [10]diff for a page that has since
+       been deleted;
+     * an attempt to load a [11]URL such as
+       [12]http://en.wikipedia.org/wiki/| (the | character is not
+       permitted in page titles);
+     * an attempt to load an URL pointing to a "non-local" interwiki page.
+       For example, the URL
+       [13]http://en.wikipedia.org/wiki/meatball:WikiPedia will give this
+       error, because the "meatball:" interwiki prefix is not marked as
+       local in the interwiki table. Certain interwiki prefixes are marked
+       as local in the table. For example, the URL
+       [14]http://en.wikipedia.org/wiki/meta:Main_page can be used to load
+       [15]meta:Main_page. All interlanguage prefixes are marked as local,
+       and thus URLs such as [16]http://en.wikipedia.org/wiki/fr:Accueil
+       will work as expected.
+
+   Return to [17]Main Page.
+   Retrieved from "[18]http://en.wikipedia.org/wiki/Special:Badtitle"
+
+Views
+
+     * [19]Special page
+
+Personal tools
+
+     * [20]Log in / create account
+
+Navigation
+
+     * [21]Main page
+     * [22]Contents
+     * [23]Featured content
+     * [24]Current events
+     * [25]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     *
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/wiki/Main_Page
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc18.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc18.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:Naming_conventions_(technical_restrictions)
+   9. file://localhost/wiki/Help:Interwiki_linking
+  10. file://localhost/wiki/Help:Diff
+  11. file://localhost/wiki/Uniform_Resource_Locator
+  12. http://en.wikipedia.org/wiki/|
+  13. http://en.wikipedia.org/wiki/meatball:WikiPedia
+  14. http://en.wikipedia.org/wiki/meta:Main_page
+  15. http://meta.wikimedia.org/wiki/Main_page
+  16. http://en.wikipedia.org/wiki/fr:Accueil
+  17. file://localhost/wiki/Main_Page
+  18. http://en.wikipedia.org/wiki/Special:Badtitle
+  19. file://localhost/wiki/Distribution_(business%2529
+  20. file://localhost/w/index.php?title=Special:UserLogin&returnto=Special:Badtitle
+  21. file://localhost/wiki/Main_Page
+  22. file://localhost/wiki/Portal:Contents
+  23. file://localhost/wiki/Portal:Featured_content
+  24. file://localhost/wiki/Portal:Current_events
+  25. file://localhost/wiki/Special:Random
+
+   Hidden links:
+  26. file://localhost/wiki/Main_Page

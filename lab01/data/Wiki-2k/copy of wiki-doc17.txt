@@ -1,0 +1,286 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Distributed database
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Distributed data base)
+   Jump to: [7]navigation, [8]search
+
+   A distributed database is a [9]database that is under the control of a
+   central [10]database management system (DBMS) in which [11]storage
+   devices are not all attached to a common [12]CPU. It may be stored in
+   multiple computers located in the same physical location, or may be
+   dispersed over a [13]network of interconnected computers.
+
+   Collections of data (eg. in a database) can be distributed across
+   multiple physical locations. A distributed database is distributed into
+   separate [14]partitions/fragments. Each partition/fragment of a
+   distributed database may be replicated (ie. [15]redundant fail-overs,
+   [16]RAID like).
+
+   Besides distributed database replication and fragmentation, there are
+   many other distributed database design technologies. For example, local
+   autonomy, synchronous and asynchronous distributed database
+   technologies. These technologies' implementation can and does depend on
+   the needs of the business and the sensitivity/confidentiality of the
+   data to be stored in the database, and hence the price the business is
+   willing to spend on ensuring data security, consistency and integrity.
+
+Contents
+
+     * [17]1 Basic architecture
+     * [18]2 Important considerations
+     * [19]3 Advantages of distributed databases
+     * [20]4 Disadvantages of distributed databases
+     * [21]5 See also
+     * [22]6 References
+     * [23]7 External links
+
+[[24]edit] Basic architecture
+
+   A database Users access the distributed database through:
+
+   Local applications
+          applications which do not require data from other sites.
+
+   Global applications
+          applications which do require data from other sites.
+
+   a distributed database does not share main memory or disks.
+
+[[25]edit] Important considerations
+
+   Care with a distributed database must be taken to ensure the following:
+     * The distribution is transparent users must be able to interact with
+       the system as if it were one [26]logical system. This applies to
+       the system's performance, and methods of access among other things.
+     * Transactions are transparent each transaction must maintain
+       database integrity across multiple databases. Transactions must
+       also be divided into subtransactions, each subtransaction affecting
+       one database system...
+
+[[27]edit] Advantages of distributed databases
+
+     * Reflects organizational structure database fragments are located in
+       the departments they relate to.
+     * Local autonomy a department can control the data about them (as
+       they are the ones familiar with it.)
+     * Improved availability a fault in one database system will only
+       affect one fragment, instead of the entire database.
+     * Improved performance data is located near the site of greatest
+       demand, and the database systems themselves are parallelized,
+       allowing load on the databases to be balanced among servers. (A
+       high load on one module of the database won't affect other modules
+       of the database in a distributed database.)
+     * Economics it costs less to create a network of smaller computers
+       with the power of a single large computer.
+     * Modularity systems can be modified, added and removed from the
+       distributed database without affecting other modules (systems).
+
+[[28]edit] Disadvantages of distributed databases
+
+     * Complexity extra work must be done by the [29]DBAs to ensure that
+       the distributed nature of the system is transparent. Extra work
+       must also be done to maintain multiple disparate systems, instead
+       of one big one. Extra database design work must also be done to
+       account for the disconnected nature of the database for example,
+       joins become prohibitively expensive when performed across multiple
+       systems.
+     * Economics increased complexity and a more extensive infrastructure
+       means extra labour costs.
+     * Security remote database fragments must be secured, and they are
+       not centralized so the remote sites must be secured as well. The
+       infrastructure must also be secured (e.g., by encrypting the
+       network links between remote sites).
+     * Difficult to maintain integrity in a distributed database,
+       enforcing integrity over a network may require too much of the
+       network's resources to be feasible.
+     * Inexperience distributed databases are difficult to work with, and
+       as a young field there is not much readily available experience on
+       proper practice.
+     * Lack of standards there are no tools or methodologies yet to help
+       users convert a centralized DBMS into a distributed DBMS.
+     * Database design more complex besides of the normal difficulties,
+       the design of a distributed database has to consider fragmentation
+       of data, allocation of fragments to specific sites and data
+       replication.
+
+[[30]edit] See also
+
+     * [31]Distributed database management system
+     * [32]Routing protocol
+
+[[33]edit] References
+
+     * M. T. Ozsu and P. Valduriez, Principles of Distributed Databases
+       (2nd edition), Prentice-Hall, [34]ISBN 0-13-659707-6
+     * [35]Federal Standard 1037C
+     * Elmasri and Navathe, Fundamentals of database systems (3rd
+       edition), Addison-Wesley Longman, [36]ISBN 0-201-54263-3
+
+[[37]edit] External links
+
+     * [38]Distributed database types and different classification
+       possibilities
+
+   Retrieved from "[39]http://en.wikipedia.org/wiki/Distributed_database"
+   [40]Categories: [41]Data management | [42]Databases
+
+Views
+
+     * [43]Article
+     * [44]Discussion
+     * [45]Edit this page
+     * [46]History
+
+Personal tools
+
+     * [47]Log in / create account
+
+Navigation
+
+     * [48]Main page
+     * [49]Contents
+     * [50]Featured content
+     * [51]Current events
+     * [52]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [53]About Wikipedia
+     * [54]Community portal
+     * [55]Recent changes
+     * [56]Contact Wikipedia
+     * [57]Donate to Wikipedia
+     * [58]Help
+
+Toolbox
+
+     * [59]What links here
+     * [60]Related changes
+     * [61]Upload file
+     * [62]Special pages
+     * [63]Printable version
+     * [64]Permanent link
+     * [65]Cite this page
+
+Languages
+
+     * [66]Deutsch
+     * [67]Euskara
+     * [68]Italiano
+     * [69]Polski
+     * [70]Portugus
+     * [71]Romn
+     *
+     *
+
+   [72]Powered by MediaWiki
+   [73]Wikimedia Foundation
+     * This page was last modified on 17 January 2009, at 03:39.
+     * All text is available under the terms of the [74]GNU Free
+       Documentation License. (See [75]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [76]Wikimedia
+       Foundation, Inc., a U.S. registered [77]501(c)(3)
+       [78]tax-deductible [79]nonprofit [80]charity.
+     * [81]Privacy policy
+     * [82]About Wikipedia
+     * [83]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Distributed_database&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Distributed_data_base&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#searchInput
+   9. file://localhost/wiki/Database
+  10. file://localhost/wiki/Database_management_system
+  11. file://localhost/wiki/Computer_storage
+  12. file://localhost/wiki/Central_processing_unit
+  13. file://localhost/wiki/Computer_network
+  14. file://localhost/wiki/Partition_(database)
+  15. file://localhost/wiki/Redundancy_(databases)
+  16. file://localhost/wiki/Redundant_array_of_independent_disks
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#Basic_architecture
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#Important_considerations
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#Advantages_of_distributed_databases
+  20. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#Disadvantages_of_distributed_databases
+  21. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#See_also
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#References
+  23. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc17.tmp.html#External_links
+  24. file://localhost/w/index.php?title=Distributed_database&action=edit&section=1
+  25. file://localhost/w/index.php?title=Distributed_database&action=edit&section=2
+  26. file://localhost/wiki/Logical_system
+  27. file://localhost/w/index.php?title=Distributed_database&action=edit&section=3
+  28. file://localhost/w/index.php?title=Distributed_database&action=edit&section=4
+  29. file://localhost/wiki/Database_administrator
+  30. file://localhost/w/index.php?title=Distributed_database&action=edit&section=5
+  31. file://localhost/wiki/Distributed_database_management_system
+  32. file://localhost/wiki/Routing_protocol
+  33. file://localhost/w/index.php?title=Distributed_database&action=edit&section=6
+  34. file://localhost/wiki/Special:BookSources/0136597076
+  35. file://localhost/wiki/Federal_Standard_1037C
+  36. file://localhost/wiki/Special:BookSources/0201542633
+  37. file://localhost/w/index.php?title=Distributed_database&action=edit&section=7
+  38. http://www.webeks.net/faculty/pis/decentralized-database.html
+  39. http://en.wikipedia.org/wiki/Distributed_database
+  40. file://localhost/wiki/Special:Categories
+  41. file://localhost/wiki/Category:Data_management
+  42. file://localhost/wiki/Category:Databases
+  43. file://localhost/wiki/Distributed_database
+  44. file://localhost/wiki/Talk:Distributed_database
+  45. file://localhost/w/index.php?title=Distributed_database&action=edit
+  46. file://localhost/w/index.php?title=Distributed_database&action=history
+  47. file://localhost/w/index.php?title=Special:UserLogin&returnto=Distributed_database
+  48. file://localhost/wiki/Main_Page
+  49. file://localhost/wiki/Portal:Contents
+  50. file://localhost/wiki/Portal:Featured_content
+  51. file://localhost/wiki/Portal:Current_events
+  52. file://localhost/wiki/Special:Random
+  53. file://localhost/wiki/Wikipedia:About
+  54. file://localhost/wiki/Wikipedia:Community_portal
+  55. file://localhost/wiki/Special:RecentChanges
+  56. file://localhost/wiki/Wikipedia:Contact_us
+  57. http://wikimediafoundation.org/wiki/Donate
+  58. file://localhost/wiki/Help:Contents
+  59. file://localhost/wiki/Special:WhatLinksHere/Distributed_database
+  60. file://localhost/wiki/Special:RecentChangesLinked/Distributed_database
+  61. file://localhost/wiki/Wikipedia:Upload
+  62. file://localhost/wiki/Special:SpecialPages
+  63. file://localhost/w/index.php?title=Distributed_database&printable=yes
+  64. file://localhost/w/index.php?title=Distributed_database&oldid=264602510
+  65. file://localhost/w/index.php?title=Special:Cite&page=Distributed_database&id=264602510
+  66. http://de.wikipedia.org/wiki/Verteiltes_Datenbankmanagementsystem
+  67. http://eu.wikipedia.org/wiki/Datu-base_banatu
+  68. http://it.wikipedia.org/wiki/Database_distribuiti
+  69. http://pl.wikipedia.org/wiki/Rozproszona_baza_danych
+  70. http://pt.wikipedia.org/wiki/Banco_de_dados_distribu%C3%ADdos
+  71. http://ro.wikipedia.org/wiki/Baz%C4%83_de_date_distribuit%C4%83
+  72. http://www.mediawiki.org/
+  73. http://wikimediafoundation.org/
+  74. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  75. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  76. http://www.wikimediafoundation.org/
+  77. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  78. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  79. http://en.wikipedia.org/wiki/Non-profit_organization
+  80. http://en.wikipedia.org/wiki/Charitable_organization
+  81. http://wikimediafoundation.org/wiki/Privacy_policy
+  82. file://localhost/wiki/Wikipedia:About
+  83. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  84. file://localhost/wiki/Main_Page
+  85. http://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85
+  86. http://zh.wikipedia.org/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93

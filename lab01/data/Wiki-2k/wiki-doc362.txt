@@ -1,0 +1,198 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Drag-resistant aerospike
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Drag-reducing aerospike)
+   Jump to: [7]navigation, [8]search
+   Trident I first launch on [9]18 January [10]1977 at Cape Canaveral. The
+   thin antenna-like structure mounted on the [11]nose cone is the
+   aerospike, which is composed of 2 parts. 1) The Extensible Boom is the
+   long, slender, slightly tapered cylindrical structure; the wider
+   "underside" is mounted to the nose cone. The narrow, top end of the
+   Boom (see full resolution image) is for mounting:2) "flat, circular,
+   metallic" plates (brownish/yellow color, above). New formulas can be
+   tested to see how good the protection from supersonic flight. The
+   plates are mounted perpendicular to the Vertical Axis--much like an
+   upturned [12]Martini glass, the container representing the nosecone,
+   with the stem and base representing the Boom and plate, respectively.
+
+   A drag-reducing aerospike is a device used to reduce the forebody
+   pressure [13]drag of blunt bodies at [14]supersonic speeds. The
+   aerospike creates a detached [15]shock ahead of the body. Between the
+   shock and the forebody a zone of recirculating flow occurs which acts
+   like a more streamlined forebody profile, reducing the drag.
+
+   This concept was first introduced on the [16]Trident missile and is
+   estimated to have increased the range by 550 km. The Trident aerospike
+   consists of a flat circular plate mounted on an extensible boom which
+   is deployed shortly after the missile breaks through the surface of the
+   water after launch from the submarine. The use of the aerospike allowed
+   a much blunter nose shape, providing increased internal volume for
+   payload and propulsion without increasing the drag. This was required
+   because the Trident I C-4 was fitted with a third propulsion stage to
+   achieve the desired increase in range over the [17]Poseidon C-3 missile
+   it replaced. To fit within the existing submarine launch tubes the
+   third stage motor had to be mounted in the center of the post-boost
+   vehicle with the reentry vehicles arranged around the motor.
+
+   Further development of this concept has resulted in the [18]air-spike
+   ^[19][1]. This is formed by concentrated energy, either from an
+   electric arc torch or a pulsed laser, projected forwards from the body,
+   which produces a region of low density hot air ahead of the body. This
+   has the advantage over a structural aerospike that the air density is
+   lower than that behind a shock wave providing increased drag reduction.
+
+   In 1995 at the 33rd Aerospace Sciences Meeting it was reported that
+   tests were performed at an aerospike-protected missile dome to Mach 6,
+   obtaining quantitative surface pressure and temperature-rise data on
+   the feasibility of using aerospikes on [20]hypersonic missiles.
+
+[[21]edit] References
+
+    1. [22]^ Golovitchev, V.I., Tretjakov, P.K., "Evaluation of Drag
+       Reduction of Blunt Bodies at Supersonic Speeds by Counter-flow
+       Combustion", AIAA 2002-3296
+
+[[23]edit] External links
+
+     * [24]http://techreports.larc.nasa.gov/ltrs/PDF/aiaa-95-0737.pdf.
+
+   This [25]fluid dynamics-related article is a [26]stub. You can [27]help
+   Wikipedia by [28]expanding it.
+   Retrieved from
+   "[29]http://en.wikipedia.org/wiki/Drag-resistant_aerospike"
+   [30]Categories: [31]Fluid dynamics stubs | [32]Aerodynamics
+
+Views
+
+     * [33]Article
+     * [34]Discussion
+     * [35]Edit this page
+     * [36]History
+
+Personal tools
+
+     * [37]Log in / create account
+
+Navigation
+
+     * [38]Main page
+     * [39]Contents
+     * [40]Featured content
+     * [41]Current events
+     * [42]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [43]About Wikipedia
+     * [44]Community portal
+     * [45]Recent changes
+     * [46]Contact Wikipedia
+     * [47]Donate to Wikipedia
+     * [48]Help
+
+Toolbox
+
+     * [49]What links here
+     * [50]Related changes
+     * [51]Upload file
+     * [52]Special pages
+     * [53]Printable version
+     * [54]Permanent link
+     * [55]Cite this page
+
+   [56]Powered by MediaWiki
+   [57]Wikimedia Foundation
+     * This page was last modified on 16 January 2009, at 09:40.
+     * All text is available under the terms of the [58]GNU Free
+       Documentation License. (See [59]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [60]Wikimedia
+       Foundation, Inc., a U.S. registered [61]501(c)(3)
+       [62]tax-deductible [63]nonprofit [64]charity.
+     * [65]Privacy policy
+     * [66]About Wikipedia
+     * [67]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Drag-resistant_aerospike&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Drag-reducing_aerospike&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc362.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc362.tmp.html#searchInput
+   9. file://localhost/wiki/January_18
+  10. file://localhost/wiki/1977
+  11. file://localhost/wiki/Nose_cone
+  12. file://localhost/wiki/Cocktail_glass
+  13. file://localhost/wiki/Drag_(physics)
+  14. file://localhost/wiki/Supersonic
+  15. file://localhost/wiki/Shock_wave
+  16. file://localhost/wiki/Trident_missile
+  17. file://localhost/wiki/UGM-73_Poseidon
+  18. file://localhost/w/index.php?title=Air-spike&action=edit&redlink=1
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc362.tmp.html#cite_note-0
+  20. file://localhost/w/index.php?title=Hypersonic_missiles&action=edit&redlink=1
+  21. file://localhost/w/index.php?title=Drag-resistant_aerospike&action=edit&section=1
+  22. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc362.tmp.html#cite_ref-0
+  23. file://localhost/w/index.php?title=Drag-resistant_aerospike&action=edit&section=2
+  24. http://techreports.larc.nasa.gov/ltrs/PDF/aiaa-95-0737.pdf
+  25. file://localhost/wiki/Fluid_dynamics
+  26. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  27. file://localhost/wiki/Wikipedia:Stub
+  28. http://en.wikipedia.org/w/index.php?stub&title=Drag-resistant_aerospike&action=edit
+  29. http://en.wikipedia.org/wiki/Drag-resistant_aerospike
+  30. file://localhost/wiki/Special:Categories
+  31. file://localhost/wiki/Category:Fluid_dynamics_stubs
+  32. file://localhost/wiki/Category:Aerodynamics
+  33. file://localhost/wiki/Drag-resistant_aerospike
+  34. file://localhost/wiki/Talk:Drag-resistant_aerospike
+  35. file://localhost/w/index.php?title=Drag-resistant_aerospike&action=edit
+  36. file://localhost/w/index.php?title=Drag-resistant_aerospike&action=history
+  37. file://localhost/w/index.php?title=Special:UserLogin&returnto=Drag-resistant_aerospike
+  38. file://localhost/wiki/Main_Page
+  39. file://localhost/wiki/Portal:Contents
+  40. file://localhost/wiki/Portal:Featured_content
+  41. file://localhost/wiki/Portal:Current_events
+  42. file://localhost/wiki/Special:Random
+  43. file://localhost/wiki/Wikipedia:About
+  44. file://localhost/wiki/Wikipedia:Community_portal
+  45. file://localhost/wiki/Special:RecentChanges
+  46. file://localhost/wiki/Wikipedia:Contact_us
+  47. http://wikimediafoundation.org/wiki/Donate
+  48. file://localhost/wiki/Help:Contents
+  49. file://localhost/wiki/Special:WhatLinksHere/Drag-resistant_aerospike
+  50. file://localhost/wiki/Special:RecentChangesLinked/Drag-resistant_aerospike
+  51. file://localhost/wiki/Wikipedia:Upload
+  52. file://localhost/wiki/Special:SpecialPages
+  53. file://localhost/w/index.php?title=Drag-resistant_aerospike&printable=yes
+  54. file://localhost/w/index.php?title=Drag-resistant_aerospike&oldid=264433653
+  55. file://localhost/w/index.php?title=Special:Cite&page=Drag-resistant_aerospike&id=264433653
+  56. http://www.mediawiki.org/
+  57. http://wikimediafoundation.org/
+  58. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  59. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  60. http://www.wikimediafoundation.org/
+  61. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  62. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  63. http://en.wikipedia.org/wiki/Non-profit_organization
+  64. http://en.wikipedia.org/wiki/Charitable_organization
+  65. http://wikimediafoundation.org/wiki/Privacy_policy
+  66. file://localhost/wiki/Wikipedia:About
+  67. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  68. file://localhost/wiki/File:Trident_C4_first_launch.jpg
+  69. file://localhost/wiki/File:Trident_C4_first_launch.jpg
+  70. file://localhost/wiki/File:Lift-force-en.svg
+  71. file://localhost/wiki/Main_Page

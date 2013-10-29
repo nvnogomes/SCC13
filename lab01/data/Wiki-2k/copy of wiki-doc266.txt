@@ -1,0 +1,292 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Whippletree (mechanism)
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Double-tree)
+   Jump to: [7]navigation, [8]search
+   A set of whippletrees or leader-bars for the two leaders of a
+   four-horse team.
+
+   A whippletree (or whiffletree) is a mechanism to distribute force
+   evenly through [9]linkages. It consists of a bar pivoted at or near the
+   centre, with force applied from one direction to the [10]pivot, and
+   from the other direction to the tips. Several whippletrees may be used
+   in series to distribute the force further. Whippletrees may be used
+   either in [11]compression or [12]tension.
+
+Contents
+
+     * [13]1 Draught whippletrees
+     * [14]2 Other agricultural whippletrees
+     * [15]3 Windscreen (windshield) wipers
+     * [16]4 Telescopes
+     * [17]5 See also
+     * [18]6 References
+     * [19]7 External links
+
+[[20]edit] Draught whippletrees
+
+   A single horse ploughing the whippletree is the horizontal wooden bar
+   just in front of the plough.
+
+   Whippletrees are used in tension to distribute forces from a point load
+   to the traces of [21]draught animals (the [22]traces are the chains or
+   straps on each side of the harness, on which the animal pulls). For
+   these, the whippletree consists of a loose horizontal bar between the
+   [23]draught animal and its load. The centre of the bar is connected to
+   the load, and the traces attach to its ends. Whippletrees are used
+   especially when pulling a dragged load such as a [24]plough,
+   [25]harrow, log or [26]canal boat or for pulling a vehicle (by the
+   leaders in a team with more than one row of animals).
+
+   A [27]swingletree (or singletree) is a special kind of whippletree used
+   for a [28]horse-drawn vehicle, and the term swingletree is sometimes
+   used for draught whippletrees generally.
+
+   A whippletree balances the pull from each side of the animal,
+   preventing the load from tugging alternately on each side. It also
+   keeps a point load from pulling the traces in onto the sides of the
+   animal.
+
+   If several animals are used abreast, further whippletrees may be used
+   behind the first. Thus, with two animals, each will have its own
+   whippletree, then a further whippletree will balance the loads from
+   their two whippletrees this arrangement is sometimes known as a
+   double-tree, or for the [29]leaders in a larger team, leader-bars. With
+   three or more animals abreast, even more whippletrees are needed; some
+   may be made asymmetrical to balance odd numbers of animals. Multiple
+   whippletrees balance the pulls from the different animals, ensuring
+   that each takes a fair share of the work.
+   A set of whippletrees for a three-animal team.
+
+[[30]edit] Other agricultural whippletrees
+
+   Whippletrees may also be used in modern agriculture, for example to
+   link several ganged agricultural implements such as [31]harrows,
+   [32]mowers or [33]rollers to a [34]tractor. In this case the effect is
+   to combine several small loads to a single load at the tractor hitch
+   (the reverse of the use for draught animals).
+
+[[35]edit] Windscreen (windshield) wipers
+
+   A standard automobile [36]windscreen wiper uses whippletrees to
+   distribute the force of the wiper arm evenly across the blade.
+
+   A series of whippletrees are used in compression in a standard
+   [37]windscreen wiper, to distribute the point force of the sprung wiper
+   arm evenly along the wiper blade.
+
+[[38]edit] Telescopes
+
+   Some designs for large telescopes use whiffletrees, attributed to Grubb
+   ^[39][1], to support the optical elements. The tree provides for
+   distributed mechanical support, thereby reduces localised mechanical
+   deflections, which in turn reduces optical distortion. Unlike the
+   applications described above, which are two dimensional, these
+   whiffletrees are 3D designs since the tree has to support a circular
+   area. Other variants of the term are whiffle-tree and whiffle tree.
+
+[[40]edit] See also
+
+     * [41]Draught animal
+     * [42]Draught horse
+     * [43]Horse harness
+     * [44]Horse collar
+     * [45]Swingletree
+     * [46]Mobile (sculpture), similar principles applied in art.
+     * [47]Paraglider wing, in which a load is distributed by multiple
+       strings, but without rigid elements.
+     * [48]Differential (mechanical device), which does for torque what
+       each layer of a whippletree does for force.
+     * [49]Boat trailer, which uses this mechanism to evenly distribute
+       force across the hull of the boats it carries.
+     * [50]Proteus (WAM-V) catamaran with whippletree suspension
+
+[[51]edit] References
+
+    1. [52]^ [53]http://etoile.berkeley.edu/~jrg/MIDDLE/
+
+[[54]edit] External links
+
+     * [55]Photo of whippletree for draught horses by Beig Alert on Flickr
+       (Note: this photo shows three muddled sets of whippletrees: one
+       single, one double and one triple.)
+     * [56]Photo InTheHead of a windshield wiper's whippletree by Barefoot
+       on Flickr
+     * [57]Major telescopes from Lord Rosse to about 1980
+     * [58]Support of PILOT primary mirror by Peter Gillingham 2 March
+       2007
+     * [59]Mirror Edge Support Calculator
+
+   Retrieved from
+   "[60]http://en.wikipedia.org/wiki/Whippletree_(mechanism)"
+   [61]Category: [62]Horse driving
+
+Views
+
+     * [63]Article
+     * [64]Discussion
+     * [65]Edit this page
+     * [66]History
+
+Personal tools
+
+     * [67]Log in / create account
+
+Navigation
+
+     * [68]Main page
+     * [69]Contents
+     * [70]Featured content
+     * [71]Current events
+     * [72]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [73]About Wikipedia
+     * [74]Community portal
+     * [75]Recent changes
+     * [76]Contact Wikipedia
+     * [77]Donate to Wikipedia
+     * [78]Help
+
+Toolbox
+
+     * [79]What links here
+     * [80]Related changes
+     * [81]Upload file
+     * [82]Special pages
+     * [83]Printable version
+     * [84]Permanent link
+     * [85]Cite this page
+
+   [86]Powered by MediaWiki
+   [87]Wikimedia Foundation
+     * This page was last modified on 10 February 2009, at 10:43.
+     * All text is available under the terms of the [88]GNU Free
+       Documentation License. (See [89]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [90]Wikimedia
+       Foundation, Inc., a U.S. registered [91]501(c)(3)
+       [92]tax-deductible [93]nonprofit [94]charity.
+     * [95]Privacy policy
+     * [96]About Wikipedia
+     * [97]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Whippletree_(mechanism)&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Double-tree&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#searchInput
+   9. file://localhost/wiki/Mechanical_linkage
+  10. file://localhost/wiki/Lever
+  11. file://localhost/wiki/Physical_compression
+  12. file://localhost/wiki/Tension_(physics)
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#Draught_whippletrees
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#Other_agricultural_whippletrees
+  15. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#Windscreen_.28windshield.29_wipers
+  16. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#Telescopes
+  17. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#See_also
+  18. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#References
+  19. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#External_links
+  20. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=1
+  21. file://localhost/wiki/Draught_animal
+  22. file://localhost/wiki/Trace_(tack)
+  23. file://localhost/wiki/Draught_animal
+  24. file://localhost/wiki/Plough
+  25. file://localhost/wiki/Harrow_(tool)
+  26. file://localhost/wiki/Canal_boat
+  27. file://localhost/wiki/Swingletree
+  28. file://localhost/wiki/Horse-drawn_vehicle
+  29. file://localhost/wiki/Driving_(horse)#Teams
+  30. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=2
+  31. file://localhost/wiki/Harrow_(tool)
+  32. file://localhost/wiki/Mower
+  33. file://localhost/wiki/Roller_(agricultural_tool)
+  34. file://localhost/wiki/Tractor
+  35. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=3
+  36. file://localhost/wiki/Windshield_wiper
+  37. file://localhost/wiki/Windshield_wiper
+  38. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=4
+  39. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#cite_note-0
+  40. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=5
+  41. file://localhost/wiki/Draught_animal
+  42. file://localhost/wiki/Draught_horse
+  43. file://localhost/wiki/Horse_harness
+  44. file://localhost/wiki/Horse_collar
+  45. file://localhost/wiki/Swingletree
+  46. file://localhost/wiki/Mobile_(sculpture)
+  47. file://localhost/wiki/Paragliding#Wing
+  48. file://localhost/wiki/Differential_(mechanical_device)
+  49. file://localhost/wiki/Boat_trailer
+  50. file://localhost/wiki/Proteus_(WAM-V)
+  51. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=6
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc266.tmp.html#cite_ref-0
+  53. http://etoile.berkeley.edu/~jrg/MIDDLE/
+  54. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit&section=7
+  55. http://flickr.com/photos/beigephotos/2081058471/
+  56. http://flickr.com/photos/99303089@N00/2293945405/
+  57. http://etoile.berkeley.edu/~jrg/MIDDLE/
+  58. ftp://ftp.aao.gov.au/pub/local/will/pilot/PG_notes/pilot%20m1%20support.doc/
+  59. http://www.cruxis.com/scope/mirroredgecalculator.htm/
+  60. http://en.wikipedia.org/wiki/Whippletree_(mechanism)
+  61. file://localhost/wiki/Special:Categories
+  62. file://localhost/wiki/Category:Horse_driving
+  63. file://localhost/wiki/Whippletree_(mechanism)
+  64. file://localhost/wiki/Talk:Whippletree_(mechanism)
+  65. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=edit
+  66. file://localhost/w/index.php?title=Whippletree_(mechanism)&action=history
+  67. file://localhost/w/index.php?title=Special:UserLogin&returnto=Whippletree_(mechanism)
+  68. file://localhost/wiki/Main_Page
+  69. file://localhost/wiki/Portal:Contents
+  70. file://localhost/wiki/Portal:Featured_content
+  71. file://localhost/wiki/Portal:Current_events
+  72. file://localhost/wiki/Special:Random
+  73. file://localhost/wiki/Wikipedia:About
+  74. file://localhost/wiki/Wikipedia:Community_portal
+  75. file://localhost/wiki/Special:RecentChanges
+  76. file://localhost/wiki/Wikipedia:Contact_us
+  77. http://wikimediafoundation.org/wiki/Donate
+  78. file://localhost/wiki/Help:Contents
+  79. file://localhost/wiki/Special:WhatLinksHere/Whippletree_(mechanism)
+  80. file://localhost/wiki/Special:RecentChangesLinked/Whippletree_(mechanism)
+  81. file://localhost/wiki/Wikipedia:Upload
+  82. file://localhost/wiki/Special:SpecialPages
+  83. file://localhost/w/index.php?title=Whippletree_(mechanism)&printable=yes
+  84. file://localhost/w/index.php?title=Whippletree_(mechanism)&oldid=269745499
+  85. file://localhost/w/index.php?title=Special:Cite&page=Whippletree_(mechanism)&id=269745499
+  86. http://www.mediawiki.org/
+  87. http://wikimediafoundation.org/
+  88. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  89. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  90. http://www.wikimediafoundation.org/
+  91. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  92. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  93. http://en.wikipedia.org/wiki/Non-profit_organization
+  94. http://en.wikipedia.org/wiki/Charitable_organization
+  95. http://wikimediafoundation.org/wiki/Privacy_policy
+  96. file://localhost/wiki/Wikipedia:About
+  97. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  98. file://localhost/wiki/File:Leader_bars.jpg
+  99. file://localhost/wiki/File:Leader_bars.jpg
+ 100. file://localhost/wiki/File:Schnitterfest.JPG
+ 101. file://localhost/wiki/File:Schnitterfest.JPG
+ 102. file://localhost/wiki/File:Triple_whippletree_set.jpg
+ 103. file://localhost/wiki/File:Triple_whippletree_set.jpg
+ 104. file://localhost/wiki/File:Heckscheibenwischer_kl.jpg
+ 105. file://localhost/wiki/File:Heckscheibenwischer_kl.jpg
+ 106. file://localhost/wiki/Main_Page

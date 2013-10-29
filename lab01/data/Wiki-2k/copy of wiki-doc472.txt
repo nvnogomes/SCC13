@@ -1,0 +1,645 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+List of Tetris variants
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]DuelTris)
+   Jump to: [7]navigation, [8]search
+
+   This a list of variants of the game [9]Tetris. It includes officially
+   licensed Tetris sequels, as well as unofficial clones.
+
+Contents
+
+     * [10]1 Official games
+     * [11]2 Notable unofficial games
+     * [12]3 See also
+     * [13]4 External links
+     * [14]5 References
+
+[[15]edit] Official games
+
+   Title Description Platform, Developer, Year Released
+   [16]Hatris A variety of hats must be made to fall in to stacks of five
+   identical hats. Designed by [17]Alexey Pazhitnov, the original Tetris
+   author. [18]TurboGrafx-16/PC-Engine (Video System Co. Ltd., 1990),
+   [19]Game Boy, [20]Arcade and [21]NES (Bullet Proof Software, 1991)
+   [22]Welltris Pieces (including [23]tetrominoes and occasionally
+   [24]pentominoes) slide down one of four wall surfaces in a well, the
+   "well" being an 8x8 square. When a piece lands while fully or partially
+   sticking outside of the well, the wall is temporarily blocked. The game
+   ends when four walls are no longer accessible. Another [25]Alexey
+   Pazhitnov design. [26]PC (Spectrum Holobyte, 1991), [27]ZX Spectrum,
+   [28]CPC, [29]C64, [30]Amiga, [31]Mac OS Classic
+   Super Tetris^[32][1] Added two-player co-operative and competitive and
+   new block types. [33]MS-DOS, [34]Amiga (Sphere, Inc., 1991)
+   Super Tetris 2 & Bombliss^[35][2] Differs from conventional Tetris in
+   that one mode, "Bombliss", features bomb blocks that destroy
+   surrounding blocks when a line is completed. Bombliss uses the gravity
+   algorithm to re-arrange the stage after an explosion has destroyed some
+   blocks. Also, there is a "Tetris C" mode in which the playfield
+   automatically rises one level after a certain number of blocks are
+   used.
+
+   A Super Tetris 2 & Bombliss Limited version was released in 1994. A
+   network version entitled All Japan Super Bombliss Cup'95 was broadcast
+   in 1995. The Bombliss mode was remade into Tetris Blast in 1996.
+   Super Famicom (Blue Planet Software, 1992), [36]Satellaview (1995)
+   Tetris 2^[37][3] Uses disconnected colored tetrominoes instead of
+   adjacent type tetrominoes. It is the first Tetris to make use of the
+   gravity algorithm. Blocks of the same color stick together. The goal of
+   Tetris 2 is to clear the bottom rows, which a similar type of play can
+   be found in the later released The Next Tetris or Tetris II. Released
+   as Tetris Flash in Japan. [38]NES, [39]Famicom Disk System and [40]Game
+   Boy (Nintendo, 1993), [41]SNES (Nintendo, 1994)
+   Tetris Battle Gaiden^[[42]citation needed] Similar to [43]Puyo Puyo in
+   use of competitive mode, characters, and humorous storyline. Different
+   characters can also unleash special moves that affect the opponent in
+   some way (knock away the current piece, rearrange matrix,
+   photocopy/fax, earthquake, orbital laser, mirror shield etc). Also
+   includes a Rensa mode, in which gravity takes a bigger part. Came to
+   the attention of European gamers by way of a review in Issue 18 (April
+   1994) of [44]Super Play magazine. Super Famicom (Blue Planet Software,
+   1993)
+   [45]Tetris & Dr. Mario Compilation of Tetris and Dr. Mario with
+   enhanced graphics and sound. Super Nintendo (Nintendo, 1994)
+   Super Tetris 3 & Sparkliss, Magicaliss, Familiss^[46][4] Sparkliss uses
+   the same concept as Bombliss (see above) but the bomb's explosions
+   spread only as horizontal and vertical lines instead of being
+   rectangular in shape. This makes for more complicated stages and
+   puzzles where some blocks need to be hit more than once by explosions
+   before they are destroyed.
+
+   Magicaliss follows the same gameplay as Tetris. The differences lie in
+   that all pieces can be of only 4 colors. Making a full line in one
+   unique color destroys all the blocks of that color in the stage. The
+   remaining blocks fall in place using the gravity algorithm.
+
+   Familiss is a traditional Tetris where 4 players play simultaneously.
+   Beneath the stage of each player is a panel that changes randomly.
+   Lines destroyed by a player will be sent to whatever his/her bottom
+   panel shows. For example "+1" sends the lines destroyed to player one;
+   "-3" will clear for player 3 as many lines as were destroyed; "+ALL"
+   and "-ALL" affect all players.
+   Super Famicom (Blue Planet Software, 1994)
+   Tetris Blast The same as the Bombliss mode in Super Tetris 2 &
+   Bombliss. In an added "Fight" mode, there are creatures that traverse
+   the constantly changing 'terrain' of the play field and try to hinder
+   the player from clearing the screen of blocks. Game Boy (Nintendo /
+   Bulletproof, 1996)^[47][5]
+   [48]Tetris Attack A version of the Japanese game [49]Panel de Pon with
+   redone art made to resemble [50]Super Mario World 2: Yoshi's Island.
+   Has no relation to Tetris other than name and genre. Also spawned
+   [51]Pokmon Puzzle League for the [52]N64, [53]Pokmon Puzzle Challenge
+   for the [54]Game Boy Color, [55]Puzzle League for the [56]Game Boy
+   Advance, and [57]Planet Puzzle League for the [58]Nintendo DS. [59]SNES
+   and [60]Game Boy (Nintendo/Intelligent Systems, 1996)
+   [61]3D Tetris [62]Virtual Boy (Nintendo, 1996)
+   [63]Tetris Plus Added to the classic Tetris is the new Puzzle Mode.
+   Each level begins with a character (the professor) standing on a
+   different pattern of blocks. This is somewhat is similar to Welltris
+   The goal is to clear the blocks out from under him to get him to the
+   bottom. He climbs to the top of the blocks you're stacking up and the
+   game ends when the professor and the descending spiked ceiling collide.
+   Arcade (Jaleco Ltd., 1995), PlayStation (Jaleco Ltd., 1996), Saturn
+   (Jaleco Ltd., 1996), Game Boy (Nintendo, 1997)
+   [64]Tetris plus 2 This version is an improved version of Tetris Plus.
+   Arcade (Jaleco Ltd., 1997)
+   [65]Tetrisphere Uses some of the tetrominoes (as well as two 3-block
+   piece) with different gameplay than standard Tetris. The object of the
+   game is to reveal the core in the center of the sphere (which is
+   actually a [66]torus as seen through a [67]fisheye perspective). To
+   achieve this, you need to stack similarly-shaped pieces on top of each
+   other. Once three are stacked, the pieces disappear and reveal the
+   layer below. If the player doesn't clear blocks fast enough they lose
+   one life, and if they lose three, the game is over. Wild card pieces,
+   power-ups and a limited ability to slide pieces over the surface of the
+   sphere all help with this task. Nintendo 64 (H2O Entertainment
+   Corporation, 1997)
+   [68]Tetris DX The Game Boy version of Tetris updated for the Game Boy
+   Color Game Boy Color (Nintendo, 1998)
+   Tetris 4D^[69][6] Dreamcast (Blue Planet Software, 1998)
+   [70]Tetris 64 Includes Normal Tetris, Giga Tetris that has tetriminoes
+   of different sizes, and Bio Tetris that adjusts itself based on
+   feedback from a heartbeat measuring clip that attaches to the user's
+   ear. Nintendo 64 (Amtex Software, 1998)
+   [71]Tetris: The Grand Master Released in Japan, designed for seasoned
+   and skilled Tetris players. At higher levels, tetriminoes begin to drop
+   so fast that they appear immediately at the bottom, with no airborne
+   phase at all; Players only have a split-second to slide the block into
+   designated locations before they lock down. This distinctive style is
+   called "20G". Subsequent entries in the Grand Master series continued
+   the high-speed trend. Arcade (Arika/Capcom, 1998)
+   Kids Tetris^[72][7] Tetrominoes start out with two blocks and increase
+   with further lines. Circus, Firehouse, Haunted House and Laboratory
+   stages have different graphical effects with each cleared level.
+   Includes printing option. PC (Blue Planet Software/Hasbro, 1999)
+   [73]The New Tetris Tetris with a new feature: when a 16-block (4 by 4)
+   square is made, the tetrominos used to form the square are merged as
+   16-block squares. A square formed using different types of tetrominos
+   is called a combo square or multisquare, and it appears silver. A
+   square formed using four of the same piece is called a pure square or
+   monosquare, and it appears gold. All pieces but the S and Z can form
+   monosquares. Nintendo 64 (H2O Entertainment Corporation, 1999)
+   The Next Tetris The Next Tetris was a version of the game with an
+   emphasis on the cascade mode. Playstation (Hasbro, 1999), PC (Hasbro,
+   1999), Dreamcast (Crave, 2000), Nuon (Toshiba, 2001),
+   [74]Magical Tetris Challenge Choose Mickey Mouse, Donald Duck, Goofy
+   and Minnie Mouse in Story mode. The game implements a new Tetris
+   deviation of combos, where consecutive cleared lines give those clears
+   greater value. Non-story variations include magical, updown, and
+   endless mode with other mdes which can be unlocked in the story mode.
+   Nintendo 64 (Capcom, 1999), Game Boy Color (Capcom, 2000), PlayStation
+   (Capcom, 1999)
+   Sega Tetris^[75][8] Dreamcast (WOW Entertainment, 2000)
+   [76]Tetris: The Absolute - The Grand Master 2^[[77]citation needed]
+   Sequel to Tetris: The Grand Master, featured faster gameplay than its
+   predecessor. A later upgrade, Tetris: The Absolute - The Grand Master 2
+   Plus, featured several new modes including the "Death Mode" where
+   tetriminoes fall furiously fast right from the beginning. Arcade
+   (Arika/Psikyo, 2000)
+   Tetris With Cardcaptor Sakura: Eternal Heart^[78][9] Released in
+   [79]Japan, a [80]Cardcaptor-themed Tetris game. It presents puzzles in
+   which the player (as [81]Sakura Kinomoto) has to transform the Clow
+   Cards into Sakura Cards by defeating [82]Eriol's [83]Tetris style
+   Puzzles. The game also features player vs CPU and contains hidden
+   extras based on the anime series. Playstation ([84]Arika, 2000)
+   [85]Tetris Worlds Includes Tetris, Square Tetris, Cascade Tetris,
+   Sticky Tetris (originally in The New Tetris), Hot-Line Tetris, and
+   Fusion Tetris. This game is published by [86]THQ. PC (Blue Planet
+   Software, 2001), PS2 (Blue Planet Software, 2002), GameCube and Xbox
+   (Radical Ent., 2002), GBA ([87]3d6 Games, 2002)
+   [88]Tetris Elements^[89][10] Includes classic Tetris and five
+   variations: Stratosphere, which features meteors that can either help
+   or hurt in eliminating rows; Earthquake, where tremors shake the
+   falling shapes and move them around; Tempest, a double Tetris game
+   where players are switched back and forth between screens; Ice, which
+   has falling icicles that will knock into the falling shapes and make
+   them crash down; and Fire, where heat can cause a chain reaction and
+   melt multiple rows. Windows, Mac OS (ImaginEngine, 2004)
+   [90]Tetris: The Grand Master 3 - Terror Instinct^[91][11] Sequel to
+   Tetris: The Absolute - The Grand Master 2 Plus with several changes in
+   game mechanics and a "Shirase" mode, analogous to Death Mode but with a
+   drastic speed increase. Arcade (Arika/Taito, 2005), Nintendo DS
+   Homebrew Port
+   [92]Tetris: The Grand Master Ace First console version in the Grand
+   Master series, one of the launch titles for the Japanese launch of the
+   Xbox 360. Xbox 360 (Arika/AQ Entertainment, 2005)
+   [93]Tetris DS First version for Nintendo DS. Includes local multiplayer
+   and online multiplayer support. All based around the NES era of games.
+   (Nintendo, 2006)
+   iPod Tetris^[94][12] [95]iPod ([96]Apple Computer, 2006)
+   Tetris Evolution^[97][13] First [98]seventh generation Tetris game to
+   be released in the United States. Includes play over [99]Xbox Live.
+   Xbox 360 (THQ, 2007)
+   Tetris Zone^[100][14] Features four game modes and the Combo system.
+   Includes online Leaderboards and game playback. Windows and Mac OS
+   (Blue Planet Software, Inc., 2007)
+   [101]Tetris Splash First [102]Xbox Live Arcade title for Tetris. It is
+   also the first game published under [103]The Tetris Company's new third
+   party Tetris Online. Xbox 360 (Tetris Online, 2007)
+   Tetris Friends Features four game modes, including Marathon, Ultra,
+   Sprint, and Block Star. According to the discussion boards on Facebook,
+   Tetris Online will soon release several new modes, including
+   multiplayer. This game is currently only available via Facebook and the
+   Tetris Friends official site. Internet (Tetris Online, 2008)
+   [104]Tetris Party A WiiWare title released on [105]20 October
+   [106]2008; there are 18 modes, including one which involves building a
+   tower that a tiny person on the stack can climb, and one using the
+   [107]Wii Balance Board. Nintendo Wii (Tetris Online/Hudson Soft, 2008)
+   Tetris Pop^[108][15] Features 17 mini-variations, including Ball,
+   Circuit, Erosion, Filler, Flood, Furnace, Limbo, Meteors, Touchdown,
+   Scanner, Split, Stacker, and Vanilla. Three game modes: Pop, Mix,
+   Chrono. Tetris Pop to be released worldwide for mobile devices.
+   Expected Winter 2008. Mobile (Electronic Arts Mobile, 2008)
+
+[[109]edit] Notable unofficial games
+
+   These games are not official Tetris products:
+   Title Description Platform, Developer, Year Released
+   [110]Blockout Object is to move and rotate [111]polycubes falling into
+   a well, viewed from the top, in order to make complete planes.
+   [112]Mega Drive/Genesis, [113]Commodore 64, [114]Arcade, [115]PC,
+   [116]Atari Lynx; [117]California Dreams; [118]1989
+   Puzzled^[119][16] In Puzzled, (Joy Joy Kid in the Japanese version),
+   the player's mission is to free a hot air balloon trapped at the bottom
+   of the screen, clearing blocks that impede it from rising. [120]Neo
+   Geo, [121]Arcade; [122]SNK; [123]1990
+   Emacs Tetris [124]Emacs has a Tetris [125]easter egg available by
+   typing ESC-x then tetris (or [126]pong).^[127][17]
+   [128]Gnometris A part of [129]Gnome Games, and comes with the GNOME
+   desktop environment.^[130][18] [131]Linux
+   [132]KBlocks A KDE4 game available with many Linux distributions using
+   [133]KDE.^[134][19] [135]Linux
+   [136]KSirtet A part of [137]KDE Games, and is installed by default with
+   many Linux distributions using [138]KDE.^[139][20] [140]Linux
+   [141]Rectangle Tetris Play this variation by placing rectangles on a
+   grid with dimensions corresponding to dice rolls.^[142][21] Mac OS X,
+   Pandamonia LLC, 2008
+   [143]Bastet (or Bastard Tetris) A version of tetris that chooses your
+   next brick with a special algorithm designed to choose the worst brick
+   possible.^[144][22] [145]Linux
+   [146]TetriNET A variant playable on Internet with up to 6 players. On
+   clearing lines the player receives special blocks that can be used to
+   damage the field of the opponent or help a teammate. This imitation
+   uses general Tetris inferences, but the main differential is its 12 by
+   22 play field dimensions. PC (St0rmCat, 1997)
+   [147]Wordtris Players try to complete words found in the dictionary
+   file. [148]Windows, [149]Super NES, [150]Game Boy
+
+[[151]edit] See also
+
+     * [152]List of puzzle video games
+
+[[153]edit] External links
+
+     * [154]Arika Co.'s Movie Download Page (Japanese), including gameplay
+       movies of the Tetris: The Grand Master Series
+
+[[155]edit] References
+
+    1. [156]^ [157]Super Tetris at MobyGames
+    2. [158]^ [159]Super Tetris 2 at GameFAQs
+    3. [160]^ [161]Tetris 2 at GameStats.com
+    4. [162]^ [163]Super Tetris 3 at GameSpot
+    5. [164]^ [165]Tetris Blast at GameSpot
+    6. [166]^ [167]Tetris 4D at GameSpot
+    7. [168]^ [169]"IGN:Kids Tetris".
+       [170]http://uk.pc.ign.com/objects/854/854694.html. Retrieved on
+       2008-11-02.
+    8. [171]^ [172]Sega Tetris at GameSpot
+    9. [173]^ [174]"Tetris with Card Captor". Gamespot UK.
+       [175]http://uk.gamespot.com/ps/puzzle/tetriswithcardcaptorseh/index
+       .html. Retrieved on 2009-01-09.
+   10. [176]^ [177]http://www.valusoft.com/tetris/elements/index.html
+   11. [178]^ [179]Tetris: The Grand Master 3 at GameSpot
+   12. [180]^ [181]"Tetris for iPod Review" at IGN Wireless
+   13. [182]^ [183]Official THQ site
+   14. [184]^ [185]Official Tetris Zone site
+   15. [186]^ [187]EA Mobile talks Tetris Pop Mobile
+   16. [188]^ [189]Puzzled review in Neo-Geo.com
+   17. [190]^ [191]Being Productive with Emacs by Phil Sung
+   18. [192]^ [193]Gnometris - GNOME Live!
+   19. [194]^ [195]KBlocks homepage
+   20. [196]^ [197]KSirtet homepage - Presentation
+   21. [198]^ [199]"Apps: Filemailer, Alarm Clock Pro, Rectangle Tetris".
+       MacNN. 01/15/2009.
+       [200]http://www.macnn.com/articles/09/01/15/allsecure.tone.foo/.
+       Retrieved on 2009-01-18.
+   22. [201]^ [202]Federico Poloni's personal web page
+
+   [203]v  [204]d  [205]e
+   [206]Tetris games
+   Main articles
+   [207]Alexey Pajitnov   [208]Tetris   [209]Tetris effect
+   [210]Tetromino   [211]The Tetris Company   List of Tetris variants
+   Descendant games
+   [212]Tetris Plus   [213]Tetris Plus 2   [214]Tetris: The Grand Master
+   [215]Magical Tetris Challenge   [216]Tetris 64   [217]The New Tetris
+   [218]Tetris Worlds   [219]Tetris Splash   [220]Tetris Party
+   Portable games
+   [221]Tetris   [222]V-Tetris   [223]3D Tetris   [224]Tetris DS
+   Variant games
+   [225]Blockout   [226]Welltris   [227]Hatris   [228]Wordtris
+   [229]Tetris Attack   [230]TetriNET   [231]Tetrisphere   [232]KSirtet
+   Retrieved from
+   "[233]http://en.wikipedia.org/wiki/List_of_Tetris_variants"
+   [234]Categories: [235]Tetris | [236]Video game lists by genre
+   Hidden categories: [237]All articles with unsourced statements |
+   [238]Articles with unsourced statements since July 2007
+
+Views
+
+     * [239]Article
+     * [240]Discussion
+     * [241]Edit this page
+     * [242]History
+
+Personal tools
+
+     * [243]Log in / create account
+
+Navigation
+
+     * [244]Main page
+     * [245]Contents
+     * [246]Featured content
+     * [247]Current events
+     * [248]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [249]About Wikipedia
+     * [250]Community portal
+     * [251]Recent changes
+     * [252]Contact Wikipedia
+     * [253]Donate to Wikipedia
+     * [254]Help
+
+Toolbox
+
+     * [255]What links here
+     * [256]Related changes
+     * [257]Upload file
+     * [258]Special pages
+     * [259]Printable version
+     * [260]Permanent link
+     * [261]Cite this page
+
+   [262]Powered by MediaWiki
+   [263]Wikimedia Foundation
+     * This page was last modified on 22 February 2009, at 22:43.
+     * All text is available under the terms of the [264]GNU Free
+       Documentation License. (See [265]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [266]Wikimedia
+       Foundation, Inc., a U.S. registered [267]501(c)(3)
+       [268]tax-deductible [269]nonprofit [270]charity.
+     * [271]Privacy policy
+     * [272]About Wikipedia
+     * [273]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=List_of_Tetris_variants&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=DuelTris&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#searchInput
+   9. file://localhost/wiki/Tetris
+  10. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#Official_games
+  11. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#Notable_unofficial_games
+  12. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#See_also
+  13. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#External_links
+  14. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#References
+  15. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit&section=1
+  16. file://localhost/wiki/Hatris
+  17. file://localhost/wiki/Alexey_Pazhitnov
+  18. file://localhost/wiki/TurboGrafx-16
+  19. file://localhost/wiki/Game_Boy
+  20. file://localhost/wiki/Arcade_game
+  21. file://localhost/wiki/NES
+  22. file://localhost/wiki/Welltris
+  23. file://localhost/wiki/Tetromino
+  24. file://localhost/wiki/Pentomino
+  25. file://localhost/wiki/Alexey_Pazhitnov
+  26. file://localhost/wiki/IBM_PC_compatible
+  27. file://localhost/wiki/ZX_Spectrum
+  28. file://localhost/wiki/CPC
+  29. file://localhost/wiki/C64
+  30. file://localhost/wiki/Amiga
+  31. file://localhost/wiki/Mac_OS
+  32. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-0
+  33. file://localhost/wiki/MS-DOS
+  34. file://localhost/wiki/Amiga
+  35. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-1
+  36. file://localhost/wiki/Satellaview
+  37. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-2
+  38. file://localhost/wiki/NES
+  39. file://localhost/wiki/Famicom_Disk_System
+  40. file://localhost/wiki/Game_Boy
+  41. file://localhost/wiki/SNES
+  42. file://localhost/wiki/Wikipedia:Citation_needed
+  43. file://localhost/wiki/Puyo_Puyo
+  44. file://localhost/wiki/Super_Play
+  45. file://localhost/wiki/Tetris_%26_Dr._Mario
+  46. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-3
+  47. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-4
+  48. file://localhost/wiki/Tetris_Attack
+  49. file://localhost/wiki/Puzzle_League_(series)
+  50. file://localhost/wiki/Super_Mario_World_2:_Yoshi%27s_Island
+  51. file://localhost/wiki/Pok%C3%A9mon_Puzzle_League
+  52. file://localhost/wiki/N64
+  53. file://localhost/wiki/Pok%C3%A9mon_Puzzle_Challenge
+  54. file://localhost/wiki/Game_Boy_Color
+  55. file://localhost/wiki/Dr._Mario_%26_Puzzle_League
+  56. file://localhost/wiki/Game_Boy_Advance
+  57. file://localhost/wiki/Planet_Puzzle_League
+  58. file://localhost/wiki/Nintendo_DS
+  59. file://localhost/wiki/SNES
+  60. file://localhost/wiki/Game_Boy
+  61. file://localhost/wiki/3D_Tetris
+  62. file://localhost/wiki/Virtual_Boy
+  63. file://localhost/wiki/Tetris_Plus
+  64. file://localhost/wiki/Tetris_plus_2
+  65. file://localhost/wiki/Tetrisphere
+  66. file://localhost/wiki/Torus
+  67. file://localhost/wiki/Fisheye_lens
+  68. file://localhost/wiki/Tetris_DX
+  69. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-5
+  70. file://localhost/wiki/Tetris_64
+  71. file://localhost/wiki/Tetris:_The_Grand_Master
+  72. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-6
+  73. file://localhost/wiki/The_New_Tetris
+  74. file://localhost/wiki/Magical_Tetris_Challenge
+  75. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-7
+  76. file://localhost/wiki/Tetris:_The_Grand_Master
+  77. file://localhost/wiki/Wikipedia:Citation_needed
+  78. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-8
+  79. file://localhost/wiki/Japan
+  80. file://localhost/wiki/Cardcaptor
+  81. file://localhost/wiki/Sakura_Kinomoto
+  82. file://localhost/wiki/Eriol
+  83. file://localhost/wiki/Tetris
+  84. file://localhost/wiki/Arika
+  85. file://localhost/wiki/Tetris_Worlds
+  86. file://localhost/wiki/THQ
+  87. file://localhost/wiki/3d6_Games
+  88. file://localhost/wiki/Tetris_Elements
+  89. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-9
+  90. file://localhost/wiki/Tetris:_The_Grand_Master
+  91. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-10
+  92. file://localhost/wiki/Tetris:_The_Grand_Master_Ace
+  93. file://localhost/wiki/Tetris_DS
+  94. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-11
+  95. file://localhost/wiki/IPod
+  96. file://localhost/wiki/Apple_Computer
+  97. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-12
+  98. file://localhost/wiki/Seventh_generation_console
+  99. file://localhost/wiki/Xbox_Live
+ 100. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-13
+ 101. file://localhost/wiki/Tetris_Splash
+ 102. file://localhost/wiki/Xbox_Live_Arcade
+ 103. file://localhost/wiki/The_Tetris_Company
+ 104. file://localhost/wiki/Tetris_Party
+ 105. file://localhost/wiki/October_20
+ 106. file://localhost/wiki/2008
+ 107. file://localhost/wiki/Wii_Balance_Board
+ 108. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-14
+ 109. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit&section=2
+ 110. file://localhost/wiki/Blockout
+ 111. file://localhost/wiki/Polycube
+ 112. file://localhost/wiki/Sega_Mega_Drive
+ 113. file://localhost/wiki/Commodore_64
+ 114. file://localhost/wiki/Arcade_game
+ 115. file://localhost/wiki/IBM_PC_compatible
+ 116. file://localhost/wiki/Atari_Lynx
+ 117. file://localhost/wiki/California_Dreams
+ 118. file://localhost/wiki/1989_in_video_gaming
+ 119. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-15
+ 120. file://localhost/wiki/Neo_Geo_(console)
+ 121. file://localhost/wiki/Arcade_game
+ 122. file://localhost/wiki/SNK_Playmore
+ 123. file://localhost/wiki/1990_in_video_gaming
+ 124. file://localhost/wiki/Emacs
+ 125. file://localhost/wiki/Easter_egg_(virtual)
+ 126. file://localhost/wiki/Pong
+ 127. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-16
+ 128. file://localhost/w/index.php?title=Gnometris&action=edit&redlink=1
+ 129. file://localhost/w/index.php?title=Gnome_Games&action=edit&redlink=1
+ 130. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-17
+ 131. file://localhost/wiki/Linux
+ 132. file://localhost/w/index.php?title=KBlocks&action=edit&redlink=1
+ 133. file://localhost/wiki/KDE
+ 134. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-18
+ 135. file://localhost/wiki/Linux
+ 136. file://localhost/wiki/KSirtet
+ 137. file://localhost/wiki/KDE_Games
+ 138. file://localhost/wiki/KDE
+ 139. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-19
+ 140. file://localhost/wiki/Linux
+ 141. file://localhost/w/index.php?title=Rectangle_Tetris&action=edit&redlink=1
+ 142. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-20
+ 143. file://localhost/w/index.php?title=Bastet_(video_game)&action=edit&redlink=1
+ 144. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_note-21
+ 145. file://localhost/wiki/Linux
+ 146. file://localhost/wiki/TetriNET
+ 147. file://localhost/wiki/Wordtris
+ 148. file://localhost/wiki/Microsoft_Windows
+ 149. file://localhost/wiki/Super_NES
+ 150. file://localhost/wiki/Game_Boy
+ 151. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit&section=3
+ 152. file://localhost/wiki/List_of_puzzle_video_games
+ 153. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit&section=4
+ 154. http://www.arika.co.jp/movie.htm
+ 155. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit&section=5
+ 156. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-0
+ 157. http://www.mobygames.com/game/dos/super-tetris
+ 158. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-1
+ 159. http://www.gamefaqs.com/console/snes/home/581085.html
+ 160. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-2
+ 161. http://www.gamestats.com/objects/007/007191/index.html
+ 162. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-3
+ 163. http://www.gamespot.com/snes/puzzle/supertetris3/index.html
+ 164. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-4
+ 165. http://uk.gamespot.com/gameboy/puzzle/tetrisblast/index.html
+ 166. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-5
+ 167. http://uk.gamespot.com/dreamcast/puzzle/tetris4d/index.html
+ 168. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-6
+ 169. http://uk.pc.ign.com/objects/854/854694.html
+ 170. http://uk.pc.ign.com/objects/854/854694.html
+ 171. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-7
+ 172. http://uk.gamespot.com/dreamcast/puzzle/segatetris/index.html
+ 173. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-8
+ 174. http://uk.gamespot.com/ps/puzzle/tetriswithcardcaptorseh/index.html
+ 175. http://uk.gamespot.com/ps/puzzle/tetriswithcardcaptorseh/index.html
+ 176. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-9
+ 177. http://www.valusoft.com/tetris/elements/index.html
+ 178. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-10
+ 179. http://uk.gamespot.com/arcade/puzzle/tetristhegrand/index.html
+ 180. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-11
+ 181. http://uk.wireless.ign.com/articles/732/732977p1.html
+ 182. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-12
+ 183. http://www.thq.com/games/gameinfo.php?id=1268&upc=55019
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-13
+ 185. http://zone.tetris.com/
+ 186. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-14
+ 187. http://www.pocketgamer.co.uk/r/Mobile/Tetris+Pop/feature.asp?c=7947
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-15
+ 189. http://www.neo-geo.com/reviews/neo-reviews/puzzled/puzzled1.html
+ 190. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-16
+ 191. http://stuff.mit.edu/iap/emacs/emacs-slides-1.pdf
+ 192. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-17
+ 193. http://live.gnome.org/Gnometris
+ 194. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-18
+ 195. http://games.kde.org/category.php?category=board
+ 196. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-19
+ 197. http://ksirtet.sourceforge.net/
+ 198. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-20
+ 199. http://www.macnn.com/articles/09/01/15/allsecure.tone.foo/
+ 200. http://www.macnn.com/articles/09/01/15/allsecure.tone.foo/
+ 201. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc472.tmp.html#cite_ref-21
+ 202. http://fph.altervista.org/prog/bastet.shtml
+ 203. file://localhost/wiki/Template:Tetris
+ 204. file://localhost/wiki/Template_talk:Tetris
+ 205. http://en.wikipedia.org/w/index.php?title=Template:Tetris&action=edit
+ 206. file://localhost/wiki/Tetris
+ 207. file://localhost/wiki/Alexey_Pajitnov
+ 208. file://localhost/wiki/Tetris
+ 209. file://localhost/wiki/Tetris_effect
+ 210. file://localhost/wiki/Tetromino
+ 211. file://localhost/wiki/The_Tetris_Company
+ 212. file://localhost/wiki/Tetris_Plus
+ 213. file://localhost/wiki/Tetris_Plus_2
+ 214. file://localhost/wiki/Tetris:_The_Grand_Master
+ 215. file://localhost/wiki/Magical_Tetris_Challenge
+ 216. file://localhost/wiki/Tetris_64
+ 217. file://localhost/wiki/The_New_Tetris
+ 218. file://localhost/wiki/Tetris_Worlds
+ 219. file://localhost/wiki/Tetris_Splash
+ 220. file://localhost/wiki/Tetris_Party
+ 221. file://localhost/wiki/Tetris_(handheld_game)
+ 222. file://localhost/wiki/V-Tetris
+ 223. file://localhost/wiki/3D_Tetris
+ 224. file://localhost/wiki/Tetris_DS
+ 225. file://localhost/wiki/Blockout
+ 226. file://localhost/wiki/Welltris
+ 227. file://localhost/wiki/Hatris
+ 228. file://localhost/wiki/Wordtris
+ 229. file://localhost/wiki/Tetris_Attack
+ 230. file://localhost/wiki/TetriNET
+ 231. file://localhost/wiki/Tetrisphere
+ 232. file://localhost/wiki/KSirtet
+ 233. http://en.wikipedia.org/wiki/List_of_Tetris_variants
+ 234. file://localhost/wiki/Special:Categories
+ 235. file://localhost/wiki/Category:Tetris
+ 236. file://localhost/wiki/Category:Video_game_lists_by_genre
+ 237. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 238. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_July_2007
+ 239. file://localhost/wiki/List_of_Tetris_variants
+ 240. file://localhost/wiki/Talk:List_of_Tetris_variants
+ 241. file://localhost/w/index.php?title=List_of_Tetris_variants&action=edit
+ 242. file://localhost/w/index.php?title=List_of_Tetris_variants&action=history
+ 243. file://localhost/w/index.php?title=Special:UserLogin&returnto=List_of_Tetris_variants
+ 244. file://localhost/wiki/Main_Page
+ 245. file://localhost/wiki/Portal:Contents
+ 246. file://localhost/wiki/Portal:Featured_content
+ 247. file://localhost/wiki/Portal:Current_events
+ 248. file://localhost/wiki/Special:Random
+ 249. file://localhost/wiki/Wikipedia:About
+ 250. file://localhost/wiki/Wikipedia:Community_portal
+ 251. file://localhost/wiki/Special:RecentChanges
+ 252. file://localhost/wiki/Wikipedia:Contact_us
+ 253. http://wikimediafoundation.org/wiki/Donate
+ 254. file://localhost/wiki/Help:Contents
+ 255. file://localhost/wiki/Special:WhatLinksHere/List_of_Tetris_variants
+ 256. file://localhost/wiki/Special:RecentChangesLinked/List_of_Tetris_variants
+ 257. file://localhost/wiki/Wikipedia:Upload
+ 258. file://localhost/wiki/Special:SpecialPages
+ 259. file://localhost/w/index.php?title=List_of_Tetris_variants&printable=yes
+ 260. file://localhost/w/index.php?title=List_of_Tetris_variants&oldid=272593221
+ 261. file://localhost/w/index.php?title=Special:Cite&page=List_of_Tetris_variants&id=272593221
+ 262. http://www.mediawiki.org/
+ 263. http://wikimediafoundation.org/
+ 264. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 265. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 266. http://www.wikimediafoundation.org/
+ 267. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 268. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 269. http://en.wikipedia.org/wiki/Non-profit_organization
+ 270. http://en.wikipedia.org/wiki/Charitable_organization
+ 271. http://wikimediafoundation.org/wiki/Privacy_policy
+ 272. file://localhost/wiki/Wikipedia:About
+ 273. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 274. file://localhost/wiki/Main_Page

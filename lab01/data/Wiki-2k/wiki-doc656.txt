@@ -1,0 +1,288 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+EN 13606
+
+From Wikipedia, the free encyclopedia
+
+   Jump to: [6]navigation, [7]search
+   This article may need to be rewritten entirely to comply with
+   Wikipedia's [8]quality standards. [9]You can help. The [10]discussion
+   page may contain suggestions.
+
+   The overall goal of this Health informatics - Electronic Health Record
+   Communication (EN 13606) European Standard is to define a rigorous and
+   stable information architecture for communicating part or all of the
+   Electronic Health Record (EHR) of a single subject of care (patient).
+   This is to support the interoperability of systems and components that
+   need to communicate (access, transfer, add or modify) EHR data via
+   electronic messages or as distributed objects:
+
+   preserving the original clinical meaning intended by the author;
+
+   reflecting the confidentiality of that data as intended by the author
+   and patient.
+
+   The name of this European Standard suggests that it is not intended to
+   specify the internal architecture or database design of EHR systems or
+   components, but the scope includes the use of an 'object'. This implies
+   that the 'objects' can be stored, retrieved and exchanged. It is
+   explicitly not intended to prescribe the kinds of clinical applications
+   that might request or contribute EHR data in particular settings,
+   domains or specialities. For this reason, the information model
+   proposed here is called the EHR Extract, and might be used to define a
+   message, an XML document or schema, or an object interface. The
+   information model in this European Standard is an ISO RM-ODP
+   Information Viewpoint of the EHR Extract. This European Standard
+   considers the EHR to be the persistent longitudinal and potentially
+   multi-enterprise or multi-national record of health and care provision
+   relating to a single subject of care (the patient), created and stored
+   in one or more physical systems in order to inform the subjects future
+   health care and to provide a medico-legal record of care that has been
+   provided. Whilst an EHR service or system will need to interact with
+   many other services or systems providing terminology, medical
+   knowledge, guidelines, workflow, security, persons registries, billing
+   etc. this European Standard has only touched on those areas if some
+   persistent trace of such interactions is required in the EHR itself,
+   and requires specific features in the reference model to allow their
+   communication. This European Standard may offer a practical and useful
+   contribution to the design of EHR systems but will primarily be
+   realised as a common set of external interfaces or messages built on
+   otherwise heterogeneous clinical systems.
+
+   The [11]openEHR Framework is the basis of this new Electronic Health
+   Record Communication Standard (EN 13606)
+
+[[12]edit] Technical approach
+
+   This European Standard has drawn on the practical experience that has
+   been gained in implementing its European predecessor, ENV 13606, other
+   EHR-related standards and specifications, commercial systems and
+   demonstrator pilots in the communication of whole or part of patients
+   EHRs, and on fifteen years of research findings in the field. This
+   European Standard builds on ENV 13606, updating it in order to make it
+   more rigorous and complete, to accommodate new requirements identified,
+   to incorporate a robust means of applying the generic models to
+   individual clinical domains, and to enable communication using HL7
+   version 3 messages. A mapping from the existing prestandard is also
+   provided to support implementers of existing conformant systems. The
+   technical approach to producing this European Standard has taken into
+   account several contemporary areas of requirement.
+
+   a. In addition to a traditional message-based communication between
+   isolated clinical systems, the Electronic Health Record will in some
+   cases be implemented as a middleware component (a record server) using
+   distributed object technology and/or web services.
+
+   b. Customers of such record services will be not only other electronic
+   health record systems but also other middleware services such as
+   security components, workflow systems, alerting and decision support
+   services and other medical knowledge agents.
+
+   c. There is wide international interest in this work, and this European
+   Standard has been drafted jointly through CEN and ISO with significant
+   input from many member countries.
+
+   d. Mapping to HL7 version 3 has been considered an important goal, to
+   enable conformance to this European Standard within an HL7 version 3
+   environment.
+
+   e. The R&D inputs on which ENV 13606 was based have moved forward since
+   1999 and important new contributions to the field have been taken into
+   account. The [13]openEHR foundation, integrating threads of R&D in
+   Europe and Australia, is one such example.
+
+   Given the diversity of deployed EHR systems, this European Standard has
+   made most features of EHR communication optional rather than mandatory.
+   However, some degree of prescription is required to make EHR Extracts
+   safely processable by an EHR recipient system. This European Standard
+   will, in practice, usually be adopted alongside other health
+   informatics standards that define particular aspects of health data
+   representation. This European Standard can be used alongside key
+   complementary standards, including the [14]Health Level 7 Version 3
+   Reference Information Model (RIM), EN 14822-1, EN 14822-2, EN 14822-3,
+   CEN/TS 14822-4 (GPIC), prEN 12967 ([15]HISA) and prEN13940
+   ([16]CONTSYS).
+
+[[17]edit] See also
+
+     * [18]Archetype (information science)
+     * [19]OpenEHR
+     * [20]ProRec
+     * [21]European Institute for Health Records
+     * [22]Good European Health Record (GEHR)
+     * [23]Electronic Health Record (EHR)
+     * [24]Electronic medical record
+     * [25]Health Informatics Service Architecture (HISA)
+     * [26]System of concepts to support Continuity of care (CONTSYS)
+     * [27]HISA
+     * [28]Health Level 7
+     * [29]Continuity of Care Record
+     * [30]Clinical Document Architecture (CDA)
+     * [31]Clinical Data Interchange Standards Consortium (CDISC)
+     * [32]HIPAA
+     * [33]SNOMED CT
+
+    This [34]health-related article is a [35]stub. You can [36]help
+   Wikipedia by [37]expanding it.
+    This [38]standards- or [39]measurement-related article is a [40]stub.
+   You can [41]help Wikipedia by [42]expanding it.
+   Retrieved from "[43]http://en.wikipedia.org/wiki/EN_13606"
+   [44]Categories: [45]Health stubs | [46]Standards and measurement stubs
+   | [47]Medical informatics | [48]Standards organizations |
+   [49]International standards
+   Hidden category: [50]Wikipedia articles needing rewrite
+
+Views
+
+     * [51]Article
+     * [52]Discussion
+     * [53]Edit this page
+     * [54]History
+
+Personal tools
+
+     * [55]Log in / create account
+
+Navigation
+
+     * [56]Main page
+     * [57]Contents
+     * [58]Featured content
+     * [59]Current events
+     * [60]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [61]About Wikipedia
+     * [62]Community portal
+     * [63]Recent changes
+     * [64]Contact Wikipedia
+     * [65]Donate to Wikipedia
+     * [66]Help
+
+Toolbox
+
+     * [67]What links here
+     * [68]Related changes
+     * [69]Upload file
+     * [70]Special pages
+     * [71]Printable version
+     * [72]Permanent link
+     * [73]Cite this page
+
+Languages
+
+     *
+
+   [74]Powered by MediaWiki
+   [75]Wikimedia Foundation
+     * This page was last modified on 22 October 2008, at 14:38.
+     * All text is available under the terms of the [76]GNU Free
+       Documentation License. (See [77]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [78]Wikimedia
+       Foundation, Inc., a U.S. registered [79]501(c)(3)
+       [80]tax-deductible [81]nonprofit [82]charity.
+     * [83]Privacy policy
+     * [84]About Wikipedia
+     * [85]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=EN_13606&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc656.tmp.html#column-one
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc656.tmp.html#searchInput
+   8. file://localhost/wiki/Wikipedia:Manual_of_Style
+   9. http://en.wikipedia.org/w/index.php?title=EN_13606&action=edit
+  10. file://localhost/wiki/Talk:EN_13606
+  11. file://localhost/wiki/OpenEHR
+  12. file://localhost/w/index.php?title=EN_13606&action=edit&section=1
+  13. file://localhost/wiki/OpenEHR
+  14. file://localhost/wiki/Health_Level_7
+  15. file://localhost/wiki/HISA
+  16. file://localhost/wiki/CONTSYS
+  17. file://localhost/w/index.php?title=EN_13606&action=edit&section=2
+  18. file://localhost/wiki/Archetype_(information_science)
+  19. file://localhost/wiki/OpenEHR
+  20. file://localhost/wiki/ProRec
+  21. file://localhost/wiki/European_Institute_for_Health_Records
+  22. file://localhost/wiki/Good_European_Health_Record
+  23. file://localhost/wiki/Electronic_Health_Record
+  24. file://localhost/wiki/Electronic_medical_record
+  25. file://localhost/wiki/Health_Informatics_Service_Architecture
+  26. file://localhost/wiki/CONTSYS
+  27. file://localhost/wiki/HISA
+  28. file://localhost/wiki/Health_Level_7
+  29. file://localhost/wiki/Continuity_of_Care_Record
+  30. file://localhost/wiki/Clinical_Document_Architecture
+  31. file://localhost/wiki/Clinical_Data_Interchange_Standards_Consortium
+  32. file://localhost/wiki/HIPAA
+  33. file://localhost/wiki/SNOMED_CT
+  34. file://localhost/wiki/Health
+  35. file://localhost/wiki/Wikipedia:Stub
+  36. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  37. http://en.wikipedia.org/w/index.php?stub&title=EN_13606&action=edit
+  38. file://localhost/wiki/Standardization
+  39. file://localhost/wiki/Measurement
+  40. file://localhost/wiki/Wikipedia:Perfect_stub_article
+  41. file://localhost/wiki/Wikipedia:Find_or_fix_a_stub
+  42. http://en.wikipedia.org/w/index.php?stub&title=EN_13606&action=edit
+  43. http://en.wikipedia.org/wiki/EN_13606
+  44. file://localhost/wiki/Special:Categories
+  45. file://localhost/wiki/Category:Health_stubs
+  46. file://localhost/wiki/Category:Standards_and_measurement_stubs
+  47. file://localhost/wiki/Category:Medical_informatics
+  48. file://localhost/wiki/Category:Standards_organizations
+  49. file://localhost/wiki/Category:International_standards
+  50. file://localhost/wiki/Category:Wikipedia_articles_needing_rewrite
+  51. file://localhost/wiki/EN_13606
+  52. file://localhost/wiki/Talk:EN_13606
+  53. file://localhost/w/index.php?title=EN_13606&action=edit
+  54. file://localhost/w/index.php?title=EN_13606&action=history
+  55. file://localhost/w/index.php?title=Special:UserLogin&returnto=EN_13606
+  56. file://localhost/wiki/Main_Page
+  57. file://localhost/wiki/Portal:Contents
+  58. file://localhost/wiki/Portal:Featured_content
+  59. file://localhost/wiki/Portal:Current_events
+  60. file://localhost/wiki/Special:Random
+  61. file://localhost/wiki/Wikipedia:About
+  62. file://localhost/wiki/Wikipedia:Community_portal
+  63. file://localhost/wiki/Special:RecentChanges
+  64. file://localhost/wiki/Wikipedia:Contact_us
+  65. http://wikimediafoundation.org/wiki/Donate
+  66. file://localhost/wiki/Help:Contents
+  67. file://localhost/wiki/Special:WhatLinksHere/EN_13606
+  68. file://localhost/wiki/Special:RecentChangesLinked/EN_13606
+  69. file://localhost/wiki/Wikipedia:Upload
+  70. file://localhost/wiki/Special:SpecialPages
+  71. file://localhost/w/index.php?title=EN_13606&printable=yes
+  72. file://localhost/w/index.php?title=EN_13606&oldid=246952938
+  73. file://localhost/w/index.php?title=Special:Cite&page=EN_13606&id=246952938
+  74. http://www.mediawiki.org/
+  75. http://wikimediafoundation.org/
+  76. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+  77. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+  78. http://www.wikimediafoundation.org/
+  79. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+  80. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+  81. http://en.wikipedia.org/wiki/Non-profit_organization
+  82. http://en.wikipedia.org/wiki/Charitable_organization
+  83. http://wikimediafoundation.org/wiki/Privacy_policy
+  84. file://localhost/wiki/Wikipedia:About
+  85. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+  86. file://localhost/wiki/File:Crystal_Clear_app_kedit.svg
+  87. file://localhost/wiki/File:Rod_of_asclepius.png
+  88. file://localhost/wiki/File:Nuvola_apps_kruler.png
+  89. file://localhost/wiki/Main_Page
+  90. http://ko.wikipedia.org/wiki/OpenEHR

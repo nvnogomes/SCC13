@@ -1,0 +1,765 @@
+   #[1]Edit this page [2]Wikipedia (en) [3]copyright [4]Wikipedia RSS Feed
+   [5]Wikipedia Atom Feed
+
+Cabergoline
+
+From Wikipedia, the free encyclopedia
+
+     (Redirected from [6]Dostinex)
+   Jump to: [7]navigation, [8]search
+
+   Cabergoline
+
+                                                Systematic ([9]IUPAC) name
+                     N-[3-(Dimethylamino)propyl]-N-[(ethylamino)carbonyl]-
+                                  6-(2-propenyl)-8g-ergoline-8-carboxamide
+                                                                        or
+                                     1-[(6-allylergolin8-yl)- carbonyl]-1-
+                                     [3-(dimethylamino)propyl]-3-ethylurea
+                                                               Identifiers
+                                             [10]CAS number [11]81409-90-7
+                              [12]ATC code [13]G02[14]CB03 [15]N04[16]BC06
+                                                     [17]PubChem [18]54746
+                                                [19]DrugBank [20]APRD00836
+                                                  [21]ChemSpider [22]49452
+                                                             Chemical data
+                           [23]Formula [24]C[26][25]H[37][26]N[5][27]O[2]^
+                                               [28]Mol. mass 451.604 g/mol
+                                                      Pharmacokinetic data
+      [29]Bioavailability First-pass effect seen; absolute bioavailability
+                                                                   unknown
+         [30]Protein binding Moderately bound (40% to 42%); concentration-
+                                                               independent
+      [31]Metabolism Hepatic, predominately via hydrolysis of the acylurea
+                                                   bond or the urea moiety
+                                     [32]Half life 63-69 hours (estimated)
+                                    [33]Excretion Urine (22%), feces (60%)
+                                                Therapeutic considerations
+                                                        [34]Pregnancy cat.
+
+                                                                 B([35]US)
+                                                          [36]Legal status
+
+                                                         [37]-only([38]US)
+                                                           [39]Routes Oral
+
+   Cabergoline (brand names Dostinex and Cabaser), an ergot derivative, is
+   a potent [40]dopamine [41]receptor [42]agonist on D2 receptors.^[43][1]
+   It also acts on dopamine receptors in [44]lactophilic [45]hypothalamus
+   [46]cells to suppress [47]prolactin production in the [48]pituitary
+   gland. It is frequently used as a second-line agent in the management
+   of [49]prolactinomas when [50]bromocriptine is ineffective.
+
+Contents
+
+     * [51]1 History
+     * [52]2 Intellectual property
+     * [53]3 Pharmacokinetics
+     * [54]4 Carcinogenity
+     * [55]5 Uses
+     * [56]6 Off-label/recreational uses
+     * [57]7 Contraindications and precautions
+     * [58]8 Pregnancy and lactation
+     * [59]9 Side effects
+          + [60]9.1 Valvular heart disease
+     * [61]10 Interactions
+     * [62]11 Dosage
+     * [63]12 External links
+     * [64]13 References
+
+[[65]edit] History
+
+   Cabergoline was invented by scientists working for the Italian drug
+   company Farmitalia-Carlo Erba SpA in [66]Milan in 1981/82, who were
+   experimenting with semisynthetic derivatives of the [67]ergot
+   alkaloids. Farmitalia-Carlo Erba was acquired by [68]Pharmacia in 1992,
+   which in turn was acquired by [69]Pfizer in 2002. The drug was not FDA
+   approved until 2002. It went [70]generic in late 2005 following US
+   patent expiration.
+
+[[71]edit] Intellectual property
+
+   Farmitalia filed for patent protection of Cabergoline in 1982, and U.S.
+   Patent 4,526,892 was granted in July 1985.
+
+[[72]edit] Pharmacokinetics
+
+   Following a single oral [73]dose, resorption of cabergoline from the
+   [74]gastrointestinal (GI) tract is highly variable, typically occurring
+   within 0.5 to 4 hours. Ingestion with [75]food does not alter its
+   absorption rate. [76]Human [77]bioavailability has not been determined
+   since the drug is intended for oral use only. In [78]mice and [79]rats
+   the absolute bioavailability has been determined to be 30 and 63
+   percent, respectively. Cabergoline is rapidly and extensively
+   [80]metabolized in the [81]liver and excreted in [82]bile and to a
+   lesser extent in [83]urine. All [84]metabolites are less active than
+   the parental drug or inactive altogether. The human elimination
+   [85]half-life is estimated to be 63 to 68 hours in patients with
+   [86]Parkinson's disease and 79 to 115 hours in patients with
+   [87]pituitary [88]tumors. Average elimination [89]half-life is 80h.
+
+[[90]edit] Carcinogenity
+
+   In [91]rodents a dose-dependent increase in [92]malignant tumors has
+   been found. The [93]correlation is thought to be [94]species specific.
+   No clinical [95]data exists on [96]carcinogenity in
+   humans.^[[97]citation needed]
+
+[[98]edit] Uses
+
+     * Monotherapy of [99]Parkinson's disease in the early phase.
+     * Combination therapy, together with [100]levodopa and a
+       [101]decarboxylase inhibitor such as [102]carbidopa, in
+       progressive-phase Parkinson's disease.
+     * Adjunctive therapy of prolactin-producing pituitary gland tumors
+       ([103]microprolactinomas).
+     * In some countries also: [104]ablactation and [105]dysfunctions
+       associated with [106]hyperprolactinemia ([107]amenorrhea,
+       [108]oligomenorrhea, [109]anovulation, and [110]galactorrhea).
+
+[[111]edit] Off-label/recreational uses
+
+   It has at times been used as an adjunct to [112]SSRI
+   [113]antidepressants as there is some evidence that it counteracts
+   certain [114]side effects of those [115]drugs, such as reduced
+   [116]libido and [117]anorgasmia. It also has been suggested online that
+   it has a possible [118]recreational use in reducing or eliminating the
+   male [119]refractory period. It is also used by bodybuilders to control
+   [120]gynecomastia caused by elevated prolactin levels through the use
+   of [121]anabolic steroids such as [122]Nandrolone and [123]Trenbolone.
+   Additionally, a study that recently concluded Phase III trials, is
+   showing it to decrease the risk of ovarian hyperstimulation syndrome
+   (OHSS) in females undergoing stimulated cycles of [124]in vitro
+   fertilization ([125]IVF).
+
+[[126]edit] Contraindications and precautions
+
+     * [127]Hypersensitivity to [128]ergot [129]derivatives
+     * [130]Pediatric patients (no clinical experience)
+     * Severely impaired liver function or [131]cholestasis
+     * [132]Co-medication with drugs metabolized mainly by CYP P450 such
+       as [133]erythromycin and [134]ketoconazole, because increased
+       [135]plasma levels of cabergoline may result (although cabergoline
+       undergoes minimal CYP450 metabolism).
+     * Cautions: severe [136]cardiovascular disease, [137]Raynaud's
+       disease, [138]gastroduodenal ulcers, active gastrointestinal
+       bleeding, [139]hypotension.
+
+[[140]edit] Pregnancy and lactation
+
+     * [141]Pregnancy: Approximately 100 female patients became pregnant
+       under therapy with cabergoline for hyperprolactinemic conditions.
+       The incidence of [142]spontaneous abortions and [143]congenital
+       abnormalities was comparable to nontreated patients. Nevertheless,
+       women wishing to become pregnant should wait a period of four weeks
+       after discontinuation of cabergoline. Patients becoming pregnant
+       under therapy should terminate cabergoline immediately, if
+       possible.
+     * [144]Lactation: In rats cabergoline was found in the maternal
+       [145]milk. Since it is not known if this effect also occurs in
+       humans, breastfeeding women should not be treated.
+
+[[146]edit] Side effects
+
+   Approximately 200 patients with newly diagnosed Parkinson's disease
+   participated in a [147]clinical study of cabergoline monotherapy.
+   Seventy-nine (79) percent reported at least one side effect. These side
+   effects were chiefly mild or moderate:
+     * GI tract: Side effects were extremely frequent. Fifty-three percent
+       of patients reported side effects. Very frequent: [148]Nausea
+       (30%), [149]obstipation (22%), and dry mouth (10%). Frequent:
+       Gastric irritation (7%), [150]vomiting (5%), and [151]dyspepsia
+       (2%).
+     * [152]Psychiatric disturbances and [153]central nervous system
+       (CNS): Altogether 51 percent of patients were affected. Very
+       frequent: Sleep disturbances ([154]somnolence 18%, [155]insomnia
+       11%), [156]vertigo (27%), and [157]depression (13%). Frequent:
+       [158]dyskinesia (4%) and [159]hallucinations (4%).
+     * Cardiovascular: Approximately 30 percent of patients experienced
+       side effects. Most frequent were hypotension (10%), peripheral
+       [160]edema (14%) and non-specific edema (2%). [161]Arrhythmias were
+       encountered in 4.8%, [162]palpitations in 4.3%, and [163]angina
+       pectoris in 1.4%.
+
+   In a combination study with 2,000 patients also treated with levodopa,
+   the incidence and severity of side effects was comparable to
+   monotherapy. Encountered side effects required a termination of
+   cabergoline treatment in 15% of patients. Additional side effects were
+   infrequent cases of [164]hematological side effects, and an occasional
+   increase in liver [165]enzymes or [166]serum [167]creatinine without
+   [168]signs or [169]symptoms.
+
+   As with other ergot derivatives, [170]pleuritis, [171]exudative pleura
+   disease, pleura [172]fibrosis, [173]lung fibrosis, and
+   [174]pericarditis are seen. These side effects are noted in less than
+   2% of patients. They require immediate termination of treatment.
+   Clinical improvement and [175]normalization of [176]X-ray findings are
+   normally seen soon after cabergoline [177]withdrawal.
+
+   The reported [178]incidence and [179]severity of side effects in
+   hyperprolactinemic patients was comparable.
+
+[[180]edit] Valvular heart disease
+
+   In two studies published in the [181]New England Journal of Medicine on
+   January 4, 2007, cabergoline was implicated along with [182]pergolide
+   in causing [183]valvular heart disease.^[184][2]^[185][3] Both drugs
+   are ergot-derived [186]dopamine agonists, although their molecular
+   skeletons are different. As a result of this, the [187]FDA removed
+   pergolide from the U.S. market on March 29, 2007.^[188][4] Since
+   cabergoline is not approved in the U.S. for Parkinson's Disease, but
+   for hyperprolactinemia, the drug remains on the market. The lower doses
+   required for treatment of hyperprolactinemia have been found to be not
+   associated with clinically significant valvular heart disease or
+   cardiac valve regurgitation.^[189][5]^[190][6]
+
+[[191]edit] Interactions
+
+   No [192]interactions were noted with levodopa or [193]selegiline. The
+   drug should not be combined with other ergot derivatives. Dopamine
+   [194]antagonists such as [195]antipsychotics and [196]metoclopramide
+   inhibit the clinical action of cabergoline and should therefore not be
+   used concomitantly. The use of [197]antihypertensive drugs should be
+   intensively monitored because excessive hypotension may result from the
+   combination.
+
+[[198]edit] Dosage
+
+     * Parkinson's disease: Monotherapy: Initial dose should be 0.5 mg
+       daily. The usual maintenance dose is 2 to 4 mg daily. Combination
+       therapy: Usually 2 to 6 mg daily.
+     * Tumors of the pituitary gland and other hyperprolactinemic
+       conditions: Initially 0.5 mg per week, slowly titrated to 4.5 mg
+       per week, if necessary.
+     * Ablactation: According to specific treatment scheme.
+
+[[199]edit] External links
+
+     * [200]http://www.mayoclinic.com/health/drug-information/DR600285
+
+[[201]edit] References
+
+    1. [202]^ [203]"Dostinex at www.rxlist.com".
+       [204]http://www.rxlist.com/cgi/generic/cabergoline.htm. Retrieved
+       on 2007-04-27.
+    2. [205]^ Schade, Rene; Andersohn, Frank; Suissa, Samy; Haverkamp,
+       Wilhelm; Garbe, Edeltraut (2007-01-04), "[206]Dopamine Agonists and
+       the Risk of Cardiac-Valve Regurgitation", New England Journal of
+       Medicine 356 (1): 29-38,
+       [207]http://content.nejm.org/cgi/content/full/356/1/29
+    3. [208]^ Zanettini, Renzo; Antonini, Angelo; Gatto, Gemma; Gentile,
+       Rosa; Tesei, Silvana; Pezzoli, Gianna (2007-01-04), "[209]Valvular
+       Heart Disease and the Use of Dopamine Agonists for Parkinson's
+       Disease", New England Journal of Medicine 356 (1): 39-46,
+       [210]http://content.nejm.org/cgi/content/full/356/1/39
+    4. [211]^ [212]"Food and Drug Administration Public Health Advisory".
+       2007-03-29.
+       [213]http://www.fda.gov/cder/drug/advisory/pergolide.htm. Retrieved
+       on 2007-04-27.
+    5. [214]^ [215][1] Low dose cabergoline for hyperprolactinaemia is not
+       associated with clinically significant valvular heart disease
+    6. [216]^ [217][2] Treatment with low doses of cabergoline is not
+       associated with increased prevalence of cardiac valve regurgitation
+       in patients with hyperprolactinaemia
+
+   [218]v  [219]d  [220]e
+   [221]Ergolines
+   [222]Lysergic acid derivatives
+   [223]Bromocriptine  Cabergoline  [224]Ergine  [225]Ergoloid
+   [226]Ergonovine  [227]Ergotamine  [228]Lysergic acid  [229]Lysergol
+   [230]LSD  [231]D-Lysergic acid hydroxyethylamide  [232]Lisuride
+   [233]Lysergic acid methyl ester  [234]Methergine  [235]Methysergide
+   [236]Pergolide
+   [237]Hallucinogenic [238]lysergamides
+   [239]AL-LAD  [240]ALD-52  [241]BU-LAD  [242]CYP-LAD  [243]DAL
+   [244]DAM-57  [245]Ergonovine  [246]ETH-LAD  [247]LAE-32  [248]LSD
+   [249]LPD-824  [250]LSM-775  [251]D-Lysergic acid
+   N-(-hydroxyethyl)amide  [252]Lysergic acid 2-butyl amide  [253]Lysergic
+   acid 2,4-dimethylazetidide  [254]Methylergonovine
+   [255]Methylisopropyllysergamide  [256]MLD-41  [257]PARGY-LAD
+   [258]PRO-LAD
+   Other ergolines
+   [259]Ergoline
+   Natural sources
+   [260]Argyreia nervosa, [261]Claviceps spp.  [262]Ipomoea tricolor
+   [263]Ipomoea violacea  [264]Rivea corymbosa
+   [265]v  [266]d  [267]e
+   Other [268]gynecologicals ([269]G02C)
+   [270]Sympathomimetics, [271]labour repressants
+   [272]Ritodrine  [273]Buphenine  [274]Fenoterol
+   [275]Prolactin inhibitors
+   [276]Bromocriptine  [277]Lisuride  Cabergoline  [278]Quinagolide
+   [279]Metergoline  [280]Terguride
+   [281]Anti-inflammatory products for [282]vaginal administration
+   [283]Ibuprofen  [284]Naproxen  [285]Benzydamine  [286]Flunoxaprofen
+   Other gynecologicals
+   [287]Atosiban
+   [288]v  [289]d  [290]e
+   [291]Antiparkinson drugs: [292]dopaminergic agents ([293]N04B)
+   [294]Dopa and derivatives
+   [295]Levodopa  [296]Droxidopa  [297]Melevodopa  [298]Etilevodopa
+   [299]Dopamine agonists
+   [300]A-412,997  [301]Aplindore  [302]Apomorphine  [303]Bromocriptine
+   Cabergoline  [304]Dihydrexidine  [305]Dihydroergocryptine
+   [306]Fenoldopam  [307]Lisuride  [308]Pergolide  [309]Piribedil
+   [310]Pramipexole  [311]Propylnorapomorphine  [312]Quinpirole
+   [313]Ropinirole  [314]Rotigotine  [315]SKF 38393  [316]SKF 82958
+   [317]Enzyme inhibitors
+   [318]MAOIs ([319]B)
+   [320]Selegiline  [321]Rasagiline
+   [322]COMT inhibitors
+   [323]Entacapone  [324]Tolcapone
+   [325]Dopa decarboxylase inhibitor
+   [326]Carbidopa  [327]Benserazide
+   Multiple/unknown
+   [328]Amantadine  [329]Budipine
+   Combinations
+   [330]Carbidopa/levodopa
+   Retrieved from "[331]http://en.wikipedia.org/wiki/Cabergoline"
+   [332]Categories: [333]Lysergamides | [334]Dopamine agonists |
+   [335]Ureas
+   Hidden categories: [336]All articles with unsourced statements |
+   [337]Articles with unsourced statements since February 2008
+
+Views
+
+     * [338]Article
+     * [339]Discussion
+     * [340]Edit this page
+     * [341]History
+
+Personal tools
+
+     * [342]Log in / create account
+
+Navigation
+
+     * [343]Main page
+     * [344]Contents
+     * [345]Featured content
+     * [346]Current events
+     * [347]Random article
+
+Search
+
+   ____________________ Go  Search
+
+Interaction
+
+     * [348]About Wikipedia
+     * [349]Community portal
+     * [350]Recent changes
+     * [351]Contact Wikipedia
+     * [352]Donate to Wikipedia
+     * [353]Help
+
+Toolbox
+
+     * [354]What links here
+     * [355]Related changes
+     * [356]Upload file
+     * [357]Special pages
+     * [358]Printable version
+     * [359]Permanent link
+     * [360]Cite this page
+
+Languages
+
+     * [361]Deutsch
+     * [362]Espaol
+     * [363]Svenska
+
+   [364]Powered by MediaWiki
+   [365]Wikimedia Foundation
+     * This page was last modified on 17 February 2009, at 05:26.
+     * All text is available under the terms of the [366]GNU Free
+       Documentation License. (See [367]Copyrights for details.)
+       Wikipedia® is a registered trademark of the [368]Wikimedia
+       Foundation, Inc., a U.S. registered [369]501(c)(3)
+       [370]tax-deductible [371]nonprofit [372]charity.
+     * [373]Privacy policy
+     * [374]About Wikipedia
+     * [375]Disclaimers
+
+References
+
+   Visible links
+   1. http://en.wikipedia.org/w/index.php?title=Cabergoline&action=edit
+   2. file://localhost/w/opensearch_desc.php
+   3. http://www.gnu.org/copyleft/fdl.html
+   4. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=rss
+   5. http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+   6. file://localhost/w/index.php?title=Dostinex&redirect=no
+   7. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#column-one
+   8. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#searchInput
+   9. file://localhost/wiki/International_Union_of_Pure_and_Applied_Chemistry_nomenclature
+  10. file://localhost/wiki/CAS_registry_number
+  11. http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?term=81409-90-7&rn=1
+  12. file://localhost/wiki/Anatomical_Therapeutic_Chemical_Classification_System
+  13. file://localhost/wiki/ATC_code_G02
+  14. http://www.whocc.no/atcddd/indexdatabase/index.php?query=G02CB03
+  15. file://localhost/wiki/ATC_code_N04
+  16. http://www.whocc.no/atcddd/indexdatabase/index.php?query=N04BC06
+  17. file://localhost/wiki/PubChem
+  18. http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54746
+  19. file://localhost/wiki/DrugBank
+  20. http://www.drugbank.ca/cgi-bin/show_drug.cgi?CARD=APRD00836
+  21. file://localhost/wiki/ChemSpider
+  22. http://www.chemspider.com/Chemical-Structure.49452
+  23. file://localhost/wiki/Chemical_formula
+  24. file://localhost/wiki/Carbon
+  25. file://localhost/wiki/Hydrogen
+  26. file://localhost/wiki/Nitrogen
+  27. file://localhost/wiki/Oxygen
+  28. file://localhost/wiki/Molecular_mass
+  29. file://localhost/wiki/Bioavailability
+  30. file://localhost/wiki/Plasma_protein_binding
+  31. file://localhost/wiki/Drug_metabolism
+  32. file://localhost/wiki/Biological_half-life
+  33. file://localhost/wiki/Excretion
+  34. file://localhost/wiki/Pregnancy_category
+  35. file://localhost/wiki/United_States
+  36. file://localhost/wiki/Regulation_of_therapeutic_goods
+  37. file://localhost/wiki/Prescription_drug
+  38. file://localhost/wiki/United_States
+  39. file://localhost/wiki/Route_of_administration
+  40. file://localhost/wiki/Dopamine
+  41. file://localhost/wiki/Receptor_(biochemistry)
+  42. file://localhost/wiki/Agonist
+  43. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-0
+  44. file://localhost/w/index.php?title=Lactophilic&action=edit&redlink=1
+  45. file://localhost/wiki/Hypothalamus
+  46. file://localhost/wiki/Cell_(biology)
+  47. file://localhost/wiki/Prolactin
+  48. file://localhost/wiki/Pituitary_gland
+  49. file://localhost/wiki/Prolactinoma
+  50. file://localhost/wiki/Bromocriptine
+  51. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#History
+  52. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Intellectual_property
+  53. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Pharmacokinetics
+  54. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Carcinogenity
+  55. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Uses
+  56. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Off-label.2Frecreational_uses
+  57. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Contraindications_and_precautions
+  58. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Pregnancy_and_lactation
+  59. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Side_effects
+  60. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Valvular_heart_disease
+  61. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Interactions
+  62. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#Dosage
+  63. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#External_links
+  64. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#References
+  65. file://localhost/w/index.php?title=Cabergoline&action=edit&section=1
+  66. file://localhost/wiki/Milan
+  67. file://localhost/wiki/Ergot
+  68. file://localhost/wiki/Pharmacia
+  69. file://localhost/wiki/Pfizer
+  70. file://localhost/wiki/Generic
+  71. file://localhost/w/index.php?title=Cabergoline&action=edit&section=2
+  72. file://localhost/w/index.php?title=Cabergoline&action=edit&section=3
+  73. file://localhost/wiki/Dose
+  74. file://localhost/wiki/Gastrointestinal_tract
+  75. file://localhost/wiki/Food
+  76. file://localhost/wiki/Human
+  77. file://localhost/wiki/Bioavailability
+  78. file://localhost/wiki/Mice
+  79. file://localhost/wiki/Rats
+  80. file://localhost/wiki/Metabolism
+  81. file://localhost/wiki/Liver
+  82. file://localhost/wiki/Bile
+  83. file://localhost/wiki/Urine
+  84. file://localhost/wiki/Metabolites
+  85. file://localhost/wiki/Half_life
+  86. file://localhost/wiki/Parkinsons_disease
+  87. file://localhost/wiki/Pituitary_gland
+  88. file://localhost/wiki/Tumor
+  89. file://localhost/wiki/Half_life
+  90. file://localhost/w/index.php?title=Cabergoline&action=edit&section=4
+  91. file://localhost/wiki/Rodents
+  92. file://localhost/wiki/Malignancy
+  93. file://localhost/wiki/Correlation
+  94. file://localhost/wiki/Species
+  95. file://localhost/wiki/Data
+  96. file://localhost/wiki/Carcinogenesis
+  97. file://localhost/wiki/Wikipedia:Citation_needed
+  98. file://localhost/w/index.php?title=Cabergoline&action=edit&section=5
+  99. file://localhost/wiki/Parkinson%27s_disease
+ 100. file://localhost/wiki/Levodopa
+ 101. file://localhost/wiki/Decarboxylase
+ 102. file://localhost/wiki/Carbidopa
+ 103. file://localhost/w/index.php?title=Microprolactinoma&action=edit&redlink=1
+ 104. file://localhost/wiki/Ablactation
+ 105. file://localhost/wiki/Dysfunction
+ 106. file://localhost/wiki/Hyperprolactinemia
+ 107. file://localhost/wiki/Amenorrhea
+ 108. file://localhost/wiki/Oligomenorrhea
+ 109. file://localhost/wiki/Anovulation
+ 110. file://localhost/wiki/Galactorrhea
+ 111. file://localhost/w/index.php?title=Cabergoline&action=edit&section=6
+ 112. file://localhost/wiki/SSRI
+ 113. file://localhost/wiki/Antidepressants
+ 114. file://localhost/wiki/Side_effects
+ 115. file://localhost/wiki/Drugs
+ 116. file://localhost/wiki/Libido
+ 117. file://localhost/wiki/Anorgasmia
+ 118. file://localhost/wiki/Recreational
+ 119. file://localhost/wiki/Refractory_period_(sex)
+ 120. file://localhost/wiki/Gynecomastia
+ 121. file://localhost/wiki/Anabolic_steroid
+ 122. file://localhost/wiki/Nandrolone
+ 123. file://localhost/wiki/Trenbolone
+ 124. file://localhost/wiki/In_vitro_fertilization
+ 125. file://localhost/wiki/IVF
+ 126. file://localhost/w/index.php?title=Cabergoline&action=edit&section=7
+ 127. file://localhost/wiki/Hypersensitivity
+ 128. file://localhost/wiki/Ergot
+ 129. file://localhost/wiki/Derivative
+ 130. file://localhost/wiki/Pediatric
+ 131. file://localhost/wiki/Cholestasis
+ 132. file://localhost/w/index.php?title=Co-medication&action=edit&redlink=1
+ 133. file://localhost/wiki/Erythromycin
+ 134. file://localhost/wiki/Ketoconazole
+ 135. file://localhost/wiki/Blood_plasma
+ 136. file://localhost/wiki/Cardiovascular_disease
+ 137. file://localhost/wiki/Raynaud%27s_disease
+ 138. file://localhost/wiki/Peptic_ulcer
+ 139. file://localhost/wiki/Hypotension
+ 140. file://localhost/w/index.php?title=Cabergoline&action=edit&section=8
+ 141. file://localhost/wiki/Pregnancy
+ 142. file://localhost/wiki/Abortion
+ 143. file://localhost/wiki/Congenital
+ 144. file://localhost/wiki/Lactation
+ 145. file://localhost/wiki/Milk
+ 146. file://localhost/w/index.php?title=Cabergoline&action=edit&section=9
+ 147. file://localhost/wiki/Clinical_trial
+ 148. file://localhost/wiki/Nausea
+ 149. file://localhost/wiki/Obstipation
+ 150. file://localhost/wiki/Vomiting
+ 151. file://localhost/wiki/Dyspepsia
+ 152. file://localhost/wiki/Psychiatry
+ 153. file://localhost/wiki/Central_nervous_system
+ 154. file://localhost/wiki/Somnolence
+ 155. file://localhost/wiki/Insomnia
+ 156. file://localhost/wiki/Vertigo_(medical)
+ 157. file://localhost/wiki/Clinical_depression
+ 158. file://localhost/wiki/Dyskinesia
+ 159. file://localhost/wiki/Hallucinations
+ 160. file://localhost/wiki/Edema
+ 161. file://localhost/wiki/Arrhythmias
+ 162. file://localhost/wiki/Palpitations
+ 163. file://localhost/wiki/Angina_pectoris
+ 164. file://localhost/wiki/Hematology
+ 165. file://localhost/wiki/Enzymes
+ 166. file://localhost/wiki/Serum
+ 167. file://localhost/wiki/Creatinine
+ 168. file://localhost/wiki/Signs
+ 169. file://localhost/wiki/Symptoms
+ 170. file://localhost/wiki/Pleuritis
+ 171. file://localhost/wiki/Exudative
+ 172. file://localhost/wiki/Fibrosis
+ 173. file://localhost/wiki/Lung
+ 174. file://localhost/wiki/Pericarditis
+ 175. file://localhost/wiki/Normalization
+ 176. file://localhost/wiki/X-ray
+ 177. file://localhost/wiki/Withdrawal
+ 178. file://localhost/wiki/Incidence_(epidemiology)
+ 179. file://localhost/wiki/Severity
+ 180. file://localhost/w/index.php?title=Cabergoline&action=edit&section=10
+ 181. file://localhost/wiki/New_England_Journal_of_Medicine
+ 182. file://localhost/wiki/Pergolide
+ 183. file://localhost/wiki/Valvular_heart_disease
+ 184. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-1
+ 185. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-2
+ 186. file://localhost/wiki/Dopamine_agonist
+ 187. file://localhost/wiki/Food_and_Drug_Administration
+ 188. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-3
+ 189. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-4
+ 190. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_note-5
+ 191. file://localhost/w/index.php?title=Cabergoline&action=edit&section=11
+ 192. file://localhost/wiki/Interactions
+ 193. file://localhost/wiki/Selegiline
+ 194. file://localhost/wiki/Antagonists
+ 195. file://localhost/wiki/Antipsychotics
+ 196. file://localhost/wiki/Metoclopramide
+ 197. file://localhost/wiki/Antihypertensive
+ 198. file://localhost/w/index.php?title=Cabergoline&action=edit&section=12
+ 199. file://localhost/w/index.php?title=Cabergoline&action=edit&section=13
+ 200. http://www.mayoclinic.com/health/drug-information/DR600285
+ 201. file://localhost/w/index.php?title=Cabergoline&action=edit&section=14
+ 202. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-0
+ 203. http://www.rxlist.com/cgi/generic/cabergoline.htm
+ 204. http://www.rxlist.com/cgi/generic/cabergoline.htm
+ 205. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-1
+ 206. http://content.nejm.org/cgi/content/full/356/1/29
+ 207. http://content.nejm.org/cgi/content/full/356/1/29
+ 208. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-2
+ 209. http://content.nejm.org/cgi/content/full/356/1/39
+ 210. http://content.nejm.org/cgi/content/full/356/1/39
+ 211. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-3
+ 212. http://www.fda.gov/cder/drug/advisory/pergolide.htm
+ 213. http://www.fda.gov/cder/drug/advisory/pergolide.htm
+ 214. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-4
+ 215. http://www3.interscience.wiley.com/journal/120125183/abstract?CRETRY=1&SRETRY=0
+ 216. file://localhost/bos/tmp0/anaghak/11-441/HW1/clueweb09_wikipedia_15p-subset-60000-docs-html/wiki-doc259.tmp.html#cite_ref-5
+ 217. http://www.eje-online.org/cgi/content/abstract/159/4/R11
+ 218. file://localhost/wiki/Template:Ergolines
+ 219. file://localhost/w/index.php?title=Template_talk:Ergolines&action=edit&redlink=1
+ 220. http://en.wikipedia.org/w/index.php?title=Template:Ergolines&action=edit
+ 221. file://localhost/wiki/Ergoline
+ 222. file://localhost/wiki/Lysergic_acid
+ 223. file://localhost/wiki/Bromocriptine
+ 224. file://localhost/wiki/Ergine
+ 225. file://localhost/wiki/Ergoloid
+ 226. file://localhost/wiki/Ergonovine
+ 227. file://localhost/wiki/Ergotamine
+ 228. file://localhost/wiki/Lysergic_acid
+ 229. file://localhost/wiki/Lysergol
+ 230. file://localhost/wiki/LSD
+ 231. file://localhost/wiki/D-Lysergic_acid_N-(%CE%B1-hydroxyethyl)amide
+ 232. file://localhost/wiki/Lisuride
+ 233. file://localhost/wiki/Lysergic_acid_methyl_ester
+ 234. file://localhost/wiki/Methergine
+ 235. file://localhost/wiki/Methysergide
+ 236. file://localhost/wiki/Pergolide
+ 237. file://localhost/wiki/Hallucinogenic
+ 238. file://localhost/wiki/Lysergamides
+ 239. file://localhost/wiki/AL-LAD
+ 240. file://localhost/wiki/ALD-52
+ 241. file://localhost/wiki/BU-LAD
+ 242. file://localhost/wiki/CYP-LAD
+ 243. file://localhost/wiki/N,N-Diallyllysergamide
+ 244. file://localhost/wiki/DAM-57
+ 245. file://localhost/wiki/Ergonovine
+ 246. file://localhost/wiki/ETH-LAD
+ 247. file://localhost/wiki/LAE-32
+ 248. file://localhost/wiki/LSD
+ 249. file://localhost/wiki/LPD-824
+ 250. file://localhost/wiki/LSM-775
+ 251. file://localhost/wiki/D-Lysergic_acid_N-(%CE%B1-hydroxyethyl)amide
+ 252. file://localhost/wiki/Lysergic_acid_2-butyl_amide
+ 253. file://localhost/wiki/Lysergic_acid_2,4-dimethylazetidide
+ 254. file://localhost/wiki/Methylergonovine
+ 255. file://localhost/wiki/Methylisopropyllysergamide
+ 256. file://localhost/wiki/MLD-41
+ 257. file://localhost/wiki/PARGY-LAD
+ 258. file://localhost/wiki/PRO-LAD
+ 259. file://localhost/wiki/Ergoline
+ 260. file://localhost/wiki/Hawaiian_baby_woodrose
+ 261. file://localhost/wiki/Ergot
+ 262. file://localhost/wiki/Ipomoea_tricolor
+ 263. file://localhost/wiki/Ipomoea_violacea
+ 264. file://localhost/wiki/Rivea_corymbosa
+ 265. file://localhost/wiki/Template:Other_gynecologicals
+ 266. file://localhost/w/index.php?title=Template_talk:Other_gynecologicals&action=edit&redlink=1
+ 267. http://en.wikipedia.org/w/index.php?title=Template:Other_gynecologicals&action=edit
+ 268. file://localhost/wiki/Gynecological
+ 269. file://localhost/wiki/ATC_code_G02#G02C_Other_gynecologicals
+ 270. file://localhost/wiki/Sympathomimetic
+ 271. file://localhost/wiki/Tocolytic
+ 272. file://localhost/wiki/Ritodrine
+ 273. file://localhost/wiki/Buphenine
+ 274. file://localhost/wiki/Fenoterol
+ 275. file://localhost/wiki/Prolactin
+ 276. file://localhost/wiki/Bromocriptine
+ 277. file://localhost/wiki/Lisuride
+ 278. file://localhost/wiki/Quinagolide
+ 279. file://localhost/wiki/Metergoline
+ 280. file://localhost/wiki/Terguride
+ 281. file://localhost/wiki/Anti-inflammatory
+ 282. file://localhost/wiki/Vaginal
+ 283. file://localhost/wiki/Ibuprofen
+ 284. file://localhost/wiki/Naproxen
+ 285. file://localhost/wiki/Benzydamine
+ 286. file://localhost/wiki/Flunoxaprofen
+ 287. file://localhost/wiki/Atosiban
+ 288. file://localhost/wiki/Template:Dopaminergic_agents
+ 289. file://localhost/w/index.php?title=Template_talk:Dopaminergic_agents&action=edit&redlink=1
+ 290. http://en.wikipedia.org/w/index.php?title=Template:Dopaminergic_agents&action=edit
+ 291. file://localhost/wiki/Antiparkinson_drug
+ 292. file://localhost/wiki/Dopaminergic
+ 293. file://localhost/wiki/ATC_code_N04#N04B_Dopaminergic_agents
+ 294. file://localhost/wiki/L-DOPA
+ 295. file://localhost/wiki/Levodopa
+ 296. file://localhost/wiki/Droxidopa
+ 297. file://localhost/wiki/Melevodopa
+ 298. file://localhost/wiki/Etilevodopa
+ 299. file://localhost/wiki/Dopamine_agonist
+ 300. file://localhost/wiki/A-412,997
+ 301. file://localhost/wiki/Aplindore
+ 302. file://localhost/wiki/Apomorphine
+ 303. file://localhost/wiki/Bromocriptine
+ 304. file://localhost/wiki/Dihydrexidine
+ 305. file://localhost/wiki/Dihydroergocryptine
+ 306. file://localhost/wiki/Fenoldopam
+ 307. file://localhost/wiki/Lisuride
+ 308. file://localhost/wiki/Pergolide
+ 309. file://localhost/wiki/Piribedil
+ 310. file://localhost/wiki/Pramipexole
+ 311. file://localhost/wiki/Propylnorapomorphine
+ 312. file://localhost/wiki/Quinpirole
+ 313. file://localhost/wiki/Ropinirole
+ 314. file://localhost/wiki/Rotigotine
+ 315. file://localhost/wiki/SKF_38393
+ 316. file://localhost/wiki/SKF_82958
+ 317. file://localhost/wiki/Enzyme_inhibitor
+ 318. file://localhost/wiki/Monoamine_oxidase_inhibitor
+ 319. file://localhost/wiki/Monoamine_oxidase_B
+ 320. file://localhost/wiki/Selegiline
+ 321. file://localhost/wiki/Rasagiline
+ 322. file://localhost/wiki/COMT_inhibitor
+ 323. file://localhost/wiki/Entacapone
+ 324. file://localhost/wiki/Tolcapone
+ 325. file://localhost/wiki/Dopa_decarboxylase_inhibitor
+ 326. file://localhost/wiki/Carbidopa
+ 327. file://localhost/wiki/Benserazide
+ 328. file://localhost/wiki/Amantadine
+ 329. file://localhost/wiki/Budipine
+ 330. file://localhost/wiki/Carbidopa/levodopa
+ 331. http://en.wikipedia.org/wiki/Cabergoline
+ 332. file://localhost/wiki/Special:Categories
+ 333. file://localhost/wiki/Category:Lysergamides
+ 334. file://localhost/wiki/Category:Dopamine_agonists
+ 335. file://localhost/wiki/Category:Ureas
+ 336. file://localhost/wiki/Category:All_articles_with_unsourced_statements
+ 337. file://localhost/wiki/Category:Articles_with_unsourced_statements_since_February_2008
+ 338. file://localhost/wiki/Cabergoline
+ 339. file://localhost/wiki/Talk:Cabergoline
+ 340. file://localhost/w/index.php?title=Cabergoline&action=edit
+ 341. file://localhost/w/index.php?title=Cabergoline&action=history
+ 342. file://localhost/w/index.php?title=Special:UserLogin&returnto=Cabergoline
+ 343. file://localhost/wiki/Main_Page
+ 344. file://localhost/wiki/Portal:Contents
+ 345. file://localhost/wiki/Portal:Featured_content
+ 346. file://localhost/wiki/Portal:Current_events
+ 347. file://localhost/wiki/Special:Random
+ 348. file://localhost/wiki/Wikipedia:About
+ 349. file://localhost/wiki/Wikipedia:Community_portal
+ 350. file://localhost/wiki/Special:RecentChanges
+ 351. file://localhost/wiki/Wikipedia:Contact_us
+ 352. http://wikimediafoundation.org/wiki/Donate
+ 353. file://localhost/wiki/Help:Contents
+ 354. file://localhost/wiki/Special:WhatLinksHere/Cabergoline
+ 355. file://localhost/wiki/Special:RecentChangesLinked/Cabergoline
+ 356. file://localhost/wiki/Wikipedia:Upload
+ 357. file://localhost/wiki/Special:SpecialPages
+ 358. file://localhost/w/index.php?title=Cabergoline&printable=yes
+ 359. file://localhost/w/index.php?title=Cabergoline&oldid=271284950
+ 360. file://localhost/w/index.php?title=Special:Cite&page=Cabergoline&id=271284950
+ 361. http://de.wikipedia.org/wiki/Cabergolin
+ 362. http://es.wikipedia.org/wiki/Cabergolina
+ 363. http://sv.wikipedia.org/wiki/Kabergolin
+ 364. http://www.mediawiki.org/
+ 365. http://wikimediafoundation.org/
+ 366. http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License
+ 367. http://en.wikipedia.org/wiki/Wikipedia:Copyrights
+ 368. http://www.wikimediafoundation.org/
+ 369. http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29
+ 370. http://wikimediafoundation.org/wiki/Deductibility_of_donations
+ 371. http://en.wikipedia.org/wiki/Non-profit_organization
+ 372. http://en.wikipedia.org/wiki/Charitable_organization
+ 373. http://wikimediafoundation.org/wiki/Privacy_policy
+ 374. file://localhost/wiki/Wikipedia:About
+ 375. file://localhost/wiki/Wikipedia:General_disclaimer
+
+   Hidden links:
+ 376. file://localhost/wiki/File:Cabergoline.svg
+ 377. file://localhost/wiki/Main_Page
