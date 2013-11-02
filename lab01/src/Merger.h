@@ -22,6 +22,7 @@ public:
     Merger(std::string);
     virtual ~Merger();
 
+    virtual void merge(std::string);
     virtual void run();
 
 };

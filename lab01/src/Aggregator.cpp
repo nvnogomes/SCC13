@@ -47,12 +47,10 @@ Aggregator::~Aggregator(){}
  * @param file
  * @return
  */
-void Aggregator::merge(void *file) {
-
-    struct Files *f = (struct Files *) file;
+void Aggregator::aggregate(Files agg_files) {
 
     if( DEBUG ) {
-        std::cout << "APPENDING " << f->base << " with " << f->append << std::endl;
+        std::cout << "APPENDING " << agg_files.base << " with " << agg_files.append << std::endl;
     }
 
     const int LEN=8192;
@@ -65,10 +63,13 @@ void Aggregator::merge(void *file) {
     src.rdbuf()->pubsetbuf(buffer_out, LEN );
     app.rdbuf()->pubsetbuf(buffer_in, LEN);
 
-    app.open(f->append, std::ios::in | std::ios::binary);
-    src.open(f->base, std::ios::out | std::ios::app | std::ios::binary);
+    app.open(agg_files.append, std::ios::in | std::ios::binary);
+    src.open(agg_files.base, std::ios::out | std::ios::app | std::ios::binary);
     src << app.rdbuf();
     app.sync();
+
+    app.close();
+    src.close();
 }
 
 
@@ -99,7 +100,7 @@ void Aggregator::merge_cycle(std::vector<std::string> file_list) {
         indexes.base = file_list[i];
         indexes.append = file_list[i+1];
 
-        this->merge( (void*) &indexes);
+        this->aggregate( indexes );
 
         files_remaining.push_back(file_list[i]);
     }

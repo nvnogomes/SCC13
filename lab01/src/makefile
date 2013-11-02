@@ -18,7 +18,7 @@ PTHREADS = -lpthread
 .SILENT:	# don't echo commands executed
 
 
-all: index agg merger sandbox
+all: index agg merger sandbox mpi
 clean: clean_output clean_bin
 alpha: index sandbox
 beta: merger sandbox
@@ -35,7 +35,7 @@ merger:
 	$(CC) $(STDFLAG) $(CFLAGS) -o ../bin/merger.o -c Merger.cpp
 
 mpi:
-	$(MPICC) $(CFLAGS) -o ../bin/mpi ../bin/indexer.o ../bin/aggregator.o MPI_Index.cpp
+	$(MPICC) $(CFLAGS) -o ../bin/mpi ../bin/indexer.o ../bin/aggregator.o ../bin/merger.o MPI_Index.cpp
 
 
 sandbox:

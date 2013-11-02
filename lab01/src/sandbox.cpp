@@ -160,7 +160,7 @@ void testindexes() {
 int main(int argc, char** argv) {
     std::cout << "Running sandbox..." << std::endl;
 
-    std::vector<std::string> files = list_data_directory( DATA_SET_2 );
+    std::vector<std::string> files = list_data_directory( DATA_SET_3 );
     run_index( files );
     run_merge();
     run_aggregator();

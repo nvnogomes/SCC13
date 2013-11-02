@@ -55,15 +55,13 @@ Merger
 
 Aggregator
 -Input
-	Directoria com índices por letra a fundir, de extensão .index na directoria
+	Directoria com índices por letra a fundir, de extensão .partialindex na directoria
 	indicada ou a directoria corrente se inicializado sem argumento.
 	
 -Output
 	Ficheiro com índice global.
 	Entradas com formato: <letra><LF><palavra><LF><ocorrências><ficheiro>.
-	
--Algoritmo
-	25 Threads para fundir documento numa estrutura thread-safe?
+
 
 
 MPI_Index
@@ -87,7 +85,3 @@ Makefile
         sandbox programa de testes
         merger	programa de merge/sort dos índice por letra
         clean	remoção de binários e outputs
-        
-
-Aspecto importante no ambiente remoto
-Não esquecer: localização relativo ao local de invocação!

@@ -48,6 +48,17 @@ Merger::~Merger() {}
 
 
 /**
+ * @brief Merger::merge
+ * @param file
+ */
+void Merger::merge(std::string filename) {
+    this->merge_file( filename );
+    this->save( filename );
+    letter_map_.clear();
+}
+
+
+/**
  * @brief Merger::run
  */
 void Merger::run() {
@@ -67,9 +78,7 @@ void Merger::run() {
     std::list<std::string>::iterator file_iterator = files.begin();
     for(; file_iterator != files.end(); file_iterator++ ) {
 
-        this->merge_file( (*file_iterator) );
-        this->save( (*file_iterator) );
-        letter_map_.clear();
+        this->merge( (*file_iterator) );
     }
 }
 

@@ -138,10 +138,6 @@ void Indexer::save() {
  */
 void Indexer::run() {
 
-    if( DEBUG ) {
-        std::cout << "Running Indexer..." << std::endl;
-    }
-
     std::ifstream input( this->filename_.c_str(), std::ios::in );
 
     if( input.is_open() ) {
@@ -157,13 +153,11 @@ void Indexer::run() {
             }
         }
         input.close();
+
+        this->save();
     }
     else {
         std::cerr << "Error: Could not open file." << std::endl;
-    }
-
-    if( DEBUG ) {
-        std::cout << this->filename_ << " #" << this->histogram_.size() << std::endl;
     }
 }
 
